@@ -1,0 +1,577 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+52,UWM,ProShares Ultra Russell2000,5,60,14,39,59,1.0,10.0,184.21,41.62,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,59,1.0,10.0,184.21,1045.92,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,59,1.0,10.0,184.21,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,39,59,1.0,10.0,184.21,56.46,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,60,14,39,59,1.0,10.0,184.21,135.53,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,60,14,39,59,1.0,10.0,184.21,177.48,27.61,43.49
+52,UYM,ProShares Ultra Materials,5,60,14,39,59,1.0,10.0,184.21,16.67,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,59,1.0,10.0,184.21,0.0,27.53,49.87
+52,UWM,ProShares Ultra Russell2000,5,60,14,39,64,1.0,10.0,172.16,45.53,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,64,1.0,10.0,172.16,1045.92,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,64,1.0,10.0,172.16,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,39,64,1.0,10.0,172.16,70.42,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,60,14,39,64,1.0,10.0,172.16,83.78,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,60,14,39,64,1.0,10.0,172.16,109.52,27.61,43.49
+52,UYM,ProShares Ultra Materials,5,60,14,39,64,1.0,10.0,172.16,22.09,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,64,1.0,10.0,172.16,0.0,27.53,49.87
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,64,1.0,10.0,171.99,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,44,64,1.0,10.0,171.99,26.64,20.9,43.37
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,64,1.0,10.0,171.99,0.0,30.21,44.54
+52,UWM,ProShares Ultra Russell2000,5,120,14,44,64,1.0,10.0,171.99,51.74,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,64,1.0,10.0,171.99,1011.2,23.56,47.64
+52,UYG,ProShares Ultra Financials,5,120,14,44,64,1.0,10.0,171.99,90.28,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,120,14,44,64,1.0,10.0,171.99,117.67,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,120,14,44,64,1.0,10.0,171.99,78.35,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,39,69,1.0,10.0,171.06,82.13,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,60,14,39,69,1.0,10.0,171.06,72.12,25.2,40.51
+52,UYM,ProShares Ultra Materials,5,60,14,39,69,1.0,10.0,171.06,15.02,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,69,1.0,10.0,171.06,0.0,27.53,49.87
+52,UWM,ProShares Ultra Russell2000,5,60,14,39,69,1.0,10.0,171.06,50.03,24.93,43.9
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,69,1.0,10.0,171.06,0.0,30.21,44.54
+52,SAA,ProShares Ultra SmallCap600,5,60,14,39,69,1.0,10.0,171.06,103.22,27.61,43.49
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,69,1.0,10.0,171.06,1045.92,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,44,69,1.0,10.0,169.89,59.38,24.93,43.9
+52,UYM,ProShares Ultra Materials,5,120,14,44,69,1.0,10.0,169.89,16.11,20.9,43.37
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,69,1.0,10.0,169.89,1011.2,23.56,47.64
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,69,1.0,10.0,169.89,0.0,27.53,49.87
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,69,1.0,10.0,169.89,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,120,14,44,69,1.0,10.0,169.89,89.96,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,120,14,44,69,1.0,10.0,169.89,108.92,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,120,14,44,69,1.0,10.0,169.89,73.55,27.61,43.49
+52,UWM,ProShares Ultra Russell2000,5,120,14,44,59,1.0,10.0,161.68,43.99,24.93,43.9
+52,SAA,ProShares Ultra SmallCap600,5,120,14,44,59,1.0,10.0,161.68,54.02,27.61,43.49
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,59,1.0,10.0,161.68,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,120,14,44,59,1.0,10.0,161.68,74.11,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,120,14,44,59,1.0,10.0,161.68,89.31,27.06,40.01
+52,UYM,ProShares Ultra Materials,5,120,14,44,59,1.0,10.0,161.68,20.79,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,59,1.0,10.0,161.68,0.0,27.53,49.87
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,59,1.0,10.0,161.68,1011.2,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,60,14,44,64,1.0,10.0,149.04,29.17,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,64,1.0,10.0,149.04,1045.92,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,64,1.0,10.0,149.04,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,44,64,1.0,10.0,149.04,45.75,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,60,14,44,64,1.0,10.0,149.04,26.99,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,60,14,44,64,1.0,10.0,149.04,22.38,27.61,43.49
+52,UYM,ProShares Ultra Materials,5,60,14,44,64,1.0,10.0,149.04,22.09,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,64,1.0,10.0,149.04,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,60,14,39,74,1.0,10.0,147.57,17.34,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,39,74,1.0,10.0,147.57,30.94,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,39,74,1.0,10.0,147.57,29.82,27.06,40.01
+52,UWM,ProShares Ultra Russell2000,5,60,14,39,74,1.0,10.0,147.57,26.17,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,74,1.0,10.0,147.57,1045.92,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,74,1.0,10.0,147.57,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,39,74,1.0,10.0,147.57,30.39,25.2,40.51
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,74,1.0,10.0,147.57,0.0,27.53,49.87
+52,SAA,ProShares Ultra SmallCap600,5,60,14,44,69,1.0,10.0,147.32,23.75,27.61,43.49
+52,UYM,ProShares Ultra Materials,5,60,14,44,69,1.0,10.0,147.32,15.02,20.9,43.37
+52,MVV,ProShares Ultra MidCap400,5,60,14,44,69,1.0,10.0,147.32,27.25,27.06,40.01
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,69,1.0,10.0,147.32,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,69,1.0,10.0,147.32,1045.92,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,60,14,44,69,1.0,10.0,147.32,32.17,24.93,43.9
+52,UYG,ProShares Ultra Financials,5,60,14,44,69,1.0,10.0,147.32,34.43,25.2,40.51
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,69,1.0,10.0,147.32,0.0,27.53,49.87
+52,MVV,ProShares Ultra MidCap400,5,60,14,39,79,1.0,10.0,147.09,26.98,27.06,40.01
+52,UWM,ProShares Ultra Russell2000,5,60,14,39,79,1.0,10.0,147.09,28.47,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,79,1.0,10.0,147.09,1045.92,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,79,1.0,10.0,147.09,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,39,79,1.0,10.0,147.09,28.2,25.2,40.51
+52,SAA,ProShares Ultra SmallCap600,5,60,14,39,79,1.0,10.0,147.09,34.09,27.61,43.49
+52,UYM,ProShares Ultra Materials,5,60,14,39,79,1.0,10.0,147.09,13.07,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,79,1.0,10.0,147.09,0.0,27.53,49.87
+52,UWM,ProShares Ultra Russell2000,5,60,14,39,54,1.0,10.0,146.6,44.04,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,54,1.0,10.0,146.6,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,60,14,39,54,1.0,10.0,146.6,15.07,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,39,54,1.0,10.0,146.6,168.43,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,39,54,1.0,10.0,146.6,116.67,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,60,14,39,54,1.0,10.0,146.6,85.15,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,54,1.0,10.0,146.6,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,54,1.0,10.0,146.6,743.4,23.56,47.64
+52,MVV,ProShares Ultra MidCap400,5,60,14,44,59,1.0,10.0,146.22,24.67,27.06,40.01
+52,UYM,ProShares Ultra Materials,5,60,14,44,59,1.0,10.0,146.22,16.67,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,59,1.0,10.0,146.22,0.0,27.53,49.87
+52,UWM,ProShares Ultra Russell2000,5,60,14,44,59,1.0,10.0,146.22,24.32,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,59,1.0,10.0,146.22,1045.92,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,59,1.0,10.0,146.22,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,44,59,1.0,10.0,146.22,44.38,25.2,40.51
+52,SAA,ProShares Ultra SmallCap600,5,60,14,44,59,1.0,10.0,146.22,13.78,27.61,43.49
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,74,1.0,10.0,142.95,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,60,14,44,74,1.0,10.0,142.95,17.34,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,44,74,1.0,10.0,142.95,15.3,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,44,74,1.0,10.0,142.95,18.51,27.06,40.01
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,74,1.0,10.0,142.95,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,74,1.0,10.0,142.95,1045.92,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,60,14,44,74,1.0,10.0,142.95,20.77,24.93,43.9
+52,UYG,ProShares Ultra Financials,5,60,14,44,74,1.0,10.0,142.95,25.72,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,60,14,44,79,1.0,10.0,142.36,20.64,27.06,40.01
+52,UYM,ProShares Ultra Materials,5,60,14,44,79,1.0,10.0,142.36,13.07,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,79,1.0,10.0,142.36,0.0,27.53,49.87
+52,SAA,ProShares Ultra SmallCap600,5,60,14,44,79,1.0,10.0,142.36,18.42,27.61,43.49
+52,UWM,ProShares Ultra Russell2000,5,60,14,44,79,1.0,10.0,142.36,18.33,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,79,1.0,10.0,142.36,1045.92,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,79,1.0,10.0,142.36,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,44,79,1.0,10.0,142.36,22.52,25.2,40.51
+52,UWM,ProShares Ultra Russell2000,5,120,14,44,74,1.0,10.0,138.97,12.7,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,74,1.0,10.0,138.97,1011.2,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,74,1.0,10.0,138.97,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,120,14,44,74,1.0,10.0,138.97,32.79,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,120,14,44,74,1.0,10.0,138.97,18.19,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,120,14,44,74,1.0,10.0,138.97,18.34,27.61,43.49
+52,UYM,ProShares Ultra Materials,5,120,14,44,74,1.0,10.0,138.97,18.58,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,74,1.0,10.0,138.97,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,44,79,1.0,10.0,137.94,13.7,20.9,43.37
+52,UWM,ProShares Ultra Russell2000,5,120,14,44,79,1.0,10.0,137.94,12.7,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,79,1.0,10.0,137.94,1011.2,23.56,47.64
+52,UYG,ProShares Ultra Financials,5,120,14,44,79,1.0,10.0,137.94,29.37,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,120,14,44,79,1.0,10.0,137.94,18.19,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,120,14,44,79,1.0,10.0,137.94,18.34,27.61,43.49
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,79,1.0,10.0,137.94,0.0,27.53,49.87
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,79,1.0,10.0,137.94,0.0,30.21,44.54
+52,MVV,ProShares Ultra MidCap400,5,120,14,39,74,1.0,10.0,126.4,0.0,27.06,40.01
+52,UYM,ProShares Ultra Materials,5,120,14,39,64,1.0,10.0,126.4,0.0,20.9,43.37
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,74,1.0,10.0,126.4,1011.2,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,39,74,1.0,10.0,126.4,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,69,1.0,10.0,126.4,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,39,69,1.0,10.0,126.4,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,39,69,1.0,10.0,126.4,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,39,69,1.0,10.0,126.4,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,39,69,1.0,10.0,126.4,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,69,1.0,10.0,126.4,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,69,1.0,10.0,126.4,1011.2,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,39,69,1.0,10.0,126.4,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,64,1.0,10.0,126.4,0.0,27.53,49.87
+52,SAA,ProShares Ultra SmallCap600,5,120,14,39,64,1.0,10.0,126.4,0.0,27.61,43.49
+52,UYG,ProShares Ultra Financials,5,120,14,39,74,1.0,10.0,126.4,0.0,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,120,14,39,64,1.0,10.0,126.4,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,39,64,1.0,10.0,126.4,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,64,1.0,10.0,126.4,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,64,1.0,10.0,126.4,1011.2,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,39,64,1.0,10.0,126.4,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,59,1.0,10.0,126.4,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,39,59,1.0,10.0,126.4,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,39,59,1.0,10.0,126.4,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,39,59,1.0,10.0,126.4,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,39,59,1.0,10.0,126.4,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,59,1.0,10.0,126.4,0.0,30.21,44.54
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,74,1.0,10.0,126.4,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,59,1.0,10.0,126.4,1011.2,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,39,59,1.0,10.0,126.4,0.0,24.93,43.9
+52,UYG,ProShares Ultra Financials,5,120,14,39,79,1.0,10.0,126.4,0.0,25.2,40.51
+52,SAA,ProShares Ultra SmallCap600,5,120,14,39,74,1.0,10.0,126.4,0.0,27.61,43.49
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,79,1.0,10.0,126.4,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,39,79,1.0,10.0,126.4,0.0,20.9,43.37
+52,MVV,ProShares Ultra MidCap400,5,120,14,39,79,1.0,10.0,126.4,0.0,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,120,14,39,79,1.0,10.0,126.4,0.0,27.61,43.49
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,79,1.0,10.0,126.4,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,79,1.0,10.0,126.4,1011.2,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,39,79,1.0,10.0,126.4,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,74,1.0,10.0,126.4,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,39,74,1.0,10.0,126.4,0.0,20.9,43.37
+52,UWM,ProShares Ultra Russell2000,5,120,14,44,54,1.0,10.0,122.17,39.57,24.93,43.9
+52,SAA,ProShares Ultra SmallCap600,5,120,14,44,54,1.0,10.0,122.17,51.48,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,44,54,1.0,10.0,122.17,64.33,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,44,54,1.0,10.0,122.17,163.89,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,54,1.0,10.0,122.17,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,54,1.0,10.0,122.17,637.84,23.56,47.64
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,54,1.0,10.0,122.17,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,44,54,1.0,10.0,122.17,20.21,20.9,43.37
+52,UYM,ProShares Ultra Materials,5,60,14,44,54,1.0,10.0,119.62,27.13,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,44,54,1.0,10.0,119.62,33.79,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,44,54,1.0,10.0,119.62,68.39,27.06,40.01
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,54,1.0,10.0,119.62,0.0,30.21,44.54
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,54,1.0,10.0,119.62,0.0,27.53,49.87
+52,UWM,ProShares Ultra Russell2000,5,60,14,44,54,1.0,10.0,119.62,40.5,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,54,1.0,10.0,119.62,743.4,23.56,47.64
+52,UYG,ProShares Ultra Financials,5,60,14,44,54,1.0,10.0,119.62,43.79,25.2,40.51
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,54,1.0,10.0,92.61,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,60,14,49,54,1.0,10.0,92.61,33.61,20.9,43.37
+52,UWM,ProShares Ultra Russell2000,5,60,14,49,54,1.0,10.0,92.61,40.98,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,54,1.0,10.0,92.61,509.96,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,54,1.0,10.0,92.61,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,49,54,1.0,10.0,92.61,43.79,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,60,14,49,54,1.0,10.0,92.61,72.11,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,60,14,49,54,1.0,10.0,92.61,40.47,27.61,43.49
+52,SAA,ProShares Ultra SmallCap600,5,120,14,39,54,1.0,10.0,79.73,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,39,54,1.0,10.0,79.73,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,39,54,1.0,10.0,79.73,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,54,1.0,10.0,79.73,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,54,1.0,10.0,79.73,637.84,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,39,54,1.0,10.0,79.73,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,54,1.0,10.0,79.73,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,39,54,1.0,10.0,79.73,0.0,20.9,43.37
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,54,1.0,10.0,68.36,381.87,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,49,54,1.0,10.0,68.36,33.36,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,54,1.0,10.0,68.36,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,49,54,1.0,10.0,68.36,16.69,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,49,54,1.0,10.0,68.36,29.72,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,49,54,1.0,10.0,68.36,48.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,49,54,1.0,10.0,68.36,37.19,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,54,1.0,10.0,68.36,0.0,30.21,44.54
+52,UWM,ProShares Ultra Russell2000,5,60,14,49,64,1.0,10.0,21.35,23.87,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,64,1.0,10.0,21.35,29.94,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,64,1.0,10.0,21.35,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,49,64,1.0,10.0,21.35,45.75,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,60,14,49,64,1.0,10.0,21.35,26.36,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,60,14,49,64,1.0,10.0,21.35,24.93,27.61,43.49
+52,UYM,ProShares Ultra Materials,5,60,14,49,64,1.0,10.0,21.35,19.93,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,64,1.0,10.0,21.35,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,49,69,1.0,10.0,21.01,14.17,20.9,43.37
+52,UWM,ProShares Ultra Russell2000,5,120,14,49,69,1.0,10.0,21.01,29.29,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,69,1.0,10.0,21.01,23.06,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,69,1.0,10.0,21.01,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,120,14,49,69,1.0,10.0,21.01,47.15,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,120,14,49,69,1.0,10.0,21.01,27.77,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,120,14,49,69,1.0,10.0,21.01,26.62,27.61,43.49
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,69,1.0,10.0,21.01,0.0,27.53,49.87
+52,MVV,ProShares Ultra MidCap400,5,120,14,49,64,1.0,10.0,20.58,26.55,27.06,40.01
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,64,1.0,10.0,20.58,0.0,27.53,49.87
+52,UWM,ProShares Ultra Russell2000,5,120,14,49,64,1.0,10.0,20.58,25.48,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,64,1.0,10.0,20.58,23.06,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,64,1.0,10.0,20.58,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,120,14,49,64,1.0,10.0,20.58,44.75,25.2,40.51
+52,UYM,ProShares Ultra Materials,5,120,14,49,64,1.0,10.0,20.58,18.58,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,49,64,1.0,10.0,20.58,26.22,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,49,69,1.0,10.0,20.01,27.16,27.06,40.01
+52,UWM,ProShares Ultra Russell2000,5,60,14,49,69,1.0,10.0,20.01,27.31,24.93,43.9
+52,UYM,ProShares Ultra Materials,5,60,14,49,69,1.0,10.0,20.01,14.64,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,49,69,1.0,10.0,20.01,26.61,27.61,43.49
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,69,1.0,10.0,20.01,0.0,27.53,49.87
+52,UYG,ProShares Ultra Financials,5,60,14,49,69,1.0,10.0,20.01,34.43,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,69,1.0,10.0,20.01,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,69,1.0,10.0,20.01,29.94,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,60,14,49,59,1.0,10.0,18.8,19.2,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,59,1.0,10.0,18.8,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,60,14,49,59,1.0,10.0,18.8,17.53,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,49,59,1.0,10.0,18.8,15.5,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,49,59,1.0,10.0,18.8,23.89,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,60,14,49,59,1.0,10.0,18.8,44.38,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,59,1.0,10.0,18.8,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,59,1.0,10.0,18.8,29.94,23.56,47.64
+52,UYM,ProShares Ultra Materials,5,120,14,49,59,1.0,10.0,16.5,15.71,20.9,43.37
+52,UWM,ProShares Ultra Russell2000,5,120,14,49,59,1.0,10.0,16.5,19.89,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,59,1.0,10.0,16.5,23.06,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,59,1.0,10.0,16.5,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,120,14,49,59,1.0,10.0,16.5,37.66,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,120,14,49,59,1.0,10.0,16.5,23.02,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,120,14,49,59,1.0,10.0,16.5,12.64,27.61,43.49
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,59,1.0,10.0,16.5,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,60,14,49,74,1.0,10.0,16.3,16.54,20.9,43.37
+52,UWM,ProShares Ultra Russell2000,5,60,14,49,74,1.0,10.0,16.3,17.62,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,74,1.0,10.0,16.3,29.94,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,74,1.0,10.0,16.3,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,49,74,1.0,10.0,16.3,25.72,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,60,14,49,74,1.0,10.0,16.3,20.15,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,60,14,49,74,1.0,10.0,16.3,20.45,27.61,43.49
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,74,1.0,10.0,16.3,0.0,27.53,49.87
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,79,1.0,10.0,15.68,29.94,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,79,1.0,10.0,15.68,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,49,79,1.0,10.0,15.68,22.52,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,60,14,49,79,1.0,10.0,15.68,20.64,27.06,40.01
+52,UWM,ProShares Ultra Russell2000,5,60,14,49,79,1.0,10.0,15.68,15.75,24.93,43.9
+52,UYM,ProShares Ultra Materials,5,60,14,49,79,1.0,10.0,15.68,13.07,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,79,1.0,10.0,15.68,0.0,27.53,49.87
+52,SAA,ProShares Ultra SmallCap600,5,60,14,49,79,1.0,10.0,15.68,23.49,27.61,43.49
+52,UWM,ProShares Ultra Russell2000,5,120,14,49,74,1.0,10.0,15.66,19.3,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,74,1.0,10.0,15.66,23.06,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,74,1.0,10.0,15.66,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,120,14,49,74,1.0,10.0,15.66,32.79,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,120,14,49,74,1.0,10.0,15.66,17.44,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,120,14,49,74,1.0,10.0,15.66,16.55,27.61,43.49
+52,UYM,ProShares Ultra Materials,5,120,14,49,74,1.0,10.0,15.66,16.16,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,74,1.0,10.0,15.66,0.0,27.53,49.87
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,79,1.0,10.0,14.89,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,49,79,1.0,10.0,14.89,12.92,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,49,79,1.0,10.0,14.89,17.82,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,49,79,1.0,10.0,14.89,18.84,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,49,79,1.0,10.0,14.89,29.37,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,79,1.0,10.0,14.89,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,79,1.0,10.0,14.89,23.06,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,49,79,1.0,10.0,14.89,17.13,24.93,43.9
+52,SAA,ProShares Ultra SmallCap600,5,60,14,34,54,1.0,10.0,14.88,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,34,54,1.0,10.0,14.88,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,60,14,34,54,1.0,10.0,14.88,105.14,25.2,40.51
+52,UYM,ProShares Ultra Materials,5,60,14,34,54,1.0,10.0,14.88,13.9,20.9,43.37
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,54,1.0,10.0,14.88,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,54,1.0,10.0,14.88,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,60,14,34,54,1.0,10.0,14.88,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,54,1.0,10.0,14.88,0.0,27.53,49.87
+52,UWM,ProShares Ultra Russell2000,5,60,14,29,54,1.0,10.0,13.14,0.0,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,54,1.0,10.0,13.14,0.0,23.56,47.64
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,54,1.0,10.0,13.14,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,60,14,29,54,1.0,10.0,13.14,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,29,54,1.0,10.0,13.14,0.0,27.61,43.49
+52,UYG,ProShares Ultra Financials,5,60,14,29,54,1.0,10.0,13.14,105.14,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,54,1.0,10.0,13.14,0.0,30.21,44.54
+52,MVV,ProShares Ultra MidCap400,5,60,14,29,54,1.0,10.0,13.14,0.0,27.06,40.01
+52,UWM,ProShares Ultra Russell2000,5,60,14,34,74,1.0,10.0,8.52,0.0,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,74,1.0,10.0,8.52,0.0,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,74,1.0,10.0,8.52,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,34,74,1.0,10.0,8.52,57.37,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,60,14,34,74,1.0,10.0,8.52,0.0,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,60,14,34,74,1.0,10.0,8.52,0.0,27.61,43.49
+52,UYM,ProShares Ultra Materials,5,60,14,34,74,1.0,10.0,8.52,10.77,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,74,1.0,10.0,8.52,0.0,27.53,49.87
+52,SAA,ProShares Ultra SmallCap600,5,60,14,34,64,1.0,10.0,8.4,0.0,27.61,43.49
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,64,1.0,10.0,8.4,0.0,27.53,49.87
+52,UWM,ProShares Ultra Russell2000,5,60,14,34,64,1.0,10.0,8.4,0.0,24.93,43.9
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,64,1.0,10.0,8.4,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,34,64,1.0,10.0,8.4,47.18,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,60,14,34,64,1.0,10.0,8.4,0.0,27.06,40.01
+52,UYM,ProShares Ultra Materials,5,60,14,34,64,1.0,10.0,8.4,20.06,20.9,43.37
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,64,1.0,10.0,8.4,0.0,23.56,47.64
+52,UYG,ProShares Ultra Financials,5,60,14,34,69,1.0,10.0,7.54,50.33,25.2,40.51
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,69,1.0,10.0,7.54,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,60,14,34,69,1.0,10.0,7.54,10.01,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,34,69,1.0,10.0,7.54,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,34,69,1.0,10.0,7.54,0.0,27.06,40.01
+52,UWM,ProShares Ultra Russell2000,5,60,14,34,69,1.0,10.0,7.54,0.0,24.93,43.9
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,69,1.0,10.0,7.54,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,69,1.0,10.0,7.54,0.0,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,74,1.0,10.0,7.17,0.0,30.21,44.54
+52,MVV,ProShares Ultra MidCap400,5,60,14,29,74,1.0,10.0,7.17,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,60,14,29,74,1.0,10.0,7.17,57.37,25.2,40.51
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,74,1.0,10.0,7.17,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,60,14,29,74,1.0,10.0,7.17,0.0,24.93,43.9
+52,UYM,ProShares Ultra Materials,5,60,14,29,74,1.0,10.0,7.17,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,29,74,1.0,10.0,7.17,0.0,27.61,43.49
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,74,1.0,10.0,7.17,0.0,27.53,49.87
+52,SAA,ProShares Ultra SmallCap600,5,60,14,34,59,1.0,10.0,6.92,0.0,27.61,43.49
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,59,1.0,10.0,6.92,0.0,23.56,47.64
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,59,1.0,10.0,6.92,0.0,27.53,49.87
+52,UWM,ProShares Ultra Russell2000,5,60,14,34,59,1.0,10.0,6.92,0.0,24.93,43.9
+52,UYM,ProShares Ultra Materials,5,60,14,34,59,1.0,10.0,6.92,18.01,20.9,43.37
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,59,1.0,10.0,6.92,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,34,59,1.0,10.0,6.92,37.32,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,60,14,34,59,1.0,10.0,6.92,0.0,27.06,40.01
+52,UYM,ProShares Ultra Materials,5,60,14,29,69,1.0,10.0,6.29,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,29,69,1.0,10.0,6.29,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,29,69,1.0,10.0,6.29,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,60,14,29,69,1.0,10.0,6.29,50.33,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,69,1.0,10.0,6.29,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,69,1.0,10.0,6.29,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,60,14,29,69,1.0,10.0,6.29,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,69,1.0,10.0,6.29,0.0,27.53,49.87
+52,UWM,ProShares Ultra Russell2000,5,60,14,29,64,1.0,10.0,5.9,0.0,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,64,1.0,10.0,5.9,0.0,23.56,47.64
+52,MVV,ProShares Ultra MidCap400,5,60,14,29,64,1.0,10.0,5.9,0.0,27.06,40.01
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,64,1.0,10.0,5.9,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,29,64,1.0,10.0,5.9,47.18,25.2,40.51
+52,SAA,ProShares Ultra SmallCap600,5,60,14,29,64,1.0,10.0,5.9,0.0,27.61,43.49
+52,UYM,ProShares Ultra Materials,5,60,14,29,64,1.0,10.0,5.9,0.0,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,64,1.0,10.0,5.9,0.0,27.53,49.87
+52,UWM,ProShares Ultra Russell2000,5,60,14,34,79,1.0,10.0,5.69,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,79,1.0,10.0,5.69,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,60,14,34,79,1.0,10.0,5.69,12.49,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,34,79,1.0,10.0,5.69,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,34,79,1.0,10.0,5.69,0.0,27.06,40.01
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,79,1.0,10.0,5.69,0.0,23.56,47.64
+52,UYG,ProShares Ultra Financials,5,60,14,34,79,1.0,10.0,5.69,33.03,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,79,1.0,10.0,5.69,0.0,30.21,44.54
+52,UWM,ProShares Ultra Russell2000,5,60,14,29,59,1.0,10.0,4.67,0.0,24.93,43.9
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,59,1.0,10.0,4.67,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,59,1.0,10.0,4.67,0.0,23.56,47.64
+52,UYG,ProShares Ultra Financials,5,60,14,29,59,1.0,10.0,4.67,37.32,25.2,40.51
+52,SAA,ProShares Ultra SmallCap600,5,60,14,29,59,1.0,10.0,4.67,0.0,27.61,43.49
+52,UYM,ProShares Ultra Materials,5,60,14,29,59,1.0,10.0,4.67,0.0,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,59,1.0,10.0,4.67,0.0,27.53,49.87
+52,MVV,ProShares Ultra MidCap400,5,60,14,29,59,1.0,10.0,4.67,0.0,27.06,40.01
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,79,1.0,10.0,4.13,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,60,14,29,79,1.0,10.0,4.13,0.0,24.93,43.9
+52,UYM,ProShares Ultra Materials,5,60,14,29,79,1.0,10.0,4.13,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,29,79,1.0,10.0,4.13,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,29,79,1.0,10.0,4.13,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,60,14,29,79,1.0,10.0,4.13,33.03,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,79,1.0,10.0,4.13,0.0,30.21,44.54
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,79,1.0,10.0,4.13,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,34,69,1.0,10.0,0.0,0.0,20.9,43.37
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,34,74,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYG,ProShares Ultra Financials,5,120,14,34,69,1.0,10.0,0.0,0.0,25.2,40.51
+52,SAA,ProShares Ultra SmallCap600,5,120,14,34,69,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,34,69,1.0,10.0,0.0,0.0,27.06,40.01
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,30.21,44.54
+52,MVV,ProShares Ultra MidCap400,5,120,14,34,74,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,34,74,1.0,10.0,0.0,0.0,25.2,40.51
+52,UWM,ProShares Ultra Russell2000,5,120,14,34,69,1.0,10.0,0.0,0.0,24.93,43.9
+52,SAA,ProShares Ultra SmallCap600,5,120,14,34,74,1.0,10.0,0.0,0.0,27.61,43.49
+52,UYM,ProShares Ultra Materials,5,120,14,34,74,1.0,10.0,0.0,0.0,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,27.53,49.87
+52,UWM,ProShares Ultra Russell2000,5,120,14,34,79,1.0,10.0,0.0,0.0,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,23.56,47.64
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,120,14,34,79,1.0,10.0,0.0,0.0,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,120,14,34,79,1.0,10.0,0.0,0.0,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,120,14,34,79,1.0,10.0,0.0,0.0,27.61,43.49
+52,UYM,ProShares Ultra Materials,5,120,14,34,79,1.0,10.0,0.0,0.0,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,27.53,49.87
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,60,14,24,54,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,24,59,1.0,10.0,0.0,0.0,20.9,43.37
+52,MVV,ProShares Ultra MidCap400,5,120,14,24,59,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,24,59,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,24,59,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,24,54,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,24,54,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,24,54,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,24,54,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,23.56,47.64
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,23.56,47.64
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,60,14,24,79,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,24,79,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,24,79,1.0,10.0,0.0,0.0,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,120,14,24,59,1.0,10.0,0.0,0.0,27.61,43.49
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,27.53,49.87
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,30.21,44.54
+52,UWM,ProShares Ultra Russell2000,5,120,14,24,64,1.0,10.0,0.0,0.0,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,24,74,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,24,69,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,24,69,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,24,69,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,24,69,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,24,69,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,24,64,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,24,64,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,24,64,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,24,64,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,23.56,47.64
+52,UYG,ProShares Ultra Financials,5,60,14,24,79,1.0,10.0,0.0,0.0,25.2,40.51
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,23.56,47.64
+52,UYG,ProShares Ultra Financials,5,120,14,24,74,1.0,10.0,0.0,0.0,25.2,40.51
+52,MVV,ProShares Ultra MidCap400,5,60,14,24,64,1.0,10.0,0.0,0.0,27.06,40.01
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,60,14,24,64,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,60,14,24,59,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,24,59,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,24,59,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,60,14,24,59,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,60,14,24,59,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,60,14,24,54,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,24,54,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,24,54,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,60,14,24,54,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,60,14,24,64,1.0,10.0,0.0,0.0,25.2,40.51
+52,SAA,ProShares Ultra SmallCap600,5,60,14,24,64,1.0,10.0,0.0,0.0,27.61,43.49
+52,UWM,ProShares Ultra Russell2000,5,60,14,24,79,1.0,10.0,0.0,0.0,24.93,43.9
+52,UYM,ProShares Ultra Materials,5,60,14,24,64,1.0,10.0,0.0,0.0,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,60,14,24,74,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,24,74,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,24,74,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,60,14,24,74,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,60,14,24,74,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,60,14,24,69,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,60,14,24,69,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,60,14,24,69,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,60,14,24,69,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,60,14,24,69,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,27.53,49.87
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,30.21,44.54
+52,MVV,ProShares Ultra MidCap400,5,120,14,24,74,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYM,ProShares Ultra Materials,5,120,14,34,64,1.0,10.0,0.0,0.0,20.9,43.37
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,30.21,44.54
+52,UWM,ProShares Ultra Russell2000,5,120,14,34,54,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,29,79,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,29,79,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,29,79,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,29,79,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,29,79,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,29,74,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,29,74,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,29,74,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,29,74,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,29,74,1.0,10.0,0.0,0.0,24.93,43.9
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,23.56,47.64
+52,UYG,ProShares Ultra Financials,5,120,14,34,54,1.0,10.0,0.0,0.0,25.2,40.51
+52,UYM,ProShares Ultra Materials,5,120,14,29,69,1.0,10.0,0.0,0.0,20.9,43.37
+52,MVV,ProShares Ultra MidCap400,5,120,14,34,54,1.0,10.0,0.0,0.0,27.06,40.01
+52,SAA,ProShares Ultra SmallCap600,5,120,14,34,64,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,34,64,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,34,64,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,34,64,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,34,59,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,34,59,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,34,59,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,34,59,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,34,59,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,34,54,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,34,54,1.0,10.0,0.0,0.0,27.61,43.49
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,27.53,49.87
+52,SAA,ProShares Ultra SmallCap600,5,120,14,29,69,1.0,10.0,0.0,0.0,27.61,43.49
+52,SAA,ProShares Ultra SmallCap600,5,120,14,24,74,1.0,10.0,0.0,0.0,27.61,43.49
+52,UWM,ProShares Ultra Russell2000,5,120,14,29,59,1.0,10.0,0.0,0.0,24.93,43.9
+52,UYM,ProShares Ultra Materials,5,120,14,29,54,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,29,54,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,29,54,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,29,54,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,29,54,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,24,79,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,24,79,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,24,79,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,24,79,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,24,79,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,24,74,1.0,10.0,0.0,0.0,20.9,43.37
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,27.53,49.87
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,23.56,47.64
+52,MVV,ProShares Ultra MidCap400,5,120,14,29,69,1.0,10.0,0.0,0.0,27.06,40.01
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,30.21,44.54
+52,UYG,ProShares Ultra Financials,5,120,14,29,69,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,29,69,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,29,64,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,29,64,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,29,64,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,29,64,1.0,10.0,0.0,0.0,25.2,40.51
+52,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,30.21,44.54
+52,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,23.56,47.64
+52,UWM,ProShares Ultra Russell2000,5,120,14,29,64,1.0,10.0,0.0,0.0,24.93,43.9
+52,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,27.53,49.87
+52,UYM,ProShares Ultra Materials,5,120,14,29,59,1.0,10.0,0.0,0.0,20.9,43.37
+52,SAA,ProShares Ultra SmallCap600,5,120,14,29,59,1.0,10.0,0.0,0.0,27.61,43.49
+52,MVV,ProShares Ultra MidCap400,5,120,14,29,59,1.0,10.0,0.0,0.0,27.06,40.01
+52,UYG,ProShares Ultra Financials,5,120,14,29,59,1.0,10.0,0.0,0.0,25.2,40.51
+52,UWM,ProShares Ultra Russell2000,5,120,14,24,54,1.0,10.0,0.0,0.0,24.93,43.9

@@ -1,0 +1,1513 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,24,54,1.0,10.0,0.0,0,12.15,4.8
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,29,79,1.0,10.0,0.0,0,10.5,6.98
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,34,54,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,34,54,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,34,54,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,34,54,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,34,54,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,34,54,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,29,79,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,29,79,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,29,79,1.0,10.0,0.0,0,10.45,5.65
+82,MKAM.O,MKAM ETF,5,120,14,29,79,1.0,10.0,0.0,0,12.34,5.94
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,34,54,1.0,10.0,0.0,0,13.81,6.36
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,29,79,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,29,79,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,29,79,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,29,79,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,29,79,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,29,79,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,29,79,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,29,79,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,34,54,1.0,10.0,0.0,0,13.27,7.66
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,34,54,1.0,10.0,0.0,0,12.9,6.48
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,34,59,1.0,10.0,0.0,0,9.85,7.6
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,34,54,1.0,10.0,0.0,0,12.89,7.02
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,34,59,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,34,59,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,34,59,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,34,59,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,34,59,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,34,59,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,34,59,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,34,59,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,34,59,1.0,10.0,0.0,0,12.15,4.8
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,34,54,1.0,10.0,0.0,0,11.23,6.89
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,34,54,1.0,10.0,0.0,0,11.6,7.12
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,34,54,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,34,54,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,34,54,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,34,54,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,34,54,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,34,54,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,34,54,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,34,54,1.0,10.0,0.0,0,9.85,7.6
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,29,79,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,29,79,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,29,79,1.0,10.0,0.0,0,13.61,6.13
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,29,69,1.0,10.0,0.0,0,13.92,8.64
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,29,74,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,29,69,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,29,69,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,29,69,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,29,69,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,29,69,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,29,69,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,29,69,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,14.08,8.09
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,29,69,1.0,10.0,0.0,0,11.77,5.66
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,29,79,1.0,10.0,0.0,0,12.73,8.93
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,29,69,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,29,69,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,29,69,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,29,69,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,29,69,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,29,69,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,29,69,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,29,69,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,29,69,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,29,74,1.0,10.0,0.0,0,12.71,5.54
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,29,74,1.0,10.0,0.0,0,12.79,5.63
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,29,74,1.0,10.0,0.0,0,12.73,8.93
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,29,74,1.0,10.0,0.0,0,13.61,6.13
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,29,79,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,29,79,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,29,79,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,29,74,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,29,74,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,29,74,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,29,74,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,29,74,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,29,74,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,29,74,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,29,74,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,29,74,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,29,74,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,29,74,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,29,74,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,29,74,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,29,74,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,29,74,1.0,10.0,0.0,0,13.97,8.91
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,34,59,1.0,10.0,0.0,0,11.6,7.12
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,34,59,1.0,10.0,0.0,0,11.77,5.66
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,24,54,1.0,10.0,0.0,0,12.71,5.54
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,34,74,1.0,10.0,0.0,0,13.81,6.36
+82,MKAM.O,MKAM ETF,5,120,14,34,74,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,34,74,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,34,74,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,34,74,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,34,74,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,34,74,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,34,74,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,34,74,1.0,10.0,0.0,0,12.9,6.48
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,34,74,1.0,10.0,0.0,0,13.27,7.66
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,34,74,1.0,10.0,0.0,0,10.45,5.65
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,34,74,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,34,74,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,34,74,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,34,74,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,34,74,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,34,74,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,34,69,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,34,69,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,34,69,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,34,74,1.0,10.0,0.0,0,10.5,6.98
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,34,74,1.0,10.0,0.0,0,11.23,6.89
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,34,59,1.0,10.0,0.0,0,13.92,8.64
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,34,79,1.0,10.0,0.0,0,9.85,7.6
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,34,79,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,34,79,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,34,79,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,34,79,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,34,79,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,34,79,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,34,79,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,34,79,1.0,10.0,0.0,0,11.77,5.66
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,34,79,1.0,10.0,0.0,0,11.6,7.12
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,34,74,1.0,10.0,0.0,0,12.89,7.02
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,34,79,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,34,79,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,34,79,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,34,79,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,34,79,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,34,79,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,34,79,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,34,79,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,34,79,1.0,10.0,0.0,0,12.15,4.8
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,34,69,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,34,69,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,34,69,1.0,10.0,0.0,0,13.37,5.74
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,34,64,1.0,10.0,0.0,0,12.79,5.63
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,34,64,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,34,64,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,34,64,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,34,64,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,34,64,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,34,64,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,34,64,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,34,64,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,34,64,1.0,10.0,0.0,0,12.73,8.93
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,34,64,1.0,10.0,0.0,0,12.71,5.54
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,34,69,1.0,10.0,0.0,0,12.55,8.1
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,34,64,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,34,59,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,34,59,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,34,59,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,34,59,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,34,59,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,34,59,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,34,59,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,34,64,1.0,10.0,0.0,0,13.92,8.64
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,14.08,8.09
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,34,64,1.0,10.0,0.0,0,12.55,8.1
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,34,64,1.0,10.0,0.0,0,13.37,5.74
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,34,69,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,34,69,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,34,69,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,34,69,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,34,69,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,34,69,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,34,69,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,34,69,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,34,69,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,34,69,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,34,69,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,34,69,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,34,69,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,34,64,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,34,64,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,34,64,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,34,64,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,34,64,1.0,10.0,0.0,0,12.34,5.94
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,29,69,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,29,69,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,29,64,1.0,10.0,0.0,0,12.89,7.02
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,24,64,1.0,10.0,0.0,0,10.5,6.98
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,24,69,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,24,69,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,24,69,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,24,69,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,24,69,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,24,69,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,24,64,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,24,64,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,24,64,1.0,10.0,0.0,0,10.45,5.65
+82,MKAM.O,MKAM ETF,5,120,14,24,64,1.0,10.0,0.0,0,12.34,5.94
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,24,69,1.0,10.0,0.0,0,13.81,6.36
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,24,64,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,24,64,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,24,64,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,24,64,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,24,64,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,24,64,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,24,64,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,24,64,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,24,69,1.0,10.0,0.0,0,13.27,7.66
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,24,69,1.0,10.0,0.0,0,12.9,6.48
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,29,64,1.0,10.0,0.0,0,11.23,6.89
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,24,69,1.0,10.0,0.0,0,12.89,7.02
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,24,74,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,24,74,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,24,74,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,24,74,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,24,74,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,24,74,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,24,74,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,24,74,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,24,74,1.0,10.0,0.0,0,12.15,4.8
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,24,69,1.0,10.0,0.0,0,11.23,6.89
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,24,69,1.0,10.0,0.0,0,11.6,7.12
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,24,69,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,24,69,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,24,69,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,24,69,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,24,69,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,24,69,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,24,69,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,24,69,1.0,10.0,0.0,0,9.85,7.6
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,24,64,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,24,64,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,24,64,1.0,10.0,0.0,0,13.61,6.13
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,24,54,1.0,10.0,0.0,0,13.92,8.64
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,24,59,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,24,54,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,24,54,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,24,54,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,24,54,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,24,54,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,24,54,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,24,54,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0,14.08,8.09
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,24,54,1.0,10.0,0.0,0,11.77,5.66
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,24,64,1.0,10.0,0.0,0,12.73,8.93
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,24,54,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,24,54,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,24,54,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,24,54,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,24,54,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,24,54,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,24,54,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,24,54,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,24,54,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,24,59,1.0,10.0,0.0,0,12.71,5.54
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,24,59,1.0,10.0,0.0,0,12.79,5.63
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,24,59,1.0,10.0,0.0,0,12.73,8.93
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,24,59,1.0,10.0,0.0,0,13.61,6.13
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,24,64,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,24,64,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,24,64,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,24,59,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,24,59,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,24,59,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,24,59,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,24,59,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,24,59,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,24,59,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,24,59,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,24,59,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,24,59,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,24,59,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,24,59,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,24,59,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,24,59,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,24,59,1.0,10.0,0.0,0,13.97,8.91
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,24,74,1.0,10.0,0.0,0,11.6,7.12
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,24,74,1.0,10.0,0.0,0,9.85,7.6
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,24,74,1.0,10.0,0.0,0,11.77,5.66
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,29,59,1.0,10.0,0.0,0,13.81,6.36
+82,MKAM.O,MKAM ETF,5,120,14,29,59,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,29,59,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,29,59,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,29,59,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,29,59,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,29,59,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,29,59,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,29,59,1.0,10.0,0.0,0,12.9,6.48
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,29,59,1.0,10.0,0.0,0,13.27,7.66
+82,MKAM.O,MKAM ETF,5,120,14,29,54,1.0,10.0,0.0,0,12.34,5.94
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,29,59,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,29,59,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,29,59,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,29,59,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,29,59,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,29,59,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,29,54,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,29,54,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,29,54,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,29,59,1.0,10.0,0.0,0,10.5,6.98
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,29,59,1.0,10.0,0.0,0,10.45,5.65
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,29,59,1.0,10.0,0.0,0,11.23,6.89
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,29,59,1.0,10.0,0.0,0,12.89,7.02
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,29,64,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,29,64,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,29,64,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,29,64,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,29,64,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,29,64,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,29,64,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,29,64,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,29,64,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,29,64,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,29,64,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,29,64,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,29,64,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,29,64,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,29,64,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,29,64,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,29,64,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,29,64,1.0,10.0,0.0,0,12.15,4.8
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,29,54,1.0,10.0,0.0,0,10.5,6.98
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,29,54,1.0,10.0,0.0,0,13.37,5.74
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,24,74,1.0,10.0,0.0,0,13.92,8.64
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,24,79,1.0,10.0,0.0,0,12.79,5.63
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,24,79,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,24,79,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,24,79,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,24,79,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,24,79,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,24,79,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,24,79,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,24,79,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,24,79,1.0,10.0,0.0,0,12.73,8.93
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,24,79,1.0,10.0,0.0,0,12.71,5.54
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,29,54,1.0,10.0,0.0,0,12.55,8.1
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,24,79,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,24,74,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,24,74,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,24,74,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,24,74,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,24,74,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,24,74,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,24,74,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,24,79,1.0,10.0,0.0,0,13.92,8.64
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0,14.08,8.09
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,24,79,1.0,10.0,0.0,0,12.55,8.1
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,24,79,1.0,10.0,0.0,0,13.37,5.74
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,29,54,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,29,54,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,29,54,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,29,54,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,29,54,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,29,54,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,29,54,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,29,54,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,29,54,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,29,54,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,29,54,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,29,54,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,29,54,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,24,79,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,24,79,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,24,79,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,24,79,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,24,79,1.0,10.0,0.0,0,12.34,5.94
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,34,79,1.0,10.0,0.0,0,12.89,7.02
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,39,54,1.0,10.0,0.0,0,12.15,4.8
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,39,54,1.0,10.0,0.0,0,12.71,5.54
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,44,79,1.0,10.0,0.0,0,10.45,5.65
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,49,54,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,49,54,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,49,54,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,49,54,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,49,54,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,49,54,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,49,54,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,44,79,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,44,79,1.0,10.0,0.0,0,11.23,6.89
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,44,79,1.0,10.0,0.0,0,10.5,6.98
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,49,54,1.0,10.0,0.0,0,12.9,6.48
+82,MKAM.O,MKAM ETF,5,120,14,44,79,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,44,79,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,44,79,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,44,79,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,44,79,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,44,79,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,44,79,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,44,79,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,49,54,1.0,10.0,0.0,0,13.81,6.36
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,49,54,1.0,10.0,0.0,0,11.6,7.12
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,44,69,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,49,59,1.0,10.0,0.0,0,12.15,4.8
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,49,59,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,49,59,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,49,59,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,49,59,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,49,59,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,49,59,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,49,59,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,49,59,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,49,59,1.0,10.0,0.0,0,12.71,5.54
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,49,54,1.0,10.0,0.0,0,12.89,7.02
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,49,54,1.0,10.0,0.0,0,9.85,7.6
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,49,54,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,49,54,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,49,54,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,49,54,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,49,54,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,49,54,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,49,54,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,49,54,1.0,10.0,0.0,0,11.77,5.66
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,44,79,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,44,79,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,44,79,1.0,10.0,0.0,0,13.97,8.91
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,14.08,8.09
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,44,74,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,44,74,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,44,69,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,44,69,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,44,69,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,44,69,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,44,69,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,44,69,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,44,69,1.0,10.0,0.0,0,12.55,8.1
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,44,69,1.0,10.0,0.0,0,13.92,8.64
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,44,79,1.0,10.0,0.0,0,13.61,6.13
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,44,69,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,44,69,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,44,69,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,44,69,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,44,69,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,44,69,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,44,69,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,44,69,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,44,69,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,44,74,1.0,10.0,0.0,0,12.79,5.63
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,44,74,1.0,10.0,0.0,0,12.73,8.93
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,44,74,1.0,10.0,0.0,0,13.61,6.13
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,44,74,1.0,10.0,0.0,0,13.97,8.91
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,44,79,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,44,79,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,44,79,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,44,79,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,44,74,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,44,74,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,44,74,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,44,74,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,44,74,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,44,74,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,44,74,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,44,74,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,44,74,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,44,74,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,44,74,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,44,74,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,44,74,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,44,74,1.0,10.0,0.0,0,13.27,7.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,49,59,1.0,10.0,0.0,0,9.85,7.6
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,49,59,1.0,10.0,0.0,0,11.77,5.66
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,49,59,1.0,10.0,0.0,0,13.92,8.64
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,49,74,1.0,10.0,0.0,0,12.9,6.48
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,49,74,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,49,74,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,49,74,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,49,74,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,49,74,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,49,74,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,49,74,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,49,74,1.0,10.0,0.0,0,11.6,7.12
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,49,74,1.0,10.0,0.0,0,13.81,6.36
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,49,69,1.0,10.0,0.0,0,10.5,6.98
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,49,74,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,49,74,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,49,74,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,49,74,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,49,74,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,49,74,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,49,74,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,49,69,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,49,69,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,49,74,1.0,10.0,0.0,0,10.45,5.65
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,49,74,1.0,10.0,0.0,0,11.23,6.89
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,49,74,1.0,10.0,0.0,0,12.89,7.02
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,49,79,1.0,10.0,0.0,0,12.15,4.8
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,49,79,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,49,79,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,49,79,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,49,79,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,49,79,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,49,79,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,49,79,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,49,79,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,49,79,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,49,79,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,49,79,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,49,79,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,49,79,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,49,79,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,49,79,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,49,79,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,49,79,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,49,79,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,49,79,1.0,10.0,0.0,0,12.71,5.54
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,49,69,1.0,10.0,0.0,0,10.45,5.65
+82,MKAM.O,MKAM ETF,5,120,14,49,69,1.0,10.0,0.0,0,12.34,5.94
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,14.08,8.09
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,49,64,1.0,10.0,0.0,0,12.73,8.93
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,49,64,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,49,64,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,49,64,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,49,64,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,49,64,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,49,64,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,49,64,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,49,64,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,49,64,1.0,10.0,0.0,0,13.61,6.13
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,49,64,1.0,10.0,0.0,0,12.79,5.63
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,49,69,1.0,10.0,0.0,0,13.37,5.74
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,49,64,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,49,64,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,49,59,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,49,59,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,49,59,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,49,59,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,49,59,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,49,59,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,49,59,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,14.08,8.09
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,49,64,1.0,10.0,0.0,0,12.55,8.1
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,49,64,1.0,10.0,0.0,0,13.37,5.74
+82,MKAM.O,MKAM ETF,5,120,14,49,64,1.0,10.0,0.0,0,12.34,5.94
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,49,69,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,49,69,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,49,69,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,49,69,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,49,69,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,49,69,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,49,69,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,49,69,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,49,69,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,49,69,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,49,69,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,49,69,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,49,69,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,49,69,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,49,64,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,49,64,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,49,64,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,49,64,1.0,10.0,0.0,0,10.5,6.98
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,44,69,1.0,10.0,0.0,0,12.79,5.63
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,44,69,1.0,10.0,0.0,0,12.15,4.8
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,39,54,1.0,10.0,0.0,0,12.79,5.63
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,39,64,1.0,10.0,0.0,0,10.45,5.65
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,39,69,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,39,69,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,39,69,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,39,69,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,39,69,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,39,69,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,39,69,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,39,64,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,39,64,1.0,10.0,0.0,0,11.23,6.89
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,39,64,1.0,10.0,0.0,0,10.5,6.98
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,39,69,1.0,10.0,0.0,0,12.9,6.48
+82,MKAM.O,MKAM ETF,5,120,14,39,64,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,39,64,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,39,64,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,39,64,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,39,64,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,39,64,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,39,64,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,39,64,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,39,69,1.0,10.0,0.0,0,13.81,6.36
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,39,69,1.0,10.0,0.0,0,11.6,7.12
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,44,64,1.0,10.0,0.0,0,12.89,7.02
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,39,74,1.0,10.0,0.0,0,12.15,4.8
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,39,74,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,39,74,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,39,74,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,39,74,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,39,74,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,39,74,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,39,74,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,39,74,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,39,74,1.0,10.0,0.0,0,12.71,5.54
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,39,69,1.0,10.0,0.0,0,12.89,7.02
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,39,69,1.0,10.0,0.0,0,9.85,7.6
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,39,69,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,39,69,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,39,69,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,39,69,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,39,69,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,39,69,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,39,69,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,39,69,1.0,10.0,0.0,0,11.77,5.66
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,39,64,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,39,64,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,39,64,1.0,10.0,0.0,0,13.97,8.91
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,14.08,8.09
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,39,59,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,39,59,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,39,54,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,39,54,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,39,54,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,39,54,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,39,54,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,39,54,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,39,54,1.0,10.0,0.0,0,12.55,8.1
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,39,54,1.0,10.0,0.0,0,13.92,8.64
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,39,64,1.0,10.0,0.0,0,13.61,6.13
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,39,54,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,39,54,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,39,54,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,39,54,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,39,54,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,39,54,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,39,54,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,39,54,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,39,54,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,39,59,1.0,10.0,0.0,0,12.79,5.63
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,39,59,1.0,10.0,0.0,0,12.73,8.93
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,39,59,1.0,10.0,0.0,0,13.61,6.13
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,39,59,1.0,10.0,0.0,0,13.97,8.91
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,39,64,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,39,64,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,39,64,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,39,64,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,39,59,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,39,59,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,39,59,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,39,59,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,39,59,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,39,59,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,39,59,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,39,59,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,39,59,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,39,59,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,39,59,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,39,59,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,39,59,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,39,59,1.0,10.0,0.0,0,13.27,7.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,39,74,1.0,10.0,0.0,0,9.85,7.6
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,39,74,1.0,10.0,0.0,0,11.77,5.66
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,39,74,1.0,10.0,0.0,0,13.92,8.64
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,44,59,1.0,10.0,0.0,0,12.9,6.48
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,44,59,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,44,59,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,44,59,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,44,59,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,44,59,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,44,59,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,44,59,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,44,59,1.0,10.0,0.0,0,11.6,7.12
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,44,59,1.0,10.0,0.0,0,13.81,6.36
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,44,54,1.0,10.0,0.0,0,10.5,6.98
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,44,59,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,44,59,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,44,59,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,44,59,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,44,59,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,44,59,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,44,59,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,44,54,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,44,54,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,44,59,1.0,10.0,0.0,0,10.45,5.65
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,44,59,1.0,10.0,0.0,0,11.23,6.89
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,44,59,1.0,10.0,0.0,0,12.89,7.02
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,44,64,1.0,10.0,0.0,0,12.15,4.8
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,44,64,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,44,64,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,44,64,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,44,64,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,44,64,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,44,64,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,44,64,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,44,64,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,44,64,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,44,64,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,44,64,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,44,64,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,44,64,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,44,64,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,44,64,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,44,64,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,44,64,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,44,64,1.0,10.0,0.0,0,12.71,5.54
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,44,54,1.0,10.0,0.0,0,10.45,5.65
+82,MKAM.O,MKAM ETF,5,120,14,44,54,1.0,10.0,0.0,0,12.34,5.94
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,14.08,8.09
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,39,79,1.0,10.0,0.0,0,12.73,8.93
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,39,79,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,39,79,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,39,79,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,39,79,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,39,79,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,39,79,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,39,79,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,39,79,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,39,79,1.0,10.0,0.0,0,13.61,6.13
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,39,79,1.0,10.0,0.0,0,12.79,5.63
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,44,54,1.0,10.0,0.0,0,13.37,5.74
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,39,79,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,39,79,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,39,74,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,39,74,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,39,74,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,39,74,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,120,14,39,74,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,39,74,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,39,74,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0,14.08,8.09
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,39,79,1.0,10.0,0.0,0,12.55,8.1
+82,AGGS.K,Harbor Disciplined Bond ETF,5,120,14,39,79,1.0,10.0,0.0,0,13.37,5.74
+82,MKAM.O,MKAM ETF,5,120,14,39,79,1.0,10.0,0.0,0,12.34,5.94
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,120,14,44,54,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,120,14,44,54,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,120,14,44,54,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,120,14,44,54,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,120,14,44,54,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,120,14,44,54,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,120,14,44,54,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,120,14,44,54,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,120,14,44,54,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,120,14,44,54,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,120,14,44,54,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,120,14,44,54,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,44,54,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,44,54,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,39,79,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,120,14,39,79,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,120,14,39,79,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,120,14,39,79,1.0,10.0,0.0,0,10.5,6.98
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,120,14,24,54,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,120,14,24,54,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,49,79,1.0,10.0,0.0,0,12.89,7.02
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,29,79,1.0,10.0,0.0,0,10.5,6.98
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,34,54,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,34,54,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,34,54,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,34,54,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,34,54,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,34,54,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,29,79,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,29,79,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,29,79,1.0,10.0,0.0,0,10.45,5.65
+82,MKAM.O,MKAM ETF,5,60,14,29,79,1.0,10.0,0.0,0,12.34,5.94
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,34,54,1.0,10.0,0.0,0,13.81,6.36
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,29,79,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,29,79,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,29,79,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,29,79,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,29,79,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,29,79,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,29,79,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,29,79,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,34,54,1.0,10.0,0.0,0,13.27,7.66
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,34,54,1.0,10.0,0.0,0,12.9,6.48
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,29,69,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,34,54,1.0,10.0,0.0,0,12.89,7.02
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,34,59,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,34,59,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,34,59,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,34,59,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,34,59,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,34,59,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,34,59,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,34,59,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,34,59,1.0,10.0,0.0,0,12.15,4.8
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,34,54,1.0,10.0,0.0,0,11.23,6.89
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,34,54,1.0,10.0,0.0,0,11.6,7.12
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,34,54,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,34,54,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,34,54,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,34,54,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,34,54,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,34,54,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,34,54,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,34,54,1.0,10.0,0.0,0,9.85,7.6
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,29,79,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,29,79,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,29,79,1.0,10.0,0.0,0,13.61,6.13
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,29,69,1.0,10.0,0.0,0,13.92,8.64
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,29,74,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,29,69,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,29,69,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,29,69,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,29,69,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,29,69,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,29,69,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,29,69,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,14.08,8.09
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,29,69,1.0,10.0,0.0,0,11.77,5.66
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,29,79,1.0,10.0,0.0,0,12.73,8.93
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,29,69,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,29,69,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,29,69,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,29,69,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,29,69,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,29,69,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,29,69,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,29,69,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,29,69,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,29,74,1.0,10.0,0.0,0,12.71,5.54
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,29,74,1.0,10.0,0.0,0,12.79,5.63
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,29,74,1.0,10.0,0.0,0,12.73,8.93
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,29,74,1.0,10.0,0.0,0,13.61,6.13
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,29,79,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,29,79,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,29,79,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,29,74,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,29,74,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,29,74,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,29,74,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,29,74,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,29,74,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,29,74,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,29,74,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,29,74,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,29,74,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,29,74,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,29,74,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,29,74,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,29,74,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,29,74,1.0,10.0,0.0,0,13.97,8.91
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,34,59,1.0,10.0,0.0,0,11.6,7.12
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,34,59,1.0,10.0,0.0,0,9.85,7.6
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,34,59,1.0,10.0,0.0,0,11.77,5.66
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,34,74,1.0,10.0,0.0,0,13.81,6.36
+82,MKAM.O,MKAM ETF,5,60,14,34,74,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,34,74,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,34,74,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,34,74,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,34,74,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,34,74,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,34,74,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,34,74,1.0,10.0,0.0,0,12.9,6.48
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,34,74,1.0,10.0,0.0,0,13.27,7.66
+82,MKAM.O,MKAM ETF,5,60,14,34,69,1.0,10.0,0.0,0,12.34,5.94
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,34,74,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,34,74,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,34,74,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,34,74,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,34,74,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,34,74,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,34,69,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,34,69,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,34,69,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,34,74,1.0,10.0,0.0,0,10.5,6.98
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,34,74,1.0,10.0,0.0,0,10.45,5.65
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,34,74,1.0,10.0,0.0,0,11.23,6.89
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,34,74,1.0,10.0,0.0,0,12.89,7.02
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,34,79,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,34,79,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,34,79,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,34,79,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,34,79,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,34,79,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,34,79,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,34,79,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,34,79,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,34,79,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,34,79,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,34,79,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,34,79,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,34,79,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,34,79,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,34,79,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,34,79,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,34,79,1.0,10.0,0.0,0,12.15,4.8
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,34,69,1.0,10.0,0.0,0,10.5,6.98
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,34,69,1.0,10.0,0.0,0,13.37,5.74
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,34,59,1.0,10.0,0.0,0,13.92,8.64
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,34,64,1.0,10.0,0.0,0,12.79,5.63
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,34,64,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,34,64,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,34,64,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,34,64,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,34,64,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,34,64,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,34,64,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,34,64,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,34,64,1.0,10.0,0.0,0,12.73,8.93
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,34,64,1.0,10.0,0.0,0,12.71,5.54
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,34,69,1.0,10.0,0.0,0,12.55,8.1
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,34,64,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,34,59,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,34,59,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,34,59,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,34,59,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,34,59,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,34,59,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,34,59,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,34,64,1.0,10.0,0.0,0,13.92,8.64
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,14.08,8.09
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,34,64,1.0,10.0,0.0,0,12.55,8.1
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,34,64,1.0,10.0,0.0,0,13.37,5.74
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,34,69,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,34,69,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,34,69,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,34,69,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,34,69,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,34,69,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,34,69,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,34,69,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,34,69,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,34,69,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,34,69,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,34,69,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,34,69,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,34,64,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,34,64,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,34,64,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,34,64,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,34,64,1.0,10.0,0.0,0,12.34,5.94
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,29,69,1.0,10.0,0.0,0,12.71,5.54
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,29,64,1.0,10.0,0.0,0,12.89,7.02
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,34,79,1.0,10.0,0.0,0,12.89,7.02
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,24,64,1.0,10.0,0.0,0,10.5,6.98
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,24,69,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,24,69,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,24,69,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,24,69,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,24,69,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,24,69,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,24,64,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,24,64,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,24,64,1.0,10.0,0.0,0,10.45,5.65
+82,MKAM.O,MKAM ETF,5,60,14,24,64,1.0,10.0,0.0,0,12.34,5.94
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,24,69,1.0,10.0,0.0,0,13.81,6.36
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,24,64,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,24,64,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,24,64,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,24,64,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,24,64,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,24,64,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,24,64,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,24,64,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,24,69,1.0,10.0,0.0,0,13.27,7.66
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,24,69,1.0,10.0,0.0,0,12.9,6.48
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,29,64,1.0,10.0,0.0,0,11.23,6.89
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,24,69,1.0,10.0,0.0,0,12.89,7.02
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,24,74,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,24,74,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,24,74,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,24,74,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,24,74,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,24,74,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,24,74,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,24,74,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,24,74,1.0,10.0,0.0,0,12.15,4.8
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,24,69,1.0,10.0,0.0,0,11.23,6.89
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,24,69,1.0,10.0,0.0,0,11.6,7.12
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,24,69,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,24,69,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,24,69,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,24,69,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,24,69,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,24,69,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,24,69,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,24,69,1.0,10.0,0.0,0,9.85,7.6
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,24,64,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,24,64,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,24,64,1.0,10.0,0.0,0,13.61,6.13
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,24,54,1.0,10.0,0.0,0,13.92,8.64
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,24,59,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,24,54,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,24,54,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,24,54,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,24,54,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,24,54,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,24,54,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,24,54,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0,14.08,8.09
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,24,54,1.0,10.0,0.0,0,11.77,5.66
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,24,64,1.0,10.0,0.0,0,12.73,8.93
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,24,54,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,24,54,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,24,54,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,24,54,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,24,54,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,24,54,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,24,54,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,24,54,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,24,54,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,24,59,1.0,10.0,0.0,0,12.71,5.54
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,24,59,1.0,10.0,0.0,0,12.79,5.63
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,24,59,1.0,10.0,0.0,0,12.73,8.93
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,24,59,1.0,10.0,0.0,0,13.61,6.13
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,24,64,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,24,64,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,24,64,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,24,59,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,24,59,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,24,59,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,24,59,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,24,59,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,24,59,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,24,59,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,24,59,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,24,59,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,24,59,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,24,59,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,24,59,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,24,59,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,24,59,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,24,59,1.0,10.0,0.0,0,13.97,8.91
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,24,74,1.0,10.0,0.0,0,11.6,7.12
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,24,74,1.0,10.0,0.0,0,9.85,7.6
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,24,74,1.0,10.0,0.0,0,11.77,5.66
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,29,59,1.0,10.0,0.0,0,13.81,6.36
+82,MKAM.O,MKAM ETF,5,60,14,29,59,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,29,59,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,29,59,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,29,59,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,29,59,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,29,59,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,29,59,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,29,59,1.0,10.0,0.0,0,12.9,6.48
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,29,59,1.0,10.0,0.0,0,13.27,7.66
+82,MKAM.O,MKAM ETF,5,60,14,29,54,1.0,10.0,0.0,0,12.34,5.94
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,29,59,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,29,59,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,29,59,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,29,59,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,29,59,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,29,59,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,29,54,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,29,54,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,29,54,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,29,59,1.0,10.0,0.0,0,10.5,6.98
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,29,59,1.0,10.0,0.0,0,10.45,5.65
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,29,59,1.0,10.0,0.0,0,11.23,6.89
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,29,59,1.0,10.0,0.0,0,12.89,7.02
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,29,64,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,29,64,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,29,64,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,29,64,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,29,64,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,29,64,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,29,64,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,29,64,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,29,64,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,29,64,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,29,64,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,29,64,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,29,64,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,29,64,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,29,64,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,29,64,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,29,64,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,29,64,1.0,10.0,0.0,0,12.15,4.8
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,29,54,1.0,10.0,0.0,0,10.5,6.98
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,29,54,1.0,10.0,0.0,0,13.37,5.74
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,24,74,1.0,10.0,0.0,0,13.92,8.64
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,24,79,1.0,10.0,0.0,0,12.79,5.63
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,24,79,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,24,79,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,24,79,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,24,79,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,24,79,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,24,79,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,24,79,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,24,79,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,24,79,1.0,10.0,0.0,0,12.73,8.93
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,24,79,1.0,10.0,0.0,0,12.71,5.54
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,29,54,1.0,10.0,0.0,0,12.55,8.1
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,24,79,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,24,74,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,24,74,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,24,74,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,24,74,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,24,74,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,24,74,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,24,74,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,24,79,1.0,10.0,0.0,0,13.92,8.64
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0,14.08,8.09
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,24,79,1.0,10.0,0.0,0,12.55,8.1
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,24,79,1.0,10.0,0.0,0,13.37,5.74
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,29,54,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,29,54,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,29,54,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,29,54,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,29,54,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,29,54,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,29,54,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,29,54,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,29,54,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,29,54,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,29,54,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,29,54,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,29,54,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,24,79,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,24,79,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,24,79,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,24,79,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,24,79,1.0,10.0,0.0,0,12.34,5.94
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,34,79,1.0,10.0,0.0,0,11.23,6.89
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,39,54,1.0,10.0,0.0,0,12.15,4.8
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,49,79,1.0,10.0,0.0,0,11.23,6.89
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,44,79,1.0,10.0,0.0,0,10.5,6.98
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,49,54,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,49,54,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,49,54,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,49,54,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,49,54,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,49,54,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,44,79,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,44,79,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,44,79,1.0,10.0,0.0,0,10.45,5.65
+82,MKAM.O,MKAM ETF,5,60,14,44,79,1.0,10.0,0.0,0,12.34,5.94
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,49,54,1.0,10.0,0.0,0,13.81,6.36
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,44,79,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,44,79,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,44,79,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,44,79,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,44,79,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,44,79,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,44,79,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,44,79,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,49,54,1.0,10.0,0.0,0,13.27,7.66
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,49,54,1.0,10.0,0.0,0,12.9,6.48
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,44,69,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,49,54,1.0,10.0,0.0,0,12.89,7.02
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,49,59,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,49,59,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,49,59,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,49,59,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,49,59,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,49,59,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,49,59,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,49,59,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,49,59,1.0,10.0,0.0,0,12.15,4.8
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,49,54,1.0,10.0,0.0,0,11.23,6.89
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,49,54,1.0,10.0,0.0,0,11.6,7.12
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,49,54,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,49,54,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,49,54,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,49,54,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,49,54,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,49,54,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,49,54,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,49,54,1.0,10.0,0.0,0,9.85,7.6
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,44,79,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,44,79,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,44,79,1.0,10.0,0.0,0,13.61,6.13
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,44,69,1.0,10.0,0.0,0,13.92,8.64
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,44,74,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,44,69,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,44,69,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,44,69,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,44,69,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,44,69,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,44,69,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,44,69,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,14.08,8.09
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,44,69,1.0,10.0,0.0,0,11.77,5.66
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,44,79,1.0,10.0,0.0,0,12.73,8.93
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,44,69,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,44,69,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,44,69,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,44,69,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,44,69,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,44,69,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,44,69,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,44,69,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,44,69,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,44,74,1.0,10.0,0.0,0,12.71,5.54
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,44,74,1.0,10.0,0.0,0,12.79,5.63
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,44,74,1.0,10.0,0.0,0,12.73,8.93
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,44,74,1.0,10.0,0.0,0,13.61,6.13
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,44,79,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,44,79,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,44,79,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,44,74,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,44,74,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,44,74,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,44,74,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,44,74,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,44,74,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,44,74,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,44,74,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,44,74,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,44,74,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,44,74,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,44,74,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,44,74,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,44,74,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,44,74,1.0,10.0,0.0,0,13.97,8.91
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,49,59,1.0,10.0,0.0,0,11.6,7.12
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,49,59,1.0,10.0,0.0,0,9.85,7.6
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,49,59,1.0,10.0,0.0,0,11.77,5.66
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,49,74,1.0,10.0,0.0,0,13.81,6.36
+82,MKAM.O,MKAM ETF,5,60,14,49,74,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,49,74,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,49,74,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,49,74,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,49,74,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,49,74,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,49,74,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,49,74,1.0,10.0,0.0,0,12.9,6.48
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,49,74,1.0,10.0,0.0,0,13.27,7.66
+82,MKAM.O,MKAM ETF,5,60,14,49,69,1.0,10.0,0.0,0,12.34,5.94
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,49,74,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,49,74,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,49,74,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,49,74,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,49,74,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,49,74,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,49,69,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,49,69,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,49,69,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,49,74,1.0,10.0,0.0,0,10.5,6.98
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,49,74,1.0,10.0,0.0,0,10.45,5.65
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,49,74,1.0,10.0,0.0,0,11.23,6.89
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,49,74,1.0,10.0,0.0,0,12.89,7.02
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,49,79,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,49,79,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,49,79,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,49,79,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,49,79,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,49,79,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,49,79,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,49,79,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,49,79,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,49,79,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,49,79,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,49,79,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,49,79,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,49,79,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,49,79,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,49,79,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,49,79,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,49,79,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,49,79,1.0,10.0,0.0,0,12.15,4.8
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,49,69,1.0,10.0,0.0,0,10.5,6.98
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,49,69,1.0,10.0,0.0,0,13.37,5.74
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,49,59,1.0,10.0,0.0,0,13.92,8.64
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,49,64,1.0,10.0,0.0,0,12.79,5.63
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,49,64,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,49,64,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,49,64,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,49,64,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,49,64,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,49,64,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,49,64,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,49,64,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,49,64,1.0,10.0,0.0,0,12.73,8.93
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,49,64,1.0,10.0,0.0,0,12.71,5.54
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,49,69,1.0,10.0,0.0,0,12.55,8.1
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,49,64,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,49,59,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,49,59,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,49,59,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,49,59,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,49,59,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,49,59,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,49,59,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,49,64,1.0,10.0,0.0,0,13.92,8.64
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,14.08,8.09
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,49,64,1.0,10.0,0.0,0,12.55,8.1
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,49,64,1.0,10.0,0.0,0,13.37,5.74
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,49,69,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,49,69,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,49,69,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,49,69,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,49,69,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,49,69,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,49,69,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,49,69,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,49,69,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,49,69,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,49,69,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,49,69,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,49,69,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,49,64,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,49,64,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,49,64,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,49,64,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,49,64,1.0,10.0,0.0,0,12.34,5.94
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,44,69,1.0,10.0,0.0,0,12.71,5.54
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,44,64,1.0,10.0,0.0,0,12.89,7.02
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,39,54,1.0,10.0,0.0,0,12.71,5.54
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,39,64,1.0,10.0,0.0,0,10.5,6.98
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,39,69,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,39,69,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,39,69,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,39,69,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,39,69,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,39,69,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,39,64,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,39,64,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,39,64,1.0,10.0,0.0,0,10.45,5.65
+82,MKAM.O,MKAM ETF,5,60,14,39,64,1.0,10.0,0.0,0,12.34,5.94
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,39,69,1.0,10.0,0.0,0,13.81,6.36
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,39,64,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,39,64,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,39,64,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,39,64,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,39,64,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,39,64,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,39,64,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,39,64,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,39,69,1.0,10.0,0.0,0,13.27,7.66
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,39,69,1.0,10.0,0.0,0,12.9,6.48
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,44,64,1.0,10.0,0.0,0,11.23,6.89
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,39,69,1.0,10.0,0.0,0,12.89,7.02
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,39,74,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,39,74,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,39,74,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,39,74,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,39,74,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,39,74,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,39,74,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,39,74,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,39,74,1.0,10.0,0.0,0,12.15,4.8
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,39,69,1.0,10.0,0.0,0,11.23,6.89
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,39,69,1.0,10.0,0.0,0,11.6,7.12
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,39,69,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,39,69,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,39,69,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,39,69,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,39,69,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,39,69,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,39,69,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,39,69,1.0,10.0,0.0,0,9.85,7.6
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,39,64,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,39,64,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,39,64,1.0,10.0,0.0,0,13.61,6.13
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,39,54,1.0,10.0,0.0,0,13.92,8.64
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,39,59,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,39,54,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,39,54,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,39,54,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,39,54,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,39,54,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,39,54,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,39,54,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,14.08,8.09
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,39,54,1.0,10.0,0.0,0,11.77,5.66
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,39,64,1.0,10.0,0.0,0,12.73,8.93
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,39,54,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,39,54,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,39,54,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,39,54,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,39,54,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,39,54,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,39,54,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,39,54,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,39,54,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,39,59,1.0,10.0,0.0,0,12.71,5.54
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,39,59,1.0,10.0,0.0,0,12.79,5.63
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,39,59,1.0,10.0,0.0,0,12.73,8.93
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,39,59,1.0,10.0,0.0,0,13.61,6.13
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,39,64,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,39,64,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,39,64,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,39,59,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,39,59,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,39,59,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,39,59,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,39,59,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,39,59,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,39,59,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,39,59,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,39,59,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,39,59,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,39,59,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,39,59,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,39,59,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,39,59,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,39,59,1.0,10.0,0.0,0,13.97,8.91
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,39,74,1.0,10.0,0.0,0,11.6,7.12
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,39,74,1.0,10.0,0.0,0,9.85,7.6
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,39,74,1.0,10.0,0.0,0,11.77,5.66
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,44,59,1.0,10.0,0.0,0,13.81,6.36
+82,MKAM.O,MKAM ETF,5,60,14,44,59,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,44,59,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,44,59,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,44,59,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,44,59,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,44,59,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,44,59,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,44,59,1.0,10.0,0.0,0,12.9,6.48
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,44,59,1.0,10.0,0.0,0,13.27,7.66
+82,MKAM.O,MKAM ETF,5,60,14,44,54,1.0,10.0,0.0,0,12.34,5.94
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,44,59,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,44,59,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,44,59,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,44,59,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,44,59,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,44,59,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,44,54,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,44,54,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,44,54,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,44,59,1.0,10.0,0.0,0,10.5,6.98
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,44,59,1.0,10.0,0.0,0,10.45,5.65
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,44,59,1.0,10.0,0.0,0,11.23,6.89
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,44,59,1.0,10.0,0.0,0,12.89,7.02
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,44,64,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,44,64,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,44,64,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,44,64,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,44,64,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,44,64,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,44,64,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,44,64,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,44,64,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,44,64,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,44,64,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,44,64,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,44,64,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,44,64,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,44,64,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,44,64,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,44,64,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,44,64,1.0,10.0,0.0,0,12.15,4.8
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,44,54,1.0,10.0,0.0,0,10.5,6.98
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,44,54,1.0,10.0,0.0,0,13.37,5.74
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,39,74,1.0,10.0,0.0,0,13.92,8.64
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,39,79,1.0,10.0,0.0,0,12.79,5.63
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,39,79,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,39,79,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,39,79,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,39,79,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,39,79,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,39,79,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,39,79,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,39,79,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,39,79,1.0,10.0,0.0,0,12.73,8.93
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,39,79,1.0,10.0,0.0,0,12.71,5.54
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,44,54,1.0,10.0,0.0,0,12.55,8.1
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,39,79,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,39,74,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,39,74,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,39,74,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,39,74,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,39,74,1.0,10.0,0.0,0,12.34,5.94
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,39,74,1.0,10.0,0.0,0,13.37,5.74
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,39,74,1.0,10.0,0.0,0,12.55,8.1
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,39,79,1.0,10.0,0.0,0,13.92,8.64
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0,14.08,8.09
+82,IBTP.O,iShares iBonds Dec 2034 Term Treasury ETF,5,60,14,39,79,1.0,10.0,0.0,0,12.55,8.1
+82,AGGS.K,Harbor Disciplined Bond ETF,5,60,14,39,79,1.0,10.0,0.0,0,13.37,5.74
+82,FYEE.K,Fidelity Yield Enhanced Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,14.08,8.09
+82,ISEP.K,Innovator Intl Developed Power Buffer ETF - Sept,5,60,14,44,54,1.0,10.0,0.0,0,13.92,8.64
+82,BDGS.O,Bridges Capital Tactical ETF,5,60,14,44,54,1.0,10.0,0.0,0,11.77,5.66
+82,IMAR.K,Innovator Intl Developed Power Buffer ETF - March,5,60,14,44,54,1.0,10.0,0.0,0,9.85,7.6
+82,DECW.K,AllianzIM US Large Cap Buffer20 Dec ETF,5,60,14,44,54,1.0,10.0,0.0,0,11.6,7.12
+82,BSCY.O,Invesco BulletShares 2034 Corporate Bond ETF,5,60,14,44,54,1.0,10.0,0.0,0,12.9,6.48
+82,XSEP.K,FT Vest US Equity Enh & Mod Buffer ETF - Sept,5,60,14,44,54,1.0,10.0,0.0,0,13.81,6.36
+82,IBIK.K,iShares iBonds Oct 2034 Term TIPS ETF,5,60,14,44,54,1.0,10.0,0.0,0,13.27,7.66
+82,GQI,Natixis Gateway Quality Income ETF,5,60,14,44,54,1.0,10.0,0.0,0,13.97,8.91
+82,GJUL.K,FT Vest US Equity Moderate Buffer ETF - Jul,5,60,14,44,54,1.0,10.0,0.0,0,13.61,6.13
+82,AVMA.K,Avantis Moderate Allocation ETF,5,60,14,44,54,1.0,10.0,0.0,0,12.73,8.93
+82,AUGW.K,AllianzIM US Large Cap Buffer20 Aug ETF,5,60,14,44,54,1.0,10.0,0.0,0,12.79,5.63
+82,FEBW.K,AllianzIM US Large Cap Buffer20 Feb ETF,5,60,14,44,54,1.0,10.0,0.0,0,12.71,5.54
+82,APRW.K,AllianzIM US Large Cap Buffer20 Apr ETF,5,60,14,44,54,1.0,10.0,0.0,0,12.15,4.8
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,60,14,39,79,1.0,10.0,0.0,0,12.89,7.02
+82,NVBW.K,AllianzIM US Large Cap Buffer20 Nov ETF,5,60,14,39,79,1.0,10.0,0.0,0,11.23,6.89
+82,EVHY.K,Eaton Vance High Yield ETF,5,60,14,39,79,1.0,10.0,0.0,0,10.45,5.65
+82,CETF.K,DriveWealth NYSE 100 Index ETF,5,60,14,39,79,1.0,10.0,0.0,0,10.5,6.98
+82,MKAM.O,MKAM ETF,5,60,14,39,79,1.0,10.0,0.0,0,12.34,5.94
+82,IFEB.K,Innovator Intl Developed Power Buffer ETF - Feb,5,120,14,49,79,1.0,10.0,0.0,0,12.89,7.02

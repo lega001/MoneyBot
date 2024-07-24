@@ -1,0 +1,577 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,24,54,1.0,10.0,-1.39,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,24,54,1.0,10.0,-1.39,-20.44,-20.0,31.45
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,24,54,1.0,10.0,-1.39,0.0,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,24,54,1.0,10.0,-1.39,0.0,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,24,54,1.0,10.0,-1.39,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,24,54,1.0,10.0,-1.39,0.0,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,24,54,1.0,10.0,-1.39,0.0,-23.79,24.0
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,24,54,1.0,10.0,-1.39,9.3,-19.5,27.66
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,24,79,1.0,10.0,-1.72,9.3,-19.5,27.66
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,24,64,1.0,10.0,-1.72,0.0,-21.46,24.83
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,24,64,1.0,10.0,-1.72,0.0,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,24,64,1.0,10.0,-1.72,9.3,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,24,64,1.0,10.0,-1.72,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,24,59,1.0,10.0,-1.72,-23.04,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,24,59,1.0,10.0,-1.72,0.0,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,24,59,1.0,10.0,-1.72,0.0,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,24,59,1.0,10.0,-1.72,0.0,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,24,59,1.0,10.0,-1.72,0.0,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,24,59,1.0,10.0,-1.72,0.0,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,24,59,1.0,10.0,-1.72,9.3,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,24,59,1.0,10.0,-1.72,0.0,-23.22,28.68
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,24,79,1.0,10.0,-1.72,0.0,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,24,79,1.0,10.0,-1.72,0.0,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,24,79,1.0,10.0,-1.72,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,24,79,1.0,10.0,-1.72,0.0,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,24,79,1.0,10.0,-1.72,0.0,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,24,79,1.0,10.0,-1.72,-23.04,-20.0,31.45
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,24,64,1.0,10.0,-1.72,0.0,-24.14,28.88
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,24,64,1.0,10.0,-1.72,0.0,-21.95,23.95
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,24,79,1.0,10.0,-1.72,0.0,-23.22,28.68
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,24,64,1.0,10.0,-1.72,0.0,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,24,74,1.0,10.0,-1.72,-23.04,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,24,74,1.0,10.0,-1.72,0.0,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,24,74,1.0,10.0,-1.72,0.0,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,24,74,1.0,10.0,-1.72,0.0,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,24,74,1.0,10.0,-1.72,0.0,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,24,74,1.0,10.0,-1.72,0.0,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,24,74,1.0,10.0,-1.72,9.3,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,24,74,1.0,10.0,-1.72,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,24,69,1.0,10.0,-1.72,-23.04,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,24,69,1.0,10.0,-1.72,0.0,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,24,69,1.0,10.0,-1.72,0.0,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,24,69,1.0,10.0,-1.72,0.0,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,24,69,1.0,10.0,-1.72,0.0,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,24,69,1.0,10.0,-1.72,0.0,-20.11,27.7
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,24,69,1.0,10.0,-1.72,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,24,64,1.0,10.0,-1.72,-23.04,-20.0,31.45
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,24,69,1.0,10.0,-1.72,9.3,-19.5,27.66
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,24,54,1.0,10.0,-3.9,9.05,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,24,54,1.0,10.0,-3.9,0.0,-23.22,28.68
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,24,54,1.0,10.0,-3.9,0.0,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,24,54,1.0,10.0,-3.9,-24.82,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,24,54,1.0,10.0,-3.9,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,24,54,1.0,10.0,-3.9,0.0,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,24,54,1.0,10.0,-3.9,0.0,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,24,54,1.0,10.0,-3.9,-15.45,-20.0,31.45
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,24,59,1.0,10.0,-4.89,-23.37,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,24,64,1.0,10.0,-4.89,0.0,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,24,64,1.0,10.0,-4.89,0.0,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,24,64,1.0,10.0,-4.89,0.0,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,24,64,1.0,10.0,-4.89,-24.82,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,24,64,1.0,10.0,-4.89,0.0,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,24,64,1.0,10.0,-4.89,9.05,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,24,64,1.0,10.0,-4.89,0.0,-23.22,28.68
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,24,59,1.0,10.0,-4.89,0.0,-21.46,24.83
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,24,59,1.0,10.0,-4.89,0.0,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,24,59,1.0,10.0,-4.89,0.0,-21.95,23.95
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,24,69,1.0,10.0,-4.89,9.05,-19.5,27.66
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,24,59,1.0,10.0,-4.89,-24.82,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,24,59,1.0,10.0,-4.89,0.0,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,24,59,1.0,10.0,-4.89,9.05,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,24,59,1.0,10.0,-4.89,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,24,64,1.0,10.0,-4.89,-23.37,-20.0,31.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,24,69,1.0,10.0,-4.89,0.0,-23.22,28.68
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,24,74,1.0,10.0,-4.89,0.0,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,24,74,1.0,10.0,-4.89,0.0,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,24,79,1.0,10.0,-4.89,-23.37,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,24,79,1.0,10.0,-4.89,0.0,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,24,79,1.0,10.0,-4.89,0.0,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,24,79,1.0,10.0,-4.89,0.0,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,24,79,1.0,10.0,-4.89,-24.82,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,24,79,1.0,10.0,-4.89,0.0,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,24,79,1.0,10.0,-4.89,9.05,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,24,79,1.0,10.0,-4.89,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,24,74,1.0,10.0,-4.89,-23.37,-20.0,31.45
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,24,69,1.0,10.0,-4.89,0.0,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,24,69,1.0,10.0,-4.89,-24.82,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,24,74,1.0,10.0,-4.89,0.0,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,24,74,1.0,10.0,-4.89,-24.82,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,24,74,1.0,10.0,-4.89,0.0,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,24,74,1.0,10.0,-4.89,9.05,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,24,74,1.0,10.0,-4.89,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,24,69,1.0,10.0,-4.89,-23.37,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,24,69,1.0,10.0,-4.89,0.0,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,24,69,1.0,10.0,-4.89,0.0,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,24,69,1.0,10.0,-4.89,0.0,-21.46,24.83
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,29,54,1.0,10.0,-6.75,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,29,54,1.0,10.0,-6.75,9.3,-19.5,27.66
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,29,54,1.0,10.0,-6.75,0.0,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,29,54,1.0,10.0,-6.75,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,29,54,1.0,10.0,-6.75,-19.24,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,29,54,1.0,10.0,-6.75,-28.2,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,29,54,1.0,10.0,-6.75,-15.88,-20.0,31.45
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,29,54,1.0,10.0,-6.75,0.0,-20.11,27.7
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,29,69,1.0,10.0,-7.65,0.0,-23.22,28.68
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,29,74,1.0,10.0,-7.65,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,29,69,1.0,10.0,-7.65,-19.24,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,29,69,1.0,10.0,-7.65,-28.2,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,29,69,1.0,10.0,-7.65,-23.04,-20.0,31.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,29,74,1.0,10.0,-7.65,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,29,74,1.0,10.0,-7.65,9.3,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,29,74,1.0,10.0,-7.65,0.0,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,29,74,1.0,10.0,-7.65,0.0,-24.14,28.88
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,29,74,1.0,10.0,-7.65,-23.04,-20.0,31.45
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,29,74,1.0,10.0,-7.65,-19.24,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,29,74,1.0,10.0,-7.65,-28.2,-23.79,24.0
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,29,69,1.0,10.0,-7.65,0.0,-24.14,28.88
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,29,79,1.0,10.0,-7.65,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,29,79,1.0,10.0,-7.65,9.3,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,29,79,1.0,10.0,-7.65,0.0,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,29,79,1.0,10.0,-7.65,0.0,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,29,79,1.0,10.0,-7.65,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,29,79,1.0,10.0,-7.65,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,29,69,1.0,10.0,-7.65,0.0,-21.46,24.83
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,29,79,1.0,10.0,-7.65,-28.2,-23.79,24.0
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,29,69,1.0,10.0,-7.65,0.0,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,29,69,1.0,10.0,-7.65,9.3,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,29,59,1.0,10.0,-7.65,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,29,59,1.0,10.0,-7.65,9.3,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,29,59,1.0,10.0,-7.65,0.0,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,29,59,1.0,10.0,-7.65,0.0,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,29,59,1.0,10.0,-7.65,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,29,59,1.0,10.0,-7.65,-19.24,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,29,59,1.0,10.0,-7.65,-28.2,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,29,59,1.0,10.0,-7.65,-23.04,-20.0,31.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,29,64,1.0,10.0,-7.65,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,29,64,1.0,10.0,-7.65,9.3,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,29,64,1.0,10.0,-7.65,0.0,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,29,64,1.0,10.0,-7.65,0.0,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,29,64,1.0,10.0,-7.65,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,29,64,1.0,10.0,-7.65,-19.24,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,29,64,1.0,10.0,-7.65,-28.2,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,29,64,1.0,10.0,-7.65,-23.04,-20.0,31.45
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,29,79,1.0,10.0,-7.65,-23.04,-20.0,31.45
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,29,54,1.0,10.0,-10.34,9.05,-19.5,27.66
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,29,54,1.0,10.0,-10.34,-24.82,-24.14,28.88
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,29,54,1.0,10.0,-10.34,0.0,-23.22,28.68
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,29,54,1.0,10.0,-10.34,0.0,-20.11,27.7
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,29,54,1.0,10.0,-10.34,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,29,54,1.0,10.0,-10.34,-21.94,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,29,54,1.0,10.0,-10.34,-25.27,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,29,54,1.0,10.0,-10.34,-19.75,-20.0,31.45
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,29,69,1.0,10.0,-10.8,9.05,-19.5,27.66
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,29,59,1.0,10.0,-10.8,-23.37,-20.0,31.45
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,29,64,1.0,10.0,-10.8,-21.94,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,29,64,1.0,10.0,-10.8,0.0,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,29,64,1.0,10.0,-10.8,-24.82,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,29,64,1.0,10.0,-10.8,0.0,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,29,64,1.0,10.0,-10.8,9.05,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,29,64,1.0,10.0,-10.8,0.0,-23.22,28.68
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,29,59,1.0,10.0,-10.8,0.0,-21.46,24.83
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,29,59,1.0,10.0,-10.8,-25.27,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,29,59,1.0,10.0,-10.8,-21.94,-21.95,23.95
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,29,64,1.0,10.0,-10.8,-23.37,-20.0,31.45
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,29,59,1.0,10.0,-10.8,-24.82,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,29,59,1.0,10.0,-10.8,0.0,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,29,59,1.0,10.0,-10.8,9.05,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,29,59,1.0,10.0,-10.8,0.0,-23.22,28.68
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,29,64,1.0,10.0,-10.8,-25.27,-23.79,24.0
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,29,69,1.0,10.0,-10.8,0.0,-23.22,28.68
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,29,79,1.0,10.0,-10.8,-21.94,-21.95,23.95
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,29,74,1.0,10.0,-10.8,-24.82,-24.14,28.88
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,29,79,1.0,10.0,-10.8,-24.82,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,29,79,1.0,10.0,-10.8,0.0,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,29,79,1.0,10.0,-10.8,9.05,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,29,79,1.0,10.0,-10.8,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,29,74,1.0,10.0,-10.8,-23.37,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,29,74,1.0,10.0,-10.8,-25.27,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,29,74,1.0,10.0,-10.8,-21.94,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,29,74,1.0,10.0,-10.8,0.0,-21.46,24.83
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,29,74,1.0,10.0,-10.8,0.0,-20.11,27.7
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,29,79,1.0,10.0,-10.8,-25.27,-23.79,24.0
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,29,74,1.0,10.0,-10.8,9.05,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,29,74,1.0,10.0,-10.8,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,29,69,1.0,10.0,-10.8,-23.37,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,29,69,1.0,10.0,-10.8,-25.27,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,29,69,1.0,10.0,-10.8,-21.94,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,29,69,1.0,10.0,-10.8,0.0,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,29,69,1.0,10.0,-10.8,-24.82,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,29,69,1.0,10.0,-10.8,0.0,-20.11,27.7
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,29,79,1.0,10.0,-10.8,-23.37,-20.0,31.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,29,79,1.0,10.0,-10.8,0.0,-21.46,24.83
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,34,54,1.0,10.0,-15.93,0.0,-21.46,24.83
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,34,54,1.0,10.0,-15.93,-22.82,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,34,54,1.0,10.0,-15.93,-21.94,-21.95,23.95
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,34,54,1.0,10.0,-15.93,-22.74,-20.0,31.45
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,34,54,1.0,10.0,-15.93,-43.58,-24.14,28.88
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,34,54,1.0,10.0,-15.93,0.0,-23.22,28.68
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,34,54,1.0,10.0,-15.93,-25.4,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,34,54,1.0,10.0,-15.93,9.05,-19.5,27.66
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,34,79,1.0,10.0,-16.01,-21.94,-21.95,23.95
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,34,74,1.0,10.0,-16.01,-43.58,-24.14,28.88
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,34,69,1.0,10.0,-16.01,-21.94,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,34,69,1.0,10.0,-16.01,-22.82,-23.79,24.0
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,34,79,1.0,10.0,-16.01,-22.82,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,34,69,1.0,10.0,-16.01,-23.37,-20.0,31.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,34,74,1.0,10.0,-16.01,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,34,74,1.0,10.0,-16.01,9.05,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,34,74,1.0,10.0,-16.01,-25.4,-20.11,27.7
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,34,74,1.0,10.0,-16.01,0.0,-21.46,24.83
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,34,79,1.0,10.0,-16.01,0.0,-21.46,24.83
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,34,69,1.0,10.0,-16.01,0.0,-21.46,24.83
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,34,74,1.0,10.0,-16.01,-22.82,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,34,74,1.0,10.0,-16.01,-23.37,-20.0,31.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,34,79,1.0,10.0,-16.01,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,34,79,1.0,10.0,-16.01,9.05,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,34,79,1.0,10.0,-16.01,-25.4,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,34,79,1.0,10.0,-16.01,-43.58,-24.14,28.88
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,34,74,1.0,10.0,-16.01,-21.94,-21.95,23.95
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,34,69,1.0,10.0,-16.01,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,34,69,1.0,10.0,-16.01,-25.4,-20.11,27.7
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,34,59,1.0,10.0,-16.01,-23.37,-20.0,31.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,34,59,1.0,10.0,-16.01,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,34,59,1.0,10.0,-16.01,9.05,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,34,59,1.0,10.0,-16.01,-25.4,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,34,59,1.0,10.0,-16.01,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,34,59,1.0,10.0,-16.01,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,34,59,1.0,10.0,-16.01,-21.94,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,34,59,1.0,10.0,-16.01,-22.82,-23.79,24.0
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,34,64,1.0,10.0,-16.01,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,34,69,1.0,10.0,-16.01,9.05,-19.5,27.66
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,34,64,1.0,10.0,-16.01,9.05,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,34,64,1.0,10.0,-16.01,-25.4,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,34,64,1.0,10.0,-16.01,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,34,64,1.0,10.0,-16.01,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,34,64,1.0,10.0,-16.01,-21.94,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,34,64,1.0,10.0,-16.01,-22.82,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,34,64,1.0,10.0,-16.01,-23.37,-20.0,31.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,34,69,1.0,10.0,-16.01,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,34,79,1.0,10.0,-16.01,-23.37,-20.0,31.45
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,34,54,1.0,10.0,-16.56,-22.68,-20.0,31.45
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,34,54,1.0,10.0,-16.56,9.3,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,34,54,1.0,10.0,-16.56,-28.11,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,34,54,1.0,10.0,-16.56,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,34,54,1.0,10.0,-16.56,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,34,54,1.0,10.0,-16.56,-19.24,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,34,54,1.0,10.0,-16.56,-28.2,-23.79,24.0
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,34,54,1.0,10.0,-16.56,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,34,69,1.0,10.0,-16.61,-23.04,-20.0,31.45
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,34,74,1.0,10.0,-16.61,-28.11,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,34,74,1.0,10.0,-16.61,9.3,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,34,74,1.0,10.0,-16.61,0.0,-23.22,28.68
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,34,69,1.0,10.0,-16.61,0.0,-23.22,28.68
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,34,69,1.0,10.0,-16.61,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,34,69,1.0,10.0,-16.61,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,34,74,1.0,10.0,-16.61,0.0,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,34,74,1.0,10.0,-16.61,-43.58,-24.14,28.88
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,34,79,1.0,10.0,-16.61,0.0,-23.22,28.68
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,34,74,1.0,10.0,-16.61,-19.24,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,34,74,1.0,10.0,-16.61,-28.2,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,34,74,1.0,10.0,-16.61,-23.04,-20.0,31.45
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,34,69,1.0,10.0,-16.61,-43.58,-24.14,28.88
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,34,79,1.0,10.0,-16.61,9.3,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,34,79,1.0,10.0,-16.61,-28.11,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,34,79,1.0,10.0,-16.61,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,34,79,1.0,10.0,-16.61,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,34,79,1.0,10.0,-16.61,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,34,69,1.0,10.0,-16.61,0.0,-21.46,24.83
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,34,64,1.0,10.0,-16.61,-23.04,-20.0,31.45
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,34,69,1.0,10.0,-16.61,-28.11,-20.11,27.7
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,34,59,1.0,10.0,-16.61,-23.04,-20.0,31.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,34,59,1.0,10.0,-16.61,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,34,59,1.0,10.0,-16.61,9.3,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,34,59,1.0,10.0,-16.61,-28.11,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,34,59,1.0,10.0,-16.61,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,34,59,1.0,10.0,-16.61,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,34,59,1.0,10.0,-16.61,-19.24,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,34,59,1.0,10.0,-16.61,-28.2,-23.79,24.0
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,34,64,1.0,10.0,-16.61,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,34,69,1.0,10.0,-16.61,9.3,-19.5,27.66
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,34,64,1.0,10.0,-16.61,9.3,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,34,64,1.0,10.0,-16.61,-28.11,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,34,64,1.0,10.0,-16.61,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,34,64,1.0,10.0,-16.61,0.0,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,34,64,1.0,10.0,-16.61,-19.24,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,34,64,1.0,10.0,-16.61,-28.2,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,34,79,1.0,10.0,-16.61,-23.04,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,34,79,1.0,10.0,-16.61,-28.2,-23.79,24.0
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,39,54,1.0,10.0,-18.87,0.0,-23.22,28.68
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,39,54,1.0,10.0,-18.87,-21.94,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,39,54,1.0,10.0,-18.87,-23.55,-21.46,24.83
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,39,54,1.0,10.0,-18.87,9.05,-19.5,27.66
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,44,54,1.0,10.0,-18.87,-22.7,-20.0,31.45
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,49,54,1.0,10.0,-18.87,-22.7,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,49,54,1.0,10.0,-18.87,-22.82,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,49,54,1.0,10.0,-18.87,-21.94,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,49,54,1.0,10.0,-18.87,-23.55,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,49,54,1.0,10.0,-18.87,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,49,54,1.0,10.0,-18.87,-25.4,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,49,54,1.0,10.0,-18.87,9.05,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,49,54,1.0,10.0,-18.87,0.0,-23.22,28.68
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,44,54,1.0,10.0,-18.87,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,44,54,1.0,10.0,-18.87,9.05,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,44,54,1.0,10.0,-18.87,-25.4,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,44,54,1.0,10.0,-18.87,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,44,54,1.0,10.0,-18.87,-23.55,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,44,54,1.0,10.0,-18.87,-21.94,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,44,54,1.0,10.0,-18.87,-22.82,-23.79,24.0
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,39,54,1.0,10.0,-18.87,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,39,54,1.0,10.0,-18.87,-25.4,-20.11,27.7
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,39,54,1.0,10.0,-18.87,-22.82,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,39,54,1.0,10.0,-18.87,-22.7,-20.0,31.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,44,59,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,44,59,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,39,79,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,44,64,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,44,64,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,44,64,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,44,64,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,39,79,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,39,79,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,39,79,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,44,59,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,44,59,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,44,59,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,44,59,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,44,59,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,44,59,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,39,79,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,39,79,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,39,74,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,39,79,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,39,59,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,39,64,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,39,64,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,39,64,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,39,64,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,39,64,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,39,64,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,39,59,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,39,64,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,39,59,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,39,59,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,39,59,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,39,59,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,39,59,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,39,59,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,39,64,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,39,69,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,39,79,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,39,74,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,44,64,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,39,74,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,39,74,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,39,74,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,39,74,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,39,74,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,39,74,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,39,69,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,39,69,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,39,69,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,39,69,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,39,69,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,39,69,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,39,69,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,44,64,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,44,64,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,44,64,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,49,74,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,49,64,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,49,64,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,49,64,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,49,64,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,44,69,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,49,64,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,49,69,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,49,69,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,49,69,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,49,69,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,49,69,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,49,69,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,49,69,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,49,69,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,49,74,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,49,64,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,49,74,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,49,74,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,49,74,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,49,74,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,49,74,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,49,74,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,49,79,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,49,79,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,49,79,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,49,79,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,49,79,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,49,79,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,49,79,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,49,79,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,49,64,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,49,64,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,49,59,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,44,74,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,44,69,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,44,69,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,44,69,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,44,69,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,44,69,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,44,69,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,44,69,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,49,59,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,44,74,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,44,74,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,44,74,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,44,74,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,44,74,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,44,74,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,44,74,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,44,79,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,49,59,1.0,10.0,-18.95,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,44,79,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,49,59,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,49,59,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,49,59,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,49,59,1.0,10.0,-18.95,9.05,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,49,59,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,SZK,ProShares UltraShort Consumer Staples,5,60,14,44,79,1.0,10.0,-18.95,-23.37,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,44,79,1.0,10.0,-18.95,-22.82,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,44,79,1.0,10.0,-18.95,-21.94,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,44,79,1.0,10.0,-18.95,-23.55,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,44,79,1.0,10.0,-18.95,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,44,79,1.0,10.0,-18.95,-25.4,-20.11,27.7
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,49,54,1.0,10.0,-19.5,0.0,-23.22,28.68
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,44,54,1.0,10.0,-19.5,-26.24,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,44,54,1.0,10.0,-19.5,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,44,54,1.0,10.0,-19.5,-25.4,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,44,54,1.0,10.0,-19.5,-19.24,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,44,54,1.0,10.0,-19.5,-28.2,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,44,54,1.0,10.0,-19.5,-22.68,-20.0,31.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,44,54,1.0,10.0,-19.5,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,49,54,1.0,10.0,-19.5,9.3,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,49,54,1.0,10.0,-19.5,-26.24,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,49,54,1.0,10.0,-19.5,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,49,54,1.0,10.0,-19.5,-25.4,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,49,54,1.0,10.0,-19.5,-19.24,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,49,54,1.0,10.0,-19.5,-28.2,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,49,54,1.0,10.0,-19.5,-22.68,-20.0,31.45
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,44,54,1.0,10.0,-19.5,9.3,-19.5,27.66
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,39,54,1.0,10.0,-19.5,9.3,-19.5,27.66
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,39,54,1.0,10.0,-19.5,-22.68,-20.0,31.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,39,54,1.0,10.0,-19.5,0.0,-23.22,28.68
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,39,54,1.0,10.0,-19.5,-26.24,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,39,54,1.0,10.0,-19.5,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,39,54,1.0,10.0,-19.5,-25.4,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,39,54,1.0,10.0,-19.5,-19.24,-21.95,23.95
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,39,54,1.0,10.0,-19.5,-28.2,-23.79,24.0
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,39,64,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,49,59,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,49,59,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,49,59,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,49,59,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,49,59,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,49,59,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,49,59,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,39,59,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,49,64,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,44,79,1.0,10.0,-19.55,-23.04,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,44,79,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,44,79,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,44,79,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,44,79,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,44,79,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,44,79,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,44,79,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,44,74,1.0,10.0,-19.55,-23.04,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,44,74,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,44,74,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,44,74,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,44,74,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,49,59,1.0,10.0,-19.55,-23.04,-20.0,31.45
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,49,64,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,44,74,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,49,74,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,49,79,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,49,79,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,49,79,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,49,79,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,49,79,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,49,79,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,49,79,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,49,74,1.0,10.0,-19.55,-23.04,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,49,74,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,49,74,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,49,74,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,49,74,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,49,74,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,49,74,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,49,64,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,49,69,1.0,10.0,-19.55,-23.04,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,49,69,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,49,69,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,49,69,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,49,69,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,49,69,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,49,69,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,49,69,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,49,64,1.0,10.0,-19.55,-23.04,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,49,64,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,49,64,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,49,64,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,49,64,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,44,74,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,44,74,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,39,64,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,39,74,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,39,79,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,39,79,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,39,79,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,39,79,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,39,79,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,39,79,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,39,79,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,39,74,1.0,10.0,-19.55,-23.04,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,39,74,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,39,74,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,39,74,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,39,74,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,39,74,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,39,74,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,39,64,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,39,69,1.0,10.0,-19.55,-23.04,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,39,69,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,39,69,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,39,69,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,39,69,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,39,69,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,39,69,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,39,69,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,39,64,1.0,10.0,-19.55,-23.04,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,39,64,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,39,64,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,39,64,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,39,64,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,39,79,1.0,10.0,-19.55,-23.04,-20.0,31.45
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,39,59,1.0,10.0,-19.55,-23.04,-20.0,31.45
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,44,69,1.0,10.0,-19.55,-23.04,-20.0,31.45
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,44,64,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,44,69,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,44,69,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,44,69,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,44,69,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,44,69,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,44,69,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,44,69,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,44,64,1.0,10.0,-19.55,-23.04,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,44,64,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,44,64,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,44,64,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,44,64,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,44,64,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,44,64,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,39,59,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,44,59,1.0,10.0,-19.55,-23.04,-20.0,31.45
+145,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,44,59,1.0,10.0,-19.55,-28.2,-23.79,24.0
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,44,59,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,44,59,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,44,59,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,44,59,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,44,59,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,44,59,1.0,10.0,-19.55,0.0,-23.22,28.68
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,39,59,1.0,10.0,-19.55,9.3,-19.5,27.66
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,39,59,1.0,10.0,-19.55,-26.24,-20.11,27.7
+145,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,39,59,1.0,10.0,-19.55,-43.58,-24.14,28.88
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,39,59,1.0,10.0,-19.55,-25.4,-21.46,24.83
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,39,59,1.0,10.0,-19.55,-19.24,-21.95,23.95
+145,SZK,ProShares UltraShort Consumer Staples,5,120,14,49,79,1.0,10.0,-19.55,-23.04,-20.0,31.45

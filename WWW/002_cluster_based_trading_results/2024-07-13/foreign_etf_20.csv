@@ -1,0 +1,361 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,44,59,1.0,10.0,90.25,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,44,59,1.0,10.0,90.25,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,120,14,44,59,1.0,10.0,90.25,205.89,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,44,59,1.0,10.0,90.25,218.7,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,44,59,1.0,10.0,90.25,26.66,73.85,60.08
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,44,54,1.0,10.0,76.05,22.63,73.85,60.08
+20,USD,ProShares Ultra Semiconductors,5,120,14,44,54,1.0,10.0,76.05,201.03,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,44,54,1.0,10.0,76.05,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,44,54,1.0,10.0,76.05,0.0,69.85,49.85
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,44,54,1.0,10.0,76.05,156.6,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,44,64,1.0,10.0,49.96,45.2,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,44,64,1.0,10.0,49.96,151.17,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,120,14,44,64,1.0,10.0,49.96,53.45,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,44,64,1.0,10.0,49.96,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,44,64,1.0,10.0,49.96,0.0,69.85,49.85
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,44,59,1.0,10.0,49.63,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,44,59,1.0,10.0,49.63,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,60,14,44,59,1.0,10.0,49.63,109.83,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,44,59,1.0,10.0,49.63,90.6,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,44,59,1.0,10.0,49.63,47.7,73.85,60.08
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,49,59,1.0,10.0,43.6,54.88,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,49,59,1.0,10.0,43.6,90.6,73.88,62.77
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,49,59,1.0,10.0,43.6,0.0,69.85,49.85
+20,USD,ProShares Ultra Semiconductors,5,60,14,49,59,1.0,10.0,43.6,72.51,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,49,59,1.0,10.0,43.6,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,44,79,1.0,10.0,42.99,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,44,79,1.0,10.0,42.99,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,120,14,44,79,1.0,10.0,42.99,90.73,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,44,79,1.0,10.0,42.99,74.32,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,44,79,1.0,10.0,42.99,49.92,73.85,60.08
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,49,64,1.0,10.0,42.14,0.0,71.03,57.02
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,49,64,1.0,10.0,42.14,71.76,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,49,64,1.0,10.0,42.14,0.0,69.85,49.85
+20,USD,ProShares Ultra Semiconductors,5,60,14,49,64,1.0,10.0,42.14,52.81,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,49,64,1.0,10.0,42.14,86.13,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,49,79,1.0,10.0,41.89,76.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,49,79,1.0,10.0,41.89,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,49,79,1.0,10.0,41.89,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,49,79,1.0,10.0,41.89,73.24,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,49,79,1.0,10.0,41.89,60.22,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,49,69,1.0,10.0,41.75,64.96,65.99,57.3
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,49,69,1.0,10.0,41.75,85.66,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,49,69,1.0,10.0,41.75,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,49,69,1.0,10.0,41.75,0.0,71.03,57.02
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,49,69,1.0,10.0,41.75,58.14,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,44,74,1.0,10.0,41.12,49.92,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,44,74,1.0,10.0,41.12,77.78,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,120,14,44,74,1.0,10.0,41.12,77.9,65.99,57.3
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,44,74,1.0,10.0,41.12,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,44,74,1.0,10.0,41.12,0.0,71.03,57.02
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,44,79,1.0,10.0,40.61,0.0,71.03,57.02
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,44,79,1.0,10.0,40.61,60.22,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,44,79,1.0,10.0,40.61,74.9,65.99,57.3
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,44,79,1.0,10.0,40.61,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,44,79,1.0,10.0,40.61,67.92,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,49,54,1.0,10.0,40.12,51.77,73.88,62.77
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,49,54,1.0,10.0,40.12,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,49,54,1.0,10.0,40.12,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,60,14,49,54,1.0,10.0,40.12,68.61,65.99,57.3
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,49,54,1.0,10.0,40.12,80.24,73.85,60.08
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,49,74,1.0,10.0,40.08,71.46,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,49,74,1.0,10.0,40.08,61.1,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,49,74,1.0,10.0,40.08,67.85,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,49,74,1.0,10.0,40.08,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,49,74,1.0,10.0,40.08,0.0,69.85,49.85
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,44,64,1.0,10.0,39.93,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,44,64,1.0,10.0,39.93,63.09,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,44,64,1.0,10.0,39.93,86.13,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,44,64,1.0,10.0,39.93,50.44,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,44,64,1.0,10.0,39.93,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,44,69,1.0,10.0,39.48,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,44,69,1.0,10.0,39.48,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,120,14,44,69,1.0,10.0,39.48,73.04,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,44,69,1.0,10.0,39.48,74.42,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,44,69,1.0,10.0,39.48,49.92,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,44,74,1.0,10.0,39.42,0.0,69.85,49.85
+20,USD,ProShares Ultra Semiconductors,5,60,14,44,74,1.0,10.0,39.42,68.08,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,44,74,1.0,10.0,39.42,0.0,71.03,57.02
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,44,74,1.0,10.0,39.42,61.1,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,44,74,1.0,10.0,39.42,67.92,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,44,54,1.0,10.0,38.88,0.0,69.85,49.85
+20,USD,ProShares Ultra Semiconductors,5,60,14,44,54,1.0,10.0,38.88,87.97,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,44,54,1.0,10.0,38.88,0.0,71.03,57.02
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,44,54,1.0,10.0,38.88,51.77,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,44,54,1.0,10.0,38.88,54.65,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,44,69,1.0,10.0,38.05,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,44,69,1.0,10.0,38.05,67.92,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,44,69,1.0,10.0,38.05,58.14,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,44,69,1.0,10.0,38.05,64.2,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,44,69,1.0,10.0,38.05,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,49,79,1.0,10.0,36.83,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,49,79,1.0,10.0,36.83,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,120,14,49,79,1.0,10.0,36.83,76.81,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,49,79,1.0,10.0,36.83,49.83,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,49,79,1.0,10.0,36.83,57.52,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,49,69,1.0,10.0,35.86,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,49,69,1.0,10.0,35.86,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,120,14,49,69,1.0,10.0,35.86,65.17,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,49,69,1.0,10.0,35.86,46.25,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,49,69,1.0,10.0,35.86,67.86,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,49,59,1.0,10.0,35.29,51.77,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,49,59,1.0,10.0,35.29,28.52,73.85,60.08
+20,USD,ProShares Ultra Semiconductors,5,120,14,49,59,1.0,10.0,35.29,96.15,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,49,59,1.0,10.0,35.29,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,49,59,1.0,10.0,35.29,0.0,69.85,49.85
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,49,74,1.0,10.0,34.58,49.25,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,49,74,1.0,10.0,34.58,55.45,73.85,60.08
+20,USD,ProShares Ultra Semiconductors,5,120,14,49,74,1.0,10.0,34.58,68.22,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,49,74,1.0,10.0,34.58,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,49,74,1.0,10.0,34.58,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,49,64,1.0,10.0,33.04,54.67,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,49,64,1.0,10.0,33.04,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,49,64,1.0,10.0,33.04,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,120,14,49,64,1.0,10.0,33.04,51.83,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,49,64,1.0,10.0,33.04,58.72,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,49,54,1.0,10.0,32.59,28.11,73.85,60.08
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,49,54,1.0,10.0,32.59,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,49,54,1.0,10.0,32.59,0.0,69.85,49.85
+20,USD,ProShares Ultra Semiconductors,5,120,14,49,54,1.0,10.0,32.59,121.63,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,49,54,1.0,10.0,32.59,13.2,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,39,74,1.0,10.0,13.58,0.0,65.99,57.3
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,39,79,1.0,10.0,13.58,0.0,69.85,49.85
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,39,74,1.0,10.0,13.58,0.0,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,39,69,1.0,10.0,13.58,67.92,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,39,69,1.0,10.0,13.58,0.0,73.88,62.77
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,39,69,1.0,10.0,13.58,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,39,69,1.0,10.0,13.58,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,39,74,1.0,10.0,13.58,67.92,73.85,60.08
+20,USD,ProShares Ultra Semiconductors,5,60,14,39,69,1.0,10.0,13.58,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,39,79,1.0,10.0,13.58,0.0,71.03,57.02
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,39,74,1.0,10.0,13.58,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,39,74,1.0,10.0,13.58,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,39,79,1.0,10.0,13.58,67.92,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,39,79,1.0,10.0,13.58,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,39,79,1.0,10.0,13.58,0.0,65.99,57.3
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,39,64,1.0,10.0,12.62,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,39,64,1.0,10.0,12.62,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,60,14,39,64,1.0,10.0,12.62,0.0,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,39,64,1.0,10.0,12.62,0.0,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,39,64,1.0,10.0,12.62,63.09,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,39,54,1.0,10.0,10.93,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,39,54,1.0,10.0,10.93,54.65,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,39,54,1.0,10.0,10.93,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,39,54,1.0,10.0,10.93,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,39,54,1.0,10.0,10.93,0.0,71.03,57.02
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,39,59,1.0,10.0,9.54,0.0,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,39,59,1.0,10.0,9.54,47.7,73.85,60.08
+20,USD,ProShares Ultra Semiconductors,5,60,14,39,59,1.0,10.0,9.54,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,39,59,1.0,10.0,9.54,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,39,59,1.0,10.0,9.54,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,120,14,34,59,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,69.85,49.85
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,34,64,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,120,14,34,64,1.0,10.0,0.0,0.0,65.99,57.3
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,34,69,1.0,10.0,0.0,0.0,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,34,59,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,120,14,34,69,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,34,74,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,73.88,62.77
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,73.88,62.77
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,69.85,49.85
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,69.85,49.85
+20,USD,ProShares Ultra Semiconductors,5,120,14,29,69,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,29,74,1.0,10.0,0.0,0.0,73.85,60.08
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,120,14,29,74,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,71.03,57.02
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,29,79,1.0,10.0,0.0,0.0,73.85,60.08
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,71.03,57.02
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,120,14,29,79,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,34,54,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,120,14,34,54,1.0,10.0,0.0,0.0,65.99,57.3
+20,USD,ProShares Ultra Semiconductors,5,120,14,34,74,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,69.85,49.85
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,73.88,62.77
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,120,14,39,64,1.0,10.0,0.0,0.0,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,39,64,1.0,10.0,0.0,0.0,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,120,14,39,59,1.0,10.0,0.0,0.0,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,39,59,1.0,10.0,0.0,0.0,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,120,14,39,54,1.0,10.0,0.0,0.0,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,29,69,1.0,10.0,0.0,0.0,73.85,60.08
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,39,69,1.0,10.0,0.0,0.0,73.85,60.08
+20,USD,ProShares Ultra Semiconductors,5,120,14,39,69,1.0,10.0,0.0,0.0,65.99,57.3
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,34,79,1.0,10.0,0.0,0.0,73.85,60.08
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,71.03,57.02
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,120,14,34,79,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,39,54,1.0,10.0,0.0,0.0,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,69.85,49.85
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,120,14,39,79,1.0,10.0,0.0,0.0,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,39,79,1.0,10.0,0.0,0.0,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,69.85,49.85
+20,USD,ProShares Ultra Semiconductors,5,120,14,39,74,1.0,10.0,0.0,0.0,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,39,74,1.0,10.0,0.0,0.0,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,69.85,49.85
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,24,54,1.0,10.0,0.0,0.0,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,29,74,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,29,59,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,29,64,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,29,64,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,29,69,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,29,69,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,69.85,49.85
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,73.88,62.77
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,69.85,49.85
+20,USD,ProShares Ultra Semiconductors,5,60,14,29,74,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,29,79,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,29,79,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,34,54,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,34,54,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,34,59,1.0,10.0,0.0,0.0,73.85,60.08
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,29,59,1.0,10.0,0.0,0.0,73.85,60.08
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,71.03,57.02
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,71.03,57.02
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,24,54,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,24,59,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,24,59,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,24,64,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,24,64,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,24,69,1.0,10.0,0.0,0.0,73.85,60.08
+20,USD,ProShares Ultra Semiconductors,5,60,14,24,69,1.0,10.0,0.0,0.0,65.99,57.3
+20,USD,ProShares Ultra Semiconductors,5,60,14,29,54,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,24,74,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,24,74,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,24,79,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,24,79,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,29,54,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,73.88,62.77
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,34,59,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,71.03,57.02
+20,USD,ProShares Ultra Semiconductors,5,120,14,24,79,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,24,69,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,120,14,24,69,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,24,74,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,120,14,24,74,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,24,79,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,73.88,62.77
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,69.85,49.85
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,29,54,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,120,14,29,54,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,29,59,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,120,14,29,59,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,29,64,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,120,14,29,64,1.0,10.0,0.0,0.0,65.99,57.3
+20,USD,ProShares Ultra Semiconductors,5,120,14,24,64,1.0,10.0,0.0,0.0,65.99,57.3
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,73.88,62.77
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,24,64,1.0,10.0,0.0,0.0,73.85,60.08
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,34,64,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,34,64,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,34,69,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,34,69,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,34,74,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,34,74,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,60,14,34,79,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,60,14,34,79,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,69.85,49.85
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,73.88,62.77
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,120,14,24,54,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,71.03,57.02
+20,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,69.85,49.85
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,24,59,1.0,10.0,0.0,0.0,73.85,60.08
+20,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,73.88,62.77
+20,USD,ProShares Ultra Semiconductors,5,120,14,24,59,1.0,10.0,0.0,0.0,65.99,57.3
+20,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,71.03,57.02
+20,TQQQ.O,ProShares UltraPro QQQ,5,120,14,24,54,1.0,10.0,0.0,0.0,73.85,60.08

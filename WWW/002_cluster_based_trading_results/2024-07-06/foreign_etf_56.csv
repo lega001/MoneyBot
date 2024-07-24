@@ -1,0 +1,865 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,49,74,1.0,10.0,2.52,0.0,28.74,15.6
+56,XNAV.K,FundX Aggressive ETF,5,120,14,49,74,1.0,10.0,2.52,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,74,1.0,10.0,2.52,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,49,74,1.0,10.0,2.52,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,49,74,1.0,10.0,2.52,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,49,74,1.0,10.0,2.52,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,74,1.0,10.0,2.52,30.25,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,49,74,1.0,10.0,2.52,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,49,74,1.0,10.0,2.52,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,49,74,1.0,10.0,2.52,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,49,74,1.0,10.0,2.52,0.0,27.63,16.03
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,49,74,1.0,10.0,2.52,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,49,79,1.0,10.0,2.49,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,79,1.0,10.0,2.49,0.0,28.71,18.93
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,49,79,1.0,10.0,2.49,0.0,28.4,14.62
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,49,79,1.0,10.0,2.49,0.0,28.04,17.76
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,49,79,1.0,10.0,2.49,0.0,28.74,15.6
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,49,79,1.0,10.0,2.49,0.0,27.63,16.03
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,49,79,1.0,10.0,2.49,0.0,29.57,16.03
+56,IBOT.O,VanEck Robotics ETF,5,120,14,49,79,1.0,10.0,2.49,0.0,28.52,17.35
+56,XCOR.K,FundX ETF,5,120,14,49,79,1.0,10.0,2.49,0.0,26.32,15.1
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,79,1.0,10.0,2.49,29.94,25.91,19.0
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,49,79,1.0,10.0,2.49,0.0,26.07,17.93
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,49,79,1.0,10.0,2.49,0.0,28.73,18.05
+56,XCOR.K,FundX ETF,5,120,14,49,69,1.0,10.0,2.16,0.0,26.32,15.1
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,69,1.0,10.0,2.16,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,49,69,1.0,10.0,2.16,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,49,69,1.0,10.0,2.16,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,49,69,1.0,10.0,2.16,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,69,1.0,10.0,2.16,25.97,25.91,19.0
+56,IBOT.O,VanEck Robotics ETF,5,120,14,49,69,1.0,10.0,2.16,0.0,28.52,17.35
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,49,69,1.0,10.0,2.16,0.0,28.4,14.62
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,49,69,1.0,10.0,2.16,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,49,69,1.0,10.0,2.16,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,49,69,1.0,10.0,2.16,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,49,69,1.0,10.0,2.16,0.0,28.15,15.8
+56,XNAV.K,FundX Aggressive ETF,5,60,14,49,79,1.0,10.0,2.09,0.0,28.15,15.8
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,49,79,1.0,10.0,2.09,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,49,79,1.0,10.0,2.09,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,49,79,1.0,10.0,2.09,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,79,1.0,10.0,2.09,25.09,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,49,79,1.0,10.0,2.09,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,49,79,1.0,10.0,2.09,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,49,79,1.0,10.0,2.09,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,49,79,1.0,10.0,2.09,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,49,79,1.0,10.0,2.09,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,49,79,1.0,10.0,2.09,0.0,28.04,17.76
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,44,79,1.0,10.0,2.09,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,44,79,1.0,10.0,2.09,0.0,28.15,15.8
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,44,79,1.0,10.0,2.09,0.0,29.57,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,44,79,1.0,10.0,2.09,0.0,28.74,15.6
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,44,79,1.0,10.0,2.09,0.0,27.63,16.03
+56,IBOT.O,VanEck Robotics ETF,5,60,14,44,79,1.0,10.0,2.09,0.0,28.52,17.35
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,44,79,1.0,10.0,2.09,0.0,28.4,14.62
+56,XCOR.K,FundX ETF,5,60,14,44,79,1.0,10.0,2.09,0.0,26.32,15.1
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,79,1.0,10.0,2.09,25.09,25.91,19.0
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,44,79,1.0,10.0,2.09,0.0,26.07,17.93
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,44,79,1.0,10.0,2.09,0.0,28.73,18.05
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,79,1.0,10.0,2.09,0.0,28.71,18.93
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,79,1.0,10.0,2.09,0.0,28.71,18.93
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,49,74,1.0,10.0,2.02,0.0,28.04,17.76
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,74,1.0,10.0,2.02,0.0,28.71,18.93
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,74,1.0,10.0,2.02,0.0,28.71,18.93
+56,XNAV.K,FundX Aggressive ETF,5,60,14,49,74,1.0,10.0,2.02,0.0,28.15,15.8
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,49,74,1.0,10.0,2.02,0.0,28.74,15.6
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,49,74,1.0,10.0,2.02,0.0,27.63,16.03
+56,IBOT.O,VanEck Robotics ETF,5,60,14,49,74,1.0,10.0,2.02,0.0,28.52,17.35
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,49,74,1.0,10.0,2.02,0.0,28.4,14.62
+56,XCOR.K,FundX ETF,5,60,14,49,74,1.0,10.0,2.02,0.0,26.32,15.1
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,49,74,1.0,10.0,2.02,0.0,26.07,17.93
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,49,74,1.0,10.0,2.02,0.0,28.73,18.05
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,49,74,1.0,10.0,2.02,0.0,29.57,16.03
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,74,1.0,10.0,2.02,24.3,25.91,19.0
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,44,74,1.0,10.0,2.02,0.0,29.57,16.03
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,44,74,1.0,10.0,2.02,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,74,1.0,10.0,2.02,24.3,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,44,74,1.0,10.0,2.02,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,44,74,1.0,10.0,2.02,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,44,74,1.0,10.0,2.02,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,44,74,1.0,10.0,2.02,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,44,74,1.0,10.0,2.02,0.0,28.74,15.6
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,44,74,1.0,10.0,2.02,0.0,28.73,18.05
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,44,74,1.0,10.0,2.02,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,44,74,1.0,10.0,2.02,0.0,28.15,15.8
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,49,64,1.0,10.0,1.87,0.0,28.4,14.62
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,49,64,1.0,10.0,1.87,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,64,1.0,10.0,1.87,22.43,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,49,64,1.0,10.0,1.87,0.0,26.32,15.1
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,49,64,1.0,10.0,1.87,0.0,28.04,17.76
+56,IBOT.O,VanEck Robotics ETF,5,120,14,49,64,1.0,10.0,1.87,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,49,64,1.0,10.0,1.87,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,49,64,1.0,10.0,1.87,0.0,28.74,15.6
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,64,1.0,10.0,1.87,0.0,28.71,18.93
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,49,64,1.0,10.0,1.87,0.0,28.73,18.05
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,49,64,1.0,10.0,1.87,0.0,29.57,16.03
+56,XNAV.K,FundX Aggressive ETF,5,120,14,49,64,1.0,10.0,1.87,0.0,28.15,15.8
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,44,69,1.0,10.0,1.69,0.0,26.07,17.93
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,44,69,1.0,10.0,1.69,0.0,28.73,18.05
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,69,1.0,10.0,1.69,20.33,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,44,69,1.0,10.0,1.69,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,44,69,1.0,10.0,1.69,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,44,69,1.0,10.0,1.69,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,44,69,1.0,10.0,1.69,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,44,69,1.0,10.0,1.69,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,44,69,1.0,10.0,1.69,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,44,69,1.0,10.0,1.69,0.0,28.15,15.8
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,44,69,1.0,10.0,1.69,0.0,29.57,16.03
+56,XCOR.K,FundX ETF,5,60,14,49,69,1.0,10.0,1.69,0.0,26.32,15.1
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,69,1.0,10.0,1.69,0.0,28.71,18.93
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,69,1.0,10.0,1.69,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,49,69,1.0,10.0,1.69,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,49,69,1.0,10.0,1.69,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,49,69,1.0,10.0,1.69,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,69,1.0,10.0,1.69,20.33,25.91,19.0
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,49,69,1.0,10.0,1.69,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,49,69,1.0,10.0,1.69,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,49,69,1.0,10.0,1.69,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,49,69,1.0,10.0,1.69,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,49,69,1.0,10.0,1.69,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,49,69,1.0,10.0,1.69,0.0,28.15,15.8
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,49,64,1.0,10.0,1.44,0.0,28.74,15.6
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,49,64,1.0,10.0,1.44,0.0,27.63,16.03
+56,IBOT.O,VanEck Robotics ETF,5,60,14,49,64,1.0,10.0,1.44,0.0,28.52,17.35
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,49,64,1.0,10.0,1.44,0.0,28.4,14.62
+56,XCOR.K,FundX ETF,5,60,14,49,64,1.0,10.0,1.44,0.0,26.32,15.1
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,64,1.0,10.0,1.44,17.24,25.91,19.0
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,49,64,1.0,10.0,1.44,0.0,28.04,17.76
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,49,64,1.0,10.0,1.44,0.0,26.07,17.93
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,49,64,1.0,10.0,1.44,0.0,28.73,18.05
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,49,64,1.0,10.0,1.44,0.0,29.57,16.03
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,64,1.0,10.0,1.44,0.0,28.71,18.93
+56,XNAV.K,FundX Aggressive ETF,5,60,14,49,64,1.0,10.0,1.44,0.0,28.15,15.8
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,44,64,1.0,10.0,1.44,0.0,28.74,15.6
+56,XNAV.K,FundX Aggressive ETF,5,60,14,44,64,1.0,10.0,1.44,0.0,28.15,15.8
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,44,64,1.0,10.0,1.44,0.0,28.04,17.76
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,44,64,1.0,10.0,1.44,0.0,27.63,16.03
+56,IBOT.O,VanEck Robotics ETF,5,60,14,44,64,1.0,10.0,1.44,0.0,28.52,17.35
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,44,64,1.0,10.0,1.44,0.0,28.4,14.62
+56,XCOR.K,FundX ETF,5,60,14,44,64,1.0,10.0,1.44,0.0,26.32,15.1
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,64,1.0,10.0,1.44,17.24,25.91,19.0
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,44,64,1.0,10.0,1.44,0.0,26.07,17.93
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,44,64,1.0,10.0,1.44,0.0,28.73,18.05
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,44,64,1.0,10.0,1.44,0.0,29.57,16.03
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,64,1.0,10.0,1.44,0.0,28.71,18.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,59,1.0,10.0,1.36,16.27,25.91,19.0
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,59,1.0,10.0,1.36,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,49,59,1.0,10.0,1.36,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,49,59,1.0,10.0,1.36,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,49,59,1.0,10.0,1.36,0.0,26.07,17.93
+56,XCOR.K,FundX ETF,5,120,14,49,59,1.0,10.0,1.36,0.0,26.32,15.1
+56,IBOT.O,VanEck Robotics ETF,5,120,14,49,59,1.0,10.0,1.36,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,49,59,1.0,10.0,1.36,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,49,59,1.0,10.0,1.36,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,49,59,1.0,10.0,1.36,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,49,59,1.0,10.0,1.36,0.0,28.15,15.8
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,49,59,1.0,10.0,1.36,0.0,28.4,14.62
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,54,1.0,10.0,1.24,0.0,28.71,18.93
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,49,54,1.0,10.0,1.24,0.0,28.4,14.62
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,49,54,1.0,10.0,1.24,0.0,28.73,18.05
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,54,1.0,10.0,1.24,14.9,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,49,54,1.0,10.0,1.24,0.0,26.32,15.1
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,49,54,1.0,10.0,1.24,0.0,28.74,15.6
+56,IBOT.O,VanEck Robotics ETF,5,120,14,49,54,1.0,10.0,1.24,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,49,54,1.0,10.0,1.24,0.0,27.63,16.03
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,49,54,1.0,10.0,1.24,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,49,54,1.0,10.0,1.24,0.0,28.15,15.8
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,49,54,1.0,10.0,1.24,0.0,29.57,16.03
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,49,54,1.0,10.0,1.24,0.0,26.07,17.93
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,44,59,1.0,10.0,0.97,0.0,28.04,17.76
+56,IBOT.O,VanEck Robotics ETF,5,60,14,49,59,1.0,10.0,0.97,0.0,28.52,17.35
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,49,59,1.0,10.0,0.97,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,49,59,1.0,10.0,0.97,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,49,59,1.0,10.0,0.97,0.0,28.15,15.8
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,49,59,1.0,10.0,0.97,0.0,28.4,14.62
+56,XCOR.K,FundX ETF,5,60,14,49,59,1.0,10.0,0.97,0.0,26.32,15.1
+56,XNAV.K,FundX Aggressive ETF,5,60,14,44,59,1.0,10.0,0.97,0.0,28.15,15.8
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,59,1.0,10.0,0.97,11.63,25.91,19.0
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,44,59,1.0,10.0,0.97,0.0,28.74,15.6
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,44,59,1.0,10.0,0.97,0.0,27.63,16.03
+56,IBOT.O,VanEck Robotics ETF,5,60,14,44,59,1.0,10.0,0.97,0.0,28.52,17.35
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,44,59,1.0,10.0,0.97,0.0,28.4,14.62
+56,XCOR.K,FundX ETF,5,60,14,44,59,1.0,10.0,0.97,0.0,26.32,15.1
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,59,1.0,10.0,0.97,11.63,25.91,19.0
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,44,59,1.0,10.0,0.97,0.0,26.07,17.93
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,44,59,1.0,10.0,0.97,0.0,28.73,18.05
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,44,59,1.0,10.0,0.97,0.0,29.57,16.03
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,59,1.0,10.0,0.97,0.0,28.71,18.93
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,49,59,1.0,10.0,0.97,0.0,26.07,17.93
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,49,59,1.0,10.0,0.97,0.0,28.73,18.05
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,49,59,1.0,10.0,0.97,0.0,29.57,16.03
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,59,1.0,10.0,0.97,0.0,28.71,18.93
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,49,59,1.0,10.0,0.97,0.0,27.63,16.03
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,49,54,1.0,10.0,0.82,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,49,54,1.0,10.0,0.82,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,49,54,1.0,10.0,0.82,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,54,1.0,10.0,0.82,9.86,25.91,19.0
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,44,54,1.0,10.0,0.82,0.0,28.73,18.05
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,49,54,1.0,10.0,0.82,0.0,28.4,14.62
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,54,1.0,10.0,0.82,0.0,28.71,18.93
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,44,54,1.0,10.0,0.82,0.0,26.07,17.93
+56,XNAV.K,FundX Aggressive ETF,5,60,14,44,54,1.0,10.0,0.82,0.0,28.15,15.8
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,44,54,1.0,10.0,0.82,0.0,28.04,17.76
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,44,54,1.0,10.0,0.82,0.0,28.74,15.6
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,44,54,1.0,10.0,0.82,0.0,27.63,16.03
+56,IBOT.O,VanEck Robotics ETF,5,60,14,44,54,1.0,10.0,0.82,0.0,28.52,17.35
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,44,54,1.0,10.0,0.82,0.0,28.4,14.62
+56,XCOR.K,FundX ETF,5,60,14,44,54,1.0,10.0,0.82,0.0,26.32,15.1
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,54,1.0,10.0,0.82,9.86,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,49,54,1.0,10.0,0.82,0.0,26.32,15.1
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,44,54,1.0,10.0,0.82,0.0,29.57,16.03
+56,IBOT.O,VanEck Robotics ETF,5,60,14,49,54,1.0,10.0,0.82,0.0,28.52,17.35
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,49,54,1.0,10.0,0.82,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,49,54,1.0,10.0,0.82,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,49,54,1.0,10.0,0.82,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,54,1.0,10.0,0.82,0.0,28.71,18.93
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,49,54,1.0,10.0,0.82,0.0,27.63,16.03
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,26.07,17.93
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,28.73,18.05
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,28.4,14.62
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,26.32,15.1
+56,IBOT.O,VanEck Robotics ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,28.52,17.35
+56,IBOT.O,VanEck Robotics ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,28.04,17.76
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,27.63,16.03
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,25.91,19.0
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,28.4,14.62
+56,XCOR.K,FundX ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,26.32,15.1
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,26.07,17.93
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,28.71,18.93
+56,XNAV.K,FundX Aggressive ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,28.15,15.8
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,26.07,17.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,29.57,16.03
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,25.91,19.0
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,26.07,17.93
+56,XCOR.K,FundX ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,26.32,15.1
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,27.63,16.03
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,28.15,15.8
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,28.74,15.6
+56,IBOT.O,VanEck Robotics ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,28.52,17.35
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,28.73,18.05
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,28.04,17.76
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,28.74,15.6
+56,XNAV.K,FundX Aggressive ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,28.15,15.8
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,28.4,14.62
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,26.32,15.1
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,28.71,18.93
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,29.57,16.03
+56,XCOR.K,FundX ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,25.91,19.0
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,28.4,14.62
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,28.73,18.05
+56,IBOT.O,VanEck Robotics ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,26.32,15.1
+56,XCOR.K,FundX ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,26.32,15.1
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,25.91,19.0
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,26.07,17.93
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,29.57,16.03
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,27.63,16.03
+56,XNAV.K,FundX Aggressive ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,28.15,15.8
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,28.71,18.93
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,28.04,17.76
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,28.74,15.6
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,27.63,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,28.73,18.05
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,29.57,16.03
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,28.71,18.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,25.91,19.0
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,26.32,15.1
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,26.07,17.93
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,28.4,14.62
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,29.57,16.03
+56,XCOR.K,FundX ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,26.32,15.1
+56,IBOT.O,VanEck Robotics ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,28.52,17.35
+56,XNAV.K,FundX Aggressive ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,28.15,15.8
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,28.04,17.76
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,28.15,15.8
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,28.74,15.6
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,27.63,16.03
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,28.52,17.35
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,29.57,16.03
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,28.71,18.93
+56,XNAV.K,FundX Aggressive ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,28.15,15.8
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,28.73,18.05
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,28.71,18.93
+56,XCOR.K,FundX ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,26.32,15.1
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,25.91,19.0
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,25.91,19.0
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,26.07,17.93
+56,XCOR.K,FundX ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,26.32,15.1
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,28.73,18.05
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,29.57,16.03
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,29.57,16.03
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,26.07,17.93
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,28.4,14.62
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,25.91,19.0
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,28.74,15.6
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,28.73,18.05
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,29.57,16.03
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,29.57,16.03
+56,XCOR.K,FundX ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,28.71,18.93
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,28.73,18.05
+56,XNAV.K,FundX Aggressive ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,28.15,15.8
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,28.04,17.76
+56,IBOT.O,VanEck Robotics ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,28.52,17.35
+56,XCOR.K,FundX ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,26.32,15.1
+56,XNAV.K,FundX Aggressive ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,28.15,15.8
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,27.63,16.03
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,28.4,14.62
+56,XNAV.K,FundX Aggressive ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,28.15,15.8
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,28.04,17.76
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,28.04,17.76
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,28.74,15.6
+56,XNAV.K,FundX Aggressive ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,28.15,15.8
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,27.63,16.03
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,28.52,17.35
+56,IBOT.O,VanEck Robotics ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,28.52,17.35
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,28.74,15.6
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,25.91,19.0
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,28.04,17.76
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,26.07,17.93
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,27.63,16.03
+56,IBOT.O,VanEck Robotics ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,28.52,17.35
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,28.52,17.35
+56,XNAV.K,FundX Aggressive ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,28.4,14.62
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,27.63,16.03
+56,XCOR.K,FundX ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,26.32,15.1
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,25.91,19.0
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,28.04,17.76
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,28.71,18.93
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,28.04,17.76
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,28.73,18.05
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,28.71,18.93
+56,XCOR.K,FundX ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,26.32,15.1
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,25.91,19.0
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,25.91,19.0
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,26.07,17.93
+56,XCOR.K,FundX ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,26.32,15.1
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,28.73,18.05
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,28.15,15.8
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,29.57,16.03
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,29.57,16.03
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,29.57,16.03
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,26.07,17.93
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,28.4,14.62
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,25.91,19.0
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,28.74,15.6
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,28.73,18.05
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,29.57,16.03
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,29.57,16.03
+56,XCOR.K,FundX ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,28.71,18.93
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,28.73,18.05
+56,XNAV.K,FundX Aggressive ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,28.15,15.8
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,28.04,17.76
+56,IBOT.O,VanEck Robotics ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,28.52,17.35
+56,XCOR.K,FundX ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,26.32,15.1
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,29.57,16.03
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,27.63,16.03
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,28.4,14.62
+56,XNAV.K,FundX Aggressive ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,28.15,15.8
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,28.04,17.76
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,28.04,17.76
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,28.74,15.6
+56,XNAV.K,FundX Aggressive ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,28.15,15.8
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,27.63,16.03
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,28.52,17.35
+56,IBOT.O,VanEck Robotics ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,28.52,17.35
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,28.74,15.6
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,25.91,19.0
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,28.04,17.76
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,28.52,17.35
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,27.63,16.03
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,26.07,17.93
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,27.63,16.03
+56,IBOT.O,VanEck Robotics ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,28.52,17.35
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,28.4,14.62
+56,IBOT.O,VanEck Robotics ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,28.52,17.35
+56,XNAV.K,FundX Aggressive ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,25.91,19.0
+56,XCOR.K,FundX ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,26.32,15.1
+56,TDVI.K,FT Vest Technology Dividend Target Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,28.4,14.62
+56,PJIO.K,PGIM Jennison International Opportunities ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,27.63,16.03
+56,XCOR.K,FundX ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,26.32,15.1
+56,BRNY.O,Burney US Factor Rotation ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,28.74,15.6
+56,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,28.04,17.76
+56,XNAV.K,FundX Aggressive ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,28.15,15.8
+56,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,28.71,18.93
+56,FTGS.O,First Trust Growth Strength ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,29.57,16.03
+56,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,28.73,18.05
+56,FESM.K,Fidelity Enhanced Small Cap ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,26.07,17.93
+56,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,25.91,19.0
+56,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,28.71,18.93

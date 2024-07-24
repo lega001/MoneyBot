@@ -1,0 +1,865 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,44,54,1.0,10.0,32.88,58.12,15.66,40.72
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,44,54,1.0,10.0,32.88,32.2,15.84,39.92
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,44,54,1.0,10.0,32.88,62.8,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,44,54,1.0,10.0,32.88,16.69,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,44,54,1.0,10.0,32.88,0.0,18.23,36.81
+56,ARKK.K,ARK Innovation ETF,5,120,14,44,54,1.0,10.0,32.88,-4.29,16.76,37.46
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,44,54,1.0,10.0,32.88,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,44,54,1.0,10.0,32.88,9.47,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,44,54,1.0,10.0,32.88,172.75,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,120,14,44,54,1.0,10.0,32.88,9.45,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,120,14,44,54,1.0,10.0,32.88,14.46,16.96,36.12
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,44,54,1.0,10.0,32.88,22.85,16.12,37.17
+56,ARKK.K,ARK Innovation ETF,5,60,14,44,54,1.0,10.0,28.95,10.73,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,44,54,1.0,10.0,28.95,26.34,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,44,54,1.0,10.0,28.95,13.14,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,44,54,1.0,10.0,28.95,21.19,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,44,54,1.0,10.0,28.95,39.46,16.39,41.2
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,44,54,1.0,10.0,28.95,31.44,15.66,40.72
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,44,54,1.0,10.0,28.95,13.3,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,44,54,1.0,10.0,28.95,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,44,54,1.0,10.0,28.95,28.68,18.23,36.81
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,44,54,1.0,10.0,28.95,86.69,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,44,54,1.0,10.0,28.95,17.49,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,44,54,1.0,10.0,28.95,58.92,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,39,59,1.0,10.0,27.06,0.0,18.23,36.81
+56,ARKK.K,ARK Innovation ETF,5,60,14,39,59,1.0,10.0,27.06,10.73,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,39,59,1.0,10.0,27.06,21.32,15.84,39.92
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,39,59,1.0,10.0,27.06,84.16,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,39,59,1.0,10.0,27.06,46.51,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,39,59,1.0,10.0,27.06,56.89,15.74,36.19
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,39,59,1.0,10.0,27.06,26.61,15.66,40.72
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,39,59,1.0,10.0,27.06,0.0,16.9,36.55
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,39,59,1.0,10.0,27.06,0.0,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,39,59,1.0,10.0,27.06,58.87,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,60,14,39,59,1.0,10.0,27.06,6.38,16.96,36.12
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,39,59,1.0,10.0,27.06,13.3,18.26,39.44
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,39,59,1.0,10.0,26.27,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,39,59,1.0,10.0,26.27,5.92,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,39,59,1.0,10.0,26.27,131.64,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,39,59,1.0,10.0,26.27,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,39,59,1.0,10.0,26.27,37.78,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,39,59,1.0,10.0,26.27,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,39,59,1.0,10.0,26.27,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,39,59,1.0,10.0,26.27,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,39,59,1.0,10.0,26.27,70.61,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,39,59,1.0,10.0,26.27,30.8,16.12,37.17
+56,ARKK.K,ARK Innovation ETF,5,120,14,39,59,1.0,10.0,26.27,-4.29,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,39,59,1.0,10.0,26.27,42.84,15.66,40.72
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,44,64,1.0,10.0,26.02,8.02,18.26,39.44
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,44,64,1.0,10.0,26.02,24.76,15.84,39.92
+56,ARKK.K,ARK Innovation ETF,5,120,14,44,64,1.0,10.0,26.02,-4.29,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,44,64,1.0,10.0,26.02,54.9,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,44,64,1.0,10.0,26.02,55.57,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,44,64,1.0,10.0,26.02,63.66,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,44,64,1.0,10.0,26.02,43.47,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,44,64,1.0,10.0,26.02,0.0,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,44,64,1.0,10.0,26.02,0.0,16.9,36.55
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,44,64,1.0,10.0,26.02,20.82,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,120,14,44,64,1.0,10.0,26.02,18.47,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,120,14,44,64,1.0,10.0,26.02,26.81,16.96,36.12
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,39,54,1.0,10.0,25.48,30.41,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,60,14,39,54,1.0,10.0,25.48,10.73,16.76,37.46
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,39,54,1.0,10.0,25.48,0.0,18.23,36.81
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,39,54,1.0,10.0,25.48,34.43,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,39,54,1.0,10.0,25.48,3.29,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,39,54,1.0,10.0,25.48,48.63,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,39,54,1.0,10.0,25.48,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,39,54,1.0,10.0,25.48,13.3,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,39,54,1.0,10.0,25.48,0.0,16.9,36.55
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,39,54,1.0,10.0,25.48,55.28,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,39,54,1.0,10.0,25.48,32.11,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,39,54,1.0,10.0,25.48,77.57,16.12,37.17
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,39,64,1.0,10.0,24.47,10.83,18.26,39.44
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,39,64,1.0,10.0,24.47,25.58,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,39,64,1.0,10.0,24.47,9.53,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,39,64,1.0,10.0,24.47,47.34,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,39,64,1.0,10.0,24.47,0.0,16.39,41.2
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,39,64,1.0,10.0,24.47,26.61,15.66,40.72
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,39,64,1.0,10.0,24.47,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,39,64,1.0,10.0,24.47,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,39,64,1.0,10.0,24.47,24.7,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,39,64,1.0,10.0,24.47,46.34,18.79,38.06
+56,ARKK.K,ARK Innovation ETF,5,60,14,39,64,1.0,10.0,24.47,11.68,16.76,37.46
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,39,64,1.0,10.0,24.47,91.0,16.12,37.17
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,34,59,1.0,10.0,23.39,0.0,18.23,36.81
+56,ARKK.K,ARK Innovation ETF,5,60,14,34,59,1.0,10.0,23.39,10.73,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,34,59,1.0,10.0,23.39,26.61,15.66,40.72
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,34,59,1.0,10.0,23.39,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,34,59,1.0,10.0,23.39,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,34,59,1.0,10.0,23.39,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,34,59,1.0,10.0,23.39,0.0,16.39,41.2
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,34,59,1.0,10.0,23.39,0.0,16.9,36.55
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,34,59,1.0,10.0,23.39,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,34,59,1.0,10.0,23.39,189.21,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,34,59,1.0,10.0,23.39,0.0,16.12,37.17
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,34,59,1.0,10.0,23.39,54.14,18.26,39.44
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,44,59,1.0,10.0,23.04,37.49,16.12,37.17
+56,ARKK.K,ARK Innovation ETF,5,120,14,44,59,1.0,10.0,23.04,-4.29,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,44,59,1.0,10.0,23.04,22.89,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,44,59,1.0,10.0,23.04,20.88,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,44,59,1.0,10.0,23.04,16.94,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,44,59,1.0,10.0,23.04,20.82,16.39,41.2
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,44,59,1.0,10.0,23.04,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,44,59,1.0,10.0,23.04,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,44,59,1.0,10.0,23.04,26.73,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,44,59,1.0,10.0,23.04,70.61,18.79,38.06
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,44,59,1.0,10.0,23.04,54.9,15.66,40.72
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,44,59,1.0,10.0,23.04,9.47,18.26,39.44
+56,ARKK.K,ARK Innovation ETF,5,60,14,34,69,1.0,10.0,22.84,16.94,16.76,37.46
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,34,69,1.0,10.0,22.84,33.73,18.26,39.44
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,34,69,1.0,10.0,22.84,0.0,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,34,69,1.0,10.0,22.84,196.86,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,34,69,1.0,10.0,22.84,0.0,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,34,69,1.0,10.0,22.84,0.0,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,34,69,1.0,10.0,22.84,0.0,16.9,36.55
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,34,69,1.0,10.0,22.84,0.0,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,34,69,1.0,10.0,22.84,0.0,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,60,14,34,69,1.0,10.0,22.84,0.0,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,34,69,1.0,10.0,22.84,0.0,15.84,39.92
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,34,69,1.0,10.0,22.84,26.61,15.66,40.72
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,39,64,1.0,10.0,22.8,0.0,18.23,36.81
+56,ARKK.K,ARK Innovation ETF,5,120,14,39,64,1.0,10.0,22.8,-4.29,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,39,64,1.0,10.0,22.8,42.84,15.66,40.72
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,39,64,1.0,10.0,22.8,63.66,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,39,64,1.0,10.0,22.8,0.0,15.74,36.19
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,39,64,1.0,10.0,22.8,33.98,16.12,37.17
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,39,64,1.0,10.0,22.8,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,39,64,1.0,10.0,22.8,24.24,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,39,64,1.0,10.0,22.8,0.0,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,120,14,39,64,1.0,10.0,22.8,103.82,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,120,14,39,64,1.0,10.0,22.8,9.33,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,39,64,1.0,10.0,22.8,0.0,15.84,39.92
+56,ARKK.K,ARK Innovation ETF,5,120,14,44,69,1.0,10.0,22.75,-4.29,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,44,69,1.0,10.0,22.75,16.24,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,44,69,1.0,10.0,22.75,8.28,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,44,69,1.0,10.0,22.75,21.7,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,44,69,1.0,10.0,22.75,20.82,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,44,69,1.0,10.0,22.75,8.02,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,44,69,1.0,10.0,22.75,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,44,69,1.0,10.0,22.75,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,44,69,1.0,10.0,22.75,44.79,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,44,69,1.0,10.0,22.75,63.66,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,44,69,1.0,10.0,22.75,33.24,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,44,69,1.0,10.0,22.75,60.49,15.66,40.72
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,49,64,1.0,10.0,22.52,54.9,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,49,64,1.0,10.0,22.52,20.4,16.12,37.17
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,49,64,1.0,10.0,22.52,0.0,16.9,36.55
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,49,64,1.0,10.0,22.52,49.18,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,49,64,1.0,10.0,22.52,15.68,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,49,64,1.0,10.0,22.52,20.71,18.23,36.81
+56,ARKK.K,ARK Innovation ETF,5,120,14,49,64,1.0,10.0,22.52,4.2,16.76,37.46
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,49,64,1.0,10.0,22.52,8.02,18.26,39.44
+56,URE,ProShares Ultra Real Estate,5,120,14,49,64,1.0,10.0,22.52,24.81,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,120,14,49,64,1.0,10.0,22.52,26.81,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,49,64,1.0,10.0,22.52,24.76,15.84,39.92
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,49,64,1.0,10.0,22.52,20.82,16.39,41.2
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,49,54,1.0,10.0,22.41,32.2,18.23,36.81
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,49,54,1.0,10.0,22.41,29.94,15.84,39.92
+56,ARKK.K,ARK Innovation ETF,5,60,14,49,54,1.0,10.0,22.41,10.73,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,49,54,1.0,10.0,22.41,31.44,15.66,40.72
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,49,54,1.0,10.0,22.41,-2.73,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,49,54,1.0,10.0,22.41,68.27,15.74,36.19
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,49,54,1.0,10.0,22.41,70.19,16.12,37.17
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,49,54,1.0,10.0,22.41,0.0,16.9,36.55
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,49,54,1.0,10.0,22.41,11.53,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,49,54,1.0,10.0,22.41,16.89,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,60,14,49,54,1.0,10.0,22.41,4.42,16.96,36.12
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,49,54,1.0,10.0,22.41,-3.98,18.26,39.44
+56,ARKK.K,ARK Innovation ETF,5,120,14,49,69,1.0,10.0,22.09,9.8,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,49,69,1.0,10.0,22.09,16.24,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,49,69,1.0,10.0,22.09,8.28,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,49,69,1.0,10.0,22.09,28.81,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,49,69,1.0,10.0,22.09,20.82,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,49,69,1.0,10.0,22.09,8.02,18.26,39.44
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,49,69,1.0,10.0,22.09,24.0,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,49,69,1.0,10.0,22.09,0.0,16.9,36.55
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,49,69,1.0,10.0,22.09,16.52,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,49,69,1.0,10.0,22.09,53.19,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,49,69,1.0,10.0,22.09,18.9,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,49,69,1.0,10.0,22.09,60.49,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,39,69,1.0,10.0,21.77,17.01,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,39,69,1.0,10.0,21.77,42.84,15.66,40.72
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,34,64,1.0,10.0,21.77,0.0,15.84,39.92
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,39,69,1.0,10.0,21.77,63.66,18.79,38.06
+56,LTL,ProShares Ultra Communication Services,5,60,14,34,64,1.0,10.0,21.77,0.0,16.96,36.12
+56,ARKK.K,ARK Innovation ETF,5,120,14,39,69,1.0,10.0,21.77,-4.29,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,39,69,1.0,10.0,21.77,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,39,69,1.0,10.0,21.77,8.84,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,39,69,1.0,10.0,21.77,108.95,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,39,69,1.0,10.0,21.77,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,39,69,1.0,10.0,21.77,24.24,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,39,69,1.0,10.0,21.77,0.0,16.9,36.55
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,39,69,1.0,10.0,21.77,0.0,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,39,69,1.0,10.0,21.77,0.0,18.23,36.81
+56,ARKK.K,ARK Innovation ETF,5,60,14,34,64,1.0,10.0,21.77,11.68,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,34,64,1.0,10.0,21.77,26.61,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,34,64,1.0,10.0,21.77,0.0,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,34,64,1.0,10.0,21.77,189.21,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,34,64,1.0,10.0,21.77,0.0,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,34,64,1.0,10.0,21.77,0.0,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,34,64,1.0,10.0,21.77,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,34,64,1.0,10.0,21.77,33.73,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,34,64,1.0,10.0,21.77,0.0,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,34,64,1.0,10.0,21.77,0.0,17.87,39.34
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,34,79,1.0,10.0,21.7,0.0,16.9,36.55
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,34,79,1.0,10.0,21.7,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,34,79,1.0,10.0,21.7,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,34,79,1.0,10.0,21.7,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,34,79,1.0,10.0,21.7,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,34,79,1.0,10.0,21.7,33.73,18.26,39.44
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,34,79,1.0,10.0,21.7,0.0,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,34,79,1.0,10.0,21.7,0.0,18.23,36.81
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,34,79,1.0,10.0,21.7,178.19,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,34,79,1.0,10.0,21.7,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,34,79,1.0,10.0,21.7,26.61,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,60,14,34,79,1.0,10.0,21.7,21.93,16.76,37.46
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,39,69,1.0,10.0,21.32,0.0,18.23,36.81
+56,ARKK.K,ARK Innovation ETF,5,60,14,39,69,1.0,10.0,21.32,16.94,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,39,69,1.0,10.0,21.32,26.61,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,39,69,1.0,10.0,21.32,50.18,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,39,69,1.0,10.0,21.32,50.61,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,39,69,1.0,10.0,21.32,24.7,15.74,36.19
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,39,69,1.0,10.0,21.32,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,39,69,1.0,10.0,21.32,10.83,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,39,69,1.0,10.0,21.32,0.0,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,39,69,1.0,10.0,21.32,50.31,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,60,14,39,69,1.0,10.0,21.32,8.97,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,39,69,1.0,10.0,21.32,16.73,15.84,39.92
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,39,54,1.0,10.0,21.19,37.78,18.26,39.44
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,39,54,1.0,10.0,21.19,0.0,15.84,39.92
+56,ARKK.K,ARK Innovation ETF,5,120,14,39,54,1.0,10.0,21.19,-4.29,16.76,37.46
+56,LTL,ProShares Ultra Communication Services,5,120,14,39,54,1.0,10.0,21.19,2.58,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,39,54,1.0,10.0,21.19,85.92,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,39,54,1.0,10.0,21.19,0.0,16.39,41.2
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,39,54,1.0,10.0,21.19,60.12,15.66,40.72
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,39,54,1.0,10.0,21.19,0.0,16.9,36.55
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,39,54,1.0,10.0,21.19,9.34,16.12,37.17
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,39,54,1.0,10.0,21.19,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,39,54,1.0,10.0,21.19,62.8,18.79,38.06
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,39,54,1.0,10.0,21.19,0.0,18.23,36.81
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,49,54,1.0,10.0,21.18,34.15,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,49,54,1.0,10.0,21.18,14.46,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,49,54,1.0,10.0,21.18,19.4,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,49,54,1.0,10.0,21.18,19.45,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,49,54,1.0,10.0,21.18,9.47,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,49,54,1.0,10.0,21.18,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,49,54,1.0,10.0,21.18,10.59,18.23,36.81
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,49,54,1.0,10.0,21.18,36.72,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,49,54,1.0,10.0,21.18,25.78,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,49,54,1.0,10.0,21.18,58.12,15.66,40.72
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,49,54,1.0,10.0,21.18,24.19,15.74,36.19
+56,ARKK.K,ARK Innovation ETF,5,120,14,49,54,1.0,10.0,21.18,1.79,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,49,59,1.0,10.0,20.97,54.9,15.66,40.72
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,49,59,1.0,10.0,20.97,22.89,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,49,59,1.0,10.0,20.97,20.88,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,49,59,1.0,10.0,20.97,30.49,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,49,59,1.0,10.0,20.97,20.82,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,49,59,1.0,10.0,20.97,9.47,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,49,59,1.0,10.0,20.97,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,49,59,1.0,10.0,20.97,17.16,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,49,59,1.0,10.0,20.97,11.65,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,49,59,1.0,10.0,20.97,49.91,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,49,59,1.0,10.0,20.97,11.71,16.12,37.17
+56,ARKK.K,ARK Innovation ETF,5,120,14,49,59,1.0,10.0,20.97,1.79,16.76,37.46
+56,LTL,ProShares Ultra Communication Services,5,120,14,49,74,1.0,10.0,19.99,8.95,16.96,36.12
+56,ARKK.K,ARK Innovation ETF,5,120,14,49,74,1.0,10.0,19.99,9.8,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,49,74,1.0,10.0,19.99,69.74,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,49,74,1.0,10.0,19.99,12.21,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,49,74,1.0,10.0,19.99,57.09,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,49,74,1.0,10.0,19.99,10.54,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,49,74,1.0,10.0,19.99,23.18,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,49,74,1.0,10.0,19.99,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,49,74,1.0,10.0,19.99,8.02,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,49,74,1.0,10.0,19.99,20.82,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,120,14,49,74,1.0,10.0,19.99,8.19,17.87,39.34
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,49,74,1.0,10.0,19.99,11.33,15.84,39.92
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,49,79,1.0,10.0,19.68,7.23,15.84,39.92
+56,URE,ProShares Ultra Real Estate,5,120,14,49,79,1.0,10.0,19.68,7.38,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,49,79,1.0,10.0,19.68,20.82,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,49,79,1.0,10.0,19.68,8.02,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,49,79,1.0,10.0,19.68,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,49,79,1.0,10.0,19.68,10.54,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,49,79,1.0,10.0,19.68,8.33,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,49,79,1.0,10.0,19.68,63.13,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,49,79,1.0,10.0,19.68,10.91,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,49,79,1.0,10.0,19.68,75.61,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,49,79,1.0,10.0,19.68,15.28,16.76,37.46
+56,LTL,ProShares Ultra Communication Services,5,120,14,49,79,1.0,10.0,19.68,8.95,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,44,64,1.0,10.0,19.55,19.35,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,44,64,1.0,10.0,19.55,24.21,16.96,36.12
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,44,64,1.0,10.0,19.55,36.85,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,44,64,1.0,10.0,19.55,16.52,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,44,64,1.0,10.0,19.55,29.62,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,44,64,1.0,10.0,19.55,16.95,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,44,64,1.0,10.0,19.55,25.47,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,44,64,1.0,10.0,19.55,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,44,64,1.0,10.0,19.55,10.83,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,44,64,1.0,10.0,19.55,14.79,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,44,64,1.0,10.0,19.55,28.27,17.87,39.34
+56,ARKK.K,ARK Innovation ETF,5,60,14,44,64,1.0,10.0,19.55,11.68,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,34,74,1.0,10.0,19.2,0.0,15.84,39.92
+56,ARKK.K,ARK Innovation ETF,5,60,14,34,74,1.0,10.0,19.2,16.94,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,34,74,1.0,10.0,19.2,26.61,15.66,40.72
+56,URE,ProShares Ultra Real Estate,5,60,14,34,74,1.0,10.0,19.2,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,34,74,1.0,10.0,19.2,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,34,74,1.0,10.0,19.2,33.73,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,34,74,1.0,10.0,19.2,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,34,74,1.0,10.0,19.2,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,34,74,1.0,10.0,19.2,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,34,74,1.0,10.0,19.2,153.1,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,34,74,1.0,10.0,19.2,0.0,16.12,37.17
+56,LTL,ProShares Ultra Communication Services,5,60,14,34,74,1.0,10.0,19.2,0.0,16.96,36.12
+56,LTL,ProShares Ultra Communication Services,5,60,14,44,69,1.0,10.0,18.95,8.76,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,44,69,1.0,10.0,18.95,31.32,17.87,39.34
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,44,69,1.0,10.0,18.95,41.27,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,44,69,1.0,10.0,18.95,15.51,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,44,69,1.0,10.0,18.95,32.82,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,44,69,1.0,10.0,18.95,17.77,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,44,69,1.0,10.0,18.95,23.91,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,44,69,1.0,10.0,18.95,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,44,69,1.0,10.0,18.95,10.83,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,44,69,1.0,10.0,18.95,14.79,16.39,41.2
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,44,69,1.0,10.0,18.95,13.44,15.84,39.92
+56,ARKK.K,ARK Innovation ETF,5,60,14,44,69,1.0,10.0,18.95,16.94,16.76,37.46
+56,ARKK.K,ARK Innovation ETF,5,60,14,34,54,1.0,10.0,18.89,10.73,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,34,54,1.0,10.0,18.89,30.41,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,34,54,1.0,10.0,18.89,0.0,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,34,54,1.0,10.0,18.89,131.42,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,34,54,1.0,10.0,18.89,0.0,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,34,54,1.0,10.0,18.89,0.0,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,34,54,1.0,10.0,18.89,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,34,54,1.0,10.0,18.89,54.14,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,34,54,1.0,10.0,18.89,0.0,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,34,54,1.0,10.0,18.89,0.0,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,60,14,34,54,1.0,10.0,18.89,0.0,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,34,54,1.0,10.0,18.89,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,44,59,1.0,10.0,17.89,18.68,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,44,59,1.0,10.0,17.89,16.99,15.84,39.92
+56,ARKK.K,ARK Innovation ETF,5,60,14,44,59,1.0,10.0,17.89,10.73,16.76,37.46
+56,URE,ProShares Ultra Real Estate,5,60,14,44,59,1.0,10.0,17.89,28.89,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,44,59,1.0,10.0,17.89,14.79,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,44,59,1.0,10.0,17.89,13.3,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,44,59,1.0,10.0,17.89,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,44,59,1.0,10.0,17.89,23.07,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,44,59,1.0,10.0,17.89,13.03,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,44,59,1.0,10.0,17.89,27.5,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,44,59,1.0,10.0,17.89,10.82,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,44,59,1.0,10.0,17.89,36.85,15.66,40.72
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,44,74,1.0,10.0,17.57,36.92,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,44,74,1.0,10.0,17.57,11.51,16.12,37.17
+56,ARKK.K,ARK Innovation ETF,5,60,14,44,74,1.0,10.0,17.57,16.94,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,44,74,1.0,10.0,17.57,11.24,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,44,74,1.0,10.0,17.57,9.03,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,44,74,1.0,10.0,17.57,15.58,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,44,74,1.0,10.0,17.57,14.79,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,44,74,1.0,10.0,17.57,10.83,18.26,39.44
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,44,74,1.0,10.0,17.57,48.26,15.66,40.72
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,44,74,1.0,10.0,17.57,24.05,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,44,74,1.0,10.0,17.57,11.7,15.74,36.19
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,44,74,1.0,10.0,17.57,0.0,16.9,36.55
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,44,79,1.0,10.0,17.43,6.76,15.84,39.92
+56,ARKK.K,ARK Innovation ETF,5,60,14,44,79,1.0,10.0,17.43,21.93,16.76,37.46
+56,URE,ProShares Ultra Real Estate,5,60,14,44,79,1.0,10.0,17.43,7.95,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,44,79,1.0,10.0,17.43,14.79,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,44,79,1.0,10.0,17.43,10.83,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,44,79,1.0,10.0,17.43,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,44,79,1.0,10.0,17.43,17.3,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,44,79,1.0,10.0,17.43,13.09,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,44,79,1.0,10.0,17.43,41.57,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,44,79,1.0,10.0,17.43,12.88,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,44,79,1.0,10.0,17.43,53.02,15.66,40.72
+56,LTL,ProShares Ultra Communication Services,5,60,14,44,79,1.0,10.0,17.43,9.03,16.96,36.12
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,44,79,1.0,10.0,17.41,0.0,18.23,36.81
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,44,79,1.0,10.0,17.41,15.22,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,44,79,1.0,10.0,17.41,63.66,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,44,79,1.0,10.0,17.41,11.44,15.74,36.19
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,44,79,1.0,10.0,17.41,7.23,15.84,39.92
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,44,79,1.0,10.0,17.41,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,44,79,1.0,10.0,17.41,8.02,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,44,79,1.0,10.0,17.41,20.82,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,120,14,44,79,1.0,10.0,17.41,2.26,17.87,39.34
+56,ARKK.K,ARK Innovation ETF,5,120,14,44,79,1.0,10.0,17.41,-4.29,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,44,79,1.0,10.0,17.41,75.61,15.66,40.72
+56,LTL,ProShares Ultra Communication Services,5,120,14,44,79,1.0,10.0,17.41,8.95,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,44,74,1.0,10.0,17.14,11.33,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,44,74,1.0,10.0,17.14,8.95,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,44,74,1.0,10.0,17.14,2.26,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,44,74,1.0,10.0,17.14,20.82,16.39,41.2
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,44,74,1.0,10.0,17.14,0.0,16.9,36.55
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,44,74,1.0,10.0,17.14,11.44,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,44,74,1.0,10.0,17.14,63.66,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,44,74,1.0,10.0,17.14,13.69,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,44,74,1.0,10.0,17.14,69.74,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,44,74,1.0,10.0,17.14,-4.29,16.76,37.46
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,44,74,1.0,10.0,17.14,0.0,18.23,36.81
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,44,74,1.0,10.0,17.14,8.02,18.26,39.44
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,39,74,1.0,10.0,15.91,26.61,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,39,74,1.0,10.0,15.91,19.33,16.12,37.17
+56,LTL,ProShares Ultra Communication Services,5,60,14,39,74,1.0,10.0,15.91,9.26,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,39,74,1.0,10.0,15.91,15.58,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,39,74,1.0,10.0,15.91,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,39,74,1.0,10.0,15.91,10.83,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,39,74,1.0,10.0,15.91,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,39,74,1.0,10.0,15.91,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,39,74,1.0,10.0,15.91,26.2,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,39,74,1.0,10.0,15.91,54.91,18.79,38.06
+56,ARKK.K,ARK Innovation ETF,5,60,14,39,74,1.0,10.0,15.91,16.94,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,39,74,1.0,10.0,15.91,11.24,15.84,39.92
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,39,79,1.0,10.0,15.74,6.76,15.84,39.92
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,39,79,1.0,10.0,15.74,0.0,16.39,41.2
+56,LTL,ProShares Ultra Communication Services,5,60,14,39,79,1.0,10.0,15.74,9.26,16.96,36.12
+56,ARKK.K,ARK Innovation ETF,5,60,14,39,79,1.0,10.0,15.74,21.93,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,39,79,1.0,10.0,15.74,26.61,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,39,79,1.0,10.0,15.74,20.44,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,39,79,1.0,10.0,15.74,61.25,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,39,79,1.0,10.0,15.74,23.84,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,39,79,1.0,10.0,15.74,0.0,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,39,79,1.0,10.0,15.74,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,39,79,1.0,10.0,15.74,10.83,18.26,39.44
+56,URE,ProShares Ultra Real Estate,5,60,14,39,79,1.0,10.0,15.74,7.95,17.87,39.34
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,49,69,1.0,10.0,14.76,41.27,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,60,14,49,69,1.0,10.0,14.76,16.94,16.76,37.46
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,49,69,1.0,10.0,14.76,15.81,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,49,69,1.0,10.0,14.76,12.89,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,49,69,1.0,10.0,14.76,14.71,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,49,69,1.0,10.0,14.76,16.97,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,49,69,1.0,10.0,14.76,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,49,69,1.0,10.0,14.76,-2.08,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,49,69,1.0,10.0,14.76,14.79,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,49,69,1.0,10.0,14.76,26.12,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,60,14,49,69,1.0,10.0,14.76,7.53,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,49,69,1.0,10.0,14.76,12.13,15.84,39.92
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,49,64,1.0,10.0,14.39,-2.08,18.26,39.44
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,49,64,1.0,10.0,14.39,15.56,18.23,36.81
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,49,64,1.0,10.0,14.39,36.85,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,49,64,1.0,10.0,14.39,16.18,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,49,64,1.0,10.0,14.39,10.0,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,49,64,1.0,10.0,14.39,14.18,15.74,36.19
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,49,64,1.0,10.0,14.39,17.2,15.84,39.92
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,49,64,1.0,10.0,14.39,0.0,16.9,36.55
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,49,64,1.0,10.0,14.39,14.79,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,49,64,1.0,10.0,14.39,22.64,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,60,14,49,64,1.0,10.0,14.39,15.71,16.96,36.12
+56,ARKK.K,ARK Innovation ETF,5,60,14,49,64,1.0,10.0,14.39,11.68,16.76,37.46
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,49,79,1.0,10.0,14.18,21.33,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,49,79,1.0,10.0,14.18,11.38,16.12,37.17
+56,ARKK.K,ARK Innovation ETF,5,60,14,49,79,1.0,10.0,14.18,21.93,16.76,37.46
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,49,79,1.0,10.0,14.18,11.34,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,49,79,1.0,10.0,14.18,14.7,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,49,79,1.0,10.0,14.18,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,49,79,1.0,10.0,14.18,-2.08,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,49,79,1.0,10.0,14.18,14.79,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,49,79,1.0,10.0,14.18,7.95,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,60,14,49,79,1.0,10.0,14.18,9.03,16.96,36.12
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,49,79,1.0,10.0,14.18,53.02,15.66,40.72
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,49,79,1.0,10.0,14.18,6.76,15.84,39.92
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,49,74,1.0,10.0,14.0,17.62,18.23,36.81
+56,ARKK.K,ARK Innovation ETF,5,60,14,49,74,1.0,10.0,14.0,16.94,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,49,74,1.0,10.0,14.0,48.26,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,49,74,1.0,10.0,14.0,12.67,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,49,74,1.0,10.0,14.0,17.3,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,49,74,1.0,10.0,14.0,12.01,15.74,36.19
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,49,74,1.0,10.0,14.0,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,49,74,1.0,10.0,14.0,-2.08,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,49,74,1.0,10.0,14.0,14.79,16.39,41.2
+56,LTL,ProShares Ultra Communication Services,5,60,14,49,74,1.0,10.0,14.0,9.03,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,49,74,1.0,10.0,14.0,11.24,15.84,39.92
+56,URE,ProShares Ultra Real Estate,5,60,14,49,74,1.0,10.0,14.0,10.24,17.87,39.34
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,39,79,1.0,10.0,13.52,0.0,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,39,79,1.0,10.0,13.52,0.0,16.9,36.55
+56,ARKK.K,ARK Innovation ETF,5,120,14,39,79,1.0,10.0,13.52,-4.29,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,39,79,1.0,10.0,13.52,42.84,15.66,40.72
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,39,79,1.0,10.0,13.52,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,39,79,1.0,10.0,13.52,9.15,16.96,36.12
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,39,79,1.0,10.0,13.52,0.0,15.74,36.19
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,39,79,1.0,10.0,13.52,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,39,79,1.0,10.0,13.52,24.24,18.26,39.44
+56,URE,ProShares Ultra Real Estate,5,120,14,39,79,1.0,10.0,13.52,3.35,17.87,39.34
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,39,79,1.0,10.0,13.52,63.66,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,39,79,1.0,10.0,13.52,23.27,16.12,37.17
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,39,74,1.0,10.0,13.25,0.0,18.23,36.81
+56,ARKK.K,ARK Innovation ETF,5,120,14,39,74,1.0,10.0,13.25,-4.29,16.76,37.46
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,39,74,1.0,10.0,13.25,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,39,74,1.0,10.0,13.25,24.24,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,39,74,1.0,10.0,13.25,0.0,16.9,36.55
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,39,74,1.0,10.0,13.25,0.0,15.84,39.92
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,39,74,1.0,10.0,13.25,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,39,74,1.0,10.0,13.25,63.66,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,39,74,1.0,10.0,13.25,20.06,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,39,74,1.0,10.0,13.25,42.84,15.66,40.72
+56,URE,ProShares Ultra Real Estate,5,120,14,39,74,1.0,10.0,13.25,3.35,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,120,14,39,74,1.0,10.0,13.25,9.15,16.96,36.12
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,49,59,1.0,10.0,13.12,11.7,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,49,59,1.0,10.0,13.12,21.22,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,49,59,1.0,10.0,13.12,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,49,59,1.0,10.0,13.12,-3.98,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,49,59,1.0,10.0,13.12,14.79,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,49,59,1.0,10.0,13.12,25.16,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,60,14,49,59,1.0,10.0,13.12,9.63,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,49,59,1.0,10.0,13.12,14.79,15.84,39.92
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,49,59,1.0,10.0,13.12,6.17,18.79,38.06
+56,ARKK.K,ARK Innovation ETF,5,60,14,49,59,1.0,10.0,13.12,10.73,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,49,59,1.0,10.0,13.12,36.85,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,49,59,1.0,10.0,13.12,10.42,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,34,54,1.0,10.0,5.86,0.0,18.79,38.06
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,34,54,1.0,10.0,5.86,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,34,54,1.0,10.0,5.86,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,34,54,1.0,10.0,5.86,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,34,54,1.0,10.0,5.86,0.0,16.39,41.2
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,34,54,1.0,10.0,5.86,0.0,16.12,37.17
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,34,54,1.0,10.0,5.86,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,34,54,1.0,10.0,5.86,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,34,54,1.0,10.0,5.86,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,34,54,1.0,10.0,5.86,0.0,15.74,36.19
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,34,54,1.0,10.0,5.86,60.12,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,34,54,1.0,10.0,5.86,10.22,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,34,69,1.0,10.0,4.42,0.0,15.84,39.92
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,34,59,1.0,10.0,4.42,0.0,15.74,36.19
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,34,64,1.0,10.0,4.42,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,34,64,1.0,10.0,4.42,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,34,64,1.0,10.0,4.42,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,34,64,1.0,10.0,4.42,42.84,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,34,64,1.0,10.0,4.42,10.22,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,34,59,1.0,10.0,4.42,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,34,59,1.0,10.0,4.42,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,34,59,1.0,10.0,4.42,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,34,59,1.0,10.0,4.42,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,34,59,1.0,10.0,4.42,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,34,59,1.0,10.0,4.42,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,34,59,1.0,10.0,4.42,0.0,18.23,36.81
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,34,59,1.0,10.0,4.42,0.0,18.79,38.06
+56,ARKK.K,ARK Innovation ETF,5,120,14,34,74,1.0,10.0,4.42,10.22,16.76,37.46
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,34,59,1.0,10.0,4.42,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,34,59,1.0,10.0,4.42,42.84,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,34,59,1.0,10.0,4.42,10.22,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,34,79,1.0,10.0,4.42,42.84,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,34,79,1.0,10.0,4.42,0.0,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,34,79,1.0,10.0,4.42,0.0,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,34,79,1.0,10.0,4.42,0.0,15.74,36.19
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,34,79,1.0,10.0,4.42,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,34,79,1.0,10.0,4.42,0.0,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,34,79,1.0,10.0,4.42,0.0,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,120,14,34,79,1.0,10.0,4.42,0.0,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,120,14,34,79,1.0,10.0,4.42,0.0,16.96,36.12
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,34,64,1.0,10.0,4.42,0.0,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,34,64,1.0,10.0,4.42,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,34,64,1.0,10.0,4.42,0.0,18.26,39.44
+56,LTL,ProShares Ultra Communication Services,5,120,14,34,69,1.0,10.0,4.42,0.0,16.96,36.12
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,34,74,1.0,10.0,4.42,42.84,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,34,74,1.0,10.0,4.42,0.0,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,34,74,1.0,10.0,4.42,0.0,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,34,74,1.0,10.0,4.42,0.0,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,34,74,1.0,10.0,4.42,0.0,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,34,74,1.0,10.0,4.42,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,34,74,1.0,10.0,4.42,0.0,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,34,74,1.0,10.0,4.42,0.0,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,120,14,34,74,1.0,10.0,4.42,0.0,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,120,14,34,74,1.0,10.0,4.42,0.0,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,34,74,1.0,10.0,4.42,0.0,15.84,39.92
+56,ARKK.K,ARK Innovation ETF,5,120,14,34,79,1.0,10.0,4.42,10.22,16.76,37.46
+56,URE,ProShares Ultra Real Estate,5,120,14,34,69,1.0,10.0,4.42,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,34,64,1.0,10.0,4.42,0.0,16.39,41.2
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,34,69,1.0,10.0,4.42,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,34,69,1.0,10.0,4.42,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,34,69,1.0,10.0,4.42,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,34,69,1.0,10.0,4.42,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,34,69,1.0,10.0,4.42,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,34,69,1.0,10.0,4.42,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,34,69,1.0,10.0,4.42,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,34,69,1.0,10.0,4.42,42.84,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,34,69,1.0,10.0,4.42,10.22,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,34,64,1.0,10.0,4.42,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,34,64,1.0,10.0,4.42,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,34,64,1.0,10.0,4.42,0.0,17.87,39.34
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,34,79,1.0,10.0,4.42,0.0,18.23,36.81
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,34,79,1.0,10.0,4.42,0.0,15.84,39.92
+56,ARKK.K,ARK Innovation ETF,5,60,14,29,54,1.0,10.0,2.53,0.0,16.76,37.46
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,29,54,1.0,10.0,2.53,0.0,18.26,39.44
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,29,54,1.0,10.0,2.53,30.41,15.66,40.72
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,29,54,1.0,10.0,2.53,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,29,54,1.0,10.0,2.53,0.0,16.96,36.12
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,29,54,1.0,10.0,2.53,0.0,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,29,54,1.0,10.0,2.53,0.0,17.87,39.34
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,29,54,1.0,10.0,2.53,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,29,54,1.0,10.0,2.53,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,29,54,1.0,10.0,2.53,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,29,54,1.0,10.0,2.53,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,29,54,1.0,10.0,2.53,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,29,74,1.0,10.0,2.22,26.61,15.66,40.72
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,29,74,1.0,10.0,2.22,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,29,74,1.0,10.0,2.22,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,29,74,1.0,10.0,2.22,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,29,74,1.0,10.0,2.22,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,29,74,1.0,10.0,2.22,0.0,16.12,37.17
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,29,69,1.0,10.0,2.22,0.0,16.39,41.2
+56,ARKK.K,ARK Innovation ETF,5,60,14,29,74,1.0,10.0,2.22,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,29,69,1.0,10.0,2.22,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,29,69,1.0,10.0,2.22,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,29,69,1.0,10.0,2.22,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,29,74,1.0,10.0,2.22,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,29,74,1.0,10.0,2.22,0.0,18.26,39.44
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,29,79,1.0,10.0,2.22,0.0,16.12,37.17
+56,URE,ProShares Ultra Real Estate,5,60,14,29,74,1.0,10.0,2.22,0.0,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,60,14,29,74,1.0,10.0,2.22,0.0,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,29,74,1.0,10.0,2.22,0.0,15.84,39.92
+56,ARKK.K,ARK Innovation ETF,5,60,14,29,79,1.0,10.0,2.22,0.0,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,29,79,1.0,10.0,2.22,26.61,15.66,40.72
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,29,69,1.0,10.0,2.22,0.0,16.9,36.55
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,29,79,1.0,10.0,2.22,0.0,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,29,79,1.0,10.0,2.22,0.0,15.74,36.19
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,29,79,1.0,10.0,2.22,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,29,79,1.0,10.0,2.22,0.0,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,29,79,1.0,10.0,2.22,0.0,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,29,79,1.0,10.0,2.22,0.0,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,60,14,29,79,1.0,10.0,2.22,0.0,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,29,79,1.0,10.0,2.22,0.0,15.84,39.92
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,29,69,1.0,10.0,2.22,0.0,18.26,39.44
+56,ARKK.K,ARK Innovation ETF,5,60,14,29,69,1.0,10.0,2.22,0.0,16.76,37.46
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,29,69,1.0,10.0,2.22,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,29,69,1.0,10.0,2.22,0.0,15.74,36.19
+56,ARKK.K,ARK Innovation ETF,5,60,14,29,59,1.0,10.0,2.22,0.0,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,29,59,1.0,10.0,2.22,26.61,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,29,59,1.0,10.0,2.22,0.0,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,29,59,1.0,10.0,2.22,0.0,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,29,59,1.0,10.0,2.22,0.0,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,29,59,1.0,10.0,2.22,0.0,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,29,59,1.0,10.0,2.22,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,29,59,1.0,10.0,2.22,0.0,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,29,59,1.0,10.0,2.22,0.0,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,29,59,1.0,10.0,2.22,0.0,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,60,14,29,59,1.0,10.0,2.22,0.0,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,29,59,1.0,10.0,2.22,0.0,15.84,39.92
+56,ARKK.K,ARK Innovation ETF,5,60,14,29,64,1.0,10.0,2.22,0.0,16.76,37.46
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,29,64,1.0,10.0,2.22,26.61,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,29,64,1.0,10.0,2.22,0.0,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,29,64,1.0,10.0,2.22,0.0,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,29,64,1.0,10.0,2.22,0.0,15.74,36.19
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,29,64,1.0,10.0,2.22,0.0,18.23,36.81
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,29,64,1.0,10.0,2.22,0.0,16.9,36.55
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,29,64,1.0,10.0,2.22,0.0,18.26,39.44
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,29,64,1.0,10.0,2.22,0.0,16.39,41.2
+56,URE,ProShares Ultra Real Estate,5,60,14,29,64,1.0,10.0,2.22,0.0,17.87,39.34
+56,LTL,ProShares Ultra Communication Services,5,60,14,29,64,1.0,10.0,2.22,0.0,16.96,36.12
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,29,64,1.0,10.0,2.22,0.0,15.84,39.92
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,29,69,1.0,10.0,2.22,26.61,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,29,69,1.0,10.0,2.22,0.0,16.12,37.17
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,29,69,1.0,10.0,2.22,0.0,18.79,38.06
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,29,79,1.0,10.0,2.22,0.0,18.23,36.81
+56,ARKK.K,ARK Innovation ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,29,79,1.0,10.0,0.0,0.0,15.84,39.92
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,24,54,1.0,10.0,0.0,0.0,16.39,41.2
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,15.66,40.72
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,15.66,40.72
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,24,79,1.0,10.0,0.0,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,24,79,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,24,79,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,24,79,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,24,74,1.0,10.0,0.0,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,24,74,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,24,74,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,24,74,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,18.26,39.44
+56,URE,ProShares Ultra Real Estate,5,120,14,24,54,1.0,10.0,0.0,0.0,17.87,39.34
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,16.9,36.55
+56,LTL,ProShares Ultra Communication Services,5,120,14,24,54,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,24,64,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,24,64,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,24,59,1.0,10.0,0.0,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,24,59,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,24,59,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,24,59,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,24,54,1.0,10.0,0.0,0.0,15.84,39.92
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,18.26,39.44
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,18.23,36.81
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,24,64,1.0,10.0,0.0,0.0,15.84,39.92
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKK.K,ARK Innovation ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,24,59,1.0,10.0,0.0,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,24,59,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,24,59,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,24,59,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,24,54,1.0,10.0,0.0,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,24,54,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,24,54,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,24,54,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,15.66,40.72
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,15.74,36.19
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,24,69,1.0,10.0,0.0,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,24,69,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,24,69,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,24,69,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,60,14,24,64,1.0,10.0,0.0,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,60,14,24,64,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,60,14,24,64,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,60,14,24,64,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,18.23,36.81
+56,LTL,ProShares Ultra Communication Services,5,120,14,24,64,1.0,10.0,0.0,0.0,16.96,36.12
+56,ARKK.K,ARK Innovation ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,16.76,37.46
+56,LTL,ProShares Ultra Communication Services,5,120,14,29,79,1.0,10.0,0.0,0.0,16.96,36.12
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,29,69,1.0,10.0,0.0,0.0,16.39,41.2
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,29,64,1.0,10.0,0.0,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,29,64,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,29,64,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,29,64,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,29,59,1.0,10.0,0.0,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,29,59,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,29,59,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,29,59,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,18.26,39.44
+56,URE,ProShares Ultra Real Estate,5,120,14,29,69,1.0,10.0,0.0,0.0,17.87,39.34
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,16.9,36.55
+56,LTL,ProShares Ultra Communication Services,5,120,14,29,69,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,29,79,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,29,79,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,29,74,1.0,10.0,0.0,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,29,74,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,29,74,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,29,74,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,29,69,1.0,10.0,0.0,0.0,15.84,39.92
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,18.26,39.44
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,18.23,36.81
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,15.66,40.72
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKK.K,ARK Innovation ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,24,74,1.0,10.0,0.0,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,24,74,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,24,74,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,24,74,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,24,69,1.0,10.0,0.0,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,24,69,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,24,69,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,24,69,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,15.66,40.72
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,15.74,36.19
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,29,54,1.0,10.0,0.0,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,29,54,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,29,54,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,29,54,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,18.23,36.81
+56,IJJ,iShares S&P Mid-Cap 400 Value ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,15.74,36.19
+56,BLOK.K,Amplify Transformational Data Sharing ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,18.79,38.06
+56,IJS,iShares S&P Small-Cap 600 Value ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,16.12,37.17
+56,ARKF.K,Ark Fintech Innovation ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,15.66,40.72
+56,ARKK.K,ARK Innovation ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,16.76,37.46
+56,UPV,ProShares Ultra FTSE Europe,5,120,14,24,79,1.0,10.0,0.0,0.0,15.84,39.92
+56,LTL,ProShares Ultra Communication Services,5,120,14,24,79,1.0,10.0,0.0,0.0,16.96,36.12
+56,URE,ProShares Ultra Real Estate,5,120,14,24,79,1.0,10.0,0.0,0.0,17.87,39.34
+56,GDMN.K,WisdomTree Efficient Gold Plus Gold Miners Str Fd,5,120,14,24,79,1.0,10.0,0.0,0.0,16.39,41.2
+56,LRNZ.K,TrueShares Technology AI & Deep Learning ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,18.26,39.44
+56,MSFL.O,GraniteShares 2x Long MSFT Daily ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,16.9,36.55
+56,IJT.O,iShares S&P Small-Cap 600 Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,18.23,36.81
+56,ARKK.K,ARK Innovation ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,16.76,37.46

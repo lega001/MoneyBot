@@ -1,0 +1,721 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,24,54,1.0,10.0,0.0,0,24.31,6.54
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,29,79,1.0,10.0,0.0,0,24.74,9.68
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,29,79,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,29,79,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,29,79,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,29,79,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,34,54,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,34,54,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,34,54,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,34,54,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,34,54,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,34,54,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,34,54,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,34,54,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,34,54,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,34,59,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,34,59,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,34,59,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,34,59,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,29,79,1.0,10.0,0.0,0,26.58,10.29
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,29,79,1.0,10.0,0.0,0,24.44,2.18
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,24,54,1.0,10.0,0.0,0,26.27,8.84
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,29,79,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,29,69,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,29,69,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,29,69,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,29,69,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,29,69,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,29,69,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,29,69,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,29,74,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,29,74,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,29,74,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,29,74,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,29,74,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,29,74,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,29,74,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,29,74,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,29,74,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,29,79,1.0,10.0,0.0,0,24.31,6.54
+49,TBG,TBG Dividend Focus ETF,5,120,14,34,59,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,34,59,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,34,59,1.0,10.0,0.0,0,24.52,7.51
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,34,74,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,34,74,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,34,74,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,34,74,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,34,74,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,34,74,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,34,74,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,34,74,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,34,74,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,34,79,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,34,79,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,34,79,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,34,79,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,34,79,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,34,79,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,34,79,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,34,79,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,34,69,1.0,10.0,0.0,0,25.84,8.27
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,34,69,1.0,10.0,0.0,0,27.49,5.48
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,34,69,1.0,10.0,0.0,0,24.52,7.51
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,34,64,1.0,10.0,0.0,0,26.73,9.25
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,34,59,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,34,59,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,34,64,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,34,64,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,34,64,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,34,64,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,34,64,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,26.91,9.66
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,34,64,1.0,10.0,0.0,0,24.52,7.51
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,34,69,1.0,10.0,0.0,0,26.73,9.25
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,34,64,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,34,64,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,34,69,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,34,69,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,34,69,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,34,69,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,34,69,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,26.91,9.66
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,29,69,1.0,10.0,0.0,0,26.27,8.84
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,29,69,1.0,10.0,0.0,0,24.31,6.54
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,29,64,1.0,10.0,0.0,0,25.84,8.27
+49,TBG,TBG Dividend Focus ETF,5,120,14,24,74,1.0,10.0,0.0,0,26.58,10.29
+49,TBG,TBG Dividend Focus ETF,5,120,14,24,64,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,24,64,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,24,64,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,24,64,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,24,64,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,24,69,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,24,69,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,24,69,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,24,69,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,24,69,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,24,69,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,24,69,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,24,69,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,24,69,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,24,74,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,24,74,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,24,74,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,24,64,1.0,10.0,0.0,0,24.74,9.68
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,24,64,1.0,10.0,0.0,0,24.44,2.18
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,24,64,1.0,10.0,0.0,0,26.27,8.84
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,24,59,1.0,10.0,0.0,0,24.31,6.54
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,24,54,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,24,54,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,24,54,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,24,54,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,24,54,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,24,54,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,24,54,1.0,10.0,0.0,0,25.84,8.27
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,24,59,1.0,10.0,0.0,0,26.27,8.84
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,24,64,1.0,10.0,0.0,0,24.31,6.54
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,24,59,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,24,59,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,24,59,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,24,59,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,24,59,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,24,59,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,24,59,1.0,10.0,0.0,0,25.84,8.27
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,24,74,1.0,10.0,0.0,0,24.74,9.68
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0,26.91,9.66
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,29,64,1.0,10.0,0.0,0,27.49,5.48
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,24,74,1.0,10.0,0.0,0,26.73,9.25
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,29,54,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,29,59,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,29,59,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,29,59,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,29,59,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,29,59,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,29,59,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,29,59,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,29,59,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,29,59,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,29,64,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,29,64,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,29,64,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,29,64,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,29,64,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,29,64,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,29,64,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,29,54,1.0,10.0,0.0,0,27.49,5.48
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,29,54,1.0,10.0,0.0,0,24.52,7.51
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,29,54,1.0,10.0,0.0,0,26.73,9.25
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0,26.91,9.66
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,24,74,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,24,74,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,24,74,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,24,79,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,24,79,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,24,79,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,24,79,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,24,79,1.0,10.0,0.0,0,26.58,10.29
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,24,79,1.0,10.0,0.0,0,26.73,9.25
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,26.91,9.66
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,24,79,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,24,79,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,24,79,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,29,54,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,29,54,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,29,54,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,29,54,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,29,54,1.0,10.0,0.0,0,26.58,10.29
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,34,79,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,39,54,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,39,54,1.0,10.0,0.0,0,26.27,8.84
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,26.91,9.66
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,44,79,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,44,79,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,44,79,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,44,79,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,49,54,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,49,54,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,49,54,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,49,54,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,49,54,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,49,54,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,49,54,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,49,54,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,49,54,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,49,59,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,49,59,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,49,59,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,49,59,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,44,79,1.0,10.0,0.0,0,26.58,10.29
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,44,79,1.0,10.0,0.0,0,24.74,9.68
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,44,79,1.0,10.0,0.0,0,24.44,2.18
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,44,74,1.0,10.0,0.0,0,26.27,8.84
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,44,69,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,44,69,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,44,69,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,44,69,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,44,69,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,44,69,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,44,74,1.0,10.0,0.0,0,24.31,6.54
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,44,74,1.0,10.0,0.0,0,24.44,2.18
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,44,79,1.0,10.0,0.0,0,26.27,8.84
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,44,74,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,44,74,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,44,74,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,44,74,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,44,74,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,44,74,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,44,79,1.0,10.0,0.0,0,24.31,6.54
+49,TBG,TBG Dividend Focus ETF,5,120,14,49,59,1.0,10.0,0.0,0,26.58,10.29
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,49,59,1.0,10.0,0.0,0,26.73,9.25
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,44,69,1.0,10.0,0.0,0,26.27,8.84
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,49,59,1.0,10.0,0.0,0,24.52,7.51
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,49,74,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,49,74,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,49,74,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,49,74,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,49,74,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,49,74,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,49,74,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,49,74,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,49,74,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,49,79,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,49,79,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,49,79,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,49,79,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,49,79,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,49,79,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,49,79,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,49,79,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,49,79,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,49,69,1.0,10.0,0.0,0,25.84,8.27
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,49,69,1.0,10.0,0.0,0,27.49,5.48
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,49,69,1.0,10.0,0.0,0,24.52,7.51
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,49,64,1.0,10.0,0.0,0,26.73,9.25
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,49,59,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,49,59,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,49,64,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,49,64,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,49,64,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,49,64,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,49,64,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,26.91,9.66
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,49,64,1.0,10.0,0.0,0,24.52,7.51
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,49,69,1.0,10.0,0.0,0,26.73,9.25
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,49,64,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,49,64,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,49,69,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,49,69,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,49,69,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,49,69,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,49,69,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,26.91,9.66
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,44,69,1.0,10.0,0.0,0,24.44,2.18
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,44,69,1.0,10.0,0.0,0,24.31,6.54
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,39,54,1.0,10.0,0.0,0,24.44,2.18
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,26.91,9.66
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,39,64,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,39,64,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,39,64,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,39,64,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,39,69,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,39,69,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,39,69,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,39,69,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,39,69,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,39,69,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,39,69,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,39,69,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,39,69,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,39,74,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,39,74,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,39,74,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,39,74,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,39,64,1.0,10.0,0.0,0,26.58,10.29
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,39,64,1.0,10.0,0.0,0,24.74,9.68
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,39,64,1.0,10.0,0.0,0,24.44,2.18
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,39,59,1.0,10.0,0.0,0,26.27,8.84
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,39,54,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,39,54,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,39,54,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,39,54,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,39,54,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,39,54,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,39,59,1.0,10.0,0.0,0,24.31,6.54
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,39,59,1.0,10.0,0.0,0,24.44,2.18
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,39,64,1.0,10.0,0.0,0,26.27,8.84
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,39,59,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,39,59,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,39,59,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,39,59,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,39,59,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,39,59,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,39,64,1.0,10.0,0.0,0,24.31,6.54
+49,TBG,TBG Dividend Focus ETF,5,120,14,39,74,1.0,10.0,0.0,0,26.58,10.29
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,39,74,1.0,10.0,0.0,0,26.73,9.25
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,44,64,1.0,10.0,0.0,0,25.84,8.27
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,39,74,1.0,10.0,0.0,0,24.52,7.51
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,44,59,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,44,59,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,44,59,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,44,59,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,44,59,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,44,59,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,44,59,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,44,59,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,44,59,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,44,64,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,44,64,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,44,64,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,44,64,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,44,64,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,44,64,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,44,64,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,44,64,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,44,54,1.0,10.0,0.0,0,25.84,8.27
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,44,54,1.0,10.0,0.0,0,27.49,5.48
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,44,54,1.0,10.0,0.0,0,24.52,7.51
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,39,79,1.0,10.0,0.0,0,26.73,9.25
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,39,74,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,39,74,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,39,79,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,39,79,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,39,79,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,39,79,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,39,79,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0,26.91,9.66
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,120,14,39,79,1.0,10.0,0.0,0,24.52,7.51
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,120,14,44,54,1.0,10.0,0.0,0,26.73,9.25
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,120,14,39,79,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,39,79,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,44,54,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,44,54,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,120,14,44,54,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,120,14,44,54,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,120,14,44,54,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,26.91,9.66
+49,CGBL.K,Capital Group Core Balanced ETF,5,120,14,24,54,1.0,10.0,0.0,0,26.27,8.84
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,120,14,24,54,1.0,10.0,0.0,0,24.31,6.54
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,49,79,1.0,10.0,0.0,0,25.84,8.27
+49,TBG,TBG Dividend Focus ETF,5,60,14,34,59,1.0,10.0,0.0,0,26.58,10.29
+49,TBG,TBG Dividend Focus ETF,5,60,14,29,79,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,29,79,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,29,79,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,29,79,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,29,79,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,34,54,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,34,54,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,34,54,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,34,54,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,34,54,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,34,54,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,34,54,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,34,54,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,34,54,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,34,59,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,34,59,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,34,59,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,29,79,1.0,10.0,0.0,0,24.74,9.68
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,29,79,1.0,10.0,0.0,0,24.44,2.18
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,29,79,1.0,10.0,0.0,0,26.27,8.84
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,29,74,1.0,10.0,0.0,0,24.31,6.54
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,29,69,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,29,69,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,29,69,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,29,69,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,29,69,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,29,69,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,29,69,1.0,10.0,0.0,0,25.84,8.27
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,29,74,1.0,10.0,0.0,0,26.27,8.84
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,29,79,1.0,10.0,0.0,0,24.31,6.54
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,29,74,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,29,74,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,29,74,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,29,74,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,29,74,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,29,74,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,29,74,1.0,10.0,0.0,0,25.84,8.27
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,34,59,1.0,10.0,0.0,0,24.74,9.68
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,26.91,9.66
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,29,69,1.0,10.0,0.0,0,24.31,6.54
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,34,59,1.0,10.0,0.0,0,26.73,9.25
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,34,69,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,34,74,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,34,74,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,34,74,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,34,74,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,34,74,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,34,74,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,34,74,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,34,74,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,34,74,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,34,79,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,34,79,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,34,79,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,34,79,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,34,79,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,34,79,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,34,79,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,34,69,1.0,10.0,0.0,0,27.49,5.48
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,34,69,1.0,10.0,0.0,0,24.52,7.51
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,34,69,1.0,10.0,0.0,0,26.73,9.25
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,26.91,9.66
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,34,59,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,34,59,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,34,59,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,34,64,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,34,64,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,34,64,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,34,64,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,34,64,1.0,10.0,0.0,0,26.58,10.29
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,34,64,1.0,10.0,0.0,0,26.73,9.25
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,26.91,9.66
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,34,64,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,34,64,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,34,64,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,34,69,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,34,69,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,34,69,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,34,69,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,34,69,1.0,10.0,0.0,0,26.58,10.29
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,29,69,1.0,10.0,0.0,0,26.27,8.84
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,29,64,1.0,10.0,0.0,0,25.84,8.27
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,34,79,1.0,10.0,0.0,0,25.84,8.27
+49,TBG,TBG Dividend Focus ETF,5,60,14,24,74,1.0,10.0,0.0,0,26.58,10.29
+49,TBG,TBG Dividend Focus ETF,5,60,14,24,64,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,24,64,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,24,64,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,24,64,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,24,64,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,24,69,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,24,69,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,24,69,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,24,69,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,24,69,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,24,69,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,24,69,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,24,69,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,24,69,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,24,74,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,24,74,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,24,74,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,24,64,1.0,10.0,0.0,0,24.74,9.68
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,24,64,1.0,10.0,0.0,0,24.44,2.18
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,24,64,1.0,10.0,0.0,0,26.27,8.84
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,24,59,1.0,10.0,0.0,0,24.31,6.54
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,24,54,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,24,54,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,24,54,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,24,54,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,24,54,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,24,54,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,24,54,1.0,10.0,0.0,0,25.84,8.27
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,24,59,1.0,10.0,0.0,0,26.27,8.84
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,24,64,1.0,10.0,0.0,0,24.31,6.54
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,24,59,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,24,59,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,24,59,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,24,59,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,24,59,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,24,59,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,24,59,1.0,10.0,0.0,0,25.84,8.27
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,24,74,1.0,10.0,0.0,0,24.74,9.68
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0,26.91,9.66
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,29,64,1.0,10.0,0.0,0,27.49,5.48
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,24,74,1.0,10.0,0.0,0,26.73,9.25
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,29,54,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,29,59,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,29,59,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,29,59,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,29,59,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,29,59,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,29,59,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,29,59,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,29,59,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,29,59,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,29,64,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,29,64,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,29,64,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,29,64,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,29,64,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,29,64,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,29,64,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,29,54,1.0,10.0,0.0,0,27.49,5.48
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,29,54,1.0,10.0,0.0,0,24.52,7.51
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,29,54,1.0,10.0,0.0,0,26.73,9.25
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0,26.91,9.66
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,24,74,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,24,74,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,24,74,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,24,79,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,24,79,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,24,79,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,24,79,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,24,79,1.0,10.0,0.0,0,26.58,10.29
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,24,79,1.0,10.0,0.0,0,26.73,9.25
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,26.91,9.66
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,24,79,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,24,79,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,24,79,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,29,54,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,29,54,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,29,54,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,29,54,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,29,54,1.0,10.0,0.0,0,26.58,10.29
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,34,79,1.0,10.0,0.0,0,27.49,5.48
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,39,54,1.0,10.0,0.0,0,24.31,6.54
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,49,79,1.0,10.0,0.0,0,27.49,5.48
+49,TBG,TBG Dividend Focus ETF,5,60,14,49,59,1.0,10.0,0.0,0,26.58,10.29
+49,TBG,TBG Dividend Focus ETF,5,60,14,44,79,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,44,79,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,44,79,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,44,79,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,44,79,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,49,54,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,49,54,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,49,54,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,49,54,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,49,54,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,49,54,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,49,54,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,49,54,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,49,54,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,49,59,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,49,59,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,49,59,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,44,79,1.0,10.0,0.0,0,24.74,9.68
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,44,79,1.0,10.0,0.0,0,24.44,2.18
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,44,79,1.0,10.0,0.0,0,26.27,8.84
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,44,74,1.0,10.0,0.0,0,24.31,6.54
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,44,69,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,44,69,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,44,69,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,44,69,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,44,69,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,44,69,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,44,69,1.0,10.0,0.0,0,25.84,8.27
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,44,74,1.0,10.0,0.0,0,26.27,8.84
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,44,79,1.0,10.0,0.0,0,24.31,6.54
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,44,74,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,44,74,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,44,74,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,44,74,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,44,74,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,44,74,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,44,74,1.0,10.0,0.0,0,25.84,8.27
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,49,59,1.0,10.0,0.0,0,24.74,9.68
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,26.91,9.66
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,44,69,1.0,10.0,0.0,0,24.31,6.54
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,49,59,1.0,10.0,0.0,0,26.73,9.25
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,49,69,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,49,74,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,49,74,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,49,74,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,49,74,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,49,74,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,49,74,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,49,74,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,49,74,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,49,74,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,49,79,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,49,79,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,49,79,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,49,79,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,49,79,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,49,79,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,49,79,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,49,79,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,49,69,1.0,10.0,0.0,0,27.49,5.48
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,49,69,1.0,10.0,0.0,0,24.52,7.51
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,49,69,1.0,10.0,0.0,0,26.73,9.25
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,26.91,9.66
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,49,59,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,49,59,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,49,59,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,49,64,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,49,64,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,49,64,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,49,64,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,49,64,1.0,10.0,0.0,0,26.58,10.29
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,49,64,1.0,10.0,0.0,0,26.73,9.25
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,26.91,9.66
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,49,64,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,49,64,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,49,64,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,49,69,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,49,69,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,49,69,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,49,69,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,49,69,1.0,10.0,0.0,0,26.58,10.29
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,44,69,1.0,10.0,0.0,0,26.27,8.84
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,44,64,1.0,10.0,0.0,0,25.84,8.27
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,39,54,1.0,10.0,0.0,0,26.27,8.84
+49,TBG,TBG Dividend Focus ETF,5,60,14,39,74,1.0,10.0,0.0,0,26.58,10.29
+49,TBG,TBG Dividend Focus ETF,5,60,14,39,64,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,39,64,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,39,64,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,39,64,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,39,64,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,39,69,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,39,69,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,39,69,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,39,69,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,39,69,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,39,69,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,39,69,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,39,69,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,39,69,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,39,74,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,39,74,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,39,74,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,39,64,1.0,10.0,0.0,0,24.74,9.68
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,39,64,1.0,10.0,0.0,0,24.44,2.18
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,39,64,1.0,10.0,0.0,0,26.27,8.84
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,39,59,1.0,10.0,0.0,0,24.31,6.54
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,39,54,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,39,54,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,39,54,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,39,54,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,39,54,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,39,54,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,39,54,1.0,10.0,0.0,0,25.84,8.27
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,39,59,1.0,10.0,0.0,0,26.27,8.84
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,39,64,1.0,10.0,0.0,0,24.31,6.54
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,39,59,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,39,59,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,39,59,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,39,59,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,39,59,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,39,59,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,39,59,1.0,10.0,0.0,0,25.84,8.27
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,39,74,1.0,10.0,0.0,0,24.74,9.68
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,26.91,9.66
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,44,64,1.0,10.0,0.0,0,27.49,5.48
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,39,74,1.0,10.0,0.0,0,26.73,9.25
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,44,54,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,44,59,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,44,59,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,44,59,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,44,59,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,44,59,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,44,59,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,44,59,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,44,59,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,44,59,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,44,64,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,44,64,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,44,64,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,44,64,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,44,64,1.0,10.0,0.0,0,26.58,10.29
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,26.91,9.66
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,44,64,1.0,10.0,0.0,0,26.73,9.25
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,44,64,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,44,54,1.0,10.0,0.0,0,27.49,5.48
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,44,54,1.0,10.0,0.0,0,24.52,7.51
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,44,54,1.0,10.0,0.0,0,26.73,9.25
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0,26.91,9.66
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,39,74,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,39,74,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,39,74,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,39,79,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,39,79,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,39,79,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,39,79,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,39,79,1.0,10.0,0.0,0,26.58,10.29
+49,BALI.K,BlackRock Advantage Large Cap Income ETF,5,60,14,39,79,1.0,10.0,0.0,0,26.73,9.25
+49,LOWV.K,AB US Low Volatility Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,26.91,9.66
+49,EALT.K,Innovator US Equity 5 to 15 Buffer ETF - Quarterly,5,60,14,39,79,1.0,10.0,0.0,0,24.52,7.51
+49,QMMY.K,FT Vest Nasdaq-100 Moderate Buffer ETF - May,5,60,14,39,79,1.0,10.0,0.0,0,27.49,5.48
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,60,14,39,79,1.0,10.0,0.0,0,25.84,8.27
+49,HELO.K,JPMorgan Hedged Equity Laddered Overlay ETF,5,60,14,44,54,1.0,10.0,0.0,0,24.31,6.54
+49,CGBL.K,Capital Group Core Balanced ETF,5,60,14,44,54,1.0,10.0,0.0,0,26.27,8.84
+49,CPNJ.K,Calamos Nasdaq-100 Structured Alt Prot ETF - June,5,60,14,44,54,1.0,10.0,0.0,0,24.44,2.18
+49,FELV.K,Fidelity Enhanced Large Cap Value ETF,5,60,14,44,54,1.0,10.0,0.0,0,24.74,9.68
+49,TBG,TBG Dividend Focus ETF,5,60,14,44,54,1.0,10.0,0.0,0,26.58,10.29
+49,NXTI.K,Simplify Next Intangible Core Index ETF,5,120,14,49,79,1.0,10.0,0.0,0,25.84,8.27

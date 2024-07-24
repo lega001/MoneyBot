@@ -1,0 +1,865 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,24,54,1.0,10.0,-0.78,0.0,-17.7,24.69
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,24,69,1.0,10.0,-0.78,0.0,-17.7,24.69
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,24,59,1.0,10.0,-0.78,0.0,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,24,59,1.0,10.0,-0.78,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,24,59,1.0,10.0,-0.78,0.0,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,24,59,1.0,10.0,-0.78,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,24,64,1.0,10.0,-0.78,0.0,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,24,64,1.0,10.0,-0.78,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,24,64,1.0,10.0,-0.78,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,24,64,1.0,10.0,-0.78,0.0,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,24,64,1.0,10.0,-0.78,0.0,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,24,64,1.0,10.0,-0.78,0.0,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,24,64,1.0,10.0,-0.78,-6.75,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,24,64,1.0,10.0,-0.78,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,24,64,1.0,10.0,-0.78,0.0,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,24,64,1.0,10.0,-0.78,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,24,64,1.0,10.0,-0.78,0.0,-13.49,22.81
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,24,59,1.0,10.0,-0.78,0.0,-13.43,25.51
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,24,59,1.0,10.0,-0.78,-6.75,-15.13,21.83
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,24,59,1.0,10.0,-0.78,0.0,-14.49,24.94
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,24,54,1.0,10.0,-0.78,0.0,-15.02,21.05
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,24,54,1.0,10.0,-0.78,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,24,54,1.0,10.0,-0.78,0.0,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,24,54,1.0,10.0,-0.78,0.0,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,24,54,1.0,10.0,-0.78,0.0,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,24,54,1.0,10.0,-0.78,-6.75,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,24,54,1.0,10.0,-0.78,0.0,-13.43,25.51
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,24,54,1.0,10.0,-0.78,0.0,-14.16,22.86
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,24,59,1.0,10.0,-0.78,0.0,-14.34,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,24,54,1.0,10.0,-0.78,0.0,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,24,54,1.0,10.0,-0.78,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,24,59,1.0,10.0,-0.78,0.0,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,24,59,1.0,10.0,-0.78,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,24,59,1.0,10.0,-0.78,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,24,59,1.0,10.0,-0.78,0.0,-14.67,22.61
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,24,64,1.0,10.0,-0.78,12.42,-17.06,20.19
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,24,69,1.0,10.0,-0.78,0.0,-12.38,26.01
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,24,74,1.0,10.0,-0.78,0.0,-13.43,25.51
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,24,69,1.0,10.0,-0.78,-14.98,-18.96,23.58
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,24,74,1.0,10.0,-0.78,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,24,74,1.0,10.0,-0.78,0.0,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,24,74,1.0,10.0,-0.78,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,24,79,1.0,10.0,-0.78,0.0,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,24,79,1.0,10.0,-0.78,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,24,79,1.0,10.0,-0.78,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,24,79,1.0,10.0,-0.78,0.0,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,24,79,1.0,10.0,-0.78,0.0,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,24,79,1.0,10.0,-0.78,0.0,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,24,79,1.0,10.0,-0.78,-6.75,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,24,79,1.0,10.0,-0.78,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,24,79,1.0,10.0,-0.78,0.0,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,24,79,1.0,10.0,-0.78,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,24,79,1.0,10.0,-0.78,0.0,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,24,79,1.0,10.0,-0.78,12.42,-17.06,20.19
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,24,74,1.0,10.0,-0.78,0.0,-15.02,21.05
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,24,54,1.0,10.0,-0.78,0.0,-12.38,26.01
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,24,74,1.0,10.0,-0.78,-6.75,-15.13,21.83
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,24,69,1.0,10.0,-0.78,0.0,-14.16,22.86
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,24,69,1.0,10.0,-0.78,0.0,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,24,69,1.0,10.0,-0.78,0.0,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,24,69,1.0,10.0,-0.78,0.0,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,24,69,1.0,10.0,-0.78,-6.75,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,24,69,1.0,10.0,-0.78,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,24,69,1.0,10.0,-0.78,0.0,-15.02,21.05
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,24,69,1.0,10.0,-0.78,0.0,-13.49,22.81
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,24,74,1.0,10.0,-0.78,0.0,-14.49,24.94
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,24,69,1.0,10.0,-0.78,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,24,74,1.0,10.0,-0.78,0.0,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,24,74,1.0,10.0,-0.78,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,24,74,1.0,10.0,-0.78,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,24,74,1.0,10.0,-0.78,0.0,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,24,74,1.0,10.0,-0.78,0.0,-14.34,21.21
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,24,54,1.0,10.0,-2.35,0.0,-12.38,26.01
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,24,54,1.0,10.0,-2.35,-19.38,-17.7,24.69
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,24,69,1.0,10.0,-2.35,-19.38,-17.7,24.69
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,24,64,1.0,10.0,-2.35,-16.36,-14.67,22.61
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,24,59,1.0,10.0,-2.35,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,24,59,1.0,10.0,-2.35,0.0,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,24,59,1.0,10.0,-2.35,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,24,64,1.0,10.0,-2.35,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,24,64,1.0,10.0,-2.35,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,24,64,1.0,10.0,-2.35,-10.28,-18.96,23.58
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,24,64,1.0,10.0,-2.35,0.0,-14.34,21.21
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,24,59,1.0,10.0,-2.35,0.0,-13.43,25.51
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,24,64,1.0,10.0,-2.35,0.0,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,24,64,1.0,10.0,-2.35,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,24,64,1.0,10.0,-2.35,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,24,64,1.0,10.0,-2.35,0.0,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,24,64,1.0,10.0,-2.35,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,24,64,1.0,10.0,-2.35,0.0,-13.49,22.81
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,24,59,1.0,10.0,-2.35,0.0,-15.02,21.05
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,24,59,1.0,10.0,-2.35,-20.63,-15.13,21.83
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,24,69,1.0,10.0,-2.35,0.0,-12.38,26.01
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,24,54,1.0,10.0,-2.35,0.0,-14.16,22.86
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,24,54,1.0,10.0,-2.35,-16.36,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,24,54,1.0,10.0,-2.35,0.0,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,24,54,1.0,10.0,-2.35,0.0,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,24,54,1.0,10.0,-2.35,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,24,54,1.0,10.0,-2.35,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,24,54,1.0,10.0,-2.35,0.0,-15.02,21.05
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,24,54,1.0,10.0,-2.35,0.0,-13.49,22.81
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,24,59,1.0,10.0,-2.35,0.0,-14.49,24.94
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,24,54,1.0,10.0,-2.35,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,24,59,1.0,10.0,-2.35,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,24,59,1.0,10.0,-2.35,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,24,59,1.0,10.0,-2.35,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,24,59,1.0,10.0,-2.35,-16.36,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,24,59,1.0,10.0,-2.35,0.0,-14.34,21.21
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,24,64,1.0,10.0,-2.35,38.5,-17.06,20.19
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,24,69,1.0,10.0,-2.35,-10.28,-18.96,23.58
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,24,74,1.0,10.0,-2.35,0.0,-13.43,25.51
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,24,79,1.0,10.0,-2.35,0.0,-14.34,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,24,74,1.0,10.0,-2.35,0.0,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,24,74,1.0,10.0,-2.35,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,24,79,1.0,10.0,-2.35,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,24,79,1.0,10.0,-2.35,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,24,79,1.0,10.0,-2.35,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,24,79,1.0,10.0,-2.35,-16.36,-14.67,22.61
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,24,79,1.0,10.0,-2.35,0.0,-14.49,24.94
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,24,74,1.0,10.0,-2.35,0.0,-15.02,21.05
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,24,79,1.0,10.0,-2.35,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,24,79,1.0,10.0,-2.35,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,24,79,1.0,10.0,-2.35,0.0,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,24,79,1.0,10.0,-2.35,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,24,79,1.0,10.0,-2.35,0.0,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,24,79,1.0,10.0,-2.35,38.5,-17.06,20.19
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,24,74,1.0,10.0,-2.35,0.0,-14.16,22.86
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,24,54,1.0,10.0,-2.35,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,24,69,1.0,10.0,-2.35,-16.36,-14.67,22.61
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,24,69,1.0,10.0,-2.35,0.0,-13.49,22.81
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,24,69,1.0,10.0,-2.35,0.0,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,24,69,1.0,10.0,-2.35,0.0,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,24,69,1.0,10.0,-2.35,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,24,69,1.0,10.0,-2.35,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,24,69,1.0,10.0,-2.35,0.0,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,24,69,1.0,10.0,-2.35,0.0,-14.16,22.86
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,24,69,1.0,10.0,-2.35,38.5,-17.06,20.19
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,24,74,1.0,10.0,-2.35,-20.63,-15.13,21.83
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,24,74,1.0,10.0,-2.35,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,24,74,1.0,10.0,-2.35,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,24,74,1.0,10.0,-2.35,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,24,74,1.0,10.0,-2.35,-16.36,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,24,74,1.0,10.0,-2.35,0.0,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,24,74,1.0,10.0,-2.35,0.0,-14.49,24.94
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,29,54,1.0,10.0,-4.96,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,29,54,1.0,10.0,-4.96,0.0,-12.38,26.01
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,29,69,1.0,10.0,-4.96,-18.06,-17.7,24.69
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,29,69,1.0,10.0,-4.96,0.0,-14.16,22.86
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,29,74,1.0,10.0,-4.96,-16.97,-14.67,22.61
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,29,74,1.0,10.0,-4.96,-14.98,-18.96,23.58
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,29,74,1.0,10.0,-4.96,0.0,-12.38,26.01
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,29,74,1.0,10.0,-4.96,-18.06,-17.7,24.69
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,29,69,1.0,10.0,-4.96,12.42,-17.06,20.19
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,29,69,1.0,10.0,-4.96,0.0,-13.49,22.81
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,29,69,1.0,10.0,-4.96,0.0,-15.02,21.05
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,29,74,1.0,10.0,-4.96,0.0,-14.49,24.94
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,29,69,1.0,10.0,-4.96,0.0,-13.43,25.51
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,29,69,1.0,10.0,-4.96,-21.9,-15.13,21.83
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,29,69,1.0,10.0,-4.96,0.0,-14.49,24.94
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,29,69,1.0,10.0,-4.96,0.0,-14.34,21.21
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,29,69,1.0,10.0,-4.96,-16.97,-14.67,22.61
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,29,69,1.0,10.0,-4.96,-14.98,-18.96,23.58
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,29,74,1.0,10.0,-4.96,0.0,-14.34,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,29,74,1.0,10.0,-4.96,-21.9,-15.13,21.83
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,29,54,1.0,10.0,-4.96,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,29,79,1.0,10.0,-4.96,-16.97,-14.67,22.61
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,29,79,1.0,10.0,-4.96,0.0,-14.16,22.86
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,29,79,1.0,10.0,-4.96,0.0,-15.02,21.05
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,29,79,1.0,10.0,-4.96,0.0,-13.43,25.51
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,29,79,1.0,10.0,-4.96,-21.9,-15.13,21.83
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,29,79,1.0,10.0,-4.96,0.0,-14.49,24.94
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,29,79,1.0,10.0,-4.96,0.0,-14.34,21.21
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,29,79,1.0,10.0,-4.96,-14.98,-18.96,23.58
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,29,74,1.0,10.0,-4.96,0.0,-13.43,25.51
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,29,79,1.0,10.0,-4.96,0.0,-12.38,26.01
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,29,79,1.0,10.0,-4.96,-18.06,-17.7,24.69
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,29,74,1.0,10.0,-4.96,12.42,-17.06,20.19
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,29,74,1.0,10.0,-4.96,0.0,-13.49,22.81
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,29,74,1.0,10.0,-4.96,0.0,-14.16,22.86
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,29,74,1.0,10.0,-4.96,0.0,-15.02,21.05
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,29,69,1.0,10.0,-4.96,0.0,-12.38,26.01
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,29,79,1.0,10.0,-4.96,0.0,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,29,79,1.0,10.0,-4.96,12.42,-17.06,20.19
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,29,54,1.0,10.0,-4.96,0.0,-13.49,22.81
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,29,59,1.0,10.0,-4.96,0.0,-14.34,21.21
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,29,59,1.0,10.0,-4.96,-16.97,-14.67,22.61
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,29,59,1.0,10.0,-4.96,-14.98,-18.96,23.58
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,29,59,1.0,10.0,-4.96,0.0,-12.38,26.01
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,29,59,1.0,10.0,-4.96,-18.06,-17.7,24.69
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,29,54,1.0,10.0,-4.96,12.42,-17.06,20.19
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,29,54,1.0,10.0,-4.96,0.0,-14.16,22.86
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,29,59,1.0,10.0,-4.96,-21.9,-15.13,21.83
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,29,54,1.0,10.0,-4.96,0.0,-15.02,21.05
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,29,54,1.0,10.0,-4.96,0.0,-13.43,25.51
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,29,54,1.0,10.0,-4.96,-21.9,-15.13,21.83
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,29,54,1.0,10.0,-4.96,0.0,-14.49,24.94
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,29,54,1.0,10.0,-4.96,0.0,-14.34,21.21
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,29,54,1.0,10.0,-4.96,-16.97,-14.67,22.61
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,29,59,1.0,10.0,-4.96,0.0,-14.49,24.94
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,29,59,1.0,10.0,-4.96,0.0,-13.43,25.51
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,29,64,1.0,10.0,-4.96,12.42,-17.06,20.19
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,29,64,1.0,10.0,-4.96,0.0,-14.34,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,29,64,1.0,10.0,-4.96,0.0,-13.49,22.81
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,29,64,1.0,10.0,-4.96,0.0,-14.16,22.86
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,29,64,1.0,10.0,-4.96,0.0,-15.02,21.05
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,29,64,1.0,10.0,-4.96,0.0,-13.43,25.51
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,29,64,1.0,10.0,-4.96,-21.9,-15.13,21.83
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,29,64,1.0,10.0,-4.96,0.0,-14.49,24.94
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,29,64,1.0,10.0,-4.96,-16.97,-14.67,22.61
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,29,59,1.0,10.0,-4.96,0.0,-15.02,21.05
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,29,64,1.0,10.0,-4.96,-14.98,-18.96,23.58
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,29,64,1.0,10.0,-4.96,0.0,-12.38,26.01
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,29,64,1.0,10.0,-4.96,-18.06,-17.7,24.69
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,29,59,1.0,10.0,-4.96,12.42,-17.06,20.19
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,29,59,1.0,10.0,-4.96,0.0,-13.49,22.81
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,29,59,1.0,10.0,-4.96,0.0,-14.16,22.86
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,29,54,1.0,10.0,-5.4,0.0,-12.38,26.01
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,29,54,1.0,10.0,-5.4,-16.36,-14.67,22.61
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,29,54,1.0,10.0,-5.4,-19.38,-17.7,24.69
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,29,54,1.0,10.0,-5.4,-10.28,-18.96,23.58
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,29,69,1.0,10.0,-5.4,0.0,-12.38,26.01
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,29,74,1.0,10.0,-5.4,-20.63,-15.13,21.83
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,29,69,1.0,10.0,-5.4,-6.3,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,29,69,1.0,10.0,-5.4,-16.81,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,29,69,1.0,10.0,-5.4,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,29,69,1.0,10.0,-5.4,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,29,69,1.0,10.0,-5.4,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,29,69,1.0,10.0,-5.4,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,29,69,1.0,10.0,-5.4,6.87,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,29,69,1.0,10.0,-5.4,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,29,74,1.0,10.0,-5.4,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,29,74,1.0,10.0,-5.4,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,29,74,1.0,10.0,-5.4,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,29,74,1.0,10.0,-5.4,-16.36,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,29,74,1.0,10.0,-5.4,-6.3,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,29,74,1.0,10.0,-5.4,-16.81,-14.49,24.94
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,29,74,1.0,10.0,-5.4,0.0,-13.43,25.51
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,29,69,1.0,10.0,-5.4,-10.28,-18.96,23.58
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,29,74,1.0,10.0,-5.4,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,29,74,1.0,10.0,-5.4,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,29,74,1.0,10.0,-5.4,6.87,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,29,74,1.0,10.0,-5.4,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,29,79,1.0,10.0,-5.4,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,29,79,1.0,10.0,-5.4,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,29,79,1.0,10.0,-5.4,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,29,79,1.0,10.0,-5.4,-16.36,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,29,79,1.0,10.0,-5.4,-6.3,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,29,79,1.0,10.0,-5.4,-16.81,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,29,79,1.0,10.0,-5.4,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,29,79,1.0,10.0,-5.4,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,29,79,1.0,10.0,-5.4,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,29,79,1.0,10.0,-5.4,0.0,-14.16,22.86
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,29,69,1.0,10.0,-5.4,-16.36,-14.67,22.61
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,29,69,1.0,10.0,-5.4,-19.38,-17.7,24.69
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,29,79,1.0,10.0,-5.4,38.5,-17.06,20.19
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,29,59,1.0,10.0,-5.4,0.0,-13.43,25.51
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,29,54,1.0,10.0,-5.4,-16.81,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,29,54,1.0,10.0,-5.4,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,29,54,1.0,10.0,-5.4,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,29,54,1.0,10.0,-5.4,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,29,54,1.0,10.0,-5.4,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,29,54,1.0,10.0,-5.4,6.87,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,29,54,1.0,10.0,-5.4,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,29,59,1.0,10.0,-5.4,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,29,59,1.0,10.0,-5.4,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,29,59,1.0,10.0,-5.4,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,29,59,1.0,10.0,-5.4,-16.36,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,29,59,1.0,10.0,-5.4,-6.3,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,29,59,1.0,10.0,-5.4,-16.81,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,29,59,1.0,10.0,-5.4,-20.63,-15.13,21.83
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,29,59,1.0,10.0,-5.4,-20.37,-15.02,21.05
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,29,64,1.0,10.0,-5.4,38.5,-17.06,20.19
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,29,59,1.0,10.0,-5.4,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,29,59,1.0,10.0,-5.4,6.87,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,29,59,1.0,10.0,-5.4,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,29,64,1.0,10.0,-5.4,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,29,64,1.0,10.0,-5.4,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,29,64,1.0,10.0,-5.4,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,29,64,1.0,10.0,-5.4,-16.36,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,29,64,1.0,10.0,-5.4,-6.3,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,29,64,1.0,10.0,-5.4,-16.81,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,29,64,1.0,10.0,-5.4,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,29,64,1.0,10.0,-5.4,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,29,64,1.0,10.0,-5.4,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,29,64,1.0,10.0,-5.4,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,29,64,1.0,10.0,-5.4,6.87,-13.49,22.81
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,29,79,1.0,10.0,-5.4,6.87,-13.49,22.81
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,29,54,1.0,10.0,-5.4,-6.3,-14.34,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,34,79,1.0,10.0,-8.87,-3.25,-13.49,22.81
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,34,64,1.0,10.0,-8.87,-17.7,-14.34,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,34,59,1.0,10.0,-8.87,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,34,59,1.0,10.0,-8.87,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,34,64,1.0,10.0,-8.87,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,34,64,1.0,10.0,-8.87,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,34,64,1.0,10.0,-8.87,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,34,64,1.0,10.0,-8.87,-17.39,-14.67,22.61
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,34,64,1.0,10.0,-8.87,-16.81,-14.49,24.94
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,34,59,1.0,10.0,-8.87,-20.37,-15.02,21.05
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,34,64,1.0,10.0,-8.87,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,34,64,1.0,10.0,-8.87,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,34,64,1.0,10.0,-8.87,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,34,64,1.0,10.0,-8.87,-19.12,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,34,64,1.0,10.0,-8.87,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,34,64,1.0,10.0,-8.87,38.5,-17.06,20.19
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,34,59,1.0,10.0,-8.87,-19.12,-14.16,22.86
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,34,59,1.0,10.0,-8.87,0.0,-13.43,25.51
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,34,69,1.0,10.0,-8.87,0.0,-12.38,26.01
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,34,54,1.0,10.0,-8.87,-3.25,-13.49,22.81
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,34,54,1.0,10.0,-8.87,-17.7,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,34,54,1.0,10.0,-8.87,-16.81,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,34,54,1.0,10.0,-8.87,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,34,54,1.0,10.0,-8.87,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,34,54,1.0,10.0,-8.87,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,34,54,1.0,10.0,-8.87,-19.12,-14.16,22.86
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,34,54,1.0,10.0,-8.87,38.5,-17.06,20.19
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,34,59,1.0,10.0,-8.87,-20.63,-15.13,21.83
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,34,59,1.0,10.0,-8.87,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,34,59,1.0,10.0,-8.87,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,34,59,1.0,10.0,-8.87,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,34,59,1.0,10.0,-8.87,-17.39,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,34,59,1.0,10.0,-8.87,-17.7,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,34,59,1.0,10.0,-8.87,-16.81,-14.49,24.94
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,34,69,1.0,10.0,-8.87,-19.38,-17.7,24.69
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,34,69,1.0,10.0,-8.87,-10.28,-18.96,23.58
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,34,54,1.0,10.0,-8.87,-10.28,-18.96,23.58
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,34,79,1.0,10.0,-8.87,-17.7,-14.34,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,34,74,1.0,10.0,-8.87,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,34,74,1.0,10.0,-8.87,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,34,79,1.0,10.0,-8.87,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,34,79,1.0,10.0,-8.87,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,34,79,1.0,10.0,-8.87,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,34,79,1.0,10.0,-8.87,-17.39,-14.67,22.61
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,34,79,1.0,10.0,-8.87,-16.81,-14.49,24.94
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,34,74,1.0,10.0,-8.87,-20.37,-15.02,21.05
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,34,79,1.0,10.0,-8.87,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,34,79,1.0,10.0,-8.87,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,34,79,1.0,10.0,-8.87,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,34,79,1.0,10.0,-8.87,-19.12,-14.16,22.86
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,34,54,1.0,10.0,-8.87,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,34,54,1.0,10.0,-8.87,0.0,-12.38,26.01
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,34,74,1.0,10.0,-8.87,-19.12,-14.16,22.86
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,34,74,1.0,10.0,-8.87,0.0,-13.43,25.51
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,34,69,1.0,10.0,-8.87,-17.39,-14.67,22.61
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,34,69,1.0,10.0,-8.87,-3.25,-13.49,22.81
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,34,69,1.0,10.0,-8.87,-17.7,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,34,69,1.0,10.0,-8.87,-16.81,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,34,69,1.0,10.0,-8.87,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,34,69,1.0,10.0,-8.87,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,34,69,1.0,10.0,-8.87,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,34,69,1.0,10.0,-8.87,-19.12,-14.16,22.86
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,34,69,1.0,10.0,-8.87,38.5,-17.06,20.19
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,34,74,1.0,10.0,-8.87,-20.63,-15.13,21.83
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,34,74,1.0,10.0,-8.87,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,34,74,1.0,10.0,-8.87,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,34,74,1.0,10.0,-8.87,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,34,74,1.0,10.0,-8.87,-17.39,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,34,74,1.0,10.0,-8.87,-17.7,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,34,74,1.0,10.0,-8.87,-16.81,-14.49,24.94
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,34,79,1.0,10.0,-8.87,38.5,-17.06,20.19
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,34,54,1.0,10.0,-8.87,-17.39,-14.67,22.61
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,39,54,1.0,10.0,-10.13,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,39,54,1.0,10.0,-10.13,0.0,-12.38,26.01
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,39,59,1.0,10.0,-10.13,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,39,59,1.0,10.0,-10.13,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,39,59,1.0,10.0,-10.13,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,39,64,1.0,10.0,-10.13,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,39,64,1.0,10.0,-10.13,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,39,64,1.0,10.0,-10.13,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,39,64,1.0,10.0,-10.13,-18.1,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,39,64,1.0,10.0,-10.13,-20.21,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,39,64,1.0,10.0,-10.13,-18.71,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,39,64,1.0,10.0,-10.13,-21.9,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,39,64,1.0,10.0,-10.13,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,39,64,1.0,10.0,-10.13,-20.09,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,39,64,1.0,10.0,-10.13,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,39,64,1.0,10.0,-10.13,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,39,64,1.0,10.0,-10.13,12.42,-17.06,20.19
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,39,59,1.0,10.0,-10.13,-20.09,-15.02,21.05
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,39,59,1.0,10.0,-10.13,0.0,-13.43,25.51
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,39,59,1.0,10.0,-10.13,-21.9,-15.13,21.83
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,39,54,1.0,10.0,-10.13,0.0,-14.16,22.86
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,39,54,1.0,10.0,-10.13,-18.1,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,39,54,1.0,10.0,-10.13,-20.21,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,39,54,1.0,10.0,-10.13,-18.71,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,39,54,1.0,10.0,-10.13,-21.9,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,39,54,1.0,10.0,-10.13,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,39,54,1.0,10.0,-10.13,-20.09,-15.02,21.05
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,39,54,1.0,10.0,-10.13,-1.92,-13.49,22.81
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,39,59,1.0,10.0,-10.13,-18.71,-14.49,24.94
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,39,54,1.0,10.0,-10.13,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,39,59,1.0,10.0,-10.13,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,39,59,1.0,10.0,-10.13,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,39,59,1.0,10.0,-10.13,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,39,59,1.0,10.0,-10.13,-18.1,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,39,59,1.0,10.0,-10.13,-20.21,-14.34,21.21
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,39,69,1.0,10.0,-10.13,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,39,69,1.0,10.0,-10.13,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,39,69,1.0,10.0,-10.13,-14.98,-18.96,23.58
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,39,79,1.0,10.0,-10.13,-20.21,-14.34,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,39,74,1.0,10.0,-10.13,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,39,74,1.0,10.0,-10.13,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,39,79,1.0,10.0,-10.13,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,39,79,1.0,10.0,-10.13,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,39,79,1.0,10.0,-10.13,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,39,79,1.0,10.0,-10.13,-18.1,-14.67,22.61
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,39,79,1.0,10.0,-10.13,-18.71,-14.49,24.94
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,39,74,1.0,10.0,-10.13,-20.09,-15.02,21.05
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,39,79,1.0,10.0,-10.13,-21.9,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,39,79,1.0,10.0,-10.13,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,39,79,1.0,10.0,-10.13,-20.09,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,39,79,1.0,10.0,-10.13,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,39,79,1.0,10.0,-10.13,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,39,79,1.0,10.0,-10.13,12.42,-17.06,20.19
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,39,74,1.0,10.0,-10.13,0.0,-14.16,22.86
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,39,74,1.0,10.0,-10.13,0.0,-13.43,25.51
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,39,69,1.0,10.0,-10.13,-18.1,-14.67,22.61
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,39,69,1.0,10.0,-10.13,-1.92,-13.49,22.81
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,39,69,1.0,10.0,-10.13,-20.21,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,39,69,1.0,10.0,-10.13,-18.71,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,39,69,1.0,10.0,-10.13,-21.9,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,39,69,1.0,10.0,-10.13,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,39,69,1.0,10.0,-10.13,-20.09,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,39,69,1.0,10.0,-10.13,0.0,-14.16,22.86
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,39,69,1.0,10.0,-10.13,12.42,-17.06,20.19
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,39,74,1.0,10.0,-10.13,-21.9,-15.13,21.83
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,39,74,1.0,10.0,-10.13,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,39,74,1.0,10.0,-10.13,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,39,74,1.0,10.0,-10.13,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,39,74,1.0,10.0,-10.13,-18.1,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,39,74,1.0,10.0,-10.13,-20.21,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,39,74,1.0,10.0,-10.13,-18.71,-14.49,24.94
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,39,54,1.0,10.0,-10.13,-14.98,-18.96,23.58
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,34,54,1.0,10.0,-10.38,-18.56,-14.49,24.94
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,34,54,1.0,10.0,-10.38,-24.47,-14.34,21.21
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,34,79,1.0,10.0,-10.38,12.42,-17.06,20.19
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,34,59,1.0,10.0,-10.38,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,34,59,1.0,10.0,-10.38,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,34,59,1.0,10.0,-10.38,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,34,64,1.0,10.0,-10.38,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,34,64,1.0,10.0,-10.38,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,34,64,1.0,10.0,-10.38,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,34,64,1.0,10.0,-10.38,-16.97,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,34,64,1.0,10.0,-10.38,-24.47,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,34,64,1.0,10.0,-10.38,-18.56,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,34,64,1.0,10.0,-10.38,-21.9,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,34,64,1.0,10.0,-10.38,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,34,64,1.0,10.0,-10.38,-20.09,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,34,64,1.0,10.0,-10.38,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,34,64,1.0,10.0,-10.38,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,34,64,1.0,10.0,-10.38,12.42,-17.06,20.19
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,34,59,1.0,10.0,-10.38,-20.09,-15.02,21.05
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,34,59,1.0,10.0,-10.38,0.0,-13.43,25.51
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,34,59,1.0,10.0,-10.38,-21.9,-15.13,21.83
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,34,54,1.0,10.0,-10.38,0.0,-14.16,22.86
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,34,54,1.0,10.0,-10.38,-21.9,-15.13,21.83
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,34,54,1.0,10.0,-10.38,-14.98,-18.96,23.58
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,34,54,1.0,10.0,-10.38,0.0,-12.38,26.01
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,34,54,1.0,10.0,-10.38,-18.06,-17.7,24.69
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,34,54,1.0,10.0,-10.38,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,34,54,1.0,10.0,-10.38,-20.09,-15.02,21.05
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,34,54,1.0,10.0,-10.38,-1.92,-13.49,22.81
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,34,59,1.0,10.0,-10.38,-18.56,-14.49,24.94
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,34,54,1.0,10.0,-10.38,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,34,59,1.0,10.0,-10.38,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,34,59,1.0,10.0,-10.38,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,34,59,1.0,10.0,-10.38,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,34,59,1.0,10.0,-10.38,-16.97,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,34,59,1.0,10.0,-10.38,-24.47,-14.34,21.21
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,34,69,1.0,10.0,-10.38,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,34,69,1.0,10.0,-10.38,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,34,69,1.0,10.0,-10.38,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,34,79,1.0,10.0,-10.38,-16.97,-14.67,22.61
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,34,74,1.0,10.0,-10.38,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,34,74,1.0,10.0,-10.38,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,34,74,1.0,10.0,-10.38,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,34,79,1.0,10.0,-10.38,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,34,79,1.0,10.0,-10.38,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,34,79,1.0,10.0,-10.38,-14.98,-18.96,23.58
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,34,79,1.0,10.0,-10.38,-24.47,-14.34,21.21
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,34,74,1.0,10.0,-10.38,0.0,-13.43,25.51
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,34,79,1.0,10.0,-10.38,-18.56,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,34,79,1.0,10.0,-10.38,-21.9,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,34,79,1.0,10.0,-10.38,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,34,79,1.0,10.0,-10.38,-20.09,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,34,79,1.0,10.0,-10.38,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,34,79,1.0,10.0,-10.38,-1.92,-13.49,22.81
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,34,74,1.0,10.0,-10.38,-20.09,-15.02,21.05
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,34,74,1.0,10.0,-10.38,-21.9,-15.13,21.83
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,34,69,1.0,10.0,-10.38,-16.97,-14.67,22.61
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,34,74,1.0,10.0,-10.38,-18.56,-14.49,24.94
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,34,69,1.0,10.0,-10.38,-24.47,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,34,69,1.0,10.0,-10.38,-18.56,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,34,69,1.0,10.0,-10.38,-21.9,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,34,69,1.0,10.0,-10.38,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,34,69,1.0,10.0,-10.38,-20.09,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,34,69,1.0,10.0,-10.38,0.0,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,34,69,1.0,10.0,-10.38,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,34,69,1.0,10.0,-10.38,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,34,74,1.0,10.0,-10.38,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,34,74,1.0,10.0,-10.38,0.0,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,34,74,1.0,10.0,-10.38,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,34,74,1.0,10.0,-10.38,-16.97,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,34,74,1.0,10.0,-10.38,-24.47,-14.34,21.21
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,34,54,1.0,10.0,-10.38,-16.97,-14.67,22.61
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,39,54,1.0,10.0,-11.03,-16.81,-14.49,24.94
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,39,54,1.0,10.0,-11.03,-18.25,-14.34,21.21
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,39,54,1.0,10.0,-11.03,-19.38,-17.7,24.69
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,39,74,1.0,10.0,-11.03,-20.63,-15.13,21.83
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,39,54,1.0,10.0,-11.03,-25.14,-12.38,26.01
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,39,69,1.0,10.0,-11.03,-16.81,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,39,69,1.0,10.0,-11.03,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,39,69,1.0,10.0,-11.03,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,39,69,1.0,10.0,-11.03,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,39,69,1.0,10.0,-11.03,-19.12,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,39,69,1.0,10.0,-11.03,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,39,69,1.0,10.0,-11.03,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,39,74,1.0,10.0,-11.03,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,39,74,1.0,10.0,-11.03,-25.14,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,39,74,1.0,10.0,-11.03,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,39,74,1.0,10.0,-11.03,-17.58,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,39,74,1.0,10.0,-11.03,-18.25,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,39,74,1.0,10.0,-11.03,-16.81,-14.49,24.94
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,39,74,1.0,10.0,-11.03,0.0,-13.43,25.51
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,39,69,1.0,10.0,-11.03,-10.28,-18.96,23.58
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,39,74,1.0,10.0,-11.03,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,39,74,1.0,10.0,-11.03,-19.12,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,39,74,1.0,10.0,-11.03,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,39,74,1.0,10.0,-11.03,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,39,79,1.0,10.0,-11.03,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,39,79,1.0,10.0,-11.03,-25.14,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,39,79,1.0,10.0,-11.03,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,39,79,1.0,10.0,-11.03,-17.58,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,39,79,1.0,10.0,-11.03,-18.25,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,39,79,1.0,10.0,-11.03,-16.81,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,39,79,1.0,10.0,-11.03,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,39,79,1.0,10.0,-11.03,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,39,79,1.0,10.0,-11.03,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,39,79,1.0,10.0,-11.03,-19.12,-14.16,22.86
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,39,69,1.0,10.0,-11.03,-17.58,-14.67,22.61
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,39,69,1.0,10.0,-11.03,-25.14,-12.38,26.01
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,39,79,1.0,10.0,-11.03,38.5,-17.06,20.19
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,39,59,1.0,10.0,-11.03,-20.37,-15.02,21.05
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,39,54,1.0,10.0,-11.03,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,39,54,1.0,10.0,-11.03,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,39,54,1.0,10.0,-11.03,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,39,54,1.0,10.0,-11.03,-19.12,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,39,54,1.0,10.0,-11.03,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,39,54,1.0,10.0,-11.03,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,39,59,1.0,10.0,-11.03,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,39,59,1.0,10.0,-11.03,-25.14,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,39,59,1.0,10.0,-11.03,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,39,59,1.0,10.0,-11.03,-17.58,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,39,59,1.0,10.0,-11.03,-18.25,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,39,59,1.0,10.0,-11.03,-16.81,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,39,59,1.0,10.0,-11.03,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,39,59,1.0,10.0,-11.03,0.0,-13.43,25.51
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,39,59,1.0,10.0,-11.03,-19.12,-14.16,22.86
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,39,69,1.0,10.0,-11.03,-19.38,-17.7,24.69
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,39,59,1.0,10.0,-11.03,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,39,59,1.0,10.0,-11.03,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,39,64,1.0,10.0,-11.03,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,39,64,1.0,10.0,-11.03,-25.14,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,39,64,1.0,10.0,-11.03,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,39,64,1.0,10.0,-11.03,-17.58,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,39,64,1.0,10.0,-11.03,-18.25,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,39,64,1.0,10.0,-11.03,-16.81,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,39,64,1.0,10.0,-11.03,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,39,64,1.0,10.0,-11.03,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,39,64,1.0,10.0,-11.03,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,39,64,1.0,10.0,-11.03,-19.12,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,39,64,1.0,10.0,-11.03,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,39,64,1.0,10.0,-11.03,38.5,-17.06,20.19
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,39,79,1.0,10.0,-11.03,-3.25,-13.49,22.81
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,39,69,1.0,10.0,-11.03,-18.25,-14.34,21.21
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,39,54,1.0,10.0,-11.03,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,39,54,1.0,10.0,-11.03,-17.58,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,44,64,1.0,10.0,-11.43,-18.25,-14.34,21.21
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,44,59,1.0,10.0,-11.43,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,44,59,1.0,10.0,-11.43,-23.98,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,44,59,1.0,10.0,-11.43,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,44,59,1.0,10.0,-11.43,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,44,64,1.0,10.0,-11.43,-19.38,-17.7,24.69
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,44,64,1.0,10.0,-11.43,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,44,64,1.0,10.0,-11.43,-17.58,-14.67,22.61
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,44,64,1.0,10.0,-11.43,-16.81,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,44,59,1.0,10.0,-11.43,-20.63,-15.13,21.83
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,44,64,1.0,10.0,-11.43,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,44,64,1.0,10.0,-11.43,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,44,64,1.0,10.0,-11.43,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,44,64,1.0,10.0,-11.43,-23.98,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,44,64,1.0,10.0,-11.43,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,44,64,1.0,10.0,-11.43,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,44,69,1.0,10.0,-11.43,-19.38,-17.7,24.69
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,44,59,1.0,10.0,-11.43,0.0,-13.43,25.51
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,44,59,1.0,10.0,-11.43,-16.81,-14.49,24.94
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,44,69,1.0,10.0,-11.43,-10.28,-18.96,23.58
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,44,54,1.0,10.0,-11.43,0.0,-13.43,25.51
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,44,54,1.0,10.0,-11.43,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,44,54,1.0,10.0,-11.43,-25.14,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,44,54,1.0,10.0,-11.43,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,44,54,1.0,10.0,-11.43,-17.58,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,44,54,1.0,10.0,-11.43,-18.25,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,44,54,1.0,10.0,-11.43,-16.81,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,44,54,1.0,10.0,-11.43,-20.63,-15.13,21.83
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,44,54,1.0,10.0,-11.43,-20.37,-15.02,21.05
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,44,59,1.0,10.0,-11.43,-18.25,-14.34,21.21
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,44,54,1.0,10.0,-11.43,-23.98,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,44,54,1.0,10.0,-11.43,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,44,54,1.0,10.0,-11.43,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,44,59,1.0,10.0,-11.43,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,44,59,1.0,10.0,-11.43,-25.14,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,44,59,1.0,10.0,-11.43,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,44,59,1.0,10.0,-11.43,-17.58,-14.67,22.61
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,44,69,1.0,10.0,-11.43,-25.14,-12.38,26.01
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,44,64,1.0,10.0,-11.43,-25.14,-12.38,26.01
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,44,69,1.0,10.0,-11.43,-17.58,-14.67,22.61
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,44,79,1.0,10.0,-11.43,-16.81,-14.49,24.94
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,44,74,1.0,10.0,-11.43,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,44,74,1.0,10.0,-11.43,38.5,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,44,79,1.0,10.0,-11.43,-19.38,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,44,79,1.0,10.0,-11.43,-25.14,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,44,79,1.0,10.0,-11.43,-10.28,-18.96,23.58
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,44,79,1.0,10.0,-11.43,-18.25,-14.34,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,44,79,1.0,10.0,-11.43,-20.63,-15.13,21.83
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,44,74,1.0,10.0,-11.43,-20.37,-15.02,21.05
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,44,79,1.0,10.0,-11.43,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,44,79,1.0,10.0,-11.43,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,44,79,1.0,10.0,-11.43,-23.98,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,44,79,1.0,10.0,-11.43,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,44,79,1.0,10.0,-11.43,38.5,-17.06,20.19
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,44,69,1.0,10.0,-11.43,-18.25,-14.34,21.21
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,44,74,1.0,10.0,-11.43,-23.98,-14.16,22.86
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,44,79,1.0,10.0,-11.43,-17.58,-14.67,22.61
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,44,74,1.0,10.0,-11.43,0.0,-13.43,25.51
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,44,74,1.0,10.0,-11.43,-19.38,-17.7,24.69
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,44,74,1.0,10.0,-11.43,-20.63,-15.13,21.83
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,44,69,1.0,10.0,-11.43,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,44,69,1.0,10.0,-11.43,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,44,69,1.0,10.0,-11.43,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,44,69,1.0,10.0,-11.43,-23.98,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,44,69,1.0,10.0,-11.43,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,44,69,1.0,10.0,-11.43,38.5,-17.06,20.19
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,44,69,1.0,10.0,-11.43,-16.81,-14.49,24.94
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,44,74,1.0,10.0,-11.43,-25.14,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,44,74,1.0,10.0,-11.43,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,44,74,1.0,10.0,-11.43,-17.58,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,44,74,1.0,10.0,-11.43,-18.25,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,44,74,1.0,10.0,-11.43,-16.81,-14.49,24.94
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,49,69,1.0,10.0,-11.82,38.5,-17.06,20.19
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,49,74,1.0,10.0,-11.82,-20.63,-15.13,21.83
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,49,74,1.0,10.0,-11.82,-16.81,-14.49,24.94
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,49,74,1.0,10.0,-11.82,-18.91,-14.34,21.21
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,49,74,1.0,10.0,-11.82,-17.58,-14.67,22.61
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,49,74,1.0,10.0,-11.82,-10.28,-18.96,23.58
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,49,74,1.0,10.0,-11.82,-25.14,-12.38,26.01
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,49,74,1.0,10.0,-11.82,-23.36,-17.7,24.69
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,49,69,1.0,10.0,-11.82,-23.98,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,49,69,1.0,10.0,-11.82,-3.25,-13.49,22.81
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,49,74,1.0,10.0,-11.82,-20.37,-15.02,21.05
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,49,69,1.0,10.0,-11.82,-20.37,-15.02,21.05
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,49,69,1.0,10.0,-11.82,0.0,-13.43,25.51
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,49,69,1.0,10.0,-11.82,-20.63,-15.13,21.83
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,49,69,1.0,10.0,-11.82,-16.81,-14.49,24.94
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,49,69,1.0,10.0,-11.82,-18.91,-14.34,21.21
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,49,74,1.0,10.0,-11.82,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,49,79,1.0,10.0,-11.82,-20.37,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,49,74,1.0,10.0,-11.82,-23.98,-14.16,22.86
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,49,79,1.0,10.0,-11.82,-20.63,-15.13,21.83
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,49,69,1.0,10.0,-11.82,-10.28,-18.96,23.58
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,49,79,1.0,10.0,-11.82,-23.98,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,49,79,1.0,10.0,-11.82,-3.25,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,49,79,1.0,10.0,-11.82,38.5,-17.06,20.19
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,49,54,1.0,10.0,-11.82,-20.63,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,49,79,1.0,10.0,-11.82,0.0,-13.43,25.51
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,49,79,1.0,10.0,-11.82,-16.81,-14.49,24.94
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,49,74,1.0,10.0,-11.82,-3.25,-13.49,22.81
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,49,79,1.0,10.0,-11.82,-18.91,-14.34,21.21
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,49,79,1.0,10.0,-11.82,-17.58,-14.67,22.61
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,49,79,1.0,10.0,-11.82,-10.28,-18.96,23.58
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,49,79,1.0,10.0,-11.82,-25.14,-12.38,26.01
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,49,79,1.0,10.0,-11.82,-23.36,-17.7,24.69
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,49,74,1.0,10.0,-11.82,38.5,-17.06,20.19
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,49,69,1.0,10.0,-11.82,-17.58,-14.67,22.61
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,49,54,1.0,10.0,-11.82,0.0,-13.43,25.51
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,49,69,1.0,10.0,-11.82,-25.14,-12.38,26.01
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,49,59,1.0,10.0,-11.82,-20.63,-15.13,21.83
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,49,59,1.0,10.0,-11.82,-18.91,-14.34,21.21
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,49,59,1.0,10.0,-11.82,-17.58,-14.67,22.61
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,49,59,1.0,10.0,-11.82,-10.28,-18.96,23.58
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,49,59,1.0,10.0,-11.82,-25.14,-12.38,26.01
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,49,59,1.0,10.0,-11.82,-23.36,-17.7,24.69
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,49,54,1.0,10.0,-11.82,38.5,-17.06,20.19
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,49,54,1.0,10.0,-11.82,-3.25,-13.49,22.81
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,49,54,1.0,10.0,-11.82,-23.98,-14.16,22.86
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,49,54,1.0,10.0,-11.82,-20.37,-15.02,21.05
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,49,54,1.0,10.0,-11.82,-23.36,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,49,54,1.0,10.0,-11.82,-25.14,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,49,54,1.0,10.0,-11.82,-10.28,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,49,54,1.0,10.0,-11.82,-17.58,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,49,54,1.0,10.0,-11.82,-18.91,-14.34,21.21
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,49,69,1.0,10.0,-11.82,-23.36,-17.7,24.69
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,49,59,1.0,10.0,-11.82,-16.81,-14.49,24.94
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,49,54,1.0,10.0,-11.82,-16.81,-14.49,24.94
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,49,59,1.0,10.0,-11.82,0.0,-13.43,25.51
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,49,64,1.0,10.0,-11.82,-18.91,-14.34,21.21
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,49,59,1.0,10.0,-11.82,-20.37,-15.02,21.05
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,49,64,1.0,10.0,-11.82,-3.25,-13.49,22.81
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,49,64,1.0,10.0,-11.82,-23.98,-14.16,22.86
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,49,64,1.0,10.0,-11.82,-20.37,-15.02,21.05
+140,RINC.K,AXS Real Estate Income ETF,5,60,14,49,64,1.0,10.0,-11.82,0.0,-13.43,25.51
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,49,64,1.0,10.0,-11.82,-20.63,-15.13,21.83
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,49,64,1.0,10.0,-11.82,-16.81,-14.49,24.94
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,49,64,1.0,10.0,-11.82,38.5,-17.06,20.19
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,49,64,1.0,10.0,-11.82,-17.58,-14.67,22.61
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,49,64,1.0,10.0,-11.82,-25.14,-12.38,26.01
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,49,64,1.0,10.0,-11.82,-23.36,-17.7,24.69
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,60,14,49,59,1.0,10.0,-11.82,38.5,-17.06,20.19
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,49,59,1.0,10.0,-11.82,-3.25,-13.49,22.81
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,49,64,1.0,10.0,-11.82,-10.28,-18.96,23.58
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,49,59,1.0,10.0,-11.82,-23.98,-14.16,22.86
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,49,64,1.0,10.0,-14.99,-37.01,-12.38,26.01
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,49,59,1.0,10.0,-14.99,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,49,59,1.0,10.0,-14.99,-22.31,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,49,59,1.0,10.0,-14.99,-21.05,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,49,59,1.0,10.0,-14.99,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,49,59,1.0,10.0,-14.99,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,49,64,1.0,10.0,-14.99,-18.06,-17.7,24.69
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,49,64,1.0,10.0,-14.99,-18.22,-14.34,21.21
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,49,64,1.0,10.0,-14.99,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,49,64,1.0,10.0,-14.99,-18.1,-14.67,22.61
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,49,64,1.0,10.0,-14.99,-18.71,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,49,64,1.0,10.0,-14.99,-21.9,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,49,64,1.0,10.0,-14.99,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,49,64,1.0,10.0,-14.99,-22.31,-15.02,21.05
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,49,59,1.0,10.0,-14.99,-21.9,-15.13,21.83
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,49,64,1.0,10.0,-14.99,-21.05,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,49,54,1.0,10.0,-14.99,-1.92,-13.49,22.81
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,49,59,1.0,10.0,-14.99,-18.71,-14.49,24.94
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,49,54,1.0,10.0,-14.99,0.0,-13.43,25.51
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,49,64,1.0,10.0,-14.99,12.42,-17.06,20.19
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,49,54,1.0,10.0,-14.99,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,49,54,1.0,10.0,-14.99,-18.1,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,49,54,1.0,10.0,-14.99,-18.22,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,49,54,1.0,10.0,-14.99,-18.71,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,49,54,1.0,10.0,-14.99,-21.9,-15.13,21.83
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,49,54,1.0,10.0,-14.99,-22.31,-15.02,21.05
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,49,59,1.0,10.0,-14.99,-18.22,-14.34,21.21
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,49,54,1.0,10.0,-14.99,-21.05,-14.16,22.86
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,49,54,1.0,10.0,-14.99,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,49,59,1.0,10.0,-14.99,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,49,59,1.0,10.0,-14.99,-37.01,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,49,59,1.0,10.0,-14.99,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,49,59,1.0,10.0,-14.99,-18.1,-14.67,22.61
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,49,64,1.0,10.0,-14.99,-1.92,-13.49,22.81
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,49,74,1.0,10.0,-14.99,-18.71,-14.49,24.94
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,49,69,1.0,10.0,-14.99,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,49,69,1.0,10.0,-14.99,-37.01,-12.38,26.01
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,49,74,1.0,10.0,-14.99,-22.31,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,49,74,1.0,10.0,-14.99,-21.05,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,49,74,1.0,10.0,-14.99,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,49,74,1.0,10.0,-14.99,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,49,79,1.0,10.0,-14.99,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,49,79,1.0,10.0,-14.99,-37.01,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,49,79,1.0,10.0,-14.99,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,49,79,1.0,10.0,-14.99,-18.1,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,49,79,1.0,10.0,-14.99,-18.22,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,49,79,1.0,10.0,-14.99,-18.71,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,49,79,1.0,10.0,-14.99,-21.9,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,49,79,1.0,10.0,-14.99,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,49,79,1.0,10.0,-14.99,-22.31,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,49,79,1.0,10.0,-14.99,-21.05,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,49,79,1.0,10.0,-14.99,-1.92,-13.49,22.81
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,49,74,1.0,10.0,-14.99,0.0,-13.43,25.51
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,49,74,1.0,10.0,-14.99,-21.9,-15.13,21.83
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,49,54,1.0,10.0,-14.99,-18.06,-17.7,24.69
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,49,69,1.0,10.0,-14.99,-22.31,-15.02,21.05
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,49,69,1.0,10.0,-14.99,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,49,69,1.0,10.0,-14.99,-18.1,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,49,69,1.0,10.0,-14.99,-18.22,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,49,69,1.0,10.0,-14.99,-18.71,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,49,69,1.0,10.0,-14.99,-21.9,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,49,69,1.0,10.0,-14.99,0.0,-13.43,25.51
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,49,69,1.0,10.0,-14.99,-21.05,-14.16,22.86
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,49,74,1.0,10.0,-14.99,-18.22,-14.34,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,49,69,1.0,10.0,-14.99,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,49,69,1.0,10.0,-14.99,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,49,74,1.0,10.0,-14.99,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,49,74,1.0,10.0,-14.99,-37.01,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,49,74,1.0,10.0,-14.99,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,49,74,1.0,10.0,-14.99,-18.1,-14.67,22.61
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,49,54,1.0,10.0,-14.99,-37.01,-12.38,26.01
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,49,79,1.0,10.0,-14.99,12.42,-17.06,20.19
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,44,79,1.0,10.0,-15.38,12.42,-17.06,20.19
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,44,79,1.0,10.0,-15.38,-1.92,-13.49,22.81
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,44,59,1.0,10.0,-15.38,-21.9,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,44,59,1.0,10.0,-15.38,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,44,59,1.0,10.0,-15.38,-22.31,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,44,59,1.0,10.0,-15.38,-25.72,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,44,59,1.0,10.0,-15.38,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,44,59,1.0,10.0,-15.38,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,44,64,1.0,10.0,-15.38,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,44,64,1.0,10.0,-15.38,-37.01,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,44,64,1.0,10.0,-15.38,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,44,64,1.0,10.0,-15.38,-18.1,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,44,64,1.0,10.0,-15.38,-18.22,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,44,64,1.0,10.0,-15.38,-18.71,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,44,64,1.0,10.0,-15.38,-21.9,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,44,64,1.0,10.0,-15.38,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,44,64,1.0,10.0,-15.38,-22.31,-15.02,21.05
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,44,59,1.0,10.0,-15.38,-18.71,-14.49,24.94
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,44,59,1.0,10.0,-15.38,-18.22,-14.34,21.21
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,44,59,1.0,10.0,-15.38,-18.1,-14.67,22.61
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,44,54,1.0,10.0,-15.38,-21.9,-15.13,21.83
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,44,54,1.0,10.0,-15.38,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,44,54,1.0,10.0,-15.38,-37.01,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,44,54,1.0,10.0,-15.38,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,44,54,1.0,10.0,-15.38,-18.1,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,44,54,1.0,10.0,-15.38,-18.22,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,44,54,1.0,10.0,-15.38,-18.71,-14.49,24.94
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,44,54,1.0,10.0,-15.38,0.0,-13.43,25.51
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,44,59,1.0,10.0,-15.38,-14.98,-18.96,23.58
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,44,54,1.0,10.0,-15.38,-22.31,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,44,54,1.0,10.0,-15.38,-25.72,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,44,54,1.0,10.0,-15.38,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,44,54,1.0,10.0,-15.38,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,44,59,1.0,10.0,-15.38,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,44,59,1.0,10.0,-15.38,-37.01,-12.38,26.01
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,44,64,1.0,10.0,-15.38,-25.72,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,44,64,1.0,10.0,-15.38,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,44,64,1.0,10.0,-15.38,12.42,-17.06,20.19
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,44,79,1.0,10.0,-15.38,-14.98,-18.96,23.58
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,44,74,1.0,10.0,-15.38,-22.31,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,44,74,1.0,10.0,-15.38,-25.72,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,44,74,1.0,10.0,-15.38,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,44,74,1.0,10.0,-15.38,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,44,79,1.0,10.0,-15.38,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,44,79,1.0,10.0,-15.38,-37.01,-12.38,26.01
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,44,79,1.0,10.0,-15.38,-18.1,-14.67,22.61
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,44,74,1.0,10.0,-15.38,-18.71,-14.49,24.94
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,44,79,1.0,10.0,-15.38,-18.22,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,44,79,1.0,10.0,-15.38,-18.71,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,44,79,1.0,10.0,-15.38,-21.9,-15.13,21.83
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,44,79,1.0,10.0,-15.38,0.0,-13.43,25.51
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,44,79,1.0,10.0,-15.38,-22.31,-15.02,21.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,44,79,1.0,10.0,-15.38,-25.72,-14.16,22.86
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,44,74,1.0,10.0,-15.38,0.0,-13.43,25.51
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,44,74,1.0,10.0,-15.38,-18.22,-14.34,21.21
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,44,69,1.0,10.0,-15.38,-18.06,-17.7,24.69
+140,RINC.K,AXS Real Estate Income ETF,5,120,14,44,69,1.0,10.0,-15.38,0.0,-13.43,25.51
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,44,69,1.0,10.0,-15.38,-37.01,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,44,69,1.0,10.0,-15.38,-14.98,-18.96,23.58
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,44,69,1.0,10.0,-15.38,-18.1,-14.67,22.61
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,44,69,1.0,10.0,-15.38,-18.22,-14.34,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,44,69,1.0,10.0,-15.38,-18.71,-14.49,24.94
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,44,69,1.0,10.0,-15.38,-21.9,-15.13,21.83
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,44,69,1.0,10.0,-15.38,-22.31,-15.02,21.05
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,44,74,1.0,10.0,-15.38,-18.1,-14.67,22.61
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,44,69,1.0,10.0,-15.38,-25.72,-14.16,22.86
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,44,69,1.0,10.0,-15.38,-1.92,-13.49,22.81
+140,RENW.K,Harbor Energy Transition Strategy ETF,5,120,14,44,69,1.0,10.0,-15.38,12.42,-17.06,20.19
+140,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,44,74,1.0,10.0,-15.38,-18.06,-17.7,24.69
+140,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,44,74,1.0,10.0,-15.38,-37.01,-12.38,26.01
+140,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,44,74,1.0,10.0,-15.38,-14.98,-18.96,23.58
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,44,74,1.0,10.0,-15.38,-21.9,-15.13,21.83

@@ -1,0 +1,831 @@
+
+        <html>
+        <head>
+        <meta charset='UTF-8'>
+        <title>Trading Simulation Results</title>
+        <style>
+            table { border-collapse: collapse; width: 100%; }
+            th, td { border: 1px solid black; padding: 8px; text-align: left; }
+            th { background-color: #f2f2f2; position: sticky; top: 0; }
+            .table-container { overflow-x: auto; }
+        </style>
+        </head>
+        <body>
+        <h2>Trading Simulation Results for NASDAQ on 2024-06-30</h2>
+        <div class="table-container">
+        <table class="dataframe table table-striped" id="results_table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>ticker</th>
+      <th>name</th>
+      <th>cluster</th>
+      <th>ma_short_window</th>
+      <th>ma_long_window</th>
+      <th>rsi_window</th>
+      <th>rsi_buy_threshold</th>
+      <th>rsi_sell_threshold</th>
+      <th>stop_loss_percent</th>
+      <th>take_profit_percent</th>
+      <th>Best Annual Returns</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="NXL.O_넥살린 테크놀로지_chart.html">NXL.O</a></td>
+      <td>넥살린 테크놀로지</td>
+      <td>25</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>59.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>4307.568853</td>
+    </tr>
+    <tr>
+      <td><a href="APCX.O_앱테크 페이먼츠_chart.html">APCX.O</a></td>
+      <td>앱테크 페이먼츠</td>
+      <td>63</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>371.202412</td>
+    </tr>
+    <tr>
+      <td><a href="WGS.O_진디엑스 홀딩스_chart.html">WGS.O</a></td>
+      <td>진디엑스 홀딩스</td>
+      <td>145</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>48.917042</td>
+    </tr>
+    <tr>
+      <td><a href="ARGX.O_아겐스 ADR_chart.html">ARGX.O</a></td>
+      <td>아겐스 ADR</td>
+      <td>74</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>69.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>14.632066</td>
+    </tr>
+    <tr>
+      <td><a href="NVCR.O_노보큐어_chart.html">NVCR.O</a></td>
+      <td>노보큐어</td>
+      <td>94</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>39.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>1.369079</td>
+    </tr>
+    <tr>
+      <td><a href="GCTK.O_글루코 트랙_chart.html">GCTK.O</a></td>
+      <td>글루코 트랙</td>
+      <td>62</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>1.319723</td>
+    </tr>
+    <tr>
+      <td><a href="PSHG.O_퍼포먼스 쉬핑_chart.html">PSHG.O</a></td>
+      <td>퍼포먼스 쉬핑</td>
+      <td>152</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29.0</td>
+      <td>79.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>1.109324</td>
+    </tr>
+    <tr>
+      <td><a href="GLLIR.O_Globalink Investment Rights Exp 6th Dec 2026_chart.html">GLLIR.O</a></td>
+      <td>Globalink Investment Rights Exp 6th Dec 2026</td>
+      <td>5</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>1.022015</td>
+    </tr>
+    <tr>
+      <td><a href="EUDA.O_8i 애퀴지션 2_chart.html">EUDA.O</a></td>
+      <td>8i 애퀴지션 2</td>
+      <td>101</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>59.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.918766</td>
+    </tr>
+    <tr>
+      <td><a href="AUID.O_오스아이디_chart.html">AUID.O</a></td>
+      <td>오스아이디</td>
+      <td>131</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.874211</td>
+    </tr>
+    <tr>
+      <td><a href="AVAH.O_애비애나 헬스케어 홀딩스_chart.html">AVAH.O</a></td>
+      <td>애비애나 헬스케어 홀딩스</td>
+      <td>146</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.852616</td>
+    </tr>
+    <tr>
+      <td><a href="DSP.O_바이안트 테크놀로지_chart.html">DSP.O</a></td>
+      <td>바이안트 테크놀로지</td>
+      <td>146</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.746240</td>
+    </tr>
+    <tr>
+      <td><a href="SNGX.O_솔리제닉스_chart.html">SNGX.O</a></td>
+      <td>솔리제닉스</td>
+      <td>53</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.606799</td>
+    </tr>
+    <tr>
+      <td><a href="PODD.O_인슐릿_chart.html">PODD.O</a></td>
+      <td>인슐릿</td>
+      <td>93</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.372231</td>
+    </tr>
+    <tr>
+      <td><a href="SANG.O_샌고마 테크놀로지스_chart.html">SANG.O</a></td>
+      <td>샌고마 테크놀로지스</td>
+      <td>146</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.310512</td>
+    </tr>
+    <tr>
+      <td><a href="TSLA.O_테슬라_chart.html">TSLA.O</a></td>
+      <td>테슬라</td>
+      <td>74</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>69.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.302945</td>
+    </tr>
+    <tr>
+      <td><a href="MIRM.O_미럼 파마슈티컬스_chart.html">MIRM.O</a></td>
+      <td>미럼 파마슈티컬스</td>
+      <td>73</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>59.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.297895</td>
+    </tr>
+    <tr>
+      <td><a href="WINVR.O_WinVest Acquisition Right_chart.html">WINVR.O</a></td>
+      <td>WinVest Acquisition Right</td>
+      <td>10</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.094919</td>
+    </tr>
+    <tr>
+      <td><a href="TBRG.O_트루브리지_chart.html">TBRG.O</a></td>
+      <td>트루브리지</td>
+      <td>128</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.050075</td>
+    </tr>
+    <tr>
+      <td><a href="MOLN.O_몰레큘러 파트너스 ADR_chart.html">MOLN.O</a></td>
+      <td>몰레큘러 파트너스 ADR</td>
+      <td>127</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>39.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.025605</td>
+    </tr>
+    <tr>
+      <td><a href="EGRX.O_이글 파마슈티컬스_chart.html">EGRX.O</a></td>
+      <td>이글 파마슈티컬스</td>
+      <td>120</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.000000</td>
+    </tr>
+    <tr>
+      <td><a href="IXAQU.O_IX Acquisition Units_chart.html">IXAQU.O</a></td>
+      <td>IX Acquisition Units</td>
+      <td>122</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.000000</td>
+    </tr>
+    <tr>
+      <td><a href="NVEI.O_뉴베이_chart.html">NVEI.O</a></td>
+      <td>뉴베이</td>
+      <td>146</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.012929</td>
+    </tr>
+    <tr>
+      <td><a href="LENZ.O_렌즈 테라퓨틱스_chart.html">LENZ.O</a></td>
+      <td>렌즈 테라퓨틱스</td>
+      <td>146</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.013004</td>
+    </tr>
+    <tr>
+      <td><a href="KRMD.O_코루 메디컬 시스템스_chart.html">KRMD.O</a></td>
+      <td>코루 메디컬 시스템스</td>
+      <td>73</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>59.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.027479</td>
+    </tr>
+    <tr>
+      <td><a href="INNV.O_이노베이지 홀딩_chart.html">INNV.O</a></td>
+      <td>이노베이지 홀딩</td>
+      <td>146</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.031710</td>
+    </tr>
+    <tr>
+      <td><a href="OESX.O_오리온 에너지 시스템즈_chart.html">OESX.O</a></td>
+      <td>오리온 에너지 시스템즈</td>
+      <td>107</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>39.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.008110</td>
+    </tr>
+    <tr>
+      <td><a href="VIOT.O_비오미 테크놀러지 ADR_chart.html">VIOT.O</a></td>
+      <td>비오미 테크놀러지 ADR</td>
+      <td>146</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.083384</td>
+    </tr>
+    <tr>
+      <td><a href="RFACR.O_RF Acquisition Rights Exp 1st May 2028_chart.html">RFACR.O</a></td>
+      <td>RF Acquisition Rights Exp 1st May 2028</td>
+      <td>10</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.098181</td>
+    </tr>
+    <tr>
+      <td><a href="BTBD.O_BT 브랜즈_chart.html">BTBD.O</a></td>
+      <td>BT 브랜즈</td>
+      <td>114</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.105436</td>
+    </tr>
+    <tr>
+      <td><a href="SMLR.O_샘러 사이언티픽_chart.html">SMLR.O</a></td>
+      <td>샘러 사이언티픽</td>
+      <td>146</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.092222</td>
+    </tr>
+    <tr>
+      <td><a href="ELDN.O_엘레돈 파마슈티컬스_chart.html">ELDN.O</a></td>
+      <td>엘레돈 파마슈티컬스</td>
+      <td>146</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.124235</td>
+    </tr>
+    <tr>
+      <td><a href="TECH.O_바이오-테크네_chart.html">TECH.O</a></td>
+      <td>바이오-테크네</td>
+      <td>121</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>39.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.136093</td>
+    </tr>
+    <tr>
+      <td><a href="AFMD.O_아피메드_chart.html">AFMD.O</a></td>
+      <td>아피메드</td>
+      <td>101</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>59.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.144035</td>
+    </tr>
+    <tr>
+      <td><a href="DOYU.O_도유 인터내셔널 홀딩스 ADR_chart.html">DOYU.O</a></td>
+      <td>도유 인터내셔널 홀딩스 ADR</td>
+      <td>146</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.176110</td>
+    </tr>
+    <tr>
+      <td><a href="VNET.O_브이넷 그룹 ADR_chart.html">VNET.O</a></td>
+      <td>브이넷 그룹 ADR</td>
+      <td>118</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.183405</td>
+    </tr>
+    <tr>
+      <td><a href="RCAT.O_레드 캣 홀딩스_chart.html">RCAT.O</a></td>
+      <td>레드 캣 홀딩스</td>
+      <td>114</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.246723</td>
+    </tr>
+    <tr>
+      <td><a href="ANEB.O_아네불로 파마슈티컬_chart.html">ANEB.O</a></td>
+      <td>아네불로 파마슈티컬</td>
+      <td>114</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.198718</td>
+    </tr>
+    <tr>
+      <td><a href="MIGI.O_모손 인프라 스트럭처 그룹_chart.html">MIGI.O</a></td>
+      <td>모손 인프라 스트럭처 그룹</td>
+      <td>155</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>29.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.285295</td>
+    </tr>
+    <tr>
+      <td><a href="MICS.O_싱잉 머신 컴퍼니_chart.html">MICS.O</a></td>
+      <td>싱잉 머신 컴퍼니</td>
+      <td>101</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>59.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.301098</td>
+    </tr>
+    <tr>
+      <td><a href="FOSL.O_파슬 그룹_chart.html">FOSL.O</a></td>
+      <td>파슬 그룹</td>
+      <td>127</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>39.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.305378</td>
+    </tr>
+    <tr>
+      <td><a href="TRIB.O_트리니티 바이오테크 ADR_chart.html">TRIB.O</a></td>
+      <td>트리니티 바이오테크 ADR</td>
+      <td>91</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>69.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.326301</td>
+    </tr>
+    <tr>
+      <td><a href="CSLR.O_컴플리트 솔라리아_chart.html">CSLR.O</a></td>
+      <td>컴플리트 솔라리아</td>
+      <td>145</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.335522</td>
+    </tr>
+    <tr>
+      <td><a href="UPC.O_유니버스 파마슈티컬스_chart.html">UPC.O</a></td>
+      <td>유니버스 파마슈티컬스</td>
+      <td>131</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.342146</td>
+    </tr>
+    <tr>
+      <td><a href="GDS.O_GDS 홀딩스 ADR_chart.html">GDS.O</a></td>
+      <td>GDS 홀딩스 ADR</td>
+      <td>97</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.413163</td>
+    </tr>
+    <tr>
+      <td><a href="ACRS.O_애클래리스 테라퓨틱스_chart.html">ACRS.O</a></td>
+      <td>애클래리스 테라퓨틱스</td>
+      <td>101</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>59.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.414295</td>
+    </tr>
+    <tr>
+      <td><a href="SONM.O_소님 테크놀러지_chart.html">SONM.O</a></td>
+      <td>소님 테크놀러지</td>
+      <td>151</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29.0</td>
+      <td>59.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.446629</td>
+    </tr>
+    <tr>
+      <td><a href="AKTX.O_아카리 테라퓨틱스 ADR_chart.html">AKTX.O</a></td>
+      <td>아카리 테라퓨틱스 ADR</td>
+      <td>111</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>59.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.462824</td>
+    </tr>
+    <tr>
+      <td><a href="GDRX.O_굿알엑스 홀딩스_chart.html">GDRX.O</a></td>
+      <td>굿알엑스 홀딩스</td>
+      <td>146</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.459667</td>
+    </tr>
+    <tr>
+      <td><a href="SNOA.O_소노마 파머수티컬스_chart.html">SNOA.O</a></td>
+      <td>소노마 파머수티컬스</td>
+      <td>143</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29.0</td>
+      <td>69.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.512574</td>
+    </tr>
+    <tr>
+      <td><a href="XLO.O_자일리오 테라퓨틱스_chart.html">XLO.O</a></td>
+      <td>자일리오 테라퓨틱스</td>
+      <td>151</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29.0</td>
+      <td>59.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.519750</td>
+    </tr>
+    <tr>
+      <td><a href="MNY.O_머니히로_chart.html">MNY.O</a></td>
+      <td>머니히로</td>
+      <td>132</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.520639</td>
+    </tr>
+    <tr>
+      <td><a href="GDEV.O_GDEV_chart.html">GDEV.O</a></td>
+      <td>GDEV</td>
+      <td>146</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>118.891015</td>
+    </tr>
+    <tr>
+      <td><a href="AEI.O_알셋_chart.html">AEI.O</a></td>
+      <td>알셋</td>
+      <td>155</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>29.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.549471</td>
+    </tr>
+    <tr>
+      <td><a href="SVMH.O_스리바루 홀딩스_chart.html">SVMH.O</a></td>
+      <td>스리바루 홀딩스</td>
+      <td>155</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>29.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.540970</td>
+    </tr>
+    <tr>
+      <td><a href="VIGL.O_비질 뉴로사이언스_chart.html">VIGL.O</a></td>
+      <td>비질 뉴로사이언스</td>
+      <td>101</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>59.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.545557</td>
+    </tr>
+    <tr>
+      <td><a href="SLS.O_셀라스 라이프 사이언스 그룹_chart.html">SLS.O</a></td>
+      <td>셀라스 라이프 사이언스 그룹</td>
+      <td>131</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.640249</td>
+    </tr>
+    <tr>
+      <td><a href="RCRT.O_리쿠르터닷컴 그룹_chart.html">RCRT.O</a></td>
+      <td>리쿠르터닷컴 그룹</td>
+      <td>155</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>29.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.608072</td>
+    </tr>
+    <tr>
+      <td><a href="AVTX.O_아발로 테라퓨틱스_chart.html">AVTX.O</a></td>
+      <td>아발로 테라퓨틱스</td>
+      <td>139</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>24.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.933004</td>
+    </tr>
+    <tr>
+      <td><a href="FFIE.O_패러데이 퓨처 인텔리전트 일렉트릭_chart.html">FFIE.O</a></td>
+      <td>패러데이 퓨처 인텔리전트 일렉트릭</td>
+      <td>142</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>24.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.984550</td>
+    </tr>
+    <tr>
+      <td><a href="KA.O_키네타_chart.html">KA.O</a></td>
+      <td>키네타</td>
+      <td>155</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>29.0</td>
+      <td>54.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.999804</td>
+    </tr>
+  </tbody>
+</table>
+        </div>
+        </body>
+        </html>
+        

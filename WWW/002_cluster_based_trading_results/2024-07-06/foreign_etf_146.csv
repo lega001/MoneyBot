@@ -1,0 +1,577 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+146,TWM,ProShares UltraShort Russell2000,5,120,14,24,54,1.0,10.0,-7.51,-14.26,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,24,54,1.0,10.0,-7.51,-15.16,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,24,54,1.0,10.0,-7.51,16.44,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,120,14,24,54,1.0,10.0,-7.51,0.0,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,24,54,1.0,10.0,-7.51,0.0,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,120,14,24,54,1.0,10.0,-7.51,-26.66,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,120,14,24,54,1.0,10.0,-7.51,-20.47,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,24,54,1.0,10.0,-7.51,0.0,-17.59,40.67
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,24,54,1.0,10.0,-13.05,0.0,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,60,14,24,54,1.0,10.0,-13.05,-19.28,-20.37,41.6
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,24,54,1.0,10.0,-13.05,0.0,-24.3,46.66
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,24,54,1.0,10.0,-13.05,-20.06,-23.25,42.62
+146,SRS,ProShares UltraShort Real Estate,5,60,14,24,54,1.0,10.0,-13.05,-20.84,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,60,14,24,54,1.0,10.0,-13.05,-26.64,-22.26,40.49
+146,SMN,ProShares UltraShort Materials,5,60,14,24,54,1.0,10.0,-13.05,0.0,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,24,54,1.0,10.0,-13.05,-17.59,-22.37,39.32
+146,SKF,ProShares UltraShort Financials,5,120,14,29,54,1.0,10.0,-14.18,-26.98,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,120,14,29,54,1.0,10.0,-14.18,-20.47,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,29,54,1.0,10.0,-14.18,-14.5,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,29,54,1.0,10.0,-14.18,-12.72,-20.37,41.6
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,29,54,1.0,10.0,-14.18,2.76,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,29,54,1.0,10.0,-14.18,0.0,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,29,54,1.0,10.0,-14.18,-19.19,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,29,54,1.0,10.0,-14.18,-22.34,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,120,14,24,64,1.0,10.0,-15.59,-24.2,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,24,64,1.0,10.0,-15.59,-25.7,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,24,64,1.0,10.0,-15.59,-26.47,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,120,14,24,64,1.0,10.0,-15.59,0.0,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,24,64,1.0,10.0,-15.59,0.0,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,120,14,24,64,1.0,10.0,-15.59,-26.66,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,120,14,24,64,1.0,10.0,-15.59,-21.7,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,24,64,1.0,10.0,-15.59,0.0,-17.59,40.67
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,24,59,1.0,10.0,-15.59,0.0,-17.59,40.67
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,24,59,1.0,10.0,-15.59,-25.7,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,24,59,1.0,10.0,-15.59,-26.47,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,120,14,24,59,1.0,10.0,-15.59,0.0,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,24,59,1.0,10.0,-15.59,0.0,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,120,14,24,59,1.0,10.0,-15.59,-26.66,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,120,14,24,59,1.0,10.0,-15.59,-21.7,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,24,69,1.0,10.0,-15.59,0.0,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,24,59,1.0,10.0,-15.59,-24.2,-20.37,41.6
+146,TWM,ProShares UltraShort Russell2000,5,120,14,24,69,1.0,10.0,-15.59,-24.2,-20.37,41.6
+146,SMN,ProShares UltraShort Materials,5,120,14,24,69,1.0,10.0,-15.59,0.0,-19.41,43.53
+146,SRS,ProShares UltraShort Real Estate,5,120,14,24,69,1.0,10.0,-15.59,-21.7,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,120,14,24,69,1.0,10.0,-15.59,-26.66,-22.26,40.49
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,24,79,1.0,10.0,-15.59,-25.7,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,24,79,1.0,10.0,-15.59,-26.47,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,120,14,24,79,1.0,10.0,-15.59,0.0,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,24,79,1.0,10.0,-15.59,0.0,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,120,14,24,79,1.0,10.0,-15.59,-26.66,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,120,14,24,79,1.0,10.0,-15.59,-21.7,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,24,79,1.0,10.0,-15.59,0.0,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,24,79,1.0,10.0,-15.59,-24.2,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,24,74,1.0,10.0,-15.59,-25.7,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,24,74,1.0,10.0,-15.59,-26.47,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,120,14,24,74,1.0,10.0,-15.59,0.0,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,24,74,1.0,10.0,-15.59,0.0,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,120,14,24,74,1.0,10.0,-15.59,-26.66,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,120,14,24,74,1.0,10.0,-15.59,-21.7,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,24,74,1.0,10.0,-15.59,0.0,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,24,74,1.0,10.0,-15.59,-24.2,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,24,69,1.0,10.0,-15.59,-25.7,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,24,69,1.0,10.0,-15.59,-26.47,-22.37,39.32
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,24,69,1.0,10.0,-15.59,0.0,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,60,14,24,59,1.0,10.0,-16.03,-26.64,-22.26,40.49
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,24,59,1.0,10.0,-16.03,0.0,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,60,14,24,59,1.0,10.0,-16.03,-26.18,-20.37,41.6
+146,SRS,ProShares UltraShort Real Estate,5,60,14,24,59,1.0,10.0,-16.03,-22.04,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,24,74,1.0,10.0,-16.03,0.0,-17.59,40.67
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,24,64,1.0,10.0,-16.03,0.0,-24.3,46.66
+146,SRS,ProShares UltraShort Real Estate,5,60,14,24,69,1.0,10.0,-16.03,-22.04,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,24,69,1.0,10.0,-16.03,0.0,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,60,14,24,69,1.0,10.0,-16.03,-26.18,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,24,64,1.0,10.0,-16.03,-27.49,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,24,64,1.0,10.0,-16.03,-25.85,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,60,14,24,64,1.0,10.0,-16.03,0.0,-19.41,43.53
+146,SKF,ProShares UltraShort Financials,5,60,14,24,64,1.0,10.0,-16.03,-26.64,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,24,69,1.0,10.0,-16.03,0.0,-24.3,46.66
+146,SRS,ProShares UltraShort Real Estate,5,60,14,24,64,1.0,10.0,-16.03,-22.04,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,24,64,1.0,10.0,-16.03,0.0,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,60,14,24,64,1.0,10.0,-16.03,-26.18,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,24,59,1.0,10.0,-16.03,-27.49,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,24,59,1.0,10.0,-16.03,-25.85,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,60,14,24,59,1.0,10.0,-16.03,0.0,-19.41,43.53
+146,SKF,ProShares UltraShort Financials,5,60,14,24,69,1.0,10.0,-16.03,-26.64,-22.26,40.49
+146,SMN,ProShares UltraShort Materials,5,60,14,24,69,1.0,10.0,-16.03,0.0,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,24,79,1.0,10.0,-16.03,-25.85,-22.37,39.32
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,24,74,1.0,10.0,-16.03,-25.85,-22.37,39.32
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,24,79,1.0,10.0,-16.03,0.0,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,60,14,24,79,1.0,10.0,-16.03,-26.64,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,60,14,24,79,1.0,10.0,-16.03,-22.04,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,24,79,1.0,10.0,-16.03,0.0,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,60,14,24,79,1.0,10.0,-16.03,-26.18,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,24,74,1.0,10.0,-16.03,-27.49,-23.25,42.62
+146,SMN,ProShares UltraShort Materials,5,60,14,24,74,1.0,10.0,-16.03,0.0,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,24,69,1.0,10.0,-16.03,-25.85,-22.37,39.32
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,24,74,1.0,10.0,-16.03,0.0,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,60,14,24,74,1.0,10.0,-16.03,-26.64,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,60,14,24,74,1.0,10.0,-16.03,-22.04,-17.25,39.42
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,24,79,1.0,10.0,-16.03,-27.49,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,60,14,24,74,1.0,10.0,-16.03,-26.18,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,24,69,1.0,10.0,-16.03,-27.49,-23.25,42.62
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,24,59,1.0,10.0,-16.03,0.0,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,60,14,24,79,1.0,10.0,-16.03,0.0,-19.41,43.53
+146,SMN,ProShares UltraShort Materials,5,60,14,34,54,1.0,10.0,-18.23,-10.31,-19.41,43.53
+146,TWM,ProShares UltraShort Russell2000,5,60,14,34,54,1.0,10.0,-18.23,-16.4,-20.37,41.6
+146,SKF,ProShares UltraShort Financials,5,60,14,34,54,1.0,10.0,-18.23,-28.37,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,60,14,34,54,1.0,10.0,-18.23,-20.84,-17.25,39.42
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,34,54,1.0,10.0,-18.23,-22.36,-24.3,46.66
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,34,54,1.0,10.0,-18.23,-18.01,-23.25,42.62
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,34,54,1.0,10.0,-18.23,-11.44,-17.59,40.67
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,34,54,1.0,10.0,-18.23,-18.09,-22.37,39.32
+146,SRS,ProShares UltraShort Real Estate,5,120,14,29,69,1.0,10.0,-18.28,-21.7,-17.25,39.42
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,29,69,1.0,10.0,-18.28,-28.31,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,29,74,1.0,10.0,-18.28,-26.96,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,120,14,29,74,1.0,10.0,-18.28,0.0,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,29,74,1.0,10.0,-18.28,2.76,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,120,14,29,74,1.0,10.0,-18.28,-26.98,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,120,14,29,74,1.0,10.0,-18.28,-21.7,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,29,74,1.0,10.0,-18.28,-20.84,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,29,74,1.0,10.0,-18.28,-24.2,-20.37,41.6
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,29,69,1.0,10.0,-18.28,-26.96,-22.37,39.32
+146,SKF,ProShares UltraShort Financials,5,120,14,29,69,1.0,10.0,-18.28,-26.98,-22.26,40.49
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,29,64,1.0,10.0,-18.28,-26.96,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,29,64,1.0,10.0,-18.28,-28.31,-23.25,42.62
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,29,79,1.0,10.0,-18.28,-20.84,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,29,69,1.0,10.0,-18.28,-24.2,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,29,69,1.0,10.0,-18.28,-20.84,-17.59,40.67
+146,SMN,ProShares UltraShort Materials,5,120,14,29,69,1.0,10.0,-18.28,0.0,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,29,69,1.0,10.0,-18.28,2.76,-24.3,46.66
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,29,74,1.0,10.0,-18.28,-28.31,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,120,14,29,79,1.0,10.0,-18.28,-24.2,-20.37,41.6
+146,SRS,ProShares UltraShort Real Estate,5,120,14,29,79,1.0,10.0,-18.28,-21.7,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,29,64,1.0,10.0,-18.28,-20.84,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,29,59,1.0,10.0,-18.28,-24.2,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,29,59,1.0,10.0,-18.28,-20.84,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,120,14,29,59,1.0,10.0,-18.28,-21.7,-17.25,39.42
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,29,79,1.0,10.0,-18.28,-28.31,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,29,79,1.0,10.0,-18.28,-26.96,-22.37,39.32
+146,SKF,ProShares UltraShort Financials,5,120,14,29,59,1.0,10.0,-18.28,-26.98,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,29,59,1.0,10.0,-18.28,2.76,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,29,59,1.0,10.0,-18.28,0.0,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,29,59,1.0,10.0,-18.28,-26.96,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,29,59,1.0,10.0,-18.28,-28.31,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,120,14,29,64,1.0,10.0,-18.28,-24.2,-20.37,41.6
+146,SRS,ProShares UltraShort Real Estate,5,120,14,29,64,1.0,10.0,-18.28,-21.7,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,120,14,29,64,1.0,10.0,-18.28,-26.98,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,29,64,1.0,10.0,-18.28,2.76,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,29,64,1.0,10.0,-18.28,0.0,-19.41,43.53
+146,SMN,ProShares UltraShort Materials,5,120,14,29,79,1.0,10.0,-18.28,0.0,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,29,79,1.0,10.0,-18.28,2.76,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,120,14,29,79,1.0,10.0,-18.28,-26.98,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,60,14,29,54,1.0,10.0,-18.37,-20.84,-17.25,39.42
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,29,54,1.0,10.0,-18.37,-21.56,-23.25,42.62
+146,SMN,ProShares UltraShort Materials,5,60,14,29,54,1.0,10.0,-18.37,-2.97,-19.41,43.53
+146,TWM,ProShares UltraShort Russell2000,5,60,14,29,54,1.0,10.0,-18.37,-16.4,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,29,54,1.0,10.0,-18.37,-14.86,-17.59,40.67
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,29,54,1.0,10.0,-18.37,-18.09,-22.37,39.32
+146,SKF,ProShares UltraShort Financials,5,60,14,29,54,1.0,10.0,-18.37,-26.64,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,29,54,1.0,10.0,-18.37,-25.58,-24.3,46.66
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,34,54,1.0,10.0,-18.6,-28.01,-24.3,46.66
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,34,54,1.0,10.0,-18.6,-19.09,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,34,54,1.0,10.0,-18.6,-19.19,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,120,14,34,54,1.0,10.0,-18.6,-8.16,-19.41,43.53
+146,SKF,ProShares UltraShort Financials,5,120,14,34,54,1.0,10.0,-18.6,-29.0,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,120,14,34,54,1.0,10.0,-18.6,-20.47,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,34,54,1.0,10.0,-18.6,-12.18,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,34,54,1.0,10.0,-18.6,-12.72,-20.37,41.6
+146,TWM,ProShares UltraShort Russell2000,5,120,14,39,54,1.0,10.0,-19.88,-12.72,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,39,54,1.0,10.0,-19.88,-18.61,-17.59,40.67
+146,SKF,ProShares UltraShort Financials,5,120,14,39,54,1.0,10.0,-19.88,-29.0,-22.26,40.49
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,39,54,1.0,10.0,-19.88,-19.09,-23.25,42.62
+146,SRS,ProShares UltraShort Real Estate,5,120,14,39,54,1.0,10.0,-19.88,-20.47,-17.25,39.42
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,39,54,1.0,10.0,-19.88,-28.01,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,39,54,1.0,10.0,-19.88,-11.98,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,39,54,1.0,10.0,-19.88,-19.19,-22.37,39.32
+146,TWM,ProShares UltraShort Russell2000,5,120,14,44,54,1.0,10.0,-20.56,-12.72,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,44,54,1.0,10.0,-20.56,-18.37,-17.59,40.67
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,44,54,1.0,10.0,-20.56,-19.09,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,44,54,1.0,10.0,-20.56,-19.19,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,120,14,44,54,1.0,10.0,-20.56,-15.49,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,44,54,1.0,10.0,-20.56,-28.01,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,120,14,44,54,1.0,10.0,-20.56,-30.58,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,120,14,44,54,1.0,10.0,-20.56,-21.03,-17.25,39.42
+146,TWM,ProShares UltraShort Russell2000,5,120,14,49,54,1.0,10.0,-21.26,-12.72,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,49,54,1.0,10.0,-21.26,-17.99,-17.59,40.67
+146,SKF,ProShares UltraShort Financials,5,120,14,49,54,1.0,10.0,-21.26,-30.58,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,49,54,1.0,10.0,-21.26,-28.01,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,49,54,1.0,10.0,-21.26,-13.47,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,49,54,1.0,10.0,-21.26,-19.19,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,49,54,1.0,10.0,-21.26,-27.08,-23.25,42.62
+146,SRS,ProShares UltraShort Real Estate,5,120,14,49,54,1.0,10.0,-21.26,-21.03,-17.25,39.42
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,39,54,1.0,10.0,-22.09,-23.24,-22.37,39.32
+146,SRS,ProShares UltraShort Real Estate,5,60,14,39,54,1.0,10.0,-22.09,-20.84,-17.25,39.42
+146,TWM,ProShares UltraShort Russell2000,5,60,14,39,54,1.0,10.0,-22.09,-22.35,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,39,54,1.0,10.0,-22.09,-17.26,-17.59,40.67
+146,SKF,ProShares UltraShort Financials,5,60,14,39,54,1.0,10.0,-22.09,-28.37,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,39,54,1.0,10.0,-22.09,-22.36,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,60,14,39,54,1.0,10.0,-22.09,-17.53,-19.41,43.53
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,39,54,1.0,10.0,-22.09,-24.75,-23.25,42.62
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,49,54,1.0,10.0,-23.39,-31.36,-24.3,46.66
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,49,54,1.0,10.0,-23.39,-24.75,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,49,54,1.0,10.0,-23.39,-23.24,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,60,14,49,54,1.0,10.0,-23.39,-16.38,-19.41,43.53
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,49,54,1.0,10.0,-23.39,-18.1,-17.59,40.67
+146,SKF,ProShares UltraShort Financials,5,60,14,49,54,1.0,10.0,-23.39,-30.54,-22.26,40.49
+146,TWM,ProShares UltraShort Russell2000,5,60,14,49,54,1.0,10.0,-23.39,-22.35,-20.37,41.6
+146,SRS,ProShares UltraShort Real Estate,5,60,14,49,54,1.0,10.0,-23.39,-20.4,-17.25,39.42
+146,SRS,ProShares UltraShort Real Estate,5,60,14,44,54,1.0,10.0,-23.55,-20.3,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,60,14,44,54,1.0,10.0,-23.55,-30.54,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,44,54,1.0,10.0,-23.55,-31.36,-24.3,46.66
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,44,54,1.0,10.0,-23.55,-18.1,-17.59,40.67
+146,SMN,ProShares UltraShort Materials,5,60,14,44,54,1.0,10.0,-23.55,-17.76,-19.41,43.53
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,44,54,1.0,10.0,-23.55,-24.75,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,60,14,44,54,1.0,10.0,-23.55,-22.35,-20.37,41.6
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,44,54,1.0,10.0,-23.55,-23.24,-22.37,39.32
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,34,64,1.0,10.0,-24.36,-26.35,-22.37,39.32
+146,TWM,ProShares UltraShort Russell2000,5,60,14,34,64,1.0,10.0,-24.36,-26.18,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,34,64,1.0,10.0,-24.36,-22.41,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,60,14,34,64,1.0,10.0,-24.36,-22.04,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,60,14,34,64,1.0,10.0,-24.36,-28.37,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,34,64,1.0,10.0,-24.36,-16.18,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,60,14,34,64,1.0,10.0,-24.36,-25.56,-19.41,43.53
+146,TWM,ProShares UltraShort Russell2000,5,60,14,34,69,1.0,10.0,-24.36,-26.18,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,34,64,1.0,10.0,-24.36,-27.79,-23.25,42.62
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,34,69,1.0,10.0,-24.36,-22.41,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,60,14,34,69,1.0,10.0,-24.36,-22.04,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,60,14,34,69,1.0,10.0,-24.36,-28.37,-22.26,40.49
+146,SMN,ProShares UltraShort Materials,5,60,14,34,69,1.0,10.0,-24.36,-25.56,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,34,69,1.0,10.0,-24.36,-26.35,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,34,69,1.0,10.0,-24.36,-27.79,-23.25,42.62
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,34,69,1.0,10.0,-24.36,-16.18,-24.3,46.66
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,39,64,1.0,10.0,-24.43,-16.18,-24.3,46.66
+146,SRS,ProShares UltraShort Real Estate,5,60,14,39,64,1.0,10.0,-24.43,-22.04,-17.25,39.42
+146,TWM,ProShares UltraShort Russell2000,5,60,14,39,69,1.0,10.0,-24.43,-26.18,-20.37,41.6
+146,TWM,ProShares UltraShort Russell2000,5,60,14,39,64,1.0,10.0,-24.43,-26.18,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,39,64,1.0,10.0,-24.43,-23.89,-17.59,40.67
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,39,69,1.0,10.0,-24.43,-27.79,-23.25,42.62
+146,SKF,ProShares UltraShort Financials,5,60,14,39,64,1.0,10.0,-24.43,-28.37,-22.26,40.49
+146,SMN,ProShares UltraShort Materials,5,60,14,39,64,1.0,10.0,-24.43,-24.61,-19.41,43.53
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,39,64,1.0,10.0,-24.43,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,39,64,1.0,10.0,-24.43,-26.35,-22.37,39.32
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,39,69,1.0,10.0,-24.43,-23.89,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,60,14,39,69,1.0,10.0,-24.43,-22.04,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,60,14,39,69,1.0,10.0,-24.43,-28.37,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,39,69,1.0,10.0,-24.43,-16.18,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,60,14,39,69,1.0,10.0,-24.43,-24.61,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,39,69,1.0,10.0,-24.43,-26.35,-22.37,39.32
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,29,59,1.0,10.0,-25.04,-25.58,-24.3,46.66
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,29,64,1.0,10.0,-25.04,-21.01,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,60,14,29,64,1.0,10.0,-25.04,-26.18,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,29,59,1.0,10.0,-25.04,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,29,59,1.0,10.0,-25.04,-26.35,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,60,14,29,59,1.0,10.0,-25.04,-24.72,-19.41,43.53
+146,SMN,ProShares UltraShort Materials,5,60,14,29,64,1.0,10.0,-25.04,-24.72,-19.41,43.53
+146,SKF,ProShares UltraShort Financials,5,60,14,29,59,1.0,10.0,-25.04,-26.64,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,60,14,29,59,1.0,10.0,-25.04,-22.04,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,29,59,1.0,10.0,-25.04,-21.01,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,60,14,29,59,1.0,10.0,-25.04,-26.18,-20.37,41.6
+146,SKF,ProShares UltraShort Financials,5,60,14,29,64,1.0,10.0,-25.04,-26.64,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,60,14,29,64,1.0,10.0,-25.04,-22.04,-17.25,39.42
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,29,64,1.0,10.0,-25.04,-25.58,-24.3,46.66
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,29,74,1.0,10.0,-25.04,-26.35,-22.37,39.32
+146,SRS,ProShares UltraShort Real Estate,5,60,14,29,74,1.0,10.0,-25.04,-22.04,-17.25,39.42
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,29,79,1.0,10.0,-25.04,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,29,79,1.0,10.0,-25.04,-26.35,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,60,14,29,79,1.0,10.0,-25.04,-24.72,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,29,79,1.0,10.0,-25.04,-25.58,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,60,14,29,79,1.0,10.0,-25.04,-26.64,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,60,14,29,79,1.0,10.0,-25.04,-22.04,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,29,79,1.0,10.0,-25.04,-21.01,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,60,14,29,79,1.0,10.0,-25.04,-26.18,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,29,74,1.0,10.0,-25.04,-27.79,-23.25,42.62
+146,SMN,ProShares UltraShort Materials,5,60,14,29,74,1.0,10.0,-25.04,-24.72,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,29,74,1.0,10.0,-25.04,-25.58,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,60,14,29,74,1.0,10.0,-25.04,-26.64,-22.26,40.49
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,29,74,1.0,10.0,-25.04,-21.01,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,60,14,29,74,1.0,10.0,-25.04,-26.18,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,29,69,1.0,10.0,-25.04,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,29,69,1.0,10.0,-25.04,-26.35,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,60,14,29,69,1.0,10.0,-25.04,-24.72,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,29,69,1.0,10.0,-25.04,-25.58,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,60,14,29,69,1.0,10.0,-25.04,-26.64,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,60,14,29,69,1.0,10.0,-25.04,-22.04,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,29,69,1.0,10.0,-25.04,-21.01,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,60,14,29,69,1.0,10.0,-25.04,-26.18,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,29,64,1.0,10.0,-25.04,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,29,64,1.0,10.0,-25.04,-26.35,-22.37,39.32
+146,SRS,ProShares UltraShort Real Estate,5,60,14,34,59,1.0,10.0,-25.13,-22.04,-17.25,39.42
+146,SMN,ProShares UltraShort Materials,5,60,14,34,59,1.0,10.0,-25.13,-25.56,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,34,59,1.0,10.0,-25.13,-26.35,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,34,59,1.0,10.0,-25.13,-27.79,-23.25,42.62
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,34,59,1.0,10.0,-25.13,-22.36,-24.3,46.66
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,34,59,1.0,10.0,-25.13,-22.41,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,60,14,34,59,1.0,10.0,-25.13,-26.18,-20.37,41.6
+146,SKF,ProShares UltraShort Financials,5,60,14,34,59,1.0,10.0,-25.13,-28.37,-22.26,40.49
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,39,59,1.0,10.0,-25.2,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,39,59,1.0,10.0,-25.2,-26.35,-22.37,39.32
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,39,59,1.0,10.0,-25.2,-22.36,-24.3,46.66
+146,TWM,ProShares UltraShort Russell2000,5,60,14,39,59,1.0,10.0,-25.2,-26.18,-20.37,41.6
+146,SRS,ProShares UltraShort Real Estate,5,60,14,39,59,1.0,10.0,-25.2,-22.04,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,60,14,39,59,1.0,10.0,-25.2,-28.37,-22.26,40.49
+146,SMN,ProShares UltraShort Materials,5,60,14,39,59,1.0,10.0,-25.2,-24.61,-19.41,43.53
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,39,59,1.0,10.0,-25.2,-23.89,-17.59,40.67
+146,SMN,ProShares UltraShort Materials,5,120,14,34,59,1.0,10.0,-25.89,-25.97,-19.41,43.53
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,34,64,1.0,10.0,-25.89,-22.95,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,34,64,1.0,10.0,-25.89,-24.2,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,34,59,1.0,10.0,-25.89,-28.31,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,34,59,1.0,10.0,-25.89,-26.96,-22.37,39.32
+146,SRS,ProShares UltraShort Real Estate,5,120,14,34,59,1.0,10.0,-25.89,-21.7,-17.25,39.42
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,34,59,1.0,10.0,-25.89,-28.01,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,120,14,34,59,1.0,10.0,-25.89,-29.0,-22.26,40.49
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,34,59,1.0,10.0,-25.89,-22.95,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,34,59,1.0,10.0,-25.89,-24.2,-20.37,41.6
+146,SKF,ProShares UltraShort Financials,5,120,14,34,64,1.0,10.0,-25.89,-29.0,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,120,14,34,64,1.0,10.0,-25.89,-21.7,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,120,14,34,74,1.0,10.0,-25.89,-29.0,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,34,64,1.0,10.0,-25.89,-28.01,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,34,64,1.0,10.0,-25.89,-25.97,-19.41,43.53
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,34,79,1.0,10.0,-25.89,-28.31,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,34,79,1.0,10.0,-25.89,-26.96,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,120,14,34,79,1.0,10.0,-25.89,-25.97,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,34,79,1.0,10.0,-25.89,-28.01,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,120,14,34,79,1.0,10.0,-25.89,-29.0,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,120,14,34,79,1.0,10.0,-25.89,-21.7,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,34,79,1.0,10.0,-25.89,-22.95,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,34,79,1.0,10.0,-25.89,-24.2,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,34,74,1.0,10.0,-25.89,-28.31,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,34,74,1.0,10.0,-25.89,-26.96,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,120,14,34,74,1.0,10.0,-25.89,-25.97,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,34,74,1.0,10.0,-25.89,-28.01,-24.3,46.66
+146,TWM,ProShares UltraShort Russell2000,5,120,14,34,74,1.0,10.0,-25.89,-24.2,-20.37,41.6
+146,SRS,ProShares UltraShort Real Estate,5,120,14,34,74,1.0,10.0,-25.89,-21.7,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,34,74,1.0,10.0,-25.89,-22.95,-17.59,40.67
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,34,69,1.0,10.0,-25.89,-28.31,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,34,69,1.0,10.0,-25.89,-26.96,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,120,14,34,69,1.0,10.0,-25.89,-25.97,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,34,69,1.0,10.0,-25.89,-28.01,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,120,14,34,69,1.0,10.0,-25.89,-29.0,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,120,14,34,69,1.0,10.0,-25.89,-21.7,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,34,69,1.0,10.0,-25.89,-22.95,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,34,69,1.0,10.0,-25.89,-24.2,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,34,64,1.0,10.0,-25.89,-28.31,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,34,64,1.0,10.0,-25.89,-26.96,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,49,64,1.0,10.0,-25.97,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,49,64,1.0,10.0,-25.97,-26.35,-22.37,39.32
+146,SKF,ProShares UltraShort Financials,5,60,14,44,64,1.0,10.0,-25.97,-30.54,-22.26,40.49
+146,SMN,ProShares UltraShort Materials,5,60,14,44,69,1.0,10.0,-25.97,-24.61,-19.41,43.53
+146,SKF,ProShares UltraShort Financials,5,60,14,44,69,1.0,10.0,-25.97,-30.54,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,60,14,44,69,1.0,10.0,-25.97,-22.04,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,44,69,1.0,10.0,-25.97,-23.89,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,60,14,44,69,1.0,10.0,-25.97,-26.18,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,44,64,1.0,10.0,-25.97,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,44,64,1.0,10.0,-25.97,-26.35,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,60,14,44,64,1.0,10.0,-25.97,-24.61,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,44,64,1.0,10.0,-25.97,-26.37,-24.3,46.66
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,44,69,1.0,10.0,-25.97,-26.35,-22.37,39.32
+146,SRS,ProShares UltraShort Real Estate,5,60,14,44,64,1.0,10.0,-25.97,-22.04,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,44,64,1.0,10.0,-25.97,-23.89,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,60,14,44,64,1.0,10.0,-25.97,-26.18,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,44,69,1.0,10.0,-25.97,-27.79,-23.25,42.62
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,44,69,1.0,10.0,-25.97,-26.37,-24.3,46.66
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,49,69,1.0,10.0,-25.97,-27.79,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,60,14,49,69,1.0,10.0,-25.97,-26.18,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,49,69,1.0,10.0,-25.97,-23.89,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,60,14,49,69,1.0,10.0,-25.97,-22.04,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,60,14,49,69,1.0,10.0,-25.97,-30.54,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,49,69,1.0,10.0,-25.97,-26.37,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,60,14,49,69,1.0,10.0,-25.97,-24.61,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,49,69,1.0,10.0,-25.97,-26.35,-22.37,39.32
+146,TWM,ProShares UltraShort Russell2000,5,60,14,49,64,1.0,10.0,-25.97,-26.18,-20.37,41.6
+146,SMN,ProShares UltraShort Materials,5,60,14,49,64,1.0,10.0,-25.97,-24.61,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,49,64,1.0,10.0,-25.97,-26.37,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,60,14,49,64,1.0,10.0,-25.97,-30.54,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,60,14,49,64,1.0,10.0,-25.97,-22.04,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,49,64,1.0,10.0,-25.97,-23.89,-17.59,40.67
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,39,74,1.0,10.0,-25.98,-23.54,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,39,74,1.0,10.0,-25.98,-24.2,-20.37,41.6
+146,SRS,ProShares UltraShort Real Estate,5,120,14,39,59,1.0,10.0,-25.98,-21.7,-17.25,39.42
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,39,69,1.0,10.0,-25.98,-26.96,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,39,69,1.0,10.0,-25.98,-28.31,-23.25,42.62
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,39,69,1.0,10.0,-25.98,-28.01,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,120,14,39,59,1.0,10.0,-25.98,-29.0,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,120,14,39,64,1.0,10.0,-25.98,-21.7,-17.25,39.42
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,39,59,1.0,10.0,-25.98,-28.01,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,39,59,1.0,10.0,-25.98,-26.13,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,39,59,1.0,10.0,-25.98,-26.96,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,39,59,1.0,10.0,-25.98,-28.31,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,120,14,39,64,1.0,10.0,-25.98,-24.2,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,39,64,1.0,10.0,-25.98,-23.54,-17.59,40.67
+146,SKF,ProShares UltraShort Financials,5,120,14,39,64,1.0,10.0,-25.98,-29.0,-22.26,40.49
+146,SKF,ProShares UltraShort Financials,5,120,14,39,69,1.0,10.0,-25.98,-29.0,-22.26,40.49
+146,SMN,ProShares UltraShort Materials,5,120,14,39,64,1.0,10.0,-25.98,-26.13,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,39,64,1.0,10.0,-25.98,-26.96,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,39,64,1.0,10.0,-25.98,-28.31,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,120,14,39,69,1.0,10.0,-25.98,-24.2,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,39,69,1.0,10.0,-25.98,-23.54,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,120,14,39,69,1.0,10.0,-25.98,-21.7,-17.25,39.42
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,39,64,1.0,10.0,-25.98,-28.01,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,39,69,1.0,10.0,-25.98,-26.13,-19.41,43.53
+146,TWM,ProShares UltraShort Russell2000,5,120,14,39,59,1.0,10.0,-25.98,-24.2,-20.37,41.6
+146,SRS,ProShares UltraShort Real Estate,5,120,14,39,74,1.0,10.0,-25.98,-21.7,-17.25,39.42
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,39,79,1.0,10.0,-25.98,-28.31,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,39,79,1.0,10.0,-25.98,-26.96,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,120,14,39,79,1.0,10.0,-25.98,-26.13,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,39,79,1.0,10.0,-25.98,-28.01,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,120,14,39,79,1.0,10.0,-25.98,-29.0,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,120,14,39,79,1.0,10.0,-25.98,-21.7,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,39,79,1.0,10.0,-25.98,-23.54,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,39,79,1.0,10.0,-25.98,-24.2,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,39,74,1.0,10.0,-25.98,-28.31,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,39,74,1.0,10.0,-25.98,-26.96,-22.37,39.32
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,39,59,1.0,10.0,-25.98,-23.54,-17.59,40.67
+146,SKF,ProShares UltraShort Financials,5,120,14,39,74,1.0,10.0,-25.98,-29.0,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,39,74,1.0,10.0,-25.98,-28.01,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,39,74,1.0,10.0,-25.98,-26.13,-19.41,43.53
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,34,74,1.0,10.0,-26.07,-27.79,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,60,14,34,79,1.0,10.0,-26.07,-26.18,-20.37,41.6
+146,TWM,ProShares UltraShort Russell2000,5,60,14,34,74,1.0,10.0,-26.07,-26.18,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,34,74,1.0,10.0,-26.07,-22.41,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,60,14,34,74,1.0,10.0,-26.07,-22.04,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,60,14,34,74,1.0,10.0,-26.07,-28.37,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,34,74,1.0,10.0,-26.07,-29.83,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,60,14,34,74,1.0,10.0,-26.07,-25.56,-19.41,43.53
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,34,79,1.0,10.0,-26.07,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,34,79,1.0,10.0,-26.07,-26.35,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,60,14,34,79,1.0,10.0,-26.07,-25.56,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,34,79,1.0,10.0,-26.07,-29.83,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,60,14,34,79,1.0,10.0,-26.07,-28.37,-22.26,40.49
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,34,74,1.0,10.0,-26.07,-26.35,-22.37,39.32
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,34,79,1.0,10.0,-26.07,-22.41,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,60,14,34,79,1.0,10.0,-26.07,-22.04,-17.25,39.42
+146,SRS,ProShares UltraShort Real Estate,5,60,14,39,79,1.0,10.0,-26.13,-22.04,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,60,14,39,79,1.0,10.0,-26.13,-28.37,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,60,14,39,74,1.0,10.0,-26.13,-22.04,-17.25,39.42
+146,SMN,ProShares UltraShort Materials,5,60,14,39,74,1.0,10.0,-26.13,-24.61,-19.41,43.53
+146,SKF,ProShares UltraShort Financials,5,60,14,39,74,1.0,10.0,-26.13,-28.37,-22.26,40.49
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,39,79,1.0,10.0,-26.13,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,39,79,1.0,10.0,-26.13,-26.35,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,60,14,39,79,1.0,10.0,-26.13,-24.61,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,39,79,1.0,10.0,-26.13,-29.83,-24.3,46.66
+146,TWM,ProShares UltraShort Russell2000,5,60,14,39,74,1.0,10.0,-26.13,-26.18,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,39,74,1.0,10.0,-26.13,-23.89,-17.59,40.67
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,39,74,1.0,10.0,-26.13,-29.83,-24.3,46.66
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,39,79,1.0,10.0,-26.13,-23.89,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,60,14,39,79,1.0,10.0,-26.13,-26.18,-20.37,41.6
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,39,74,1.0,10.0,-26.13,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,39,74,1.0,10.0,-26.13,-26.35,-22.37,39.32
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,44,69,1.0,10.0,-26.18,-23.54,-17.59,40.67
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,44,79,1.0,10.0,-26.18,-28.31,-23.25,42.62
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,49,59,1.0,10.0,-26.18,-23.54,-17.59,40.67
+146,TWM,ProShares UltraShort Russell2000,5,120,14,49,59,1.0,10.0,-26.18,-24.2,-20.37,41.6
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,44,79,1.0,10.0,-26.18,-26.96,-22.37,39.32
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,44,69,1.0,10.0,-26.18,-28.01,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,44,79,1.0,10.0,-26.18,-26.13,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,44,69,1.0,10.0,-26.18,-26.96,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,44,69,1.0,10.0,-26.18,-28.31,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,120,14,44,74,1.0,10.0,-26.18,-24.2,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,44,74,1.0,10.0,-26.18,-23.54,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,120,14,44,74,1.0,10.0,-26.18,-21.7,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,120,14,44,74,1.0,10.0,-26.18,-30.58,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,44,74,1.0,10.0,-26.18,-28.01,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,44,74,1.0,10.0,-26.18,-26.13,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,44,74,1.0,10.0,-26.18,-26.96,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,44,74,1.0,10.0,-26.18,-28.31,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,120,14,44,79,1.0,10.0,-26.18,-24.2,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,44,79,1.0,10.0,-26.18,-23.54,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,120,14,44,79,1.0,10.0,-26.18,-21.7,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,120,14,44,79,1.0,10.0,-26.18,-30.58,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,44,79,1.0,10.0,-26.18,-28.01,-24.3,46.66
+146,SRS,ProShares UltraShort Real Estate,5,120,14,49,59,1.0,10.0,-26.18,-21.7,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,120,14,49,59,1.0,10.0,-26.18,-30.58,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,49,59,1.0,10.0,-26.18,-28.01,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,49,59,1.0,10.0,-26.18,-26.13,-19.41,43.53
+146,TWM,ProShares UltraShort Russell2000,5,120,14,49,74,1.0,10.0,-26.18,-24.2,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,49,74,1.0,10.0,-26.18,-23.54,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,120,14,49,74,1.0,10.0,-26.18,-21.7,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,120,14,49,74,1.0,10.0,-26.18,-30.58,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,49,74,1.0,10.0,-26.18,-28.01,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,49,74,1.0,10.0,-26.18,-26.13,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,49,74,1.0,10.0,-26.18,-26.96,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,49,74,1.0,10.0,-26.18,-28.31,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,120,14,49,79,1.0,10.0,-26.18,-24.2,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,49,79,1.0,10.0,-26.18,-23.54,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,120,14,49,79,1.0,10.0,-26.18,-21.7,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,120,14,49,79,1.0,10.0,-26.18,-30.58,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,49,79,1.0,10.0,-26.18,-28.01,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,49,79,1.0,10.0,-26.18,-26.13,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,49,79,1.0,10.0,-26.18,-26.96,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,49,69,1.0,10.0,-26.18,-28.31,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,49,69,1.0,10.0,-26.18,-26.96,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,120,14,49,69,1.0,10.0,-26.18,-26.13,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,49,64,1.0,10.0,-26.18,-28.01,-24.3,46.66
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,49,59,1.0,10.0,-26.18,-26.96,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,49,59,1.0,10.0,-26.18,-28.31,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,120,14,49,64,1.0,10.0,-26.18,-24.2,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,49,64,1.0,10.0,-26.18,-23.54,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,120,14,49,64,1.0,10.0,-26.18,-21.7,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,120,14,49,64,1.0,10.0,-26.18,-30.58,-22.26,40.49
+146,SMN,ProShares UltraShort Materials,5,120,14,49,64,1.0,10.0,-26.18,-26.13,-19.41,43.53
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,49,69,1.0,10.0,-26.18,-28.01,-24.3,46.66
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,49,64,1.0,10.0,-26.18,-26.96,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,49,64,1.0,10.0,-26.18,-28.31,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,120,14,49,69,1.0,10.0,-26.18,-24.2,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,49,69,1.0,10.0,-26.18,-23.54,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,120,14,49,69,1.0,10.0,-26.18,-21.7,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,120,14,49,69,1.0,10.0,-26.18,-30.58,-22.26,40.49
+146,SMN,ProShares UltraShort Materials,5,120,14,44,69,1.0,10.0,-26.18,-26.13,-19.41,43.53
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,49,79,1.0,10.0,-26.18,-28.31,-23.25,42.62
+146,SKF,ProShares UltraShort Financials,5,120,14,44,69,1.0,10.0,-26.18,-30.58,-22.26,40.49
+146,TWM,ProShares UltraShort Russell2000,5,120,14,44,64,1.0,10.0,-26.18,-24.2,-20.37,41.6
+146,SRS,ProShares UltraShort Real Estate,5,120,14,44,69,1.0,10.0,-26.18,-21.7,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,44,59,1.0,10.0,-26.18,-23.54,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,120,14,44,59,1.0,10.0,-26.18,-21.7,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,120,14,44,59,1.0,10.0,-26.18,-30.58,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,44,59,1.0,10.0,-26.18,-28.01,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,44,59,1.0,10.0,-26.18,-26.13,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,44,59,1.0,10.0,-26.18,-26.96,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,44,59,1.0,10.0,-26.18,-28.31,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,120,14,44,59,1.0,10.0,-26.18,-24.2,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,120,14,44,64,1.0,10.0,-26.18,-23.54,-17.59,40.67
+146,SKF,ProShares UltraShort Financials,5,120,14,44,64,1.0,10.0,-26.18,-30.58,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,120,14,44,64,1.0,10.0,-26.18,-28.01,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,120,14,44,64,1.0,10.0,-26.18,-26.13,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,120,14,44,64,1.0,10.0,-26.18,-26.96,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,120,14,44,64,1.0,10.0,-26.18,-28.31,-23.25,42.62
+146,TWM,ProShares UltraShort Russell2000,5,120,14,44,69,1.0,10.0,-26.18,-24.2,-20.37,41.6
+146,SRS,ProShares UltraShort Real Estate,5,120,14,44,64,1.0,10.0,-26.18,-21.7,-17.25,39.42
+146,TWM,ProShares UltraShort Russell2000,5,60,14,44,79,1.0,10.0,-26.4,-26.18,-20.37,41.6
+146,SRS,ProShares UltraShort Real Estate,5,60,14,44,79,1.0,10.0,-26.4,-22.04,-17.25,39.42
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,44,79,1.0,10.0,-26.4,-23.89,-17.59,40.67
+146,SMN,ProShares UltraShort Materials,5,60,14,44,74,1.0,10.0,-26.4,-24.61,-19.41,43.53
+146,SKF,ProShares UltraShort Financials,5,60,14,49,79,1.0,10.0,-26.4,-30.54,-22.26,40.49
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,44,74,1.0,10.0,-26.4,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,44,74,1.0,10.0,-26.4,-26.35,-22.37,39.32
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,44,79,1.0,10.0,-26.4,-29.83,-24.3,46.66
+146,SKF,ProShares UltraShort Financials,5,60,14,44,79,1.0,10.0,-26.4,-30.54,-22.26,40.49
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,49,79,1.0,10.0,-26.4,-27.79,-23.25,42.62
+146,SMN,ProShares UltraShort Materials,5,60,14,44,79,1.0,10.0,-26.4,-24.61,-19.41,43.53
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,44,79,1.0,10.0,-26.4,-26.35,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,44,79,1.0,10.0,-26.4,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,49,79,1.0,10.0,-26.4,-26.35,-22.37,39.32
+146,TWM,ProShares UltraShort Russell2000,5,60,14,49,79,1.0,10.0,-26.4,-26.18,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,49,79,1.0,10.0,-26.4,-23.89,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,60,14,49,79,1.0,10.0,-26.4,-22.04,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,60,14,44,74,1.0,10.0,-26.4,-30.54,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,44,74,1.0,10.0,-26.4,-29.83,-24.3,46.66
+146,SMN,ProShares UltraShort Materials,5,60,14,49,79,1.0,10.0,-26.4,-24.61,-19.41,43.53
+146,SRS,ProShares UltraShort Real Estate,5,60,14,44,74,1.0,10.0,-26.4,-22.04,-17.25,39.42
+146,TWM,ProShares UltraShort Russell2000,5,60,14,44,74,1.0,10.0,-26.4,-26.18,-20.37,41.6
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,49,79,1.0,10.0,-26.4,-29.83,-24.3,46.66
+146,TWM,ProShares UltraShort Russell2000,5,60,14,49,74,1.0,10.0,-26.4,-26.18,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,49,74,1.0,10.0,-26.4,-23.89,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,60,14,49,74,1.0,10.0,-26.4,-22.04,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,60,14,49,74,1.0,10.0,-26.4,-30.54,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,49,74,1.0,10.0,-26.4,-29.83,-24.3,46.66
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,49,74,1.0,10.0,-26.4,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,49,74,1.0,10.0,-26.4,-26.35,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,60,14,49,74,1.0,10.0,-26.4,-24.61,-19.41,43.53
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,44,74,1.0,10.0,-26.4,-23.89,-17.59,40.67
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,49,59,1.0,10.0,-26.6,-31.36,-24.3,46.66
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,49,59,1.0,10.0,-26.6,-27.79,-23.25,42.62
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,49,59,1.0,10.0,-26.6,-26.35,-22.37,39.32
+146,SMN,ProShares UltraShort Materials,5,60,14,49,59,1.0,10.0,-26.6,-24.61,-19.41,43.53
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,49,59,1.0,10.0,-26.6,-23.89,-17.59,40.67
+146,SKF,ProShares UltraShort Financials,5,60,14,49,59,1.0,10.0,-26.6,-30.54,-22.26,40.49
+146,SRS,ProShares UltraShort Real Estate,5,60,14,49,59,1.0,10.0,-26.6,-22.04,-17.25,39.42
+146,TWM,ProShares UltraShort Russell2000,5,60,14,49,59,1.0,10.0,-26.6,-26.18,-20.37,41.6
+146,TWM,ProShares UltraShort Russell2000,5,60,14,44,59,1.0,10.0,-26.6,-26.18,-20.37,41.6
+146,EPV,ProShares UltraShort FTSE Europe ETF,5,60,14,44,59,1.0,10.0,-26.6,-23.89,-17.59,40.67
+146,SRS,ProShares UltraShort Real Estate,5,60,14,44,59,1.0,10.0,-26.6,-22.04,-17.25,39.42
+146,SKF,ProShares UltraShort Financials,5,60,14,44,59,1.0,10.0,-26.6,-30.54,-22.26,40.49
+146,YOLO.K,AdvisorShares Pure Cannabis ETF,5,60,14,44,59,1.0,10.0,-26.6,-31.36,-24.3,46.66
+146,MZZ,ProShares UltraShort MidCap400,5,60,14,44,59,1.0,10.0,-26.6,-26.35,-22.37,39.32
+146,SDD,ProShares UltraShort SmallCap600,5,60,14,44,59,1.0,10.0,-26.6,-27.79,-23.25,42.62
+146,SMN,ProShares UltraShort Materials,5,60,14,44,59,1.0,10.0,-26.6,-24.61,-19.41,43.53

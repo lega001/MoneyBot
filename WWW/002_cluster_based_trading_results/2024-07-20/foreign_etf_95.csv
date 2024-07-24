@@ -1,0 +1,2161 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,3.87,5.42
+95,HYFI.K,AB High Yield ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,4.29,5.61
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,49,54,1.0,10.0,1.7,2.33,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,49,54,1.0,10.0,1.7,16.12,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,49,54,1.0,10.0,1.7,13.35,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,4.72,7.55
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,49,54,1.0,10.0,1.7,3.29,3.22,8.58
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,4.97,6.73
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,49,54,1.0,10.0,1.7,11.75,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,49,54,1.0,10.0,1.7,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,49,54,1.0,10.0,1.7,0.0,1.96,5.06
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,49,54,1.0,10.0,1.7,4.29,2.34,6.01
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,49,54,1.0,10.0,1.7,0.0,3.44,6.06
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,44,59,1.0,10.0,1.69,5.24,2.34,6.01
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,4.43,6.12
+95,MTBA.K,Simplify MBS ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,44,59,1.0,10.0,1.69,20.6,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,44,59,1.0,10.0,1.69,7.02,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,4.72,7.55
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,44,59,1.0,10.0,1.69,5.08,3.22,8.58
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,3.87,4.93
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,3.87,5.42
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,44,59,1.0,10.0,1.69,6.51,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,44,59,1.0,10.0,1.69,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,44,59,1.0,10.0,1.69,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,4.97,6.73
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,44,59,1.0,10.0,1.69,6.22,3.41,7.52
+95,HYFI.K,AB High Yield ETF,5,60,14,44,59,1.0,10.0,1.69,0.0,4.29,5.61
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,49,54,1.0,10.0,1.68,4.38,2.34,6.01
+95,HYFI.K,AB High Yield ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,4.29,5.61
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,49,54,1.0,10.0,1.68,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,49,54,1.0,10.0,1.68,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,49,54,1.0,10.0,1.68,5.49,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,3.87,4.93
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,4.43,6.12
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,49,54,1.0,10.0,1.68,4.96,3.22,8.58
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,4.97,6.73
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,2.36,5.59
+95,INCM.K,Franklin Income Focus ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,4.72,7.55
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,49,54,1.0,10.0,1.68,5.04,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,49,54,1.0,10.0,1.68,21.19,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,4.62,5.97
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,3.87,5.42
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,3.47,5.04
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,4.31,6.92
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,49,54,1.0,10.0,1.68,0.0,3.51,5.65
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,49,54,1.0,10.0,1.68,9.4,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,4.31,6.92
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,49,59,1.0,10.0,1.61,5.08,3.22,8.58
+95,HYFI.K,AB High Yield ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,49,59,1.0,10.0,1.61,7.02,2.89,8.63
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,4.01,7.68
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,3.87,4.93
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,49,59,1.0,10.0,1.61,18.26,4.26,8.73
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,4.43,6.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,49,59,1.0,10.0,1.61,6.51,2.07,5.47
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,3.82,7.12
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,49,59,1.0,10.0,1.61,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,4.71,5.5
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,49,59,1.0,10.0,1.61,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,4.97,6.73
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,49,59,1.0,10.0,1.61,6.22,3.41,7.52
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,3.87,5.42
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,49,59,1.0,10.0,1.61,5.24,2.34,6.01
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,2.91,4.63
+95,MTBA.K,Simplify MBS ETF,5,60,14,49,59,1.0,10.0,1.61,0.0,2.06,5.39
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,3.51,5.65
+95,HYFI.K,AB High Yield ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,4.29,5.61
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,49,59,1.0,10.0,1.6,4.92,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,49,59,1.0,10.0,1.6,4.81,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,49,59,1.0,10.0,1.6,15.37,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,3.47,5.04
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,4.31,6.92
+95,INCM.K,Franklin Income Focus ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,49,59,1.0,10.0,1.6,9.27,2.89,8.63
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,49,59,1.0,10.0,1.6,3.55,3.22,8.58
+95,WABF.O,Western Asset Bond ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,4.04,7.64
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,3.44,6.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,49,59,1.0,10.0,1.6,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,2.91,4.63
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,4.43,6.12
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,4.71,5.5
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,49,59,1.0,10.0,1.6,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,49,59,1.0,10.0,1.6,10.11,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,49,59,1.0,10.0,1.6,0.0,3.87,4.93
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,3.82,7.12
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,3.59,5.88
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,44,54,1.0,10.0,1.56,5.49,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,44,54,1.0,10.0,1.56,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,2.91,4.63
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,3.87,5.42
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,44,54,1.0,10.0,1.56,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,44,54,1.0,10.0,1.56,4.38,2.34,6.01
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,2.46,6.78
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,44,54,1.0,10.0,1.56,4.96,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,4.43,6.12
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,3.51,5.65
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,44,54,1.0,10.0,1.56,5.04,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,44,54,1.0,10.0,1.56,20.58,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,4.62,5.97
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,2.36,5.59
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,44,54,1.0,10.0,1.56,6.43,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,60,14,44,54,1.0,10.0,1.56,0.0,4.29,5.61
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,4.01,7.68
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,44,64,1.0,10.0,1.5,6.3,3.22,8.58
+95,HYFI.K,AB High Yield ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,44,64,1.0,10.0,1.5,8.51,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,4.31,6.92
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,44,64,1.0,10.0,1.5,12.19,4.26,8.73
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,3.31,5.54
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,4.62,5.97
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,3.87,4.93
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,4.43,6.12
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,2.91,4.63
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,44,64,1.0,10.0,1.5,6.59,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,44,64,1.0,10.0,1.5,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,4.71,5.5
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,44,64,1.0,10.0,1.5,5.99,3.41,7.52
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,44,64,1.0,10.0,1.5,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,44,64,1.0,10.0,1.5,5.41,2.34,6.01
+95,MTBA.K,Simplify MBS ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,2.06,5.39
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,49,64,1.0,10.0,1.5,4.29,2.34,6.01
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,49,64,1.0,10.0,1.5,5.1,3.22,8.58
+95,HYFI.K,AB High Yield ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,4.29,5.61
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,49,64,1.0,10.0,1.5,4.93,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,49,64,1.0,10.0,1.5,10.62,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,49,64,1.0,10.0,1.5,10.96,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,4.72,7.55
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,3.44,6.06
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,3.87,5.42
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,49,64,1.0,10.0,1.5,9.03,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,49,64,1.0,10.0,1.5,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,4.47,7.51
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,4.97,6.73
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,44,64,1.0,10.0,1.5,0.0,3.87,5.42
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,49,64,1.0,10.0,1.5,0.0,1.96,5.06
+95,MTBA.K,Simplify MBS ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,2.06,5.39
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,4.62,5.97
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,3.87,5.42
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,49,64,1.0,10.0,1.46,5.41,2.34,6.01
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,49,64,1.0,10.0,1.46,8.51,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,49,64,1.0,10.0,1.46,6.3,3.22,8.58
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,49,64,1.0,10.0,1.46,10.94,4.26,8.73
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,49,64,1.0,10.0,1.46,6.59,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,49,64,1.0,10.0,1.46,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,49,64,1.0,10.0,1.46,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,49,64,1.0,10.0,1.46,0.0,4.97,6.73
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,49,64,1.0,10.0,1.46,5.99,3.41,7.52
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,44,59,1.0,10.0,1.44,4.92,2.34,6.01
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,3.44,6.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,44,59,1.0,10.0,1.44,0.0,1.96,5.06
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,3.87,5.42
+95,INCM.K,Franklin Income Focus ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,4.72,7.55
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,44,59,1.0,10.0,1.44,4.81,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,44,59,1.0,10.0,1.44,18.52,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,44,59,1.0,10.0,1.44,9.27,2.89,8.63
+95,HYFI.K,AB High Yield ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,4.29,5.61
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,4.47,7.51
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,44,59,1.0,10.0,1.44,5.66,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,44,59,1.0,10.0,1.44,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,3.59,5.88
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,44,59,1.0,10.0,1.44,0.0,4.97,6.73
+95,HYFI.K,AB High Yield ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,4.29,5.61
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,4.97,6.73
+95,INCM.K,Franklin Income Focus ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,4.72,7.55
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,3.44,6.06
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,49,74,1.0,10.0,1.42,4.18,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,49,74,1.0,10.0,1.42,5.4,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,49,74,1.0,10.0,1.42,12.23,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,2.36,5.59
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,49,74,1.0,10.0,1.42,9.77,2.89,8.63
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,3.47,5.04
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,49,74,1.0,10.0,1.42,4.64,3.22,8.58
+95,WABF.O,Western Asset Bond ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,4.04,7.64
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,4.43,6.12
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,4.71,5.5
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,49,74,1.0,10.0,1.42,0.0,1.96,5.06
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,49,74,1.0,10.0,1.42,0.0,2.65,6.87
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,49,74,1.0,10.0,1.42,0.0,3.87,4.93
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,49,74,1.0,10.0,1.42,6.49,2.07,5.47
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,3.51,5.65
+95,INCM.K,Franklin Income Focus ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,44,69,1.0,10.0,1.41,7.87,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,3.31,5.54
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,4.62,5.97
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,2.36,5.59
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,44,69,1.0,10.0,1.41,13.7,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,44,69,1.0,10.0,1.41,6.26,3.41,7.52
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,44,69,1.0,10.0,1.41,3.94,3.22,8.58
+95,HYFI.K,AB High Yield ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,4.29,5.61
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,4.97,6.73
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,44,69,1.0,10.0,1.41,5.09,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,44,69,1.0,10.0,1.41,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,44,69,1.0,10.0,1.41,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,3.44,6.06
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,44,69,1.0,10.0,1.41,0.0,3.87,5.42
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,44,69,1.0,10.0,1.41,5.57,2.34,6.01
+95,WABF.O,Western Asset Bond ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,4.04,7.64
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,49,69,1.0,10.0,1.39,3.89,3.22,8.58
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,49,69,1.0,10.0,1.39,4.37,2.34,6.01
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,4.97,6.73
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,3.44,6.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,49,69,1.0,10.0,1.39,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,4.71,5.5
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,49,69,1.0,10.0,1.39,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,49,69,1.0,10.0,1.39,6.49,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,2.46,6.78
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,3.87,4.93
+95,HYFI.K,AB High Yield ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,4.29,5.61
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,3.47,5.04
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,49,69,1.0,10.0,1.39,4.94,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,49,69,1.0,10.0,1.39,12.31,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,4.62,5.97
+95,INCM.K,Franklin Income Focus ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,4.72,7.55
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,2.36,5.59
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,49,69,1.0,10.0,1.39,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,49,69,1.0,10.0,1.39,9.77,2.89,8.63
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,44,74,1.0,10.0,1.38,7.87,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,4.01,7.68
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,2.36,5.59
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,3.31,5.54
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,3.47,5.04
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,49,69,1.0,10.0,1.38,5.57,2.34,6.01
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,44,74,1.0,10.0,1.38,13.57,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,44,74,1.0,10.0,1.38,6.59,3.41,7.52
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,44,74,1.0,10.0,1.38,3.61,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,3.87,5.42
+95,HYFI.K,AB High Yield ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,4.72,7.55
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,3.87,5.42
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,44,74,1.0,10.0,1.38,4.73,3.22,8.58
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,3.82,7.12
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,49,69,1.0,10.0,1.38,7.87,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,49,69,1.0,10.0,1.38,3.94,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,2.46,6.78
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,49,69,1.0,10.0,1.38,5.09,2.07,5.47
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,3.31,5.54
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,49,69,1.0,10.0,1.38,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,4.04,7.64
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,4.43,6.12
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,49,69,1.0,10.0,1.38,0.0,1.96,5.06
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,4.01,7.68
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,3.51,5.65
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,4.97,6.73
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,3.59,5.88
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,44,74,1.0,10.0,1.38,5.09,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,44,74,1.0,10.0,1.38,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,2.91,4.63
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,4.47,7.51
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,3.47,5.04
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,44,74,1.0,10.0,1.38,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,44,74,1.0,10.0,1.38,0.0,4.97,6.73
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,49,69,1.0,10.0,1.38,6.26,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,49,69,1.0,10.0,1.38,12.58,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,2.36,5.59
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,49,69,1.0,10.0,1.38,0.0,3.44,6.06
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,4.71,5.5
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,44,54,1.0,10.0,1.36,4.29,2.34,6.01
+95,HYFI.K,AB High Yield ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,4.29,5.61
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,44,54,1.0,10.0,1.36,2.33,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,44,54,1.0,10.0,1.36,17.96,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,44,54,1.0,10.0,1.36,10.8,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,4.72,7.55
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,44,54,1.0,10.0,1.36,5.55,3.22,8.58
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,3.87,5.42
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,44,54,1.0,10.0,1.36,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,4.04,7.64
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,44,54,1.0,10.0,1.36,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,44,54,1.0,10.0,1.36,0.0,4.97,6.73
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,3.87,5.42
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,4.97,6.73
+95,HYFI.K,AB High Yield ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,4.29,5.61
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,49,74,1.0,10.0,1.35,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,49,74,1.0,10.0,1.35,5.09,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,3.87,4.93
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,4.43,6.12
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,49,74,1.0,10.0,1.35,4.73,3.22,8.58
+95,INCM.K,Franklin Income Focus ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,4.72,7.55
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,3.44,6.06
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,49,74,1.0,10.0,1.35,7.87,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,3.31,5.54
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,49,74,1.0,10.0,1.35,12.49,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,60,14,49,74,1.0,10.0,1.35,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,49,74,1.0,10.0,1.35,6.59,3.41,7.52
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,49,74,1.0,10.0,1.35,3.61,2.34,6.01
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,49,74,1.0,10.0,1.35,0.0,1.96,5.06
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,44,64,1.0,10.0,1.25,4.29,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,3.87,5.42
+95,HYFI.K,AB High Yield ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,4.29,5.61
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,44,64,1.0,10.0,1.25,4.93,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,44,64,1.0,10.0,1.25,11.43,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,44,64,1.0,10.0,1.25,10.96,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,4.72,7.55
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,44,64,1.0,10.0,1.25,5.76,3.22,8.58
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,4.97,6.73
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,44,64,1.0,10.0,1.25,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,44,64,1.0,10.0,1.25,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,44,64,1.0,10.0,1.25,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,49,79,1.0,10.0,1.25,1.62,2.34,6.01
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,3.44,6.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,49,79,1.0,10.0,1.25,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,49,79,1.0,10.0,1.25,6.49,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,3.87,4.93
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,4.43,6.12
+95,HYFI.K,AB High Yield ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,49,79,1.0,10.0,1.25,9.77,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,3.31,5.54
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,49,79,1.0,10.0,1.25,12.23,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,49,79,1.0,10.0,1.25,2.8,3.41,7.52
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,49,79,1.0,10.0,1.25,0.0,3.87,5.42
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,49,79,1.0,10.0,1.25,0.0,1.96,5.06
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,49,79,1.0,10.0,1.25,4.64,3.22,8.58
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,3.44,6.06
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,44,74,1.0,10.0,1.23,4.18,2.34,6.01
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,44,74,1.0,10.0,1.23,5.4,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,44,74,1.0,10.0,1.23,12.96,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,44,74,1.0,10.0,1.23,9.77,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,4.29,5.61
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,4.97,6.73
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,44,74,1.0,10.0,1.23,4.64,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,44,74,1.0,10.0,1.23,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,44,74,1.0,10.0,1.23,0.0,1.96,5.06
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,44,74,1.0,10.0,1.23,0.0,3.87,5.42
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,4.97,6.73
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,44,79,1.0,10.0,1.2,3.03,3.41,7.52
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,44,79,1.0,10.0,1.2,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,44,79,1.0,10.0,1.2,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,44,79,1.0,10.0,1.2,5.09,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,3.87,4.93
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,4.43,6.12
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,44,79,1.0,10.0,1.2,4.73,3.22,8.58
+95,HYFI.K,AB High Yield ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,44,79,1.0,10.0,1.2,7.87,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,3.31,5.54
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,44,79,1.0,10.0,1.2,13.57,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,2.06,5.39
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,44,79,1.0,10.0,1.2,0.0,3.87,5.42
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,44,79,1.0,10.0,1.2,1.68,2.34,6.01
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,4.43,6.12
+95,HYFI.K,AB High Yield ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,4.29,5.61
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,4.97,6.73
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,44,69,1.0,10.0,1.2,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,44,69,1.0,10.0,1.2,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,3.87,4.93
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,44,69,1.0,10.0,1.2,3.89,3.22,8.58
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,3.44,6.06
+95,INCM.K,Franklin Income Focus ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,4.72,7.55
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,2.36,5.59
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,44,69,1.0,10.0,1.2,9.77,2.89,8.63
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,44,69,1.0,10.0,1.2,4.94,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,44,69,1.0,10.0,1.2,13.08,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,4.62,5.97
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,44,69,1.0,10.0,1.2,4.37,2.34,6.01
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,3.47,5.04
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,4.31,6.92
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,44,69,1.0,10.0,1.2,0.0,3.51,5.65
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,3.51,5.65
+95,INCM.K,Franklin Income Focus ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,49,79,1.0,10.0,1.16,7.87,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,3.31,5.54
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,3.87,5.42
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,3.47,5.04
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,49,79,1.0,10.0,1.16,12.49,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,49,79,1.0,10.0,1.16,3.03,3.41,7.52
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,49,79,1.0,10.0,1.16,4.73,3.22,8.58
+95,HYFI.K,AB High Yield ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,4.29,5.61
+95,WABF.O,Western Asset Bond ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,4.04,7.64
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,49,79,1.0,10.0,1.16,5.09,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,49,79,1.0,10.0,1.16,0.0,2.65,6.87
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,49,79,1.0,10.0,1.16,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,49,79,1.0,10.0,1.16,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,49,79,1.0,10.0,1.16,1.68,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,3.87,5.42
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,44,79,1.0,10.0,1.06,1.62,2.34,6.01
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,3.31,5.54
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,44,79,1.0,10.0,1.06,4.64,3.22,8.58
+95,MTBA.K,Simplify MBS ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,44,79,1.0,10.0,1.06,2.8,3.41,7.52
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,44,79,1.0,10.0,1.06,12.96,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,3.51,5.65
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,4.97,6.73
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,44,79,1.0,10.0,1.06,9.77,2.89,8.63
+95,HYFI.K,AB High Yield ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,4.72,7.55
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,4.43,6.12
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,4.71,5.5
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,3.44,6.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,44,79,1.0,10.0,1.06,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,3.59,5.88
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,3.87,4.93
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,2.91,4.63
+95,WABF.O,Western Asset Bond ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,44,79,1.0,10.0,1.06,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,44,79,1.0,10.0,1.06,0.0,2.46,6.78
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,3.47,5.04
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,39,64,1.0,10.0,0.96,10.96,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,3.31,5.54
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,3.51,5.65
+95,HYFI.K,AB High Yield ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,4.29,5.61
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,39,64,1.0,10.0,0.96,6.54,3.41,7.52
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,3.87,5.42
+95,INCM.K,Franklin Income Focus ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,4.72,7.55
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,39,64,1.0,10.0,0.96,0.0,2.65,6.87
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,39,64,1.0,10.0,0.96,5.76,3.22,8.58
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,2.91,4.63
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,4.97,6.73
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,4.43,6.12
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,3.44,6.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,39,64,1.0,10.0,0.96,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,3.59,5.88
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,39,64,1.0,10.0,0.96,5.42,2.34,6.01
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,4.71,5.5
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,3.87,4.93
+95,WABF.O,Western Asset Bond ETF,5,120,14,39,64,1.0,10.0,0.96,0.0,4.04,7.64
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,3.31,5.54
+95,HYFI.K,AB High Yield ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,39,54,1.0,10.0,0.91,10.8,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,4.01,7.68
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,2.36,5.59
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,3.47,5.04
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,2.06,5.39
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,4.43,6.12
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,39,54,1.0,10.0,0.91,5.55,3.22,8.58
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,39,54,1.0,10.0,0.91,5.52,2.34,6.01
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,39,54,1.0,10.0,0.91,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,39,54,1.0,10.0,0.91,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,4.97,6.73
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,39,54,1.0,10.0,0.91,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,39,54,1.0,10.0,0.91,5.45,3.41,7.52
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,39,59,1.0,10.0,0.9,6.54,3.41,7.52
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,3.87,4.93
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,3.87,5.42
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,4.97,6.73
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,3.44,6.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,39,59,1.0,10.0,0.9,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,39,59,1.0,10.0,0.9,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,2.46,6.78
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,39,59,1.0,10.0,0.9,5.42,2.34,6.01
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,4.43,6.12
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,3.51,5.65
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,39,59,1.0,10.0,0.9,5.66,3.22,8.58
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,3.47,5.04
+95,MTBA.K,Simplify MBS ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,2.06,5.39
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,3.31,5.54
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,39,59,1.0,10.0,0.9,9.27,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,4.72,7.55
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,4.01,7.68
+95,HYFI.K,AB High Yield ETF,5,120,14,39,59,1.0,10.0,0.9,0.0,4.29,5.61
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,2.07,5.47
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,3.82,7.12
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,4.71,5.5
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,39,74,1.0,10.0,0.88,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,4.04,7.64
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,4.47,7.51
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,39,74,1.0,10.0,0.88,4.64,3.22,8.58
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,39,74,1.0,10.0,0.88,0.0,1.96,5.06
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,3.31,5.54
+95,HYFI.K,AB High Yield ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,39,74,1.0,10.0,0.88,9.77,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,4.01,7.68
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,39,74,1.0,10.0,0.88,6.54,3.41,7.52
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,39,79,1.0,10.0,0.88,5.42,2.34,6.01
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,4.97,6.73
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,39,79,1.0,10.0,0.88,4.64,3.22,8.58
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,39,79,1.0,10.0,0.88,6.54,3.41,7.52
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,4.97,6.73
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,3.44,6.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,39,79,1.0,10.0,0.88,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,39,79,1.0,10.0,0.88,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,3.87,4.93
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,4.43,6.12
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,39,74,1.0,10.0,0.88,5.42,2.34,6.01
+95,HYFI.K,AB High Yield ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,39,79,1.0,10.0,0.88,9.77,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,3.31,5.54
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,120,14,39,79,1.0,10.0,0.88,0.0,2.06,5.39
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,3.87,5.42
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,39,74,1.0,10.0,0.88,0.0,3.44,6.06
+95,INCM.K,Franklin Income Focus ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,4.72,7.55
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,4.43,6.12
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,39,69,1.0,10.0,0.85,6.54,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,4.26,8.73
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,3.87,5.42
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,39,69,1.0,10.0,0.85,9.77,2.89,8.63
+95,HYFI.K,AB High Yield ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,39,69,1.0,10.0,0.85,3.89,3.22,8.58
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,39,69,1.0,10.0,0.85,5.42,2.34,6.01
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,3.87,4.93
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,2.91,4.63
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,2.46,6.78
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,4.97,6.73
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,39,69,1.0,10.0,0.85,0.0,1.96,5.06
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,4.47,7.51
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,39,69,1.0,10.0,0.85,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,39,69,1.0,10.0,0.85,0.0,3.82,7.12
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,4.71,5.5
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,39,74,1.0,10.0,0.84,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,4.04,7.64
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,3.44,6.06
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,39,74,1.0,10.0,0.84,0.0,1.96,5.06
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,4.43,6.12
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,4.97,6.73
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,3.87,4.93
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,4.31,6.92
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,39,74,1.0,10.0,0.84,7.97,3.22,8.58
+95,HYFI.K,AB High Yield ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,4.29,5.61
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,39,74,1.0,10.0,0.84,5.55,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,39,74,1.0,10.0,0.84,3.78,3.41,7.52
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,4.01,7.68
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,39,74,1.0,10.0,0.84,7.87,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,4.72,7.55
+95,MTBA.K,Simplify MBS ETF,5,60,14,39,74,1.0,10.0,0.84,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,39,69,1.0,10.0,0.79,3.78,3.41,7.52
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,3.87,5.42
+95,MTBA.K,Simplify MBS ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,2.06,5.39
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,39,69,1.0,10.0,0.79,4.97,2.34,6.01
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,2.46,6.78
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,39,69,1.0,10.0,0.79,7.87,2.89,8.63
+95,HYFI.K,AB High Yield ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,39,69,1.0,10.0,0.79,7.02,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,3.87,4.93
+95,INCM.K,Franklin Income Focus ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,4.72,7.55
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,3.82,7.12
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,3.59,5.88
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,2.07,5.47
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,4.97,6.73
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,3.44,6.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,39,69,1.0,10.0,0.79,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,4.47,7.51
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,4.26,8.73
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,2.91,4.63
+95,WABF.O,Western Asset Bond ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,39,69,1.0,10.0,0.79,0.0,2.65,6.87
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,39,69,1.0,10.0,0.79,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,4.04,7.64
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,39,64,1.0,10.0,0.78,0.0,2.65,6.87
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,4.71,5.5
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,39,64,1.0,10.0,0.78,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,3.44,6.06
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,39,64,1.0,10.0,0.78,6.27,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,4.43,6.12
+95,HYFI.K,AB High Yield ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,4.29,5.61
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,39,64,1.0,10.0,0.78,4.87,2.34,6.01
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,2.36,5.59
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,4.97,6.73
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,39,64,1.0,10.0,0.78,3.78,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,2.06,5.39
+95,INCM.K,Franklin Income Focus ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,4.72,7.55
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,4.26,8.73
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,39,64,1.0,10.0,0.78,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,39,64,1.0,10.0,0.78,8.51,2.89,8.63
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,39,79,1.0,10.0,0.73,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,4.71,5.5
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,3.87,5.42
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,39,79,1.0,10.0,0.73,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,3.44,6.06
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,3.87,4.93
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,3.51,5.65
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,39,79,1.0,10.0,0.73,2.13,2.34,6.01
+95,HYFI.K,AB High Yield ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,39,79,1.0,10.0,0.73,7.87,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,3.31,5.54
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,39,79,1.0,10.0,0.73,3.78,3.41,7.52
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,39,79,1.0,10.0,0.73,7.97,3.22,8.58
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,39,79,1.0,10.0,0.73,0.0,4.97,6.73
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,39,59,1.0,10.0,0.65,4.07,3.22,8.58
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,39,59,1.0,10.0,0.65,0.0,1.96,5.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,4.97,6.73
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,39,59,1.0,10.0,0.65,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,3.87,4.93
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,4.43,6.12
+95,HYFI.K,AB High Yield ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,39,59,1.0,10.0,0.65,7.02,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,3.31,5.54
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,39,59,1.0,10.0,0.65,3.78,3.41,7.52
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,3.87,5.42
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,39,59,1.0,10.0,0.65,4.61,2.34,6.01
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,39,59,1.0,10.0,0.65,0.0,3.44,6.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,4.97,6.73
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,3.87,5.42
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,4.43,6.12
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,34,64,1.0,10.0,0.62,7.5,3.41,7.52
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,34,64,1.0,10.0,0.62,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,34,64,1.0,10.0,0.62,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,3.87,4.93
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,34,64,1.0,10.0,0.62,2.69,2.34,6.01
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,34,64,1.0,10.0,0.62,0.0,3.22,8.58
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,3.51,5.65
+95,HYFI.K,AB High Yield ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,4.29,5.61
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,3.47,5.04
+95,MTBA.K,Simplify MBS ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,2.06,5.39
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,3.31,5.54
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,34,64,1.0,10.0,0.62,8.51,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,4.72,7.55
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,34,64,1.0,10.0,0.62,0.0,4.01,7.68
+95,WABF.O,Western Asset Bond ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,4.04,7.64
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,34,69,1.0,10.0,0.6,0.0,2.65,6.87
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,4.71,5.5
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,34,69,1.0,10.0,0.6,0.0,1.96,5.06
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,4.43,6.12
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,3.44,6.06
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,3.87,4.93
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,3.31,5.54
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,34,69,1.0,10.0,0.6,0.0,3.22,8.58
+95,HYFI.K,AB High Yield ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,34,69,1.0,10.0,0.6,7.87,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,4.01,7.68
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,2.06,5.39
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,34,69,1.0,10.0,0.6,7.5,3.41,7.52
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,34,74,1.0,10.0,0.6,7.5,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,2.06,5.39
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,3.87,5.42
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,34,74,1.0,10.0,0.6,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,34,79,1.0,10.0,0.6,2.69,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,34,79,1.0,10.0,0.6,7.5,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,34,79,1.0,10.0,0.6,7.87,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,4.29,5.61
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,4.71,5.5
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,34,74,1.0,10.0,0.6,7.87,2.89,8.63
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,4.31,6.92
+95,INCM.K,Franklin Income Focus ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,4.72,7.55
+95,WABF.O,Western Asset Bond ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,4.04,7.64
+95,HYFI.K,AB High Yield ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,34,74,1.0,10.0,0.6,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,34,74,1.0,10.0,0.6,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,34,74,1.0,10.0,0.6,0.0,2.65,6.87
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,34,79,1.0,10.0,0.6,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,3.87,4.93
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,4.47,7.51
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,34,69,1.0,10.0,0.6,2.69,2.34,6.01
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,34,69,1.0,10.0,0.6,0.0,4.97,6.73
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,2.46,6.78
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,4.97,6.73
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,3.44,6.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,34,79,1.0,10.0,0.6,0.0,1.96,5.06
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,34,74,1.0,10.0,0.6,2.69,2.34,6.01
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,3.59,5.88
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,4.04,7.64
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,2.07,5.47
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,34,79,1.0,10.0,0.6,0.0,2.91,4.63
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,34,79,1.0,10.0,0.6,0.0,2.65,6.87
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,4.71,5.5
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,34,59,1.0,10.0,0.57,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,4.04,7.64
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,2.91,4.63
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,3.87,4.93
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,34,59,1.0,10.0,0.57,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,4.97,6.73
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,2.46,6.78
+95,HYFI.K,AB High Yield ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,4.29,5.61
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,4.43,6.12
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,34,59,1.0,10.0,0.57,0.0,3.22,8.58
+95,INCM.K,Franklin Income Focus ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,34,59,1.0,10.0,0.57,7.02,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,4.31,6.92
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,3.31,5.54
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,4.26,8.73
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,3.87,5.42
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,34,59,1.0,10.0,0.57,2.69,2.34,6.01
+95,MTBA.K,Simplify MBS ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,34,59,1.0,10.0,0.57,7.5,3.41,7.52
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,34,59,1.0,10.0,0.57,0.0,4.01,7.68
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,3.87,5.42
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,4.71,5.5
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,4.43,6.12
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,39,54,1.0,10.0,0.56,1.94,3.41,7.52
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,39,54,1.0,10.0,0.56,4.37,2.34,6.01
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,4.97,6.73
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,3.44,6.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,39,54,1.0,10.0,0.56,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,2.91,4.63
+95,WABF.O,Western Asset Bond ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,39,54,1.0,10.0,0.56,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,2.07,5.47
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,3.87,4.93
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,3.82,7.12
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,39,54,1.0,10.0,0.56,4.07,3.22,8.58
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,3.31,5.54
+95,MTBA.K,Simplify MBS ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,2.36,5.59
+95,HYFI.K,AB High Yield ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,4.29,5.61
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,3.47,5.04
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,39,54,1.0,10.0,0.56,6.43,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,39,54,1.0,10.0,0.56,0.0,4.72,7.55
+95,INCM.K,Franklin Income Focus ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,34,54,1.0,10.0,0.52,6.43,2.89,8.63
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,2.36,5.59
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,3.31,5.54
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,3.51,5.65
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,34,54,1.0,10.0,0.52,6.88,3.41,7.52
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,3.87,5.42
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,34,54,1.0,10.0,0.52,2.29,2.34,6.01
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,34,54,1.0,10.0,0.52,0.0,3.22,8.58
+95,HYFI.K,AB High Yield ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,4.29,5.61
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,2.07,5.47
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,4.43,6.12
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,4.71,5.5
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,3.87,4.93
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,4.97,6.73
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,3.44,6.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,34,54,1.0,10.0,0.52,0.0,1.96,5.06
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,2.91,4.63
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,4.47,7.51
+95,WABF.O,Western Asset Bond ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,34,54,1.0,10.0,0.52,0.0,2.65,6.87
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,34,54,1.0,10.0,0.52,0.0,2.46,6.78
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,4.62,5.97
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,34,74,1.0,10.0,0.4,0.0,1.96,5.06
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,2.36,5.59
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,34,79,1.0,10.0,0.4,6.54,3.41,7.52
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,3.87,5.42
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,34,79,1.0,10.0,0.4,5.42,2.34,6.01
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,4.97,6.73
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,3.44,6.06
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,2.07,5.47
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,34,74,1.0,10.0,0.4,0.0,2.65,6.87
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,3.87,4.93
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,3.47,5.04
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,34,59,1.0,10.0,0.4,5.42,2.34,6.01
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,4.01,7.68
+95,HYFI.K,AB High Yield ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,4.29,5.61
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,3.44,6.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,34,79,1.0,10.0,0.4,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,34,79,1.0,10.0,0.4,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,3.87,4.93
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,4.43,6.12
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,34,79,1.0,10.0,0.4,0.0,3.22,8.58
+95,HYFI.K,AB High Yield ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,34,79,1.0,10.0,0.4,0.0,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,4.31,6.92
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,4.43,6.12
+95,INCM.K,Franklin Income Focus ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,4.72,7.55
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,3.87,5.42
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,3.51,5.65
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,34,64,1.0,10.0,0.4,5.42,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,34,64,1.0,10.0,0.4,6.54,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,3.47,5.04
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,3.31,5.54
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,4.47,7.51
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,34,64,1.0,10.0,0.4,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,34,64,1.0,10.0,0.4,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,3.82,7.12
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,34,59,1.0,10.0,0.4,0.0,1.96,5.06
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,3.59,5.88
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,34,64,1.0,10.0,0.4,0.0,2.65,6.87
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,34,59,1.0,10.0,0.4,0.0,2.89,8.63
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,34,59,1.0,10.0,0.4,6.54,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,4.31,6.92
+95,INCM.K,Franklin Income Focus ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,4.72,7.55
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,2.91,4.63
+95,HYFI.K,AB High Yield ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,34,59,1.0,10.0,0.4,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,34,59,1.0,10.0,0.4,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,34,59,1.0,10.0,0.4,0.0,4.71,5.5
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,2.07,5.47
+95,WABF.O,Western Asset Bond ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,4.04,7.64
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,34,74,1.0,10.0,0.4,0.0,2.89,8.63
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,34,74,1.0,10.0,0.4,5.42,2.34,6.01
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,34,69,1.0,10.0,0.4,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,34,69,1.0,10.0,0.4,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.97,6.73
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,3.87,5.42
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,2.46,6.78
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,34,74,1.0,10.0,0.4,6.54,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,34,74,1.0,10.0,0.4,0.0,4.31,6.92
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,3.82,7.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,3.87,4.93
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,4.71,5.5
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.26,8.73
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,34,64,1.0,10.0,0.4,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,34,64,1.0,10.0,0.4,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,34,69,1.0,10.0,0.4,5.42,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,34,69,1.0,10.0,0.4,6.54,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,2.06,5.39
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.62,5.97
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.43,6.12
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,34,69,1.0,10.0,0.4,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,34,69,1.0,10.0,0.4,0.0,3.22,8.58
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,34,74,1.0,10.0,0.4,0.0,3.22,8.58
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,34,79,1.0,10.0,0.4,0.0,4.97,6.73
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,3.44,6.06
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,34,54,1.0,10.0,0.37,5.52,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,34,54,1.0,10.0,0.37,5.45,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,34,54,1.0,10.0,0.37,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,34,54,1.0,10.0,0.37,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,34,54,1.0,10.0,0.37,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,34,54,1.0,10.0,0.37,0.0,1.96,5.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,34,54,1.0,10.0,0.37,0.0,4.97,6.73
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,4.43,6.12
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,2.06,5.39
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,4.97,6.73
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,3.44,6.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,29,64,1.0,10.0,0.28,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,29,64,1.0,10.0,0.28,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,3.87,4.93
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,29,64,1.0,10.0,0.28,0.0,3.22,8.58
+95,HYFI.K,AB High Yield ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,29,64,1.0,10.0,0.28,8.51,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,3.31,5.54
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,4.26,8.73
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,29,64,1.0,10.0,0.28,0.0,3.87,5.42
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,4.43,6.12
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,3.51,5.65
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,3.41,7.52
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,3.87,5.42
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,2.34,6.01
+95,MTBA.K,Simplify MBS ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,29,74,1.0,10.0,0.26,7.87,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,4.29,5.61
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,3.47,5.04
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,3.31,5.54
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,3.87,5.42
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,4.01,7.68
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,4.97,6.73
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,3.44,6.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,29,69,1.0,10.0,0.26,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,29,69,1.0,10.0,0.26,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,3.87,4.93
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,3.41,7.52
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,29,69,1.0,10.0,0.26,0.0,3.22,8.58
+95,HYFI.K,AB High Yield ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,4.29,5.61
+95,INCM.K,Franklin Income Focus ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,29,69,1.0,10.0,0.26,7.87,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,29,69,1.0,10.0,0.26,0.0,4.31,6.92
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,29,74,1.0,10.0,0.26,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,2.46,6.78
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,29,79,1.0,10.0,0.26,7.87,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,29,79,1.0,10.0,0.26,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,29,79,1.0,10.0,0.26,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,29,79,1.0,10.0,0.26,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,4.97,6.73
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,3.31,5.54
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,3.51,5.65
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,29,74,1.0,10.0,0.26,0.0,1.96,5.06
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,29,74,1.0,10.0,0.26,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,4.47,7.51
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,3.44,6.06
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,3.47,5.04
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,29,79,1.0,10.0,0.26,0.0,2.36,5.59
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,29,74,1.0,10.0,0.26,0.0,2.34,6.01
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,3.87,5.42
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,29,59,1.0,10.0,0.23,0.0,3.22,8.58
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,29,59,1.0,10.0,0.23,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,2.91,4.63
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,4.71,5.5
+95,WABF.O,Western Asset Bond ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,4.04,7.64
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,29,59,1.0,10.0,0.23,0.0,2.65,6.87
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,2.07,5.47
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,3.82,7.12
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,2.46,6.78
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,3.87,4.93
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,4.43,6.12
+95,HYFI.K,AB High Yield ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,4.29,5.61
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,4.97,6.73
+95,INCM.K,Franklin Income Focus ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,4.72,7.55
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,29,59,1.0,10.0,0.23,7.02,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,3.31,5.54
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,3.51,5.65
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,3.47,5.04
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,2.36,5.59
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,4.62,5.97
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,4.26,8.73
+95,MTBA.K,Simplify MBS ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,2.06,5.39
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,3.41,7.52
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,29,59,1.0,10.0,0.23,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,4.97,6.73
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,3.41,7.52
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,3.87,5.42
+95,MTBA.K,Simplify MBS ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,29,54,1.0,10.0,0.21,6.43,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,29,54,1.0,10.0,0.21,0.0,3.22,8.58
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,3.44,6.06
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,29,54,1.0,10.0,0.21,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,29,54,1.0,10.0,0.21,0.0,1.96,5.06
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,29,54,1.0,10.0,0.21,0.0,2.34,6.01
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,2.34,6.01
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.97,6.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.62,5.97
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,24,79,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,24,79,1.0,10.0,0.0,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.97,6.73
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,3.87,5.42
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.26,8.73
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,2.36,5.59
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,3.82,7.12
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,24,54,1.0,10.0,0.0,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,24,54,1.0,10.0,0.0,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,2.07,5.47
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,2.07,5.47
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,2.46,6.78
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,24,74,1.0,10.0,0.0,0.0,3.22,8.58
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,3.87,5.42
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,24,74,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,24,74,1.0,10.0,0.0,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,2.34,6.01
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,3.41,7.52
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,3.87,4.93
+95,MTBA.K,Simplify MBS ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,24,79,1.0,10.0,0.0,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,24,79,1.0,10.0,0.0,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.43,6.12
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,24,54,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.71,5.5
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,24,64,1.0,10.0,0.0,0.0,2.89,8.63
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.31,6.92
+95,INCM.K,Franklin Income Focus ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.72,7.55
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,2.91,4.63
+95,HYFI.K,AB High Yield ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,24,64,1.0,10.0,0.0,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,24,64,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,24,64,1.0,10.0,0.0,0.0,1.96,5.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,24,59,1.0,10.0,0.0,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,24,54,1.0,10.0,0.0,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,24,59,1.0,10.0,0.0,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,24,59,1.0,10.0,0.0,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,24,59,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.71,5.5
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.43,6.12
+95,HYFI.K,AB High Yield ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.29,5.61
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.97,6.73
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,2.07,5.47
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,24,59,1.0,10.0,0.0,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,24,59,1.0,10.0,0.0,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,3.82,7.12
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,24,59,1.0,10.0,0.0,0.0,2.65,6.87
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.26,8.73
+95,WABF.O,Western Asset Bond ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,24,59,1.0,10.0,0.0,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.62,5.97
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.62,5.97
+95,MTBA.K,Simplify MBS ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,2.06,5.39
+95,INCM.K,Franklin Income Focus ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.72,7.55
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.43,6.12
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,24,54,1.0,10.0,0.0,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,24,54,1.0,10.0,0.0,0.0,3.22,8.58
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,3.87,4.93
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,3.41,7.52
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,24,54,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,24,54,1.0,10.0,0.0,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,3.87,5.42
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,3.51,5.65
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,24,69,1.0,10.0,0.0,0.0,1.96,5.06
+95,INCM.K,Franklin Income Focus ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,24,69,1.0,10.0,0.0,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,24,69,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.47,7.51
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,3.44,6.06
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,3.31,5.54
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,24,74,1.0,10.0,0.0,0.0,2.89,8.63
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,24,69,1.0,10.0,0.0,0.0,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,60,14,24,64,1.0,10.0,0.0,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,60,14,24,64,1.0,10.0,0.0,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,60,14,24,64,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,60,14,24,64,1.0,10.0,0.0,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,3.51,5.65
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,3.44,6.06
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,2.34,6.01
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,3.44,6.06
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.62,5.97
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,29,64,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,29,64,1.0,10.0,0.0,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.26,8.73
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,2.36,5.59
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,3.82,7.12
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,29,69,1.0,10.0,0.0,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,29,69,1.0,10.0,0.0,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,2.07,5.47
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,2.07,5.47
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,2.46,6.78
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,29,59,1.0,10.0,0.0,0.0,3.22,8.58
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,3.87,5.42
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,29,59,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,29,59,1.0,10.0,0.0,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,2.34,6.01
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,3.41,7.52
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,3.87,4.93
+95,MTBA.K,Simplify MBS ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,29,64,1.0,10.0,0.0,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,29,64,1.0,10.0,0.0,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.43,6.12
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,29,69,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.71,5.5
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,29,79,1.0,10.0,0.0,0.0,2.89,8.63
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.31,6.92
+95,INCM.K,Franklin Income Focus ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.72,7.55
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,2.91,4.63
+95,HYFI.K,AB High Yield ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,29,79,1.0,10.0,0.0,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,29,79,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,29,79,1.0,10.0,0.0,0.0,1.96,5.06
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,29,74,1.0,10.0,0.0,0.0,1.96,5.06
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.47,7.51
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,3.59,5.88
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,29,69,1.0,10.0,0.0,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,29,74,1.0,10.0,0.0,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,29,74,1.0,10.0,0.0,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,29,74,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.71,5.5
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.43,6.12
+95,HYFI.K,AB High Yield ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.29,5.61
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,3.87,5.42
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,2.07,5.47
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,24,74,1.0,10.0,0.0,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,24,74,1.0,10.0,0.0,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,3.82,7.12
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,24,74,1.0,10.0,0.0,0.0,2.65,6.87
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.26,8.73
+95,WABF.O,Western Asset Bond ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,24,74,1.0,10.0,0.0,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.62,5.97
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.62,5.97
+95,MTBA.K,Simplify MBS ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,2.06,5.39
+95,INCM.K,Franklin Income Focus ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.72,7.55
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.43,6.12
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,24,69,1.0,10.0,0.0,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,24,69,1.0,10.0,0.0,0.0,3.22,8.58
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,3.87,4.93
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,3.41,7.52
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,24,69,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,24,69,1.0,10.0,0.0,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,3.87,5.42
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,3.51,5.65
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,29,54,1.0,10.0,0.0,0.0,1.96,5.06
+95,INCM.K,Franklin Income Focus ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,29,54,1.0,10.0,0.0,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,29,54,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.47,7.51
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,3.44,6.06
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,3.31,5.54
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,3.51,5.65
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,29,59,1.0,10.0,0.0,0.0,2.89,8.63
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,29,54,1.0,10.0,0.0,0.0,2.89,8.63
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.31,6.92
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.01,7.68
+95,VPLS.O,Vanguard Core-Plus Bond ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,3.31,5.54
+95,TDSC.O,Cabana Target Drawdown 10 ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.01,7.68
+95,FIIG.K,First Trust Intermediate Duration Invt Gr ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.31,6.92
+95,IAPR.K,Innovator Intl Developed Power Buffer ETF - April,5,120,14,24,79,1.0,10.0,0.0,0.0,2.89,8.63
+95,INCM.K,Franklin Income Focus ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.72,7.55
+95,HYFI.K,AB High Yield ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.29,5.61
+95,UAPR.K,Innovator US Equity Ultra Buffer ETF - April,5,120,14,24,79,1.0,10.0,0.0,0.0,3.22,8.58
+95,NBOS.K,Neuberger Berman Option Strategy ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.43,6.12
+95,MBS,Angel Oak Mortgage Backed Securities ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,3.87,4.93
+95,BEMB.K,iShares JPMorgan Broad USD Emerging Mkts Bd ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,2.46,6.78
+95,HYSA.K,BondBloxx USD High Yield Bond Sector Rotation ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,3.82,7.12
+95,ARB,AltShares Merger Arbitrage ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,2.07,5.47
+95,USIN.O,WisdomTree 7-10 Year Laddered Treasury Fund,5,120,14,24,79,1.0,10.0,0.0,0.0,2.65,6.87
+95,WABF.O,Western Asset Bond ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.04,7.64
+95,XFIX.O,F/m Opportunistic Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.71,5.5
+95,SPCZ.K,RiverNorth Enhanced Pre-Merger SPAC ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,2.91,4.63
+95,IQHI.K,IQ MacKay ESG High Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,3.59,5.88
+95,XYLE.K,Global X S&P 500 ESG Covered Call ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.47,7.51
+95,OCTD.K,Innovator Premium Income 10 Barrier ETF - October,5,120,14,24,79,1.0,10.0,0.0,0.0,1.96,5.06
+95,SPAQ.O,Horizon Kinetics SPAC Active ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,3.44,6.06
+95,BMDL.O,VictoryShares WestEnd Economic Cycle Bond ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.97,6.73
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,2.34,6.01
+95,SMTH.K,ALPS Smith Core Plus Bond ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,3.87,5.42
+95,AOM,iShares Core Moderate Allocation ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,3.41,7.52
+95,MTBA.K,Simplify MBS ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,2.06,5.39
+95,HEQT.K,Simplify Hedged Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.26,8.73
+95,CGMS.K,Capital Group US Multi-Sector Inc. ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.62,5.97
+95,EVTR.K,Eaton Vance Total Return Bond ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,2.36,5.59
+95,PYLD.K,PIMCO Multisector Bond Active ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,3.47,5.04
+95,SCYB.K,Schwab High Yield Bond ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,3.51,5.65
+95,AOK,iShares Core Conservative Allocation ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,2.34,6.01

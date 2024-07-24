@@ -1,0 +1,577 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+147,SDS,ProShares UltraShort S&P500,5,120,14,24,54,1.0,10.0,29.08,-27.76,-24.58,33.98
+147,SDS,ProShares UltraShort S&P500,5,120,14,24,59,1.0,10.0,29.08,-27.76,-24.58,33.98
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,24,54,1.0,10.0,29.08,365.58,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,24,54,1.0,10.0,29.08,0.0,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,24,54,1.0,10.0,29.08,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,24,54,1.0,10.0,29.08,-23.31,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,24,54,1.0,10.0,29.08,0.0,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,24,54,1.0,10.0,29.08,-26.69,-24.09,38.57
+147,DXD,ProShares UltraShort Dow30,5,120,14,24,59,1.0,10.0,29.08,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,24,59,1.0,10.0,29.08,365.58,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,24,59,1.0,10.0,29.08,0.0,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,24,59,1.0,10.0,29.08,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,24,59,1.0,10.0,29.08,-23.31,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,24,59,1.0,10.0,29.08,0.0,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,24,59,1.0,10.0,29.08,-26.69,-24.09,38.57
+147,DXD,ProShares UltraShort Dow30,5,120,14,24,54,1.0,10.0,29.08,-25.46,-22.03,32.86
+147,DXD,ProShares UltraShort Dow30,5,60,14,24,54,1.0,10.0,28.43,-25.01,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,60,14,24,54,1.0,10.0,28.43,-27.82,-24.58,33.98
+147,SDS,ProShares UltraShort S&P500,5,60,14,24,59,1.0,10.0,28.43,-27.82,-24.58,33.98
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,24,54,1.0,10.0,28.43,357.1,-21.12,34.69
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,24,59,1.0,10.0,28.43,-28.21,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,24,59,1.0,10.0,28.43,-29.6,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,60,14,24,59,1.0,10.0,28.43,0.0,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,24,59,1.0,10.0,28.43,357.1,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,60,14,24,59,1.0,10.0,28.43,-25.01,-22.03,32.86
+147,SIJ,ProShares UltraShort Industrials,5,60,14,24,59,1.0,10.0,28.43,-25.83,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,24,59,1.0,10.0,28.43,6.84,-24.76,34.63
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,24,54,1.0,10.0,28.43,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,24,54,1.0,10.0,28.43,-28.21,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,24,54,1.0,10.0,28.43,-29.6,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,60,14,24,54,1.0,10.0,28.43,0.0,-23.23,36.45
+147,SIJ,ProShares UltraShort Industrials,5,60,14,24,54,1.0,10.0,28.43,-25.83,-24.09,38.57
+147,RAYS.O,Global X Solar ETF,5,120,14,29,54,1.0,10.0,22.7,0.0,-23.23,36.45
+147,DXD,ProShares UltraShort Dow30,5,120,14,29,59,1.0,10.0,22.7,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,29,54,1.0,10.0,22.7,365.58,-21.12,34.69
+147,SIJ,ProShares UltraShort Industrials,5,120,14,29,59,1.0,10.0,22.7,-26.31,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,29,59,1.0,10.0,22.7,-44.81,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,29,59,1.0,10.0,22.7,-29.11,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,29,59,1.0,10.0,22.7,-29.71,-25.42,35.46
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,29,59,1.0,10.0,22.7,365.58,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,29,59,1.0,10.0,22.7,0.0,-23.23,36.45
+147,SDS,ProShares UltraShort S&P500,5,120,14,29,59,1.0,10.0,22.7,-28.58,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,120,14,29,54,1.0,10.0,22.7,-26.31,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,29,54,1.0,10.0,22.7,-44.81,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,29,54,1.0,10.0,22.7,-29.11,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,29,54,1.0,10.0,22.7,-29.71,-25.42,35.46
+147,SDS,ProShares UltraShort S&P500,5,120,14,29,54,1.0,10.0,22.7,-28.58,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,120,14,29,54,1.0,10.0,22.7,-25.46,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,60,14,29,59,1.0,10.0,-15.63,-28.2,-24.58,33.98
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,29,59,1.0,10.0,-15.63,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,29,59,1.0,10.0,-15.63,-29.2,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,29,59,1.0,10.0,-15.63,-29.6,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,60,14,29,59,1.0,10.0,-15.63,0.0,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,29,59,1.0,10.0,-15.63,8.14,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,60,14,29,59,1.0,10.0,-15.63,-25.01,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,60,14,29,54,1.0,10.0,-15.63,-28.2,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,60,14,29,54,1.0,10.0,-15.63,-28.01,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,29,54,1.0,10.0,-15.63,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,29,54,1.0,10.0,-15.63,-29.2,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,29,54,1.0,10.0,-15.63,-29.6,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,60,14,29,54,1.0,10.0,-15.63,0.0,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,29,54,1.0,10.0,-15.63,8.14,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,60,14,29,54,1.0,10.0,-15.63,-25.01,-22.03,32.86
+147,SIJ,ProShares UltraShort Industrials,5,60,14,29,59,1.0,10.0,-15.63,-28.01,-24.09,38.57
+147,RAYS.O,Global X Solar ETF,5,60,14,24,64,1.0,10.0,-18.49,0.0,-23.23,36.45
+147,DXD,ProShares UltraShort Dow30,5,60,14,24,64,1.0,10.0,-18.49,-25.01,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,60,14,24,64,1.0,10.0,-18.49,-27.82,-24.58,33.98
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,24,64,1.0,10.0,-18.49,-18.29,-21.12,34.69
+147,SDS,ProShares UltraShort S&P500,5,60,14,24,69,1.0,10.0,-18.49,-27.82,-24.58,33.98
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,24,64,1.0,10.0,-18.49,-29.6,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,60,14,24,69,1.0,10.0,-18.49,0.0,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,24,69,1.0,10.0,-18.49,-29.6,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,24,69,1.0,10.0,-18.49,-28.21,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,24,69,1.0,10.0,-18.49,6.84,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,60,14,24,69,1.0,10.0,-18.49,-25.83,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,60,14,24,74,1.0,10.0,-18.49,-27.82,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,60,14,24,74,1.0,10.0,-18.49,-25.01,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,24,74,1.0,10.0,-18.49,-18.29,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,60,14,24,74,1.0,10.0,-18.49,0.0,-23.23,36.45
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,24,64,1.0,10.0,-18.49,-28.21,-24.72,32.22
+147,DXD,ProShares UltraShort Dow30,5,60,14,24,69,1.0,10.0,-18.49,-25.01,-22.03,32.86
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,24,74,1.0,10.0,-18.49,-29.6,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,24,74,1.0,10.0,-18.49,-28.21,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,24,74,1.0,10.0,-18.49,6.84,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,60,14,24,74,1.0,10.0,-18.49,-25.83,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,60,14,24,79,1.0,10.0,-18.49,-27.82,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,60,14,24,79,1.0,10.0,-18.49,-25.01,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,24,79,1.0,10.0,-18.49,-18.29,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,60,14,24,79,1.0,10.0,-18.49,0.0,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,24,79,1.0,10.0,-18.49,-29.6,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,24,79,1.0,10.0,-18.49,-28.21,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,24,79,1.0,10.0,-18.49,6.84,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,60,14,24,79,1.0,10.0,-18.49,-25.83,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,24,64,1.0,10.0,-18.49,6.84,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,60,14,24,64,1.0,10.0,-18.49,-25.83,-24.09,38.57
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,24,69,1.0,10.0,-18.49,-18.29,-21.12,34.69
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,29,64,1.0,10.0,-18.93,-29.6,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,60,14,29,64,1.0,10.0,-18.93,0.0,-23.23,36.45
+147,SDS,ProShares UltraShort S&P500,5,60,14,29,64,1.0,10.0,-18.93,-28.2,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,60,14,29,64,1.0,10.0,-18.93,-25.01,-22.03,32.86
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,29,64,1.0,10.0,-18.93,-29.2,-24.72,32.22
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,29,64,1.0,10.0,-18.93,-18.29,-21.12,34.69
+147,SIJ,ProShares UltraShort Industrials,5,60,14,29,79,1.0,10.0,-18.93,-28.01,-24.09,38.57
+147,DXD,ProShares UltraShort Dow30,5,60,14,29,69,1.0,10.0,-18.93,-25.01,-22.03,32.86
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,29,79,1.0,10.0,-18.93,6.84,-24.76,34.63
+147,RAYS.O,Global X Solar ETF,5,60,14,29,74,1.0,10.0,-18.93,0.0,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,29,74,1.0,10.0,-18.93,-18.29,-21.12,34.69
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,29,74,1.0,10.0,-18.93,-29.6,-25.42,35.46
+147,DXD,ProShares UltraShort Dow30,5,60,14,29,74,1.0,10.0,-18.93,-25.01,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,60,14,29,74,1.0,10.0,-18.93,-28.2,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,60,14,29,69,1.0,10.0,-18.93,-28.01,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,29,69,1.0,10.0,-18.93,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,29,69,1.0,10.0,-18.93,-29.2,-24.72,32.22
+147,RAYS.O,Global X Solar ETF,5,60,14,29,69,1.0,10.0,-18.93,0.0,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,29,69,1.0,10.0,-18.93,-18.29,-21.12,34.69
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,29,69,1.0,10.0,-18.93,-29.6,-25.42,35.46
+147,SDS,ProShares UltraShort S&P500,5,60,14,29,69,1.0,10.0,-18.93,-28.2,-24.58,33.98
+147,SDS,ProShares UltraShort S&P500,5,60,14,29,79,1.0,10.0,-18.93,-28.2,-24.58,33.98
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,29,79,1.0,10.0,-18.93,-29.2,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,29,79,1.0,10.0,-18.93,-29.6,-25.42,35.46
+147,SIJ,ProShares UltraShort Industrials,5,60,14,29,64,1.0,10.0,-18.93,-28.01,-24.09,38.57
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,29,79,1.0,10.0,-18.93,-18.29,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,60,14,29,79,1.0,10.0,-18.93,-25.01,-22.03,32.86
+147,RAYS.O,Global X Solar ETF,5,60,14,29,79,1.0,10.0,-18.93,0.0,-23.23,36.45
+147,SIJ,ProShares UltraShort Industrials,5,60,14,29,74,1.0,10.0,-18.93,-28.01,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,29,74,1.0,10.0,-18.93,6.84,-24.76,34.63
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,29,64,1.0,10.0,-18.93,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,29,74,1.0,10.0,-18.93,-29.2,-24.72,32.22
+147,SIJ,ProShares UltraShort Industrials,5,120,14,24,64,1.0,10.0,-19.23,-26.69,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,120,14,24,64,1.0,10.0,-19.23,-27.76,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,120,14,24,64,1.0,10.0,-19.23,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,24,64,1.0,10.0,-19.23,-20.88,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,24,64,1.0,10.0,-19.23,0.0,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,24,64,1.0,10.0,-19.23,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,24,64,1.0,10.0,-19.23,-23.31,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,24,64,1.0,10.0,-19.23,0.0,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,24,69,1.0,10.0,-19.23,-23.31,-24.72,32.22
+147,SDS,ProShares UltraShort S&P500,5,120,14,24,69,1.0,10.0,-19.23,-27.76,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,120,14,24,69,1.0,10.0,-19.23,-25.46,-22.03,32.86
+147,SIJ,ProShares UltraShort Industrials,5,120,14,24,79,1.0,10.0,-19.23,-26.69,-24.09,38.57
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,24,79,1.0,10.0,-19.23,-23.31,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,24,79,1.0,10.0,-19.23,-29.71,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,120,14,24,79,1.0,10.0,-19.23,0.0,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,24,79,1.0,10.0,-19.23,-20.88,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,120,14,24,79,1.0,10.0,-19.23,-25.46,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,120,14,24,79,1.0,10.0,-19.23,-27.76,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,120,14,24,74,1.0,10.0,-19.23,-26.69,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,24,74,1.0,10.0,-19.23,0.0,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,24,74,1.0,10.0,-19.23,-23.31,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,24,74,1.0,10.0,-19.23,-29.71,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,120,14,24,74,1.0,10.0,-19.23,0.0,-23.23,36.45
+147,DXD,ProShares UltraShort Dow30,5,120,14,24,74,1.0,10.0,-19.23,-25.46,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,120,14,24,74,1.0,10.0,-19.23,-27.76,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,120,14,24,69,1.0,10.0,-19.23,-26.69,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,24,69,1.0,10.0,-19.23,0.0,-24.76,34.63
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,24,69,1.0,10.0,-19.23,-29.71,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,120,14,24,69,1.0,10.0,-19.23,0.0,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,24,69,1.0,10.0,-19.23,-20.88,-21.12,34.69
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,24,79,1.0,10.0,-19.23,0.0,-24.76,34.63
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,24,74,1.0,10.0,-19.23,-20.88,-21.12,34.69
+147,SDS,ProShares UltraShort S&P500,5,60,14,34,54,1.0,10.0,-21.9,-29.09,-24.58,33.98
+147,RAYS.O,Global X Solar ETF,5,60,14,34,54,1.0,10.0,-21.9,-35.74,-23.23,36.45
+147,DXD,ProShares UltraShort Dow30,5,60,14,34,54,1.0,10.0,-21.9,-25.01,-22.03,32.86
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,34,54,1.0,10.0,-21.9,-29.6,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,34,54,1.0,10.0,-21.9,-29.2,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,34,54,1.0,10.0,-21.9,6.84,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,60,14,34,54,1.0,10.0,-21.9,-28.01,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,60,14,34,59,1.0,10.0,-21.9,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,60,14,34,59,1.0,10.0,-21.9,-25.01,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,34,59,1.0,10.0,-21.9,-5.36,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,60,14,34,59,1.0,10.0,-21.9,-35.74,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,34,59,1.0,10.0,-21.9,-29.6,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,34,59,1.0,10.0,-21.9,-29.2,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,34,59,1.0,10.0,-21.9,6.84,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,60,14,34,59,1.0,10.0,-21.9,-28.01,-24.09,38.57
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,34,54,1.0,10.0,-21.9,-5.36,-21.12,34.69
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,39,54,1.0,10.0,-22.72,-11.96,-21.12,34.69
+147,SDS,ProShares UltraShort S&P500,5,60,14,39,59,1.0,10.0,-22.72,-29.09,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,60,14,39,59,1.0,10.0,-22.72,-28.01,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,39,59,1.0,10.0,-22.72,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,39,59,1.0,10.0,-22.72,-29.2,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,39,59,1.0,10.0,-22.72,-29.6,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,60,14,39,59,1.0,10.0,-22.72,-35.74,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,39,59,1.0,10.0,-22.72,-11.96,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,60,14,39,59,1.0,10.0,-22.72,-25.01,-22.03,32.86
+147,SIJ,ProShares UltraShort Industrials,5,60,14,39,54,1.0,10.0,-22.72,-28.01,-24.09,38.57
+147,RAYS.O,Global X Solar ETF,5,60,14,39,54,1.0,10.0,-22.72,-35.74,-23.23,36.45
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,39,54,1.0,10.0,-22.72,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,39,54,1.0,10.0,-22.72,-29.2,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,39,54,1.0,10.0,-22.72,-29.6,-25.42,35.46
+147,SDS,ProShares UltraShort S&P500,5,60,14,39,54,1.0,10.0,-22.72,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,60,14,39,54,1.0,10.0,-22.72,-25.01,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,60,14,49,54,1.0,10.0,-23.23,-29.09,-24.58,33.98
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,49,54,1.0,10.0,-23.23,-11.96,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,60,14,49,54,1.0,10.0,-23.23,-25.01,-22.03,32.86
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,49,54,1.0,10.0,-23.23,6.84,-24.76,34.63
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,49,59,1.0,10.0,-23.23,-29.6,-25.42,35.46
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,49,54,1.0,10.0,-23.23,-29.6,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,49,54,1.0,10.0,-23.23,-29.2,-24.72,32.22
+147,SIJ,ProShares UltraShort Industrials,5,60,14,49,54,1.0,10.0,-23.23,-28.01,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,60,14,49,59,1.0,10.0,-23.23,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,60,14,49,59,1.0,10.0,-23.23,-25.01,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,49,59,1.0,10.0,-23.23,-11.96,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,60,14,49,59,1.0,10.0,-23.23,-39.79,-23.23,36.45
+147,RAYS.O,Global X Solar ETF,5,60,14,49,54,1.0,10.0,-23.23,-39.79,-23.23,36.45
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,49,59,1.0,10.0,-23.23,-29.2,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,49,59,1.0,10.0,-23.23,6.84,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,60,14,49,59,1.0,10.0,-23.23,-28.01,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,34,74,1.0,10.0,-23.51,6.84,-24.76,34.63
+147,SDS,ProShares UltraShort S&P500,5,60,14,34,79,1.0,10.0,-23.51,-29.09,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,60,14,34,74,1.0,10.0,-23.51,-28.01,-24.09,38.57
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,34,74,1.0,10.0,-23.51,-29.6,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,34,74,1.0,10.0,-23.51,-29.2,-24.72,32.22
+147,RAYS.O,Global X Solar ETF,5,60,14,34,74,1.0,10.0,-23.51,-35.74,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,34,79,1.0,10.0,-23.51,-18.29,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,60,14,34,79,1.0,10.0,-23.51,-25.01,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,60,14,39,64,1.0,10.0,-23.51,-29.09,-24.58,33.98
+147,RAYS.O,Global X Solar ETF,5,60,14,34,79,1.0,10.0,-23.51,-35.74,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,34,79,1.0,10.0,-23.51,-29.6,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,34,79,1.0,10.0,-23.51,-29.2,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,34,79,1.0,10.0,-23.51,6.84,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,60,14,34,79,1.0,10.0,-23.51,-28.01,-24.09,38.57
+147,DXD,ProShares UltraShort Dow30,5,60,14,34,74,1.0,10.0,-23.51,-25.01,-22.03,32.86
+147,DXD,ProShares UltraShort Dow30,5,60,14,39,64,1.0,10.0,-23.51,-25.01,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,34,74,1.0,10.0,-23.51,-18.29,-21.12,34.69
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,34,69,1.0,10.0,-23.51,-29.6,-25.42,35.46
+147,SDS,ProShares UltraShort S&P500,5,60,14,34,74,1.0,10.0,-23.51,-29.09,-24.58,33.98
+147,SDS,ProShares UltraShort S&P500,5,60,14,39,79,1.0,10.0,-23.51,-29.09,-24.58,33.98
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,39,74,1.0,10.0,-23.51,6.84,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,60,14,34,69,1.0,10.0,-23.51,-28.01,-24.09,38.57
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,39,74,1.0,10.0,-23.51,-29.6,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,60,14,39,74,1.0,10.0,-23.51,-35.74,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,39,74,1.0,10.0,-23.51,-18.29,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,60,14,39,74,1.0,10.0,-23.51,-25.01,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,60,14,39,74,1.0,10.0,-23.51,-29.09,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,60,14,39,69,1.0,10.0,-23.51,-28.01,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,39,69,1.0,10.0,-23.51,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,39,69,1.0,10.0,-23.51,-29.2,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,39,69,1.0,10.0,-23.51,-29.6,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,60,14,39,69,1.0,10.0,-23.51,-35.74,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,39,69,1.0,10.0,-23.51,-18.29,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,60,14,39,69,1.0,10.0,-23.51,-25.01,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,60,14,39,69,1.0,10.0,-23.51,-29.09,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,60,14,39,64,1.0,10.0,-23.51,-28.01,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,39,64,1.0,10.0,-23.51,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,39,64,1.0,10.0,-23.51,-29.2,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,39,64,1.0,10.0,-23.51,-29.6,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,60,14,39,64,1.0,10.0,-23.51,-35.74,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,39,64,1.0,10.0,-23.51,-18.29,-21.12,34.69
+147,SIJ,ProShares UltraShort Industrials,5,60,14,39,74,1.0,10.0,-23.51,-28.01,-24.09,38.57
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,39,74,1.0,10.0,-23.51,-29.2,-24.72,32.22
+147,DXD,ProShares UltraShort Dow30,5,60,14,39,79,1.0,10.0,-23.51,-25.01,-22.03,32.86
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,34,64,1.0,10.0,-23.51,-29.6,-25.42,35.46
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,34,69,1.0,10.0,-23.51,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,34,69,1.0,10.0,-23.51,-29.2,-24.72,32.22
+147,RAYS.O,Global X Solar ETF,5,60,14,34,69,1.0,10.0,-23.51,-35.74,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,34,69,1.0,10.0,-23.51,-18.29,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,60,14,34,69,1.0,10.0,-23.51,-25.01,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,60,14,34,69,1.0,10.0,-23.51,-29.09,-24.58,33.98
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,39,79,1.0,10.0,-23.51,-18.29,-21.12,34.69
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,34,64,1.0,10.0,-23.51,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,34,64,1.0,10.0,-23.51,-29.2,-24.72,32.22
+147,SIJ,ProShares UltraShort Industrials,5,60,14,34,64,1.0,10.0,-23.51,-28.01,-24.09,38.57
+147,RAYS.O,Global X Solar ETF,5,60,14,34,64,1.0,10.0,-23.51,-35.74,-23.23,36.45
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,39,79,1.0,10.0,-23.51,6.84,-24.76,34.63
+147,RAYS.O,Global X Solar ETF,5,60,14,39,79,1.0,10.0,-23.51,-35.74,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,34,64,1.0,10.0,-23.51,-18.29,-21.12,34.69
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,39,79,1.0,10.0,-23.51,-29.2,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,39,79,1.0,10.0,-23.51,-29.6,-25.42,35.46
+147,SIJ,ProShares UltraShort Industrials,5,60,14,39,79,1.0,10.0,-23.51,-28.01,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,60,14,34,64,1.0,10.0,-23.51,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,60,14,34,64,1.0,10.0,-23.51,-25.01,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,60,14,49,79,1.0,10.0,-24.02,-29.09,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,60,14,49,79,1.0,10.0,-24.02,-28.01,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,49,79,1.0,10.0,-24.02,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,49,79,1.0,10.0,-24.02,-29.2,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,49,79,1.0,10.0,-24.02,-29.6,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,60,14,49,79,1.0,10.0,-24.02,-39.79,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,49,79,1.0,10.0,-24.02,-18.29,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,60,14,49,79,1.0,10.0,-24.02,-25.01,-22.03,32.86
+147,SIJ,ProShares UltraShort Industrials,5,60,14,49,64,1.0,10.0,-24.02,-28.01,-24.09,38.57
+147,SIJ,ProShares UltraShort Industrials,5,60,14,49,74,1.0,10.0,-24.02,-28.01,-24.09,38.57
+147,RAYS.O,Global X Solar ETF,5,60,14,49,69,1.0,10.0,-24.02,-39.79,-23.23,36.45
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,49,74,1.0,10.0,-24.02,6.84,-24.76,34.63
+147,SDS,ProShares UltraShort S&P500,5,60,14,49,64,1.0,10.0,-24.02,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,60,14,49,64,1.0,10.0,-24.02,-25.01,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,49,64,1.0,10.0,-24.02,-18.29,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,60,14,49,64,1.0,10.0,-24.02,-39.79,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,49,64,1.0,10.0,-24.02,-29.6,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,49,64,1.0,10.0,-24.02,-29.2,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,49,64,1.0,10.0,-24.02,6.84,-24.76,34.63
+147,DXD,ProShares UltraShort Dow30,5,60,14,49,69,1.0,10.0,-24.02,-25.01,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,49,69,1.0,10.0,-24.02,-18.29,-21.12,34.69
+147,SDS,ProShares UltraShort S&P500,5,60,14,49,69,1.0,10.0,-24.02,-29.09,-24.58,33.98
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,49,69,1.0,10.0,-24.02,-29.6,-25.42,35.46
+147,DXD,ProShares UltraShort Dow30,5,60,14,49,74,1.0,10.0,-24.02,-25.01,-22.03,32.86
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,49,74,1.0,10.0,-24.02,-29.2,-24.72,32.22
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,49,69,1.0,10.0,-24.02,-29.2,-24.72,32.22
+147,RAYS.O,Global X Solar ETF,5,60,14,49,74,1.0,10.0,-24.02,-39.79,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,49,74,1.0,10.0,-24.02,-18.29,-21.12,34.69
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,49,74,1.0,10.0,-24.02,-29.6,-25.42,35.46
+147,SDS,ProShares UltraShort S&P500,5,60,14,49,74,1.0,10.0,-24.02,-29.09,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,60,14,49,69,1.0,10.0,-24.02,-28.01,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,49,69,1.0,10.0,-24.02,6.84,-24.76,34.63
+147,SDS,ProShares UltraShort S&P500,5,60,14,44,59,1.0,10.0,-24.59,-29.09,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,60,14,44,59,1.0,10.0,-24.59,-28.01,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,44,59,1.0,10.0,-24.59,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,44,59,1.0,10.0,-24.59,-29.2,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,44,59,1.0,10.0,-24.59,-29.6,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,60,14,44,59,1.0,10.0,-24.59,-50.71,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,44,59,1.0,10.0,-24.59,-11.96,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,60,14,44,59,1.0,10.0,-24.59,-25.01,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,60,14,44,54,1.0,10.0,-24.59,-29.09,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,60,14,44,54,1.0,10.0,-24.59,-28.01,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,44,54,1.0,10.0,-24.59,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,44,54,1.0,10.0,-24.59,-29.2,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,44,54,1.0,10.0,-24.59,-29.6,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,60,14,44,54,1.0,10.0,-24.59,-50.71,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,44,54,1.0,10.0,-24.59,-11.96,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,60,14,44,54,1.0,10.0,-24.59,-25.01,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,60,14,44,64,1.0,10.0,-25.38,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,60,14,44,64,1.0,10.0,-25.38,-25.01,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,44,64,1.0,10.0,-25.38,-18.29,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,60,14,44,64,1.0,10.0,-25.38,-50.71,-23.23,36.45
+147,SIJ,ProShares UltraShort Industrials,5,60,14,44,64,1.0,10.0,-25.38,-28.01,-24.09,38.57
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,44,64,1.0,10.0,-25.38,-29.6,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,44,64,1.0,10.0,-25.38,-29.2,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,44,64,1.0,10.0,-25.38,6.84,-24.76,34.63
+147,RAYS.O,Global X Solar ETF,5,60,14,44,69,1.0,10.0,-25.38,-50.71,-23.23,36.45
+147,SDS,ProShares UltraShort S&P500,5,60,14,44,69,1.0,10.0,-25.38,-29.09,-24.58,33.98
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,44,74,1.0,10.0,-25.38,-29.2,-24.72,32.22
+147,SIJ,ProShares UltraShort Industrials,5,60,14,44,79,1.0,10.0,-25.38,-28.01,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,44,79,1.0,10.0,-25.38,6.84,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,44,79,1.0,10.0,-25.38,-29.2,-24.72,32.22
+147,DXD,ProShares UltraShort Dow30,5,60,14,44,69,1.0,10.0,-25.38,-25.01,-22.03,32.86
+147,RAYS.O,Global X Solar ETF,5,60,14,44,79,1.0,10.0,-25.38,-50.71,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,44,79,1.0,10.0,-25.38,-18.29,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,60,14,44,79,1.0,10.0,-25.38,-25.01,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,60,14,44,79,1.0,10.0,-25.38,-29.09,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,60,14,44,74,1.0,10.0,-25.38,-28.01,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,44,74,1.0,10.0,-25.38,6.84,-24.76,34.63
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,44,79,1.0,10.0,-25.38,-29.6,-25.42,35.46
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,44,74,1.0,10.0,-25.38,-29.6,-25.42,35.46
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,60,14,44,69,1.0,10.0,-25.38,6.84,-24.76,34.63
+147,RAYS.O,Global X Solar ETF,5,60,14,44,74,1.0,10.0,-25.38,-50.71,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,44,69,1.0,10.0,-25.38,-18.29,-21.12,34.69
+147,RXD,ProShares UltraShort Health Care ETF,5,60,14,44,69,1.0,10.0,-25.38,-29.2,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,60,14,44,69,1.0,10.0,-25.38,-29.6,-25.42,35.46
+147,SIJ,ProShares UltraShort Industrials,5,60,14,44,69,1.0,10.0,-25.38,-28.01,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,60,14,44,74,1.0,10.0,-25.38,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,60,14,44,74,1.0,10.0,-25.38,-25.01,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,60,14,44,74,1.0,10.0,-25.38,-18.29,-21.12,34.69
+147,SDS,ProShares UltraShort S&P500,5,120,14,29,79,1.0,10.0,-25.61,-28.58,-24.58,33.98
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,29,74,1.0,10.0,-25.61,-20.88,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,29,74,1.0,10.0,-25.61,0.0,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,29,74,1.0,10.0,-25.61,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,29,74,1.0,10.0,-25.61,-29.11,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,29,74,1.0,10.0,-25.61,-44.81,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,29,74,1.0,10.0,-25.61,-26.31,-24.09,38.57
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,29,79,1.0,10.0,-25.61,-29.11,-24.72,32.22
+147,DXD,ProShares UltraShort Dow30,5,120,14,29,79,1.0,10.0,-25.61,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,29,79,1.0,10.0,-25.61,-20.88,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,29,79,1.0,10.0,-25.61,0.0,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,29,79,1.0,10.0,-25.61,-29.71,-25.42,35.46
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,29,79,1.0,10.0,-25.61,-44.81,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,29,79,1.0,10.0,-25.61,-26.31,-24.09,38.57
+147,DXD,ProShares UltraShort Dow30,5,120,14,29,74,1.0,10.0,-25.61,-25.46,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,120,14,29,74,1.0,10.0,-25.61,-28.58,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,120,14,29,69,1.0,10.0,-25.61,-26.31,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,29,64,1.0,10.0,-25.61,-44.81,-24.76,34.63
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,29,69,1.0,10.0,-25.61,-44.81,-24.76,34.63
+147,DXD,ProShares UltraShort Dow30,5,120,14,29,64,1.0,10.0,-25.61,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,29,64,1.0,10.0,-25.61,-20.88,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,29,64,1.0,10.0,-25.61,0.0,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,29,64,1.0,10.0,-25.61,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,29,64,1.0,10.0,-25.61,-29.11,-24.72,32.22
+147,SDS,ProShares UltraShort S&P500,5,120,14,29,64,1.0,10.0,-25.61,-28.58,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,120,14,29,64,1.0,10.0,-25.61,-26.31,-24.09,38.57
+147,DXD,ProShares UltraShort Dow30,5,120,14,29,69,1.0,10.0,-25.61,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,29,69,1.0,10.0,-25.61,-20.88,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,29,69,1.0,10.0,-25.61,0.0,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,29,69,1.0,10.0,-25.61,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,29,69,1.0,10.0,-25.61,-29.11,-24.72,32.22
+147,SDS,ProShares UltraShort S&P500,5,120,14,29,69,1.0,10.0,-25.61,-28.58,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,120,14,49,54,1.0,10.0,-27.52,-28.87,-24.09,38.57
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,49,59,1.0,10.0,-27.52,-29.11,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,49,59,1.0,10.0,-27.52,-29.71,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,120,14,49,59,1.0,10.0,-27.52,-39.74,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,49,59,1.0,10.0,-27.52,6.61,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,120,14,49,59,1.0,10.0,-27.52,-25.46,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,120,14,49,59,1.0,10.0,-27.52,-29.09,-24.58,33.98
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,49,54,1.0,10.0,-27.52,-29.71,-25.42,35.46
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,49,54,1.0,10.0,-27.52,-44.81,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,49,54,1.0,10.0,-27.52,-29.11,-24.72,32.22
+147,RAYS.O,Global X Solar ETF,5,120,14,49,54,1.0,10.0,-27.52,-39.74,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,49,54,1.0,10.0,-27.52,6.61,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,120,14,49,54,1.0,10.0,-27.52,-25.46,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,120,14,49,54,1.0,10.0,-27.52,-29.09,-24.58,33.98
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,49,59,1.0,10.0,-27.52,-44.81,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,49,59,1.0,10.0,-27.52,-28.87,-24.09,38.57
+147,SIJ,ProShares UltraShort Industrials,5,120,14,44,59,1.0,10.0,-29.54,-28.87,-24.09,38.57
+147,SIJ,ProShares UltraShort Industrials,5,120,14,39,59,1.0,10.0,-29.54,-28.87,-24.09,38.57
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,39,54,1.0,10.0,-29.54,6.61,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,39,54,1.0,10.0,-29.54,-55.88,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,39,54,1.0,10.0,-29.54,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,39,54,1.0,10.0,-29.54,-29.11,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,39,54,1.0,10.0,-29.54,-44.81,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,39,54,1.0,10.0,-29.54,-28.87,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,120,14,39,59,1.0,10.0,-29.54,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,120,14,39,59,1.0,10.0,-29.54,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,39,59,1.0,10.0,-29.54,6.61,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,39,59,1.0,10.0,-29.54,-55.88,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,39,59,1.0,10.0,-29.54,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,39,59,1.0,10.0,-29.54,-29.11,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,39,59,1.0,10.0,-29.54,-44.81,-24.76,34.63
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,44,59,1.0,10.0,-29.54,-44.81,-24.76,34.63
+147,SDS,ProShares UltraShort S&P500,5,120,14,39,54,1.0,10.0,-29.54,-29.09,-24.58,33.98
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,44,59,1.0,10.0,-29.54,-29.11,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,44,59,1.0,10.0,-29.54,-29.71,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,120,14,44,59,1.0,10.0,-29.54,-55.88,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,44,59,1.0,10.0,-29.54,6.61,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,120,14,44,59,1.0,10.0,-29.54,-25.46,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,120,14,44,59,1.0,10.0,-29.54,-29.09,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,120,14,44,54,1.0,10.0,-29.54,-28.87,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,44,54,1.0,10.0,-29.54,-44.81,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,44,54,1.0,10.0,-29.54,-29.11,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,44,54,1.0,10.0,-29.54,-29.71,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,120,14,44,54,1.0,10.0,-29.54,-55.88,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,44,54,1.0,10.0,-29.54,6.61,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,120,14,44,54,1.0,10.0,-29.54,-25.46,-22.03,32.86
+147,DXD,ProShares UltraShort Dow30,5,120,14,39,54,1.0,10.0,-29.54,-25.46,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,120,14,44,54,1.0,10.0,-29.54,-29.09,-24.58,33.98
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,49,69,1.0,10.0,-30.96,-29.11,-24.72,32.22
+147,SIJ,ProShares UltraShort Industrials,5,120,14,49,69,1.0,10.0,-30.96,-28.87,-24.09,38.57
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,49,69,1.0,10.0,-30.96,-29.71,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,120,14,49,69,1.0,10.0,-30.96,-39.74,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,49,69,1.0,10.0,-30.96,-20.88,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,120,14,49,69,1.0,10.0,-30.96,-25.46,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,120,14,49,69,1.0,10.0,-30.96,-29.09,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,120,14,49,64,1.0,10.0,-30.96,-28.87,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,49,64,1.0,10.0,-30.96,-44.81,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,49,64,1.0,10.0,-30.96,-29.11,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,49,64,1.0,10.0,-30.96,-29.71,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,120,14,49,64,1.0,10.0,-30.96,-39.74,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,49,64,1.0,10.0,-30.96,-20.88,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,120,14,49,64,1.0,10.0,-30.96,-25.46,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,120,14,49,64,1.0,10.0,-30.96,-29.09,-24.58,33.98
+147,SDS,ProShares UltraShort S&P500,5,120,14,49,74,1.0,10.0,-30.96,-29.09,-24.58,33.98
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,49,79,1.0,10.0,-30.96,-44.81,-24.76,34.63
+147,DXD,ProShares UltraShort Dow30,5,120,14,49,74,1.0,10.0,-30.96,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,49,74,1.0,10.0,-30.96,-20.88,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,49,74,1.0,10.0,-30.96,-39.74,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,49,74,1.0,10.0,-30.96,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,49,74,1.0,10.0,-30.96,-29.11,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,49,74,1.0,10.0,-30.96,-44.81,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,49,74,1.0,10.0,-30.96,-28.87,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,120,14,49,79,1.0,10.0,-30.96,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,120,14,49,79,1.0,10.0,-30.96,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,49,79,1.0,10.0,-30.96,-20.88,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,49,79,1.0,10.0,-30.96,-39.74,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,49,79,1.0,10.0,-30.96,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,49,79,1.0,10.0,-30.96,-29.11,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,49,69,1.0,10.0,-30.96,-44.81,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,49,79,1.0,10.0,-30.96,-28.87,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,120,14,39,74,1.0,10.0,-32.98,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,120,14,44,64,1.0,10.0,-32.98,-25.46,-22.03,32.86
+147,RAYS.O,Global X Solar ETF,5,120,14,44,64,1.0,10.0,-32.98,-55.88,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,44,64,1.0,10.0,-32.98,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,44,64,1.0,10.0,-32.98,-29.11,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,44,64,1.0,10.0,-32.98,-44.81,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,44,64,1.0,10.0,-32.98,-28.87,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,120,14,44,69,1.0,10.0,-32.98,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,120,14,44,69,1.0,10.0,-32.98,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,44,69,1.0,10.0,-32.98,-20.88,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,44,69,1.0,10.0,-32.98,-55.88,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,44,69,1.0,10.0,-32.98,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,44,69,1.0,10.0,-32.98,-29.11,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,44,69,1.0,10.0,-32.98,-44.81,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,44,69,1.0,10.0,-32.98,-28.87,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,120,14,44,74,1.0,10.0,-32.98,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,120,14,44,74,1.0,10.0,-32.98,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,44,74,1.0,10.0,-32.98,-20.88,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,44,74,1.0,10.0,-32.98,-55.88,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,44,74,1.0,10.0,-32.98,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,44,74,1.0,10.0,-32.98,-29.11,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,44,74,1.0,10.0,-32.98,-44.81,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,44,74,1.0,10.0,-32.98,-28.87,-24.09,38.57
+147,DXD,ProShares UltraShort Dow30,5,120,14,39,74,1.0,10.0,-32.98,-25.46,-22.03,32.86
+147,DXD,ProShares UltraShort Dow30,5,120,14,44,79,1.0,10.0,-32.98,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,44,79,1.0,10.0,-32.98,-20.88,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,44,79,1.0,10.0,-32.98,-55.88,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,44,79,1.0,10.0,-32.98,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,44,79,1.0,10.0,-32.98,-29.11,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,44,79,1.0,10.0,-32.98,-44.81,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,44,79,1.0,10.0,-32.98,-28.87,-24.09,38.57
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,44,64,1.0,10.0,-32.98,-20.88,-21.12,34.69
+147,SDS,ProShares UltraShort S&P500,5,120,14,44,79,1.0,10.0,-32.98,-29.09,-24.58,33.98
+147,SDS,ProShares UltraShort S&P500,5,120,14,44,64,1.0,10.0,-32.98,-29.09,-24.58,33.98
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,39,69,1.0,10.0,-32.98,-44.81,-24.76,34.63
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,39,74,1.0,10.0,-32.98,-20.88,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,39,74,1.0,10.0,-32.98,-55.88,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,39,74,1.0,10.0,-32.98,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,39,74,1.0,10.0,-32.98,-29.11,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,39,74,1.0,10.0,-32.98,-44.81,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,39,74,1.0,10.0,-32.98,-28.87,-24.09,38.57
+147,SIJ,ProShares UltraShort Industrials,5,120,14,39,69,1.0,10.0,-32.98,-28.87,-24.09,38.57
+147,DXD,ProShares UltraShort Dow30,5,120,14,39,79,1.0,10.0,-32.98,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,39,79,1.0,10.0,-32.98,-20.88,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,39,79,1.0,10.0,-32.98,-55.88,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,39,79,1.0,10.0,-32.98,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,39,79,1.0,10.0,-32.98,-29.11,-24.72,32.22
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,39,79,1.0,10.0,-32.98,-44.81,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,39,79,1.0,10.0,-32.98,-28.87,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,120,14,39,79,1.0,10.0,-32.98,-29.09,-24.58,33.98
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,39,69,1.0,10.0,-32.98,-29.11,-24.72,32.22
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,39,64,1.0,10.0,-32.98,-29.11,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,39,69,1.0,10.0,-32.98,-29.71,-25.42,35.46
+147,SDS,ProShares UltraShort S&P500,5,120,14,39,64,1.0,10.0,-32.98,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,120,14,39,64,1.0,10.0,-32.98,-25.46,-22.03,32.86
+147,RAYS.O,Global X Solar ETF,5,120,14,39,64,1.0,10.0,-32.98,-55.88,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,39,64,1.0,10.0,-32.98,-29.71,-25.42,35.46
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,39,64,1.0,10.0,-32.98,-20.88,-21.12,34.69
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,39,64,1.0,10.0,-32.98,-44.81,-24.76,34.63
+147,SIJ,ProShares UltraShort Industrials,5,120,14,39,64,1.0,10.0,-32.98,-28.87,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,120,14,39,69,1.0,10.0,-32.98,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,120,14,39,69,1.0,10.0,-32.98,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,39,69,1.0,10.0,-32.98,-20.88,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,39,69,1.0,10.0,-32.98,-55.88,-23.23,36.45
+147,SDS,ProShares UltraShort S&P500,5,120,14,34,59,1.0,10.0,-34.01,-29.09,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,120,14,34,59,1.0,10.0,-34.01,-28.87,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,34,59,1.0,10.0,-34.01,-44.81,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,34,59,1.0,10.0,-34.01,-29.11,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,34,59,1.0,10.0,-34.01,-29.71,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,120,14,34,59,1.0,10.0,-34.01,-91.62,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,34,59,1.0,10.0,-34.01,6.61,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,120,14,34,59,1.0,10.0,-34.01,-25.46,-22.03,32.86
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,34,54,1.0,10.0,-34.01,-29.71,-25.42,35.46
+147,SIJ,ProShares UltraShort Industrials,5,120,14,34,54,1.0,10.0,-34.01,-28.87,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,34,54,1.0,10.0,-34.01,-44.81,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,34,54,1.0,10.0,-34.01,-29.11,-24.72,32.22
+147,RAYS.O,Global X Solar ETF,5,120,14,34,54,1.0,10.0,-34.01,-91.62,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,34,54,1.0,10.0,-34.01,6.61,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,120,14,34,54,1.0,10.0,-34.01,-25.46,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,120,14,34,54,1.0,10.0,-34.01,-29.09,-24.58,33.98
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,34,64,1.0,10.0,-37.44,-44.81,-24.76,34.63
+147,SDS,ProShares UltraShort S&P500,5,120,14,34,64,1.0,10.0,-37.44,-29.09,-24.58,33.98
+147,DXD,ProShares UltraShort Dow30,5,120,14,34,64,1.0,10.0,-37.44,-25.46,-22.03,32.86
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,34,64,1.0,10.0,-37.44,-20.88,-21.12,34.69
+147,RAYS.O,Global X Solar ETF,5,120,14,34,64,1.0,10.0,-37.44,-91.62,-23.23,36.45
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,34,64,1.0,10.0,-37.44,-29.71,-25.42,35.46
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,34,64,1.0,10.0,-37.44,-29.11,-24.72,32.22
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,34,69,1.0,10.0,-37.44,-29.11,-24.72,32.22
+147,SIJ,ProShares UltraShort Industrials,5,120,14,34,64,1.0,10.0,-37.44,-28.87,-24.09,38.57
+147,SDS,ProShares UltraShort S&P500,5,120,14,34,69,1.0,10.0,-37.44,-29.09,-24.58,33.98
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,34,79,1.0,10.0,-37.44,-44.81,-24.76,34.63
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,34,79,1.0,10.0,-37.44,-29.11,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,34,79,1.0,10.0,-37.44,-29.71,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,120,14,34,79,1.0,10.0,-37.44,-91.62,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,34,79,1.0,10.0,-37.44,-20.88,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,120,14,34,79,1.0,10.0,-37.44,-25.46,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,120,14,34,79,1.0,10.0,-37.44,-29.09,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,120,14,34,74,1.0,10.0,-37.44,-28.87,-24.09,38.57
+147,SIJ,ProShares UltraShort Industrials,5,120,14,34,79,1.0,10.0,-37.44,-28.87,-24.09,38.57
+147,RXD,ProShares UltraShort Health Care ETF,5,120,14,34,74,1.0,10.0,-37.44,-29.11,-24.72,32.22
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,34,74,1.0,10.0,-37.44,-29.71,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,120,14,34,74,1.0,10.0,-37.44,-91.62,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,34,74,1.0,10.0,-37.44,-20.88,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,120,14,34,74,1.0,10.0,-37.44,-25.46,-22.03,32.86
+147,SDS,ProShares UltraShort S&P500,5,120,14,34,74,1.0,10.0,-37.44,-29.09,-24.58,33.98
+147,SIJ,ProShares UltraShort Industrials,5,120,14,34,69,1.0,10.0,-37.44,-28.87,-24.09,38.57
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,34,69,1.0,10.0,-37.44,-44.81,-24.76,34.63
+147,SCC,ProShares UltraShort Consumer Discretionary,5,120,14,34,69,1.0,10.0,-37.44,-29.71,-25.42,35.46
+147,RAYS.O,Global X Solar ETF,5,120,14,34,69,1.0,10.0,-37.44,-91.62,-23.23,36.45
+147,TOKE.K,Cambria Cannabis ETF,5,120,14,34,69,1.0,10.0,-37.44,-20.88,-21.12,34.69
+147,DXD,ProShares UltraShort Dow30,5,120,14,34,69,1.0,10.0,-37.44,-25.46,-22.03,32.86
+147,KMET.K,KraneShares Electrification Metals Strategy ETF,5,120,14,34,74,1.0,10.0,-37.44,-44.81,-24.76,34.63

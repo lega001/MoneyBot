@@ -1,0 +1,289 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+48,UWM,ProShares Ultra Russell2000,5,60,14,44,54,1.0,10.0,202.76,40.5,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,60,14,44,54,1.0,10.0,202.76,27.13,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,54,1.0,10.0,202.76,743.4,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,54,1.0,10.0,202.76,0.0,19.77,44.59
+48,UWM,ProShares Ultra Russell2000,5,60,14,39,54,1.0,10.0,200.63,44.04,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,60,14,39,54,1.0,10.0,200.63,15.07,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,54,1.0,10.0,200.63,743.4,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,54,1.0,10.0,200.63,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,54,1.0,10.0,174.41,637.84,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,54,1.0,10.0,174.41,0.0,19.77,44.59
+48,UWM,ProShares Ultra Russell2000,5,120,14,44,54,1.0,10.0,174.41,39.57,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,120,14,44,54,1.0,10.0,174.41,20.21,20.78,43.36
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,64,1.0,10.0,161.3,0.0,19.77,44.59
+48,UWM,ProShares Ultra Russell2000,5,60,14,39,64,1.0,10.0,161.3,46.43,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,60,14,39,64,1.0,10.0,161.3,22.09,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,64,1.0,10.0,161.3,576.69,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,60,14,39,69,1.0,10.0,160.65,50.89,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,69,1.0,10.0,160.65,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,69,1.0,10.0,160.65,576.69,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,39,69,1.0,10.0,160.65,15.02,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,54,1.0,10.0,159.46,637.84,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,39,54,1.0,10.0,159.46,0.0,20.78,43.36
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,54,1.0,10.0,159.46,0.0,19.77,44.59
+48,UWM,ProShares Ultra Russell2000,5,120,14,39,54,1.0,10.0,159.46,0.0,25.21,43.93
+48,UWM,ProShares Ultra Russell2000,5,60,14,39,59,1.0,10.0,158.97,42.53,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,59,1.0,10.0,158.97,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,59,1.0,10.0,158.97,576.69,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,39,59,1.0,10.0,158.97,16.67,20.78,43.36
+48,UYM,ProShares Ultra Materials,5,60,14,44,64,1.0,10.0,157.13,22.09,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,64,1.0,10.0,157.13,576.69,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,64,1.0,10.0,157.13,0.0,19.77,44.59
+48,UWM,ProShares Ultra Russell2000,5,60,14,44,64,1.0,10.0,157.13,29.73,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,60,14,44,69,1.0,10.0,156.09,15.02,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,44,69,1.0,10.0,156.09,32.66,25.21,43.93
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,69,1.0,10.0,156.09,576.69,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,69,1.0,10.0,156.09,0.0,19.77,44.59
+48,UYM,ProShares Ultra Materials,5,60,14,39,74,1.0,10.0,155.19,17.34,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,39,74,1.0,10.0,155.19,26.75,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,74,1.0,10.0,155.19,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,74,1.0,10.0,155.19,576.69,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,60,14,39,79,1.0,10.0,154.66,29.02,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,79,1.0,10.0,154.66,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,79,1.0,10.0,154.66,576.69,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,39,79,1.0,10.0,154.66,12.93,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,44,59,1.0,10.0,154.57,24.92,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,60,14,44,59,1.0,10.0,154.57,16.67,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,59,1.0,10.0,154.57,576.69,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,59,1.0,10.0,154.57,0.0,19.77,44.59
+48,UYM,ProShares Ultra Materials,5,60,14,44,74,1.0,10.0,153.79,17.34,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,74,1.0,10.0,153.79,576.69,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,74,1.0,10.0,153.79,0.0,19.77,44.59
+48,UWM,ProShares Ultra Russell2000,5,60,14,44,74,1.0,10.0,153.79,21.15,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,79,1.0,10.0,152.07,0.0,19.77,44.59
+48,UWM,ProShares Ultra Russell2000,5,60,14,44,79,1.0,10.0,152.07,18.65,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,60,14,44,79,1.0,10.0,152.07,12.93,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,79,1.0,10.0,152.07,576.69,19.83,47.7
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,54,1.0,10.0,146.36,509.96,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,49,54,1.0,10.0,146.36,33.61,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,49,54,1.0,10.0,146.36,41.86,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,54,1.0,10.0,146.36,0.0,19.77,44.59
+48,UWM,ProShares Ultra Russell2000,5,120,14,44,64,1.0,10.0,141.92,53.51,25.21,43.93
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,64,1.0,10.0,141.92,487.51,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,64,1.0,10.0,141.92,0.0,19.77,44.59
+48,UYM,ProShares Ultra Materials,5,120,14,44,64,1.0,10.0,141.92,26.64,20.78,43.36
+48,UYM,ProShares Ultra Materials,5,120,14,44,69,1.0,10.0,141.18,16.11,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,44,69,1.0,10.0,141.18,61.1,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,69,1.0,10.0,141.18,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,69,1.0,10.0,141.18,487.51,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,120,14,44,59,1.0,10.0,138.53,45.82,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,59,1.0,10.0,138.53,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,59,1.0,10.0,138.53,487.51,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,44,59,1.0,10.0,138.53,20.79,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,74,1.0,10.0,129.91,487.51,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,74,1.0,10.0,129.91,0.0,19.77,44.59
+48,UWM,ProShares Ultra Russell2000,5,120,14,44,74,1.0,10.0,129.91,13.53,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,120,14,44,74,1.0,10.0,129.91,18.58,20.78,43.36
+48,UYM,ProShares Ultra Materials,5,120,14,44,79,1.0,10.0,128.65,13.56,20.78,43.36
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,79,1.0,10.0,128.65,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,79,1.0,10.0,128.65,487.51,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,120,14,44,79,1.0,10.0,128.65,13.53,25.21,43.93
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,74,1.0,10.0,121.88,487.51,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,69,1.0,10.0,121.88,0.0,19.77,44.59
+48,UYM,ProShares Ultra Materials,5,120,14,39,69,1.0,10.0,121.88,0.0,20.78,43.36
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,64,1.0,10.0,121.88,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,64,1.0,10.0,121.88,487.51,19.83,47.7
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,59,1.0,10.0,121.88,487.51,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,39,64,1.0,10.0,121.88,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,39,69,1.0,10.0,121.88,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,59,1.0,10.0,121.88,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,69,1.0,10.0,121.88,487.51,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,120,14,39,74,1.0,10.0,121.88,0.0,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,120,14,39,59,1.0,10.0,121.88,0.0,20.78,43.36
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,74,1.0,10.0,121.88,0.0,19.77,44.59
+48,UWM,ProShares Ultra Russell2000,5,120,14,39,59,1.0,10.0,121.88,0.0,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,120,14,39,74,1.0,10.0,121.88,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,39,79,1.0,10.0,121.88,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,79,1.0,10.0,121.88,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,79,1.0,10.0,121.88,487.51,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,39,79,1.0,10.0,121.88,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,39,64,1.0,10.0,121.88,0.0,25.21,43.93
+48,UWM,ProShares Ultra Russell2000,5,120,14,49,54,1.0,10.0,108.26,34.49,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,120,14,49,54,1.0,10.0,108.26,16.69,20.78,43.36
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,54,1.0,10.0,108.26,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,54,1.0,10.0,108.26,381.87,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,49,64,1.0,10.0,15.67,19.71,20.78,43.36
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,64,1.0,10.0,15.67,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,64,1.0,10.0,15.67,18.59,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,60,14,49,64,1.0,10.0,15.67,24.4,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,60,14,49,69,1.0,10.0,15.21,14.48,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,49,69,1.0,10.0,15.21,27.78,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,69,1.0,10.0,15.21,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,69,1.0,10.0,15.21,18.59,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,120,14,49,64,1.0,10.0,14.17,26.11,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,64,1.0,10.0,14.17,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,64,1.0,10.0,14.17,12.23,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,49,64,1.0,10.0,14.17,18.34,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,69,1.0,10.0,14.02,12.23,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,49,69,1.0,10.0,14.02,14.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,49,69,1.0,10.0,14.02,29.83,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,69,1.0,10.0,14.02,0.0,19.77,44.59
+48,UYM,ProShares Ultra Materials,5,60,14,49,59,1.0,10.0,13.97,17.53,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,49,59,1.0,10.0,13.97,19.75,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,59,1.0,10.0,13.97,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,59,1.0,10.0,13.97,18.59,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,60,14,49,74,1.0,10.0,13.24,17.98,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,74,1.0,10.0,13.24,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,74,1.0,10.0,13.24,18.59,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,49,74,1.0,10.0,13.24,16.38,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,49,59,1.0,10.0,12.12,20.56,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,59,1.0,10.0,12.12,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,59,1.0,10.0,12.12,12.23,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,49,59,1.0,10.0,12.12,15.71,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,49,74,1.0,10.0,11.98,19.71,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,74,1.0,10.0,11.98,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,74,1.0,10.0,11.98,12.23,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,49,74,1.0,10.0,11.98,15.99,20.78,43.36
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,79,1.0,10.0,11.9,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,79,1.0,10.0,11.9,18.59,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,60,14,49,79,1.0,10.0,11.9,16.06,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,60,14,49,79,1.0,10.0,11.9,12.93,20.78,43.36
+48,UYM,ProShares Ultra Materials,5,120,14,49,79,1.0,10.0,10.62,12.78,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,49,79,1.0,10.0,10.62,17.46,25.21,43.93
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,79,1.0,10.0,10.62,12.23,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,79,1.0,10.0,10.62,0.0,19.77,44.59
+48,UYM,ProShares Ultra Materials,5,60,14,34,64,1.0,10.0,5.02,20.06,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,34,64,1.0,10.0,5.02,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,64,1.0,10.0,5.02,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,64,1.0,10.0,5.02,0.0,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,60,14,34,59,1.0,10.0,4.5,0.0,25.21,43.93
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,59,1.0,10.0,4.5,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,34,59,1.0,10.0,4.5,18.01,20.78,43.36
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,59,1.0,10.0,4.5,0.0,19.77,44.59
+48,UWM,ProShares Ultra Russell2000,5,60,14,34,54,1.0,10.0,3.47,0.0,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,60,14,34,54,1.0,10.0,3.47,13.9,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,54,1.0,10.0,3.47,0.0,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,54,1.0,10.0,3.47,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,79,1.0,10.0,3.12,0.0,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,79,1.0,10.0,3.12,0.0,19.77,44.59
+48,UYM,ProShares Ultra Materials,5,60,14,34,79,1.0,10.0,3.12,12.49,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,34,79,1.0,10.0,3.12,0.0,25.21,43.93
+48,UWM,ProShares Ultra Russell2000,5,60,14,34,74,1.0,10.0,2.69,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,74,1.0,10.0,2.69,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,74,1.0,10.0,2.69,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,34,74,1.0,10.0,2.69,10.77,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,34,69,1.0,10.0,2.5,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,69,1.0,10.0,2.5,0.0,19.77,44.59
+48,UYM,ProShares Ultra Materials,5,60,14,34,69,1.0,10.0,2.5,10.01,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,69,1.0,10.0,2.5,0.0,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,120,14,34,69,1.0,10.0,0.0,0.0,25.21,43.93
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,34,54,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,34,59,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,34,59,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,34,64,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,34,64,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,34,54,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,34,69,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,34,74,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,34,74,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,34,79,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,34,79,1.0,10.0,0.0,0.0,20.78,43.36
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,19.77,44.59
+48,UWM,ProShares Ultra Russell2000,5,60,14,24,54,1.0,10.0,0.0,0.0,25.21,43.93
+48,UYM,ProShares Ultra Materials,5,120,14,29,79,1.0,10.0,0.0,0.0,20.78,43.36
+48,UYM,ProShares Ultra Materials,5,60,14,29,64,1.0,10.0,0.0,0.0,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,29,54,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,29,59,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,29,59,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,29,64,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,60,14,29,69,1.0,10.0,0.0,0.0,25.21,43.93
+48,UWM,ProShares Ultra Russell2000,5,60,14,29,54,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,29,69,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,29,74,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,29,74,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,29,79,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,19.77,44.59
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,19.77,44.59
+48,UYM,ProShares Ultra Materials,5,60,14,24,79,1.0,10.0,0.0,0.0,20.78,43.36
+48,UYM,ProShares Ultra Materials,5,60,14,29,79,1.0,10.0,0.0,0.0,20.78,43.36
+48,UYM,ProShares Ultra Materials,5,60,14,24,64,1.0,10.0,0.0,0.0,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,24,54,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,24,59,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,24,59,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,24,64,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,60,14,24,69,1.0,10.0,0.0,0.0,25.21,43.93
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,24,69,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,24,74,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,60,14,24,74,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,60,14,24,79,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,29,64,1.0,10.0,0.0,0.0,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,29,54,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,29,59,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,29,59,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,29,64,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,120,14,29,69,1.0,10.0,0.0,0.0,25.21,43.93
+48,UWM,ProShares Ultra Russell2000,5,120,14,29,54,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,29,69,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,29,74,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,29,74,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,29,79,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,19.77,44.59
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,19.77,44.59
+48,UYM,ProShares Ultra Materials,5,120,14,24,79,1.0,10.0,0.0,0.0,20.78,43.36
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,19.77,44.59
+48,UYM,ProShares Ultra Materials,5,120,14,24,64,1.0,10.0,0.0,0.0,20.78,43.36
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,24,54,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,24,59,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,24,59,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,24,64,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,19.83,47.7
+48,UWM,ProShares Ultra Russell2000,5,120,14,24,69,1.0,10.0,0.0,0.0,25.21,43.93
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,19.83,47.7
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,24,69,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,24,74,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,19.77,44.59
+48,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,19.83,47.7
+48,UYM,ProShares Ultra Materials,5,120,14,24,74,1.0,10.0,0.0,0.0,20.78,43.36
+48,UWM,ProShares Ultra Russell2000,5,120,14,24,79,1.0,10.0,0.0,0.0,25.21,43.93
+48,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,19.77,44.59
+48,UWM,ProShares Ultra Russell2000,5,120,14,24,54,1.0,10.0,0.0,0.0,25.21,43.93

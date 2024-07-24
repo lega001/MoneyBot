@@ -1,0 +1,361 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,49,54,1.0,10.0,522.76,2564.76,35.45,47.99
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,49,54,1.0,10.0,522.76,9.54,33.14,47.75
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,54,1.0,10.0,522.76,0.0,33.27,50.55
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,49,54,1.0,10.0,522.76,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,49,54,1.0,10.0,522.76,39.49,41.14,48.83
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,49,59,1.0,10.0,405.47,37.06,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,49,59,1.0,10.0,405.47,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,49,59,1.0,10.0,405.47,15.59,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,49,59,1.0,10.0,405.47,1974.69,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,59,1.0,10.0,405.47,0.0,33.27,50.55
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,49,64,1.0,10.0,404.16,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,49,64,1.0,10.0,404.16,10.94,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,49,64,1.0,10.0,404.16,1974.69,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,64,1.0,10.0,404.16,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,49,64,1.0,10.0,404.16,35.14,41.14,48.83
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,49,59,1.0,10.0,221.71,9.67,33.14,47.75
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,49,59,1.0,10.0,221.71,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,49,59,1.0,10.0,221.71,61.05,41.14,48.83
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,59,1.0,10.0,221.71,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,49,59,1.0,10.0,221.71,1037.83,35.45,47.99
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,49,64,1.0,10.0,219.67,53.17,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,49,64,1.0,10.0,219.67,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,49,64,1.0,10.0,219.67,7.32,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,49,64,1.0,10.0,219.67,1037.83,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,64,1.0,10.0,219.67,0.0,33.27,50.55
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,54,1.0,10.0,105.19,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,49,54,1.0,10.0,105.19,447.18,35.45,47.99
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,49,54,1.0,10.0,105.19,8.68,33.14,47.75
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,49,54,1.0,10.0,105.19,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,49,54,1.0,10.0,105.19,70.1,41.14,48.83
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,49,69,1.0,10.0,82.67,25.6,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,49,69,1.0,10.0,82.67,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,49,69,1.0,10.0,82.67,13.13,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,49,69,1.0,10.0,82.67,374.62,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,69,1.0,10.0,82.67,0.0,33.27,50.55
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,69,1.0,10.0,73.71,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,49,69,1.0,10.0,73.71,337.07,35.45,47.99
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,49,69,1.0,10.0,73.71,22.13,41.14,48.83
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,49,69,1.0,10.0,73.71,9.34,33.14,47.75
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,49,69,1.0,10.0,73.71,0.0,39.52,52.13
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,79,1.0,10.0,32.28,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,49,79,1.0,10.0,32.28,129.37,35.45,47.99
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,49,79,1.0,10.0,32.28,2.55,33.14,47.75
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,49,79,1.0,10.0,32.28,29.5,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,49,79,1.0,10.0,32.28,0.0,39.52,52.13
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,49,74,1.0,10.0,32.05,129.37,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,74,1.0,10.0,32.05,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,49,74,1.0,10.0,32.05,28.32,41.14,48.83
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,49,74,1.0,10.0,32.05,2.55,33.14,47.75
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,49,74,1.0,10.0,32.05,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,49,74,1.0,10.0,31.17,25.3,41.14,48.83
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,49,74,1.0,10.0,31.17,2.36,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,49,74,1.0,10.0,31.17,128.2,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,74,1.0,10.0,31.17,0.0,33.27,50.55
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,49,74,1.0,10.0,31.17,0.0,39.52,52.13
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,79,1.0,10.0,31.12,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,49,79,1.0,10.0,31.12,128.2,35.45,47.99
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,49,79,1.0,10.0,31.12,2.36,33.14,47.75
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,49,79,1.0,10.0,31.12,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,49,79,1.0,10.0,31.12,25.03,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,44,59,1.0,10.0,16.48,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,44,59,1.0,10.0,16.48,22.74,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,44,59,1.0,10.0,16.48,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,59,1.0,10.0,16.48,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,44,59,1.0,10.0,16.48,59.65,41.14,48.83
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,44,59,1.0,10.0,15.66,68.63,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,44,59,1.0,10.0,15.66,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,44,59,1.0,10.0,15.66,9.67,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,44,59,1.0,10.0,15.66,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,59,1.0,10.0,15.66,0.0,33.27,50.55
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,64,1.0,10.0,13.92,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,44,64,1.0,10.0,13.92,0.0,35.45,47.99
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,44,64,1.0,10.0,13.92,62.26,41.14,48.83
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,44,64,1.0,10.0,13.92,7.32,33.14,47.75
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,44,64,1.0,10.0,13.92,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,44,54,1.0,10.0,13.85,48.61,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,44,54,1.0,10.0,13.85,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,44,54,1.0,10.0,13.85,20.62,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,44,54,1.0,10.0,13.85,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,54,1.0,10.0,13.85,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,44,64,1.0,10.0,12.72,50.59,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,44,64,1.0,10.0,12.72,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,44,64,1.0,10.0,12.72,12.99,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,44,64,1.0,10.0,12.72,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,64,1.0,10.0,12.72,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,44,54,1.0,10.0,12.29,57.34,41.14,48.83
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,44,54,1.0,10.0,12.29,4.1,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,44,54,1.0,10.0,12.29,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,54,1.0,10.0,12.29,0.0,33.27,50.55
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,44,54,1.0,10.0,12.29,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,44,69,1.0,10.0,8.68,34.04,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,44,69,1.0,10.0,8.68,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,44,69,1.0,10.0,8.68,9.34,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,44,69,1.0,10.0,8.68,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,69,1.0,10.0,8.68,0.0,33.27,50.55
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,44,74,1.0,10.0,7.7,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,44,74,1.0,10.0,7.7,36.13,41.14,48.83
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,44,74,1.0,10.0,7.7,2.36,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,44,74,1.0,10.0,7.7,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,74,1.0,10.0,7.7,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,44,69,1.0,10.0,7.54,0.0,35.45,47.99
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,44,69,1.0,10.0,7.54,22.5,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,44,69,1.0,10.0,7.54,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,44,69,1.0,10.0,7.54,15.22,33.14,47.75
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,69,1.0,10.0,7.54,0.0,33.27,50.55
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,79,1.0,10.0,7.42,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,44,79,1.0,10.0,7.42,0.0,35.45,47.99
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,44,79,1.0,10.0,7.42,2.36,33.14,47.75
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,44,79,1.0,10.0,7.42,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,44,79,1.0,10.0,7.42,34.75,41.14,48.83
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,44,74,1.0,10.0,5.29,22.5,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,44,74,1.0,10.0,5.29,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,44,74,1.0,10.0,5.29,3.97,33.14,47.75
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,74,1.0,10.0,5.29,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,44,79,1.0,10.0,5.29,22.5,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,44,79,1.0,10.0,5.29,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,44,79,1.0,10.0,5.29,3.97,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,44,79,1.0,10.0,5.29,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,79,1.0,10.0,5.29,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,44,74,1.0,10.0,5.29,0.0,35.45,47.99
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,39,74,1.0,10.0,1.18,5.92,33.14,47.75
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,79,1.0,10.0,1.18,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,39,64,1.0,10.0,1.18,0.0,35.45,47.99
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,39,79,1.0,10.0,1.18,0.0,35.45,47.99
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,39,54,1.0,10.0,1.18,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,39,54,1.0,10.0,1.18,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,39,54,1.0,10.0,1.18,5.92,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,39,54,1.0,10.0,1.18,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,54,1.0,10.0,1.18,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,39,59,1.0,10.0,1.18,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,39,59,1.0,10.0,1.18,0.0,39.52,52.13
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,39,59,1.0,10.0,1.18,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,59,1.0,10.0,1.18,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,39,64,1.0,10.0,1.18,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,39,64,1.0,10.0,1.18,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,39,64,1.0,10.0,1.18,5.92,33.14,47.75
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,39,59,1.0,10.0,1.18,5.92,33.14,47.75
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,64,1.0,10.0,1.18,0.0,33.27,50.55
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,39,69,1.0,10.0,1.18,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,39,69,1.0,10.0,1.18,5.92,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,39,69,1.0,10.0,1.18,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,69,1.0,10.0,1.18,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,39,74,1.0,10.0,1.18,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,39,74,1.0,10.0,1.18,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,39,79,1.0,10.0,1.18,5.92,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,39,74,1.0,10.0,1.18,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,74,1.0,10.0,1.18,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,39,79,1.0,10.0,1.18,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,39,79,1.0,10.0,1.18,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,39,69,1.0,10.0,1.18,0.0,41.14,48.83
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,39,74,1.0,10.0,1.04,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,39,74,1.0,10.0,1.04,0.0,39.52,52.13
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,39,69,1.0,10.0,1.04,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,69,1.0,10.0,1.04,0.0,33.27,50.55
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,39,69,1.0,10.0,1.04,5.2,33.14,47.75
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,39,74,1.0,10.0,1.04,5.2,33.14,47.75
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,79,1.0,10.0,1.04,0.0,33.27,50.55
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,74,1.0,10.0,1.04,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,39,79,1.0,10.0,1.04,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,39,79,1.0,10.0,1.04,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,39,79,1.0,10.0,1.04,5.2,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,39,79,1.0,10.0,1.04,0.0,35.45,47.99
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,39,54,1.0,10.0,1.04,0.0,41.14,48.83
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,39,69,1.0,10.0,1.04,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,39,69,1.0,10.0,1.04,0.0,39.52,52.13
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,39,74,1.0,10.0,1.04,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,64,1.0,10.0,1.04,0.0,33.27,50.55
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,39,59,1.0,10.0,1.04,0.0,39.52,52.13
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,39,64,1.0,10.0,1.04,0.0,35.45,47.99
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,39,54,1.0,10.0,1.04,0.0,39.52,52.13
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,39,54,1.0,10.0,1.04,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,54,1.0,10.0,1.04,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,39,59,1.0,10.0,1.04,0.0,41.14,48.83
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,39,54,1.0,10.0,1.04,5.2,33.14,47.75
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,39,59,1.0,10.0,1.04,5.2,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,39,59,1.0,10.0,1.04,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,59,1.0,10.0,1.04,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,39,64,1.0,10.0,1.04,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,39,64,1.0,10.0,1.04,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,39,64,1.0,10.0,1.04,5.2,33.14,47.75
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,29,79,1.0,10.0,0.0,0.0,33.14,47.75
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,34,59,1.0,10.0,0.0,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,34,59,1.0,10.0,0.0,0.0,41.14,48.83
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,35.45,47.99
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,34,54,1.0,10.0,0.0,0.0,33.14,47.75
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,34,54,1.0,10.0,0.0,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,34,54,1.0,10.0,0.0,0.0,41.14,48.83
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,35.45,47.99
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,29,74,1.0,10.0,0.0,0.0,39.52,52.13
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,29,79,1.0,10.0,0.0,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,29,79,1.0,10.0,0.0,0.0,41.14,48.83
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,35.45,47.99
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,29,74,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,35.45,47.99
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,29,74,1.0,10.0,0.0,0.0,41.14,48.83
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,35.45,47.99
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,29,69,1.0,10.0,0.0,0.0,33.14,47.75
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,34,59,1.0,10.0,0.0,0.0,33.14,47.75
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,34,69,1.0,10.0,0.0,0.0,41.14,48.83
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,34,64,1.0,10.0,0.0,0.0,41.14,48.83
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,29,69,1.0,10.0,0.0,0.0,41.14,48.83
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,35.45,47.99
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,34,79,1.0,10.0,0.0,0.0,33.14,47.75
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,34,79,1.0,10.0,0.0,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,34,79,1.0,10.0,0.0,0.0,41.14,48.83
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,35.45,47.99
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,34,74,1.0,10.0,0.0,0.0,33.14,47.75
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,34,74,1.0,10.0,0.0,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,34,74,1.0,10.0,0.0,0.0,41.14,48.83
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,35.45,47.99
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,34,69,1.0,10.0,0.0,0.0,33.14,47.75
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,34,69,1.0,10.0,0.0,0.0,39.52,52.13
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,33.27,50.55
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,35.45,47.99
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,34,64,1.0,10.0,0.0,0.0,33.14,47.75
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,34,64,1.0,10.0,0.0,0.0,39.52,52.13
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,29,69,1.0,10.0,0.0,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,24,54,1.0,10.0,0.0,0.0,41.14,48.83
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,29,74,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,29,59,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,29,59,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,29,64,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,29,64,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,29,64,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,29,69,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,29,69,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,29,69,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,33.27,50.55
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,29,74,1.0,10.0,0.0,0.0,39.52,52.13
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,33.27,50.55
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,29,74,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,29,79,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,29,79,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,29,79,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,34,54,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,34,54,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,34,54,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,34,59,1.0,10.0,0.0,0.0,41.14,48.83
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,29,59,1.0,10.0,0.0,0.0,41.14,48.83
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,35.45,47.99
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,35.45,47.99
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,24,69,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,24,54,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,24,59,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,24,59,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,24,59,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,24,64,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,24,64,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,24,64,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,24,69,1.0,10.0,0.0,0.0,41.14,48.83
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,24,69,1.0,10.0,0.0,0.0,33.14,47.75
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,29,54,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,24,74,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,24,74,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,24,74,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,24,79,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,24,79,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,24,79,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,29,54,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,29,54,1.0,10.0,0.0,0.0,39.52,52.13
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,34,59,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,34,59,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,35.45,47.99
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,24,79,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,24,69,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,24,69,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,24,69,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,24,74,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,24,74,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,24,74,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,24,79,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,24,79,1.0,10.0,0.0,0.0,39.52,52.13
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,33.27,50.55
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,29,54,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,29,54,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,29,54,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,29,59,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,29,59,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,29,59,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,29,64,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,29,64,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,29,64,1.0,10.0,0.0,0.0,33.14,47.75
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,24,64,1.0,10.0,0.0,0.0,33.14,47.75
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,24,64,1.0,10.0,0.0,0.0,39.52,52.13
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,24,64,1.0,10.0,0.0,0.0,41.14,48.83
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,34,64,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,34,64,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,34,64,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,34,69,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,34,69,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,34,69,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,34,74,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,34,74,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,34,74,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,60,14,34,79,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,34,79,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,60,14,34,79,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,33.27,50.55
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,60,14,24,54,1.0,10.0,0.0,0.0,39.52,52.13
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,24,54,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,24,54,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,35.45,47.99
+39,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,33.27,50.55
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,24,59,1.0,10.0,0.0,0.0,41.14,48.83
+39,AMZU.O,Direxion Daily AMZN Bull 2X Shares,5,120,14,24,59,1.0,10.0,0.0,0.0,39.52,52.13
+39,BIB.O,ProShares Ultra Nasdaq Biotechnology,5,120,14,24,59,1.0,10.0,0.0,0.0,33.14,47.75
+39,STCE.K,Schwab Crypto Thematic ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,35.45,47.99
+39,UDOW.K,ProShares UltraPro Dow30,5,120,14,24,54,1.0,10.0,0.0,0.0,41.14,48.83

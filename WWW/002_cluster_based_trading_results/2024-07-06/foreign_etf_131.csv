@@ -1,0 +1,2017 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,24,54,1.0,10.0,-0.15,0.42,-4.69,10.47
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-5.21,13.08
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,24,54,1.0,10.0,-0.15,0.0,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,24,54,1.0,10.0,-0.15,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,24,54,1.0,10.0,-0.15,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-7.58,14.25
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,24,54,1.0,10.0,-0.15,1.13,-7.78,10.0
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-5.64,8.87
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,24,54,1.0,10.0,-0.15,0.0,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,24,54,1.0,10.0,-0.15,-6.33,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,24,54,1.0,10.0,-0.15,0.0,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,24,54,1.0,10.0,-0.15,2.59,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,120,14,24,54,1.0,10.0,-0.15,2.67,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,24,54,1.0,10.0,-0.15,4.68,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,24,54,1.0,10.0,-0.15,-13.47,-4.7,12.8
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-5.13,9.94
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,54,1.0,10.0,-0.15,0.0,-7.79,13.38
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,29,54,1.0,10.0,-0.2,0.0,-5.25,9.88
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,29,54,1.0,10.0,-0.2,0.0,-5.21,13.08
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,29,54,1.0,10.0,-0.2,3.27,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,54,1.0,10.0,-0.2,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,29,54,1.0,10.0,-0.2,-13.47,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,29,54,1.0,10.0,-0.2,4.68,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,29,54,1.0,10.0,-0.2,0.0,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,120,14,29,54,1.0,10.0,-0.2,-2.82,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,29,54,1.0,10.0,-0.2,2.59,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,29,54,1.0,10.0,-0.2,0.0,-6.27,9.51
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,29,54,1.0,10.0,-0.2,-0.75,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,29,54,1.0,10.0,-0.2,-6.33,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,29,54,1.0,10.0,-0.2,-0.61,-6.67,8.52
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,29,54,1.0,10.0,-0.2,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,29,54,1.0,10.0,-0.2,0.0,-6.86,12.93
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,29,54,1.0,10.0,-0.2,0.0,-7.58,14.25
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,29,54,1.0,10.0,-0.2,0.0,-8.02,10.98
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,29,54,1.0,10.0,-0.2,1.63,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,29,54,1.0,10.0,-0.2,0.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,29,54,1.0,10.0,-0.2,-0.23,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,29,54,1.0,10.0,-0.2,0.0,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,29,54,1.0,10.0,-0.2,1.24,-6.48,11.07
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,29,54,1.0,10.0,-0.2,0.0,-5.01,11.81
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,29,54,1.0,10.0,-0.2,0.0,-6.22,14.19
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,29,54,1.0,10.0,-0.2,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,29,54,1.0,10.0,-0.2,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,29,54,1.0,10.0,-0.2,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,29,54,1.0,10.0,-0.2,0.0,-6.67,11.9
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,34,54,1.0,10.0,-0.55,0.0,-6.86,12.93
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,34,54,1.0,10.0,-0.55,2.59,-6.25,10.12
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,34,54,1.0,10.0,-0.55,-0.18,-6.67,8.52
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,34,54,1.0,10.0,-0.55,-1.91,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,34,54,1.0,10.0,-0.55,2.31,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,34,54,1.0,10.0,-0.55,0.0,-6.27,9.51
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,54,1.0,10.0,-0.55,0.0,-7.79,13.38
+131,SJB,ProShares Short High Yield,5,120,14,34,54,1.0,10.0,-0.55,-2.82,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,34,54,1.0,10.0,-0.55,-9.36,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,34,54,1.0,10.0,-0.55,3.74,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,34,54,1.0,10.0,-0.55,-14.87,-4.7,12.8
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,34,54,1.0,10.0,-0.55,3.27,-4.69,10.47
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,34,54,1.0,10.0,-0.55,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,34,54,1.0,10.0,-0.55,1.13,-7.78,10.0
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,34,54,1.0,10.0,-0.55,-6.33,-5.24,9.07
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,34,54,1.0,10.0,-0.55,0.0,-7.58,14.25
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,34,54,1.0,10.0,-0.55,0.0,-6.22,14.19
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,34,54,1.0,10.0,-0.55,0.0,-5.01,11.81
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,34,54,1.0,10.0,-0.55,10.5,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,34,54,1.0,10.0,-0.55,-0.23,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,34,54,1.0,10.0,-0.55,-3.15,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,34,54,1.0,10.0,-0.55,1.25,-6.48,11.07
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,34,54,1.0,10.0,-0.55,1.63,-5.64,8.87
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,34,54,1.0,10.0,-0.55,-7.16,-8.02,10.98
+131,CVRD.K,Madison Covered Call ETF,5,120,14,34,54,1.0,10.0,-0.55,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,34,54,1.0,10.0,-0.55,0.54,-7.0,10.44
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,34,54,1.0,10.0,-0.55,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,34,54,1.0,10.0,-0.55,0.0,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,29,54,1.0,10.0,-0.61,0.0,-5.01,11.81
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,29,54,1.0,10.0,-0.61,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,29,54,1.0,10.0,-0.61,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,29,54,1.0,10.0,-0.61,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,29,54,1.0,10.0,-0.61,0.0,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,29,54,1.0,10.0,-0.61,2.37,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,29,54,1.0,10.0,-0.61,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,29,54,1.0,10.0,-0.61,0.0,-7.58,14.25
+131,FIG,Simplify Macro Strategy ETF,5,60,14,29,54,1.0,10.0,-0.61,0.0,-6.67,11.9
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,29,54,1.0,10.0,-0.61,1.52,-6.27,9.51
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,29,54,1.0,10.0,-0.61,9.39,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,29,54,1.0,10.0,-0.61,0.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,29,54,1.0,10.0,-0.61,0.0,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,29,54,1.0,10.0,-0.61,0.0,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,29,54,1.0,10.0,-0.61,-2.56,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,29,54,1.0,10.0,-0.61,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,29,54,1.0,10.0,-0.61,-4.58,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,29,54,1.0,10.0,-0.61,1.54,-7.0,10.44
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,29,54,1.0,10.0,-0.61,3.33,-5.25,9.88
+131,SJB,ProShares Short High Yield,5,60,14,29,54,1.0,10.0,-0.61,-4.38,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,29,54,1.0,10.0,-0.61,-0.04,-6.25,10.12
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,29,54,1.0,10.0,-0.61,-1.75,-4.69,10.47
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,29,54,1.0,10.0,-0.61,0.9,-5.81,9.03
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,29,54,1.0,10.0,-0.61,-3.89,-6.78,8.67
+131,CVRD.K,Madison Covered Call ETF,5,60,14,29,54,1.0,10.0,-0.61,0.0,-6.35,11.57
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,54,1.0,10.0,-0.61,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,29,54,1.0,10.0,-0.61,-12.49,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,29,54,1.0,10.0,-0.61,2.93,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,24,64,1.0,10.0,-0.76,-13.47,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,24,64,1.0,10.0,-0.76,-4.84,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-6.78,8.67
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,24,64,1.0,10.0,-0.76,2.59,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,24,64,1.0,10.0,-0.76,0.0,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,24,64,1.0,10.0,-0.76,-6.33,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,24,64,1.0,10.0,-0.76,0.0,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-6.86,12.93
+131,SJB,ProShares Short High Yield,5,120,14,24,64,1.0,10.0,-0.76,-4.85,-5.87,8.9
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-6.27,9.51
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-7.79,13.38
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,24,59,1.0,10.0,-0.76,1.13,-7.78,10.0
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,24,59,1.0,10.0,-0.76,0.42,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,24,59,1.0,10.0,-0.76,-13.47,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,24,59,1.0,10.0,-0.76,-4.84,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,120,14,24,59,1.0,10.0,-0.76,-4.85,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,24,59,1.0,10.0,-0.76,2.59,-6.25,10.12
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-5.21,13.08
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,24,59,1.0,10.0,-0.76,0.0,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,24,59,1.0,10.0,-0.76,-6.33,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,24,59,1.0,10.0,-0.76,0.0,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-6.86,12.93
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-5.21,13.08
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,24,64,1.0,10.0,-0.76,0.42,-4.69,10.47
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,24,59,1.0,10.0,-0.76,3.51,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,24,59,1.0,10.0,-0.76,0.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,24,59,1.0,10.0,-0.76,0.0,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-5.64,8.87
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,24,64,1.0,10.0,-0.76,1.13,-7.78,10.0
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-7.79,13.38
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-7.58,14.25
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,24,74,1.0,10.0,-0.76,0.0,-4.98,11.83
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,24,79,1.0,10.0,-0.76,-4.84,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,24,79,1.0,10.0,-0.76,-13.47,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,24,79,1.0,10.0,-0.76,0.42,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,24,74,1.0,10.0,-0.76,0.0,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,24,74,1.0,10.0,-0.76,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,24,74,1.0,10.0,-0.76,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,24,74,1.0,10.0,-0.76,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,24,74,1.0,10.0,-0.76,0.0,-6.67,8.52
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,120,14,24,79,1.0,10.0,-0.76,-4.85,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,24,79,1.0,10.0,-0.76,2.59,-6.25,10.12
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,24,79,1.0,10.0,-0.76,3.51,-5.81,9.03
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,24,79,1.0,10.0,-0.76,0.0,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,24,79,1.0,10.0,-0.76,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-6.35,11.57
+131,FIG,Simplify Macro Strategy ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-6.67,11.9
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-6.27,9.51
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,24,79,1.0,10.0,-0.76,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,24,79,1.0,10.0,-0.76,0.0,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,24,79,1.0,10.0,-0.76,-6.33,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,24,79,1.0,10.0,-0.76,0.0,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,24,79,1.0,10.0,-0.76,0.0,-5.25,9.88
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,24,74,1.0,10.0,-0.76,-6.33,-5.24,9.07
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-5.25,9.88
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-5.01,11.81
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-6.27,9.51
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,24,69,1.0,10.0,-0.76,-6.33,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,24,69,1.0,10.0,-0.76,0.0,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,24,69,1.0,10.0,-0.76,2.59,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,120,14,24,69,1.0,10.0,-0.76,-4.85,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,24,69,1.0,10.0,-0.76,-4.84,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,24,69,1.0,10.0,-0.76,-13.47,-4.7,12.8
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,24,69,1.0,10.0,-0.76,0.42,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,24,64,1.0,10.0,-0.76,0.0,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,24,64,1.0,10.0,-0.76,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,24,64,1.0,10.0,-0.76,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,24,64,1.0,10.0,-0.76,0.0,-6.67,11.9
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,24,69,1.0,10.0,-0.76,0.0,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,24,69,1.0,10.0,-0.76,1.13,-7.78,10.0
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-6.82,9.78
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,24,74,1.0,10.0,-0.76,2.59,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,120,14,24,74,1.0,10.0,-0.76,-4.85,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,24,74,1.0,10.0,-0.76,-4.84,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,24,74,1.0,10.0,-0.76,-13.47,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,74,1.0,10.0,-0.76,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,24,74,1.0,10.0,-0.76,0.42,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-5.13,9.94
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-6.92,9.81
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-5.21,13.08
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,24,69,1.0,10.0,-0.76,0.0,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,24,69,1.0,10.0,-0.76,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,24,69,1.0,10.0,-0.76,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-5.01,11.81
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,54,1.0,10.0,-0.76,0.0,-7.79,13.38
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,24,69,1.0,10.0,-0.76,0.0,-7.58,14.25
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,24,54,1.0,10.0,-0.76,2.19,-4.69,10.47
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,24,54,1.0,10.0,-0.76,5.39,-5.43,11.55
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,24,54,1.0,10.0,-0.76,0.0,-5.01,11.81
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,24,54,1.0,10.0,-0.76,-16.48,-4.7,12.8
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,24,54,1.0,10.0,-0.76,0.0,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,24,54,1.0,10.0,-0.76,0.0,-5.13,9.94
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,24,54,1.0,10.0,-0.76,0.0,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,24,54,1.0,10.0,-0.76,-2.56,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,24,54,1.0,10.0,-0.76,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,24,54,1.0,10.0,-0.76,0.0,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,24,54,1.0,10.0,-0.76,1.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,60,14,24,54,1.0,10.0,-0.76,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,24,54,1.0,10.0,-0.76,0.9,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,60,14,24,54,1.0,10.0,-0.76,0.0,-6.67,11.9
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,24,54,1.0,10.0,-0.76,0.0,-6.82,9.78
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,24,54,1.0,10.0,-0.76,0.0,-7.58,14.25
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,24,54,1.0,10.0,-0.76,0.0,-5.25,9.88
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,24,54,1.0,10.0,-0.76,-3.89,-6.78,8.67
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,24,54,1.0,10.0,-0.76,0.0,-5.21,13.08
+131,SJB,ProShares Short High Yield,5,60,14,24,54,1.0,10.0,-0.76,-1.49,-5.87,8.9
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,24,54,1.0,10.0,-0.76,0.0,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,24,54,1.0,10.0,-0.76,-0.04,-6.25,10.12
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,24,54,1.0,10.0,-0.76,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,24,54,1.0,10.0,-0.76,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,24,54,1.0,10.0,-0.76,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,24,54,1.0,10.0,-0.76,0.0,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,24,54,1.0,10.0,-0.76,2.37,-7.78,10.0
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,29,69,1.0,10.0,-0.91,0.0,-8.02,10.98
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,74,1.0,10.0,-0.91,0.0,-7.79,13.38
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,29,69,1.0,10.0,-0.91,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,29,69,1.0,10.0,-0.91,1.24,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,29,69,1.0,10.0,-0.91,0.0,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,29,69,1.0,10.0,-0.91,-0.23,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,29,69,1.0,10.0,-0.91,0.0,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,29,69,1.0,10.0,-0.91,1.63,-5.64,8.87
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,29,74,1.0,10.0,-0.91,-4.55,-4.69,10.47
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,29,74,1.0,10.0,-0.91,2.59,-6.25,10.12
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,29,74,1.0,10.0,-0.91,-13.47,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,29,74,1.0,10.0,-0.91,-4.84,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,29,74,1.0,10.0,-0.91,0.0,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,120,14,29,74,1.0,10.0,-0.91,-5.44,-5.87,8.9
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,29,74,1.0,10.0,-0.91,0.0,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,29,74,1.0,10.0,-0.91,0.0,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,29,74,1.0,10.0,-0.91,-0.75,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,29,74,1.0,10.0,-0.91,-6.33,-5.24,9.07
+131,CVRD.K,Madison Covered Call ETF,5,120,14,29,69,1.0,10.0,-0.91,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,29,69,1.0,10.0,-0.91,0.54,-7.0,10.44
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,29,69,1.0,10.0,-0.91,0.0,-6.27,9.51
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,29,69,1.0,10.0,-0.91,3.51,-5.81,9.03
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,29,74,1.0,10.0,-0.91,0.0,-6.86,12.93
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,29,64,1.0,10.0,-0.91,1.63,-5.64,8.87
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,29,69,1.0,10.0,-0.91,-4.55,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,69,1.0,10.0,-0.91,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,29,69,1.0,10.0,-0.91,-13.47,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,29,69,1.0,10.0,-0.91,-4.84,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,29,69,1.0,10.0,-0.91,0.0,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,120,14,29,69,1.0,10.0,-0.91,-5.44,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,29,69,1.0,10.0,-0.91,2.59,-6.25,10.12
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,29,69,1.0,10.0,-0.91,0.0,-5.25,9.88
+131,FIG,Simplify Macro Strategy ETF,5,120,14,29,69,1.0,10.0,-0.91,0.0,-6.67,11.9
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,29,69,1.0,10.0,-0.91,-0.75,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,29,69,1.0,10.0,-0.91,-6.33,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,29,69,1.0,10.0,-0.91,-0.61,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,29,69,1.0,10.0,-0.91,0.0,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,29,69,1.0,10.0,-0.91,1.13,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,29,69,1.0,10.0,-0.91,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,29,69,1.0,10.0,-0.91,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,29,69,1.0,10.0,-0.91,0.0,-5.01,11.81
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,29,74,1.0,10.0,-0.91,-0.61,-6.67,8.52
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,29,74,1.0,10.0,-0.91,-0.23,-6.82,9.78
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,29,74,1.0,10.0,-0.91,1.13,-7.78,10.0
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,29,79,1.0,10.0,-0.91,3.51,-5.81,9.03
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,29,79,1.0,10.0,-0.91,-6.33,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,29,79,1.0,10.0,-0.91,-0.61,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,29,79,1.0,10.0,-0.91,0.0,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,29,79,1.0,10.0,-0.91,1.13,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,29,79,1.0,10.0,-0.91,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,29,79,1.0,10.0,-0.91,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,29,79,1.0,10.0,-0.91,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,120,14,29,79,1.0,10.0,-0.91,0.0,-6.67,11.9
+131,CVRD.K,Madison Covered Call ETF,5,120,14,29,79,1.0,10.0,-0.91,0.0,-6.35,11.57
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,29,74,1.0,10.0,-0.91,0.0,-5.21,13.08
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,29,79,1.0,10.0,-0.91,0.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,29,79,1.0,10.0,-0.91,0.0,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,29,79,1.0,10.0,-0.91,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,29,79,1.0,10.0,-0.91,1.24,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,29,79,1.0,10.0,-0.91,0.0,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,29,79,1.0,10.0,-0.91,-0.23,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,29,79,1.0,10.0,-0.91,0.0,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,29,79,1.0,10.0,-0.91,1.63,-5.64,8.87
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,29,79,1.0,10.0,-0.91,-0.75,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,29,79,1.0,10.0,-0.91,0.0,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,29,79,1.0,10.0,-0.91,0.0,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,29,79,1.0,10.0,-0.91,2.59,-6.25,10.12
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,29,74,1.0,10.0,-0.91,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,29,74,1.0,10.0,-0.91,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,120,14,29,74,1.0,10.0,-0.91,0.0,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,29,74,1.0,10.0,-0.91,3.51,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,120,14,29,74,1.0,10.0,-0.91,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,29,74,1.0,10.0,-0.91,0.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,29,74,1.0,10.0,-0.91,0.0,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,29,74,1.0,10.0,-0.91,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,29,74,1.0,10.0,-0.91,1.24,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,29,74,1.0,10.0,-0.91,0.0,-6.92,9.81
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,29,74,1.0,10.0,-0.91,0.0,-5.13,9.94
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,29,79,1.0,10.0,-0.91,-4.55,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,79,1.0,10.0,-0.91,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,29,79,1.0,10.0,-0.91,-13.47,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,29,79,1.0,10.0,-0.91,-4.84,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,29,79,1.0,10.0,-0.91,0.0,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,120,14,29,79,1.0,10.0,-0.91,-5.44,-5.87,8.9
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,29,64,1.0,10.0,-0.91,0.0,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,29,74,1.0,10.0,-0.91,1.63,-5.64,8.87
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,29,64,1.0,10.0,-0.91,0.0,-6.92,9.81
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,29,59,1.0,10.0,-0.91,-0.61,-6.67,8.52
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,29,59,1.0,10.0,-0.91,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,29,59,1.0,10.0,-0.91,0.0,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,29,59,1.0,10.0,-0.91,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,29,59,1.0,10.0,-0.91,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,29,59,1.0,10.0,-0.91,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,29,59,1.0,10.0,-0.91,0.0,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,29,59,1.0,10.0,-0.91,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,29,59,1.0,10.0,-0.91,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,29,59,1.0,10.0,-0.91,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,29,59,1.0,10.0,-0.91,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,29,59,1.0,10.0,-0.91,0.0,-6.86,12.93
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,29,59,1.0,10.0,-0.91,-6.33,-5.24,9.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,29,59,1.0,10.0,-0.91,0.0,-6.92,9.81
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,29,59,1.0,10.0,-0.91,-0.75,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,29,59,1.0,10.0,-0.91,0.0,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,29,59,1.0,10.0,-0.91,0.0,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,29,59,1.0,10.0,-0.91,2.59,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,120,14,29,59,1.0,10.0,-0.91,-5.44,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,29,59,1.0,10.0,-0.91,0.0,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,29,59,1.0,10.0,-0.91,-4.84,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,29,59,1.0,10.0,-0.91,-13.47,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,59,1.0,10.0,-0.91,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,29,59,1.0,10.0,-0.91,-4.55,-4.69,10.47
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,29,64,1.0,10.0,-0.91,1.24,-6.48,11.07
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,29,59,1.0,10.0,-0.91,1.24,-6.48,11.07
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,29,64,1.0,10.0,-0.91,-0.23,-6.82,9.78
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,29,59,1.0,10.0,-0.91,-0.23,-6.82,9.78
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,29,64,1.0,10.0,-0.91,-0.61,-6.67,8.52
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,29,59,1.0,10.0,-0.91,0.0,-5.13,9.94
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,29,64,1.0,10.0,-0.91,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,29,64,1.0,10.0,-0.91,0.0,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,29,64,1.0,10.0,-0.91,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,29,64,1.0,10.0,-0.91,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,29,64,1.0,10.0,-0.91,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,29,64,1.0,10.0,-0.91,0.0,-6.67,11.9
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,29,64,1.0,10.0,-0.91,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,29,64,1.0,10.0,-0.91,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,29,64,1.0,10.0,-0.91,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,29,64,1.0,10.0,-0.91,0.0,-6.86,12.93
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,29,64,1.0,10.0,-0.91,0.0,-5.01,11.81
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,29,64,1.0,10.0,-0.91,-6.33,-5.24,9.07
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,29,64,1.0,10.0,-0.91,0.0,-6.78,8.67
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,29,64,1.0,10.0,-0.91,-4.55,-4.69,10.47
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,29,64,1.0,10.0,-0.91,-0.75,-4.98,11.83
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,29,59,1.0,10.0,-0.91,1.63,-5.64,8.87
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,64,1.0,10.0,-0.91,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,29,64,1.0,10.0,-0.91,-13.47,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,29,64,1.0,10.0,-0.91,-4.84,-5.43,11.55
+131,SJB,ProShares Short High Yield,5,120,14,29,64,1.0,10.0,-0.91,-5.44,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,29,64,1.0,10.0,-0.91,2.59,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,29,64,1.0,10.0,-0.91,0.0,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,29,64,1.0,10.0,-0.91,0.0,-5.25,9.88
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,29,64,1.0,10.0,-1.08,3.33,-5.25,9.88
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,29,64,1.0,10.0,-1.08,0.0,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,29,64,1.0,10.0,-1.08,0.87,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,29,64,1.0,10.0,-1.08,-6.37,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,29,64,1.0,10.0,-1.08,-3.74,-4.98,11.83
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,29,64,1.0,10.0,-1.08,-4.54,-5.43,11.55
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,29,64,1.0,10.0,-1.08,1.52,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,29,64,1.0,10.0,-1.08,-0.04,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,60,14,29,64,1.0,10.0,-1.08,-6.18,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,29,64,1.0,10.0,-1.08,-3.89,-6.78,8.67
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,29,64,1.0,10.0,-1.08,-12.49,-4.7,12.8
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,29,64,1.0,10.0,-1.08,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,29,64,1.0,10.0,-1.08,2.37,-7.78,10.0
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,29,64,1.0,10.0,-1.08,0.0,-6.82,9.78
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,29,64,1.0,10.0,-1.08,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,29,64,1.0,10.0,-1.08,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,29,64,1.0,10.0,-1.08,0.0,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,29,64,1.0,10.0,-1.08,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,29,64,1.0,10.0,-1.08,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,29,64,1.0,10.0,-1.08,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,29,64,1.0,10.0,-1.08,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,29,64,1.0,10.0,-1.08,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,29,64,1.0,10.0,-1.08,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,29,64,1.0,10.0,-1.08,0.0,-6.92,9.81
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,29,64,1.0,10.0,-1.08,-5.73,-4.69,10.47
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,29,64,1.0,10.0,-1.08,0.0,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,29,64,1.0,10.0,-1.08,9.39,-5.64,8.87
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,64,1.0,10.0,-1.08,0.0,-7.79,13.38
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,29,59,1.0,10.0,-1.08,0.0,-7.58,14.25
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,29,59,1.0,10.0,-1.08,9.39,-5.64,8.87
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,29,59,1.0,10.0,-1.08,0.87,-6.67,8.52
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,29,69,1.0,10.0,-1.08,-4.54,-5.43,11.55
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,29,59,1.0,10.0,-1.08,-5.73,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,59,1.0,10.0,-1.08,0.0,-7.79,13.38
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,29,59,1.0,10.0,-1.08,-4.54,-5.43,11.55
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,69,1.0,10.0,-1.08,0.0,-7.79,13.38
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,29,59,1.0,10.0,-1.08,-3.89,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,60,14,29,59,1.0,10.0,-1.08,-6.18,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,29,59,1.0,10.0,-1.08,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,29,59,1.0,10.0,-1.08,1.52,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,29,59,1.0,10.0,-1.08,3.33,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,29,59,1.0,10.0,-1.08,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,29,59,1.0,10.0,-1.08,-6.37,-5.24,9.07
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,29,59,1.0,10.0,-1.08,0.0,-6.86,12.93
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,29,59,1.0,10.0,-1.08,0.0,-5.13,9.94
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,29,59,1.0,10.0,-1.08,2.37,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,29,59,1.0,10.0,-1.08,0.0,-5.21,13.08
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,29,59,1.0,10.0,-1.08,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,29,59,1.0,10.0,-1.08,0.0,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,29,59,1.0,10.0,-1.08,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,29,59,1.0,10.0,-1.08,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,29,59,1.0,10.0,-1.08,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,29,59,1.0,10.0,-1.08,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,29,59,1.0,10.0,-1.08,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,29,59,1.0,10.0,-1.08,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,29,59,1.0,10.0,-1.08,0.0,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,29,59,1.0,10.0,-1.08,0.0,-6.82,9.78
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,29,59,1.0,10.0,-1.08,-12.49,-4.7,12.8
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,29,69,1.0,10.0,-1.08,-12.49,-4.7,12.8
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,29,69,1.0,10.0,-1.08,-5.73,-4.69,10.47
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,29,79,1.0,10.0,-1.08,1.52,-6.27,9.51
+131,SJB,ProShares Short High Yield,5,60,14,29,79,1.0,10.0,-1.08,-6.18,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,29,79,1.0,10.0,-1.08,-3.89,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,29,79,1.0,10.0,-1.08,-4.54,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,29,79,1.0,10.0,-1.08,-12.49,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,79,1.0,10.0,-1.08,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,29,79,1.0,10.0,-1.08,-5.73,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,29,74,1.0,10.0,-1.08,9.39,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,29,74,1.0,10.0,-1.08,0.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,29,74,1.0,10.0,-1.08,0.0,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,29,74,1.0,10.0,-1.08,0.0,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,29,74,1.0,10.0,-1.08,-2.56,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,29,74,1.0,10.0,-1.08,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,29,74,1.0,10.0,-1.08,-4.58,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,29,74,1.0,10.0,-1.08,1.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,60,14,29,74,1.0,10.0,-1.08,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,29,74,1.0,10.0,-1.08,0.9,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,60,14,29,74,1.0,10.0,-1.08,0.0,-6.67,11.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,29,79,1.0,10.0,-1.08,-0.04,-6.25,10.12
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,29,79,1.0,10.0,-1.08,-3.74,-4.98,11.83
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,29,74,1.0,10.0,-1.08,0.0,-7.58,14.25
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,29,79,1.0,10.0,-1.08,-6.37,-5.24,9.07
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,29,79,1.0,10.0,-1.08,9.39,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,29,79,1.0,10.0,-1.08,0.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,29,79,1.0,10.0,-1.08,0.0,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,29,79,1.0,10.0,-1.08,0.0,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,29,79,1.0,10.0,-1.08,-2.56,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,29,79,1.0,10.0,-1.08,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,29,79,1.0,10.0,-1.08,-4.58,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,29,79,1.0,10.0,-1.08,1.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,60,14,29,79,1.0,10.0,-1.08,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,29,79,1.0,10.0,-1.08,0.9,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,60,14,29,79,1.0,10.0,-1.08,0.0,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,29,79,1.0,10.0,-1.08,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,29,79,1.0,10.0,-1.08,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,29,79,1.0,10.0,-1.08,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,29,79,1.0,10.0,-1.08,2.37,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,29,79,1.0,10.0,-1.08,0.0,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,29,79,1.0,10.0,-1.08,0.87,-6.67,8.52
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,29,74,1.0,10.0,-1.08,0.0,-5.01,11.81
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,29,79,1.0,10.0,-1.08,3.33,-5.25,9.88
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,29,74,1.0,10.0,-1.08,0.0,-5.21,13.08
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,29,69,1.0,10.0,-1.08,0.0,-6.22,14.19
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,29,69,1.0,10.0,-1.08,1.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,60,14,29,69,1.0,10.0,-1.08,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,29,69,1.0,10.0,-1.08,0.9,-5.81,9.03
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,29,69,1.0,10.0,-1.08,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,29,69,1.0,10.0,-1.08,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,29,69,1.0,10.0,-1.08,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,29,69,1.0,10.0,-1.08,2.37,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,29,69,1.0,10.0,-1.08,0.0,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,29,69,1.0,10.0,-1.08,0.87,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,29,69,1.0,10.0,-1.08,-6.37,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,29,69,1.0,10.0,-1.08,-3.74,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,29,69,1.0,10.0,-1.08,3.33,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,29,69,1.0,10.0,-1.08,1.52,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,29,69,1.0,10.0,-1.08,-0.04,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,60,14,29,69,1.0,10.0,-1.08,-6.18,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,29,69,1.0,10.0,-1.08,-3.89,-6.78,8.67
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,29,74,1.0,10.0,-1.08,2.37,-7.78,10.0
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,29,69,1.0,10.0,-1.08,-4.58,-8.02,10.98
+131,FIG,Simplify Macro Strategy ETF,5,60,14,29,69,1.0,10.0,-1.08,0.0,-6.67,11.9
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,29,74,1.0,10.0,-1.08,3.33,-5.25,9.88
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,29,74,1.0,10.0,-1.08,-4.54,-5.43,11.55
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,29,74,1.0,10.0,-1.08,0.0,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,29,74,1.0,10.0,-1.08,0.87,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,29,74,1.0,10.0,-1.08,-6.37,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,29,74,1.0,10.0,-1.08,-3.74,-4.98,11.83
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,29,69,1.0,10.0,-1.08,-2.56,-6.48,11.07
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,29,74,1.0,10.0,-1.08,1.52,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,29,74,1.0,10.0,-1.08,-0.04,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,60,14,29,74,1.0,10.0,-1.08,-6.18,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,29,74,1.0,10.0,-1.08,-3.89,-6.78,8.67
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,29,74,1.0,10.0,-1.08,-12.49,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,74,1.0,10.0,-1.08,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,29,74,1.0,10.0,-1.08,-5.73,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,29,69,1.0,10.0,-1.08,9.39,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,29,69,1.0,10.0,-1.08,0.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,29,69,1.0,10.0,-1.08,0.0,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,29,69,1.0,10.0,-1.08,0.0,-6.92,9.81
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,34,54,1.0,10.0,-1.16,-4.58,-8.02,10.98
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,34,54,1.0,10.0,-1.16,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,34,54,1.0,10.0,-1.16,0.0,-7.58,14.25
+131,FIG,Simplify Macro Strategy ETF,5,60,14,34,54,1.0,10.0,-1.16,-9.74,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,34,54,1.0,10.0,-1.16,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,34,54,1.0,10.0,-1.16,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,34,54,1.0,10.0,-1.16,1.54,-7.0,10.44
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,34,54,1.0,10.0,-1.16,11.16,-5.13,9.94
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,34,54,1.0,10.0,-1.16,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,34,54,1.0,10.0,-1.16,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,34,54,1.0,10.0,-1.16,-2.38,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,34,54,1.0,10.0,-1.16,-0.24,-6.82,9.78
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,34,54,1.0,10.0,-1.16,2.37,-7.78,10.0
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,34,54,1.0,10.0,-1.16,1.05,-5.64,8.87
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,34,54,1.0,10.0,-1.16,0.0,-5.21,13.08
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,54,1.0,10.0,-1.16,0.81,-7.79,13.38
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,34,54,1.0,10.0,-1.16,0.0,-6.86,12.93
+131,SJB,ProShares Short High Yield,5,60,14,34,54,1.0,10.0,-1.16,-4.96,-5.87,8.9
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,34,54,1.0,10.0,-1.16,0.87,-6.67,8.52
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,34,54,1.0,10.0,-1.16,-4.18,-4.69,10.47
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,34,54,1.0,10.0,-1.16,2.47,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,34,54,1.0,10.0,-1.16,-3.89,-6.78,8.67
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,34,54,1.0,10.0,-1.16,-15.87,-4.7,12.8
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,34,54,1.0,10.0,-1.16,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,34,54,1.0,10.0,-1.16,1.52,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,34,54,1.0,10.0,-1.16,3.33,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,34,54,1.0,10.0,-1.16,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,34,54,1.0,10.0,-1.16,-6.37,-5.24,9.07
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,34,79,1.0,10.0,-1.23,-7.16,-8.02,10.98
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,34,79,1.0,10.0,-1.23,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,34,79,1.0,10.0,-1.23,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,34,79,1.0,10.0,-1.23,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,120,14,34,79,1.0,10.0,-1.23,0.0,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,34,79,1.0,10.0,-1.23,3.51,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,120,14,34,79,1.0,10.0,-1.23,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,34,79,1.0,10.0,-1.23,0.54,-7.0,10.44
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,34,79,1.0,10.0,-1.23,1.63,-5.64,8.87
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,34,79,1.0,10.0,-1.23,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,34,79,1.0,10.0,-1.23,1.25,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,34,79,1.0,10.0,-1.23,-3.15,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,34,79,1.0,10.0,-1.23,-0.23,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,34,79,1.0,10.0,-1.23,10.5,-5.13,9.94
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,34,59,1.0,10.0,-1.23,1.25,-6.48,11.07
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,34,79,1.0,10.0,-1.23,0.0,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,34,79,1.0,10.0,-1.23,1.13,-7.78,10.0
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,34,59,1.0,10.0,-1.23,-3.15,-6.92,9.81
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,34,79,1.0,10.0,-1.23,-0.18,-6.67,8.52
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,34,64,1.0,10.0,-1.23,-4.55,-4.69,10.47
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,34,59,1.0,10.0,-1.23,10.5,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,34,59,1.0,10.0,-1.23,-0.23,-6.82,9.78
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,34,59,1.0,10.0,-1.23,-4.55,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,59,1.0,10.0,-1.23,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,34,59,1.0,10.0,-1.23,-14.87,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,34,59,1.0,10.0,-1.23,-4.84,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,34,59,1.0,10.0,-1.23,-9.36,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,120,14,34,59,1.0,10.0,-1.23,-5.44,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,34,59,1.0,10.0,-1.23,2.59,-6.25,10.12
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,34,59,1.0,10.0,-1.23,2.31,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,34,59,1.0,10.0,-1.23,-1.91,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,34,59,1.0,10.0,-1.23,-6.33,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,34,59,1.0,10.0,-1.23,-0.18,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,34,59,1.0,10.0,-1.23,0.0,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,34,59,1.0,10.0,-1.23,1.13,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,34,59,1.0,10.0,-1.23,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,34,59,1.0,10.0,-1.23,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,34,59,1.0,10.0,-1.23,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,120,14,34,59,1.0,10.0,-1.23,0.0,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,34,59,1.0,10.0,-1.23,3.51,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,120,14,34,59,1.0,10.0,-1.23,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,34,59,1.0,10.0,-1.23,0.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,34,59,1.0,10.0,-1.23,-7.16,-8.02,10.98
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,69,1.0,10.0,-1.23,0.0,-7.79,13.38
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,34,59,1.0,10.0,-1.23,0.0,-6.22,14.19
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,34,69,1.0,10.0,-1.23,-14.87,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,34,69,1.0,10.0,-1.23,-4.84,-5.43,11.55
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,34,59,1.0,10.0,-1.23,1.63,-5.64,8.87
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,64,1.0,10.0,-1.23,0.0,-7.79,13.38
+131,SJB,ProShares Short High Yield,5,120,14,34,69,1.0,10.0,-1.23,-5.44,-5.87,8.9
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,34,64,1.0,10.0,-1.23,-14.87,-4.7,12.8
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,34,69,1.0,10.0,-1.23,-4.55,-4.69,10.47
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,34,79,1.0,10.0,-1.23,-6.33,-5.24,9.07
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,34,64,1.0,10.0,-1.23,1.63,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,34,64,1.0,10.0,-1.23,10.5,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,34,64,1.0,10.0,-1.23,-0.23,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,34,64,1.0,10.0,-1.23,-3.15,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,34,64,1.0,10.0,-1.23,1.25,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,34,64,1.0,10.0,-1.23,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,34,64,1.0,10.0,-1.23,-7.16,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,34,64,1.0,10.0,-1.23,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,34,64,1.0,10.0,-1.23,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,34,64,1.0,10.0,-1.23,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,34,64,1.0,10.0,-1.23,0.0,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,34,64,1.0,10.0,-1.23,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,34,64,1.0,10.0,-1.23,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,34,64,1.0,10.0,-1.23,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,34,64,1.0,10.0,-1.23,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,34,64,1.0,10.0,-1.23,0.0,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,34,64,1.0,10.0,-1.23,-0.18,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,34,64,1.0,10.0,-1.23,-6.33,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,34,64,1.0,10.0,-1.23,-1.91,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,34,64,1.0,10.0,-1.23,2.31,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,34,64,1.0,10.0,-1.23,0.0,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,34,64,1.0,10.0,-1.23,2.59,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,120,14,34,64,1.0,10.0,-1.23,-5.44,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,34,64,1.0,10.0,-1.23,-9.36,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,34,64,1.0,10.0,-1.23,-4.84,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,34,69,1.0,10.0,-1.23,-9.36,-6.78,8.67
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,34,59,1.0,10.0,-1.23,0.0,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,34,69,1.0,10.0,-1.23,2.59,-6.25,10.12
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,34,74,1.0,10.0,-1.23,1.25,-6.48,11.07
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,34,74,1.0,10.0,-1.23,-6.33,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,34,74,1.0,10.0,-1.23,-0.18,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,34,74,1.0,10.0,-1.23,0.0,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,34,74,1.0,10.0,-1.23,1.13,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,34,74,1.0,10.0,-1.23,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,34,74,1.0,10.0,-1.23,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,34,74,1.0,10.0,-1.23,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,120,14,34,74,1.0,10.0,-1.23,0.0,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,34,74,1.0,10.0,-1.23,3.51,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,120,14,34,74,1.0,10.0,-1.23,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,34,74,1.0,10.0,-1.23,0.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,34,74,1.0,10.0,-1.23,-7.16,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,34,74,1.0,10.0,-1.23,0.0,-6.22,14.19
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,34,74,1.0,10.0,-1.23,-3.15,-6.92,9.81
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,34,74,1.0,10.0,-1.23,2.31,-5.25,9.88
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,34,74,1.0,10.0,-1.23,-0.23,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,34,74,1.0,10.0,-1.23,10.5,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,34,74,1.0,10.0,-1.23,1.63,-5.64,8.87
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,34,69,1.0,10.0,-1.23,0.0,-6.27,9.51
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,79,1.0,10.0,-1.23,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,34,79,1.0,10.0,-1.23,-14.87,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,34,79,1.0,10.0,-1.23,-4.84,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,34,79,1.0,10.0,-1.23,-9.36,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,120,14,34,79,1.0,10.0,-1.23,-5.44,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,34,79,1.0,10.0,-1.23,2.59,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,34,79,1.0,10.0,-1.23,0.0,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,34,79,1.0,10.0,-1.23,2.31,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,34,79,1.0,10.0,-1.23,-1.91,-4.98,11.83
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,34,74,1.0,10.0,-1.23,-1.91,-4.98,11.83
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,34,79,1.0,10.0,-1.23,-4.55,-4.69,10.47
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,34,74,1.0,10.0,-1.23,0.0,-6.27,9.51
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,34,69,1.0,10.0,-1.23,-7.16,-8.02,10.98
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,34,69,1.0,10.0,-1.23,2.31,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,34,69,1.0,10.0,-1.23,-1.91,-4.98,11.83
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,34,74,1.0,10.0,-1.23,2.59,-6.25,10.12
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,34,69,1.0,10.0,-1.23,-6.33,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,34,69,1.0,10.0,-1.23,-0.18,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,34,69,1.0,10.0,-1.23,0.0,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,34,69,1.0,10.0,-1.23,1.13,-7.78,10.0
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,34,69,1.0,10.0,-1.23,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,34,69,1.0,10.0,-1.23,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,120,14,34,69,1.0,10.0,-1.23,0.0,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,34,69,1.0,10.0,-1.23,3.51,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,120,14,34,69,1.0,10.0,-1.23,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,34,69,1.0,10.0,-1.23,0.54,-7.0,10.44
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,34,69,1.0,10.0,-1.23,0.0,-5.21,13.08
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,34,69,1.0,10.0,-1.23,0.0,-6.22,14.19
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,34,69,1.0,10.0,-1.23,1.63,-5.64,8.87
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,34,74,1.0,10.0,-1.23,-4.84,-5.43,11.55
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,34,69,1.0,10.0,-1.23,1.25,-6.48,11.07
+131,SJB,ProShares Short High Yield,5,120,14,34,74,1.0,10.0,-1.23,-5.44,-5.87,8.9
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,34,74,1.0,10.0,-1.23,-14.87,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,74,1.0,10.0,-1.23,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,34,74,1.0,10.0,-1.23,-4.55,-4.69,10.47
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,34,69,1.0,10.0,-1.23,10.5,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,34,69,1.0,10.0,-1.23,-0.23,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,34,69,1.0,10.0,-1.23,-3.15,-6.92,9.81
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,34,74,1.0,10.0,-1.23,-9.36,-6.78,8.67
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,24,79,1.0,10.0,-1.49,-3.89,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,60,14,24,79,1.0,10.0,-1.49,-4.93,-5.87,8.9
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,24,74,1.0,10.0,-1.49,0.0,-5.64,8.87
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,24,79,1.0,10.0,-1.49,-0.04,-6.25,10.12
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,24,79,1.0,10.0,-1.49,-4.54,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,24,79,1.0,10.0,-1.49,-16.48,-4.7,12.8
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,24,79,1.0,10.0,-1.49,0.0,-6.27,9.51
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,79,1.0,10.0,-1.49,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,24,79,1.0,10.0,-1.49,-4.72,-4.69,10.47
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,24,74,1.0,10.0,-1.49,0.0,-6.92,9.81
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,24,74,1.0,10.0,-1.49,0.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,24,74,1.0,10.0,-1.49,0.0,-6.82,9.78
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,24,74,1.0,10.0,-1.49,-2.56,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,24,74,1.0,10.0,-1.49,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,24,74,1.0,10.0,-1.49,0.0,-8.02,10.98
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,24,79,1.0,10.0,-1.49,-3.74,-4.98,11.83
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,24,74,1.0,10.0,-1.49,1.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,60,14,24,74,1.0,10.0,-1.49,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,24,74,1.0,10.0,-1.49,0.9,-5.81,9.03
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,24,79,1.0,10.0,-1.49,0.0,-5.25,9.88
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,24,79,1.0,10.0,-1.49,0.0,-8.02,10.98
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,24,79,1.0,10.0,-1.49,-6.37,-5.24,9.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,24,79,1.0,10.0,-1.49,0.0,-6.22,14.19
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,24,74,1.0,10.0,-1.49,0.0,-5.01,11.81
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,24,59,1.0,10.0,-1.49,-4.72,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,59,1.0,10.0,-1.49,0.0,-7.79,13.38
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,24,79,1.0,10.0,-1.49,0.0,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,24,79,1.0,10.0,-1.49,0.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,24,79,1.0,10.0,-1.49,0.0,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,24,79,1.0,10.0,-1.49,0.0,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,24,79,1.0,10.0,-1.49,-2.56,-6.48,11.07
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,24,79,1.0,10.0,-1.49,1.54,-7.0,10.44
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,24,79,1.0,10.0,-1.49,0.87,-6.67,8.52
+131,CVRD.K,Madison Covered Call ETF,5,60,14,24,79,1.0,10.0,-1.49,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,24,79,1.0,10.0,-1.49,0.9,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,60,14,24,79,1.0,10.0,-1.49,0.0,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,24,79,1.0,10.0,-1.49,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,24,79,1.0,10.0,-1.49,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,24,79,1.0,10.0,-1.49,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,24,79,1.0,10.0,-1.49,2.37,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,24,79,1.0,10.0,-1.49,0.0,-6.86,12.93
+131,FIG,Simplify Macro Strategy ETF,5,60,14,24,74,1.0,10.0,-1.49,0.0,-6.67,11.9
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,24,69,1.0,10.0,-1.49,-6.37,-5.24,9.07
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,24,74,1.0,10.0,-1.49,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,24,74,1.0,10.0,-1.49,0.0,-5.21,13.08
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,24,59,1.0,10.0,-1.49,0.0,-5.64,8.87
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,24,64,1.0,10.0,-1.49,-4.72,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,64,1.0,10.0,-1.49,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,24,64,1.0,10.0,-1.49,-16.48,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,24,64,1.0,10.0,-1.49,-4.54,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,24,64,1.0,10.0,-1.49,-3.89,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,60,14,24,64,1.0,10.0,-1.49,-4.93,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,24,64,1.0,10.0,-1.49,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,24,64,1.0,10.0,-1.49,0.0,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,24,64,1.0,10.0,-1.49,0.0,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,24,64,1.0,10.0,-1.49,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,24,64,1.0,10.0,-1.49,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,24,64,1.0,10.0,-1.49,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,24,64,1.0,10.0,-1.49,0.0,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,24,64,1.0,10.0,-1.49,2.37,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,24,64,1.0,10.0,-1.49,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,24,64,1.0,10.0,-1.49,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,24,64,1.0,10.0,-1.49,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,24,64,1.0,10.0,-1.49,0.0,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,24,64,1.0,10.0,-1.49,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,24,64,1.0,10.0,-1.49,0.0,-6.35,11.57
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,24,59,1.0,10.0,-1.49,0.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,24,59,1.0,10.0,-1.49,0.0,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,24,59,1.0,10.0,-1.49,0.0,-6.92,9.81
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,24,59,1.0,10.0,-1.49,0.0,-6.86,12.93
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,24,59,1.0,10.0,-1.49,-16.48,-4.7,12.8
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,24,59,1.0,10.0,-1.49,-3.89,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,60,14,24,59,1.0,10.0,-1.49,-4.93,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,24,59,1.0,10.0,-1.49,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,24,59,1.0,10.0,-1.49,0.0,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,24,59,1.0,10.0,-1.49,0.0,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,24,59,1.0,10.0,-1.49,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,24,59,1.0,10.0,-1.49,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,24,59,1.0,10.0,-1.49,0.87,-6.67,8.52
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,24,59,1.0,10.0,-1.49,2.37,-7.78,10.0
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,24,59,1.0,10.0,-1.49,-2.56,-6.48,11.07
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,24,59,1.0,10.0,-1.49,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,24,59,1.0,10.0,-1.49,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,24,59,1.0,10.0,-1.49,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,24,59,1.0,10.0,-1.49,0.0,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,24,59,1.0,10.0,-1.49,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,24,59,1.0,10.0,-1.49,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,24,59,1.0,10.0,-1.49,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,24,59,1.0,10.0,-1.49,0.0,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,24,59,1.0,10.0,-1.49,0.0,-6.22,14.19
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,24,64,1.0,10.0,-1.49,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,24,64,1.0,10.0,-1.49,0.0,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,24,64,1.0,10.0,-1.49,0.0,-6.22,14.19
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,24,74,1.0,10.0,-1.49,-4.54,-5.43,11.55
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,24,69,1.0,10.0,-1.49,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,24,69,1.0,10.0,-1.49,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,24,69,1.0,10.0,-1.49,0.0,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,24,69,1.0,10.0,-1.49,0.0,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,24,69,1.0,10.0,-1.49,0.0,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,24,69,1.0,10.0,-1.49,0.0,-5.64,8.87
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,24,74,1.0,10.0,-1.49,-4.72,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,74,1.0,10.0,-1.49,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,24,74,1.0,10.0,-1.49,-16.48,-4.7,12.8
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,24,74,1.0,10.0,-1.49,-3.89,-6.78,8.67
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,24,69,1.0,10.0,-1.49,1.54,-7.0,10.44
+131,SJB,ProShares Short High Yield,5,60,14,24,74,1.0,10.0,-1.49,-4.93,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,24,74,1.0,10.0,-1.49,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,24,74,1.0,10.0,-1.49,0.0,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,24,74,1.0,10.0,-1.49,0.0,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,24,74,1.0,10.0,-1.49,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,24,74,1.0,10.0,-1.49,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,24,74,1.0,10.0,-1.49,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,24,74,1.0,10.0,-1.49,0.0,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,24,74,1.0,10.0,-1.49,2.37,-7.78,10.0
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,24,69,1.0,10.0,-1.49,0.0,-8.02,10.98
+131,CVRD.K,Madison Covered Call ETF,5,60,14,24,69,1.0,10.0,-1.49,0.0,-6.35,11.57
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,24,64,1.0,10.0,-1.49,-2.56,-6.48,11.07
+131,SJB,ProShares Short High Yield,5,60,14,24,69,1.0,10.0,-1.49,-4.93,-5.87,8.9
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,24,64,1.0,10.0,-1.49,0.0,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,24,64,1.0,10.0,-1.49,0.0,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,24,64,1.0,10.0,-1.49,0.0,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,24,64,1.0,10.0,-1.49,0.0,-5.64,8.87
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,24,69,1.0,10.0,-1.49,-4.72,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,69,1.0,10.0,-1.49,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,24,69,1.0,10.0,-1.49,-16.48,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,24,69,1.0,10.0,-1.49,-4.54,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,24,69,1.0,10.0,-1.49,-3.89,-6.78,8.67
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,24,69,1.0,10.0,-1.49,-0.04,-6.25,10.12
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,24,69,1.0,10.0,-1.49,0.9,-5.81,9.03
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,24,69,1.0,10.0,-1.49,0.0,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,24,69,1.0,10.0,-1.49,0.0,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,24,69,1.0,10.0,-1.49,-3.74,-4.98,11.83
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,24,69,1.0,10.0,-1.49,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,24,69,1.0,10.0,-1.49,0.0,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,24,69,1.0,10.0,-1.49,2.37,-7.78,10.0
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,24,69,1.0,10.0,-1.49,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,24,69,1.0,10.0,-1.49,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,24,69,1.0,10.0,-1.49,0.0,-6.67,11.9
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,24,59,1.0,10.0,-1.49,-4.54,-5.43,11.55
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,24,69,1.0,10.0,-1.49,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,34,69,1.0,10.0,-1.51,2.37,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,34,74,1.0,10.0,-1.51,0.0,-6.86,12.93
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,34,74,1.0,10.0,-1.51,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,34,74,1.0,10.0,-1.51,1.52,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,34,74,1.0,10.0,-1.51,3.33,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,34,74,1.0,10.0,-1.51,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,34,74,1.0,10.0,-1.51,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,34,74,1.0,10.0,-1.51,0.87,-6.67,8.52
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,34,74,1.0,10.0,-1.51,2.37,-7.78,10.0
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,34,74,1.0,10.0,-1.51,-3.89,-6.78,8.67
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,34,74,1.0,10.0,-1.51,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,34,74,1.0,10.0,-1.51,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,34,74,1.0,10.0,-1.51,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,34,74,1.0,10.0,-1.51,-9.74,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,34,74,1.0,10.0,-1.51,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,34,74,1.0,10.0,-1.51,0.0,-6.35,11.57
+131,SJB,ProShares Short High Yield,5,60,14,34,74,1.0,10.0,-1.51,-6.18,-5.87,8.9
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,34,74,1.0,10.0,-1.51,-4.54,-5.43,11.55
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,34,69,1.0,10.0,-1.51,0.0,-5.21,13.08
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,34,69,1.0,10.0,-1.51,0.0,-6.22,14.19
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,34,69,1.0,10.0,-1.51,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,34,69,1.0,10.0,-1.51,-9.74,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,34,69,1.0,10.0,-1.51,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,34,69,1.0,10.0,-1.51,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,34,69,1.0,10.0,-1.51,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,34,69,1.0,10.0,-1.51,-4.58,-8.02,10.98
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,34,69,1.0,10.0,-1.51,-2.56,-6.48,11.07
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,34,74,1.0,10.0,-1.51,-15.87,-4.7,12.8
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,34,69,1.0,10.0,-1.51,-2.38,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,34,69,1.0,10.0,-1.51,-0.24,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,34,69,1.0,10.0,-1.51,11.16,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,34,69,1.0,10.0,-1.51,1.05,-5.64,8.87
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,34,74,1.0,10.0,-1.51,-5.73,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,74,1.0,10.0,-1.51,0.81,-7.79,13.38
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,34,74,1.0,10.0,-1.51,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,34,74,1.0,10.0,-1.51,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,34,74,1.0,10.0,-1.51,0.0,-6.22,14.19
+131,CVRD.K,Madison Covered Call ETF,5,60,14,34,79,1.0,10.0,-1.51,0.0,-6.35,11.57
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,34,79,1.0,10.0,-1.51,2.37,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,34,79,1.0,10.0,-1.51,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,34,79,1.0,10.0,-1.51,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,34,79,1.0,10.0,-1.51,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,34,79,1.0,10.0,-1.51,-9.74,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,34,79,1.0,10.0,-1.51,0.9,-5.81,9.03
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,34,79,1.0,10.0,-1.51,1.54,-7.0,10.44
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,34,74,1.0,10.0,-1.51,-2.56,-6.48,11.07
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,34,79,1.0,10.0,-1.51,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,34,79,1.0,10.0,-1.51,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,34,79,1.0,10.0,-1.51,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,34,79,1.0,10.0,-1.51,-2.38,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,34,79,1.0,10.0,-1.51,-0.24,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,34,79,1.0,10.0,-1.51,11.16,-5.13,9.94
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,34,79,1.0,10.0,-1.51,0.0,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,34,79,1.0,10.0,-1.51,0.87,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,34,79,1.0,10.0,-1.51,-6.37,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,34,79,1.0,10.0,-1.51,-3.74,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,34,79,1.0,10.0,-1.51,3.33,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,34,79,1.0,10.0,-1.51,1.52,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,34,79,1.0,10.0,-1.51,-0.04,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,60,14,34,79,1.0,10.0,-1.51,-6.18,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,34,79,1.0,10.0,-1.51,-3.89,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,34,79,1.0,10.0,-1.51,-4.54,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,34,79,1.0,10.0,-1.51,-15.87,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,79,1.0,10.0,-1.51,0.81,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,34,79,1.0,10.0,-1.51,-5.73,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,34,74,1.0,10.0,-1.51,1.05,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,34,74,1.0,10.0,-1.51,11.16,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,34,74,1.0,10.0,-1.51,-0.24,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,34,74,1.0,10.0,-1.51,-2.38,-6.92,9.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,34,69,1.0,10.0,-1.51,0.0,-7.58,14.25
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,34,79,1.0,10.0,-1.51,1.05,-5.64,8.87
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,34,59,1.0,10.0,-1.51,1.52,-6.27,9.51
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,34,59,1.0,10.0,-1.51,-0.24,-6.82,9.78
+131,CVRD.K,Madison Covered Call ETF,5,60,14,34,59,1.0,10.0,-1.51,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,34,59,1.0,10.0,-1.51,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,34,59,1.0,10.0,-1.51,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,34,59,1.0,10.0,-1.51,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,34,59,1.0,10.0,-1.51,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,34,59,1.0,10.0,-1.51,-2.38,-6.92,9.81
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,34,59,1.0,10.0,-1.51,11.16,-5.13,9.94
+131,FIG,Simplify Macro Strategy ETF,5,60,14,34,59,1.0,10.0,-1.51,-9.74,-6.67,11.9
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,34,59,1.0,10.0,-1.51,1.05,-5.64,8.87
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,34,64,1.0,10.0,-1.51,-5.73,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,64,1.0,10.0,-1.51,0.81,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,34,64,1.0,10.0,-1.51,-15.87,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,34,64,1.0,10.0,-1.51,-4.54,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,34,64,1.0,10.0,-1.51,-3.89,-6.78,8.67
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,34,59,1.0,10.0,-1.51,0.9,-5.81,9.03
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,34,59,1.0,10.0,-1.51,0.0,-5.01,11.81
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,34,64,1.0,10.0,-1.51,-0.04,-6.25,10.12
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,34,59,1.0,10.0,-1.51,-0.04,-6.25,10.12
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,34,59,1.0,10.0,-1.51,-5.73,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,59,1.0,10.0,-1.51,0.81,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,34,59,1.0,10.0,-1.51,-15.87,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,34,59,1.0,10.0,-1.51,-4.54,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,34,59,1.0,10.0,-1.51,-3.89,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,60,14,34,59,1.0,10.0,-1.51,-6.18,-5.87,8.9
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,34,69,1.0,10.0,-1.51,0.0,-6.86,12.93
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,34,59,1.0,10.0,-1.51,0.0,-7.58,14.25
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,34,59,1.0,10.0,-1.51,3.33,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,34,59,1.0,10.0,-1.51,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,34,59,1.0,10.0,-1.51,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,34,59,1.0,10.0,-1.51,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,34,59,1.0,10.0,-1.51,0.0,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,34,59,1.0,10.0,-1.51,2.37,-7.78,10.0
+131,SJB,ProShares Short High Yield,5,60,14,34,64,1.0,10.0,-1.51,-6.18,-5.87,8.9
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,34,59,1.0,10.0,-1.51,0.0,-5.21,13.08
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,34,64,1.0,10.0,-1.51,1.52,-6.27,9.51
+131,SJB,ProShares Short High Yield,5,60,14,34,69,1.0,10.0,-1.51,-6.18,-5.87,8.9
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,34,64,1.0,10.0,-1.51,11.16,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,34,64,1.0,10.0,-1.51,1.05,-5.64,8.87
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,34,69,1.0,10.0,-1.51,-5.73,-4.69,10.47
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,34,69,1.0,10.0,-1.51,-15.87,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,34,69,1.0,10.0,-1.51,-4.54,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,34,69,1.0,10.0,-1.51,-3.89,-6.78,8.67
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,34,69,1.0,10.0,-1.51,-0.04,-6.25,10.12
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,34,64,1.0,10.0,-1.51,-2.38,-6.92,9.81
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,34,69,1.0,10.0,-1.51,1.52,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,34,69,1.0,10.0,-1.51,3.33,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,34,69,1.0,10.0,-1.51,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,34,69,1.0,10.0,-1.51,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,34,69,1.0,10.0,-1.51,0.87,-6.67,8.52
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,34,64,1.0,10.0,-1.51,3.33,-5.25,9.88
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,34,64,1.0,10.0,-1.51,-0.24,-6.82,9.78
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,69,1.0,10.0,-1.51,0.81,-7.79,13.38
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,34,64,1.0,10.0,-1.51,-2.56,-6.48,11.07
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,34,64,1.0,10.0,-1.51,0.0,-5.01,11.81
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,34,64,1.0,10.0,-1.51,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,34,64,1.0,10.0,-1.51,-6.37,-5.24,9.07
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,34,64,1.0,10.0,-1.51,0.0,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,34,64,1.0,10.0,-1.51,2.37,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,34,64,1.0,10.0,-1.51,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,34,64,1.0,10.0,-1.51,0.0,-7.58,14.25
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,34,64,1.0,10.0,-1.51,0.87,-6.67,8.52
+131,FIG,Simplify Macro Strategy ETF,5,60,14,34,64,1.0,10.0,-1.51,-9.74,-6.67,11.9
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,34,64,1.0,10.0,-1.51,1.54,-7.0,10.44
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,34,64,1.0,10.0,-1.51,0.9,-5.81,9.03
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,34,64,1.0,10.0,-1.51,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,34,64,1.0,10.0,-1.51,0.0,-6.22,14.19
+131,CVRD.K,Madison Covered Call ETF,5,60,14,34,64,1.0,10.0,-1.51,0.0,-6.35,11.57
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,44,54,1.0,10.0,-2.0,-4.54,-4.69,10.47
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,44,54,1.0,10.0,-2.0,2.37,-7.78,10.0
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,54,1.0,10.0,-2.0,0.81,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,44,54,1.0,10.0,-2.0,-14.2,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,44,54,1.0,10.0,-2.0,0.38,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,44,54,1.0,10.0,-2.0,-8.16,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,60,14,44,54,1.0,10.0,-2.0,-5.06,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,44,54,1.0,10.0,-2.0,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,44,54,1.0,10.0,-2.0,1.52,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,44,54,1.0,10.0,-2.0,3.33,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,44,54,1.0,10.0,-2.0,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,44,54,1.0,10.0,-2.0,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,44,54,1.0,10.0,-2.0,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,44,54,1.0,10.0,-2.0,-9.92,-6.86,12.93
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,44,54,1.0,10.0,-2.0,-2.63,-6.92,9.81
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,44,54,1.0,10.0,-2.0,0.0,-5.21,13.08
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,44,54,1.0,10.0,-2.0,-4.58,-8.02,10.98
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,44,54,1.0,10.0,-2.0,0.0,-7.58,14.25
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,44,54,1.0,10.0,-2.0,1.05,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,44,54,1.0,10.0,-2.0,3.14,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,44,54,1.0,10.0,-2.0,-0.24,-6.82,9.78
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,44,54,1.0,10.0,-2.0,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,44,54,1.0,10.0,-2.0,-2.56,-6.48,11.07
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,44,54,1.0,10.0,-2.0,1.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,60,14,44,54,1.0,10.0,-2.0,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,44,54,1.0,10.0,-2.0,0.9,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,60,14,44,54,1.0,10.0,-2.0,-9.74,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,44,54,1.0,10.0,-2.0,0.0,-5.01,11.81
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,39,54,1.0,10.0,-2.03,-4.58,-8.02,10.98
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,39,54,1.0,10.0,-2.03,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,39,54,1.0,10.0,-2.03,-9.74,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,39,54,1.0,10.0,-2.03,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,39,54,1.0,10.0,-2.03,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,39,54,1.0,10.0,-2.03,1.54,-7.0,10.44
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,39,54,1.0,10.0,-2.03,3.14,-5.13,9.94
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,39,54,1.0,10.0,-2.03,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,39,54,1.0,10.0,-2.03,-2.56,-6.48,11.07
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,39,54,1.0,10.0,-2.03,0.0,-5.21,13.08
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,39,54,1.0,10.0,-2.03,-2.63,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,39,54,1.0,10.0,-2.03,-0.24,-6.82,9.78
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,39,54,1.0,10.0,-2.03,0.0,-7.58,14.25
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,39,54,1.0,10.0,-2.03,-0.25,-5.43,11.55
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,39,54,1.0,10.0,-2.03,2.37,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,39,54,1.0,10.0,-2.03,-9.92,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,39,54,1.0,10.0,-2.03,0.87,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,39,54,1.0,10.0,-2.03,-6.37,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,39,54,1.0,10.0,-2.03,-3.74,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,39,54,1.0,10.0,-2.03,3.33,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,39,54,1.0,10.0,-2.03,1.52,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,39,54,1.0,10.0,-2.03,-0.04,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,60,14,39,54,1.0,10.0,-2.03,-5.17,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,39,54,1.0,10.0,-2.03,-8.16,-6.78,8.67
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,39,54,1.0,10.0,-2.03,-14.32,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,54,1.0,10.0,-2.03,0.81,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,39,54,1.0,10.0,-2.03,-4.54,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,39,54,1.0,10.0,-2.03,1.05,-5.64,8.87
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,49,54,1.0,10.0,-2.04,-3.01,-4.98,11.83
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,49,54,1.0,10.0,-2.04,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,49,54,1.0,10.0,-2.04,-9.92,-6.86,12.93
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,49,54,1.0,10.0,-2.04,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,49,54,1.0,10.0,-2.04,1.52,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,49,54,1.0,10.0,-2.04,3.33,-5.25,9.88
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,49,54,1.0,10.0,-2.04,-2.56,-6.48,11.07
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,49,54,1.0,10.0,-2.04,-6.37,-5.24,9.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,49,54,1.0,10.0,-2.04,0.0,-6.22,14.19
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,49,54,1.0,10.0,-2.04,2.37,-7.78,10.0
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,49,54,1.0,10.0,-2.04,-4.58,-8.02,10.98
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,49,54,1.0,10.0,-2.04,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,49,54,1.0,10.0,-2.04,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,49,54,1.0,10.0,-2.04,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,49,54,1.0,10.0,-2.04,-9.74,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,49,54,1.0,10.0,-2.04,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,49,54,1.0,10.0,-2.04,0.0,-6.35,11.57
+131,SJB,ProShares Short High Yield,5,60,14,49,54,1.0,10.0,-2.04,-5.29,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,49,54,1.0,10.0,-2.04,-8.16,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,49,54,1.0,10.0,-2.04,-1.26,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,49,54,1.0,10.0,-2.04,-14.2,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,54,1.0,10.0,-2.04,0.81,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,49,54,1.0,10.0,-2.04,-4.54,-4.69,10.47
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,49,54,1.0,10.0,-2.04,-2.63,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,49,54,1.0,10.0,-2.04,-0.24,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,49,54,1.0,10.0,-2.04,3.14,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,49,54,1.0,10.0,-2.04,1.05,-5.64,8.87
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,49,54,1.0,10.0,-2.04,1.54,-7.0,10.44
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,39,74,1.0,10.0,-2.26,1.52,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,39,74,1.0,10.0,-2.26,3.33,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,39,74,1.0,10.0,-2.26,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,39,74,1.0,10.0,-2.26,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,39,74,1.0,10.0,-2.26,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,39,74,1.0,10.0,-2.26,-9.92,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,39,74,1.0,10.0,-2.26,2.37,-7.78,10.0
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,39,69,1.0,10.0,-2.26,-2.63,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,39,69,1.0,10.0,-2.26,-0.24,-6.82,9.78
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,39,74,1.0,10.0,-2.26,0.0,-7.58,14.25
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,39,69,1.0,10.0,-2.26,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,39,69,1.0,10.0,-2.26,-2.56,-6.48,11.07
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,39,74,1.0,10.0,-2.26,-0.04,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,60,14,39,74,1.0,10.0,-2.26,-6.18,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,39,74,1.0,10.0,-2.26,-8.16,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,39,74,1.0,10.0,-2.26,-4.54,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,39,74,1.0,10.0,-2.26,-14.32,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,74,1.0,10.0,-2.26,0.81,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,39,74,1.0,10.0,-2.26,-5.86,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,39,69,1.0,10.0,-2.26,1.05,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,39,69,1.0,10.0,-2.26,3.14,-5.13,9.94
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,39,74,1.0,10.0,-2.26,0.0,-5.21,13.08
+131,CVRD.K,Madison Covered Call ETF,5,60,14,44,59,1.0,10.0,-2.26,0.0,-6.35,11.57
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,39,74,1.0,10.0,-2.26,0.0,-5.01,11.81
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,79,1.0,10.0,-2.26,0.81,-7.79,13.38
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,39,69,1.0,10.0,-2.26,1.54,-7.0,10.44
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,39,79,1.0,10.0,-2.26,-6.37,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,39,79,1.0,10.0,-2.26,-3.74,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,39,79,1.0,10.0,-2.26,3.33,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,39,79,1.0,10.0,-2.26,1.52,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,39,79,1.0,10.0,-2.26,-0.04,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,60,14,39,79,1.0,10.0,-2.26,-6.18,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,39,79,1.0,10.0,-2.26,-8.16,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,39,79,1.0,10.0,-2.26,-4.54,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,39,79,1.0,10.0,-2.26,-14.32,-4.7,12.8
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,39,79,1.0,10.0,-2.26,-5.86,-4.69,10.47
+131,FIG,Simplify Macro Strategy ETF,5,60,14,39,74,1.0,10.0,-2.26,-9.74,-6.67,11.9
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,39,74,1.0,10.0,-2.26,1.05,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,39,74,1.0,10.0,-2.26,3.14,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,39,74,1.0,10.0,-2.26,-0.24,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,39,74,1.0,10.0,-2.26,-2.63,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,39,74,1.0,10.0,-2.26,-2.56,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,39,74,1.0,10.0,-2.26,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,39,74,1.0,10.0,-2.26,-4.58,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,39,74,1.0,10.0,-2.26,1.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,60,14,39,74,1.0,10.0,-2.26,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,39,74,1.0,10.0,-2.26,0.9,-5.81,9.03
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,39,69,1.0,10.0,-2.26,-4.58,-8.02,10.98
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,39,59,1.0,10.0,-2.26,0.0,-5.21,13.08
+131,CVRD.K,Madison Covered Call ETF,5,60,14,39,69,1.0,10.0,-2.26,0.0,-6.35,11.57
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,39,59,1.0,10.0,-2.26,3.14,-5.13,9.94
+131,CVRD.K,Madison Covered Call ETF,5,60,14,39,59,1.0,10.0,-2.26,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,39,59,1.0,10.0,-2.26,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,39,59,1.0,10.0,-2.26,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,39,59,1.0,10.0,-2.26,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,39,59,1.0,10.0,-2.26,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,39,59,1.0,10.0,-2.26,-2.63,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,39,59,1.0,10.0,-2.26,-0.24,-6.82,9.78
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,39,59,1.0,10.0,-2.26,1.05,-5.64,8.87
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,39,64,1.0,10.0,-2.26,3.33,-5.25,9.88
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,39,64,1.0,10.0,-2.26,-5.86,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,64,1.0,10.0,-2.26,0.81,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,39,64,1.0,10.0,-2.26,-14.32,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,39,64,1.0,10.0,-2.26,-4.54,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,39,64,1.0,10.0,-2.26,-8.16,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,60,14,39,64,1.0,10.0,-2.26,-6.18,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,39,64,1.0,10.0,-2.26,-0.04,-6.25,10.12
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,39,59,1.0,10.0,-2.26,0.9,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,60,14,39,59,1.0,10.0,-2.26,-9.74,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,39,59,1.0,10.0,-2.26,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,39,59,1.0,10.0,-2.26,0.0,-7.58,14.25
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,39,59,1.0,10.0,-2.26,-5.86,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,59,1.0,10.0,-2.26,0.81,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,39,59,1.0,10.0,-2.26,-14.32,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,39,59,1.0,10.0,-2.26,-4.54,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,39,59,1.0,10.0,-2.26,-8.16,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,60,14,39,59,1.0,10.0,-2.26,-6.18,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,39,59,1.0,10.0,-2.26,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,39,59,1.0,10.0,-2.26,1.52,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,39,59,1.0,10.0,-2.26,3.33,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,39,59,1.0,10.0,-2.26,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,39,59,1.0,10.0,-2.26,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,39,59,1.0,10.0,-2.26,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,39,59,1.0,10.0,-2.26,-9.92,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,39,59,1.0,10.0,-2.26,2.37,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,39,79,1.0,10.0,-2.26,-9.92,-6.86,12.93
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,39,64,1.0,10.0,-2.26,1.52,-6.27,9.51
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,39,64,1.0,10.0,-2.26,-3.74,-4.98,11.83
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,39,69,1.0,10.0,-2.26,0.9,-5.81,9.03
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,39,69,1.0,10.0,-2.26,-3.74,-4.98,11.83
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,39,69,1.0,10.0,-2.26,-14.32,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,39,69,1.0,10.0,-2.26,-4.54,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,39,69,1.0,10.0,-2.26,-8.16,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,60,14,39,69,1.0,10.0,-2.26,-6.18,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,39,69,1.0,10.0,-2.26,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,39,69,1.0,10.0,-2.26,1.52,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,39,69,1.0,10.0,-2.26,3.33,-5.25,9.88
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,39,69,1.0,10.0,-2.26,-6.37,-5.24,9.07
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,39,64,1.0,10.0,-2.26,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,39,69,1.0,10.0,-2.26,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,39,69,1.0,10.0,-2.26,-9.92,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,39,69,1.0,10.0,-2.26,2.37,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,39,69,1.0,10.0,-2.26,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,39,69,1.0,10.0,-2.26,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,39,69,1.0,10.0,-2.26,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,39,69,1.0,10.0,-2.26,-9.74,-6.67,11.9
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,69,1.0,10.0,-2.26,0.81,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,39,69,1.0,10.0,-2.26,-5.86,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,39,64,1.0,10.0,-2.26,1.05,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,39,64,1.0,10.0,-2.26,3.14,-5.13,9.94
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,39,64,1.0,10.0,-2.26,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,39,64,1.0,10.0,-2.26,-9.92,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,39,64,1.0,10.0,-2.26,2.37,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,39,64,1.0,10.0,-2.26,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,39,64,1.0,10.0,-2.26,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,39,64,1.0,10.0,-2.26,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,39,64,1.0,10.0,-2.26,-9.74,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,39,64,1.0,10.0,-2.26,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,39,64,1.0,10.0,-2.26,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,39,64,1.0,10.0,-2.26,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,39,64,1.0,10.0,-2.26,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,39,64,1.0,10.0,-2.26,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,39,64,1.0,10.0,-2.26,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,39,64,1.0,10.0,-2.26,-2.63,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,39,64,1.0,10.0,-2.26,-0.24,-6.82,9.78
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,39,79,1.0,10.0,-2.26,0.87,-6.67,8.52
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,44,64,1.0,10.0,-2.26,1.05,-5.64,8.87
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,39,79,1.0,10.0,-2.26,2.37,-7.78,10.0
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,44,74,1.0,10.0,-2.26,3.33,-5.25,9.88
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,74,1.0,10.0,-2.26,0.81,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,44,74,1.0,10.0,-2.26,-14.2,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,44,74,1.0,10.0,-2.26,-4.54,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,44,74,1.0,10.0,-2.26,-8.16,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,60,14,44,74,1.0,10.0,-2.26,-6.18,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,44,74,1.0,10.0,-2.26,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,44,74,1.0,10.0,-2.26,1.52,-6.27,9.51
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,44,74,1.0,10.0,-2.26,-3.74,-4.98,11.83
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,44,74,1.0,10.0,-2.26,0.9,-5.81,9.03
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,44,74,1.0,10.0,-2.26,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,44,74,1.0,10.0,-2.26,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,44,74,1.0,10.0,-2.26,-9.92,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,44,74,1.0,10.0,-2.26,2.37,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,44,74,1.0,10.0,-2.26,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,44,74,1.0,10.0,-2.26,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,44,74,1.0,10.0,-2.26,0.0,-5.01,11.81
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,44,74,1.0,10.0,-2.26,-5.86,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,44,69,1.0,10.0,-2.26,1.05,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,44,69,1.0,10.0,-2.26,3.14,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,44,69,1.0,10.0,-2.26,-0.24,-6.82,9.78
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,44,69,1.0,10.0,-2.26,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,44,69,1.0,10.0,-2.26,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,44,69,1.0,10.0,-2.26,-9.92,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,44,69,1.0,10.0,-2.26,2.37,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,44,69,1.0,10.0,-2.26,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,44,69,1.0,10.0,-2.26,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,44,69,1.0,10.0,-2.26,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,44,69,1.0,10.0,-2.26,-9.74,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,44,69,1.0,10.0,-2.26,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,44,69,1.0,10.0,-2.26,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,44,69,1.0,10.0,-2.26,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,44,69,1.0,10.0,-2.26,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,44,69,1.0,10.0,-2.26,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,44,69,1.0,10.0,-2.26,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,44,69,1.0,10.0,-2.26,-2.63,-6.92,9.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,44,74,1.0,10.0,-2.26,-9.74,-6.67,11.9
+131,CVRD.K,Madison Covered Call ETF,5,60,14,44,74,1.0,10.0,-2.26,0.0,-6.35,11.57
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,39,79,1.0,10.0,-2.26,0.0,-5.21,13.08
+131,CVRD.K,Madison Covered Call ETF,5,60,14,44,79,1.0,10.0,-2.26,0.0,-6.35,11.57
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,44,79,1.0,10.0,-2.26,-9.92,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,44,79,1.0,10.0,-2.26,2.37,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,44,79,1.0,10.0,-2.26,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,44,79,1.0,10.0,-2.26,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,44,79,1.0,10.0,-2.26,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,44,79,1.0,10.0,-2.26,-9.74,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,44,79,1.0,10.0,-2.26,0.9,-5.81,9.03
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,44,79,1.0,10.0,-2.26,1.54,-7.0,10.44
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,44,74,1.0,10.0,-2.26,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,44,79,1.0,10.0,-2.26,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,44,79,1.0,10.0,-2.26,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,44,79,1.0,10.0,-2.26,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,44,79,1.0,10.0,-2.26,-2.63,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,44,79,1.0,10.0,-2.26,-0.24,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,44,79,1.0,10.0,-2.26,3.14,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,44,79,1.0,10.0,-2.26,1.05,-5.64,8.87
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,44,79,1.0,10.0,-2.26,0.87,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,44,79,1.0,10.0,-2.26,-6.37,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,44,79,1.0,10.0,-2.26,-3.74,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,44,79,1.0,10.0,-2.26,3.33,-5.25,9.88
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,44,74,1.0,10.0,-2.26,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,44,74,1.0,10.0,-2.26,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,44,74,1.0,10.0,-2.26,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,44,74,1.0,10.0,-2.26,-2.63,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,44,74,1.0,10.0,-2.26,-0.24,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,44,74,1.0,10.0,-2.26,3.14,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,44,74,1.0,10.0,-2.26,1.05,-5.64,8.87
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,44,79,1.0,10.0,-2.26,-5.86,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,79,1.0,10.0,-2.26,0.81,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,44,79,1.0,10.0,-2.26,-14.2,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,44,79,1.0,10.0,-2.26,-4.54,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,44,79,1.0,10.0,-2.26,-8.16,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,60,14,44,79,1.0,10.0,-2.26,-6.18,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,44,79,1.0,10.0,-2.26,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,44,79,1.0,10.0,-2.26,1.52,-6.27,9.51
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,44,69,1.0,10.0,-2.26,-3.74,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,44,69,1.0,10.0,-2.26,3.33,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,44,69,1.0,10.0,-2.26,1.52,-6.27,9.51
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,44,59,1.0,10.0,-2.26,2.37,-7.78,10.0
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,44,59,1.0,10.0,-2.26,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,44,59,1.0,10.0,-2.26,1.52,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,44,59,1.0,10.0,-2.26,3.33,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,44,59,1.0,10.0,-2.26,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,44,59,1.0,10.0,-2.26,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,44,59,1.0,10.0,-2.26,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,44,59,1.0,10.0,-2.26,-9.92,-6.86,12.93
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,44,59,1.0,10.0,-2.26,0.0,-5.21,13.08
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,44,69,1.0,10.0,-2.26,-0.04,-6.25,10.12
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,44,59,1.0,10.0,-2.26,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,44,59,1.0,10.0,-2.26,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,44,59,1.0,10.0,-2.26,-9.74,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,44,59,1.0,10.0,-2.26,0.9,-5.81,9.03
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,44,59,1.0,10.0,-2.26,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,44,59,1.0,10.0,-2.26,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,44,59,1.0,10.0,-2.26,0.0,-6.22,14.19
+131,SJB,ProShares Short High Yield,5,60,14,44,59,1.0,10.0,-2.26,-6.18,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,44,59,1.0,10.0,-2.26,-8.16,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,44,59,1.0,10.0,-2.26,-4.54,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,44,59,1.0,10.0,-2.26,-14.2,-4.7,12.8
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,39,79,1.0,10.0,-2.26,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,39,79,1.0,10.0,-2.26,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,39,79,1.0,10.0,-2.26,-9.74,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,39,79,1.0,10.0,-2.26,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,39,79,1.0,10.0,-2.26,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,39,79,1.0,10.0,-2.26,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,39,79,1.0,10.0,-2.26,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,39,79,1.0,10.0,-2.26,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,39,79,1.0,10.0,-2.26,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,39,79,1.0,10.0,-2.26,-2.63,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,39,79,1.0,10.0,-2.26,-0.24,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,39,79,1.0,10.0,-2.26,3.14,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,39,79,1.0,10.0,-2.26,1.05,-5.64,8.87
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,44,59,1.0,10.0,-2.26,-5.86,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,59,1.0,10.0,-2.26,0.81,-7.79,13.38
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,44,59,1.0,10.0,-2.26,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,44,59,1.0,10.0,-2.26,-2.63,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,44,59,1.0,10.0,-2.26,-0.24,-6.82,9.78
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,44,64,1.0,10.0,-2.26,0.0,-5.01,11.81
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,44,64,1.0,10.0,-2.26,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,44,64,1.0,10.0,-2.26,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,44,64,1.0,10.0,-2.26,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,44,64,1.0,10.0,-2.26,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,44,64,1.0,10.0,-2.26,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,44,64,1.0,10.0,-2.26,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,44,64,1.0,10.0,-2.26,-2.63,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,44,64,1.0,10.0,-2.26,-0.24,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,44,64,1.0,10.0,-2.26,3.14,-5.13,9.94
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,44,69,1.0,10.0,-2.26,-5.86,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,69,1.0,10.0,-2.26,0.81,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,44,69,1.0,10.0,-2.26,-14.2,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,44,69,1.0,10.0,-2.26,-4.54,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,44,69,1.0,10.0,-2.26,-8.16,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,60,14,44,69,1.0,10.0,-2.26,-6.18,-5.87,8.9
+131,FIG,Simplify Macro Strategy ETF,5,60,14,44,64,1.0,10.0,-2.26,-9.74,-6.67,11.9
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,44,64,1.0,10.0,-2.26,0.0,-7.58,14.25
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,44,59,1.0,10.0,-2.26,3.14,-5.13,9.94
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,44,64,1.0,10.0,-2.26,0.0,-5.21,13.08
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,44,59,1.0,10.0,-2.26,1.05,-5.64,8.87
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,44,64,1.0,10.0,-2.26,-5.86,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,64,1.0,10.0,-2.26,0.81,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,44,64,1.0,10.0,-2.26,-14.2,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,44,64,1.0,10.0,-2.26,-4.54,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,44,64,1.0,10.0,-2.26,-8.16,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,60,14,44,64,1.0,10.0,-2.26,-6.18,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,44,64,1.0,10.0,-2.26,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,44,64,1.0,10.0,-2.26,1.52,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,44,64,1.0,10.0,-2.26,3.33,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,44,64,1.0,10.0,-2.26,-3.74,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,44,64,1.0,10.0,-2.26,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,44,64,1.0,10.0,-2.26,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,44,64,1.0,10.0,-2.26,-9.92,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,44,64,1.0,10.0,-2.26,2.37,-7.78,10.0
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,59,1.0,10.0,-2.38,0.81,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,49,59,1.0,10.0,-2.38,-5.86,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,49,79,1.0,10.0,-2.38,1.05,-5.64,8.87
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,49,64,1.0,10.0,-2.38,0.0,-5.01,11.81
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,49,64,1.0,10.0,-2.38,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,49,64,1.0,10.0,-2.38,-4.58,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,49,64,1.0,10.0,-2.38,1.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,60,14,49,64,1.0,10.0,-2.38,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,49,64,1.0,10.0,-2.38,0.9,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,60,14,49,64,1.0,10.0,-2.38,-9.74,-6.67,11.9
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,49,64,1.0,10.0,-2.38,0.0,-7.58,14.25
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,49,64,1.0,10.0,-2.38,1.52,-6.27,9.51
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,49,64,1.0,10.0,-2.38,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,49,64,1.0,10.0,-2.38,2.37,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,49,64,1.0,10.0,-2.38,-9.92,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,49,64,1.0,10.0,-2.38,0.87,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,49,64,1.0,10.0,-2.38,-6.37,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,49,64,1.0,10.0,-2.38,-7.1,-4.98,11.83
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,49,64,1.0,10.0,-2.38,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,49,64,1.0,10.0,-2.38,-2.63,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,49,64,1.0,10.0,-2.38,-0.24,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,49,64,1.0,10.0,-2.38,3.14,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,49,64,1.0,10.0,-2.38,1.05,-5.64,8.87
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,49,69,1.0,10.0,-2.38,-5.86,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,69,1.0,10.0,-2.38,0.81,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,49,69,1.0,10.0,-2.38,-14.2,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,49,69,1.0,10.0,-2.38,-4.54,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,49,69,1.0,10.0,-2.38,-8.16,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,60,14,49,69,1.0,10.0,-2.38,-6.18,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,49,69,1.0,10.0,-2.38,-0.04,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,49,69,1.0,10.0,-2.38,1.52,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,49,69,1.0,10.0,-2.38,3.33,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,49,69,1.0,10.0,-2.38,-7.1,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,49,69,1.0,10.0,-2.38,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,49,69,1.0,10.0,-2.38,0.87,-6.67,8.52
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,49,64,1.0,10.0,-2.38,3.33,-5.25,9.88
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,49,64,1.0,10.0,-2.38,-0.04,-6.25,10.12
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,49,69,1.0,10.0,-2.38,2.37,-7.78,10.0
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,49,59,1.0,10.0,-2.38,3.33,-5.25,9.88
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,49,59,1.0,10.0,-2.38,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,49,59,1.0,10.0,-2.38,2.37,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,49,59,1.0,10.0,-2.38,-9.92,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,49,59,1.0,10.0,-2.38,0.87,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,49,59,1.0,10.0,-2.38,-6.37,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,49,59,1.0,10.0,-2.38,-7.1,-4.98,11.83
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,49,59,1.0,10.0,-2.38,1.52,-6.27,9.51
+131,SJB,ProShares Short High Yield,5,60,14,49,64,1.0,10.0,-2.38,-6.18,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,49,59,1.0,10.0,-2.38,-0.04,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,60,14,49,59,1.0,10.0,-2.38,-6.18,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,49,59,1.0,10.0,-2.38,-8.16,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,49,59,1.0,10.0,-2.38,-4.54,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,49,59,1.0,10.0,-2.38,-14.2,-4.7,12.8
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,49,79,1.0,10.0,-2.38,3.14,-5.13,9.94
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,49,59,1.0,10.0,-2.38,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,49,59,1.0,10.0,-2.38,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,49,59,1.0,10.0,-2.38,-9.74,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,49,59,1.0,10.0,-2.38,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,49,59,1.0,10.0,-2.38,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,49,59,1.0,10.0,-2.38,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,49,59,1.0,10.0,-2.38,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,49,59,1.0,10.0,-2.38,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,49,59,1.0,10.0,-2.38,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,49,59,1.0,10.0,-2.38,-2.63,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,49,59,1.0,10.0,-2.38,-0.24,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,49,59,1.0,10.0,-2.38,3.14,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,49,59,1.0,10.0,-2.38,1.05,-5.64,8.87
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,49,64,1.0,10.0,-2.38,-5.86,-4.69,10.47
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,49,64,1.0,10.0,-2.38,-14.2,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,49,64,1.0,10.0,-2.38,-4.54,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,49,64,1.0,10.0,-2.38,-8.16,-6.78,8.67
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,49,69,1.0,10.0,-2.38,-9.92,-6.86,12.93
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,64,1.0,10.0,-2.38,0.81,-7.79,13.38
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,49,69,1.0,10.0,-2.38,0.0,-5.21,13.08
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,49,79,1.0,10.0,-2.38,-14.2,-4.7,12.8
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,49,79,1.0,10.0,-2.38,3.33,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,49,79,1.0,10.0,-2.38,1.52,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,49,79,1.0,10.0,-2.38,-0.04,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,60,14,49,79,1.0,10.0,-2.38,-6.18,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,49,79,1.0,10.0,-2.38,-8.16,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,49,79,1.0,10.0,-2.38,-4.54,-5.43,11.55
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,79,1.0,10.0,-2.38,0.81,-7.79,13.38
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,49,74,1.0,10.0,-2.38,-4.58,-8.02,10.98
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,49,79,1.0,10.0,-2.38,-5.86,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,49,74,1.0,10.0,-2.38,1.05,-5.64,8.87
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,49,79,1.0,10.0,-2.38,-0.24,-6.82,9.78
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,49,74,1.0,10.0,-2.38,-0.24,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,49,74,1.0,10.0,-2.38,-2.63,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,49,74,1.0,10.0,-2.38,-2.56,-6.48,11.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,49,79,1.0,10.0,-2.38,-7.1,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,49,79,1.0,10.0,-2.38,-6.37,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,49,79,1.0,10.0,-2.38,0.87,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,49,79,1.0,10.0,-2.38,-9.92,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,49,79,1.0,10.0,-2.38,2.37,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,49,79,1.0,10.0,-2.38,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,49,79,1.0,10.0,-2.38,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,49,79,1.0,10.0,-2.38,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,60,14,49,79,1.0,10.0,-2.38,-9.74,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,49,79,1.0,10.0,-2.38,0.9,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,60,14,49,79,1.0,10.0,-2.38,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,49,79,1.0,10.0,-2.38,1.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,49,79,1.0,10.0,-2.38,-4.58,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,49,79,1.0,10.0,-2.38,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,49,79,1.0,10.0,-2.38,-2.56,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,49,79,1.0,10.0,-2.38,-2.63,-6.92,9.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,49,69,1.0,10.0,-2.38,0.0,-7.58,14.25
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,49,74,1.0,10.0,-2.38,0.0,-6.22,14.19
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,49,74,1.0,10.0,-2.38,3.14,-5.13,9.94
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,49,74,1.0,10.0,-2.38,1.54,-7.0,10.44
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,60,14,49,69,1.0,10.0,-2.38,-2.56,-6.48,11.07
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,74,1.0,10.0,-2.38,0.81,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,60,14,49,74,1.0,10.0,-2.38,-5.86,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,60,14,49,69,1.0,10.0,-2.38,1.05,-5.64,8.87
+131,CVRD.K,Madison Covered Call ETF,5,60,14,49,74,1.0,10.0,-2.38,0.0,-6.35,11.57
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,60,14,49,69,1.0,10.0,-2.38,-0.24,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,60,14,49,69,1.0,10.0,-2.38,-2.63,-6.92,9.81
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,49,69,1.0,10.0,-2.38,0.0,-6.22,14.19
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,60,14,49,74,1.0,10.0,-2.38,-4.54,-5.43,11.55
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,60,14,49,69,1.0,10.0,-2.38,-4.58,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,60,14,49,69,1.0,10.0,-2.38,1.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,60,14,49,69,1.0,10.0,-2.38,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,49,69,1.0,10.0,-2.38,0.9,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,60,14,49,69,1.0,10.0,-2.38,-9.74,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,49,69,1.0,10.0,-2.38,0.0,-5.01,11.81
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,60,14,49,74,1.0,10.0,-2.38,-14.2,-4.7,12.8
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,60,14,49,69,1.0,10.0,-2.38,3.14,-5.13,9.94
+131,AGGH.K,Simplify Aggregate Bond ETF,5,60,14,49,74,1.0,10.0,-2.38,-8.16,-6.78,8.67
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,60,14,49,74,1.0,10.0,-2.38,-9.92,-6.86,12.93
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,60,14,49,74,1.0,10.0,-2.38,0.9,-5.81,9.03
+131,SJB,ProShares Short High Yield,5,60,14,49,74,1.0,10.0,-2.38,-6.18,-5.87,8.9
+131,PCIG.K,Polen Capital International Growth ETF,5,60,14,49,74,1.0,10.0,-2.38,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,60,14,49,74,1.0,10.0,-2.38,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,60,14,49,74,1.0,10.0,-2.38,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,60,14,49,74,1.0,10.0,-2.38,2.37,-7.78,10.0
+131,FIG,Simplify Macro Strategy ETF,5,60,14,49,74,1.0,10.0,-2.38,-9.74,-6.67,11.9
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,60,14,49,74,1.0,10.0,-2.38,0.87,-6.67,8.52
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,60,14,49,74,1.0,10.0,-2.38,-7.1,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,60,14,49,74,1.0,10.0,-2.38,3.33,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,60,14,49,74,1.0,10.0,-2.38,1.52,-6.27,9.51
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,60,14,49,74,1.0,10.0,-2.38,-6.37,-5.24,9.07
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,60,14,49,74,1.0,10.0,-2.38,-0.04,-6.25,10.12
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,39,54,1.0,10.0,-2.62,-7.16,-8.02,10.98
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,39,54,1.0,10.0,-2.62,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,120,14,39,54,1.0,10.0,-2.62,-12.51,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,39,54,1.0,10.0,-2.62,3.51,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,120,14,39,54,1.0,10.0,-2.62,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,39,54,1.0,10.0,-2.62,0.54,-7.0,10.44
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,39,54,1.0,10.0,-2.62,1.25,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,39,54,1.0,10.0,-2.62,0.0,-6.22,14.19
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,39,54,1.0,10.0,-2.62,-2.85,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,39,54,1.0,10.0,-2.62,-0.23,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,39,54,1.0,10.0,-2.62,2.0,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,39,54,1.0,10.0,-2.62,1.63,-5.64,8.87
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,39,54,1.0,10.0,-2.62,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,39,54,1.0,10.0,-2.62,0.0,-7.58,14.25
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,39,54,1.0,10.0,-2.62,-1.82,-6.27,9.51
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,39,54,1.0,10.0,-2.62,1.13,-7.78,10.0
+131,SJB,ProShares Short High Yield,5,120,14,39,54,1.0,10.0,-2.62,-4.29,-5.87,8.9
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,39,54,1.0,10.0,-2.62,-2.18,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,54,1.0,10.0,-2.62,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,39,54,1.0,10.0,-2.62,-14.87,-4.7,12.8
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,39,54,1.0,10.0,-2.62,-29.43,-6.86,12.93
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,39,54,1.0,10.0,-2.62,-7.41,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,39,54,1.0,10.0,-2.62,2.79,-5.43,11.55
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,39,54,1.0,10.0,-2.62,2.59,-6.25,10.12
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,39,54,1.0,10.0,-2.62,2.31,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,39,54,1.0,10.0,-2.62,-1.91,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,39,54,1.0,10.0,-2.62,-6.33,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,39,54,1.0,10.0,-2.62,-0.18,-6.67,8.52
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,49,54,1.0,10.0,-2.69,-0.18,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,49,54,1.0,10.0,-2.69,-6.33,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,49,54,1.0,10.0,-2.69,-1.91,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,49,54,1.0,10.0,-2.69,2.31,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,49,54,1.0,10.0,-2.69,-1.82,-6.27,9.51
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,49,54,1.0,10.0,-2.69,-4.92,-4.69,10.47
+131,SJB,ProShares Short High Yield,5,120,14,49,54,1.0,10.0,-2.69,-4.16,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,49,54,1.0,10.0,-2.69,-7.41,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,49,54,1.0,10.0,-2.69,3.15,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,49,54,1.0,10.0,-2.69,-14.46,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,54,1.0,10.0,-2.69,0.0,-7.79,13.38
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,49,54,1.0,10.0,-2.69,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,49,54,1.0,10.0,-2.69,-29.43,-6.86,12.93
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,49,54,1.0,10.0,-2.69,2.59,-6.25,10.12
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,49,54,1.0,10.0,-2.69,0.0,-5.21,13.08
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,49,54,1.0,10.0,-2.69,0.0,-6.22,14.19
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,49,54,1.0,10.0,-2.69,0.0,-7.58,14.25
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,49,54,1.0,10.0,-2.69,2.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,49,54,1.0,10.0,-2.69,-0.23,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,49,54,1.0,10.0,-2.69,-2.85,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,49,54,1.0,10.0,-2.69,1.25,-6.48,11.07
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,49,54,1.0,10.0,-2.69,1.63,-5.64,8.87
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,49,54,1.0,10.0,-2.69,-7.16,-8.02,10.98
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,49,54,1.0,10.0,-2.69,0.0,-5.01,11.81
+131,CVRD.K,Madison Covered Call ETF,5,120,14,49,54,1.0,10.0,-2.69,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,49,54,1.0,10.0,-2.69,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,49,54,1.0,10.0,-2.69,-12.51,-6.67,11.9
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,49,54,1.0,10.0,-2.69,0.54,-7.0,10.44
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,44,54,1.0,10.0,-2.71,-29.43,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,44,54,1.0,10.0,-2.71,-0.18,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,44,54,1.0,10.0,-2.71,-6.33,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,44,54,1.0,10.0,-2.71,-1.91,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,44,54,1.0,10.0,-2.71,2.31,-5.25,9.88
+131,SJB,ProShares Short High Yield,5,120,14,44,54,1.0,10.0,-2.71,-4.29,-5.87,8.9
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,44,54,1.0,10.0,-2.71,-1.82,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,44,54,1.0,10.0,-2.71,2.59,-6.25,10.12
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,44,54,1.0,10.0,-2.71,-7.41,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,44,54,1.0,10.0,-2.71,2.79,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,44,54,1.0,10.0,-2.71,-14.46,-4.7,12.8
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,44,54,1.0,10.0,-2.71,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,44,54,1.0,10.0,-2.71,1.13,-7.78,10.0
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,44,54,1.0,10.0,-2.71,-7.16,-8.02,10.98
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,44,54,1.0,10.0,-2.71,-4.92,-4.69,10.47
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,44,54,1.0,10.0,-2.71,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,120,14,44,54,1.0,10.0,-2.71,-12.51,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,44,54,1.0,10.0,-2.71,3.51,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,120,14,44,54,1.0,10.0,-2.71,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,44,54,1.0,10.0,-2.71,0.54,-7.0,10.44
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,44,54,1.0,10.0,-2.71,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,44,54,1.0,10.0,-2.71,1.25,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,44,54,1.0,10.0,-2.71,-2.85,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,44,54,1.0,10.0,-2.71,-0.23,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,44,54,1.0,10.0,-2.71,2.0,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,44,54,1.0,10.0,-2.71,1.63,-5.64,8.87
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,54,1.0,10.0,-2.71,0.0,-7.79,13.38
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,44,54,1.0,10.0,-2.71,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,44,74,1.0,10.0,-3.09,0.0,-5.21,13.08
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,44,79,1.0,10.0,-3.09,0.0,-6.22,14.19
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,49,59,1.0,10.0,-3.09,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,49,59,1.0,10.0,-3.09,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,49,59,1.0,10.0,-3.09,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,49,59,1.0,10.0,-3.09,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,49,59,1.0,10.0,-3.09,-29.43,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,49,59,1.0,10.0,-3.09,-0.18,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,49,59,1.0,10.0,-3.09,-6.33,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,49,59,1.0,10.0,-3.09,-1.91,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,49,59,1.0,10.0,-3.09,2.31,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,49,59,1.0,10.0,-3.09,-1.82,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,49,59,1.0,10.0,-3.09,2.59,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,120,14,49,59,1.0,10.0,-3.09,-6.22,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,49,59,1.0,10.0,-3.09,-7.41,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,49,59,1.0,10.0,-3.09,-4.84,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,49,59,1.0,10.0,-3.09,-14.46,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,59,1.0,10.0,-3.09,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,49,59,1.0,10.0,-3.09,-6.0,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,44,79,1.0,10.0,-3.09,1.63,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,44,79,1.0,10.0,-3.09,2.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,44,79,1.0,10.0,-3.09,-0.23,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,44,79,1.0,10.0,-3.09,-2.85,-6.92,9.81
+131,FIG,Simplify Macro Strategy ETF,5,120,14,49,59,1.0,10.0,-3.09,-12.51,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,49,59,1.0,10.0,-3.09,3.51,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,120,14,49,59,1.0,10.0,-3.09,0.0,-6.35,11.57
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,49,64,1.0,10.0,-3.09,-4.84,-5.43,11.55
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,49,64,1.0,10.0,-3.09,-29.43,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,49,64,1.0,10.0,-3.09,-0.18,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,49,64,1.0,10.0,-3.09,-6.33,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,49,64,1.0,10.0,-3.09,-1.91,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,49,64,1.0,10.0,-3.09,2.31,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,49,64,1.0,10.0,-3.09,-1.82,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,49,64,1.0,10.0,-3.09,2.59,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,120,14,49,64,1.0,10.0,-3.09,-6.22,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,49,64,1.0,10.0,-3.09,-7.41,-6.78,8.67
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,49,64,1.0,10.0,-3.09,-14.46,-4.7,12.8
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,49,59,1.0,10.0,-3.09,0.54,-7.0,10.44
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,64,1.0,10.0,-3.09,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,49,64,1.0,10.0,-3.09,-6.0,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,49,59,1.0,10.0,-3.09,1.63,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,49,59,1.0,10.0,-3.09,2.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,49,59,1.0,10.0,-3.09,-0.23,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,49,59,1.0,10.0,-3.09,-2.85,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,49,59,1.0,10.0,-3.09,1.25,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,49,59,1.0,10.0,-3.09,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,49,59,1.0,10.0,-3.09,-7.16,-8.02,10.98
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,44,79,1.0,10.0,-3.09,1.25,-6.48,11.07
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,44,79,1.0,10.0,-3.09,-7.16,-8.02,10.98
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,49,64,1.0,10.0,-3.09,0.0,-5.21,13.08
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,44,79,1.0,10.0,-3.09,0.54,-7.0,10.44
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,44,74,1.0,10.0,-3.09,1.25,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,44,74,1.0,10.0,-3.09,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,44,74,1.0,10.0,-3.09,-7.16,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,44,74,1.0,10.0,-3.09,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,44,74,1.0,10.0,-3.09,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,44,74,1.0,10.0,-3.09,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,44,74,1.0,10.0,-3.09,-12.51,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,44,74,1.0,10.0,-3.09,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,44,74,1.0,10.0,-3.09,0.0,-7.58,14.25
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,44,74,1.0,10.0,-3.09,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,44,74,1.0,10.0,-3.09,-29.43,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,44,74,1.0,10.0,-3.09,-0.18,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,44,74,1.0,10.0,-3.09,-6.33,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,44,74,1.0,10.0,-3.09,-1.91,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,44,74,1.0,10.0,-3.09,2.31,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,44,74,1.0,10.0,-3.09,-1.82,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,44,74,1.0,10.0,-3.09,2.59,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,120,14,44,74,1.0,10.0,-3.09,-6.22,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,44,74,1.0,10.0,-3.09,-7.41,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,44,74,1.0,10.0,-3.09,-4.84,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,44,74,1.0,10.0,-3.09,-14.46,-4.7,12.8
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,44,74,1.0,10.0,-3.09,-2.85,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,44,74,1.0,10.0,-3.09,-0.23,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,44,74,1.0,10.0,-3.09,2.0,-5.13,9.94
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,44,79,1.0,10.0,-3.09,-6.33,-5.24,9.07
+131,CVRD.K,Madison Covered Call ETF,5,120,14,44,79,1.0,10.0,-3.09,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,44,79,1.0,10.0,-3.09,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,44,79,1.0,10.0,-3.09,-12.51,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,44,79,1.0,10.0,-3.09,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,44,79,1.0,10.0,-3.09,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,44,79,1.0,10.0,-3.09,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,44,79,1.0,10.0,-3.09,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,44,79,1.0,10.0,-3.09,-29.43,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,44,79,1.0,10.0,-3.09,-0.18,-6.67,8.52
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,44,79,1.0,10.0,-3.09,-1.91,-4.98,11.83
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,44,74,1.0,10.0,-3.09,1.63,-5.64,8.87
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,44,79,1.0,10.0,-3.09,2.31,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,44,79,1.0,10.0,-3.09,-1.82,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,44,79,1.0,10.0,-3.09,2.59,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,120,14,44,79,1.0,10.0,-3.09,-6.22,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,44,79,1.0,10.0,-3.09,-7.41,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,44,79,1.0,10.0,-3.09,-4.84,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,44,79,1.0,10.0,-3.09,-14.46,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,79,1.0,10.0,-3.09,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,44,79,1.0,10.0,-3.09,-6.0,-4.69,10.47
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,49,64,1.0,10.0,-3.09,1.13,-7.78,10.0
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,49,64,1.0,10.0,-3.09,0.0,-7.58,14.25
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,44,74,1.0,10.0,-3.09,-6.0,-4.69,10.47
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,49,74,1.0,10.0,-3.09,2.31,-5.25,9.88
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,49,79,1.0,10.0,-3.09,-14.46,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,79,1.0,10.0,-3.09,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,49,79,1.0,10.0,-3.09,-6.0,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,49,74,1.0,10.0,-3.09,1.63,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,49,74,1.0,10.0,-3.09,2.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,49,74,1.0,10.0,-3.09,-0.23,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,49,74,1.0,10.0,-3.09,-2.85,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,49,74,1.0,10.0,-3.09,1.25,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,49,74,1.0,10.0,-3.09,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,49,74,1.0,10.0,-3.09,-7.16,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,49,74,1.0,10.0,-3.09,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,49,74,1.0,10.0,-3.09,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,49,74,1.0,10.0,-3.09,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,49,74,1.0,10.0,-3.09,-12.51,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,49,74,1.0,10.0,-3.09,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,49,74,1.0,10.0,-3.09,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,49,74,1.0,10.0,-3.09,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,49,74,1.0,10.0,-3.09,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,49,74,1.0,10.0,-3.09,-29.43,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,49,74,1.0,10.0,-3.09,-0.18,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,49,74,1.0,10.0,-3.09,-6.33,-5.24,9.07
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,49,79,1.0,10.0,-3.09,-4.84,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,49,79,1.0,10.0,-3.09,-7.41,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,120,14,49,79,1.0,10.0,-3.09,-6.22,-5.87,8.9
+131,FIG,Simplify Macro Strategy ETF,5,120,14,49,79,1.0,10.0,-3.09,-12.51,-6.67,11.9
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,49,79,1.0,10.0,-3.09,2.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,49,79,1.0,10.0,-3.09,-0.23,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,49,79,1.0,10.0,-3.09,-2.85,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,49,79,1.0,10.0,-3.09,1.25,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,49,79,1.0,10.0,-3.09,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,49,79,1.0,10.0,-3.09,-7.16,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,49,79,1.0,10.0,-3.09,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,49,79,1.0,10.0,-3.09,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,49,79,1.0,10.0,-3.09,3.51,-5.81,9.03
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,49,79,1.0,10.0,-3.09,0.0,-5.01,11.81
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,49,79,1.0,10.0,-3.09,2.59,-6.25,10.12
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,49,79,1.0,10.0,-3.09,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,49,79,1.0,10.0,-3.09,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,49,79,1.0,10.0,-3.09,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,49,79,1.0,10.0,-3.09,-29.43,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,49,79,1.0,10.0,-3.09,-0.18,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,49,79,1.0,10.0,-3.09,-6.33,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,49,79,1.0,10.0,-3.09,-1.91,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,49,79,1.0,10.0,-3.09,2.31,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,49,79,1.0,10.0,-3.09,-1.82,-6.27,9.51
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,49,74,1.0,10.0,-3.09,-1.91,-4.98,11.83
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,49,74,1.0,10.0,-3.09,-1.82,-6.27,9.51
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,49,64,1.0,10.0,-3.09,0.0,-5.01,11.81
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,49,74,1.0,10.0,-3.09,2.59,-6.25,10.12
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,49,69,1.0,10.0,-3.09,-1.91,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,49,69,1.0,10.0,-3.09,2.31,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,49,69,1.0,10.0,-3.09,-1.82,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,49,69,1.0,10.0,-3.09,2.59,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,120,14,49,69,1.0,10.0,-3.09,-6.22,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,49,69,1.0,10.0,-3.09,-7.41,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,49,69,1.0,10.0,-3.09,-4.84,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,49,69,1.0,10.0,-3.09,-14.46,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,69,1.0,10.0,-3.09,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,49,69,1.0,10.0,-3.09,-6.0,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,49,64,1.0,10.0,-3.09,1.63,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,49,64,1.0,10.0,-3.09,2.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,49,64,1.0,10.0,-3.09,-0.23,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,49,64,1.0,10.0,-3.09,-2.85,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,49,64,1.0,10.0,-3.09,1.25,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,49,64,1.0,10.0,-3.09,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,49,64,1.0,10.0,-3.09,-7.16,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,49,64,1.0,10.0,-3.09,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,49,64,1.0,10.0,-3.09,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,49,64,1.0,10.0,-3.09,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,49,64,1.0,10.0,-3.09,-12.51,-6.67,11.9
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,49,69,1.0,10.0,-3.09,-6.33,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,49,69,1.0,10.0,-3.09,-0.18,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,49,69,1.0,10.0,-3.09,-29.43,-6.86,12.93
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,49,69,1.0,10.0,-3.09,-2.85,-6.92,9.81
+131,SJB,ProShares Short High Yield,5,120,14,49,74,1.0,10.0,-3.09,-6.22,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,49,74,1.0,10.0,-3.09,-7.41,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,49,74,1.0,10.0,-3.09,-4.84,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,49,74,1.0,10.0,-3.09,-14.46,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,74,1.0,10.0,-3.09,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,49,74,1.0,10.0,-3.09,-6.0,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,49,69,1.0,10.0,-3.09,1.63,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,49,69,1.0,10.0,-3.09,2.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,49,69,1.0,10.0,-3.09,-0.23,-6.82,9.78
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,49,69,1.0,10.0,-3.09,1.25,-6.48,11.07
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,49,69,1.0,10.0,-3.09,1.13,-7.78,10.0
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,49,69,1.0,10.0,-3.09,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,49,69,1.0,10.0,-3.09,-7.16,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,49,69,1.0,10.0,-3.09,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,49,69,1.0,10.0,-3.09,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,49,69,1.0,10.0,-3.09,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,49,69,1.0,10.0,-3.09,-12.51,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,49,69,1.0,10.0,-3.09,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,49,69,1.0,10.0,-3.09,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,49,69,1.0,10.0,-3.09,0.0,-5.21,13.08
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,74,1.0,10.0,-3.09,0.0,-7.79,13.38
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,49,79,1.0,10.0,-3.09,1.63,-5.64,8.87
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,44,69,1.0,10.0,-3.09,1.63,-5.64,8.87
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,44,64,1.0,10.0,-3.09,-14.46,-4.7,12.8
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,44,59,1.0,10.0,-3.09,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,44,59,1.0,10.0,-3.09,1.25,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,44,59,1.0,10.0,-3.09,-2.85,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,44,59,1.0,10.0,-3.09,-0.23,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,44,59,1.0,10.0,-3.09,2.0,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,44,59,1.0,10.0,-3.09,1.63,-5.64,8.87
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,44,64,1.0,10.0,-3.09,-6.0,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,64,1.0,10.0,-3.09,0.0,-7.79,13.38
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,44,64,1.0,10.0,-3.09,-4.84,-5.43,11.55
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,44,59,1.0,10.0,-3.09,0.54,-7.0,10.44
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,44,64,1.0,10.0,-3.09,-7.41,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,120,14,44,64,1.0,10.0,-3.09,-6.22,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,44,64,1.0,10.0,-3.09,2.59,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,44,64,1.0,10.0,-3.09,-1.82,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,44,64,1.0,10.0,-3.09,2.31,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,44,64,1.0,10.0,-3.09,-1.91,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,44,64,1.0,10.0,-3.09,-6.33,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,44,64,1.0,10.0,-3.09,-0.18,-6.67,8.52
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,44,59,1.0,10.0,-3.09,-7.16,-8.02,10.98
+131,CVRD.K,Madison Covered Call ETF,5,120,14,44,59,1.0,10.0,-3.09,0.0,-6.35,11.57
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,44,64,1.0,10.0,-3.09,1.13,-7.78,10.0
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,44,59,1.0,10.0,-3.09,2.31,-5.25,9.88
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,44,69,1.0,10.0,-3.09,2.0,-5.13,9.94
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,59,1.0,10.0,-3.09,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,44,59,1.0,10.0,-3.09,-14.46,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,44,59,1.0,10.0,-3.09,-4.84,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,44,59,1.0,10.0,-3.09,-7.41,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,120,14,44,59,1.0,10.0,-3.09,-6.22,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,44,59,1.0,10.0,-3.09,2.59,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,44,59,1.0,10.0,-3.09,-1.82,-6.27,9.51
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,44,59,1.0,10.0,-3.09,-1.91,-4.98,11.83
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,44,59,1.0,10.0,-3.09,3.51,-5.81,9.03
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,44,59,1.0,10.0,-3.09,-6.33,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,44,59,1.0,10.0,-3.09,-0.18,-6.67,8.52
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,44,59,1.0,10.0,-3.09,-29.43,-6.86,12.93
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,44,59,1.0,10.0,-3.09,1.13,-7.78,10.0
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,44,59,1.0,10.0,-3.09,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,44,59,1.0,10.0,-3.09,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,44,59,1.0,10.0,-3.09,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,120,14,44,59,1.0,10.0,-3.09,-12.51,-6.67,11.9
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,44,64,1.0,10.0,-3.09,-29.43,-6.86,12.93
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,44,59,1.0,10.0,-3.09,-6.0,-4.69,10.47
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,44,64,1.0,10.0,-3.09,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,44,69,1.0,10.0,-3.09,1.13,-7.78,10.0
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,44,69,1.0,10.0,-3.09,-6.0,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,69,1.0,10.0,-3.09,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,44,69,1.0,10.0,-3.09,-14.46,-4.7,12.8
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,44,69,1.0,10.0,-3.09,-4.84,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,44,69,1.0,10.0,-3.09,-7.41,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,120,14,44,69,1.0,10.0,-3.09,-6.22,-5.87,8.9
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,44,69,1.0,10.0,-3.09,2.59,-6.25,10.12
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,44,69,1.0,10.0,-3.09,-1.82,-6.27,9.51
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,44,69,1.0,10.0,-3.09,2.31,-5.25,9.88
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,44,69,1.0,10.0,-3.09,-1.91,-4.98,11.83
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,44,69,1.0,10.0,-3.09,-6.33,-5.24,9.07
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,44,69,1.0,10.0,-3.09,-0.18,-6.67,8.52
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,44,69,1.0,10.0,-3.09,0.0,-5.21,13.08
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,44,64,1.0,10.0,-3.09,2.0,-5.13,9.94
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,44,69,1.0,10.0,-3.09,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,44,69,1.0,10.0,-3.09,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,120,14,44,69,1.0,10.0,-3.09,-12.51,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,44,69,1.0,10.0,-3.09,3.51,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,120,14,44,69,1.0,10.0,-3.09,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,44,69,1.0,10.0,-3.09,0.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,44,69,1.0,10.0,-3.09,-7.16,-8.02,10.98
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,44,69,1.0,10.0,-3.09,0.0,-6.22,14.19
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,44,69,1.0,10.0,-3.09,1.25,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,44,69,1.0,10.0,-3.09,-2.85,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,44,69,1.0,10.0,-3.09,-0.23,-6.82,9.78
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,44,64,1.0,10.0,-3.09,0.0,-7.58,14.25
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,44,64,1.0,10.0,-3.09,1.63,-5.64,8.87
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,44,69,1.0,10.0,-3.09,-29.43,-6.86,12.93
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,44,64,1.0,10.0,-3.09,0.0,-6.22,14.19
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,44,64,1.0,10.0,-3.09,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,120,14,44,64,1.0,10.0,-3.09,-12.51,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,44,64,1.0,10.0,-3.09,3.51,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,120,14,44,64,1.0,10.0,-3.09,0.0,-6.35,11.57
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,44,64,1.0,10.0,-3.09,0.54,-7.0,10.44
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,44,64,1.0,10.0,-3.09,-7.16,-8.02,10.98
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,44,64,1.0,10.0,-3.09,1.25,-6.48,11.07
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,44,64,1.0,10.0,-3.09,-2.85,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,44,64,1.0,10.0,-3.09,-0.23,-6.82,9.78
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,39,74,1.0,10.0,-3.1,0.0,-5.21,13.08
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,39,74,1.0,10.0,-3.1,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,39,74,1.0,10.0,-3.1,-12.51,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,39,74,1.0,10.0,-3.1,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,39,74,1.0,10.0,-3.1,0.0,-7.58,14.25
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,39,69,1.0,10.0,-3.1,0.54,-7.0,10.44
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,39,74,1.0,10.0,-3.1,0.54,-7.0,10.44
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,39,74,1.0,10.0,-3.1,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,39,74,1.0,10.0,-3.1,-29.43,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,39,74,1.0,10.0,-3.1,-0.18,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,39,74,1.0,10.0,-3.1,-6.33,-5.24,9.07
+131,CVRD.K,Madison Covered Call ETF,5,120,14,39,74,1.0,10.0,-3.1,0.0,-6.35,11.57
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,39,74,1.0,10.0,-3.1,-7.16,-8.02,10.98
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,39,74,1.0,10.0,-3.1,2.31,-5.25,9.88
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,39,79,1.0,10.0,-3.1,-7.41,-6.78,8.67
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,39,79,1.0,10.0,-3.1,-29.43,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,39,79,1.0,10.0,-3.1,-0.18,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,39,79,1.0,10.0,-3.1,-6.33,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,39,79,1.0,10.0,-3.1,-1.91,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,39,79,1.0,10.0,-3.1,2.31,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,39,79,1.0,10.0,-3.1,-1.82,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,39,79,1.0,10.0,-3.1,2.59,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,120,14,39,79,1.0,10.0,-3.1,-6.22,-5.87,8.9
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,39,79,1.0,10.0,-3.1,-4.84,-5.43,11.55
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,39,74,1.0,10.0,-3.1,0.0,-6.22,14.19
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,39,79,1.0,10.0,-3.1,-14.87,-4.7,12.8
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,79,1.0,10.0,-3.1,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,39,79,1.0,10.0,-3.1,-6.0,-4.69,10.47
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,39,74,1.0,10.0,-3.1,1.63,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,39,74,1.0,10.0,-3.1,2.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,39,74,1.0,10.0,-3.1,-0.23,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,39,74,1.0,10.0,-3.1,-2.85,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,39,74,1.0,10.0,-3.1,1.25,-6.48,11.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,39,74,1.0,10.0,-3.1,-1.91,-4.98,11.83
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,39,74,1.0,10.0,-3.1,-4.84,-5.43,11.55
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,39,74,1.0,10.0,-3.1,-1.82,-6.27,9.51
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,74,1.0,10.0,-3.1,0.0,-7.79,13.38
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,39,69,1.0,10.0,-3.1,0.0,-5.21,13.08
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,39,69,1.0,10.0,-3.1,0.0,-7.58,14.25
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,39,69,1.0,10.0,-3.1,0.0,-5.01,11.81
+131,FIG,Simplify Macro Strategy ETF,5,120,14,39,69,1.0,10.0,-3.1,-12.51,-6.67,11.9
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,39,69,1.0,10.0,-3.1,3.51,-5.81,9.03
+131,CVRD.K,Madison Covered Call ETF,5,120,14,39,69,1.0,10.0,-3.1,0.0,-6.35,11.57
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,39,74,1.0,10.0,-3.1,-6.0,-4.69,10.47
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,39,74,1.0,10.0,-3.1,2.59,-6.25,10.12
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,39,69,1.0,10.0,-3.1,1.63,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,39,69,1.0,10.0,-3.1,2.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,39,69,1.0,10.0,-3.1,-0.23,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,39,69,1.0,10.0,-3.1,-2.85,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,39,69,1.0,10.0,-3.1,1.25,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,39,69,1.0,10.0,-3.1,0.0,-6.22,14.19
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,39,69,1.0,10.0,-3.1,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,39,69,1.0,10.0,-3.1,-29.43,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,39,69,1.0,10.0,-3.1,-0.18,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,39,69,1.0,10.0,-3.1,-6.33,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,39,69,1.0,10.0,-3.1,-1.91,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,39,69,1.0,10.0,-3.1,2.31,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,39,69,1.0,10.0,-3.1,-1.82,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,39,69,1.0,10.0,-3.1,2.59,-6.25,10.12
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,39,79,1.0,10.0,-3.1,0.0,-5.21,13.08
+131,SJB,ProShares Short High Yield,5,120,14,39,69,1.0,10.0,-3.1,-6.22,-5.87,8.9
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,39,74,1.0,10.0,-3.1,-14.87,-4.7,12.8
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,39,69,1.0,10.0,-3.1,-7.41,-6.78,8.67
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,39,69,1.0,10.0,-3.1,-4.84,-5.43,11.55
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,39,69,1.0,10.0,-3.1,-14.87,-4.7,12.8
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,39,69,1.0,10.0,-3.1,-7.16,-8.02,10.98
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,39,74,1.0,10.0,-3.1,-7.41,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,120,14,39,74,1.0,10.0,-3.1,-6.22,-5.87,8.9
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,39,79,1.0,10.0,-3.1,1.13,-7.78,10.0
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,39,64,1.0,10.0,-3.1,-7.16,-8.02,10.98
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,39,79,1.0,10.0,-3.1,0.0,-7.58,14.25
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,39,59,1.0,10.0,-3.1,-4.84,-5.43,11.55
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,39,59,1.0,10.0,-3.1,-1.91,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,39,59,1.0,10.0,-3.1,2.31,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,39,59,1.0,10.0,-3.1,-1.82,-6.27,9.51
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,39,59,1.0,10.0,-3.1,2.59,-6.25,10.12
+131,SJB,ProShares Short High Yield,5,120,14,39,59,1.0,10.0,-3.1,-6.22,-5.87,8.9
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,39,59,1.0,10.0,-3.1,-7.41,-6.78,8.67
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,39,59,1.0,10.0,-3.1,-14.87,-4.7,12.8
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,39,59,1.0,10.0,-3.1,-0.18,-6.67,8.52
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,59,1.0,10.0,-3.1,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,39,59,1.0,10.0,-3.1,-6.0,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,69,1.0,10.0,-3.1,0.0,-7.79,13.38
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,39,64,1.0,10.0,-3.1,-6.0,-4.69,10.47
+131,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,64,1.0,10.0,-3.1,0.0,-7.79,13.38
+131,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,5,120,14,39,64,1.0,10.0,-3.1,-14.87,-4.7,12.8
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,39,59,1.0,10.0,-3.1,-6.33,-5.24,9.07
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,39,59,1.0,10.0,-3.1,-29.43,-6.86,12.93
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,39,79,1.0,10.0,-3.1,0.0,-5.01,11.81
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,39,59,1.0,10.0,-3.1,-7.16,-8.02,10.98
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,39,59,1.0,10.0,-3.1,1.63,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,39,59,1.0,10.0,-3.1,2.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,39,59,1.0,10.0,-3.1,-0.23,-6.82,9.78
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,39,59,1.0,10.0,-3.1,-2.85,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,39,59,1.0,10.0,-3.1,1.25,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,39,59,1.0,10.0,-3.1,0.0,-6.22,14.19
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,39,59,1.0,10.0,-3.1,0.54,-7.0,10.44
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,39,59,1.0,10.0,-3.1,1.13,-7.78,10.0
+131,CVRD.K,Madison Covered Call ETF,5,120,14,39,59,1.0,10.0,-3.1,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,39,59,1.0,10.0,-3.1,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,39,59,1.0,10.0,-3.1,-12.51,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,39,59,1.0,10.0,-3.1,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,39,59,1.0,10.0,-3.1,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,39,59,1.0,10.0,-3.1,0.0,-5.21,13.08
+131,FEMB.O,First Trust Emerging Markets Local Currency Bd ETF,5,120,14,39,64,1.0,10.0,-3.1,-4.84,-5.43,11.55
+131,AGGH.K,Simplify Aggregate Bond ETF,5,120,14,39,64,1.0,10.0,-3.1,-7.41,-6.78,8.67
+131,SJB,ProShares Short High Yield,5,120,14,39,64,1.0,10.0,-3.1,-6.22,-5.87,8.9
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,39,79,1.0,10.0,-3.1,-2.85,-6.92,9.81
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,39,64,1.0,10.0,-3.1,-0.23,-6.82,9.78
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,39,64,1.0,10.0,-3.1,2.0,-5.13,9.94
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,39,64,1.0,10.0,-3.1,1.63,-5.64,8.87
+131,UCRD.O,VictoryShares Corporate Bond ETF,5,120,14,39,79,1.0,10.0,-3.1,1.63,-5.64,8.87
+131,XHYH.K,BondBloxx USD HY Bond Healthcare Sctr ETF,5,120,14,39,79,1.0,10.0,-3.1,2.0,-5.13,9.94
+131,ELQD.K,iShares ESG Advanced Investment Grade Corp Bd ETF,5,120,14,39,79,1.0,10.0,-3.1,-0.23,-6.82,9.78
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,39,79,1.0,10.0,-3.1,1.25,-6.48,11.07
+131,EMHC.K,SPDR Bloomberg Emerging Markets USD Bond ETF,5,120,14,39,64,1.0,10.0,-3.1,2.59,-6.25,10.12
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,39,79,1.0,10.0,-3.1,0.0,-6.22,14.19
+131,IRVH.K,Global X Interest Rate Volatility & Inflation Hdg,5,120,14,39,79,1.0,10.0,-3.1,-7.16,-8.02,10.98
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,39,79,1.0,10.0,-3.1,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,39,79,1.0,10.0,-3.1,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,39,79,1.0,10.0,-3.1,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,39,79,1.0,10.0,-3.1,-12.51,-6.67,11.9
+131,XHYT.K,BondBloxx USD HY Bond Telecom Med & Tech Sctr ETF,5,120,14,39,64,1.0,10.0,-3.1,-2.85,-6.92,9.81
+131,ISWN.K,Amplify BlackSwan ISWN ETF,5,120,14,39,64,1.0,10.0,-3.1,1.25,-6.48,11.07
+131,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,39,64,1.0,10.0,-3.1,0.0,-6.22,14.19
+131,AMAX.K,Adaptive Hedged Multi-Asset Inc ETF,5,120,14,39,64,1.0,10.0,-3.1,0.54,-7.0,10.44
+131,CVRD.K,Madison Covered Call ETF,5,120,14,39,64,1.0,10.0,-3.1,0.0,-6.35,11.57
+131,EFIX.K,First Trust TCW Emerging Markets Debt ETF,5,120,14,39,64,1.0,10.0,-3.1,3.51,-5.81,9.03
+131,FIG,Simplify Macro Strategy ETF,5,120,14,39,64,1.0,10.0,-3.1,-12.51,-6.67,11.9
+131,PCIG.K,Polen Capital International Growth ETF,5,120,14,39,64,1.0,10.0,-3.1,0.0,-5.01,11.81
+131,NBSM.K,Neuberger Berman Small-Mid Cap ETF,5,120,14,39,64,1.0,10.0,-3.1,0.0,-7.58,14.25
+131,EQLS.K,Simplify Market Neutral Equity Long/Short ETF,5,120,14,39,64,1.0,10.0,-3.1,0.0,-5.21,13.08
+131,AEMB.K,American Century Emerging Markets Bond ETF,5,120,14,39,64,1.0,10.0,-3.1,1.13,-7.78,10.0
+131,UTWY.O,US Treasury 20 Year Bond ETF,5,120,14,39,64,1.0,10.0,-3.1,-29.43,-6.86,12.93
+131,FEIG.K,FlexShares ESG & Climate Inv Gr Corp C Ix Fund,5,120,14,39,64,1.0,10.0,-3.1,-0.18,-6.67,8.52
+131,TFJL.K,Innovator 20+ Year Treasury Bond 5 Floor ETF - Qtr,5,120,14,39,64,1.0,10.0,-3.1,-6.33,-5.24,9.07
+131,TBJL.K,Innovator 20+ Year Treasury Bond 9 Bffr ETF - Jul,5,120,14,39,64,1.0,10.0,-3.1,-1.91,-4.98,11.83
+131,BSJT.O,Invesco BulletShares 2029 Hi Yld Corp Bd ETF,5,120,14,39,64,1.0,10.0,-3.1,2.31,-5.25,9.88
+131,UTEN.O,US Treasury 10 Year Note ETF,5,120,14,39,64,1.0,10.0,-3.1,-1.82,-6.27,9.51
+131,EMLC.K,VanEck JP Morgan EM Local Currency Bond ETF,5,120,14,39,69,1.0,10.0,-3.1,-6.0,-4.69,10.47

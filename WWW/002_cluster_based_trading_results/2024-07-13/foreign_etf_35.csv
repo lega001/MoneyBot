@@ -1,0 +1,577 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,24,54,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,24,54,1.0,10.0,0.0,0,41.84,10.31
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,29,79,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,29,79,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,29,79,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,34,54,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,34,54,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,34,54,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,34,54,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,34,54,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,34,54,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,34,59,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,34,59,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,34,59,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0,39.34,11.09
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,29,79,1.0,10.0,0.0,0,40.52,11.23
+35,QLTY.K,GMO US Quality ETF,5,120,14,29,79,1.0,10.0,0.0,0,41.84,10.31
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,29,74,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,29,69,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,29,69,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,29,69,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,29,69,1.0,10.0,0.0,0,40.46,10.52
+35,QLTY.K,GMO US Quality ETF,5,120,14,29,74,1.0,10.0,0.0,0,41.84,10.31
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,29,79,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,29,74,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,29,74,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,29,74,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,29,74,1.0,10.0,0.0,0,40.46,10.52
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,34,59,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,34,74,1.0,10.0,0.0,0,40.46,10.52
+35,QLTY.K,GMO US Quality ETF,5,120,14,34,74,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,34,74,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,34,74,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,34,74,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,34,79,1.0,10.0,0.0,0,41.98,9.99
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,34,69,1.0,10.0,0.0,0,40.46,10.52
+35,QLTY.K,GMO US Quality ETF,5,120,14,34,79,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,34,79,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,34,79,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,34,79,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,34,74,1.0,10.0,0.0,0,41.98,9.99
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,34,69,1.0,10.0,0.0,0,40.44,10.57
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,34,59,1.0,10.0,0.0,0,40.44,10.57
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,34,64,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,34,59,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,34,64,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,34,64,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,34,64,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,34,64,1.0,10.0,0.0,0,40.44,10.57
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,34,69,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,34,64,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,34,69,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,34,69,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,34,69,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,40.8,13.45
+35,QLTY.K,GMO US Quality ETF,5,120,14,29,69,1.0,10.0,0.0,0,41.84,10.31
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,29,69,1.0,10.0,0.0,0,41.98,9.99
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,29,64,1.0,10.0,0.0,0,40.46,10.52
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,24,69,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,24,64,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,24,64,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,24,64,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,24,69,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,24,69,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0,39.34,11.09
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,24,64,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,24,69,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,24,69,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,24,69,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,24,74,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,24,74,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0,39.34,11.09
+35,QLTY.K,GMO US Quality ETF,5,120,14,24,64,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0,39.34,11.09
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,24,59,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,24,54,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,24,54,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,24,54,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,24,54,1.0,10.0,0.0,0,40.46,10.52
+35,QLTY.K,GMO US Quality ETF,5,120,14,24,59,1.0,10.0,0.0,0,41.84,10.31
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,24,64,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,24,59,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,24,59,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,24,59,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,24,59,1.0,10.0,0.0,0,40.46,10.52
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,24,74,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,29,64,1.0,10.0,0.0,0,40.44,10.57
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,29,59,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,29,59,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,29,59,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,29,59,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,29,59,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,29,59,1.0,10.0,0.0,0,40.46,10.52
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,29,54,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,29,64,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,29,64,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,29,64,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,29,64,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,29,54,1.0,10.0,0.0,0,40.46,10.52
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,29,54,1.0,10.0,0.0,0,40.29,10.94
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,24,74,1.0,10.0,0.0,0,40.29,10.94
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,24,74,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,24,74,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,24,79,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,24,79,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,24,79,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0,39.34,11.09
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,24,79,1.0,10.0,0.0,0,40.29,10.94
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,24,79,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,24,79,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,29,54,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,29,54,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,29,54,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,39.34,11.09
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,34,79,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,39,54,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,39,54,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,39.34,11.09
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,44,79,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,44,79,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,44,79,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,49,54,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,49,54,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,49,54,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,40.8,13.45
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0,39.34,11.09
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,49,54,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,49,54,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,49,54,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,49,59,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,49,59,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,49,59,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0,40.8,13.45
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,44,79,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,40.8,13.45
+35,QLTY.K,GMO US Quality ETF,5,120,14,44,74,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,44,69,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,44,69,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,44,69,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,44,74,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,44,74,1.0,10.0,0.0,0,40.52,11.23
+35,QLTY.K,GMO US Quality ETF,5,120,14,44,79,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,44,74,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,44,74,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,44,74,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,44,79,1.0,10.0,0.0,0,41.98,9.99
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,39.34,11.09
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,49,59,1.0,10.0,0.0,0,40.29,10.94
+35,QLTY.K,GMO US Quality ETF,5,120,14,44,69,1.0,10.0,0.0,0,41.84,10.31
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,49,74,1.0,10.0,0.0,0,40.46,10.52
+35,QLTY.K,GMO US Quality ETF,5,120,14,49,74,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,49,74,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,49,74,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,49,74,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,49,79,1.0,10.0,0.0,0,41.98,9.99
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,49,69,1.0,10.0,0.0,0,40.46,10.52
+35,QLTY.K,GMO US Quality ETF,5,120,14,49,79,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,49,79,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,49,79,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,49,79,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,49,79,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,49,79,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,49,74,1.0,10.0,0.0,0,41.98,9.99
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,49,69,1.0,10.0,0.0,0,40.44,10.57
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,49,59,1.0,10.0,0.0,0,40.44,10.57
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,49,64,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,49,59,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,49,64,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,49,64,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,49,64,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,49,64,1.0,10.0,0.0,0,40.44,10.57
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,49,69,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,49,64,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,49,69,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,49,69,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,49,69,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,40.8,13.45
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,44,69,1.0,10.0,0.0,0,40.52,11.23
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,44,69,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,39,54,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,39.34,11.09
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,39,64,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,39,64,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,39,64,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,39,69,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,39,69,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,39,69,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,40.8,13.45
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,39.34,11.09
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,39,69,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,39,69,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,39,69,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,39,74,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,39,74,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,39,74,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,40.8,13.45
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,39,64,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,40.8,13.45
+35,QLTY.K,GMO US Quality ETF,5,120,14,39,59,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,39,54,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,39,54,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,39,54,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,39,59,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,39,59,1.0,10.0,0.0,0,40.52,11.23
+35,QLTY.K,GMO US Quality ETF,5,120,14,39,64,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,39,59,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,39,59,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,39,59,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,39,64,1.0,10.0,0.0,0,41.98,9.99
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,39.34,11.09
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,39,74,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,44,64,1.0,10.0,0.0,0,40.46,10.52
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,44,59,1.0,10.0,0.0,0,40.46,10.52
+35,QLTY.K,GMO US Quality ETF,5,120,14,44,59,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,44,59,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,44,59,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,44,59,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,44,64,1.0,10.0,0.0,0,41.98,9.99
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,44,54,1.0,10.0,0.0,0,40.46,10.52
+35,QLTY.K,GMO US Quality ETF,5,120,14,44,64,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,44,64,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,44,64,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,44,64,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,44,59,1.0,10.0,0.0,0,41.98,9.99
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,44,54,1.0,10.0,0.0,0,40.44,10.57
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,39,74,1.0,10.0,0.0,0,40.44,10.57
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,39,79,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,39,74,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,39,79,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,39,79,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,39,79,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,39,79,1.0,10.0,0.0,0,40.44,10.57
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,44,54,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,39,79,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,44,54,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,120,14,44,54,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,44,54,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,40.8,13.45
+35,QLTY.K,GMO US Quality ETF,5,120,14,24,54,1.0,10.0,0.0,0,41.84,10.31
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,24,54,1.0,10.0,0.0,0,41.98,9.99
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,49,79,1.0,10.0,0.0,0,40.46,10.52
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,34,54,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,29,79,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,29,79,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,29,79,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,34,54,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,34,54,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,39.34,11.09
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,29,79,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,34,54,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,34,54,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,34,54,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,34,59,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,34,59,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0,39.34,11.09
+35,QLTY.K,GMO US Quality ETF,5,60,14,29,79,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,39.34,11.09
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,29,74,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,29,69,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,29,69,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,29,69,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,29,69,1.0,10.0,0.0,0,40.46,10.52
+35,QLTY.K,GMO US Quality ETF,5,60,14,29,74,1.0,10.0,0.0,0,41.84,10.31
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,29,79,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,29,74,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,29,74,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,29,74,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,29,74,1.0,10.0,0.0,0,40.46,10.52
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,34,59,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,40.8,13.45
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,29,69,1.0,10.0,0.0,0,41.98,9.99
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,34,74,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,34,74,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,34,74,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,34,74,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,34,74,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,34,74,1.0,10.0,0.0,0,40.46,10.52
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,34,69,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,34,79,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,34,79,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,34,79,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,34,79,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,34,69,1.0,10.0,0.0,0,40.46,10.52
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,34,69,1.0,10.0,0.0,0,40.29,10.94
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,34,59,1.0,10.0,0.0,0,40.29,10.94
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,34,59,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,34,59,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,34,64,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,34,64,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,34,64,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,39.34,11.09
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,34,64,1.0,10.0,0.0,0,40.29,10.94
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,34,64,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,34,64,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,34,69,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,34,69,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,34,69,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,39.34,11.09
+35,QLTY.K,GMO US Quality ETF,5,60,14,29,69,1.0,10.0,0.0,0,41.84,10.31
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,29,64,1.0,10.0,0.0,0,40.46,10.52
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,34,79,1.0,10.0,0.0,0,40.46,10.52
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,24,69,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,24,64,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,24,64,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,24,64,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,24,69,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,24,69,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0,39.34,11.09
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,24,64,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,24,69,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,24,69,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,24,69,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,24,74,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,24,74,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0,39.34,11.09
+35,QLTY.K,GMO US Quality ETF,5,60,14,24,64,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0,39.34,11.09
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,24,59,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,24,54,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,24,54,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,24,54,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,24,54,1.0,10.0,0.0,0,40.46,10.52
+35,QLTY.K,GMO US Quality ETF,5,60,14,24,59,1.0,10.0,0.0,0,41.84,10.31
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,24,64,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,24,59,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,24,59,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,24,59,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,24,59,1.0,10.0,0.0,0,40.46,10.52
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,24,74,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,29,64,1.0,10.0,0.0,0,40.44,10.57
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,29,59,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,29,59,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,29,59,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,29,59,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,29,59,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,29,59,1.0,10.0,0.0,0,40.46,10.52
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,29,54,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,29,64,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,29,64,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,29,64,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,29,64,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,29,54,1.0,10.0,0.0,0,40.46,10.52
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,29,54,1.0,10.0,0.0,0,40.29,10.94
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,24,74,1.0,10.0,0.0,0,40.29,10.94
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,24,74,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,24,74,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,24,79,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,24,79,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,24,79,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0,39.34,11.09
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,24,79,1.0,10.0,0.0,0,40.29,10.94
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,24,79,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,24,79,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,29,54,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,29,54,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,29,54,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,39.34,11.09
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,34,79,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,39,54,1.0,10.0,0.0,0,41.98,9.99
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,49,79,1.0,10.0,0.0,0,40.44,10.57
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,49,54,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,44,79,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,44,79,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,44,79,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,49,54,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,49,54,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,39.34,11.09
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,44,79,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,49,54,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,49,54,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,49,54,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,49,59,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,49,59,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0,39.34,11.09
+35,QLTY.K,GMO US Quality ETF,5,60,14,44,79,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,39.34,11.09
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,44,74,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,44,69,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,44,69,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,44,69,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,44,69,1.0,10.0,0.0,0,40.46,10.52
+35,QLTY.K,GMO US Quality ETF,5,60,14,44,74,1.0,10.0,0.0,0,41.84,10.31
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,44,79,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,44,74,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,44,74,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,44,74,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,44,74,1.0,10.0,0.0,0,40.46,10.52
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,49,59,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,40.8,13.45
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,44,69,1.0,10.0,0.0,0,41.98,9.99
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,49,74,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,49,74,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,49,74,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,49,74,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,49,74,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,49,74,1.0,10.0,0.0,0,40.46,10.52
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,49,69,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,49,79,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,49,79,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,49,79,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,49,79,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,49,79,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,49,79,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,49,69,1.0,10.0,0.0,0,40.46,10.52
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,49,69,1.0,10.0,0.0,0,40.29,10.94
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,49,59,1.0,10.0,0.0,0,40.29,10.94
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,49,59,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,49,59,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,49,64,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,49,64,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,49,64,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,39.34,11.09
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,49,64,1.0,10.0,0.0,0,40.29,10.94
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,49,64,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,49,64,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,49,69,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,49,69,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,49,69,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,39.34,11.09
+35,QLTY.K,GMO US Quality ETF,5,60,14,44,69,1.0,10.0,0.0,0,41.84,10.31
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,44,64,1.0,10.0,0.0,0,40.46,10.52
+35,QLTY.K,GMO US Quality ETF,5,60,14,39,54,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,39,69,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,39,64,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,39,64,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,39,64,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,39,69,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,39,69,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,39.34,11.09
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,39,64,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,39,69,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,39,69,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,39,69,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,39,74,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,39,74,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,39.34,11.09
+35,QLTY.K,GMO US Quality ETF,5,60,14,39,64,1.0,10.0,0.0,0,41.84,10.31
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,39.34,11.09
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,39,59,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,39,54,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,39,54,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,39,54,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,39,54,1.0,10.0,0.0,0,40.46,10.52
+35,QLTY.K,GMO US Quality ETF,5,60,14,39,59,1.0,10.0,0.0,0,41.84,10.31
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,39,64,1.0,10.0,0.0,0,41.98,9.99
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,39,59,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,39,59,1.0,10.0,0.0,0,40.29,10.94
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,39,59,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,39,59,1.0,10.0,0.0,0,40.46,10.52
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,39,74,1.0,10.0,0.0,0,40.52,11.23
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,44,64,1.0,10.0,0.0,0,40.44,10.57
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,44,59,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,44,59,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,44,59,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,44,59,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,44,59,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,44,59,1.0,10.0,0.0,0,40.46,10.52
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,44,54,1.0,10.0,0.0,0,40.44,10.57
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,44,64,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,44,64,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,44,64,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,39.34,11.09
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,40.8,13.45
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,44,64,1.0,10.0,0.0,0,40.29,10.94
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,44,54,1.0,10.0,0.0,0,40.46,10.52
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,44,54,1.0,10.0,0.0,0,40.29,10.94
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,39,74,1.0,10.0,0.0,0,40.29,10.94
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,39,74,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,39,74,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,39,79,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,39,79,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,39,79,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0,39.34,11.09
+35,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,39,79,1.0,10.0,0.0,0,40.29,10.94
+35,AVMC.K,Avantis US Mid Cap Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,40.8,13.45
+35,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,39,79,1.0,10.0,0.0,0,40.44,10.57
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,39,79,1.0,10.0,0.0,0,40.46,10.52
+35,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,44,54,1.0,10.0,0.0,0,41.98,9.99
+35,QLTY.K,GMO US Quality ETF,5,60,14,44,54,1.0,10.0,0.0,0,41.84,10.31
+35,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,44,54,1.0,10.0,0.0,0,40.52,11.23
+35,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,39.34,11.09
+35,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,49,79,1.0,10.0,0.0,0,40.46,10.52

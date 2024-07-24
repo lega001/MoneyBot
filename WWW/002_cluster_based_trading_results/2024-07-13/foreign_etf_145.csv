@@ -1,0 +1,577 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,24,54,1.0,10.0,-0.08,0.0,-16.77,24.67
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,24,69,1.0,10.0,-0.08,0.0,-16.77,24.67
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,24,64,1.0,10.0,-0.08,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,24,64,1.0,10.0,-0.08,0.0,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,24,64,1.0,10.0,-0.08,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,24,64,1.0,10.0,-0.08,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,24,64,1.0,10.0,-0.08,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,24,64,1.0,10.0,-0.08,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,24,64,1.0,10.0,-0.08,0.0,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,24,59,1.0,10.0,-0.08,0.0,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,24,59,1.0,10.0,-0.08,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,24,59,1.0,10.0,-0.08,0.0,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,24,59,1.0,10.0,-0.08,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,24,59,1.0,10.0,-0.08,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,24,59,1.0,10.0,-0.08,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,24,59,1.0,10.0,-0.08,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,24,59,1.0,10.0,-0.08,0.0,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,24,54,1.0,10.0,-0.08,0.0,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,24,54,1.0,10.0,-0.08,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,24,54,1.0,10.0,-0.08,0.0,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,24,54,1.0,10.0,-0.08,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,24,54,1.0,10.0,-0.08,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,24,54,1.0,10.0,-0.08,-12.48,-17.64,23.52
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,24,64,1.0,10.0,-0.08,0.0,-21.94,23.81
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,24,69,1.0,10.0,-0.08,0.0,-16.18,26.02
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,24,74,1.0,10.0,-0.08,0.0,-19.82,27.63
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,24,69,1.0,10.0,-0.08,-12.48,-17.64,23.52
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,24,79,1.0,10.0,-0.08,0.0,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,24,79,1.0,10.0,-0.08,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,24,79,1.0,10.0,-0.08,0.0,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,24,79,1.0,10.0,-0.08,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,24,79,1.0,10.0,-0.08,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,24,79,1.0,10.0,-0.08,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,24,79,1.0,10.0,-0.08,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,24,79,1.0,10.0,-0.08,0.0,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,24,74,1.0,10.0,-0.08,0.0,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,24,74,1.0,10.0,-0.08,11.83,-18.07,27.51
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,24,54,1.0,10.0,-0.08,0.0,-16.18,26.02
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,24,74,1.0,10.0,-0.08,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,24,74,1.0,10.0,-0.08,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,24,74,1.0,10.0,-0.08,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,24,74,1.0,10.0,-0.08,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,24,74,1.0,10.0,-0.08,0.0,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,24,69,1.0,10.0,-0.08,0.0,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,24,69,1.0,10.0,-0.08,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,24,69,1.0,10.0,-0.08,0.0,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,24,69,1.0,10.0,-0.08,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,24,69,1.0,10.0,-0.08,0.0,-20.16,28.45
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,24,54,1.0,10.0,-1.75,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,24,54,1.0,10.0,-1.75,-17.61,-16.77,24.67
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,24,69,1.0,10.0,-1.75,-17.61,-16.77,24.67
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,24,74,1.0,10.0,-1.75,-7.99,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,24,69,1.0,10.0,-1.75,0.0,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,24,69,1.0,10.0,-1.75,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,24,69,1.0,10.0,-1.75,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,24,69,1.0,10.0,-1.75,0.0,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,24,69,1.0,10.0,-1.75,0.0,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,24,69,1.0,10.0,-1.75,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,24,69,1.0,10.0,-1.75,0.0,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,24,74,1.0,10.0,-1.75,-17.61,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,24,74,1.0,10.0,-1.75,0.0,-16.18,26.02
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,24,74,1.0,10.0,-1.75,0.0,-20.16,28.45
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,24,79,1.0,10.0,-1.75,11.57,-18.07,27.51
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,24,74,1.0,10.0,-1.75,0.0,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,24,74,1.0,10.0,-1.75,0.0,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,24,74,1.0,10.0,-1.75,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,24,74,1.0,10.0,-1.75,0.0,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,24,79,1.0,10.0,-1.75,-17.61,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,24,79,1.0,10.0,-1.75,0.0,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,24,79,1.0,10.0,-1.75,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,24,79,1.0,10.0,-1.75,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,24,79,1.0,10.0,-1.75,0.0,-18.85,24.79
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,24,79,1.0,10.0,-1.75,0.0,-21.94,23.81
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,24,64,1.0,10.0,-1.75,0.0,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,24,64,1.0,10.0,-1.75,11.57,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,24,64,1.0,10.0,-1.75,0.0,-19.82,27.63
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,24,54,1.0,10.0,-1.75,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,24,54,1.0,10.0,-1.75,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,24,54,1.0,10.0,-1.75,0.0,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,24,54,1.0,10.0,-1.75,0.0,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,24,54,1.0,10.0,-1.75,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,24,54,1.0,10.0,-1.75,0.0,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,24,59,1.0,10.0,-1.75,-17.61,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,24,59,1.0,10.0,-1.75,0.0,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,24,59,1.0,10.0,-1.75,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,24,59,1.0,10.0,-1.75,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,24,59,1.0,10.0,-1.75,0.0,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,24,59,1.0,10.0,-1.75,0.0,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,24,59,1.0,10.0,-1.75,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,24,59,1.0,10.0,-1.75,0.0,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,24,64,1.0,10.0,-1.75,-17.61,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,24,64,1.0,10.0,-1.75,0.0,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,24,64,1.0,10.0,-1.75,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,24,64,1.0,10.0,-1.75,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,24,64,1.0,10.0,-1.75,0.0,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,24,79,1.0,10.0,-1.75,0.0,-19.82,27.63
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,29,54,1.0,10.0,-4.49,0.0,-20.16,28.45
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,29,54,1.0,10.0,-4.49,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,29,54,1.0,10.0,-4.49,-17.61,-16.77,24.67
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,29,54,1.0,10.0,-4.49,-7.99,-17.64,23.52
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,29,69,1.0,10.0,-4.49,-7.99,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,29,69,1.0,10.0,-4.49,0.0,-16.18,26.02
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,29,64,1.0,10.0,-4.49,-21.91,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,29,64,1.0,10.0,-4.49,11.57,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,29,64,1.0,10.0,-4.49,0.0,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,29,64,1.0,10.0,-4.49,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,29,64,1.0,10.0,-4.49,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,29,64,1.0,10.0,-4.49,-7.99,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,29,64,1.0,10.0,-4.49,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,29,64,1.0,10.0,-4.49,-17.61,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,29,59,1.0,10.0,-4.49,-21.91,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,29,59,1.0,10.0,-4.49,11.57,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,29,59,1.0,10.0,-4.49,0.0,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,29,59,1.0,10.0,-4.49,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,29,59,1.0,10.0,-4.49,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,29,59,1.0,10.0,-4.49,-7.99,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,29,59,1.0,10.0,-4.49,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,29,59,1.0,10.0,-4.49,-17.61,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,29,54,1.0,10.0,-4.49,-21.91,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,29,54,1.0,10.0,-4.49,11.57,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,29,54,1.0,10.0,-4.49,0.0,-19.82,27.63
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,29,69,1.0,10.0,-4.49,-17.61,-16.77,24.67
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,29,54,1.0,10.0,-4.49,0.0,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,29,74,1.0,10.0,-4.49,0.0,-19.82,27.63
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,29,69,1.0,10.0,-4.49,0.0,-20.16,28.45
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,29,79,1.0,10.0,-4.49,0.0,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,29,79,1.0,10.0,-4.49,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,29,79,1.0,10.0,-4.49,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,29,79,1.0,10.0,-4.49,-7.99,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,29,79,1.0,10.0,-4.49,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,29,79,1.0,10.0,-4.49,-17.61,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,29,74,1.0,10.0,-4.49,-21.91,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,29,74,1.0,10.0,-4.49,11.57,-18.07,27.51
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,29,74,1.0,10.0,-4.49,0.0,-18.85,24.79
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,29,79,1.0,10.0,-4.49,-21.91,-21.94,23.81
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,29,74,1.0,10.0,-4.49,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,29,74,1.0,10.0,-4.49,-7.99,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,29,74,1.0,10.0,-4.49,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,29,74,1.0,10.0,-4.49,-17.61,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,29,69,1.0,10.0,-4.49,-21.91,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,29,69,1.0,10.0,-4.49,11.57,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,29,69,1.0,10.0,-4.49,0.0,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,29,69,1.0,10.0,-4.49,0.0,-18.85,24.79
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,29,79,1.0,10.0,-4.49,11.57,-18.07,27.51
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,29,54,1.0,10.0,-4.5,-15.86,-16.77,24.67
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,29,54,1.0,10.0,-4.5,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,29,54,1.0,10.0,-4.5,0.0,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,29,69,1.0,10.0,-4.5,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,29,69,1.0,10.0,-4.5,0.0,-16.18,26.02
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,29,69,1.0,10.0,-4.5,0.0,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,29,69,1.0,10.0,-4.5,0.0,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,29,69,1.0,10.0,-4.5,11.83,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,29,69,1.0,10.0,-4.5,-19.51,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,29,74,1.0,10.0,-4.5,-15.86,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,29,74,1.0,10.0,-4.5,0.0,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,29,74,1.0,10.0,-4.5,-12.48,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,29,74,1.0,10.0,-4.5,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,29,74,1.0,10.0,-4.5,0.0,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,29,74,1.0,10.0,-4.5,0.0,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,29,74,1.0,10.0,-4.5,11.83,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,29,74,1.0,10.0,-4.5,-19.51,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,29,79,1.0,10.0,-4.5,-15.86,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,29,79,1.0,10.0,-4.5,0.0,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,29,79,1.0,10.0,-4.5,-12.48,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,29,79,1.0,10.0,-4.5,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,29,79,1.0,10.0,-4.5,0.0,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,29,79,1.0,10.0,-4.5,0.0,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,29,79,1.0,10.0,-4.5,11.83,-18.07,27.51
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,29,69,1.0,10.0,-4.5,0.0,-20.16,28.45
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,29,69,1.0,10.0,-4.5,-15.86,-16.77,24.67
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,29,59,1.0,10.0,-4.5,0.0,-19.82,27.63
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,29,64,1.0,10.0,-4.5,-19.51,-21.94,23.81
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,29,54,1.0,10.0,-4.5,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,29,54,1.0,10.0,-4.5,0.0,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,29,54,1.0,10.0,-4.5,0.0,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,29,54,1.0,10.0,-4.5,11.83,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,29,54,1.0,10.0,-4.5,-19.51,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,29,59,1.0,10.0,-4.5,-15.86,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,29,59,1.0,10.0,-4.5,0.0,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,29,59,1.0,10.0,-4.5,-12.48,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,29,59,1.0,10.0,-4.5,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,29,59,1.0,10.0,-4.5,0.0,-18.85,24.79
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,29,79,1.0,10.0,-4.5,-19.51,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,29,59,1.0,10.0,-4.5,11.83,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,29,59,1.0,10.0,-4.5,-19.51,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,29,64,1.0,10.0,-4.5,-15.86,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,29,64,1.0,10.0,-4.5,0.0,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,29,64,1.0,10.0,-4.5,-12.48,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,29,64,1.0,10.0,-4.5,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,29,64,1.0,10.0,-4.5,0.0,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,29,64,1.0,10.0,-4.5,0.0,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,29,64,1.0,10.0,-4.5,11.83,-18.07,27.51
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,34,54,1.0,10.0,-7.6,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,34,54,1.0,10.0,-7.6,-17.61,-16.77,24.67
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,34,54,1.0,10.0,-7.6,-24.88,-19.82,27.63
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,34,54,1.0,10.0,-7.6,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,34,54,1.0,10.0,-7.6,-7.99,-17.64,23.52
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,34,54,1.0,10.0,-7.6,0.0,-18.85,24.79
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,34,59,1.0,10.0,-7.6,-21.91,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,34,64,1.0,10.0,-7.6,-17.61,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,34,69,1.0,10.0,-7.6,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,34,69,1.0,10.0,-7.6,-17.61,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,34,64,1.0,10.0,-7.6,-21.91,-21.94,23.81
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,34,64,1.0,10.0,-7.6,-24.88,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,34,64,1.0,10.0,-7.6,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,34,64,1.0,10.0,-7.6,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,34,64,1.0,10.0,-7.6,-7.99,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,34,64,1.0,10.0,-7.6,0.0,-16.18,26.02
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,34,59,1.0,10.0,-7.6,11.57,-18.07,27.51
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,34,69,1.0,10.0,-7.6,0.0,-20.16,28.45
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,34,59,1.0,10.0,-7.6,-24.88,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,34,59,1.0,10.0,-7.6,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,34,59,1.0,10.0,-7.6,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,34,59,1.0,10.0,-7.6,-7.99,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,34,59,1.0,10.0,-7.6,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,34,59,1.0,10.0,-7.6,-17.61,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,34,54,1.0,10.0,-7.6,-21.91,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,34,54,1.0,10.0,-7.6,11.57,-18.07,27.51
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,34,69,1.0,10.0,-7.6,-7.99,-17.64,23.52
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,34,64,1.0,10.0,-7.6,11.57,-18.07,27.51
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,34,69,1.0,10.0,-7.6,0.0,-18.85,24.79
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,34,74,1.0,10.0,-7.6,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,34,79,1.0,10.0,-7.6,-21.91,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,34,79,1.0,10.0,-7.6,11.57,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,34,79,1.0,10.0,-7.6,-24.88,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,34,79,1.0,10.0,-7.6,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,34,79,1.0,10.0,-7.6,0.0,-20.16,28.45
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,34,69,1.0,10.0,-7.6,-24.88,-19.82,27.63
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,34,79,1.0,10.0,-7.6,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,34,79,1.0,10.0,-7.6,-17.61,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,34,74,1.0,10.0,-7.6,-21.91,-21.94,23.81
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,34,79,1.0,10.0,-7.6,-7.99,-17.64,23.52
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,34,74,1.0,10.0,-7.6,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,34,74,1.0,10.0,-7.6,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,34,74,1.0,10.0,-7.6,-7.99,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,34,74,1.0,10.0,-7.6,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,34,74,1.0,10.0,-7.6,-17.61,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,34,69,1.0,10.0,-7.6,-21.91,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,34,69,1.0,10.0,-7.6,11.57,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,34,74,1.0,10.0,-7.6,-24.88,-19.82,27.63
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,34,69,1.0,10.0,-7.92,-15.86,-16.77,24.67
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,34,64,1.0,10.0,-7.92,-12.48,-17.64,23.52
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,34,59,1.0,10.0,-7.92,11.83,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,34,59,1.0,10.0,-7.92,-19.51,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,34,64,1.0,10.0,-7.92,-15.86,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,34,64,1.0,10.0,-7.92,0.0,-16.18,26.02
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,34,64,1.0,10.0,-7.92,-19.51,-21.94,23.81
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,34,64,1.0,10.0,-7.92,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,34,64,1.0,10.0,-7.92,0.0,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,34,64,1.0,10.0,-7.92,-27.33,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,34,64,1.0,10.0,-7.92,11.83,-18.07,27.51
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,34,59,1.0,10.0,-7.92,0.0,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,34,59,1.0,10.0,-7.92,-27.33,-19.82,27.63
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,34,54,1.0,10.0,-7.92,0.0,-20.16,28.45
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,34,59,1.0,10.0,-7.92,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,34,59,1.0,10.0,-7.92,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,34,59,1.0,10.0,-7.92,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,34,59,1.0,10.0,-7.92,-15.86,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,34,54,1.0,10.0,-7.92,-19.51,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,34,54,1.0,10.0,-7.92,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,34,54,1.0,10.0,-7.92,-27.33,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,34,54,1.0,10.0,-7.92,0.0,-18.85,24.79
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,34,54,1.0,10.0,-7.92,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,34,54,1.0,10.0,-7.92,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,34,54,1.0,10.0,-7.92,-15.86,-16.77,24.67
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,34,69,1.0,10.0,-7.92,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,34,69,1.0,10.0,-7.92,0.0,-16.18,26.02
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,34,69,1.0,10.0,-7.92,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,34,79,1.0,10.0,-7.92,-12.48,-17.64,23.52
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,34,74,1.0,10.0,-7.92,11.83,-18.07,27.51
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,34,69,1.0,10.0,-7.92,0.0,-18.85,24.79
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,34,79,1.0,10.0,-7.92,-19.51,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,34,79,1.0,10.0,-7.92,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,34,79,1.0,10.0,-7.92,-27.33,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,34,79,1.0,10.0,-7.92,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,34,79,1.0,10.0,-7.92,0.0,-20.16,28.45
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,34,79,1.0,10.0,-7.92,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,34,79,1.0,10.0,-7.92,-15.86,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,34,74,1.0,10.0,-7.92,-19.51,-21.94,23.81
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,34,74,1.0,10.0,-7.92,-27.33,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,34,74,1.0,10.0,-7.92,0.0,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,34,74,1.0,10.0,-7.92,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,34,74,1.0,10.0,-7.92,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,34,74,1.0,10.0,-7.92,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,34,74,1.0,10.0,-7.92,-15.86,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,34,69,1.0,10.0,-7.92,-19.51,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,34,69,1.0,10.0,-7.92,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,34,69,1.0,10.0,-7.92,-27.33,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,39,69,1.0,10.0,-9.25,-12.32,-18.85,24.79
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,39,69,1.0,10.0,-9.25,-19.51,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,39,69,1.0,10.0,-9.25,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,39,69,1.0,10.0,-9.25,-25.66,-19.82,27.63
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,39,59,1.0,10.0,-9.25,-25.66,-19.82,27.63
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,39,69,1.0,10.0,-9.25,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,39,69,1.0,10.0,-9.25,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,39,69,1.0,10.0,-9.25,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,39,69,1.0,10.0,-9.25,-15.86,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,39,74,1.0,10.0,-9.25,0.0,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,39,74,1.0,10.0,-9.25,-15.86,-16.77,24.67
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,39,79,1.0,10.0,-9.25,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,39,74,1.0,10.0,-9.25,-12.48,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,39,74,1.0,10.0,-9.25,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,39,74,1.0,10.0,-9.25,-12.32,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,39,74,1.0,10.0,-9.25,-25.66,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,39,74,1.0,10.0,-9.25,11.83,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,39,74,1.0,10.0,-9.25,-19.51,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,39,79,1.0,10.0,-9.25,-15.86,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,39,79,1.0,10.0,-9.25,0.0,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,39,79,1.0,10.0,-9.25,-12.48,-17.64,23.52
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,39,64,1.0,10.0,-9.25,11.83,-18.07,27.51
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,39,79,1.0,10.0,-9.25,-12.32,-18.85,24.79
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,39,64,1.0,10.0,-9.25,-19.51,-21.94,23.81
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,39,59,1.0,10.0,-9.25,-12.32,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,39,64,1.0,10.0,-9.25,-25.66,-19.82,27.63
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,39,59,1.0,10.0,-9.25,-15.86,-16.77,24.67
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,39,54,1.0,10.0,-9.25,-15.86,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,39,54,1.0,10.0,-9.25,0.0,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,39,54,1.0,10.0,-9.25,-12.48,-17.64,23.52
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,39,79,1.0,10.0,-9.25,-19.51,-21.94,23.81
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,39,54,1.0,10.0,-9.25,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,39,54,1.0,10.0,-9.25,-12.32,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,39,54,1.0,10.0,-9.25,-25.66,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,39,54,1.0,10.0,-9.25,11.83,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,39,54,1.0,10.0,-9.25,-19.51,-21.94,23.81
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,39,59,1.0,10.0,-9.25,0.0,-16.18,26.02
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,39,64,1.0,10.0,-9.25,-12.32,-18.85,24.79
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,39,59,1.0,10.0,-9.25,-12.48,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,39,59,1.0,10.0,-9.25,0.0,-20.16,28.45
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,39,79,1.0,10.0,-9.25,11.83,-18.07,27.51
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,39,59,1.0,10.0,-9.25,11.83,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,39,59,1.0,10.0,-9.25,-19.51,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,39,64,1.0,10.0,-9.25,-15.86,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,39,64,1.0,10.0,-9.25,0.0,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,39,64,1.0,10.0,-9.25,-12.48,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,39,64,1.0,10.0,-9.25,0.0,-20.16,28.45
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,39,79,1.0,10.0,-9.25,-25.66,-19.82,27.63
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,39,54,1.0,10.0,-13.52,-36.09,-16.18,26.02
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,44,54,1.0,10.0,-13.52,-21.91,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,39,54,1.0,10.0,-13.52,-17.61,-16.77,24.67
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,44,54,1.0,10.0,-13.52,11.57,-18.07,27.51
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,39,54,1.0,10.0,-13.52,-7.99,-17.64,23.52
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,44,79,1.0,10.0,-13.52,-17.61,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,44,69,1.0,10.0,-13.52,-21.91,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,44,74,1.0,10.0,-13.52,-17.61,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,44,74,1.0,10.0,-13.52,-36.09,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,44,74,1.0,10.0,-13.52,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,44,74,1.0,10.0,-13.52,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,44,74,1.0,10.0,-13.52,-11.26,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,44,74,1.0,10.0,-13.52,-24.88,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,44,74,1.0,10.0,-13.52,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,44,74,1.0,10.0,-13.52,-21.91,-21.94,23.81
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,44,79,1.0,10.0,-13.52,-36.09,-16.18,26.02
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,44,54,1.0,10.0,-13.52,-36.09,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,44,79,1.0,10.0,-13.52,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,44,79,1.0,10.0,-13.52,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,44,79,1.0,10.0,-13.52,-11.26,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,44,79,1.0,10.0,-13.52,-24.88,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,44,79,1.0,10.0,-13.52,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,44,79,1.0,10.0,-13.52,-21.91,-21.94,23.81
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,44,54,1.0,10.0,-13.52,-24.88,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,44,54,1.0,10.0,-13.52,-11.26,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,44,54,1.0,10.0,-13.52,0.0,-20.16,28.45
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,44,69,1.0,10.0,-13.52,11.57,-18.07,27.51
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,39,54,1.0,10.0,-13.52,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,44,69,1.0,10.0,-13.52,-11.26,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,44,69,1.0,10.0,-13.52,0.0,-20.16,28.45
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,44,59,1.0,10.0,-13.52,-17.61,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,44,59,1.0,10.0,-13.52,-36.09,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,44,59,1.0,10.0,-13.52,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,44,59,1.0,10.0,-13.52,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,44,59,1.0,10.0,-13.52,-11.26,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,44,59,1.0,10.0,-13.52,-24.88,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,44,59,1.0,10.0,-13.52,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,44,59,1.0,10.0,-13.52,-21.91,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,44,64,1.0,10.0,-13.52,-17.61,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,44,64,1.0,10.0,-13.52,-36.09,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,44,64,1.0,10.0,-13.52,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,44,64,1.0,10.0,-13.52,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,44,64,1.0,10.0,-13.52,-11.26,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,44,64,1.0,10.0,-13.52,-24.88,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,44,64,1.0,10.0,-13.52,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,44,64,1.0,10.0,-13.52,-21.91,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,44,69,1.0,10.0,-13.52,-17.61,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,44,69,1.0,10.0,-13.52,-36.09,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,44,69,1.0,10.0,-13.52,-7.99,-17.64,23.52
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,44,54,1.0,10.0,-13.52,-7.99,-17.64,23.52
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,44,69,1.0,10.0,-13.52,-24.88,-19.82,27.63
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,44,54,1.0,10.0,-13.52,-17.61,-16.77,24.67
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,39,64,1.0,10.0,-13.52,11.57,-18.07,27.51
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,39,69,1.0,10.0,-13.52,-17.61,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,39,69,1.0,10.0,-13.52,-36.09,-16.18,26.02
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,39,69,1.0,10.0,-13.52,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,39,69,1.0,10.0,-13.52,-11.26,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,39,69,1.0,10.0,-13.52,-24.88,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,39,69,1.0,10.0,-13.52,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,39,69,1.0,10.0,-13.52,-21.91,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,39,74,1.0,10.0,-13.52,-17.61,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,39,74,1.0,10.0,-13.52,-36.09,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,39,74,1.0,10.0,-13.52,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,39,74,1.0,10.0,-13.52,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,39,74,1.0,10.0,-13.52,-11.26,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,39,74,1.0,10.0,-13.52,-24.88,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,39,74,1.0,10.0,-13.52,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,39,74,1.0,10.0,-13.52,-21.91,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,39,79,1.0,10.0,-13.52,-17.61,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,39,79,1.0,10.0,-13.52,-36.09,-16.18,26.02
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,39,64,1.0,10.0,-13.52,-21.91,-21.94,23.81
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,39,64,1.0,10.0,-13.52,-24.88,-19.82,27.63
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,39,79,1.0,10.0,-13.52,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,39,64,1.0,10.0,-13.52,-11.26,-18.85,24.79
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,39,79,1.0,10.0,-13.52,-21.91,-21.94,23.81
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,39,54,1.0,10.0,-13.52,-11.26,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,39,54,1.0,10.0,-13.52,-24.88,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,39,54,1.0,10.0,-13.52,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,39,54,1.0,10.0,-13.52,-21.91,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,39,59,1.0,10.0,-13.52,-17.61,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,39,59,1.0,10.0,-13.52,-36.09,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,39,59,1.0,10.0,-13.52,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,39,59,1.0,10.0,-13.52,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,39,59,1.0,10.0,-13.52,-11.26,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,39,59,1.0,10.0,-13.52,-24.88,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,39,59,1.0,10.0,-13.52,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,39,59,1.0,10.0,-13.52,-21.91,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,39,64,1.0,10.0,-13.52,-17.61,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,39,64,1.0,10.0,-13.52,-36.09,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,39,64,1.0,10.0,-13.52,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,39,64,1.0,10.0,-13.52,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,39,79,1.0,10.0,-13.52,-7.99,-17.64,23.52
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,39,69,1.0,10.0,-13.52,-7.99,-17.64,23.52
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,39,79,1.0,10.0,-13.52,-11.26,-18.85,24.79
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,39,79,1.0,10.0,-13.52,11.57,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,39,79,1.0,10.0,-13.52,-24.88,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,49,74,1.0,10.0,-14.08,11.57,-18.07,27.51
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,49,69,1.0,10.0,-14.08,-11.26,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,49,69,1.0,10.0,-14.08,-24.88,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,49,69,1.0,10.0,-14.08,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,49,69,1.0,10.0,-14.08,-21.91,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,49,74,1.0,10.0,-14.08,-22.07,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,49,74,1.0,10.0,-14.08,-36.09,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,49,74,1.0,10.0,-14.08,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,49,74,1.0,10.0,-14.08,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,49,74,1.0,10.0,-14.08,-11.26,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,49,74,1.0,10.0,-14.08,-24.88,-19.82,27.63
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,49,74,1.0,10.0,-14.08,-21.91,-21.94,23.81
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,49,69,1.0,10.0,-14.08,-7.99,-17.64,23.52
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,49,79,1.0,10.0,-14.08,-22.07,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,49,79,1.0,10.0,-14.08,-36.09,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,49,79,1.0,10.0,-14.08,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,49,79,1.0,10.0,-14.08,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,49,79,1.0,10.0,-14.08,-11.26,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,49,79,1.0,10.0,-14.08,-24.88,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,49,79,1.0,10.0,-14.08,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,49,79,1.0,10.0,-14.08,-21.91,-21.94,23.81
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,49,59,1.0,10.0,-14.08,-36.09,-16.18,26.02
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,49,69,1.0,10.0,-14.08,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,49,59,1.0,10.0,-14.08,-7.99,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,49,69,1.0,10.0,-14.08,-36.09,-16.18,26.02
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,49,59,1.0,10.0,-14.08,-24.88,-19.82,27.63
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,49,59,1.0,10.0,-14.08,-22.07,-16.77,24.67
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,49,54,1.0,10.0,-14.08,11.57,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,49,54,1.0,10.0,-14.08,-24.88,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,49,54,1.0,10.0,-14.08,-11.26,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,49,54,1.0,10.0,-14.08,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,49,54,1.0,10.0,-14.08,-7.99,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,49,54,1.0,10.0,-14.08,-36.09,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,49,54,1.0,10.0,-14.08,-22.07,-16.77,24.67
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,49,59,1.0,10.0,-14.08,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,49,59,1.0,10.0,-14.08,-11.26,-18.85,24.79
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,49,54,1.0,10.0,-14.08,-21.91,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,49,59,1.0,10.0,-14.08,11.57,-18.07,27.51
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,49,64,1.0,10.0,-14.08,-22.07,-16.77,24.67
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,60,14,49,64,1.0,10.0,-14.08,-36.09,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,60,14,49,64,1.0,10.0,-14.08,-7.99,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,60,14,49,64,1.0,10.0,-14.08,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,60,14,49,64,1.0,10.0,-14.08,-11.26,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,60,14,49,64,1.0,10.0,-14.08,-24.88,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,60,14,49,64,1.0,10.0,-14.08,11.57,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,49,64,1.0,10.0,-14.08,-21.91,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,60,14,49,69,1.0,10.0,-14.08,-22.07,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,60,14,49,59,1.0,10.0,-14.08,-21.91,-21.94,23.81
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,49,64,1.0,10.0,-15.23,-47.85,-16.18,26.02
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,49,59,1.0,10.0,-15.23,11.83,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,49,59,1.0,10.0,-15.23,-19.51,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,49,64,1.0,10.0,-15.23,-15.86,-16.77,24.67
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,49,64,1.0,10.0,-15.23,-25.66,-19.82,27.63
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,49,64,1.0,10.0,-15.23,-12.48,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,49,64,1.0,10.0,-15.23,0.0,-20.16,28.45
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,49,64,1.0,10.0,-15.23,-12.32,-18.85,24.79
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,49,59,1.0,10.0,-15.23,-12.32,-18.85,24.79
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,49,64,1.0,10.0,-15.23,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,49,59,1.0,10.0,-15.23,-25.66,-19.82,27.63
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,49,54,1.0,10.0,-15.23,-19.51,-21.94,23.81
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,49,59,1.0,10.0,-15.23,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,49,59,1.0,10.0,-15.23,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,49,59,1.0,10.0,-15.23,-47.85,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,49,59,1.0,10.0,-15.23,-15.86,-16.77,24.67
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,49,54,1.0,10.0,-15.23,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,49,54,1.0,10.0,-15.23,-25.66,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,49,54,1.0,10.0,-15.23,-12.32,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,49,54,1.0,10.0,-15.23,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,49,54,1.0,10.0,-15.23,-12.48,-17.64,23.52
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,49,69,1.0,10.0,-15.23,-15.86,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,49,64,1.0,10.0,-15.23,-19.51,-21.94,23.81
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,49,74,1.0,10.0,-15.23,-12.32,-18.85,24.79
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,49,69,1.0,10.0,-15.23,-47.85,-16.18,26.02
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,49,74,1.0,10.0,-15.23,-25.66,-19.82,27.63
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,49,79,1.0,10.0,-15.23,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,49,79,1.0,10.0,-15.23,-25.66,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,49,79,1.0,10.0,-15.23,-12.32,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,49,79,1.0,10.0,-15.23,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,49,79,1.0,10.0,-15.23,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,49,79,1.0,10.0,-15.23,-47.85,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,49,79,1.0,10.0,-15.23,-15.86,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,49,74,1.0,10.0,-15.23,-19.51,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,49,74,1.0,10.0,-15.23,11.83,-18.07,27.51
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,49,54,1.0,10.0,-15.23,-15.86,-16.77,24.67
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,49,69,1.0,10.0,-15.23,-12.48,-17.64,23.52
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,49,74,1.0,10.0,-15.23,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,49,74,1.0,10.0,-15.23,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,49,74,1.0,10.0,-15.23,-47.85,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,49,74,1.0,10.0,-15.23,-15.86,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,49,69,1.0,10.0,-15.23,-19.51,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,49,69,1.0,10.0,-15.23,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,49,69,1.0,10.0,-15.23,-25.66,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,49,69,1.0,10.0,-15.23,-12.32,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,49,69,1.0,10.0,-15.23,0.0,-20.16,28.45
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,49,54,1.0,10.0,-15.23,-47.85,-16.18,26.02
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,44,54,1.0,10.0,-15.23,-47.85,-16.18,26.02
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,44,79,1.0,10.0,-15.23,-19.51,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,44,79,1.0,10.0,-15.23,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,44,64,1.0,10.0,-15.23,-25.66,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,44,64,1.0,10.0,-15.23,-12.32,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,44,64,1.0,10.0,-15.23,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,44,64,1.0,10.0,-15.23,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,44,64,1.0,10.0,-15.23,-47.85,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,44,64,1.0,10.0,-15.23,-15.86,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,44,59,1.0,10.0,-15.23,-19.51,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,44,59,1.0,10.0,-15.23,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,44,59,1.0,10.0,-15.23,-25.66,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,44,59,1.0,10.0,-15.23,-12.32,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,44,59,1.0,10.0,-15.23,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,44,59,1.0,10.0,-15.23,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,44,59,1.0,10.0,-15.23,-47.85,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,44,59,1.0,10.0,-15.23,-15.86,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,44,54,1.0,10.0,-15.23,-19.51,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,44,54,1.0,10.0,-15.23,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,44,54,1.0,10.0,-15.23,-25.66,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,44,54,1.0,10.0,-15.23,-12.32,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,44,54,1.0,10.0,-15.23,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,44,54,1.0,10.0,-15.23,-12.48,-17.64,23.52
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,44,54,1.0,10.0,-15.23,-15.86,-16.77,24.67
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,44,64,1.0,10.0,-15.23,11.83,-18.07,27.51
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,44,64,1.0,10.0,-15.23,-19.51,-21.94,23.81
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,44,69,1.0,10.0,-15.23,-15.86,-16.77,24.67
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,44,74,1.0,10.0,-15.23,-12.32,-18.85,24.79
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,44,79,1.0,10.0,-15.23,-25.66,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,44,79,1.0,10.0,-15.23,-12.32,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,44,79,1.0,10.0,-15.23,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,44,79,1.0,10.0,-15.23,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,44,79,1.0,10.0,-15.23,-47.85,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,44,79,1.0,10.0,-15.23,-15.86,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,44,74,1.0,10.0,-15.23,-19.51,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,44,74,1.0,10.0,-15.23,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,44,74,1.0,10.0,-15.23,-25.66,-19.82,27.63
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,44,74,1.0,10.0,-15.23,0.0,-20.16,28.45
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,44,69,1.0,10.0,-15.23,-47.85,-16.18,26.02
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,44,74,1.0,10.0,-15.23,-12.48,-17.64,23.52
+145,AAPD.O,Direxion Daily AAPL Bear 1X Shares,5,120,14,44,74,1.0,10.0,-15.23,-47.85,-16.18,26.02
+145,GOVZ.K,iShares 25+ Year Treasury STRIPS Bond ETF,5,120,14,44,74,1.0,10.0,-15.23,-15.86,-16.77,24.67
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,44,69,1.0,10.0,-15.23,-19.51,-21.94,23.81
+145,FMQQ.K,FMQQ The Next Frontier Internet & Ecommerce ETF,5,120,14,44,69,1.0,10.0,-15.23,11.83,-18.07,27.51
+145,KSTR.K,KraneShares SSE STAR Market 50 Index ETF,5,120,14,44,69,1.0,10.0,-15.23,-25.66,-19.82,27.63
+145,ION,ProShares S&P Global Core Battery Metals ETF,5,120,14,44,69,1.0,10.0,-15.23,-12.32,-18.85,24.79
+145,PYPY.K,YieldMax PYPL Option Income Strategy ETF,5,120,14,44,69,1.0,10.0,-15.23,0.0,-20.16,28.45
+145,TYA,Simplify Intermediate Term Treasury Futures Str,5,120,14,44,69,1.0,10.0,-15.23,-12.48,-17.64,23.52
+145,EVMT.O,Invesco Electric Vhcl Mtls Cmd Str No K-1 ETF,5,120,14,49,79,1.0,10.0,-15.23,-19.51,-21.94,23.81

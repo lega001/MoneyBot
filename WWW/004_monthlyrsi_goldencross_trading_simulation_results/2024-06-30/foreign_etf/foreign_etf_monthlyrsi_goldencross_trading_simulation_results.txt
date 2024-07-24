@@ -1,0 +1,120 @@
+
+TSLH.K (Innovator Hedged TSLA Strategy ETF)
+Cluster: 99
+Best Config: {'ticker': 'TSLH.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 396.86%
+
+TSL.O (GraniteShares 1.25x Long TSLA Daily ETF)
+Cluster: 151
+Best Config: {'ticker': 'TSL.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 154.64%
+
+TSLL.O (Direxion Daily TSLA Bull 2X Shares)
+Cluster: 139
+Best Config: {'ticker': 'TSLL.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 69.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 127.49%
+
+WEBL.K (Direxion Daily Dow Jones Internet Bull 3X Shares)
+Cluster: 41
+Best Config: {'ticker': 'WEBL.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 69.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 78.39%
+
+PTH.O (Invesco Dorsey Wright Healthcare Momentum ETF)
+Cluster: 78
+Best Config: {'ticker': 'PTH.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 52.15%
+
+XLG (Invesco S&P 500 Top 50 ETF)
+Cluster: 91
+Best Config: {'ticker': 'XLG', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 29.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 49.98%
+
+PSI (Invesco Semiconductors ETF)
+Cluster: 57
+Best Config: {'ticker': 'PSI', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 47.98%
+
+PTF.O (Invesco Dorsey Wright Technology Momentum ETF)
+Cluster: 57
+Best Config: {'ticker': 'PTF.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 45.50%
+
+BMVP.K (Invesco Bloomberg MVP Multi-Factor ETF)
+Cluster: 89
+Best Config: {'ticker': 'BMVP.K', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 39.38%
+
+RPG (Invesco S&P 500 Pure Growth ETF)
+Cluster: 91
+Best Config: {'ticker': 'RPG', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 29.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 39.02%
+
+RSPT.K (Invesco S&P 500 Eql Wght Technology ETF)
+Cluster: 76
+Best Config: {'ticker': 'RSPT.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 38.08%
+
+PRF (Invesco FTSE RAFI US 1000 ETF)
+Cluster: 91
+Best Config: {'ticker': 'PRF', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 29.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 26.80%
+
+PSCT.O (Invesco S&P SmallCap Information Tech ETF)
+Cluster: 78
+Best Config: {'ticker': 'PSCT.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 25.12%
+
+RETL.K (Direxion Daily Retail Bull 3X Shares)
+Cluster: 34
+Best Config: {'ticker': 'RETL.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 24.04%
+
+UNG (United States Natural Gas Fund LP)
+Cluster: 112
+Best Config: {'ticker': 'UNG', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 19.50%
+
+RSPU.K (Invesco S&P 500 Eql Wght Utilities ETF)
+Cluster: 97
+Best Config: {'ticker': 'RSPU.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 10.15%
+
+MORT.K (VanEck Mortgage REIT Income ETF)
+Cluster: 123
+Best Config: {'ticker': 'MORT.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 6.55%
+
+JPRE.K (JPMorgan Realty Income ETF)
+Cluster: 119
+Best Config: {'ticker': 'JPRE.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 3.43%
+
+MNA (IQ Merger Arbitrage ETF)
+Cluster: 102
+Best Config: {'ticker': 'MNA', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 2.91%
+
+DFAR.K (DFA Dimensional US Real Estate ETF)
+Cluster: 119
+Best Config: {'ticker': 'DFAR.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 2.02%
+
+PDBC.O (Invesco Optimum Yld Dvsfd Cmd Str No K-1 ETF)
+Cluster: 119
+Best Config: {'ticker': 'PDBC.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 1.64%
+
+COMT.O (iShares GSCI Commodity Dynamic Roll Strategy ETF)
+Cluster: 119
+Best Config: {'ticker': 'COMT.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 1.49%
+
+SCHP.K (Schwab US TIPS ETF)
+Cluster: 115
+Best Config: {'ticker': 'SCHP.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 1.00%
+
+GBF (iShares Government/Credit Bond ETF)
+Cluster: 115
+Best Config: {'ticker': 'GBF', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 1.00%

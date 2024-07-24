@@ -1,0 +1,1801 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,7.19,0.62
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,5.12,2.59
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,4.87,3.87
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,49,64,1.0,10.0,0.58,0.0,5.87,2.42
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,6.33,4.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,49,64,1.0,10.0,0.58,14.43,5.4,2.89
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,5.15,3.75
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,4.98,1.78
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,3.73,2.74
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,5.44,3.35
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,5.54,3.15
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,4.62,2.17
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,49,64,1.0,10.0,0.58,0.0,6.17,1.77
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,3.65,3.69
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,49,64,1.0,10.0,0.58,0.0,6.26,2.47
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,5.13,0.4
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,49,64,1.0,10.0,0.58,0.0,4.76,3.49
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,6.16,0.57
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,4.13,2.92
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,6.2,4.37
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,3.55,2.87
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,5.44,2.03
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,6.53,3.5
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,49,64,1.0,10.0,0.58,0.0,3.72,2.15
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,49,64,1.0,10.0,0.58,0.0,4.41,3.73
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,49,64,1.0,10.0,0.56,0.0,3.72,2.15
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,4.62,2.17
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,4.87,3.87
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,49,64,1.0,10.0,0.56,0.0,5.87,2.42
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,6.33,4.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,49,64,1.0,10.0,0.56,14.08,5.4,2.89
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,5.15,3.75
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,4.98,1.78
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,3.73,2.74
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,5.44,3.35
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,5.54,3.15
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,5.12,2.59
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,3.65,3.69
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,49,64,1.0,10.0,0.56,0.0,6.17,1.77
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,49,64,1.0,10.0,0.56,0.0,6.26,2.47
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,49,64,1.0,10.0,0.56,0.0,4.76,3.49
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,6.16,0.57
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,4.13,2.92
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,6.2,4.37
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,3.55,2.87
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,5.44,2.03
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,6.53,3.5
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,7.19,0.62
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,49,64,1.0,10.0,0.56,0.0,4.41,3.73
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,6.53,3.5
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,7.19,0.62
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,49,54,1.0,10.0,0.53,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,49,54,1.0,10.0,0.53,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,49,54,1.0,10.0,0.53,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,4.98,1.78
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,49,54,1.0,10.0,0.53,13.13,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,49,54,1.0,10.0,0.53,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,5.13,0.4
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,6.53,3.5
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,49,54,1.0,10.0,0.53,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,7.19,0.62
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,49,59,1.0,10.0,0.53,0.0,3.72,2.15
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,49,59,1.0,10.0,0.53,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,49,59,1.0,10.0,0.53,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,49,59,1.0,10.0,0.53,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,49,59,1.0,10.0,0.53,13.13,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,49,59,1.0,10.0,0.53,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,3.65,3.69
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,49,59,1.0,10.0,0.53,0.0,5.44,2.03
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,49,54,1.0,10.0,0.53,0.0,5.15,3.75
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,49,59,1.0,10.0,0.44,0.0,3.72,2.15
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,49,54,1.0,10.0,0.44,0.0,3.72,2.15
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,49,54,1.0,10.0,0.44,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,49,54,1.0,10.0,0.44,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,49,54,1.0,10.0,0.44,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,49,54,1.0,10.0,0.44,11.04,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,49,54,1.0,10.0,0.44,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,4.41,3.73
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,7.19,0.62
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,5.13,0.4
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,5.13,0.4
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,3.65,3.69
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,49,59,1.0,10.0,0.44,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,49,59,1.0,10.0,0.44,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,49,59,1.0,10.0,0.44,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,49,59,1.0,10.0,0.44,11.04,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,49,59,1.0,10.0,0.44,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,49,54,1.0,10.0,0.44,0.0,3.65,3.69
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,49,59,1.0,10.0,0.44,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,5.44,2.03
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,7.19,0.62
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,49,74,1.0,10.0,0.43,0.0,3.72,2.15
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,49,74,1.0,10.0,0.43,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,49,74,1.0,10.0,0.43,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,49,74,1.0,10.0,0.43,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,49,74,1.0,10.0,0.43,10.68,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,49,74,1.0,10.0,0.43,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,5.13,0.4
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,49,74,1.0,10.0,0.43,0.0,3.55,2.87
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,7.19,0.62
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,49,74,1.0,10.0,0.41,0.0,3.72,2.15
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,3.65,3.69
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,5.54,3.15
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,4.41,3.73
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,4.87,3.87
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,49,74,1.0,10.0,0.41,0.0,5.87,2.42
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,6.33,4.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,49,74,1.0,10.0,0.41,10.3,5.4,2.89
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,5.15,3.75
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,4.98,1.78
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,3.73,2.74
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,5.44,3.35
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,4.62,2.17
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,6.53,3.5
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,5.12,2.59
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,49,74,1.0,10.0,0.41,0.0,6.17,1.77
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,49,74,1.0,10.0,0.41,0.0,6.26,2.47
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,49,74,1.0,10.0,0.41,0.0,4.76,3.49
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,6.16,0.57
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,4.13,2.92
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,6.2,4.37
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,3.55,2.87
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,5.44,2.03
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,49,74,1.0,10.0,0.41,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,49,79,1.0,10.0,0.41,0.0,3.72,2.15
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,6.53,3.5
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,5.44,3.35
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,49,79,1.0,10.0,0.41,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,49,79,1.0,10.0,0.41,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,49,79,1.0,10.0,0.41,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,5.54,3.15
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,3.73,2.74
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,49,69,1.0,10.0,0.41,0.0,3.72,2.15
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,49,79,1.0,10.0,0.41,10.28,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,6.33,4.75
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,5.13,0.4
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,49,79,1.0,10.0,0.41,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,5.13,0.4
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,5.44,2.03
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,7.19,0.62
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,49,79,1.0,10.0,0.41,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,6.53,3.5
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,3.65,3.69
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,4.41,3.73
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,4.87,3.87
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,49,69,1.0,10.0,0.41,0.0,5.87,2.42
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,6.33,4.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,49,69,1.0,10.0,0.41,10.18,5.4,2.89
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,5.15,3.75
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,4.98,1.78
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,3.73,2.74
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,5.44,3.35
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,5.54,3.15
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,4.62,2.17
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,5.12,2.59
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,49,69,1.0,10.0,0.41,0.0,6.17,1.77
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,49,69,1.0,10.0,0.41,0.0,6.26,2.47
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,49,69,1.0,10.0,0.41,0.0,4.76,3.49
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,6.16,0.57
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,4.13,2.92
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,6.2,4.37
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,3.55,2.87
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,49,69,1.0,10.0,0.41,0.0,5.44,2.03
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,6.33,4.75
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,3.73,2.74
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,5.13,0.4
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,49,79,1.0,10.0,0.4,0.0,6.17,1.77
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,49,79,1.0,10.0,0.4,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,49,79,1.0,10.0,0.4,0.0,4.76,3.49
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,3.65,3.69
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,49,79,1.0,10.0,0.4,0.0,6.26,2.47
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,5.44,3.35
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,49,79,1.0,10.0,0.4,9.92,5.4,2.89
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,49,79,1.0,10.0,0.4,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,49,79,1.0,10.0,0.4,0.0,4.41,3.73
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,6.33,4.75
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,49,69,1.0,10.0,0.37,9.16,5.4,2.89
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,5.54,3.15
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,49,69,1.0,10.0,0.37,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,5.13,0.4
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,5.44,3.35
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,4.13,2.92
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,4.62,2.17
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,6.2,4.37
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,5.12,2.59
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,49,69,1.0,10.0,0.37,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,6.53,3.5
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,3.55,2.87
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,5.44,2.03
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,49,69,1.0,10.0,0.37,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,49,69,1.0,10.0,0.37,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,49,69,1.0,10.0,0.37,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,49,69,1.0,10.0,0.37,0.0,6.17,1.77
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,29,74,1.0,10.0,0.0,0.0,5.87,2.42
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,7.19,0.62
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,29,69,1.0,10.0,0.0,0.0,3.72,2.15
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.13,2.92
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.2,4.37
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.4,2.89
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.16,0.57
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.33,4.75
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.62,2.17
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.15,3.75
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.98,1.78
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,3.73,2.74
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.44,3.35
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.54,3.15
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,29,69,1.0,10.0,0.0,0.0,6.26,2.47
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.12,2.59
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,29,74,1.0,10.0,0.0,0.0,6.17,1.77
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,29,74,1.0,10.0,0.0,0.0,6.26,2.47
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,29,74,1.0,10.0,0.0,0.0,4.76,3.49
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.16,0.57
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.13,2.92
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.2,4.37
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,3.55,2.87
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,29,69,1.0,10.0,0.0,0.0,4.76,3.49
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,3.73,2.74
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,29,69,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.12,2.59
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,3.73,2.74
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.44,3.35
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.54,3.15
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.62,2.17
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.12,2.59
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,29,64,1.0,10.0,0.0,0.0,6.17,1.77
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,29,64,1.0,10.0,0.0,0.0,6.26,2.47
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,29,64,1.0,10.0,0.0,0.0,4.76,3.49
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.16,0.57
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.13,2.92
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.2,4.37
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,3.55,2.87
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.44,2.03
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.53,3.5
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,7.19,0.62
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,29,64,1.0,10.0,0.0,0.0,3.72,2.15
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.13,0.4
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,3.65,3.69
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.41,3.73
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.87,3.87
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,29,69,1.0,10.0,0.0,0.0,5.87,2.42
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.33,4.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.4,2.89
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.15,3.75
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.98,1.78
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.53,3.5
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.44,3.35
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.54,3.15
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.62,2.17
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.44,2.03
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.41,3.73
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,7.19,0.62
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,5.4,2.89
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,4.98,1.78
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,3.73,2.74
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,5.44,3.35
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,5.54,3.15
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,4.62,2.17
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,5.12,2.59
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,34,54,1.0,10.0,0.0,0.0,6.17,1.77
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,34,54,1.0,10.0,0.0,0.0,6.26,2.47
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,34,54,1.0,10.0,0.0,0.0,4.76,3.49
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,6.16,0.57
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,4.13,2.92
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,6.2,4.37
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,3.55,2.87
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,5.44,2.03
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,6.53,3.5
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,7.19,0.62
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,34,54,1.0,10.0,0.0,0.0,3.72,2.15
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,5.13,0.4
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,3.65,3.69
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,4.41,3.73
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,4.87,3.87
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,34,59,1.0,10.0,0.0,0.0,5.87,2.42
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,6.33,4.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,5.4,2.89
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,5.15,3.75
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,4.98,1.78
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,3.73,2.74
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,5.44,3.35
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,5.54,3.15
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,5.15,3.75
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,6.33,4.75
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,29,74,1.0,10.0,0.0,0.0,3.72,2.15
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,34,54,1.0,10.0,0.0,0.0,5.87,2.42
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,5.13,0.4
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,3.65,3.69
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.15,3.75
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.87,3.87
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,29,79,1.0,10.0,0.0,0.0,5.87,2.42
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,6.33,4.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,5.4,2.89
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,5.15,3.75
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.98,1.78
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,3.73,2.74
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,5.44,3.35
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,5.54,3.15
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.62,2.17
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,5.12,2.59
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,29,79,1.0,10.0,0.0,0.0,6.17,1.77
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,29,79,1.0,10.0,0.0,0.0,6.26,2.47
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,29,79,1.0,10.0,0.0,0.0,4.76,3.49
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,6.16,0.57
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.13,2.92
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,6.2,4.37
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,3.55,2.87
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,5.44,2.03
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,6.53,3.5
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,7.19,0.62
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,29,79,1.0,10.0,0.0,0.0,3.72,2.15
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,5.13,0.4
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,3.65,3.69
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,4.41,3.73
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,4.87,3.87
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.98,1.78
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,3.65,3.69
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.4,2.89
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,3.55,2.87
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,24,74,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,24,74,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,24,74,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,24,74,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,24,69,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,24,69,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,24,69,1.0,10.0,0.0,0.0,6.26,2.47
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,6.2,4.37
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,5.44,2.03
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,5.12,2.59
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,6.53,3.5
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,5.12,2.59
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,24,79,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,24,79,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,24,79,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,24,79,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,24,79,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,24,74,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,7.19,0.62
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,24,69,1.0,10.0,0.0,0.0,6.17,1.77
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.62,2.17
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.33,4.75
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,7.19,0.62
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.13,0.4
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,3.65,3.69
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.41,3.73
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.87,3.87
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,29,59,1.0,10.0,0.0,0.0,5.87,2.42
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.33,4.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.4,2.89
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.15,3.75
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.98,1.78
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,3.73,2.74
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.44,3.35
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.54,3.15
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.62,2.17
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.12,2.59
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,29,59,1.0,10.0,0.0,0.0,6.17,1.77
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,29,59,1.0,10.0,0.0,0.0,6.26,2.47
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,29,59,1.0,10.0,0.0,0.0,4.76,3.49
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.16,0.57
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.13,2.92
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.2,4.37
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,3.55,2.87
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.44,2.03
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.53,3.5
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,7.19,0.62
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,29,59,1.0,10.0,0.0,0.0,3.72,2.15
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.13,0.4
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.41,3.73
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.87,3.87
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,29,64,1.0,10.0,0.0,0.0,5.87,2.42
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,29,54,1.0,10.0,0.0,0.0,3.72,2.15
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.53,3.5
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,5.54,3.15
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.44,2.03
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,24,69,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,3.65,3.69
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.41,3.73
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.87,3.87
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,29,54,1.0,10.0,0.0,0.0,5.87,2.42
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.33,4.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.4,2.89
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.15,3.75
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.98,1.78
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,3.73,2.74
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.44,3.35
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.54,3.15
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.62,2.17
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.12,2.59
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,29,54,1.0,10.0,0.0,0.0,6.17,1.77
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,29,54,1.0,10.0,0.0,0.0,6.26,2.47
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,29,54,1.0,10.0,0.0,0.0,4.76,3.49
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.16,0.57
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.13,2.92
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.2,4.37
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,3.55,2.87
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,4.62,2.17
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,5.12,2.59
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,34,59,1.0,10.0,0.0,0.0,6.17,1.77
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,5.44,3.35
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,44,54,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,44,54,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,44,54,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,5.54,3.15
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,3.73,2.74
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,6.53,3.5
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,44,54,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,39,79,1.0,10.0,0.0,0.0,3.72,2.15
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,5.44,2.03
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,6.53,3.5
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,5.54,3.15
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,44,59,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,44,59,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,44,59,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,4.62,2.17
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,5.44,3.35
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,44,54,1.0,10.0,0.0,0.0,3.72,2.15
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,44,59,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,5.13,0.4
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,7.19,0.62
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,5.44,2.03
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,34,59,1.0,10.0,0.0,0.0,6.26,2.47
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,4.98,1.78
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,39,74,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,39,74,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,39,74,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,3.73,2.74
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,5.15,3.75
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,3.55,2.87
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,39,74,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,39,69,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,6.53,3.5
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,6.2,4.37
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,3.55,2.87
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,3.73,2.74
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,39,79,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,39,79,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,39,79,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,5.44,3.35
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,4.98,1.78
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,6.53,3.5
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,39,79,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,39,74,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,6.53,3.5
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,7.19,0.62
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,44,59,1.0,10.0,0.0,0.0,3.72,2.15
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,5.12,2.59
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,44,74,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,44,74,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,44,74,1.0,10.0,0.0,0.0,6.17,1.77
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,4.62,2.17
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,5.13,0.4
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,44,74,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,4.41,3.73
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,44,74,1.0,10.0,0.0,0.0,3.72,2.15
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,5.13,0.4
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,44,79,1.0,10.0,0.0,0.0,6.17,1.77
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,44,79,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,44,79,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,44,79,1.0,10.0,0.0,0.0,6.26,2.47
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,4.41,3.73
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,44,79,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,4.87,3.87
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,44,69,1.0,10.0,0.0,0.0,3.72,2.15
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,4.62,2.17
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,44,64,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,44,64,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,44,64,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,5.12,2.59
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,5.54,3.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,7.19,0.62
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,44,64,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,3.65,3.69
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,7.19,0.62
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,44,64,1.0,10.0,0.0,0.0,3.72,2.15
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,5.13,0.4
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,3.65,3.69
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,44,69,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,44,69,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,44,69,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,44,69,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,4.41,3.73
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,6.2,4.37
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,4.87,3.87
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,5.13,0.4
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,34,74,1.0,10.0,0.0,0.0,5.87,2.42
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,4.41,3.73
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,34,74,1.0,10.0,0.0,0.0,6.26,2.47
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,34,69,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,6.16,0.57
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,34,74,1.0,10.0,0.0,0.0,6.17,1.77
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,34,74,1.0,10.0,0.0,0.0,4.76,3.49
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,34,79,1.0,10.0,0.0,0.0,4.76,3.49
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,34,79,1.0,10.0,0.0,0.0,5.87,2.42
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,34,79,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,6.33,4.75
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,6.16,0.57
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,34,74,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,4.13,2.92
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,34,69,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,34,69,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,34,69,1.0,10.0,0.0,0.0,6.17,1.77
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,4.41,3.73
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,34,64,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,4.87,3.87
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,3.65,3.69
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,5.12,2.59
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,34,59,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,34,59,1.0,10.0,0.0,0.0,4.76,3.49
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,5.12,2.59
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,34,64,1.0,10.0,0.0,0.0,6.17,1.77
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,34,64,1.0,10.0,0.0,0.0,6.26,2.47
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,34,64,1.0,10.0,0.0,0.0,4.76,3.49
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,34,69,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,34,64,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,6.16,0.57
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,34,79,1.0,10.0,0.0,0.0,6.26,2.47
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,6.16,0.57
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,4.13,2.92
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,5.4,2.89
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,39,64,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,39,64,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,39,64,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,5.15,3.75
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,6.33,4.75
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,4.13,2.92
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,39,64,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,39,59,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,3.55,2.87
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,6.16,0.57
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,4.13,2.92
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,5.15,3.75
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,39,69,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,39,69,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,39,69,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,4.98,1.78
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,5.4,2.89
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,3.55,2.87
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,39,69,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,39,64,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,5.44,2.03
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,6.16,0.57
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,6.33,4.75
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,39,54,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,39,54,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,5.4,2.89
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,39,54,1.0,10.0,0.0,0.0,5.87,2.42
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,39,59,1.0,10.0,0.0,0.0,4.76,3.49
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,34,79,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,6.2,4.37
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,39,54,1.0,10.0,0.0,0.0,4.76,3.49
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,6.16,0.57
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,4.13,2.92
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,6.2,4.37
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,39,59,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,39,59,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,39,59,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,39,54,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,3.55,2.87
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,24,64,1.0,10.0,0.0,0.0,3.72,2.15
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,5.44,2.03
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,29,79,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,29,74,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,6.53,3.5
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,3.55,2.87
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,4.98,1.78
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,29,74,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,29,74,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,29,74,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,5.44,3.35
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,5.15,3.75
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,4.98,1.78
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,6.53,3.5
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,34,54,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,29,79,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,7.19,0.62
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,5.44,2.03
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,5.44,3.35
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,29,79,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,29,79,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,29,79,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,5.54,3.15
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,3.73,2.74
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,5.15,3.75
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,7.19,0.62
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,6.2,4.37
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,29,69,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,29,64,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,3.55,2.87
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,4.13,2.92
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,5.4,2.89
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,29,64,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,29,64,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,29,64,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,4.98,1.78
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,6.33,4.75
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,5.4,2.89
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,3.55,2.87
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,29,74,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,29,69,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,5.44,2.03
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,6.2,4.37
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,4.98,1.78
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,29,69,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,29,69,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,29,69,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,4.98,1.78
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,3.73,2.74
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,5.44,3.35
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,34,64,1.0,10.0,0.0,0.0,3.72,2.15
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,34,69,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,5.13,0.4
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,7.19,0.62
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,5.54,3.15
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,34,64,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,34,64,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,34,64,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,5.12,2.59
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,5.44,3.35
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,5.54,3.15
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,5.13,0.4
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,34,74,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,3.65,3.69
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,34,69,1.0,10.0,0.0,0.0,3.72,2.15
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,5.12,2.59
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,34,69,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,34,69,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,34,69,1.0,10.0,0.0,0.0,6.17,1.77
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,5.44,3.35
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,7.19,0.62
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,34,59,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,34,54,1.0,10.0,0.0,0.0,3.72,2.15
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,6.53,3.5
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,3.73,2.74
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,34,54,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,34,54,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,34,54,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,4.62,2.17
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,3.73,2.74
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,5.44,3.35
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,5.54,3.15
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,4.62,2.17
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,34,64,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,34,59,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,34,59,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,34,59,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,34,59,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,5.12,2.59
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,6.33,4.75
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,24,64,1.0,10.0,0.0,0.0,6.17,1.77
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,24,64,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,24,64,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,24,64,1.0,10.0,0.0,0.0,6.26,2.47
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,5.12,2.59
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,3.65,3.69
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,24,64,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.87,3.87
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,5.13,0.4
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.41,3.73
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.41,3.73
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,24,69,1.0,10.0,0.0,0.0,6.26,2.47
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,24,69,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,24,69,1.0,10.0,0.0,0.0,4.76,3.49
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,24,69,1.0,10.0,0.0,0.0,6.17,1.77
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.87,3.87
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,24,69,1.0,10.0,0.0,0.0,5.87,2.42
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,5.13,0.4
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,5.12,2.59
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,24,54,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,24,54,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,24,54,1.0,10.0,0.0,0.0,6.17,1.77
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.62,2.17
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,24,59,1.0,10.0,0.0,0.0,3.72,2.15
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,24,54,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.41,3.73
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,24,54,1.0,10.0,0.0,0.0,3.72,2.15
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,5.13,0.4
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,3.65,3.69
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.41,3.73
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,24,59,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,24,59,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,24,59,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,24,59,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.87,3.87
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,3.65,3.69
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.87,3.87
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,29,64,1.0,10.0,0.0,0.0,5.87,2.42
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,6.16,0.57
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,29,54,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,4.13,2.92
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,29,54,1.0,10.0,0.0,0.0,4.76,3.49
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,29,59,1.0,10.0,0.0,0.0,5.87,2.42
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,29,54,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,29,54,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,5.4,2.89
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,4.87,3.87
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,24,74,1.0,10.0,0.0,0.0,5.87,2.42
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,4.13,2.92
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,29,59,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,6.2,4.37
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,6.16,0.57
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,5.4,2.89
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,29,59,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,29,59,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,29,59,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,5.15,3.75
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,29,54,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,4.87,3.87
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,24,74,1.0,10.0,0.0,0.0,4.76,3.49
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,24,74,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,6.16,0.57
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,24,74,1.0,10.0,0.0,0.0,6.26,2.47
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,4.41,3.73
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,24,74,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,6.33,4.75
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.41,3.73
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.87,3.87
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,24,79,1.0,10.0,0.0,0.0,5.87,2.42
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,6.33,4.75
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,24,79,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,24,79,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,24,79,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,24,79,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,5.4,2.89
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,5.54,3.15
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,4.62,2.17
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,5.12,2.59
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,4.98,1.78
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,44,69,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,44,69,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,44,69,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,3.73,2.74
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,5.15,3.75
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,3.55,2.87
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,44,69,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,44,64,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,6.53,3.5
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,6.2,4.37
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,5.44,2.03
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,5.44,2.03
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,3.73,2.74
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,44,74,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,44,74,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,44,74,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,5.44,3.35
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,4.98,1.78
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,6.53,3.5
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,44,74,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,44,69,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,7.19,0.62
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,6.2,4.37
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,5.15,3.75
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,44,59,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,44,59,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,44,59,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,4.98,1.78
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,5.4,2.89
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,4.13,2.92
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,44,59,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,44,54,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,5.44,2.03
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,4.13,2.92
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,6.2,4.37
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,3.55,2.87
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,5.44,2.03
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,44,64,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,44,64,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,44,64,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,44,64,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,44,59,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,6.53,3.5
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,3.55,2.87
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,6.53,3.5
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,6.2,4.37
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,5.54,3.15
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,24,59,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,24,59,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,24,59,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.62,2.17
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,5.44,3.35
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,7.19,0.62
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,24,59,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,5.13,0.4
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,6.53,3.5
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,24,59,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,7.19,0.62
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.62,2.17
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,24,64,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,24,64,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,24,64,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,5.12,2.59
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,5.54,3.15
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,5.13,0.4
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,24,64,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,3.65,3.69
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,120,14,24,54,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,6.53,3.5
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,5.44,3.35
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,44,79,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,44,79,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,44,79,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,5.54,3.15
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,3.73,2.74
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,5.44,2.03
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,44,79,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,44,74,1.0,10.0,0.0,0.0,3.72,2.15
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,5.44,2.03
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,6.53,3.5
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,7.19,0.62
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,44,79,1.0,10.0,0.0,0.0,3.72,2.15
+90,NPFI.O,Nuveen Preferred and Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,120,14,24,54,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,120,14,24,54,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,24,54,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,24,54,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,3.65,3.69
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,3.65,3.69
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,3.55,2.87
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,4.13,2.92
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,34,74,1.0,10.0,0.0,0.0,6.17,1.77
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,4.41,3.73
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,39,59,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,4.87,3.87
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,3.65,3.69
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,39,59,1.0,10.0,0.0,0.0,6.17,1.77
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,39,54,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,39,54,1.0,10.0,0.0,0.0,4.76,3.49
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,5.12,2.59
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,39,59,1.0,10.0,0.0,0.0,6.26,2.47
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,39,64,1.0,10.0,0.0,0.0,6.26,2.47
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,4.87,3.87
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,39,64,1.0,10.0,0.0,0.0,5.87,2.42
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,4.41,3.73
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,39,59,1.0,10.0,0.0,0.0,4.76,3.49
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,39,59,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,6.16,0.57
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,39,54,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,39,54,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,5.12,2.59
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,3.65,3.69
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,34,79,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,4.41,3.73
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,5.13,0.4
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,4.62,2.17
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,34,74,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,34,74,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,34,74,1.0,10.0,0.0,0.0,6.26,2.47
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,4.62,2.17
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,5.12,2.59
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,34,79,1.0,10.0,0.0,0.0,6.17,1.77
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,34,79,1.0,10.0,0.0,0.0,6.26,2.47
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,39,54,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,34,79,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,34,79,1.0,10.0,0.0,0.0,4.76,3.49
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,39,64,1.0,10.0,0.0,0.0,6.17,1.77
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,39,64,1.0,10.0,0.0,0.0,4.76,3.49
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,6.16,0.57
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,6.33,4.75
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,39,79,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,39,79,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,5.4,2.89
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,39,79,1.0,10.0,0.0,0.0,5.87,2.42
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,6.16,0.57
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,39,74,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,6.2,4.37
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,39,79,1.0,10.0,0.0,0.0,4.76,3.49
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,6.16,0.57
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,5.4,2.89
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,44,54,1.0,10.0,0.0,0.0,4.76,3.49
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,44,54,1.0,10.0,0.0,0.0,6.26,2.47
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,44,54,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,5.15,3.75
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,6.33,4.75
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,6.2,4.37
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,44,54,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,39,79,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,3.55,2.87
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,4.13,2.92
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,6.16,0.57
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,39,74,1.0,10.0,0.0,0.0,4.76,3.49
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,39,69,1.0,10.0,0.0,0.0,5.87,2.42
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,39,69,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,6.33,4.75
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,4.87,3.87
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,39,74,1.0,10.0,0.0,0.0,6.26,2.47
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,39,64,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,6.2,4.37
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,4.13,2.92
+90,LJUL.K,Innovator Premium Income 15 Buffer ETF - July,5,60,14,39,69,1.0,10.0,0.0,0.0,6.26,2.47
+90,EBUF.K,Innovator Emerging Mkts 10 Buffer ETF - Quarterly,5,60,14,39,69,1.0,10.0,0.0,0.0,4.76,3.49
+90,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,6.16,0.57
+90,TSEC.K,Touchstone Securitized Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,4.13,2.92
+90,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,39,74,1.0,10.0,0.0,0.0,6.17,1.77
+90,QBER.K,TrueShares Quarterly Bear Hedge ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,5.12,2.59
+90,CGSM.K,Capital Group Short Duration Municipal Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,4.62,2.17
+90,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,5.54,3.15
+90,JSI,Janus Henderson Securitized Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,5.44,3.35
+90,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,3.73,2.74
+90,USDX.O,SGI Enhanced Core ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,4.98,1.78
+90,MAXJ.K,iShares Large Cap Max Buffer Jun ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,5.15,3.75
+90,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,5.4,2.89
+90,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,6.33,4.75
+90,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,39,74,1.0,10.0,0.0,0.0,5.87,2.42
+90,CLOZ.K,Panagram BBB-B CLO ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,4.87,3.87
+90,CGMU.K,Capital Group Municipal Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,4.41,3.73
+90,BINC.K,BlackRock Flexible Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,3.65,3.69
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,5.13,0.4
+90,HJUL.K,Innovator Premium Income 9 Buffer ETF - July,5,60,14,39,69,1.0,10.0,0.0,0.0,3.72,2.15
+90,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,7.19,0.62
+90,NBSD.K,Neuberger Berman Short Duration Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,6.53,3.5
+90,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,5.44,2.03
+90,NPFI.O,Nuveen Preferred and Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,3.55,2.87
+90,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,6.2,4.37
+90,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,5.13,0.4

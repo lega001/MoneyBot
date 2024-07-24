@@ -1,0 +1,1081 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,74,1.0,10.0,2.02,30.25,25.29,18.96
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,49,74,1.0,10.0,2.02,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,74,1.0,10.0,2.02,0.0,24.91,18.97
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,49,74,1.0,10.0,2.02,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,74,1.0,10.0,2.02,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,49,74,1.0,10.0,2.02,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,49,74,1.0,10.0,2.02,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,49,74,1.0,10.0,2.02,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,49,74,1.0,10.0,2.02,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,49,74,1.0,10.0,2.02,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,49,74,1.0,10.0,2.02,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,49,74,1.0,10.0,2.02,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,49,74,1.0,10.0,2.02,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,49,74,1.0,10.0,2.02,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,49,74,1.0,10.0,2.02,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,49,79,1.0,10.0,1.88,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,79,1.0,10.0,1.88,0.0,24.91,18.97
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,49,79,1.0,10.0,1.88,0.0,26.11,19.81
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,49,79,1.0,10.0,1.88,0.0,29.16,18.09
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,49,79,1.0,10.0,1.88,0.0,27.29,20.53
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,49,79,1.0,10.0,1.88,0.0,29.02,19.77
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,49,79,1.0,10.0,1.88,0.0,28.32,18.08
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,49,79,1.0,10.0,1.88,0.0,27.12,17.43
+41,DARP.K,Grizzle Growth ETF,5,120,14,49,79,1.0,10.0,1.88,0.0,28.01,20.08
+41,IBOT.O,VanEck Robotics ETF,5,120,14,49,79,1.0,10.0,1.88,0.0,24.32,17.53
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,49,79,1.0,10.0,1.88,0.0,25.24,19.69
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,49,79,1.0,10.0,1.88,0.0,25.97,20.24
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,79,1.0,10.0,1.88,0.0,24.98,19.93
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,49,79,1.0,10.0,1.88,0.0,25.31,21.61
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,79,1.0,10.0,1.88,28.27,25.29,18.96
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,49,69,1.0,10.0,1.73,0.0,26.11,19.81
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,69,1.0,10.0,1.73,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,69,1.0,10.0,1.73,25.97,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,49,69,1.0,10.0,1.73,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,69,1.0,10.0,1.73,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,49,69,1.0,10.0,1.73,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,49,69,1.0,10.0,1.73,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,49,69,1.0,10.0,1.73,0.0,24.32,17.53
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,49,69,1.0,10.0,1.73,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,49,69,1.0,10.0,1.73,0.0,28.32,18.08
+41,DARP.K,Grizzle Growth ETF,5,120,14,49,69,1.0,10.0,1.73,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,49,69,1.0,10.0,1.73,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,49,69,1.0,10.0,1.73,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,49,69,1.0,10.0,1.73,0.0,24.58,17.73
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,49,69,1.0,10.0,1.73,0.0,29.02,19.77
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,49,74,1.0,10.0,1.62,0.0,25.97,20.24
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,49,74,1.0,10.0,1.62,0.0,29.16,18.09
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,74,1.0,10.0,1.62,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,74,1.0,10.0,1.62,24.3,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,49,74,1.0,10.0,1.62,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,74,1.0,10.0,1.62,0.0,24.98,19.93
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,49,74,1.0,10.0,1.62,0.0,26.11,19.81
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,49,74,1.0,10.0,1.62,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,49,74,1.0,10.0,1.62,0.0,24.32,17.53
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,49,74,1.0,10.0,1.62,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,49,74,1.0,10.0,1.62,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,49,74,1.0,10.0,1.62,0.0,29.02,19.77
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,74,1.0,10.0,1.62,0.0,24.91,18.97
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,49,74,1.0,10.0,1.62,0.0,24.58,17.73
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,44,74,1.0,10.0,1.62,0.0,28.32,18.08
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,74,1.0,10.0,1.62,24.3,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,44,74,1.0,10.0,1.62,0.0,25.31,21.61
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,44,74,1.0,10.0,1.62,0.0,24.58,17.73
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,44,74,1.0,10.0,1.62,0.0,29.16,18.09
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,44,74,1.0,10.0,1.62,0.0,27.29,20.53
+41,DARP.K,Grizzle Growth ETF,5,60,14,44,74,1.0,10.0,1.62,0.0,28.01,20.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,44,74,1.0,10.0,1.62,0.0,29.02,19.77
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,49,74,1.0,10.0,1.62,0.0,27.29,20.53
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,44,74,1.0,10.0,1.62,0.0,27.12,17.43
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,44,74,1.0,10.0,1.62,0.0,26.11,19.81
+41,IBOT.O,VanEck Robotics ETF,5,60,14,44,74,1.0,10.0,1.62,0.0,24.32,17.53
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,44,74,1.0,10.0,1.62,0.0,25.24,19.69
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,44,74,1.0,10.0,1.62,0.0,25.97,20.24
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,74,1.0,10.0,1.62,0.0,24.98,19.93
+41,DARP.K,Grizzle Growth ETF,5,60,14,49,74,1.0,10.0,1.62,0.0,28.01,20.08
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,49,79,1.0,10.0,1.59,0.0,29.16,18.09
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,49,79,1.0,10.0,1.59,0.0,27.29,20.53
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,79,1.0,10.0,1.59,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,44,79,1.0,10.0,1.59,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,44,79,1.0,10.0,1.59,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,44,79,1.0,10.0,1.59,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,44,79,1.0,10.0,1.59,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,44,79,1.0,10.0,1.59,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,44,79,1.0,10.0,1.59,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,44,79,1.0,10.0,1.59,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,44,79,1.0,10.0,1.59,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,44,79,1.0,10.0,1.59,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,44,79,1.0,10.0,1.59,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,44,79,1.0,10.0,1.59,0.0,24.58,17.73
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,49,79,1.0,10.0,1.59,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,79,1.0,10.0,1.59,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,79,1.0,10.0,1.59,23.79,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,49,79,1.0,10.0,1.59,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,79,1.0,10.0,1.59,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,49,79,1.0,10.0,1.59,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,49,79,1.0,10.0,1.59,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,49,79,1.0,10.0,1.59,0.0,24.32,17.53
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,44,79,1.0,10.0,1.59,0.0,25.31,21.61
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,49,79,1.0,10.0,1.59,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,49,79,1.0,10.0,1.59,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,49,79,1.0,10.0,1.59,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,49,79,1.0,10.0,1.59,0.0,28.01,20.08
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,49,79,1.0,10.0,1.59,0.0,26.11,19.81
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,79,1.0,10.0,1.59,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,79,1.0,10.0,1.59,23.79,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,25.31,21.61
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,27.12,17.43
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,64,1.0,10.0,1.5,22.43,25.29,18.96
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,25.24,19.69
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,26.11,19.81
+41,IBOT.O,VanEck Robotics ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,24.32,17.53
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,49,64,1.0,10.0,1.5,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,49,64,1.0,10.0,1.5,0.0,24.58,17.73
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,44,69,1.0,10.0,1.36,0.0,28.32,18.08
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,69,1.0,10.0,1.36,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,44,69,1.0,10.0,1.36,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,44,69,1.0,10.0,1.36,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,44,69,1.0,10.0,1.36,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,44,69,1.0,10.0,1.36,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,44,69,1.0,10.0,1.36,0.0,27.12,17.43
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,49,69,1.0,10.0,1.36,0.0,24.58,17.73
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,44,69,1.0,10.0,1.36,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,44,69,1.0,10.0,1.36,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,44,69,1.0,10.0,1.36,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,44,69,1.0,10.0,1.36,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,44,69,1.0,10.0,1.36,0.0,24.58,17.73
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,69,1.0,10.0,1.36,20.33,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,44,69,1.0,10.0,1.36,0.0,25.31,21.61
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,69,1.0,10.0,1.36,0.0,24.91,18.97
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,49,69,1.0,10.0,1.36,0.0,29.16,18.09
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,69,1.0,10.0,1.36,0.0,24.91,18.97
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,49,69,1.0,10.0,1.36,0.0,27.29,20.53
+41,DARP.K,Grizzle Growth ETF,5,60,14,49,69,1.0,10.0,1.36,0.0,28.01,20.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,49,69,1.0,10.0,1.36,0.0,29.02,19.77
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,49,69,1.0,10.0,1.36,0.0,28.32,18.08
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,49,69,1.0,10.0,1.36,0.0,27.12,17.43
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,49,69,1.0,10.0,1.36,0.0,26.11,19.81
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,49,69,1.0,10.0,1.36,0.0,25.24,19.69
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,49,69,1.0,10.0,1.36,0.0,25.97,20.24
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,69,1.0,10.0,1.36,0.0,24.98,19.93
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,49,69,1.0,10.0,1.36,0.0,25.31,21.61
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,69,1.0,10.0,1.36,20.33,25.29,18.96
+41,IBOT.O,VanEck Robotics ETF,5,60,14,49,69,1.0,10.0,1.36,0.0,24.32,17.53
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,64,1.0,10.0,1.15,0.0,24.91,18.97
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,49,64,1.0,10.0,1.15,0.0,24.58,17.73
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,49,64,1.0,10.0,1.15,0.0,27.29,20.53
+41,DARP.K,Grizzle Growth ETF,5,60,14,49,64,1.0,10.0,1.15,0.0,28.01,20.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,49,64,1.0,10.0,1.15,0.0,29.02,19.77
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,49,64,1.0,10.0,1.15,0.0,28.32,18.08
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,49,64,1.0,10.0,1.15,0.0,27.12,17.43
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,49,64,1.0,10.0,1.15,0.0,26.11,19.81
+41,IBOT.O,VanEck Robotics ETF,5,60,14,49,64,1.0,10.0,1.15,0.0,24.32,17.53
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,49,64,1.0,10.0,1.15,0.0,25.24,19.69
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,49,64,1.0,10.0,1.15,0.0,25.97,20.24
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,64,1.0,10.0,1.15,0.0,24.98,19.93
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,49,64,1.0,10.0,1.15,0.0,25.31,21.61
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,64,1.0,10.0,1.15,17.24,25.29,18.96
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,49,64,1.0,10.0,1.15,0.0,29.16,18.09
+41,DARP.K,Grizzle Growth ETF,5,60,14,44,64,1.0,10.0,1.15,0.0,28.01,20.08
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,44,64,1.0,10.0,1.15,0.0,24.58,17.73
+41,IBOT.O,VanEck Robotics ETF,5,60,14,44,64,1.0,10.0,1.15,0.0,24.32,17.53
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,64,1.0,10.0,1.15,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,64,1.0,10.0,1.15,17.24,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,44,64,1.0,10.0,1.15,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,64,1.0,10.0,1.15,0.0,24.98,19.93
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,44,64,1.0,10.0,1.15,0.0,25.24,19.69
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,44,64,1.0,10.0,1.15,0.0,25.97,20.24
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,44,64,1.0,10.0,1.15,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,44,64,1.0,10.0,1.15,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,44,64,1.0,10.0,1.15,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,44,64,1.0,10.0,1.15,0.0,29.02,19.77
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,44,64,1.0,10.0,1.15,0.0,29.16,18.09
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,44,64,1.0,10.0,1.15,0.0,27.29,20.53
+41,IBOT.O,VanEck Robotics ETF,5,120,14,49,59,1.0,10.0,1.08,0.0,24.32,17.53
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,59,1.0,10.0,1.08,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,59,1.0,10.0,1.08,16.27,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,49,59,1.0,10.0,1.08,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,59,1.0,10.0,1.08,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,49,59,1.0,10.0,1.08,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,49,59,1.0,10.0,1.08,0.0,25.24,19.69
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,49,59,1.0,10.0,1.08,0.0,26.11,19.81
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,49,59,1.0,10.0,1.08,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,49,59,1.0,10.0,1.08,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,49,59,1.0,10.0,1.08,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,49,59,1.0,10.0,1.08,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,49,59,1.0,10.0,1.08,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,49,59,1.0,10.0,1.08,0.0,24.58,17.73
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,49,59,1.0,10.0,1.08,0.0,27.12,17.43
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,54,1.0,10.0,0.99,0.0,24.91,18.97
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,49,54,1.0,10.0,0.99,0.0,26.11,19.81
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,49,54,1.0,10.0,0.99,0.0,25.31,21.61
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,49,54,1.0,10.0,0.99,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,49,54,1.0,10.0,0.99,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,49,54,1.0,10.0,0.99,0.0,24.32,17.53
+41,DARP.K,Grizzle Growth ETF,5,120,14,49,54,1.0,10.0,0.99,0.0,28.01,20.08
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,49,54,1.0,10.0,0.99,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,49,54,1.0,10.0,0.99,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,49,54,1.0,10.0,0.99,0.0,29.02,19.77
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,49,54,1.0,10.0,0.99,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,49,54,1.0,10.0,0.99,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,49,54,1.0,10.0,0.99,0.0,24.58,17.73
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,54,1.0,10.0,0.99,14.9,25.29,18.96
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,54,1.0,10.0,0.99,0.0,24.98,19.93
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,44,59,1.0,10.0,0.78,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,44,59,1.0,10.0,0.78,0.0,29.16,18.09
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,44,59,1.0,10.0,0.78,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,44,59,1.0,10.0,0.78,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,44,59,1.0,10.0,0.78,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,44,59,1.0,10.0,0.78,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,44,59,1.0,10.0,0.78,0.0,28.01,20.08
+41,IBOT.O,VanEck Robotics ETF,5,60,14,49,59,1.0,10.0,0.78,0.0,24.32,17.53
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,44,59,1.0,10.0,0.78,0.0,24.58,17.73
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,44,59,1.0,10.0,0.78,0.0,25.24,19.69
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,49,59,1.0,10.0,0.78,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,49,59,1.0,10.0,0.78,0.0,27.12,17.43
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,49,59,1.0,10.0,0.78,0.0,24.58,17.73
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,49,59,1.0,10.0,0.78,0.0,29.16,18.09
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,49,59,1.0,10.0,0.78,0.0,27.29,20.53
+41,DARP.K,Grizzle Growth ETF,5,60,14,49,59,1.0,10.0,0.78,0.0,28.01,20.08
+41,IBOT.O,VanEck Robotics ETF,5,60,14,44,59,1.0,10.0,0.78,0.0,24.32,17.53
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,44,59,1.0,10.0,0.78,0.0,25.97,20.24
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,49,59,1.0,10.0,0.78,0.0,28.32,18.08
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,49,59,1.0,10.0,0.78,0.0,25.97,20.24
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,59,1.0,10.0,0.78,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,59,1.0,10.0,0.78,11.63,25.29,18.96
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,59,1.0,10.0,0.78,0.0,24.98,19.93
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,59,1.0,10.0,0.78,0.0,24.98,19.93
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,49,59,1.0,10.0,0.78,0.0,25.31,21.61
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,49,59,1.0,10.0,0.78,0.0,25.24,19.69
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,59,1.0,10.0,0.78,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,59,1.0,10.0,0.78,11.63,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,44,59,1.0,10.0,0.78,0.0,25.31,21.61
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,49,59,1.0,10.0,0.78,0.0,29.02,19.77
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,54,1.0,10.0,0.66,9.86,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,49,54,1.0,10.0,0.66,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,54,1.0,10.0,0.66,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,49,54,1.0,10.0,0.66,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,49,54,1.0,10.0,0.66,0.0,25.24,19.69
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,44,54,1.0,10.0,0.66,0.0,25.31,21.61
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,49,54,1.0,10.0,0.66,0.0,26.11,19.81
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,54,1.0,10.0,0.66,0.0,24.91,18.97
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,54,1.0,10.0,0.66,0.0,24.98,19.93
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,44,54,1.0,10.0,0.66,0.0,24.58,17.73
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,44,54,1.0,10.0,0.66,0.0,29.16,18.09
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,44,54,1.0,10.0,0.66,0.0,27.29,20.53
+41,DARP.K,Grizzle Growth ETF,5,60,14,44,54,1.0,10.0,0.66,0.0,28.01,20.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,44,54,1.0,10.0,0.66,0.0,29.02,19.77
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,44,54,1.0,10.0,0.66,0.0,28.32,18.08
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,44,54,1.0,10.0,0.66,0.0,27.12,17.43
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,44,54,1.0,10.0,0.66,0.0,26.11,19.81
+41,IBOT.O,VanEck Robotics ETF,5,60,14,44,54,1.0,10.0,0.66,0.0,24.32,17.53
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,44,54,1.0,10.0,0.66,0.0,25.24,19.69
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,44,54,1.0,10.0,0.66,0.0,25.97,20.24
+41,IBOT.O,VanEck Robotics ETF,5,60,14,49,54,1.0,10.0,0.66,0.0,24.32,17.53
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,54,1.0,10.0,0.66,9.86,25.29,18.96
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,49,54,1.0,10.0,0.66,0.0,27.12,17.43
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,49,54,1.0,10.0,0.66,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,49,54,1.0,10.0,0.66,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,49,54,1.0,10.0,0.66,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,49,54,1.0,10.0,0.66,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,49,54,1.0,10.0,0.66,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,54,1.0,10.0,0.66,0.0,24.91,18.97
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,49,54,1.0,10.0,0.66,0.0,28.32,18.08
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,24.58,17.73
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,25.31,21.61
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,25.29,18.96
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,24.91,18.97
+41,DARP.K,Grizzle Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,28.01,20.08
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,29.16,18.09
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,29,59,1.0,10.0,0.0,0.0,27.29,20.53
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,25.97,20.24
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,29.02,19.77
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,24.98,19.93
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,27.12,17.43
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,29,64,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,29.16,18.09
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,28.32,18.08
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,25.24,19.69
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,26.11,19.81
+41,IBOT.O,VanEck Robotics ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,24.32,17.53
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,29,54,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,25.97,20.24
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,24.91,18.97
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,24.58,17.73
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,25.97,20.24
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,25.31,21.61
+41,DARP.K,Grizzle Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,29,74,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,29,79,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,24.58,17.73
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,29.02,19.77
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,28.32,18.08
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,27.12,17.43
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,29,69,1.0,10.0,0.0,0.0,27.29,20.53
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,24.98,19.93
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,28.01,20.08
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,29.16,18.09
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,26.11,19.81
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,24.32,17.53
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,24.91,18.97
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,25.29,18.96
+41,IBOT.O,VanEck Robotics ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,39,79,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,25.24,19.69
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,26.11,19.81
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,25.24,19.69
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,44,54,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,24.32,17.53
+41,IBOT.O,VanEck Robotics ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,24.32,17.53
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,25.97,20.24
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,27.12,17.43
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,39,69,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,25.29,18.96
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,24.98,19.93
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,39,74,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,25.31,21.61
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,26.11,19.81
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,28.32,18.08
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,25.31,21.61
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,44,74,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,29.16,18.09
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,24.91,18.97
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,29.16,18.09
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,44,79,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,24.58,17.73
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,24.58,17.73
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,44,69,1.0,10.0,0.0,0.0,27.29,20.53
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,29.02,19.77
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,44,59,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,28.32,18.08
+41,DARP.K,Grizzle Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,28.01,20.08
+41,DARP.K,Grizzle Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,44,64,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,29.02,19.77
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,25.31,21.61
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,25.29,18.96
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,24.91,18.97
+41,IBOT.O,VanEck Robotics ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,34,64,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,25.24,19.69
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,26.11,19.81
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,25.24,19.69
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,34,69,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,24.32,17.53
+41,IBOT.O,VanEck Robotics ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,24.32,17.53
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,25.97,20.24
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,24.58,17.73
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,34,54,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,25.29,18.96
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,24.98,19.93
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,34,59,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,25.31,21.61
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,28.32,18.08
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,39,59,1.0,10.0,0.0,0.0,27.29,20.53
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,24.58,17.73
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,29.02,19.77
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,39,64,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,29.16,18.09
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,29.16,18.09
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,39,54,1.0,10.0,0.0,0.0,27.29,20.53
+41,DARP.K,Grizzle Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,28.01,20.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,34,74,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,34,79,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,28.32,18.08
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,25.29,18.96
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,24.91,18.97
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,24.58,17.73
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,24.58,17.73
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,29,69,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,29,74,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,25.29,18.96
+41,IBOT.O,VanEck Robotics ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,24.32,17.53
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,25.24,19.69
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,25.24,19.69
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,29,59,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,25.97,20.24
+41,IBOT.O,VanEck Robotics ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,24.32,17.53
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,24.98,19.93
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,29,64,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,25.31,21.61
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,25.97,20.24
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,24.91,18.97
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,34,59,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,24.58,17.73
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,25.31,21.61
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,34,64,1.0,10.0,0.0,0.0,27.29,20.53
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,24.98,19.93
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,25.29,18.96
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,25.24,19.69
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,25.31,21.61
+41,IBOT.O,VanEck Robotics ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,29,79,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,25.29,18.96
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,24.98,19.93
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,24.91,18.97
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,34,54,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,24.58,17.73
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,27.12,17.43
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,26.11,19.81
+41,IBOT.O,VanEck Robotics ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,24.32,17.53
+41,DARP.K,Grizzle Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,28.01,20.08
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,29.02,19.77
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,24,64,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,29.16,18.09
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,27.12,17.43
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,24.58,17.73
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,24,59,1.0,10.0,0.0,0.0,27.29,20.53
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,29.02,19.77
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,29.16,18.09
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,24,54,1.0,10.0,0.0,0.0,27.29,20.53
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,24.58,17.73
+41,DARP.K,Grizzle Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,28.01,20.08
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,29.02,19.77
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,28.32,18.08
+41,DARP.K,Grizzle Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,28.01,20.08
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,25.24,19.69
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,26.11,19.81
+41,DARP.K,Grizzle Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,24,79,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,24.32,17.53
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,28.32,18.08
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,29,54,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,25.97,20.24
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,29.02,19.77
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,27.12,17.43
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,24,69,1.0,10.0,0.0,0.0,27.29,20.53
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,28.32,18.08
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,27.12,17.43
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,29.02,19.77
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,26.11,19.81
+41,DARP.K,Grizzle Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,24,74,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,24.32,17.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,29.16,18.09
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,24.91,18.97
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,29.16,18.09
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,25.29,18.96
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,24,54,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,24,59,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,25.29,18.96
+41,IBOT.O,VanEck Robotics ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,24.32,17.53
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,25.24,19.69
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,25.24,19.69
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,39,74,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,25.97,20.24
+41,IBOT.O,VanEck Robotics ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,24.32,17.53
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,24.98,19.93
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,39,79,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,24.58,17.73
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,25.29,18.96
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,25.31,21.61
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,25.97,20.24
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,24.91,18.97
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,24,74,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,24.58,17.73
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,25.31,21.61
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,24,79,1.0,10.0,0.0,0.0,27.29,20.53
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,24.98,19.93
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,25.29,18.96
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,25.24,19.69
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,25.31,21.61
+41,IBOT.O,VanEck Robotics ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,24,64,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,25.29,18.96
+41,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,24.98,19.93
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,24.91,18.97
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,120,14,24,69,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,24.58,17.73
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,27.12,17.43
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,26.11,19.81
+41,IBOT.O,VanEck Robotics ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,24.32,17.53
+41,DARP.K,Grizzle Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,28.01,20.08
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,29.02,19.77
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,34,79,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,29.16,18.09
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,27.12,17.43
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,24.58,17.73
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,34,74,1.0,10.0,0.0,0.0,27.29,20.53
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,29.02,19.77
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,29.16,18.09
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,34,69,1.0,10.0,0.0,0.0,27.29,20.53
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,24.58,17.73
+41,DARP.K,Grizzle Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,28.01,20.08
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,29.02,19.77
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,28.32,18.08
+41,DARP.K,Grizzle Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,28.01,20.08
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,25.24,19.69
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,26.11,19.81
+41,DARP.K,Grizzle Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,39,64,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,24.32,17.53
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,27.12,17.43
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,28.32,18.08
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,28.32,18.08
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,29.02,19.77
+41,DARP.K,Grizzle Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,39,69,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,25.97,20.24
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,29.02,19.77
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,27.12,17.43
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,39,54,1.0,10.0,0.0,0.0,27.29,20.53
+41,CNEQ.K,Alger Concentrated Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,28.32,18.08
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,24.32,17.53
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,26.11,19.81
+41,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,27.12,17.43
+41,ALAI.K,Alger AI Enablers & Adopters ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,29.02,19.77
+41,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,26.11,19.81
+41,DARP.K,Grizzle Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,28.01,20.08
+41,BKIV.O,BNY Mellon Innovators Etf,5,60,14,39,59,1.0,10.0,0.0,0.0,27.29,20.53
+41,ECML.K,Euclidean Fundamental Value ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,29.16,18.09
+41,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,24.58,17.73
+41,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,24.91,18.97
+41,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,25.29,18.96
+41,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,25.31,21.61
+41,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,24.98,19.93
+41,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,25.97,20.24
+41,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,25.24,19.69
+41,IBOT.O,VanEck Robotics ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,24.32,17.53
+41,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,24.91,18.97

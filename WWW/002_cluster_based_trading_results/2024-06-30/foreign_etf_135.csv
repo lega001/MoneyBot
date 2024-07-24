@@ -1,0 +1,1225 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+135,SH,ProShares Short S&P500 ETF,5,120,14,24,54,1.0,10.0,-2.18,-13.8,-13.34,17.09
+135,SH,ProShares Short S&P500 ETF,5,120,14,24,59,1.0,10.0,-2.18,-13.8,-13.34,17.09
+135,FINE.O,Themes European Luxury ETF,5,120,14,24,59,1.0,10.0,-2.18,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,24,59,1.0,10.0,-2.18,0.0,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,24,59,1.0,10.0,-2.18,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,24,59,1.0,10.0,-2.18,-5.9,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,24,59,1.0,10.0,-2.18,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,24,59,1.0,10.0,-2.18,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,24,59,1.0,10.0,-2.18,0.0,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,24,59,1.0,10.0,-2.18,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,24,59,1.0,10.0,-2.18,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,24,59,1.0,10.0,-2.18,9.72,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,24,59,1.0,10.0,-2.18,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,59,1.0,10.0,-2.18,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,24,59,1.0,10.0,-2.18,-14.35,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,120,14,24,59,1.0,10.0,-2.18,-12.74,-11.87,16.47
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,24,54,1.0,10.0,-2.18,0.0,-10.25,15.84
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,24,59,1.0,10.0,-2.18,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,24,54,1.0,10.0,-2.18,0.0,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,120,14,24,54,1.0,10.0,-2.18,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,24,54,1.0,10.0,-2.18,0.0,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,24,54,1.0,10.0,-2.18,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,24,54,1.0,10.0,-2.18,-5.9,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,24,54,1.0,10.0,-2.18,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,24,54,1.0,10.0,-2.18,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,24,54,1.0,10.0,-2.18,0.0,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,24,54,1.0,10.0,-2.18,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,24,54,1.0,10.0,-2.18,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,24,54,1.0,10.0,-2.18,9.72,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,24,54,1.0,10.0,-2.18,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,54,1.0,10.0,-2.18,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,24,54,1.0,10.0,-2.18,-14.35,-12.51,18.34
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,24,59,1.0,10.0,-2.18,0.0,-9.58,16.38
+135,DOG,ProShares Short Dow30,5,120,14,24,54,1.0,10.0,-2.18,-12.74,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,120,14,29,59,1.0,10.0,-2.22,-14.49,-13.34,17.09
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,29,59,1.0,10.0,-2.22,0.0,-11.39,11.86
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,59,1.0,10.0,-2.22,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,29,59,1.0,10.0,-2.22,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,29,59,1.0,10.0,-2.22,9.72,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,29,59,1.0,10.0,-2.22,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,29,59,1.0,10.0,-2.22,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,29,59,1.0,10.0,-2.22,0.0,-9.05,15.91
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,29,59,1.0,10.0,-2.22,0.0,-15.28,13.08
+135,DOG,ProShares Short Dow30,5,120,14,29,59,1.0,10.0,-2.22,-12.74,-11.87,16.47
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,29,59,1.0,10.0,-2.22,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,29,59,1.0,10.0,-2.22,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,29,59,1.0,10.0,-2.22,0.0,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,29,59,1.0,10.0,-2.22,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,29,59,1.0,10.0,-2.22,0.0,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,29,59,1.0,10.0,-2.22,0.0,-10.25,15.84
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,29,59,1.0,10.0,-2.22,-14.35,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,120,14,29,54,1.0,10.0,-2.22,-12.74,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,120,14,29,54,1.0,10.0,-2.22,-14.49,-13.34,17.09
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,29,54,1.0,10.0,-2.22,0.0,-9.05,15.91
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,29,54,1.0,10.0,-2.22,-14.35,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,54,1.0,10.0,-2.22,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,29,54,1.0,10.0,-2.22,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,29,54,1.0,10.0,-2.22,9.72,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,29,54,1.0,10.0,-2.22,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,29,54,1.0,10.0,-2.22,0.0,-15.78,16.03
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,29,54,1.0,10.0,-2.22,0.0,-11.39,11.86
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,29,54,1.0,10.0,-2.22,0.0,-10.25,15.84
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,29,54,1.0,10.0,-2.22,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,29,54,1.0,10.0,-2.22,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,29,54,1.0,10.0,-2.22,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,29,54,1.0,10.0,-2.22,0.0,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,29,54,1.0,10.0,-2.22,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,29,54,1.0,10.0,-2.22,0.0,-9.58,16.38
+135,DOG,ProShares Short Dow30,5,60,14,24,54,1.0,10.0,-3.06,-12.4,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,60,14,24,54,1.0,10.0,-3.06,-13.97,-13.34,17.09
+135,SH,ProShares Short S&P500 ETF,5,60,14,24,59,1.0,10.0,-3.06,-13.97,-13.34,17.09
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,24,59,1.0,10.0,-3.06,-14.3,-12.51,18.34
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,24,59,1.0,10.0,-3.06,0.0,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,60,14,24,59,1.0,10.0,-3.06,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,24,59,1.0,10.0,-3.06,-7.81,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,24,59,1.0,10.0,-3.06,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,24,59,1.0,10.0,-3.06,-3.79,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,24,59,1.0,10.0,-3.06,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,24,59,1.0,10.0,-3.06,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,24,59,1.0,10.0,-3.06,0.0,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,24,59,1.0,10.0,-3.06,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,24,59,1.0,10.0,-3.06,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,24,59,1.0,10.0,-3.06,0.28,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,24,59,1.0,10.0,-3.06,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,59,1.0,10.0,-3.06,0.0,-8.61,13.41
+135,DOG,ProShares Short Dow30,5,60,14,24,59,1.0,10.0,-3.06,-12.4,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,24,54,1.0,10.0,-3.06,-14.3,-12.51,18.34
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,24,54,1.0,10.0,-3.06,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,24,54,1.0,10.0,-3.06,0.0,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,60,14,24,54,1.0,10.0,-3.06,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,24,54,1.0,10.0,-3.06,-7.81,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,24,54,1.0,10.0,-3.06,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,24,54,1.0,10.0,-3.06,-3.79,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,24,54,1.0,10.0,-3.06,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,24,54,1.0,10.0,-3.06,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,24,54,1.0,10.0,-3.06,0.0,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,24,54,1.0,10.0,-3.06,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,24,54,1.0,10.0,-3.06,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,24,54,1.0,10.0,-3.06,0.28,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,24,54,1.0,10.0,-3.06,0.0,-11.28,13.52
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,24,59,1.0,10.0,-3.06,0.0,-10.25,15.84
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,54,1.0,10.0,-3.06,0.0,-8.61,13.41
+135,FINE.O,Themes European Luxury ETF,5,120,14,24,69,1.0,10.0,-3.33,0.0,-11.72,16.42
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,24,64,1.0,10.0,-3.33,0.0,-10.25,15.84
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,24,79,1.0,10.0,-3.33,0.0,-10.25,15.84
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,24,69,1.0,10.0,-3.33,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,24,69,1.0,10.0,-3.33,-5.9,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,24,69,1.0,10.0,-3.33,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,24,69,1.0,10.0,-3.33,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,24,69,1.0,10.0,-3.33,0.0,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,24,69,1.0,10.0,-3.33,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,24,69,1.0,10.0,-3.33,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,24,69,1.0,10.0,-3.33,-9.85,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,24,69,1.0,10.0,-3.33,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,69,1.0,10.0,-3.33,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,24,69,1.0,10.0,-3.33,-14.35,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,120,14,24,69,1.0,10.0,-3.33,-12.74,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,120,14,24,69,1.0,10.0,-3.33,-13.8,-13.34,17.09
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,24,64,1.0,10.0,-3.33,0.0,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,120,14,24,79,1.0,10.0,-3.33,0.0,-11.72,16.42
+135,FINE.O,Themes European Luxury ETF,5,120,14,24,64,1.0,10.0,-3.33,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,24,64,1.0,10.0,-3.33,0.0,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,24,64,1.0,10.0,-3.33,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,24,64,1.0,10.0,-3.33,-5.9,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,24,64,1.0,10.0,-3.33,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,24,64,1.0,10.0,-3.33,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,24,64,1.0,10.0,-3.33,0.0,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,24,64,1.0,10.0,-3.33,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,24,64,1.0,10.0,-3.33,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,24,64,1.0,10.0,-3.33,-9.85,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,24,64,1.0,10.0,-3.33,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,64,1.0,10.0,-3.33,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,24,64,1.0,10.0,-3.33,-14.35,-12.51,18.34
+135,SH,ProShares Short S&P500 ETF,5,120,14,24,64,1.0,10.0,-3.33,-13.8,-13.34,17.09
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,24,79,1.0,10.0,-3.33,0.0,-9.58,16.38
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,24,79,1.0,10.0,-3.33,0.0,-12.07,17.04
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,24,69,1.0,10.0,-3.33,0.0,-9.58,16.38
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,24,74,1.0,10.0,-3.33,0.0,-12.07,17.04
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,24,69,1.0,10.0,-3.33,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,120,14,24,74,1.0,10.0,-3.33,-13.8,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,120,14,24,74,1.0,10.0,-3.33,-12.74,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,24,74,1.0,10.0,-3.33,-14.35,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,74,1.0,10.0,-3.33,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,24,74,1.0,10.0,-3.33,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,24,74,1.0,10.0,-3.33,-9.85,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,24,74,1.0,10.0,-3.33,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,24,74,1.0,10.0,-3.33,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,24,74,1.0,10.0,-3.33,0.0,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,24,74,1.0,10.0,-3.33,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,24,74,1.0,10.0,-3.33,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,24,74,1.0,10.0,-3.33,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,24,74,1.0,10.0,-3.33,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,24,69,1.0,10.0,-3.33,0.0,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,24,79,1.0,10.0,-3.33,0.0,-10.87,16.41
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,24,74,1.0,10.0,-3.33,0.0,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,24,74,1.0,10.0,-3.33,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,120,14,24,79,1.0,10.0,-3.33,-13.8,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,120,14,24,79,1.0,10.0,-3.33,-12.74,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,24,79,1.0,10.0,-3.33,-14.35,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,79,1.0,10.0,-3.33,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,24,79,1.0,10.0,-3.33,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,24,79,1.0,10.0,-3.33,-9.85,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,24,79,1.0,10.0,-3.33,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,24,79,1.0,10.0,-3.33,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,24,79,1.0,10.0,-3.33,0.0,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,24,79,1.0,10.0,-3.33,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,24,79,1.0,10.0,-3.33,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,24,79,1.0,10.0,-3.33,-5.9,-10.34,12.76
+135,FINE.O,Themes European Luxury ETF,5,120,14,24,74,1.0,10.0,-3.33,0.0,-11.72,16.42
+135,DOG,ProShares Short Dow30,5,120,14,24,64,1.0,10.0,-3.33,-12.74,-11.87,16.47
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,64,1.0,10.0,-3.37,0.0,-8.61,13.41
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,29,79,1.0,10.0,-3.37,0.0,-11.39,11.86
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,79,1.0,10.0,-3.37,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,29,79,1.0,10.0,-3.37,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,29,79,1.0,10.0,-3.37,-9.85,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,29,79,1.0,10.0,-3.37,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,29,79,1.0,10.0,-3.37,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,29,79,1.0,10.0,-3.37,0.0,-9.05,15.91
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,29,79,1.0,10.0,-3.37,0.0,-15.28,13.08
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,29,79,1.0,10.0,-3.37,0.0,-9.58,16.38
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,29,79,1.0,10.0,-3.37,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,29,79,1.0,10.0,-3.37,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,29,79,1.0,10.0,-3.37,0.0,-12.07,17.04
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,74,1.0,10.0,-3.37,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,29,74,1.0,10.0,-3.37,-14.35,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,120,14,29,74,1.0,10.0,-3.37,-12.74,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,29,79,1.0,10.0,-3.37,-14.35,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,120,14,29,79,1.0,10.0,-3.37,-12.74,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,120,14,29,79,1.0,10.0,-3.37,-14.49,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,29,74,1.0,10.0,-3.37,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,29,74,1.0,10.0,-3.37,0.0,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,120,14,29,74,1.0,10.0,-3.37,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,29,74,1.0,10.0,-3.37,0.0,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,29,74,1.0,10.0,-3.37,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,29,74,1.0,10.0,-3.37,-5.9,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,29,74,1.0,10.0,-3.37,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,29,74,1.0,10.0,-3.37,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,29,74,1.0,10.0,-3.37,0.0,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,29,74,1.0,10.0,-3.37,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,29,74,1.0,10.0,-3.37,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,29,74,1.0,10.0,-3.37,-9.85,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,29,74,1.0,10.0,-3.37,0.0,-11.28,13.52
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,29,64,1.0,10.0,-3.37,-14.35,-12.51,18.34
+135,FINE.O,Themes European Luxury ETF,5,120,14,29,79,1.0,10.0,-3.37,0.0,-11.72,16.42
+135,SH,ProShares Short S&P500 ETF,5,120,14,29,74,1.0,10.0,-3.37,-14.49,-13.34,17.09
+135,SH,ProShares Short S&P500 ETF,5,120,14,29,69,1.0,10.0,-3.37,-14.49,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,120,14,29,69,1.0,10.0,-3.37,-12.74,-11.87,16.47
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,29,64,1.0,10.0,-3.37,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,29,64,1.0,10.0,-3.37,-9.85,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,29,64,1.0,10.0,-3.37,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,29,64,1.0,10.0,-3.37,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,29,64,1.0,10.0,-3.37,0.0,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,29,64,1.0,10.0,-3.37,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,29,64,1.0,10.0,-3.37,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,29,64,1.0,10.0,-3.37,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,29,64,1.0,10.0,-3.37,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,29,64,1.0,10.0,-3.37,0.0,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,29,64,1.0,10.0,-3.37,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,29,64,1.0,10.0,-3.37,0.0,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,29,64,1.0,10.0,-3.37,0.0,-10.25,15.84
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,29,69,1.0,10.0,-3.37,0.0,-10.25,15.84
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,29,79,1.0,10.0,-3.37,0.0,-10.25,15.84
+135,DOG,ProShares Short Dow30,5,120,14,29,64,1.0,10.0,-3.37,-12.74,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,29,69,1.0,10.0,-3.37,-14.35,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,69,1.0,10.0,-3.37,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,29,69,1.0,10.0,-3.37,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,29,69,1.0,10.0,-3.37,-9.85,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,29,69,1.0,10.0,-3.37,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,29,69,1.0,10.0,-3.37,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,29,69,1.0,10.0,-3.37,0.0,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,29,69,1.0,10.0,-3.37,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,29,69,1.0,10.0,-3.37,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,29,69,1.0,10.0,-3.37,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,29,69,1.0,10.0,-3.37,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,29,69,1.0,10.0,-3.37,0.0,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,29,69,1.0,10.0,-3.37,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,29,69,1.0,10.0,-3.37,0.0,-9.58,16.38
+135,SH,ProShares Short S&P500 ETF,5,120,14,29,64,1.0,10.0,-3.37,-14.49,-13.34,17.09
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,29,54,1.0,10.0,-3.61,-14.3,-12.51,18.34
+135,SH,ProShares Short S&P500 ETF,5,60,14,29,54,1.0,10.0,-3.61,-14.26,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,60,14,29,54,1.0,10.0,-3.61,-12.4,-11.87,16.47
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,29,54,1.0,10.0,-3.61,-5.4,-9.08,14.51
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,54,1.0,10.0,-3.61,0.0,-8.61,13.41
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,59,1.0,10.0,-3.61,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,29,54,1.0,10.0,-3.61,0.0,-11.28,13.52
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,29,59,1.0,10.0,-3.61,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,29,59,1.0,10.0,-3.61,0.0,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,60,14,29,59,1.0,10.0,-3.61,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,29,59,1.0,10.0,-3.61,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,29,59,1.0,10.0,-3.61,0.0,-10.87,16.41
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,29,59,1.0,10.0,-3.61,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,29,59,1.0,10.0,-3.61,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,29,59,1.0,10.0,-3.61,0.0,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,29,59,1.0,10.0,-3.61,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,29,59,1.0,10.0,-3.61,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,29,59,1.0,10.0,-3.61,-5.4,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,29,59,1.0,10.0,-3.61,0.0,-11.28,13.52
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,29,59,1.0,10.0,-3.61,-3.79,-10.34,12.76
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,29,59,1.0,10.0,-3.61,-14.3,-12.51,18.34
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,29,54,1.0,10.0,-3.61,-3.79,-10.34,12.76
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,29,54,1.0,10.0,-3.61,0.0,-10.02,16.62
+135,DOG,ProShares Short Dow30,5,60,14,29,59,1.0,10.0,-3.61,-12.4,-11.87,16.47
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,29,54,1.0,10.0,-3.61,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,29,54,1.0,10.0,-3.61,0.0,-9.05,15.91
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,29,54,1.0,10.0,-3.61,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,29,54,1.0,10.0,-3.61,0.0,-11.39,11.86
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,29,54,1.0,10.0,-3.61,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,29,54,1.0,10.0,-3.61,-11.31,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,60,14,29,54,1.0,10.0,-3.61,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,29,54,1.0,10.0,-3.61,0.0,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,29,54,1.0,10.0,-3.61,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,60,14,29,59,1.0,10.0,-3.61,-14.26,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,60,14,24,69,1.0,10.0,-3.64,-12.4,-11.87,16.47
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,24,69,1.0,10.0,-3.64,0.0,-9.05,15.91
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,24,69,1.0,10.0,-3.64,-14.3,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,69,1.0,10.0,-3.64,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,24,69,1.0,10.0,-3.64,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,24,69,1.0,10.0,-3.64,-9.61,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,24,69,1.0,10.0,-3.64,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,24,69,1.0,10.0,-3.64,0.0,-15.78,16.03
+135,FINE.O,Themes European Luxury ETF,5,60,14,24,69,1.0,10.0,-3.64,0.0,-11.72,16.42
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,24,69,1.0,10.0,-3.64,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,24,69,1.0,10.0,-3.64,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,24,69,1.0,10.0,-3.64,-3.79,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,24,69,1.0,10.0,-3.64,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,24,69,1.0,10.0,-3.64,-7.81,-12.07,17.04
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,24,69,1.0,10.0,-3.64,0.0,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,24,69,1.0,10.0,-3.64,0.0,-10.25,15.84
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,24,64,1.0,10.0,-3.64,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,60,14,24,69,1.0,10.0,-3.64,-13.97,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,60,14,24,74,1.0,10.0,-3.64,-12.4,-11.87,16.47
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,24,64,1.0,10.0,-3.64,0.0,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,60,14,24,64,1.0,10.0,-3.64,0.0,-11.72,16.42
+135,DOG,ProShares Short Dow30,5,60,14,24,64,1.0,10.0,-3.64,-12.4,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,60,14,24,64,1.0,10.0,-3.64,-13.97,-13.34,17.09
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,74,1.0,10.0,-3.64,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,24,64,1.0,10.0,-3.64,-14.3,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,64,1.0,10.0,-3.64,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,24,64,1.0,10.0,-3.64,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,24,64,1.0,10.0,-3.64,-9.61,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,24,64,1.0,10.0,-3.64,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,24,64,1.0,10.0,-3.64,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,24,64,1.0,10.0,-3.64,0.0,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,24,64,1.0,10.0,-3.64,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,24,64,1.0,10.0,-3.64,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,24,64,1.0,10.0,-3.64,-3.79,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,24,64,1.0,10.0,-3.64,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,24,64,1.0,10.0,-3.64,-7.81,-12.07,17.04
+135,SH,ProShares Short S&P500 ETF,5,60,14,24,74,1.0,10.0,-3.64,-13.97,-13.34,17.09
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,24,74,1.0,10.0,-3.64,-14.3,-12.51,18.34
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,24,79,1.0,10.0,-3.64,-7.81,-12.07,17.04
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,24,74,1.0,10.0,-3.64,0.0,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,24,79,1.0,10.0,-3.64,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,24,79,1.0,10.0,-3.64,0.0,-9.58,16.38
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,24,74,1.0,10.0,-3.64,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,24,74,1.0,10.0,-3.64,-9.61,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,24,74,1.0,10.0,-3.64,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,24,74,1.0,10.0,-3.64,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,24,74,1.0,10.0,-3.64,0.0,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,24,74,1.0,10.0,-3.64,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,24,74,1.0,10.0,-3.64,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,24,74,1.0,10.0,-3.64,-3.79,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,24,74,1.0,10.0,-3.64,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,24,74,1.0,10.0,-3.64,-7.81,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,60,14,24,74,1.0,10.0,-3.64,0.0,-11.72,16.42
+135,FINE.O,Themes European Luxury ETF,5,60,14,24,79,1.0,10.0,-3.64,0.0,-11.72,16.42
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,24,74,1.0,10.0,-3.64,0.0,-10.25,15.84
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,24,79,1.0,10.0,-3.64,0.0,-15.78,16.03
+135,SH,ProShares Short S&P500 ETF,5,60,14,24,79,1.0,10.0,-3.64,-13.97,-13.34,17.09
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,24,79,1.0,10.0,-3.64,-3.79,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,24,79,1.0,10.0,-3.64,0.0,-10.87,16.41
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,24,79,1.0,10.0,-3.64,0.0,-15.28,13.08
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,24,79,1.0,10.0,-3.64,0.0,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,24,79,1.0,10.0,-3.64,0.0,-11.39,11.86
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,24,79,1.0,10.0,-3.64,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,24,79,1.0,10.0,-3.64,-9.61,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,24,79,1.0,10.0,-3.64,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,79,1.0,10.0,-3.64,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,24,79,1.0,10.0,-3.64,-14.3,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,60,14,24,79,1.0,10.0,-3.64,-12.4,-11.87,16.47
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,34,59,1.0,10.0,-3.75,0.0,-11.39,11.86
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,59,1.0,10.0,-3.75,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,34,59,1.0,10.0,-3.75,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,34,59,1.0,10.0,-3.75,-7.78,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,34,59,1.0,10.0,-3.75,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,34,59,1.0,10.0,-3.75,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,34,59,1.0,10.0,-3.75,0.0,-9.05,15.91
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,34,59,1.0,10.0,-3.75,0.0,-9.58,16.38
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,34,59,1.0,10.0,-3.75,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,34,59,1.0,10.0,-3.75,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,34,59,1.0,10.0,-3.75,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,34,59,1.0,10.0,-3.75,-8.45,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,34,59,1.0,10.0,-3.75,0.0,-11.72,16.42
+135,DOG,ProShares Short Dow30,5,120,14,34,59,1.0,10.0,-3.75,-12.74,-11.87,16.47
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,34,59,1.0,10.0,-3.75,0.0,-10.25,15.84
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,34,59,1.0,10.0,-3.75,-14.35,-12.51,18.34
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,34,54,1.0,10.0,-3.75,-8.45,-12.07,17.04
+135,SH,ProShares Short S&P500 ETF,5,120,14,34,59,1.0,10.0,-3.75,-14.49,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,34,54,1.0,10.0,-3.75,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,120,14,34,54,1.0,10.0,-3.75,-14.49,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,120,14,34,54,1.0,10.0,-3.75,-12.74,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,34,54,1.0,10.0,-3.75,-14.35,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,54,1.0,10.0,-3.75,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,34,54,1.0,10.0,-3.75,0.0,-11.28,13.52
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,34,54,1.0,10.0,-3.75,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,34,54,1.0,10.0,-3.75,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,34,54,1.0,10.0,-3.75,0.0,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,34,54,1.0,10.0,-3.75,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,34,54,1.0,10.0,-3.75,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,34,54,1.0,10.0,-3.75,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,34,54,1.0,10.0,-3.75,0.0,-10.87,16.41
+135,FINE.O,Themes European Luxury ETF,5,120,14,34,54,1.0,10.0,-3.75,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,34,54,1.0,10.0,-3.75,0.0,-9.58,16.38
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,34,54,1.0,10.0,-3.75,-7.78,-9.08,14.51
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,29,64,1.0,10.0,-3.86,-14.3,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,60,14,29,64,1.0,10.0,-3.86,-12.4,-11.87,16.47
+135,DOG,ProShares Short Dow30,5,60,14,29,69,1.0,10.0,-3.86,-12.4,-11.87,16.47
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,29,64,1.0,10.0,-3.86,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,29,64,1.0,10.0,-3.86,-9.61,-9.08,14.51
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,29,74,1.0,10.0,-3.86,-9.61,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,29,74,1.0,10.0,-3.86,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,29,74,1.0,10.0,-3.86,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,29,74,1.0,10.0,-3.86,0.0,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,29,74,1.0,10.0,-3.86,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,29,74,1.0,10.0,-3.86,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,29,74,1.0,10.0,-3.86,-3.79,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,29,74,1.0,10.0,-3.86,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,29,74,1.0,10.0,-3.86,-11.31,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,60,14,29,74,1.0,10.0,-3.86,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,29,74,1.0,10.0,-3.86,0.0,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,29,74,1.0,10.0,-3.86,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,60,14,29,79,1.0,10.0,-3.86,-14.26,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,60,14,29,79,1.0,10.0,-3.86,-12.4,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,29,79,1.0,10.0,-3.86,-14.3,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,79,1.0,10.0,-3.86,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,29,79,1.0,10.0,-3.86,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,29,79,1.0,10.0,-3.86,-9.61,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,29,79,1.0,10.0,-3.86,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,29,79,1.0,10.0,-3.86,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,29,79,1.0,10.0,-3.86,0.0,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,29,79,1.0,10.0,-3.86,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,29,79,1.0,10.0,-3.86,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,29,79,1.0,10.0,-3.86,-3.79,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,29,79,1.0,10.0,-3.86,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,29,79,1.0,10.0,-3.86,-11.31,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,60,14,29,79,1.0,10.0,-3.86,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,29,79,1.0,10.0,-3.86,0.0,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,29,79,1.0,10.0,-3.86,0.0,-10.25,15.84
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,29,74,1.0,10.0,-3.86,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,74,1.0,10.0,-3.86,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,29,74,1.0,10.0,-3.86,-14.3,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,69,1.0,10.0,-3.86,0.0,-8.61,13.41
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,29,64,1.0,10.0,-3.86,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,29,64,1.0,10.0,-3.86,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,29,64,1.0,10.0,-3.86,0.0,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,29,64,1.0,10.0,-3.86,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,29,64,1.0,10.0,-3.86,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,29,64,1.0,10.0,-3.86,-3.79,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,29,64,1.0,10.0,-3.86,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,29,64,1.0,10.0,-3.86,-11.31,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,60,14,29,64,1.0,10.0,-3.86,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,29,64,1.0,10.0,-3.86,0.0,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,29,64,1.0,10.0,-3.86,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,60,14,29,69,1.0,10.0,-3.86,-14.26,-13.34,17.09
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,29,69,1.0,10.0,-3.86,-14.3,-12.51,18.34
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,29,69,1.0,10.0,-3.86,0.0,-11.28,13.52
+135,DOG,ProShares Short Dow30,5,60,14,29,74,1.0,10.0,-3.86,-12.4,-11.87,16.47
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,29,69,1.0,10.0,-3.86,-9.61,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,29,69,1.0,10.0,-3.86,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,29,69,1.0,10.0,-3.86,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,29,69,1.0,10.0,-3.86,0.0,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,29,69,1.0,10.0,-3.86,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,29,69,1.0,10.0,-3.86,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,29,69,1.0,10.0,-3.86,-3.79,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,29,69,1.0,10.0,-3.86,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,29,69,1.0,10.0,-3.86,-11.31,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,60,14,29,69,1.0,10.0,-3.86,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,29,69,1.0,10.0,-3.86,0.0,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,29,69,1.0,10.0,-3.86,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,60,14,29,74,1.0,10.0,-3.86,-14.26,-13.34,17.09
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,64,1.0,10.0,-3.86,0.0,-8.61,13.41
+135,SH,ProShares Short S&P500 ETF,5,60,14,29,64,1.0,10.0,-3.86,-14.26,-13.34,17.09
+135,SH,ProShares Short S&P500 ETF,5,120,14,34,64,1.0,10.0,-3.87,-14.49,-13.34,17.09
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,34,74,1.0,10.0,-3.87,0.0,-11.39,11.86
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,34,74,1.0,10.0,-3.87,0.0,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,120,14,34,74,1.0,10.0,-3.87,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,34,74,1.0,10.0,-3.87,-8.45,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,34,74,1.0,10.0,-3.87,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,34,74,1.0,10.0,-3.87,-5.9,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,34,74,1.0,10.0,-3.87,0.0,-15.28,13.08
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,34,74,1.0,10.0,-3.87,0.0,-9.05,15.91
+135,SH,ProShares Short S&P500 ETF,5,120,14,34,79,1.0,10.0,-3.87,-14.49,-13.34,17.09
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,34,74,1.0,10.0,-3.87,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,34,74,1.0,10.0,-3.87,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,34,74,1.0,10.0,-3.87,-9.85,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,34,74,1.0,10.0,-3.87,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,74,1.0,10.0,-3.87,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,34,74,1.0,10.0,-3.87,-14.35,-12.51,18.34
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,34,74,1.0,10.0,-3.87,0.0,-10.25,15.84
+135,DOG,ProShares Short Dow30,5,120,14,34,79,1.0,10.0,-3.87,-12.74,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,120,14,34,74,1.0,10.0,-3.87,-14.49,-13.34,17.09
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,34,79,1.0,10.0,-3.87,0.0,-15.28,13.08
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,34,79,1.0,10.0,-3.87,0.0,-10.25,15.84
+135,DOG,ProShares Short Dow30,5,120,14,34,64,1.0,10.0,-3.87,-12.74,-11.87,16.47
+135,FINE.O,Themes European Luxury ETF,5,120,14,34,79,1.0,10.0,-3.87,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,34,79,1.0,10.0,-3.87,-8.45,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,34,79,1.0,10.0,-3.87,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,34,79,1.0,10.0,-3.87,-5.9,-10.34,12.76
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,34,79,1.0,10.0,-3.87,0.0,-11.39,11.86
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,34,79,1.0,10.0,-3.87,-14.35,-12.51,18.34
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,34,79,1.0,10.0,-3.87,0.0,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,34,79,1.0,10.0,-3.87,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,34,79,1.0,10.0,-3.87,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,34,79,1.0,10.0,-3.87,-9.85,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,34,79,1.0,10.0,-3.87,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,79,1.0,10.0,-3.87,0.0,-8.61,13.41
+135,DOG,ProShares Short Dow30,5,120,14,34,74,1.0,10.0,-3.87,-12.74,-11.87,16.47
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,34,79,1.0,10.0,-3.87,0.0,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,34,69,1.0,10.0,-3.87,0.0,-10.25,15.84
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,34,64,1.0,10.0,-3.87,0.0,-11.39,11.86
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,34,64,1.0,10.0,-3.87,0.0,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,120,14,34,64,1.0,10.0,-3.87,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,34,64,1.0,10.0,-3.87,-8.45,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,34,64,1.0,10.0,-3.87,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,34,64,1.0,10.0,-3.87,-5.9,-10.34,12.76
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,34,69,1.0,10.0,-3.87,0.0,-9.58,16.38
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,34,64,1.0,10.0,-3.87,0.0,-9.05,15.91
+135,SH,ProShares Short S&P500 ETF,5,120,14,34,69,1.0,10.0,-3.87,-14.49,-13.34,17.09
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,34,64,1.0,10.0,-3.87,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,34,64,1.0,10.0,-3.87,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,34,64,1.0,10.0,-3.87,-9.85,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,34,64,1.0,10.0,-3.87,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,64,1.0,10.0,-3.87,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,34,64,1.0,10.0,-3.87,-14.35,-12.51,18.34
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,34,64,1.0,10.0,-3.87,0.0,-10.25,15.84
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,34,64,1.0,10.0,-3.87,0.0,-15.28,13.08
+135,DOG,ProShares Short Dow30,5,120,14,34,69,1.0,10.0,-3.87,-12.74,-11.87,16.47
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,34,69,1.0,10.0,-3.87,0.0,-9.05,15.91
+135,FINE.O,Themes European Luxury ETF,5,120,14,34,69,1.0,10.0,-3.87,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,34,69,1.0,10.0,-3.87,-8.45,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,34,69,1.0,10.0,-3.87,0.0,-10.87,16.41
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,34,69,1.0,10.0,-3.87,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,34,69,1.0,10.0,-3.87,0.0,-11.39,11.86
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,34,69,1.0,10.0,-3.87,-5.9,-10.34,12.76
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,34,69,1.0,10.0,-3.87,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,34,69,1.0,10.0,-3.87,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,34,69,1.0,10.0,-3.87,-9.85,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,34,69,1.0,10.0,-3.87,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,69,1.0,10.0,-3.87,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,34,69,1.0,10.0,-3.87,-14.35,-12.51,18.34
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,34,59,1.0,10.0,-5.38,0.0,-9.05,15.91
+135,DOG,ProShares Short Dow30,5,60,14,34,59,1.0,10.0,-5.38,-12.4,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,34,59,1.0,10.0,-5.38,-14.3,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,59,1.0,10.0,-5.38,-27.97,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,34,59,1.0,10.0,-5.38,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,34,59,1.0,10.0,-5.38,-7.52,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,34,59,1.0,10.0,-5.38,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,34,59,1.0,10.0,-5.38,0.0,-15.78,16.03
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,34,59,1.0,10.0,-5.38,0.0,-9.58,16.38
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,34,59,1.0,10.0,-5.38,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,34,59,1.0,10.0,-5.38,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,34,59,1.0,10.0,-5.38,-3.79,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,34,59,1.0,10.0,-5.38,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,34,59,1.0,10.0,-5.38,-11.31,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,60,14,34,59,1.0,10.0,-5.38,0.0,-11.72,16.42
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,34,59,1.0,10.0,-5.38,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,60,14,34,59,1.0,10.0,-5.38,-14.26,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,34,54,1.0,10.0,-5.38,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,34,54,1.0,10.0,-5.38,0.0,-9.58,16.38
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,34,54,1.0,10.0,-5.38,0.0,-10.02,16.62
+135,FINE.O,Themes European Luxury ETF,5,60,14,34,54,1.0,10.0,-5.38,0.0,-11.72,16.42
+135,SH,ProShares Short S&P500 ETF,5,60,14,34,54,1.0,10.0,-5.38,-14.26,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,60,14,34,54,1.0,10.0,-5.38,-12.4,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,34,54,1.0,10.0,-5.38,-14.3,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,54,1.0,10.0,-5.38,-27.97,-8.61,13.41
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,34,54,1.0,10.0,-5.38,-7.52,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,34,54,1.0,10.0,-5.38,0.0,-11.28,13.52
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,34,54,1.0,10.0,-5.38,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,34,54,1.0,10.0,-5.38,0.0,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,34,54,1.0,10.0,-5.38,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,34,54,1.0,10.0,-5.38,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,34,54,1.0,10.0,-5.38,-3.79,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,34,54,1.0,10.0,-5.38,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,34,54,1.0,10.0,-5.38,-11.31,-12.07,17.04
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,34,74,1.0,10.0,-5.51,0.0,-9.05,15.91
+135,FINE.O,Themes European Luxury ETF,5,60,14,34,74,1.0,10.0,-5.51,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,34,74,1.0,10.0,-5.51,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,34,74,1.0,10.0,-5.51,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,34,74,1.0,10.0,-5.51,-3.79,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,34,74,1.0,10.0,-5.51,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,34,74,1.0,10.0,-5.51,0.0,-11.39,11.86
+135,DOG,ProShares Short Dow30,5,60,14,34,74,1.0,10.0,-5.51,-12.4,-11.87,16.47
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,34,74,1.0,10.0,-5.51,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,34,74,1.0,10.0,-5.51,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,34,74,1.0,10.0,-5.51,-9.61,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,34,74,1.0,10.0,-5.51,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,74,1.0,10.0,-5.51,-27.97,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,34,74,1.0,10.0,-5.51,-14.3,-12.51,18.34
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,34,74,1.0,10.0,-5.51,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,34,74,1.0,10.0,-5.51,0.0,-9.58,16.38
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,34,79,1.0,10.0,-5.51,0.0,-15.78,16.03
+135,SH,ProShares Short S&P500 ETF,5,60,14,34,79,1.0,10.0,-5.51,-14.26,-13.34,17.09
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,34,79,1.0,10.0,-5.51,0.0,-15.28,13.08
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,34,69,1.0,10.0,-5.51,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,34,79,1.0,10.0,-5.51,0.0,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,60,14,34,79,1.0,10.0,-5.51,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,34,79,1.0,10.0,-5.51,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,34,79,1.0,10.0,-5.51,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,34,79,1.0,10.0,-5.51,-3.79,-10.34,12.76
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,34,79,1.0,10.0,-5.51,0.0,-11.39,11.86
+135,DOG,ProShares Short Dow30,5,60,14,34,79,1.0,10.0,-5.51,-12.4,-11.87,16.47
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,34,79,1.0,10.0,-5.51,0.0,-9.05,15.91
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,34,79,1.0,10.0,-5.51,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,34,79,1.0,10.0,-5.51,-9.61,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,34,79,1.0,10.0,-5.51,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,79,1.0,10.0,-5.51,-27.97,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,34,79,1.0,10.0,-5.51,-14.3,-12.51,18.34
+135,SH,ProShares Short S&P500 ETF,5,60,14,34,74,1.0,10.0,-5.51,-14.26,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,34,79,1.0,10.0,-5.51,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,34,69,1.0,10.0,-5.51,0.0,-9.58,16.38
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,34,64,1.0,10.0,-5.51,0.0,-15.78,16.03
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,34,64,1.0,10.0,-5.51,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,34,64,1.0,10.0,-5.51,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,34,64,1.0,10.0,-5.51,-3.79,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,34,64,1.0,10.0,-5.51,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,34,64,1.0,10.0,-5.51,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,34,64,1.0,10.0,-5.51,0.0,-9.05,15.91
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,34,64,1.0,10.0,-5.51,0.0,-10.02,16.62
+135,FINE.O,Themes European Luxury ETF,5,60,14,34,69,1.0,10.0,-5.51,0.0,-11.72,16.42
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,34,64,1.0,10.0,-5.51,-9.61,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,34,64,1.0,10.0,-5.51,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,64,1.0,10.0,-5.51,-27.97,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,34,64,1.0,10.0,-5.51,-14.3,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,60,14,34,64,1.0,10.0,-5.51,-12.4,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,60,14,34,64,1.0,10.0,-5.51,-14.26,-13.34,17.09
+135,FINE.O,Themes European Luxury ETF,5,60,14,34,64,1.0,10.0,-5.51,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,34,64,1.0,10.0,-5.51,0.0,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,34,64,1.0,10.0,-5.51,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,60,14,34,69,1.0,10.0,-5.51,-14.26,-13.34,17.09
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,34,69,1.0,10.0,-5.51,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,34,69,1.0,10.0,-5.51,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,34,69,1.0,10.0,-5.51,-3.79,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,34,69,1.0,10.0,-5.51,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,34,69,1.0,10.0,-5.51,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,34,69,1.0,10.0,-5.51,0.0,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,34,69,1.0,10.0,-5.51,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,34,69,1.0,10.0,-5.51,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,34,69,1.0,10.0,-5.51,-9.61,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,34,69,1.0,10.0,-5.51,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,69,1.0,10.0,-5.51,-27.97,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,34,69,1.0,10.0,-5.51,-14.3,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,60,14,34,69,1.0,10.0,-5.51,-12.4,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,60,14,39,54,1.0,10.0,-7.76,-15.0,-13.34,17.09
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,39,54,1.0,10.0,-7.76,-7.38,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,39,54,1.0,10.0,-7.76,0.0,-11.28,13.52
+135,DOG,ProShares Short Dow30,5,60,14,39,54,1.0,10.0,-7.76,-12.4,-11.87,16.47
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,44,59,1.0,10.0,-7.76,0.0,-10.02,16.62
+135,FINE.O,Themes European Luxury ETF,5,60,14,44,59,1.0,10.0,-7.76,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,44,59,1.0,10.0,-7.76,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,44,59,1.0,10.0,-7.76,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,44,59,1.0,10.0,-7.76,-3.79,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,44,59,1.0,10.0,-7.76,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,44,59,1.0,10.0,-7.76,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,44,59,1.0,10.0,-7.76,-21.16,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,44,59,1.0,10.0,-7.76,0.0,-15.78,16.03
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,44,59,1.0,10.0,-7.76,-7.38,-9.08,14.51
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,59,1.0,10.0,-7.76,-27.97,-8.61,13.41
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,59,1.0,10.0,-7.76,-27.97,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,44,59,1.0,10.0,-7.76,-14.3,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,60,14,44,59,1.0,10.0,-7.76,-12.4,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,60,14,44,59,1.0,10.0,-7.76,-15.0,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,44,54,1.0,10.0,-7.76,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,44,54,1.0,10.0,-7.76,-18.66,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,60,14,44,54,1.0,10.0,-7.76,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,44,54,1.0,10.0,-7.76,-11.31,-12.07,17.04
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,44,59,1.0,10.0,-7.76,-18.66,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,44,59,1.0,10.0,-7.76,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,60,14,49,54,1.0,10.0,-7.76,-15.0,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,60,14,49,54,1.0,10.0,-7.76,-12.4,-11.87,16.47
+135,DOG,ProShares Short Dow30,5,60,14,49,59,1.0,10.0,-7.76,-12.4,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,60,14,49,59,1.0,10.0,-7.76,-15.0,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,49,54,1.0,10.0,-7.76,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,49,54,1.0,10.0,-7.76,-18.66,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,60,14,49,54,1.0,10.0,-7.76,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,49,54,1.0,10.0,-7.76,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,49,54,1.0,10.0,-7.76,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,49,54,1.0,10.0,-7.76,-3.79,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,49,54,1.0,10.0,-7.76,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,49,54,1.0,10.0,-7.76,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,49,54,1.0,10.0,-7.76,-21.16,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,49,54,1.0,10.0,-7.76,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,49,54,1.0,10.0,-7.76,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,49,54,1.0,10.0,-7.76,-7.38,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,49,54,1.0,10.0,-7.76,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,54,1.0,10.0,-7.76,-27.97,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,49,54,1.0,10.0,-7.76,-14.3,-12.51,18.34
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,44,54,1.0,10.0,-7.76,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,44,54,1.0,10.0,-7.76,-3.79,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,44,54,1.0,10.0,-7.76,0.0,-15.28,13.08
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,39,59,1.0,10.0,-7.76,0.0,-10.02,16.62
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,39,59,1.0,10.0,-7.76,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,59,1.0,10.0,-7.76,-27.97,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,39,59,1.0,10.0,-7.76,-14.3,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,60,14,39,59,1.0,10.0,-7.76,-12.4,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,60,14,39,59,1.0,10.0,-7.76,-15.0,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,39,54,1.0,10.0,-7.76,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,39,54,1.0,10.0,-7.76,-18.66,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,60,14,39,54,1.0,10.0,-7.76,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,39,54,1.0,10.0,-7.76,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,39,54,1.0,10.0,-7.76,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,39,54,1.0,10.0,-7.76,-3.79,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,39,54,1.0,10.0,-7.76,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,39,54,1.0,10.0,-7.76,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,39,54,1.0,10.0,-7.76,-21.16,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,39,54,1.0,10.0,-7.76,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,39,54,1.0,10.0,-7.76,0.0,-10.02,16.62
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,39,54,1.0,10.0,-7.76,-14.3,-12.51,18.34
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,39,59,1.0,10.0,-7.76,-7.38,-9.08,14.51
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,39,59,1.0,10.0,-7.76,0.0,-15.78,16.03
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,44,54,1.0,10.0,-7.76,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,39,59,1.0,10.0,-7.76,-21.16,-9.05,15.91
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,44,54,1.0,10.0,-7.76,-21.16,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,44,54,1.0,10.0,-7.76,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,44,54,1.0,10.0,-7.76,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,44,54,1.0,10.0,-7.76,-7.38,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,44,54,1.0,10.0,-7.76,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,54,1.0,10.0,-7.76,-27.97,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,44,54,1.0,10.0,-7.76,-14.3,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,60,14,44,54,1.0,10.0,-7.76,-12.4,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,60,14,44,54,1.0,10.0,-7.76,-15.0,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,39,59,1.0,10.0,-7.76,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,39,59,1.0,10.0,-7.76,-18.66,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,60,14,39,59,1.0,10.0,-7.76,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,39,59,1.0,10.0,-7.76,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,39,59,1.0,10.0,-7.76,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,39,59,1.0,10.0,-7.76,-3.79,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,39,59,1.0,10.0,-7.76,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,39,59,1.0,10.0,-7.76,0.0,-11.39,11.86
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,49,59,1.0,10.0,-7.76,-14.3,-12.51,18.34
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,44,59,1.0,10.0,-7.76,0.0,-11.28,13.52
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,49,59,1.0,10.0,-7.76,0.0,-11.28,13.52
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,49,59,1.0,10.0,-7.76,0.0,-10.87,16.41
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,54,1.0,10.0,-7.76,-27.97,-8.61,13.41
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,49,59,1.0,10.0,-7.76,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,49,59,1.0,10.0,-7.76,-18.66,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,60,14,49,59,1.0,10.0,-7.76,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,49,59,1.0,10.0,-7.76,-11.31,-12.07,17.04
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,49,59,1.0,10.0,-7.76,-7.38,-9.08,14.51
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,49,59,1.0,10.0,-7.76,-3.79,-10.34,12.76
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,49,59,1.0,10.0,-7.76,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,49,59,1.0,10.0,-7.76,-21.16,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,49,59,1.0,10.0,-7.76,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,49,59,1.0,10.0,-7.76,0.0,-10.02,16.62
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,49,59,1.0,10.0,-7.76,0.0,-15.28,13.08
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,39,74,1.0,10.0,-7.89,0.0,-10.02,16.62
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,74,1.0,10.0,-7.89,-27.97,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,39,74,1.0,10.0,-7.89,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,39,74,1.0,10.0,-7.89,-9.61,-9.08,14.51
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,39,74,1.0,10.0,-7.89,0.0,-11.39,11.86
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,39,74,1.0,10.0,-7.89,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,39,74,1.0,10.0,-7.89,-21.16,-9.05,15.91
+135,DOG,ProShares Short Dow30,5,60,14,39,74,1.0,10.0,-7.89,-12.4,-11.87,16.47
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,39,74,1.0,10.0,-7.89,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,39,74,1.0,10.0,-7.89,-3.79,-10.34,12.76
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,39,74,1.0,10.0,-7.89,-14.3,-12.51,18.34
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,39,69,1.0,10.0,-7.89,-18.66,-9.58,16.38
+135,SH,ProShares Short S&P500 ETF,5,60,14,39,74,1.0,10.0,-7.89,-15.0,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,39,69,1.0,10.0,-7.89,0.0,-10.25,15.84
+135,FINE.O,Themes European Luxury ETF,5,60,14,39,69,1.0,10.0,-7.89,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,39,69,1.0,10.0,-7.89,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,39,69,1.0,10.0,-7.89,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,39,74,1.0,10.0,-7.89,-11.31,-12.07,17.04
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,39,69,1.0,10.0,-7.89,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,39,69,1.0,10.0,-7.89,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,39,69,1.0,10.0,-7.89,-21.16,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,39,69,1.0,10.0,-7.89,0.0,-15.78,16.03
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,39,69,1.0,10.0,-7.89,-3.79,-10.34,12.76
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,79,1.0,10.0,-7.89,-27.97,-8.61,13.41
+135,FINE.O,Themes European Luxury ETF,5,60,14,39,74,1.0,10.0,-7.89,0.0,-11.72,16.42
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,39,79,1.0,10.0,-7.89,0.0,-15.28,13.08
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,49,74,1.0,10.0,-7.89,-14.3,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,74,1.0,10.0,-7.89,-27.97,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,49,74,1.0,10.0,-7.89,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,49,74,1.0,10.0,-7.89,-9.61,-9.08,14.51
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,39,79,1.0,10.0,-7.89,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,39,79,1.0,10.0,-7.89,-18.66,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,60,14,39,79,1.0,10.0,-7.89,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,39,79,1.0,10.0,-7.89,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,39,79,1.0,10.0,-7.89,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,39,79,1.0,10.0,-7.89,-3.79,-10.34,12.76
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,39,79,1.0,10.0,-7.89,0.0,-11.39,11.86
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,39,74,1.0,10.0,-7.89,-18.66,-9.58,16.38
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,39,79,1.0,10.0,-7.89,-21.16,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,39,79,1.0,10.0,-7.89,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,39,79,1.0,10.0,-7.89,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,39,79,1.0,10.0,-7.89,-9.61,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,39,79,1.0,10.0,-7.89,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,39,69,1.0,10.0,-7.89,-9.61,-9.08,14.51
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,39,79,1.0,10.0,-7.89,-14.3,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,60,14,39,79,1.0,10.0,-7.89,-12.4,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,60,14,39,79,1.0,10.0,-7.89,-15.0,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,39,74,1.0,10.0,-7.89,0.0,-10.25,15.84
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,39,69,1.0,10.0,-7.89,0.0,-10.02,16.62
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,39,64,1.0,10.0,-7.89,-18.66,-9.58,16.38
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,39,69,1.0,10.0,-7.89,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,49,79,1.0,10.0,-7.89,-9.61,-9.08,14.51
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,49,74,1.0,10.0,-7.89,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,49,74,1.0,10.0,-7.89,-11.31,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,60,14,49,74,1.0,10.0,-7.89,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,49,74,1.0,10.0,-7.89,-18.66,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,49,74,1.0,10.0,-7.89,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,60,14,49,79,1.0,10.0,-7.89,-15.0,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,60,14,49,79,1.0,10.0,-7.89,-12.4,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,49,79,1.0,10.0,-7.89,-14.3,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,79,1.0,10.0,-7.89,-27.97,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,49,79,1.0,10.0,-7.89,0.0,-11.28,13.52
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,49,79,1.0,10.0,-7.89,0.0,-10.02,16.62
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,49,74,1.0,10.0,-7.89,0.0,-15.28,13.08
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,49,79,1.0,10.0,-7.89,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,49,79,1.0,10.0,-7.89,-21.16,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,49,79,1.0,10.0,-7.89,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,49,79,1.0,10.0,-7.89,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,49,79,1.0,10.0,-7.89,-3.79,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,49,79,1.0,10.0,-7.89,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,49,79,1.0,10.0,-7.89,-11.31,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,60,14,49,79,1.0,10.0,-7.89,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,49,79,1.0,10.0,-7.89,-18.66,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,49,79,1.0,10.0,-7.89,0.0,-10.25,15.84
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,49,74,1.0,10.0,-7.89,-3.79,-10.34,12.76
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,49,74,1.0,10.0,-7.89,0.0,-11.39,11.86
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,69,1.0,10.0,-7.89,-27.97,-8.61,13.41
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,39,64,1.0,10.0,-7.89,0.0,-11.39,11.86
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,39,69,1.0,10.0,-7.89,-14.3,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,60,14,39,69,1.0,10.0,-7.89,-12.4,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,60,14,39,69,1.0,10.0,-7.89,-15.0,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,39,64,1.0,10.0,-7.89,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,60,14,49,74,1.0,10.0,-7.89,-15.0,-13.34,17.09
+135,FINE.O,Themes European Luxury ETF,5,60,14,39,64,1.0,10.0,-7.89,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,39,64,1.0,10.0,-7.89,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,39,64,1.0,10.0,-7.89,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,39,64,1.0,10.0,-7.89,-3.79,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,39,64,1.0,10.0,-7.89,0.0,-15.28,13.08
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,39,64,1.0,10.0,-7.89,-21.16,-9.05,15.91
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,49,74,1.0,10.0,-7.89,-21.16,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,39,64,1.0,10.0,-7.89,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,39,64,1.0,10.0,-7.89,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,39,64,1.0,10.0,-7.89,-9.61,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,39,64,1.0,10.0,-7.89,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,64,1.0,10.0,-7.89,-27.97,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,39,64,1.0,10.0,-7.89,-14.3,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,60,14,39,64,1.0,10.0,-7.89,-12.4,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,60,14,39,64,1.0,10.0,-7.89,-15.0,-13.34,17.09
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,49,74,1.0,10.0,-7.89,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,49,74,1.0,10.0,-7.89,0.0,-15.78,16.03
+135,DOG,ProShares Short Dow30,5,60,14,49,74,1.0,10.0,-7.89,-12.4,-11.87,16.47
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,39,74,1.0,10.0,-7.89,0.0,-10.87,16.41
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,49,69,1.0,10.0,-7.89,0.0,-10.25,15.84
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,44,69,1.0,10.0,-7.89,0.0,-15.78,16.03
+135,FINE.O,Themes European Luxury ETF,5,60,14,44,74,1.0,10.0,-7.89,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,44,74,1.0,10.0,-7.89,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,44,74,1.0,10.0,-7.89,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,44,74,1.0,10.0,-7.89,-3.79,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,44,74,1.0,10.0,-7.89,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,44,74,1.0,10.0,-7.89,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,44,74,1.0,10.0,-7.89,-21.16,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,44,74,1.0,10.0,-7.89,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,44,74,1.0,10.0,-7.89,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,44,74,1.0,10.0,-7.89,-9.61,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,44,74,1.0,10.0,-7.89,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,74,1.0,10.0,-7.89,-27.97,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,44,74,1.0,10.0,-7.89,-14.3,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,60,14,44,74,1.0,10.0,-7.89,-12.4,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,60,14,44,74,1.0,10.0,-7.89,-15.0,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,44,69,1.0,10.0,-7.89,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,44,69,1.0,10.0,-7.89,-18.66,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,60,14,44,69,1.0,10.0,-7.89,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,44,69,1.0,10.0,-7.89,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,44,69,1.0,10.0,-7.89,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,44,69,1.0,10.0,-7.89,-3.79,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,44,69,1.0,10.0,-7.89,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,44,69,1.0,10.0,-7.89,0.0,-11.39,11.86
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,44,74,1.0,10.0,-7.89,-18.66,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,44,74,1.0,10.0,-7.89,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,60,14,44,79,1.0,10.0,-7.89,-15.0,-13.34,17.09
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,44,79,1.0,10.0,-7.89,-11.31,-12.07,17.04
+135,SH,ProShares Short S&P500 ETF,5,60,14,49,64,1.0,10.0,-7.89,-15.0,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,60,14,49,64,1.0,10.0,-7.89,-12.4,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,49,64,1.0,10.0,-7.89,-14.3,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,64,1.0,10.0,-7.89,-27.97,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,49,64,1.0,10.0,-7.89,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,49,64,1.0,10.0,-7.89,-9.61,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,49,64,1.0,10.0,-7.89,0.0,-10.02,16.62
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,44,79,1.0,10.0,-7.89,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,44,79,1.0,10.0,-7.89,-18.66,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,60,14,44,79,1.0,10.0,-7.89,0.0,-11.72,16.42
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,44,79,1.0,10.0,-7.89,0.0,-10.87,16.41
+135,DOG,ProShares Short Dow30,5,60,14,44,79,1.0,10.0,-7.89,-12.4,-11.87,16.47
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,44,79,1.0,10.0,-7.89,-3.79,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,44,79,1.0,10.0,-7.89,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,44,79,1.0,10.0,-7.89,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,44,79,1.0,10.0,-7.89,-21.16,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,44,79,1.0,10.0,-7.89,0.0,-15.78,16.03
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,49,69,1.0,10.0,-7.89,-18.66,-9.58,16.38
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,44,79,1.0,10.0,-7.89,-9.61,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,44,79,1.0,10.0,-7.89,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,79,1.0,10.0,-7.89,-27.97,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,44,79,1.0,10.0,-7.89,-14.3,-12.51,18.34
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,44,69,1.0,10.0,-7.89,-21.16,-9.05,15.91
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,44,79,1.0,10.0,-7.89,0.0,-10.02,16.62
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,44,69,1.0,10.0,-7.89,0.0,-10.02,16.62
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,69,1.0,10.0,-7.89,-27.97,-8.61,13.41
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,49,64,1.0,10.0,-7.89,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,49,64,1.0,10.0,-7.89,-3.79,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,49,64,1.0,10.0,-7.89,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,49,64,1.0,10.0,-7.89,-11.31,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,60,14,49,64,1.0,10.0,-7.89,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,49,64,1.0,10.0,-7.89,-18.66,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,49,64,1.0,10.0,-7.89,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,60,14,49,69,1.0,10.0,-7.89,-15.0,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,60,14,49,69,1.0,10.0,-7.89,-12.4,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,49,69,1.0,10.0,-7.89,-14.3,-12.51,18.34
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,49,69,1.0,10.0,-7.89,0.0,-11.28,13.52
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,49,64,1.0,10.0,-7.89,-21.16,-9.05,15.91
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,49,69,1.0,10.0,-7.89,-9.61,-9.08,14.51
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,49,69,1.0,10.0,-7.89,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,49,69,1.0,10.0,-7.89,-21.16,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,49,69,1.0,10.0,-7.89,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,49,69,1.0,10.0,-7.89,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,49,69,1.0,10.0,-7.89,-3.79,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,49,69,1.0,10.0,-7.89,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,49,69,1.0,10.0,-7.89,-11.31,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,60,14,49,69,1.0,10.0,-7.89,0.0,-11.72,16.42
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,44,69,1.0,10.0,-7.89,-9.61,-9.08,14.51
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,49,64,1.0,10.0,-7.89,0.0,-11.39,11.86
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,49,69,1.0,10.0,-7.89,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,49,64,1.0,10.0,-7.89,0.0,-15.78,16.03
+135,JOJO.K,ATAC Credit Rotation ETF,5,60,14,44,64,1.0,10.0,-7.89,-3.79,-10.34,12.76
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,44,69,1.0,10.0,-7.89,0.0,-11.28,13.52
+135,SH,ProShares Short S&P500 ETF,5,60,14,44,64,1.0,10.0,-7.89,-15.0,-13.34,17.09
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,69,1.0,10.0,-7.89,-27.97,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,44,69,1.0,10.0,-7.89,-14.3,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,60,14,44,69,1.0,10.0,-7.89,-12.4,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,60,14,44,69,1.0,10.0,-7.89,-15.0,-13.34,17.09
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,44,64,1.0,10.0,-7.89,-18.66,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,60,14,44,64,1.0,10.0,-7.89,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,44,64,1.0,10.0,-7.89,-11.31,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,44,64,1.0,10.0,-7.89,0.0,-10.87,16.41
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,60,14,44,64,1.0,10.0,-7.89,0.0,-10.25,15.84
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,44,64,1.0,10.0,-7.89,0.0,-15.28,13.08
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,60,14,44,64,1.0,10.0,-7.89,0.0,-10.02,16.62
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,44,64,1.0,10.0,-7.89,-14.3,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,60,14,44,64,1.0,10.0,-7.89,-12.4,-11.87,16.47
+135,PCIG.K,Polen Capital International Growth ETF,5,60,14,44,64,1.0,10.0,-7.89,0.0,-11.39,11.86
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,64,1.0,10.0,-7.89,-27.97,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,60,14,44,64,1.0,10.0,-7.89,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,60,14,44,64,1.0,10.0,-7.89,-9.61,-9.08,14.51
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,60,14,44,64,1.0,10.0,-7.89,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,44,64,1.0,10.0,-7.89,-21.16,-9.05,15.91
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,44,59,1.0,10.0,-9.37,-49.52,-9.05,15.91
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,44,59,1.0,10.0,-9.37,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,44,59,1.0,10.0,-9.37,-8.1,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,44,59,1.0,10.0,-9.37,0.0,-10.02,16.62
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,59,1.0,10.0,-9.37,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,44,59,1.0,10.0,-9.37,-14.35,-12.51,18.34
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,44,59,1.0,10.0,-9.37,0.0,-15.78,16.03
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,44,59,1.0,10.0,-9.37,-5.9,-10.34,12.76
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,44,59,1.0,10.0,-9.37,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,44,59,1.0,10.0,-9.37,0.0,-15.28,13.08
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,44,59,1.0,10.0,-9.37,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,44,59,1.0,10.0,-9.37,-8.45,-12.07,17.04
+135,SH,ProShares Short S&P500 ETF,5,120,14,44,59,1.0,10.0,-9.37,-15.0,-13.34,17.09
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,44,59,1.0,10.0,-9.37,-45.28,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,120,14,44,59,1.0,10.0,-9.37,0.0,-11.72,16.42
+135,DOG,ProShares Short Dow30,5,120,14,44,59,1.0,10.0,-9.37,-12.74,-11.87,16.47
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,44,54,1.0,10.0,-9.37,0.0,-15.78,16.03
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,44,54,1.0,10.0,-9.37,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,44,54,1.0,10.0,-9.37,-45.28,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,120,14,44,54,1.0,10.0,-9.37,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,44,54,1.0,10.0,-9.37,-8.45,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,44,54,1.0,10.0,-9.37,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,44,54,1.0,10.0,-9.37,-5.9,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,44,54,1.0,10.0,-9.37,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,44,54,1.0,10.0,-9.37,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,44,54,1.0,10.0,-9.37,-49.52,-9.05,15.91
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,44,54,1.0,10.0,-9.37,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,44,54,1.0,10.0,-9.37,-8.1,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,44,54,1.0,10.0,-9.37,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,54,1.0,10.0,-9.37,0.0,-8.61,13.41
+135,SH,ProShares Short S&P500 ETF,5,120,14,49,54,1.0,10.0,-9.37,-15.0,-13.34,17.09
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,44,54,1.0,10.0,-9.37,-14.35,-12.51,18.34
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,44,59,1.0,10.0,-9.37,0.0,-10.25,15.84
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,49,59,1.0,10.0,-9.37,-49.52,-9.05,15.91
+135,DOG,ProShares Short Dow30,5,120,14,49,54,1.0,10.0,-9.37,-12.74,-11.87,16.47
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,49,59,1.0,10.0,-9.37,0.0,-15.28,13.08
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,59,1.0,10.0,-9.37,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,49,59,1.0,10.0,-9.37,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,49,59,1.0,10.0,-9.37,-8.1,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,49,59,1.0,10.0,-9.37,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,49,59,1.0,10.0,-9.37,0.0,-15.78,16.03
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,49,59,1.0,10.0,-9.37,0.0,-11.39,11.86
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,49,59,1.0,10.0,-9.37,-5.9,-10.34,12.76
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,49,54,1.0,10.0,-9.37,-14.35,-12.51,18.34
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,49,59,1.0,10.0,-9.37,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,49,59,1.0,10.0,-9.37,-8.45,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,49,59,1.0,10.0,-9.37,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,49,59,1.0,10.0,-9.37,-45.28,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,49,59,1.0,10.0,-9.37,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,120,14,44,54,1.0,10.0,-9.37,-15.0,-13.34,17.09
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,49,59,1.0,10.0,-9.37,-14.35,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,120,14,49,59,1.0,10.0,-9.37,-12.74,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,120,14,49,59,1.0,10.0,-9.37,-15.0,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,49,54,1.0,10.0,-9.37,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,49,54,1.0,10.0,-9.37,-45.28,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,120,14,49,54,1.0,10.0,-9.37,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,49,54,1.0,10.0,-9.37,-8.45,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,49,54,1.0,10.0,-9.37,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,49,54,1.0,10.0,-9.37,-5.9,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,49,54,1.0,10.0,-9.37,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,49,54,1.0,10.0,-9.37,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,49,54,1.0,10.0,-9.37,-49.52,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,49,54,1.0,10.0,-9.37,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,49,54,1.0,10.0,-9.37,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,49,54,1.0,10.0,-9.37,-8.1,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,49,54,1.0,10.0,-9.37,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,54,1.0,10.0,-9.37,0.0,-8.61,13.41
+135,DOG,ProShares Short Dow30,5,120,14,44,54,1.0,10.0,-9.37,-12.74,-11.87,16.47
+135,DOG,ProShares Short Dow30,5,120,14,39,54,1.0,10.0,-9.37,-12.74,-11.87,16.47
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,39,59,1.0,10.0,-9.37,0.0,-11.28,13.52
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,39,59,1.0,10.0,-9.37,0.0,-10.87,16.41
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,39,59,1.0,10.0,-9.37,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,39,59,1.0,10.0,-9.37,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,39,59,1.0,10.0,-9.37,-49.52,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,39,59,1.0,10.0,-9.37,0.0,-15.78,16.03
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,39,59,1.0,10.0,-9.37,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,39,59,1.0,10.0,-9.37,-8.1,-9.08,14.51
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,39,54,1.0,10.0,-9.37,-49.52,-9.05,15.91
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,59,1.0,10.0,-9.37,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,39,59,1.0,10.0,-9.37,-14.35,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,120,14,39,59,1.0,10.0,-9.37,-12.74,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,120,14,39,59,1.0,10.0,-9.37,-15.0,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,39,54,1.0,10.0,-9.37,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,39,54,1.0,10.0,-9.37,-45.28,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,120,14,39,54,1.0,10.0,-9.37,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,39,54,1.0,10.0,-9.37,-8.45,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,39,54,1.0,10.0,-9.37,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,39,54,1.0,10.0,-9.37,-5.9,-10.34,12.76
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,39,59,1.0,10.0,-9.37,-5.9,-10.34,12.76
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,39,59,1.0,10.0,-9.37,-8.45,-12.07,17.04
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,39,54,1.0,10.0,-9.37,0.0,-11.39,11.86
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,39,54,1.0,10.0,-9.37,-8.1,-9.08,14.51
+135,FINE.O,Themes European Luxury ETF,5,120,14,39,59,1.0,10.0,-9.37,0.0,-11.72,16.42
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,39,54,1.0,10.0,-9.37,-14.35,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,54,1.0,10.0,-9.37,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,39,54,1.0,10.0,-9.37,0.0,-11.28,13.52
+135,SH,ProShares Short S&P500 ETF,5,120,14,39,54,1.0,10.0,-9.37,-15.0,-13.34,17.09
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,39,54,1.0,10.0,-9.37,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,39,54,1.0,10.0,-9.37,0.0,-15.78,16.03
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,39,59,1.0,10.0,-9.37,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,39,59,1.0,10.0,-9.37,-45.28,-9.58,16.38
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,39,54,1.0,10.0,-9.37,0.0,-15.28,13.08
+135,SH,ProShares Short S&P500 ETF,5,120,14,49,64,1.0,10.0,-9.48,-15.0,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,120,14,49,64,1.0,10.0,-9.48,-12.74,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,49,64,1.0,10.0,-9.48,-14.35,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,64,1.0,10.0,-9.48,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,49,64,1.0,10.0,-9.48,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,49,64,1.0,10.0,-9.48,-9.85,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,49,64,1.0,10.0,-9.48,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,49,64,1.0,10.0,-9.48,0.0,-15.78,16.03
+135,DOG,ProShares Short Dow30,5,120,14,39,74,1.0,10.0,-9.48,-12.74,-11.87,16.47
+135,DOG,ProShares Short Dow30,5,120,14,44,79,1.0,10.0,-9.48,-12.74,-11.87,16.47
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,44,79,1.0,10.0,-9.48,0.0,-11.39,11.86
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,79,1.0,10.0,-9.48,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,44,79,1.0,10.0,-9.48,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,44,79,1.0,10.0,-9.48,-9.85,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,44,79,1.0,10.0,-9.48,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,44,79,1.0,10.0,-9.48,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,44,79,1.0,10.0,-9.48,-49.52,-9.05,15.91
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,44,79,1.0,10.0,-9.48,0.0,-15.28,13.08
+135,SH,ProShares Short S&P500 ETF,5,120,14,39,64,1.0,10.0,-9.48,-15.0,-13.34,17.09
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,44,79,1.0,10.0,-9.48,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,44,79,1.0,10.0,-9.48,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,44,79,1.0,10.0,-9.48,-8.45,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,44,79,1.0,10.0,-9.48,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,44,79,1.0,10.0,-9.48,-45.28,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,44,79,1.0,10.0,-9.48,0.0,-10.25,15.84
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,49,64,1.0,10.0,-9.48,-49.52,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,49,64,1.0,10.0,-9.48,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,49,64,1.0,10.0,-9.48,0.0,-15.28,13.08
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,49,79,1.0,10.0,-9.48,-14.35,-12.51,18.34
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,49,74,1.0,10.0,-9.48,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,49,74,1.0,10.0,-9.48,-49.52,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,49,74,1.0,10.0,-9.48,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,49,74,1.0,10.0,-9.48,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,49,74,1.0,10.0,-9.48,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,49,74,1.0,10.0,-9.48,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,49,74,1.0,10.0,-9.48,-8.45,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,49,74,1.0,10.0,-9.48,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,49,74,1.0,10.0,-9.48,-45.28,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,49,74,1.0,10.0,-9.48,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,120,14,49,79,1.0,10.0,-9.48,-15.0,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,120,14,49,79,1.0,10.0,-9.48,-12.74,-11.87,16.47
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,79,1.0,10.0,-9.48,0.0,-8.61,13.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,49,64,1.0,10.0,-9.48,-5.9,-10.34,12.76
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,49,79,1.0,10.0,-9.48,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,49,79,1.0,10.0,-9.48,-9.85,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,49,79,1.0,10.0,-9.48,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,49,79,1.0,10.0,-9.48,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,49,79,1.0,10.0,-9.48,-49.52,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,49,79,1.0,10.0,-9.48,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,49,79,1.0,10.0,-9.48,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,49,79,1.0,10.0,-9.48,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,49,79,1.0,10.0,-9.48,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,49,79,1.0,10.0,-9.48,-8.45,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,49,79,1.0,10.0,-9.48,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,49,79,1.0,10.0,-9.48,-45.28,-9.58,16.38
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,49,74,1.0,10.0,-9.48,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,49,74,1.0,10.0,-9.48,-9.85,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,49,74,1.0,10.0,-9.48,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,74,1.0,10.0,-9.48,0.0,-8.61,13.41
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,49,64,1.0,10.0,-9.48,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,49,64,1.0,10.0,-9.48,-8.45,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,49,64,1.0,10.0,-9.48,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,49,64,1.0,10.0,-9.48,-45.28,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,49,64,1.0,10.0,-9.48,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,120,14,49,69,1.0,10.0,-9.48,-15.0,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,120,14,49,69,1.0,10.0,-9.48,-12.74,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,49,69,1.0,10.0,-9.48,-14.35,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,69,1.0,10.0,-9.48,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,49,69,1.0,10.0,-9.48,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,49,69,1.0,10.0,-9.48,-9.85,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,49,69,1.0,10.0,-9.48,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,49,69,1.0,10.0,-9.48,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,49,69,1.0,10.0,-9.48,-49.52,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,49,69,1.0,10.0,-9.48,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,49,69,1.0,10.0,-9.48,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,49,69,1.0,10.0,-9.48,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,49,69,1.0,10.0,-9.48,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,49,69,1.0,10.0,-9.48,-8.45,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,49,69,1.0,10.0,-9.48,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,49,69,1.0,10.0,-9.48,-45.28,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,49,69,1.0,10.0,-9.48,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,120,14,49,74,1.0,10.0,-9.48,-15.0,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,120,14,49,74,1.0,10.0,-9.48,-12.74,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,49,74,1.0,10.0,-9.48,-14.35,-12.51,18.34
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,44,79,1.0,10.0,-9.48,-14.35,-12.51,18.34
+135,SH,ProShares Short S&P500 ETF,5,120,14,44,79,1.0,10.0,-9.48,-15.0,-13.34,17.09
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,39,74,1.0,10.0,-9.48,-14.35,-12.51,18.34
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,39,69,1.0,10.0,-9.48,0.0,-10.02,16.62
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,39,79,1.0,10.0,-9.48,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,120,14,39,74,1.0,10.0,-9.48,-15.0,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,39,69,1.0,10.0,-9.48,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,39,69,1.0,10.0,-9.48,-45.28,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,120,14,39,69,1.0,10.0,-9.48,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,39,69,1.0,10.0,-9.48,-8.45,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,39,69,1.0,10.0,-9.48,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,39,69,1.0,10.0,-9.48,-5.9,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,39,69,1.0,10.0,-9.48,0.0,-15.28,13.08
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,39,69,1.0,10.0,-9.48,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,39,69,1.0,10.0,-9.48,-49.52,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,39,69,1.0,10.0,-9.48,0.0,-15.78,16.03
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,39,69,1.0,10.0,-9.48,-9.85,-9.08,14.51
+135,FINE.O,Themes European Luxury ETF,5,120,14,39,79,1.0,10.0,-9.48,0.0,-11.72,16.42
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,39,69,1.0,10.0,-9.48,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,69,1.0,10.0,-9.48,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,39,69,1.0,10.0,-9.48,-14.35,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,120,14,39,69,1.0,10.0,-9.48,-12.74,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,120,14,39,69,1.0,10.0,-9.48,-15.0,-13.34,17.09
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,39,64,1.0,10.0,-9.48,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,39,64,1.0,10.0,-9.48,-45.28,-9.58,16.38
+135,FINE.O,Themes European Luxury ETF,5,120,14,39,64,1.0,10.0,-9.48,0.0,-11.72,16.42
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,39,64,1.0,10.0,-9.48,-8.45,-12.07,17.04
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,39,64,1.0,10.0,-9.48,0.0,-10.87,16.41
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,39,64,1.0,10.0,-9.48,-5.9,-10.34,12.76
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,39,64,1.0,10.0,-9.48,0.0,-15.28,13.08
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,39,79,1.0,10.0,-9.48,-45.28,-9.58,16.38
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,39,79,1.0,10.0,-9.48,-8.45,-12.07,17.04
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,44,74,1.0,10.0,-9.48,0.0,-10.25,15.84
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,39,74,1.0,10.0,-9.48,-45.28,-9.58,16.38
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,74,1.0,10.0,-9.48,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,39,74,1.0,10.0,-9.48,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,39,74,1.0,10.0,-9.48,-9.85,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,39,74,1.0,10.0,-9.48,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,39,74,1.0,10.0,-9.48,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,39,74,1.0,10.0,-9.48,-49.52,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,39,74,1.0,10.0,-9.48,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,39,74,1.0,10.0,-9.48,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,39,74,1.0,10.0,-9.48,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,39,74,1.0,10.0,-9.48,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,39,74,1.0,10.0,-9.48,-8.45,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,39,74,1.0,10.0,-9.48,0.0,-11.72,16.42
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,39,74,1.0,10.0,-9.48,0.0,-10.25,15.84
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,39,79,1.0,10.0,-9.48,0.0,-10.87,16.41
+135,SH,ProShares Short S&P500 ETF,5,120,14,39,79,1.0,10.0,-9.48,-15.0,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,120,14,39,79,1.0,10.0,-9.48,-12.74,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,39,79,1.0,10.0,-9.48,-14.35,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,79,1.0,10.0,-9.48,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,39,79,1.0,10.0,-9.48,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,39,79,1.0,10.0,-9.48,-9.85,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,39,79,1.0,10.0,-9.48,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,39,79,1.0,10.0,-9.48,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,39,79,1.0,10.0,-9.48,-49.52,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,39,79,1.0,10.0,-9.48,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,39,79,1.0,10.0,-9.48,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,39,79,1.0,10.0,-9.48,-5.9,-10.34,12.76
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,39,64,1.0,10.0,-9.48,0.0,-11.39,11.86
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,39,64,1.0,10.0,-9.48,-49.52,-9.05,15.91
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,39,64,1.0,10.0,-9.48,0.0,-15.78,16.03
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,44,74,1.0,10.0,-9.48,-14.35,-12.51,18.34
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,44,69,1.0,10.0,-9.48,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,44,69,1.0,10.0,-9.48,-49.52,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,44,69,1.0,10.0,-9.48,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,44,69,1.0,10.0,-9.48,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,44,69,1.0,10.0,-9.48,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,44,69,1.0,10.0,-9.48,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,44,69,1.0,10.0,-9.48,-8.45,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,44,69,1.0,10.0,-9.48,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,44,69,1.0,10.0,-9.48,-45.28,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,44,69,1.0,10.0,-9.48,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,120,14,44,74,1.0,10.0,-9.48,-15.0,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,120,14,44,74,1.0,10.0,-9.48,-12.74,-11.87,16.47
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,74,1.0,10.0,-9.48,0.0,-8.61,13.41
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,39,64,1.0,10.0,-9.48,0.0,-10.02,16.62
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,44,74,1.0,10.0,-9.48,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,44,74,1.0,10.0,-9.48,-9.85,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,44,74,1.0,10.0,-9.48,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,44,74,1.0,10.0,-9.48,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,44,74,1.0,10.0,-9.48,-49.52,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,44,74,1.0,10.0,-9.48,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,44,74,1.0,10.0,-9.48,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,44,74,1.0,10.0,-9.48,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,44,74,1.0,10.0,-9.48,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,44,74,1.0,10.0,-9.48,-8.45,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,44,74,1.0,10.0,-9.48,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,44,74,1.0,10.0,-9.48,-45.28,-9.58,16.38
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,44,69,1.0,10.0,-9.48,0.0,-10.02,16.62
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,44,69,1.0,10.0,-9.48,-9.85,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,44,69,1.0,10.0,-9.48,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,69,1.0,10.0,-9.48,0.0,-8.61,13.41
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,39,64,1.0,10.0,-9.48,-9.85,-9.08,14.51
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,39,64,1.0,10.0,-9.48,0.0,-11.28,13.52
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,64,1.0,10.0,-9.48,0.0,-8.61,13.41
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,39,64,1.0,10.0,-9.48,-14.35,-12.51,18.34
+135,DOG,ProShares Short Dow30,5,120,14,39,64,1.0,10.0,-9.48,-12.74,-11.87,16.47
+135,SH,ProShares Short S&P500 ETF,5,120,14,44,64,1.0,10.0,-9.48,-15.0,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,120,14,44,64,1.0,10.0,-9.48,-12.74,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,44,64,1.0,10.0,-9.48,-14.35,-12.51,18.34
+135,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,64,1.0,10.0,-9.48,0.0,-8.61,13.41
+135,RSSL.K,Global X Russell 2000 ETF,5,120,14,44,64,1.0,10.0,-9.48,0.0,-11.28,13.52
+135,TAIL.K,Cambria Tail Risk ETF,5,120,14,44,64,1.0,10.0,-9.48,-9.85,-9.08,14.51
+135,DTCR.O,Global X Data Center & Digital Infrastructure,5,120,14,44,64,1.0,10.0,-9.48,0.0,-10.02,16.62
+135,XOMO.K,YieldMax XOM Option Income Strategy ETF,5,120,14,44,64,1.0,10.0,-9.48,0.0,-15.78,16.03
+135,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,44,64,1.0,10.0,-9.48,-49.52,-9.05,15.91
+135,PCIG.K,Polen Capital International Growth ETF,5,120,14,44,64,1.0,10.0,-9.48,0.0,-11.39,11.86
+135,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,44,64,1.0,10.0,-9.48,0.0,-15.28,13.08
+135,JOJO.K,ATAC Credit Rotation ETF,5,120,14,44,64,1.0,10.0,-9.48,-5.9,-10.34,12.76
+135,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,44,64,1.0,10.0,-9.48,0.0,-10.87,16.41
+135,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,44,64,1.0,10.0,-9.48,-8.45,-12.07,17.04
+135,FINE.O,Themes European Luxury ETF,5,120,14,44,64,1.0,10.0,-9.48,0.0,-11.72,16.42
+135,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,44,64,1.0,10.0,-9.48,-45.28,-9.58,16.38
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,44,64,1.0,10.0,-9.48,0.0,-10.25,15.84
+135,SH,ProShares Short S&P500 ETF,5,120,14,44,69,1.0,10.0,-9.48,-15.0,-13.34,17.09
+135,DOG,ProShares Short Dow30,5,120,14,44,69,1.0,10.0,-9.48,-12.74,-11.87,16.47
+135,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,44,69,1.0,10.0,-9.48,-14.35,-12.51,18.34
+135,IBGK.O,iShares iBonds Dec 2054 Term Treasury ETF,5,120,14,49,79,1.0,10.0,-9.48,0.0,-10.25,15.84

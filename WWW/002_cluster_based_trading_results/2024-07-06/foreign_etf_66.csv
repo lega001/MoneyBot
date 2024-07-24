@@ -1,0 +1,2017 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,24,54,1.0,10.0,0.0,0,20.31,10.33
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.0,8.23
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,34,54,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,34,54,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,34,54,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,34,54,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,34,54,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,34,54,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,34,54,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,29,79,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,29,79,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,29,79,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,29,79,1.0,10.0,0.0,0,18.11,8.13
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.33,11.44
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.11,8.52
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,29,79,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,29,79,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,29,79,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,29,79,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,29,79,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,29,79,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,29,79,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,29,79,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0,17.46,10.15
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0,17.46,10.15
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,34,54,1.0,10.0,0.0,0,18.08,9.82
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,24,54,1.0,10.0,0.0,0,21.71,10.2
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,34,54,1.0,10.0,0.0,0,20.52,7.55
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,34,59,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,34,59,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,34,59,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,34,59,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,34,59,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,34,59,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,34,59,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,34,59,1.0,10.0,0.0,0,20.31,10.33
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,34,54,1.0,10.0,0.0,0,18.35,6.97
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.82,8.83
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,34,54,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,34,54,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,34,54,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,34,54,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,34,54,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,34,54,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,34,54,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,34,54,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,34,54,1.0,10.0,0.0,0,20.55,6.58
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,29,79,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,29,79,1.0,10.0,0.0,0,20.6,7.59
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,29,69,1.0,10.0,0.0,0,21.08,9.65
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,29,74,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,29,74,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,29,69,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,29,69,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,29,69,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,29,69,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,29,69,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,29,69,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,29,69,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,29,69,1.0,10.0,0.0,0,16.81,9.51
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.92,6.84
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,29,79,1.0,10.0,0.0,0,20.4,7.17
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,29,69,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,29,69,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,29,69,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,29,69,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,29,69,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,29,69,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,29,69,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,29,69,1.0,10.0,0.0,0,21.11,9.74
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,29,74,1.0,10.0,0.0,0,21.11,9.74
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,29,74,1.0,10.0,0.0,0,20.41,9.92
+66,CCMG.K,CCM Global Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,18.03,9.66
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,29,74,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,29,79,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,29,79,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,29,79,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,29,79,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,29,74,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,29,74,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,29,74,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,29,74,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,29,74,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,29,74,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,29,74,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,29,74,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,29,74,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,29,74,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,29,74,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,29,74,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,29,74,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,29,74,1.0,10.0,0.0,0,20.6,7.59
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,34,59,1.0,10.0,0.0,0,20.55,6.58
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,34,59,1.0,10.0,0.0,0,20.28,6.58
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.92,6.84
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.11,8.52
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,34,74,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,34,74,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,34,74,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,34,74,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,34,74,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,34,74,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,34,74,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,34,74,1.0,10.0,0.0,0,18.08,9.82
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0,17.46,10.15
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.33,11.44
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,34,74,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,34,74,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,34,74,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,34,74,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,34,74,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,34,74,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,34,74,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,34,69,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,34,69,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,34,69,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,34,69,1.0,10.0,0.0,0,18.11,8.13
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,34,74,1.0,10.0,0.0,0,18.11,8.13
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,34,74,1.0,10.0,0.0,0,17.17,8.41
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,34,74,1.0,10.0,0.0,0,18.35,6.97
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,34,74,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,34,79,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,34,79,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,34,79,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,34,79,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,34,79,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,34,79,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,34,79,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,34,79,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,34,79,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,34,79,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,34,79,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,34,79,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,34,79,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,34,79,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,34,79,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,34,79,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,34,79,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,34,79,1.0,10.0,0.0,0,20.31,10.33
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.0,8.23
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,34,69,1.0,10.0,0.0,0,22.28,6.91
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,34,59,1.0,10.0,0.0,0,21.08,9.65
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,34,64,1.0,10.0,0.0,0,20.41,9.92
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,34,64,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,34,64,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,34,64,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,34,64,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,34,64,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,34,64,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,34,64,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,18.03,9.66
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,34,64,1.0,10.0,0.0,0,21.11,9.74
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,34,69,1.0,10.0,0.0,0,20.51,10.65
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,34,64,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,34,64,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,34,59,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,34,59,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,34,59,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,34,59,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,34,59,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,34,59,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,34,59,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,34,59,1.0,10.0,0.0,0,16.81,9.51
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,34,64,1.0,10.0,0.0,0,16.81,9.51
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.8,8.76
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,34,64,1.0,10.0,0.0,0,18.22,8.75
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,34,64,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,34,69,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,34,69,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,34,69,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,34,69,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,34,69,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,34,69,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,34,69,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,34,69,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,34,69,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,34,69,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,34,69,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,34,69,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,34,69,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,34,64,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,34,64,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,34,64,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,34,64,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,34,64,1.0,10.0,0.0,0,22.28,6.91
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,29,69,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,29,69,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,29,64,1.0,10.0,0.0,0,20.52,7.55
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.0,8.23
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,24,69,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,24,69,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,24,69,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,24,69,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,24,69,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,24,69,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,24,69,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,24,64,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,24,64,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,24,64,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,24,64,1.0,10.0,0.0,0,18.11,8.13
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.33,11.44
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.65,9.89
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,24,64,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,24,64,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,24,64,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,24,64,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,24,64,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,24,64,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,24,64,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,24,64,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0,17.46,10.15
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0,17.46,10.15
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.11,8.52
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,24,69,1.0,10.0,0.0,0,18.08,9.82
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,24,74,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,24,74,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,24,74,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,24,74,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,24,74,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,24,74,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,24,74,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,24,74,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,24,69,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,24,69,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,24,69,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,24,69,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,24,69,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,24,69,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,24,69,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,24,69,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,24,69,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,24,69,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,24,69,1.0,10.0,0.0,0,20.55,6.58
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,24,64,1.0,10.0,0.0,0,16.81,10.15
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,24,64,1.0,10.0,0.0,0,20.6,7.59
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,24,74,1.0,10.0,0.0,0,20.55,6.58
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,24,54,1.0,10.0,0.0,0,21.08,9.65
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,24,59,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,24,59,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,24,54,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,24,54,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,24,54,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,24,54,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,24,54,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,24,54,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,24,54,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,24,54,1.0,10.0,0.0,0,16.81,9.51
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.92,6.84
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,24,64,1.0,10.0,0.0,0,20.4,7.17
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,24,54,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,24,54,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,24,54,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,24,54,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,24,54,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,24,54,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,24,54,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,24,54,1.0,10.0,0.0,0,21.11,9.74
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,24,59,1.0,10.0,0.0,0,21.11,9.74
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,24,59,1.0,10.0,0.0,0,20.41,9.92
+66,CCMG.K,CCM Global Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0,18.03,9.66
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,24,59,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,24,64,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,24,64,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,24,64,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,24,64,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,24,59,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,24,59,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,24,59,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,24,59,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,24,59,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,24,59,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,24,59,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,24,59,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,24,59,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,24,59,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,24,59,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,24,59,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,24,59,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,24,59,1.0,10.0,0.0,0,20.6,7.59
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.82,8.83
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,24,74,1.0,10.0,0.0,0,20.28,6.58
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,29,64,1.0,10.0,0.0,0,18.35,6.97
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0,17.46,10.15
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,29,59,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,29,59,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,29,59,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,29,59,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,29,59,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,29,59,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,29,59,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,29,59,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.11,8.52
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,29,59,1.0,10.0,0.0,0,16.81,10.15
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,29,54,1.0,10.0,0.0,0,22.28,6.91
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,29,59,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,29,59,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,29,59,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,29,59,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,29,59,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,29,59,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,29,54,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,29,54,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,29,54,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,29,54,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.0,8.23
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.0,8.23
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,29,59,1.0,10.0,0.0,0,18.11,8.13
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,29,59,1.0,10.0,0.0,0,17.17,8.41
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,29,59,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,29,64,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,29,64,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,29,64,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,29,64,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,29,64,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,29,64,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,29,64,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,29,64,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,29,64,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,29,64,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,29,64,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,29,64,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,29,64,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,29,64,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,29,64,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,29,64,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,29,64,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,29,59,1.0,10.0,0.0,0,20.52,7.55
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.33,11.44
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,29,54,1.0,10.0,0.0,0,20.51,10.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.92,6.84
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,24,79,1.0,10.0,0.0,0,21.11,9.74
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,24,79,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,24,79,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,24,79,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,24,79,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,24,79,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,24,79,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,24,79,1.0,10.0,0.0,0,20.41,9.92
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,24,79,1.0,10.0,0.0,0,21.71,10.2
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,29,54,1.0,10.0,0.0,0,18.22,8.75
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,24,79,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,24,74,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,24,74,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,24,74,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,24,74,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,24,74,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,24,74,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,24,74,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,24,74,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,24,74,1.0,10.0,0.0,0,21.08,9.65
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,24,79,1.0,10.0,0.0,0,21.08,9.65
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,24,79,1.0,10.0,0.0,0,16.81,9.51
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.8,8.76
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,24,79,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,29,54,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,29,54,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,29,54,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,29,54,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,29,54,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,29,54,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,29,54,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,29,54,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,29,54,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,29,54,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,29,54,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,29,54,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,24,79,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,24,79,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,24,79,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,24,79,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,24,79,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,24,79,1.0,10.0,0.0,0,20.51,10.65
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,34,79,1.0,10.0,0.0,0,20.52,7.55
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,39,54,1.0,10.0,0.0,0,20.31,10.33
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,39,54,1.0,10.0,0.0,0,21.71,10.2
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,44,79,1.0,10.0,0.0,0,18.11,8.13
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,49,54,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,49,54,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,49,54,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,49,54,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,49,54,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,49,54,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,49,54,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,49,54,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,44,79,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,44,79,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,44,79,1.0,10.0,0.0,0,17.17,8.41
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.0,8.23
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,44,79,1.0,10.0,0.0,0,16.81,10.15
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,44,79,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,44,79,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,44,79,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,44,79,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,44,79,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,44,79,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,44,79,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,44,79,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.11,8.52
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.11,8.52
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,49,54,1.0,10.0,0.0,0,18.08,9.82
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.82,8.83
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,49,54,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,49,59,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,49,59,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,49,59,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,49,59,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,49,59,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,49,59,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,49,59,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,49,59,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,49,59,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,49,54,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,49,54,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,49,54,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,49,54,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,49,54,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,49,54,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,49,54,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,49,54,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,49,54,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,49,54,1.0,10.0,0.0,0,20.28,6.58
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0,17.46,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.65,9.89
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,49,59,1.0,10.0,0.0,0,20.28,6.58
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,44,69,1.0,10.0,0.0,0,16.81,9.51
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,44,74,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,44,74,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,44,74,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,44,69,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,44,69,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,44,69,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,44,69,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,44,69,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,44,69,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,44,69,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.8,8.76
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,44,69,1.0,10.0,0.0,0,21.08,9.65
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,44,79,1.0,10.0,0.0,0,20.6,7.59
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,44,69,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,44,69,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,44,69,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,44,69,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,44,69,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,44,69,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,44,69,1.0,10.0,0.0,0,20.41,9.92
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,44,74,1.0,10.0,0.0,0,20.41,9.92
+66,CCMG.K,CCM Global Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,18.03,9.66
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,44,74,1.0,10.0,0.0,0,20.4,7.17
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,44,74,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,44,79,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,44,79,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,44,79,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,44,79,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,44,79,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,44,74,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,44,74,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,44,74,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,44,74,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,44,74,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,44,74,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,44,74,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,44,74,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,44,74,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,44,74,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,44,74,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,44,74,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,44,74,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.65,9.89
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,49,59,1.0,10.0,0.0,0,20.55,6.58
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.92,6.84
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,44,69,1.0,10.0,0.0,0,21.71,10.2
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.11,8.52
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,49,74,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,49,74,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,49,74,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,49,74,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,49,74,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,49,74,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,49,74,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,49,74,1.0,10.0,0.0,0,18.08,9.82
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,49,74,1.0,10.0,0.0,0,17.46,10.15
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.33,11.44
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,49,74,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,49,74,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,49,74,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,49,74,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,49,74,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,49,74,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,49,74,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,49,69,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,49,69,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,49,69,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,49,69,1.0,10.0,0.0,0,18.11,8.13
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,49,74,1.0,10.0,0.0,0,18.11,8.13
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,49,74,1.0,10.0,0.0,0,17.17,8.41
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,49,74,1.0,10.0,0.0,0,18.35,6.97
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,49,74,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,49,79,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,49,79,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,49,79,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,49,79,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,49,79,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,49,79,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,49,79,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,49,79,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,49,79,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,49,79,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,49,79,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,49,79,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,49,79,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,49,79,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,49,79,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,49,79,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,49,79,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,49,79,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,49,79,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,49,79,1.0,10.0,0.0,0,20.31,10.33
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.0,8.23
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,49,69,1.0,10.0,0.0,0,22.28,6.91
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,49,59,1.0,10.0,0.0,0,21.08,9.65
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,49,64,1.0,10.0,0.0,0,20.41,9.92
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,49,64,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,49,64,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,49,64,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,49,64,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,49,64,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,49,64,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,49,64,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,49,64,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,18.03,9.66
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,49,64,1.0,10.0,0.0,0,21.11,9.74
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,49,69,1.0,10.0,0.0,0,20.51,10.65
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,49,64,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,49,64,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,49,59,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,49,59,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,49,59,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,49,59,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,49,59,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,49,59,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,49,59,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,49,59,1.0,10.0,0.0,0,16.81,9.51
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,49,64,1.0,10.0,0.0,0,16.81,9.51
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.8,8.76
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,49,64,1.0,10.0,0.0,0,18.22,8.75
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,49,64,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,49,69,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,49,69,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,49,69,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,49,69,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,49,69,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,49,69,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,49,69,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,49,69,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,49,69,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,49,69,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,49,69,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,49,69,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,49,69,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,49,69,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,49,64,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,49,64,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,49,64,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,49,64,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,49,64,1.0,10.0,0.0,0,22.28,6.91
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,44,69,1.0,10.0,0.0,0,21.11,9.74
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,44,69,1.0,10.0,0.0,0,20.31,10.33
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,39,54,1.0,10.0,0.0,0,21.11,9.74
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,39,64,1.0,10.0,0.0,0,18.11,8.13
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,39,69,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,39,69,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,39,69,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,39,69,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,39,69,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,39,69,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,39,69,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,39,64,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,39,64,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,39,64,1.0,10.0,0.0,0,17.17,8.41
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.0,8.23
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,39,64,1.0,10.0,0.0,0,16.81,10.15
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,39,64,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,39,64,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,39,64,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,39,64,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,39,64,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,39,64,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,39,64,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,39,64,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.11,8.52
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.11,8.52
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,39,69,1.0,10.0,0.0,0,18.08,9.82
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.82,8.83
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,39,69,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,39,74,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,39,74,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,39,74,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,39,74,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,39,74,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,39,74,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,39,74,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,39,74,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,39,69,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,39,69,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,39,69,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,39,69,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,39,69,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,39,69,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,39,69,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,39,69,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,39,69,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,39,69,1.0,10.0,0.0,0,20.28,6.58
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0,17.46,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.65,9.89
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,39,74,1.0,10.0,0.0,0,20.28,6.58
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,39,54,1.0,10.0,0.0,0,16.81,9.51
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,39,59,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,39,59,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,39,59,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,39,54,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,39,54,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,39,54,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,39,54,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,39,54,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,39,54,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,39,54,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.8,8.76
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,39,54,1.0,10.0,0.0,0,21.08,9.65
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,39,64,1.0,10.0,0.0,0,20.6,7.59
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,39,54,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,39,54,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,39,54,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,39,54,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,39,54,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,39,54,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,39,54,1.0,10.0,0.0,0,20.41,9.92
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,39,59,1.0,10.0,0.0,0,20.41,9.92
+66,CCMG.K,CCM Global Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,18.03,9.66
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,39,59,1.0,10.0,0.0,0,20.4,7.17
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,39,59,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,39,64,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,39,64,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,39,64,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,39,64,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,39,64,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,39,59,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,39,59,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,39,59,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,39,59,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,39,59,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,39,59,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,39,59,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,39,59,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,39,59,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,39,59,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,39,59,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,39,59,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,39,59,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.65,9.89
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,39,74,1.0,10.0,0.0,0,20.55,6.58
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.92,6.84
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,44,64,1.0,10.0,0.0,0,20.52,7.55
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.11,8.52
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,44,59,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,44,59,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,44,59,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,44,59,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,44,59,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,44,59,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,44,59,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,44,59,1.0,10.0,0.0,0,18.08,9.82
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0,17.46,10.15
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.33,11.44
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,44,59,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,44,59,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,44,59,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,44,59,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,44,59,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,44,59,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,44,59,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,44,54,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,44,54,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,44,54,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,44,54,1.0,10.0,0.0,0,18.11,8.13
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,44,59,1.0,10.0,0.0,0,18.11,8.13
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,44,59,1.0,10.0,0.0,0,17.17,8.41
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,44,59,1.0,10.0,0.0,0,18.35,6.97
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,44,59,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,44,64,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,44,64,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,44,64,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,44,64,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,44,64,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,44,64,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,44,64,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,44,64,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,44,64,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,44,64,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,44,64,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,44,64,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,44,64,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,44,64,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,44,64,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,44,64,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,44,64,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,44,64,1.0,10.0,0.0,0,20.31,10.33
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.0,8.23
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,44,54,1.0,10.0,0.0,0,22.28,6.91
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,39,74,1.0,10.0,0.0,0,21.08,9.65
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,39,79,1.0,10.0,0.0,0,20.41,9.92
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,39,79,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,39,79,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,39,79,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,39,79,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,39,79,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,39,79,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,39,79,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0,18.03,9.66
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,39,79,1.0,10.0,0.0,0,21.11,9.74
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,44,54,1.0,10.0,0.0,0,20.51,10.65
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,39,79,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,39,79,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,39,74,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,39,74,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,39,74,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,39,74,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,39,74,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,39,74,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,39,74,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,39,74,1.0,10.0,0.0,0,16.81,9.51
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,39,79,1.0,10.0,0.0,0,16.81,9.51
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.8,8.76
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,39,79,1.0,10.0,0.0,0,18.22,8.75
+66,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,39,79,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,44,54,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,120,14,44,54,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,44,54,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,44,54,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,120,14,44,54,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,120,14,44,54,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,120,14,44,54,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,44,54,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,44,54,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,120,14,44,54,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,120,14,44,54,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,44,54,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,44,54,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,39,79,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,120,14,39,79,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,120,14,39,79,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,39,79,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,39,79,1.0,10.0,0.0,0,22.28,6.91
+66,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,24,54,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,24,54,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,49,79,1.0,10.0,0.0,0,20.52,7.55
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.0,8.23
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,34,54,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,34,54,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,34,54,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,34,54,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,34,54,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,34,54,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,34,54,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,29,79,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,29,79,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,29,79,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,29,79,1.0,10.0,0.0,0,18.11,8.13
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.33,11.44
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.65,9.89
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,29,79,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,29,79,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,29,79,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,29,79,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,29,79,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,29,79,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,29,79,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,29,79,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0,17.46,10.15
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0,17.46,10.15
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.11,8.52
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,34,54,1.0,10.0,0.0,0,18.08,9.82
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,34,59,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,34,59,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,34,59,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,34,59,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,34,59,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,34,59,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,34,59,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,34,59,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,34,54,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,34,54,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,34,54,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,34,54,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,34,54,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,34,54,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,34,54,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,34,54,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,34,54,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,34,54,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,34,54,1.0,10.0,0.0,0,20.55,6.58
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,29,79,1.0,10.0,0.0,0,16.81,10.15
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,29,79,1.0,10.0,0.0,0,20.6,7.59
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,34,59,1.0,10.0,0.0,0,20.55,6.58
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,29,69,1.0,10.0,0.0,0,21.08,9.65
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,29,74,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,29,74,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,29,69,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,29,69,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,29,69,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,29,69,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,29,69,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,29,69,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,29,69,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,29,69,1.0,10.0,0.0,0,16.81,9.51
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.92,6.84
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,29,79,1.0,10.0,0.0,0,20.4,7.17
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,29,69,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,29,69,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,29,69,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,29,69,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,29,69,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,29,69,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,29,69,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,29,69,1.0,10.0,0.0,0,21.11,9.74
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,29,74,1.0,10.0,0.0,0,21.11,9.74
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,29,74,1.0,10.0,0.0,0,20.41,9.92
+66,CCMG.K,CCM Global Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,18.03,9.66
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,29,74,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,29,79,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,29,79,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,29,79,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,29,79,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,29,74,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,29,74,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,29,74,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,29,74,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,29,74,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,29,74,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,29,74,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,29,74,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,29,74,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,29,74,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,29,74,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,29,74,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,29,74,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,29,74,1.0,10.0,0.0,0,20.6,7.59
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.82,8.83
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,34,59,1.0,10.0,0.0,0,20.28,6.58
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,29,69,1.0,10.0,0.0,0,20.31,10.33
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0,17.46,10.15
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,34,74,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,34,74,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,34,74,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,34,74,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,34,74,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,34,74,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,34,74,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,34,74,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.11,8.52
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,34,74,1.0,10.0,0.0,0,16.81,10.15
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,34,69,1.0,10.0,0.0,0,22.28,6.91
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,34,74,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,34,74,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,34,74,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,34,74,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,34,74,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,34,74,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,34,69,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,34,69,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,34,69,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,34,69,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.0,8.23
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.0,8.23
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,34,74,1.0,10.0,0.0,0,18.11,8.13
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,34,74,1.0,10.0,0.0,0,17.17,8.41
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,34,74,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,34,79,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,34,79,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,34,79,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,34,79,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,34,79,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,34,79,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,34,79,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,34,79,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,34,79,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,34,79,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,34,79,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,34,79,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,34,79,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,34,79,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,34,79,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,34,79,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,34,79,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,34,74,1.0,10.0,0.0,0,20.52,7.55
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.33,11.44
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,34,69,1.0,10.0,0.0,0,20.51,10.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.92,6.84
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,34,64,1.0,10.0,0.0,0,21.11,9.74
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,34,64,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,34,64,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,34,64,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,34,64,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,34,64,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,34,64,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,34,64,1.0,10.0,0.0,0,20.41,9.92
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,34,64,1.0,10.0,0.0,0,21.71,10.2
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,34,69,1.0,10.0,0.0,0,18.22,8.75
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,34,64,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,34,59,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,34,59,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,34,59,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,34,59,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,34,59,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,34,59,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,34,59,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,34,59,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,34,59,1.0,10.0,0.0,0,21.08,9.65
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,34,64,1.0,10.0,0.0,0,21.08,9.65
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,34,64,1.0,10.0,0.0,0,16.81,9.51
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.8,8.76
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,34,64,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,34,69,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,34,69,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,34,69,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,34,69,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,34,69,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,34,69,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,34,69,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,34,69,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,34,69,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,34,69,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,34,69,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,34,69,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,34,64,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,34,64,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,34,64,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,34,64,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,34,64,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,34,64,1.0,10.0,0.0,0,20.51,10.65
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,29,69,1.0,10.0,0.0,0,21.71,10.2
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,29,64,1.0,10.0,0.0,0,20.52,7.55
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,34,79,1.0,10.0,0.0,0,20.52,7.55
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.0,8.23
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,24,69,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,24,69,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,24,69,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,24,69,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,24,69,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,24,69,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,24,69,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,24,64,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,24,64,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,24,64,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,24,64,1.0,10.0,0.0,0,18.11,8.13
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.33,11.44
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.65,9.89
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,24,64,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,24,64,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,24,64,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,24,64,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,24,64,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,24,64,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,24,64,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,24,64,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0,17.46,10.15
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0,17.46,10.15
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.11,8.52
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,24,69,1.0,10.0,0.0,0,18.08,9.82
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,24,74,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,24,74,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,24,74,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,24,74,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,24,74,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,24,74,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,24,74,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,24,74,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,24,69,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,24,69,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,24,69,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,24,69,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,24,69,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,24,69,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,24,69,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,24,69,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,24,69,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,24,69,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,24,69,1.0,10.0,0.0,0,20.55,6.58
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,24,64,1.0,10.0,0.0,0,16.81,10.15
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,24,64,1.0,10.0,0.0,0,20.6,7.59
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,24,74,1.0,10.0,0.0,0,20.55,6.58
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,24,54,1.0,10.0,0.0,0,21.08,9.65
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,24,59,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,24,59,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,24,54,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,24,54,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,24,54,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,24,54,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,24,54,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,24,54,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,24,54,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,24,54,1.0,10.0,0.0,0,16.81,9.51
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.92,6.84
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,24,64,1.0,10.0,0.0,0,20.4,7.17
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,24,54,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,24,54,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,24,54,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,24,54,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,24,54,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,24,54,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,24,54,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,24,54,1.0,10.0,0.0,0,21.11,9.74
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,24,59,1.0,10.0,0.0,0,21.11,9.74
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,24,59,1.0,10.0,0.0,0,20.41,9.92
+66,CCMG.K,CCM Global Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0,18.03,9.66
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,24,59,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,24,64,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,24,64,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,24,64,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,24,64,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,24,59,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,24,59,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,24,59,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,24,59,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,24,59,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,24,59,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,24,59,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,24,59,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,24,59,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,24,59,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,24,59,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,24,59,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,24,59,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,24,59,1.0,10.0,0.0,0,20.6,7.59
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.82,8.83
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,24,74,1.0,10.0,0.0,0,20.28,6.58
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,29,64,1.0,10.0,0.0,0,18.35,6.97
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0,17.46,10.15
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,29,59,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,29,59,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,29,59,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,29,59,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,29,59,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,29,59,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,29,59,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,29,59,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.11,8.52
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,29,59,1.0,10.0,0.0,0,16.81,10.15
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,29,54,1.0,10.0,0.0,0,22.28,6.91
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,29,59,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,29,59,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,29,59,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,29,59,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,29,59,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,29,59,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,29,54,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,29,54,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,29,54,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,29,54,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.0,8.23
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.0,8.23
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,29,59,1.0,10.0,0.0,0,18.11,8.13
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,29,59,1.0,10.0,0.0,0,17.17,8.41
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,29,59,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,29,64,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,29,64,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,29,64,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,29,64,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,29,64,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,29,64,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,29,64,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,29,64,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,29,64,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,29,64,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,29,64,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,29,64,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,29,64,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,29,64,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,29,64,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,29,64,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,29,64,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,29,59,1.0,10.0,0.0,0,20.52,7.55
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.33,11.44
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,29,54,1.0,10.0,0.0,0,20.51,10.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.92,6.84
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,24,79,1.0,10.0,0.0,0,21.11,9.74
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,24,79,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,24,79,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,24,79,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,24,79,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,24,79,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,24,79,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,24,79,1.0,10.0,0.0,0,20.41,9.92
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,24,79,1.0,10.0,0.0,0,21.71,10.2
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,29,54,1.0,10.0,0.0,0,18.22,8.75
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,24,79,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,24,74,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,24,74,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,24,74,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,24,74,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,24,74,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,24,74,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,24,74,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,24,74,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,24,74,1.0,10.0,0.0,0,21.08,9.65
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,24,79,1.0,10.0,0.0,0,21.08,9.65
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,24,79,1.0,10.0,0.0,0,16.81,9.51
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.8,8.76
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,24,79,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,29,54,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,29,54,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,29,54,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,29,54,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,29,54,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,29,54,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,29,54,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,29,54,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,29,54,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,29,54,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,29,54,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,29,54,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,24,79,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,24,79,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,24,79,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,24,79,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,24,79,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,24,79,1.0,10.0,0.0,0,20.51,10.65
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,34,79,1.0,10.0,0.0,0,18.35,6.97
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,39,54,1.0,10.0,0.0,0,20.31,10.33
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,49,79,1.0,10.0,0.0,0,18.35,6.97
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.0,8.23
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,49,54,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,49,54,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,49,54,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,49,54,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,49,54,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,49,54,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,49,54,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,44,79,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,44,79,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,44,79,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,44,79,1.0,10.0,0.0,0,18.11,8.13
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.33,11.44
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.65,9.89
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,44,79,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,44,79,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,44,79,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,44,79,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,44,79,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,44,79,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,44,79,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,44,79,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,44,79,1.0,10.0,0.0,0,17.46,10.15
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,49,54,1.0,10.0,0.0,0,17.46,10.15
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.11,8.52
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,49,54,1.0,10.0,0.0,0,18.08,9.82
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,49,59,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,49,59,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,49,59,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,49,59,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,49,59,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,49,59,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,49,59,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,49,59,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,49,59,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,49,54,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,49,54,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,49,54,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,49,54,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,49,54,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,49,54,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,49,54,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,49,54,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,49,54,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,49,54,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,49,54,1.0,10.0,0.0,0,20.55,6.58
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,44,79,1.0,10.0,0.0,0,16.81,10.15
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,44,79,1.0,10.0,0.0,0,20.6,7.59
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,49,59,1.0,10.0,0.0,0,20.55,6.58
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,44,69,1.0,10.0,0.0,0,21.08,9.65
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,44,74,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,44,74,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,44,69,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,44,69,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,44,69,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,44,69,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,44,69,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,44,69,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,44,69,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,44,69,1.0,10.0,0.0,0,16.81,9.51
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.92,6.84
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,44,79,1.0,10.0,0.0,0,20.4,7.17
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,44,69,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,44,69,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,44,69,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,44,69,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,44,69,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,44,69,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,44,69,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,44,69,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,44,69,1.0,10.0,0.0,0,21.11,9.74
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,44,74,1.0,10.0,0.0,0,21.11,9.74
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,44,74,1.0,10.0,0.0,0,20.41,9.92
+66,CCMG.K,CCM Global Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,18.03,9.66
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,44,74,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,44,79,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,44,79,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,44,79,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,44,79,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,44,74,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,44,74,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,44,74,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,44,74,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,44,74,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,44,74,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,44,74,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,44,74,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,44,74,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,44,74,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,44,74,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,44,74,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,44,74,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,44,74,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,44,74,1.0,10.0,0.0,0,20.6,7.59
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.82,8.83
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,49,59,1.0,10.0,0.0,0,20.28,6.58
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,44,69,1.0,10.0,0.0,0,20.31,10.33
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,49,74,1.0,10.0,0.0,0,17.46,10.15
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,49,74,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,49,74,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,49,74,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,49,74,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,49,74,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,49,74,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,49,74,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,49,74,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.11,8.52
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,49,74,1.0,10.0,0.0,0,16.81,10.15
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,49,69,1.0,10.0,0.0,0,22.28,6.91
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,49,74,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,49,74,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,49,74,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,49,74,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,49,74,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,49,74,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,49,69,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,49,69,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,49,69,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,49,69,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.0,8.23
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.0,8.23
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,49,74,1.0,10.0,0.0,0,18.11,8.13
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,49,74,1.0,10.0,0.0,0,17.17,8.41
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,49,74,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,49,79,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,49,79,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,49,79,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,49,79,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,49,79,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,49,79,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,49,79,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,49,79,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,49,79,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,49,79,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,49,79,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,49,79,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,49,79,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,49,79,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,49,79,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,49,79,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,49,79,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,49,79,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,49,79,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,49,74,1.0,10.0,0.0,0,20.52,7.55
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.33,11.44
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,49,69,1.0,10.0,0.0,0,20.51,10.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.92,6.84
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,49,64,1.0,10.0,0.0,0,21.11,9.74
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,49,64,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,49,64,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,49,64,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,49,64,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,49,64,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,49,64,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,49,64,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,49,64,1.0,10.0,0.0,0,20.41,9.92
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,49,64,1.0,10.0,0.0,0,21.71,10.2
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,49,69,1.0,10.0,0.0,0,18.22,8.75
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,49,64,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,49,59,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,49,59,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,49,59,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,49,59,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,49,59,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,49,59,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,49,59,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,49,59,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,49,59,1.0,10.0,0.0,0,21.08,9.65
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,49,64,1.0,10.0,0.0,0,21.08,9.65
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,49,64,1.0,10.0,0.0,0,16.81,9.51
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.8,8.76
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,49,64,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,49,69,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,49,69,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,49,69,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,49,69,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,49,69,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,49,69,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,49,69,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,49,69,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,49,69,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,49,69,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,49,69,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,49,69,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,49,69,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,49,64,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,49,64,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,49,64,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,49,64,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,49,64,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,49,64,1.0,10.0,0.0,0,20.51,10.65
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,44,69,1.0,10.0,0.0,0,21.71,10.2
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,44,64,1.0,10.0,0.0,0,20.52,7.55
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,39,54,1.0,10.0,0.0,0,21.71,10.2
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.0,8.23
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,39,69,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,39,69,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,39,69,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,39,69,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,39,69,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,39,69,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,39,69,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,39,64,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,39,64,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,39,64,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,39,64,1.0,10.0,0.0,0,18.11,8.13
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.33,11.44
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.65,9.89
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,39,64,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,39,64,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,39,64,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,39,64,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,39,64,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,39,64,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,39,64,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,39,64,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0,17.46,10.15
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0,17.46,10.15
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.11,8.52
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,39,69,1.0,10.0,0.0,0,18.08,9.82
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,39,74,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,39,74,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,39,74,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,39,74,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,39,74,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,39,74,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,39,74,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,39,74,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,39,69,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,39,69,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,39,69,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,39,69,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,39,69,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,39,69,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,39,69,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,39,69,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,39,69,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,39,69,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,39,69,1.0,10.0,0.0,0,20.55,6.58
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,39,64,1.0,10.0,0.0,0,16.81,10.15
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,39,64,1.0,10.0,0.0,0,20.6,7.59
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,39,74,1.0,10.0,0.0,0,20.55,6.58
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,39,54,1.0,10.0,0.0,0,21.08,9.65
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,39,59,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,39,59,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,39,54,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,39,54,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,39,54,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,39,54,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,39,54,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,39,54,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,39,54,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,39,54,1.0,10.0,0.0,0,16.81,9.51
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.92,6.84
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,39,64,1.0,10.0,0.0,0,20.4,7.17
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,39,54,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,39,54,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,39,54,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,39,54,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,39,54,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,39,54,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,39,54,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,39,54,1.0,10.0,0.0,0,21.11,9.74
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,39,59,1.0,10.0,0.0,0,21.11,9.74
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,39,59,1.0,10.0,0.0,0,20.41,9.92
+66,CCMG.K,CCM Global Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,18.03,9.66
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,39,59,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,39,64,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,39,64,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,39,64,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,39,64,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,39,59,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,39,59,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,39,59,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,39,59,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,39,59,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,39,59,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,39,59,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,39,59,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,39,59,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,39,59,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,39,59,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,39,59,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,39,59,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,39,59,1.0,10.0,0.0,0,20.6,7.59
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.82,8.83
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,39,74,1.0,10.0,0.0,0,20.28,6.58
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,44,64,1.0,10.0,0.0,0,18.35,6.97
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,44,59,1.0,10.0,0.0,0,17.46,10.15
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,44,59,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,44,59,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,44,59,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,44,59,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,44,59,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,44,59,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,44,59,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,44,59,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.11,8.52
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,44,59,1.0,10.0,0.0,0,16.81,10.15
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,44,54,1.0,10.0,0.0,0,22.28,6.91
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,44,59,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,44,59,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,44,59,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,44,59,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,44,59,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,44,59,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,44,54,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,44,54,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,44,54,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,44,54,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.0,8.23
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.0,8.23
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,44,59,1.0,10.0,0.0,0,18.11,8.13
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,44,59,1.0,10.0,0.0,0,17.17,8.41
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,44,59,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,44,64,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,44,64,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,44,64,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,44,64,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,44,64,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,44,64,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,44,64,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,44,64,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,44,64,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,44,64,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,44,64,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,44,64,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,44,64,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,44,64,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,44,64,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,44,64,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,44,64,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,44,64,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,44,59,1.0,10.0,0.0,0,20.52,7.55
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.33,11.44
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,44,54,1.0,10.0,0.0,0,20.51,10.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.92,6.84
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,39,79,1.0,10.0,0.0,0,21.11,9.74
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,39,79,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,39,79,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,39,79,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,39,79,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,39,79,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,39,79,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,39,79,1.0,10.0,0.0,0,20.41,9.92
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,39,79,1.0,10.0,0.0,0,21.71,10.2
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,44,54,1.0,10.0,0.0,0,18.22,8.75
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,39,79,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,39,74,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,39,74,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,39,74,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,39,74,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,39,74,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,39,74,1.0,10.0,0.0,0,20.51,10.65
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,39,74,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,39,74,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,39,74,1.0,10.0,0.0,0,21.08,9.65
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,39,79,1.0,10.0,0.0,0,21.08,9.65
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,39,79,1.0,10.0,0.0,0,16.81,9.51
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.8,8.76
+66,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,39,79,1.0,10.0,0.0,0,18.22,8.75
+66,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.8,8.76
+66,DYTA.O,SGI Dynamic Tactical ETF,5,60,14,44,54,1.0,10.0,0.0,0,16.81,9.51
+66,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,44,54,1.0,10.0,0.0,0,21.08,9.65
+66,IRTR.K,iShares LifePath Retirement ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.92,6.84
+66,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,44,54,1.0,10.0,0.0,0,20.28,6.58
+66,APRP.K,PGIM US Large-Cap Buffer 12 ETF - April,5,60,14,44,54,1.0,10.0,0.0,0,20.55,6.58
+66,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.82,8.83
+66,TVAL.K,T Rowe Price Value ETF,5,60,14,44,54,1.0,10.0,0.0,0,18.08,9.82
+66,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.11,8.52
+66,BGIG.K,Bahl & Gaynor Income Growth ETF,5,60,14,44,54,1.0,10.0,0.0,0,17.46,10.15
+66,QUVU.K,Hartford Quality Value ETF,5,60,14,44,54,1.0,10.0,0.0,0,16.81,10.15
+66,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.65,9.89
+66,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,44,54,1.0,10.0,0.0,0,20.6,7.59
+66,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,44,54,1.0,10.0,0.0,0,20.4,7.17
+66,CCMG.K,CCM Global Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,18.03,9.66
+66,JULT.K,AllianzIM US Large Cap Buffer10 Jul ETF,5,60,14,44,54,1.0,10.0,0.0,0,20.41,9.92
+66,ISPY.K,ProShares S&P 500 High Income ETF,5,60,14,44,54,1.0,10.0,0.0,0,21.11,9.74
+66,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,44,54,1.0,10.0,0.0,0,21.71,10.2
+66,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,44,54,1.0,10.0,0.0,0,20.31,10.33
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,39,79,1.0,10.0,0.0,0,20.52,7.55
+66,ARLU.K,Allianzim US Equity Buffer15 Uncapped Apr ETF,5,60,14,39,79,1.0,10.0,0.0,0,18.35,6.97
+66,MVFG.K,Monarch Volume Factor Global Unconstrained Idx ETF,5,60,14,39,79,1.0,10.0,0.0,0,17.17,8.41
+66,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,39,79,1.0,10.0,0.0,0,18.11,8.13
+66,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.0,8.23
+66,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.33,11.44
+66,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,39,79,1.0,10.0,0.0,0,22.28,6.91
+66,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,39,79,1.0,10.0,0.0,0,20.51,10.65
+66,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,49,79,1.0,10.0,0.0,0,20.52,7.55

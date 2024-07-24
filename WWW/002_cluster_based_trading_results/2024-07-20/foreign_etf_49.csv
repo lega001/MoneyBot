@@ -1,0 +1,2089 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+49,XCOR.K,FundX ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,22.72,15.19
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,19.72,16.44
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,49,54,1.0,10.0,9.67,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,19.73,15.38
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,19.74,16.07
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,21.57,16.33
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,20.73,13.8
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,20.57,15.96
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,20.47,14.32
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,22.29,13.8
+49,STRV.K,Strive 500 ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,22.2,15.1
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,49,54,1.0,10.0,9.67,275.27,21.66,17.81
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,22.09,14.7
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,19.64,15.4
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,20.63,16.53
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,22.4,14.42
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,21.71,14.39
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,49,54,1.0,10.0,9.67,5.01,19.78,18.05
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,19.22,14.95
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,49,54,1.0,10.0,9.67,0.0,23.02,13.94
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,49,54,1.0,10.0,9.49,0.0,18.99,15.83
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,19.82,15.22
+49,XCOR.K,FundX ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,22.72,15.19
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,19.73,15.38
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,23.91,14.92
+49,MEDI.K,Harbor Health Care ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,21.97,15.1
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,49,54,1.0,10.0,9.49,275.27,21.66,17.81
+49,XNAV.K,FundX Aggressive ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,24.0,15.99
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,21.42,16.63
+49,SRHQ.K,SRH US Quality ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,19.84,14.85
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,19.41,16.35
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,21.61,13.76
+49,STRV.K,Strive 500 ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,22.2,15.1
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,20.73,13.8
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,22.4,14.42
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,22.09,14.7
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,21.57,16.33
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,19.64,15.4
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,20.63,16.53
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,20.47,14.32
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,22.29,13.8
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,21.71,14.39
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,19.22,14.95
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,23.02,13.94
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,19.72,16.44
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,19.78,18.05
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,49,54,1.0,10.0,9.49,0.0,20.57,15.96
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,20.47,14.32
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,49,59,1.0,10.0,3.78,8.15,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,22.4,14.42
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,19.64,15.4
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,20.63,16.53
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,20.57,15.96
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,49,59,1.0,10.0,3.78,101.48,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,22.29,13.8
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,23.02,13.94
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,19.72,16.44
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,20.73,13.8
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,19.74,16.07
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,20.63,17.79
+49,XCOR.K,FundX ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,22.72,15.19
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,19.73,15.38
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,23.91,14.92
+49,MEDI.K,Harbor Health Care ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,21.97,15.1
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,49,59,1.0,10.0,3.78,0.0,18.99,15.83
+49,XNAV.K,FundX Aggressive ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,24.0,15.99
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,21.42,16.63
+49,SRHQ.K,SRH US Quality ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,19.84,14.85
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,19.41,16.35
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,19.82,15.22
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,49,59,1.0,10.0,3.78,0.0,21.61,13.76
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,20.73,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,21.61,13.76
+49,SRHQ.K,SRH US Quality ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,49,59,1.0,10.0,3.5,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,19.74,16.07
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,49,59,1.0,10.0,3.5,101.48,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,22.2,15.1
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,19.41,16.35
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,49,59,1.0,10.0,3.5,0.0,22.29,13.8
+49,STRV.K,Strive 500 ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,22.2,15.1
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,21.57,16.33
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,49,74,1.0,10.0,1.55,29.63,21.66,17.81
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,22.09,14.7
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,19.64,15.4
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,20.63,16.53
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,20.47,14.32
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,22.4,14.42
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,21.71,14.39
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,49,74,1.0,10.0,1.55,15.28,19.78,18.05
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,19.22,14.95
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,23.02,13.94
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,20.57,15.96
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,19.72,16.44
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,20.73,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,21.61,13.76
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,19.74,16.07
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,20.63,17.79
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,19.82,15.22
+49,XCOR.K,FundX ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,22.72,15.19
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,19.73,15.38
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,23.91,14.92
+49,MEDI.K,Harbor Health Care ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,21.97,15.1
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,49,74,1.0,10.0,1.55,0.0,18.99,15.83
+49,XNAV.K,FundX Aggressive ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,24.0,15.99
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,21.42,16.63
+49,SRHQ.K,SRH US Quality ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,19.84,14.85
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,19.41,16.35
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,49,74,1.0,10.0,1.55,0.0,22.29,13.8
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,49,69,1.0,10.0,1.49,27.56,21.66,17.81
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,22.09,14.7
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,19.74,16.07
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,49,69,1.0,10.0,1.49,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,21.97,15.1
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,20.63,17.79
+49,STRV.K,Strive 500 ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,22.2,15.1
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,19.64,15.4
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,49,69,1.0,10.0,1.49,15.61,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,20.63,16.53
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,22.29,13.8
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,49,69,1.0,10.0,1.49,0.0,23.91,14.92
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,22.29,13.8
+49,STRV.K,Strive 500 ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,22.2,15.1
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,22.09,14.7
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,19.64,15.4
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,20.63,16.53
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,22.4,14.42
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,21.71,14.39
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,49,79,1.0,10.0,1.45,15.28,19.78,18.05
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,19.22,14.95
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,23.02,13.94
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,20.57,15.96
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,19.72,16.44
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,21.57,16.33
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,20.73,13.8
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,19.74,16.07
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,20.63,17.79
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,19.82,15.22
+49,XCOR.K,FundX ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,22.72,15.19
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,19.73,15.38
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,23.91,14.92
+49,MEDI.K,Harbor Health Care ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,21.97,15.1
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,49,79,1.0,10.0,1.45,0.0,18.99,15.83
+49,XNAV.K,FundX Aggressive ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,24.0,15.99
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,21.42,16.63
+49,SRHQ.K,SRH US Quality ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,19.84,14.85
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,19.41,16.35
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,21.61,13.76
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,49,79,1.0,10.0,1.45,26.9,21.66,17.81
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,49,79,1.0,10.0,1.45,0.0,20.47,14.32
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,19.41,16.35
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,19.72,16.44
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,22.29,13.8
+49,STRV.K,Strive 500 ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,22.2,15.1
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,49,64,1.0,10.0,1.35,25.31,21.66,17.81
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,22.09,14.7
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,19.64,15.4
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,20.63,16.53
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,20.47,14.32
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,22.4,14.42
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,21.61,13.76
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,49,64,1.0,10.0,1.35,13.83,19.78,18.05
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,19.22,14.95
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,23.02,13.94
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,20.57,15.96
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,21.71,14.39
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,21.57,16.33
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,23.91,14.92
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,20.73,13.8
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,49,64,1.0,10.0,1.35,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,21.97,15.1
+49,SRHQ.K,SRH US Quality ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,19.84,14.85
+49,XCOR.K,FundX ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,19.74,16.07
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,49,64,1.0,10.0,1.35,0.0,19.73,15.38
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,20.73,13.8
+49,MEDI.K,Harbor Health Care ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,21.97,15.1
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,20.63,17.79
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,19.82,15.22
+49,XCOR.K,FundX ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,22.72,15.19
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,19.73,15.38
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,23.91,14.92
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,21.42,16.63
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,49,74,1.0,10.0,1.02,0.0,18.99,15.83
+49,XNAV.K,FundX Aggressive ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,24.0,15.99
+49,SRHQ.K,SRH US Quality ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,19.84,14.85
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,19.41,16.35
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,21.61,13.76
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,19.74,16.07
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,22.29,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,21.57,16.33
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,22.4,14.42
+49,STRV.K,Strive 500 ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,22.2,15.1
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,49,74,1.0,10.0,1.02,29.63,21.66,17.81
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,22.09,14.7
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,20.63,16.53
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,20.47,14.32
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,19.64,15.4
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,21.71,14.39
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,19.78,18.05
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,19.22,14.95
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,23.02,13.94
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,20.57,15.96
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,49,74,1.0,10.0,1.02,0.0,19.72,16.44
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,21.71,14.39
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,19.78,18.05
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,49,69,1.0,10.0,0.95,27.56,21.66,17.81
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,22.09,14.7
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,21.57,16.33
+49,MEDI.K,Harbor Health Care ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,21.97,15.1
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,19.74,16.07
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,20.63,17.79
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,19.82,15.22
+49,XCOR.K,FundX ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,22.72,15.19
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,19.73,15.38
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,23.91,14.92
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,49,69,1.0,10.0,0.95,0.0,18.99,15.83
+49,XNAV.K,FundX Aggressive ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,24.0,15.99
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,21.42,16.63
+49,SRHQ.K,SRH US Quality ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,19.84,14.85
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,19.41,16.35
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,21.61,13.76
+49,STRV.K,Strive 500 ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,49,69,1.0,10.0,0.95,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,21.61,13.76
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,19.64,15.4
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,20.63,16.53
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,21.71,14.39
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,19.78,18.05
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,19.22,14.95
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,23.02,13.94
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,20.57,15.96
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,19.72,16.44
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,21.57,16.33
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,20.73,13.8
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,19.74,16.07
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,20.63,17.79
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,19.82,15.22
+49,XCOR.K,FundX ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,22.72,15.19
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,19.73,15.38
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,23.91,14.92
+49,MEDI.K,Harbor Health Care ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,21.97,15.1
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,49,79,1.0,10.0,0.93,0.0,18.99,15.83
+49,XNAV.K,FundX Aggressive ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,24.0,15.99
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,21.42,16.63
+49,SRHQ.K,SRH US Quality ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,19.84,14.85
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,22.4,14.42
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,19.41,16.35
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,20.47,14.32
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,49,79,1.0,10.0,0.93,26.9,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,49,79,1.0,10.0,0.93,0.0,22.29,13.8
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,19.82,15.22
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,49,64,1.0,10.0,0.87,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,22.72,15.19
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,19.22,14.95
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,19.72,16.44
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,22.29,13.8
+49,STRV.K,Strive 500 ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,22.2,15.1
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,49,64,1.0,10.0,0.87,25.31,21.66,17.81
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,22.09,14.7
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,19.64,15.4
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,20.63,16.53
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,20.57,15.96
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,22.4,14.42
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,21.71,14.39
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,19.78,18.05
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,20.47,14.32
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,49,64,1.0,10.0,0.87,0.0,20.63,17.79
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,22.4,14.42
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,21.71,14.39
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,29,64,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,19.22,14.95
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,19.22,14.95
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,23.02,13.94
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,20.57,15.96
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,21.61,13.76
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,19.78,18.05
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,20.47,14.32
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,23.02,13.94
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,20.57,15.96
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,19.72,16.44
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,21.57,16.33
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,20.73,13.8
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,22.29,13.8
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,19.41,16.35
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,19.72,16.44
+49,SRHQ.K,SRH US Quality ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,29,69,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,21.57,16.33
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,19.22,14.95
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,22.29,13.8
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,21.71,14.39
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,20.57,15.96
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,19.72,16.44
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,23.02,13.94
+49,MEDI.K,Harbor Health Care ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,21.97,15.1
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,22.09,14.7
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,23.91,14.92
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,34,54,1.0,10.0,0.0,0.0,18.99,15.83
+49,STRV.K,Strive 500 ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,22.2,15.1
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,20.63,16.53
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,20.47,14.32
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,19.64,15.4
+49,XNAV.K,FundX Aggressive ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,24.0,15.99
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,21.42,16.63
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,21.66,17.81
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,22.29,13.8
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,19.74,16.07
+49,SRHQ.K,SRH US Quality ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,19.84,14.85
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,21.42,16.63
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,22.4,14.42
+49,XNAV.K,FundX Aggressive ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,29,74,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,20.63,17.79
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,20.47,14.32
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,21.71,14.39
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,21.61,13.76
+49,XCOR.K,FundX ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,22.72,15.19
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,29,79,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,19.73,15.38
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,19.82,15.22
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,19.78,18.05
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,22.4,14.42
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,22.09,14.7
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,20.63,16.53
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,20.47,14.32
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,22.4,14.42
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,21.71,14.39
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,19.78,18.05
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,19.22,14.95
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,23.02,13.94
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,20.57,15.96
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,19.72,16.44
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,21.57,16.33
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,20.73,13.8
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,19.74,16.07
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,20.63,17.79
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,19.82,15.22
+49,XCOR.K,FundX ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,22.72,15.19
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,19.64,15.4
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,21.66,17.81
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,23.91,14.92
+49,STRV.K,Strive 500 ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,22.2,15.1
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,20.73,13.8
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,19.74,16.07
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,20.63,17.79
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,19.82,15.22
+49,XCOR.K,FundX ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,22.72,15.19
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,19.73,15.38
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,23.91,14.92
+49,MEDI.K,Harbor Health Care ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,21.97,15.1
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,24,69,1.0,10.0,0.0,0.0,18.99,15.83
+49,XNAV.K,FundX Aggressive ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,24.0,15.99
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,21.42,16.63
+49,SRHQ.K,SRH US Quality ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,19.84,14.85
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,19.41,16.35
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,21.61,13.76
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,22.29,13.8
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,19.73,15.38
+49,MEDI.K,Harbor Health Care ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,21.97,15.1
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,19.72,16.44
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,23.02,13.94
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,19.72,16.44
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,21.57,16.33
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,20.73,13.8
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,19.74,16.07
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,20.63,17.79
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,19.82,15.22
+49,XCOR.K,FundX ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,22.72,15.19
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,19.73,15.38
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,23.91,14.92
+49,MEDI.K,Harbor Health Care ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,21.97,15.1
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,24,79,1.0,10.0,0.0,0.0,18.99,15.83
+49,XNAV.K,FundX Aggressive ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,24.0,15.99
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,21.42,16.63
+49,SRHQ.K,SRH US Quality ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,19.84,14.85
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,19.41,16.35
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,20.57,15.96
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,19.22,14.95
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,24,74,1.0,10.0,0.0,0.0,18.99,15.83
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,19.78,18.05
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,20.73,13.8
+49,XNAV.K,FundX Aggressive ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,24.0,15.99
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,21.42,16.63
+49,SRHQ.K,SRH US Quality ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,19.84,14.85
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,19.41,16.35
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,21.61,13.76
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,22.29,13.8
+49,STRV.K,Strive 500 ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,22.2,15.1
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,21.66,17.81
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,22.09,14.7
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,19.64,15.4
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,20.63,16.53
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,20.47,14.32
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,22.4,14.42
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,21.71,14.39
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,21.57,16.33
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,20.57,15.96
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,20.47,14.32
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,20.63,17.79
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,19.78,18.05
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,21.61,13.76
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,22.2,15.1
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,19.74,16.07
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,19.82,15.22
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,21.61,13.76
+49,XCOR.K,FundX ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,22.72,15.19
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,29,59,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,19.73,15.38
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,22.29,13.8
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,19.41,16.35
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,23.02,13.94
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,21.71,14.39
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,22.2,15.1
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,21.66,17.81
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,22.09,14.7
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,19.64,15.4
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,20.63,16.53
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,20.47,14.32
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,22.4,14.42
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,21.71,14.39
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,19.78,18.05
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,19.22,14.95
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,22.4,14.42
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,19.78,18.05
+49,SRHQ.K,SRH US Quality ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,19.84,14.85
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,19.22,14.95
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,29,54,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,23.02,13.94
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,21.57,16.33
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,20.73,13.8
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,19.74,16.07
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,23.02,13.94
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,44,54,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,20.57,15.96
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,19.22,14.95
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,21.42,16.63
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,19.41,16.35
+49,XNAV.K,FundX Aggressive ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,24.0,15.99
+49,SRHQ.K,SRH US Quality ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,21.42,16.63
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,20.57,15.96
+49,XNAV.K,FundX Aggressive ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,44,59,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,19.72,16.44
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,23.02,13.94
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,19.41,16.35
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,21.61,13.76
+49,SRHQ.K,SRH US Quality ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,19.84,14.85
+49,XNAV.K,FundX Aggressive ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,24.0,15.99
+49,SRHQ.K,SRH US Quality ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,19.84,14.85
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,19.78,18.05
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,19.22,14.95
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,21.71,14.39
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,39,74,1.0,10.0,0.0,0.0,18.99,15.83
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,21.42,16.63
+49,MEDI.K,Harbor Health Care ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,21.97,15.1
+49,XNAV.K,FundX Aggressive ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,39,79,1.0,10.0,0.0,0.0,18.99,15.83
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,19.22,14.95
+49,MEDI.K,Harbor Health Care ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,23.02,13.94
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,19.78,18.05
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,21.42,16.63
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,21.42,16.63
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,19.41,16.35
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,20.63,17.79
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,20.73,13.8
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,44,74,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,19.74,16.07
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,21.57,16.33
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,22.29,13.8
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,21.66,17.81
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,21.61,13.76
+49,STRV.K,Strive 500 ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,22.29,13.8
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,19.74,16.07
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,44,79,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,20.63,17.79
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,20.73,13.8
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,21.66,17.81
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,22.09,14.7
+49,STRV.K,Strive 500 ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,22.2,15.1
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,21.61,13.76
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,21.61,13.76
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,19.72,16.44
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,44,64,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,21.57,16.33
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,20.57,15.96
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,19.41,16.35
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,22.29,13.8
+49,SRHQ.K,SRH US Quality ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,19.84,14.85
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,19.41,16.35
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,21.57,16.33
+49,SRHQ.K,SRH US Quality ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,44,69,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,20.73,13.8
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,19.72,16.44
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,22.29,13.8
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,22.2,15.1
+49,XNAV.K,FundX Aggressive ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,39,69,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,21.97,15.1
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,19.64,15.4
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,19.74,16.07
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,22.29,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,20.63,16.53
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,22.09,14.7
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,19.82,15.22
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,34,69,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,19.73,15.38
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,20.63,17.79
+49,XCOR.K,FundX ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,19.82,15.22
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,20.63,16.53
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,20.47,14.32
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,19.64,15.4
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,19.73,15.38
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,34,74,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,23.91,14.92
+49,XCOR.K,FundX ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,22.72,15.19
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,20.63,17.79
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,23.91,14.92
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,21.66,17.81
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,22.09,14.7
+49,STRV.K,Strive 500 ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,22.2,15.1
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,19.74,16.07
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,34,59,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,19.82,15.22
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,20.73,13.8
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,19.74,16.07
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,22.09,14.7
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,19.64,15.4
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,21.66,17.81
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,19.82,15.22
+49,STRV.K,Strive 500 ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,34,64,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,19.82,15.22
+49,XCOR.K,FundX ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,22.72,15.19
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,19.73,15.38
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,22.4,14.42
+49,XCOR.K,FundX ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,21.71,14.39
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,20.47,14.32
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,23.91,14.92
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,39,59,1.0,10.0,0.0,0.0,18.99,15.83
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,19.73,15.38
+49,MEDI.K,Harbor Health Care ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,23.91,14.92
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,21.71,14.39
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,19.78,18.05
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,22.4,14.42
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,39,64,1.0,10.0,0.0,0.0,18.99,15.83
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,24.0,15.99
+49,MEDI.K,Harbor Health Care ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,19.73,15.38
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,20.47,14.32
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,22.4,14.42
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,20.63,16.53
+49,XCOR.K,FundX ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,22.72,15.19
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,34,79,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,21.97,15.1
+49,XCOR.K,FundX ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,22.72,15.19
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,19.73,15.38
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,23.91,14.92
+49,MEDI.K,Harbor Health Care ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,21.97,15.1
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,39,54,1.0,10.0,0.0,0.0,18.99,15.83
+49,STRV.K,Strive 500 ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,21.61,13.76
+49,XNAV.K,FundX Aggressive ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,24.0,15.99
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,21.42,16.63
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,29,74,1.0,10.0,0.0,0.0,18.99,15.83
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,19.78,18.05
+49,MEDI.K,Harbor Health Care ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,23.02,13.94
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,21.71,14.39
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,19.78,18.05
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,21.42,16.63
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,19.84,14.85
+49,XNAV.K,FundX Aggressive ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,24.0,15.99
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,23.02,13.94
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,29,79,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,20.57,15.96
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,19.22,14.95
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,21.71,14.39
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,19.22,14.95
+49,MEDI.K,Harbor Health Care ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,21.97,15.1
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,29,64,1.0,10.0,0.0,0.0,18.99,15.83
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,23.91,14.92
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,22.4,14.42
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,19.78,18.05
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,20.47,14.32
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,22.4,14.42
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,29,69,1.0,10.0,0.0,0.0,18.99,15.83
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,24.0,15.99
+49,MEDI.K,Harbor Health Care ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,21.97,15.1
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,19.78,18.05
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,19.78,18.05
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,23.02,13.94
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,19.41,16.35
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,21.61,13.76
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,22.29,13.8
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,19.41,16.35
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,19.72,16.44
+49,SRHQ.K,SRH US Quality ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,34,64,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,20.73,13.8
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,20.57,15.96
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,19.72,16.44
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,22.29,13.8
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,22.2,15.1
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,21.61,13.76
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,20.73,13.8
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,34,69,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,19.74,16.07
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,21.57,16.33
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,20.57,15.96
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,20.57,15.96
+49,SRHQ.K,SRH US Quality ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,19.84,14.85
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,21.42,16.63
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,23.02,13.94
+49,XNAV.K,FundX Aggressive ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,34,54,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,19.72,16.44
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,19.22,14.95
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,23.02,13.94
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,19.41,16.35
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,21.61,13.76
+49,SRHQ.K,SRH US Quality ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,19.84,14.85
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,19.72,16.44
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,34,59,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,21.57,16.33
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,20.47,14.32
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,20.63,17.79
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,24,64,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,19.82,15.22
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,19.74,16.07
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,21.66,17.81
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,19.64,15.4
+49,STRV.K,Strive 500 ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,22.2,15.1
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,21.66,17.81
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,19.82,15.22
+49,STRV.K,Strive 500 ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,24,69,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,22.72,15.19
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,20.63,17.79
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,19.64,15.4
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,20.63,16.53
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,22.09,14.7
+49,STRV.K,Strive 500 ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,22.2,15.1
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,20.63,16.53
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,20.73,13.8
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,24,54,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,19.74,16.07
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,21.57,16.33
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,22.29,13.8
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,21.66,17.81
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,21.61,13.76
+49,STRV.K,Strive 500 ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,22.29,13.8
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,19.74,16.07
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,24,59,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,20.63,17.79
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,20.73,13.8
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,21.66,17.81
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,21.66,17.81
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,22.09,14.7
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,19.64,15.4
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,19.73,15.38
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,29,54,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,23.91,14.92
+49,XCOR.K,FundX ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,22.72,15.19
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,20.63,16.53
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,22.4,14.42
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,19.64,15.4
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,20.63,16.53
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,23.91,14.92
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,29,59,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,21.97,15.1
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,19.73,15.38
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,22.4,14.42
+49,XCOR.K,FundX ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,21.71,14.39
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,19.64,15.4
+49,XCOR.K,FundX ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,22.72,15.19
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,24,74,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,19.73,15.38
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,19.82,15.22
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,22.09,14.7
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,20.47,14.32
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,22.09,14.7
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,19.64,15.4
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,20.63,16.53
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,20.47,14.32
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,24,79,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,22.4,14.42
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,19.72,16.44
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,21.57,16.33
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,20.73,13.8
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,19.22,14.95
+49,MEDI.K,Harbor Health Care ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,23.02,13.94
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,19.78,18.05
+49,XNAV.K,FundX Aggressive ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,24.0,15.99
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,19.84,14.85
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,44,69,1.0,10.0,0.0,0.0,18.99,15.83
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,24.0,15.99
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,23.02,13.94
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,44,74,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,20.57,15.96
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,19.22,14.95
+49,SRHQ.K,SRH US Quality ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,19.84,14.85
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,21.42,16.63
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,44,64,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,21.97,15.1
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,21.71,14.39
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,19.78,18.05
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,22.4,14.42
+49,MEDI.K,Harbor Health Care ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,21.97,15.1
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,24.0,15.99
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,23.91,14.92
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,44,59,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,21.97,15.1
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,19.78,18.05
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,19.22,14.95
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,21.71,14.39
+49,XNAV.K,FundX Aggressive ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,24.0,15.99
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,24.0,15.99
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,21.42,16.63
+49,SRHQ.K,SRH US Quality ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,19.84,14.85
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,19.72,16.44
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,24,59,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,21.57,16.33
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,20.57,15.96
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,19.41,16.35
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,22.29,13.8
+49,SRHQ.K,SRH US Quality ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,19.84,14.85
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,19.41,16.35
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,21.57,16.33
+49,SRHQ.K,SRH US Quality ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,24,64,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,20.73,13.8
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,19.72,16.44
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,22.29,13.8
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,22.2,15.1
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,19.84,14.85
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,20.57,15.96
+49,XNAV.K,FundX Aggressive ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,44,79,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,19.72,16.44
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,23.02,13.94
+49,SRHR.K,SRH REIT Covered Call ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,21.42,16.63
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,21.61,13.76
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,21.42,16.63
+49,SRHQ.K,SRH US Quality ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,19.84,14.85
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,19.41,16.35
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,21.61,13.76
+49,XNAV.K,FundX Aggressive ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,120,14,24,54,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,22.2,15.1
+49,STRV.K,Strive 500 ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,22.2,15.1
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,44,54,1.0,10.0,0.0,0.0,18.99,15.83
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,23.91,14.92
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,19.74,16.07
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,22.09,14.7
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,19.64,15.4
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,21.66,17.81
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,20.63,17.79
+49,STRV.K,Strive 500 ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,39,54,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,22.72,15.19
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,19.74,16.07
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,20.63,17.79
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,19.64,15.4
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,20.63,16.53
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,22.09,14.7
+49,XCOR.K,FundX ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,22.72,15.19
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,39,59,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,19.73,15.38
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,19.82,15.22
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,19.74,16.07
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,19.73,15.38
+49,STRV.K,Strive 500 ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,22.2,15.1
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,21.66,17.81
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,22.29,13.8
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,20.73,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,34,74,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,20.63,17.79
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,21.57,16.33
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,20.73,13.8
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,21.66,17.81
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,22.09,14.7
+49,STRV.K,Strive 500 ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,22.2,15.1
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,20.63,17.79
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,34,79,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,20.63,17.79
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,19.82,15.22
+49,XCOR.K,FundX ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,22.72,15.19
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,20.47,14.32
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,22.4,14.42
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,20.63,16.53
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,19.73,15.38
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,39,74,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,21.97,15.1
+49,XCOR.K,FundX ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,22.72,15.19
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,19.73,15.38
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,22.4,14.42
+49,XCOR.K,FundX ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,22.72,15.19
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,19.82,15.22
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,21.71,14.39
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,20.47,14.32
+49,MEDI.K,Harbor Health Care ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,21.97,15.1
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,39,79,1.0,10.0,0.0,0.0,18.99,15.83
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,23.91,14.92
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,19.73,15.38
+49,XCOR.K,FundX ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,22.72,15.19
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,20.63,16.53
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,20.47,14.32
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,19.64,15.4
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,19.82,15.22
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,39,64,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,21.97,15.1
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,23.91,14.92
+49,GCAD.K,Gabelli Commercial Aerospace and Defense ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,19.82,15.22
+49,XCOR.K,FundX ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,22.72,15.19
+49,CZAR.O,Themes Natural Monopoly ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,19.73,15.38
+49,FDFF.O,Fidelity Disruptive Finance ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,23.91,14.92
+49,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,20.63,17.79
+49,COWS.O,Amplify Cash Flow Dividend Leaders ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,19.74,16.07
+49,EQTY.K,Kovitz Core Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,20.73,13.8
+49,USNZ.K,Xtrackers Net Zero Pathway Paris Aligned US Eq ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,21.57,16.33
+49,CSMD.K,Congress SMid Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,19.72,16.44
+49,SUPP.K,TCW Transform Supply Chain ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,20.57,15.96
+49,SPWO.K,SP Funds S&P World (ex-US) ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,23.02,13.94
+49,DFSE.K,Dimensional Emg Mkts Sustainability Core 1 ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,19.22,14.95
+49,PALC.K,Pacer Lunt Large Cap Multi-Factor Alternator ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,19.78,18.05
+49,MISL.K,First Trust Indxx Aerospace & Defense ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,21.71,14.39
+49,TMSL.K,T Rowe Price Small-Mid Cap ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,22.4,14.42
+49,DFSI.K,Dimensional Intl Sustainability Core 1 ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,20.47,14.32
+49,OSEA.K,Harbor International Compounders ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,20.63,16.53
+49,PBDC.K,Putnam BDC Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,19.64,15.4
+49,AVGE.K,Avantis All Equity Markets ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,22.09,14.7
+49,FFLC.K,Fidelity Fundamental Large Cap Core ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,21.66,17.81
+49,STRV.K,Strive 500 ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,22.2,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,22.29,13.8
+49,NRES.O,Xtrackers RREEF Global Natural Resources ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,21.61,13.76
+49,NBGR.K,Neuberger Berman Global Real Estate ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,19.41,16.35
+49,SRHQ.K,SRH US Quality ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,19.84,14.85
+49,SRHR.K,SRH REIT Covered Call ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,21.42,16.63
+49,XNAV.K,FundX Aggressive ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,24.0,15.99
+49,QMID.O,WisdomTree US MidCap Quality Growth Fund,5,60,14,39,69,1.0,10.0,0.0,0.0,18.99,15.83
+49,MEDI.K,Harbor Health Care ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,21.97,15.1
+49,BUFQ.K,FT Vest Laddered Nasdaq Buffer ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,22.29,13.8

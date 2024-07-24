@@ -1,0 +1,433 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,24,54,1.0,10.0,-33.74,-39.94,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,24,69,1.0,10.0,-33.74,-40.25,-32.15,65.15
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,24,69,1.0,10.0,-33.74,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,24,69,1.0,10.0,-33.74,0.0,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,24,69,1.0,10.0,-33.74,-40.25,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,24,74,1.0,10.0,-33.74,-39.94,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,24,74,1.0,10.0,-33.74,-40.25,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,24,74,1.0,10.0,-33.74,-43.99,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,24,74,1.0,10.0,-33.74,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,24,74,1.0,10.0,-33.74,0.0,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,24,74,1.0,10.0,-33.74,-40.25,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,24,79,1.0,10.0,-33.74,-39.94,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,24,79,1.0,10.0,-33.74,-40.25,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,24,79,1.0,10.0,-33.74,-43.99,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,24,79,1.0,10.0,-33.74,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,24,79,1.0,10.0,-33.74,0.0,-25.67,57.65
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,24,54,1.0,10.0,-33.74,-40.25,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,24,69,1.0,10.0,-33.74,-43.99,-34.08,60.9
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,24,79,1.0,10.0,-33.74,-40.25,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,24,69,1.0,10.0,-33.74,-39.94,-31.84,65.73
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,24,59,1.0,10.0,-33.74,-38.0,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,24,54,1.0,10.0,-33.74,-43.99,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,24,54,1.0,10.0,-33.74,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,24,54,1.0,10.0,-33.74,0.0,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,24,54,1.0,10.0,-33.74,-40.25,-31.88,59.99
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,24,59,1.0,10.0,-33.74,-40.25,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,24,59,1.0,10.0,-33.74,-43.99,-34.08,60.9
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,24,59,1.0,10.0,-33.74,-39.94,-31.84,65.73
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,24,59,1.0,10.0,-33.74,0.0,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,24,59,1.0,10.0,-33.74,-40.25,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,24,64,1.0,10.0,-33.74,-39.94,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,24,64,1.0,10.0,-33.74,-40.25,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,24,64,1.0,10.0,-33.74,-43.99,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,24,64,1.0,10.0,-33.74,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,24,64,1.0,10.0,-33.74,0.0,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,24,64,1.0,10.0,-33.74,-40.25,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,24,59,1.0,10.0,-34.69,0.0,-25.67,57.65
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,24,64,1.0,10.0,-34.69,0.0,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,24,64,1.0,10.0,-34.69,-37.9,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,24,64,1.0,10.0,-34.69,-45.78,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,24,64,1.0,10.0,-34.69,-40.28,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,24,64,1.0,10.0,-34.69,-40.24,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,24,59,1.0,10.0,-34.69,-43.95,-31.88,59.99
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,24,54,1.0,10.0,-34.69,-45.78,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,24,59,1.0,10.0,-34.69,-37.9,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,24,59,1.0,10.0,-34.69,-45.78,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,24,59,1.0,10.0,-34.69,-40.28,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,24,59,1.0,10.0,-34.69,-40.24,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,24,54,1.0,10.0,-34.69,-43.95,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,24,54,1.0,10.0,-34.69,0.0,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,24,54,1.0,10.0,-34.69,-37.9,-26.66,61.27
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,24,69,1.0,10.0,-34.69,-40.24,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,24,64,1.0,10.0,-34.69,-43.95,-31.88,59.99
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,24,74,1.0,10.0,-34.69,-45.78,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,24,69,1.0,10.0,-34.69,-40.28,-32.15,65.15
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,24,74,1.0,10.0,-34.69,-43.95,-31.88,59.99
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,24,79,1.0,10.0,-34.69,-43.95,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,24,79,1.0,10.0,-34.69,0.0,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,24,79,1.0,10.0,-34.69,-37.9,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,24,79,1.0,10.0,-34.69,-45.78,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,24,79,1.0,10.0,-34.69,-40.28,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,24,79,1.0,10.0,-34.69,-40.24,-31.84,65.73
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,24,74,1.0,10.0,-34.69,0.0,-25.67,57.65
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,24,69,1.0,10.0,-34.69,-45.78,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,24,74,1.0,10.0,-34.69,-37.9,-26.66,61.27
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,24,74,1.0,10.0,-34.69,-40.28,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,24,74,1.0,10.0,-34.69,-40.24,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,24,69,1.0,10.0,-34.69,-43.95,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,24,69,1.0,10.0,-34.69,0.0,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,24,69,1.0,10.0,-34.69,-37.9,-26.66,61.27
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,24,54,1.0,10.0,-34.69,-40.28,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,24,54,1.0,10.0,-34.69,-40.24,-31.84,65.73
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,29,79,1.0,10.0,-34.87,0.0,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,29,79,1.0,10.0,-34.87,-42.95,-31.88,59.99
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,29,64,1.0,10.0,-34.87,-38.0,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,29,64,1.0,10.0,-34.87,-43.58,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,29,64,1.0,10.0,-34.87,-42.42,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,29,64,1.0,10.0,-34.87,-42.26,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,29,59,1.0,10.0,-34.87,-42.95,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,29,59,1.0,10.0,-34.87,0.0,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,29,59,1.0,10.0,-34.87,-38.0,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,29,59,1.0,10.0,-34.87,-43.58,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,29,59,1.0,10.0,-34.87,-42.42,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,29,59,1.0,10.0,-34.87,-42.26,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,29,54,1.0,10.0,-34.87,-42.95,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,29,54,1.0,10.0,-34.87,0.0,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,29,54,1.0,10.0,-34.87,-38.0,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,29,54,1.0,10.0,-34.87,-43.58,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,29,54,1.0,10.0,-34.87,-42.42,-32.15,65.15
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,29,64,1.0,10.0,-34.87,0.0,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,29,64,1.0,10.0,-34.87,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,29,69,1.0,10.0,-34.87,-42.26,-31.84,65.73
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,29,74,1.0,10.0,-34.87,-38.0,-26.66,61.27
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,29,79,1.0,10.0,-34.87,-38.0,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,29,79,1.0,10.0,-34.87,-43.58,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,29,79,1.0,10.0,-34.87,-42.42,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,29,79,1.0,10.0,-34.87,-42.26,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,29,74,1.0,10.0,-34.87,-42.95,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,29,74,1.0,10.0,-34.87,0.0,-25.67,57.65
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,29,74,1.0,10.0,-34.87,-43.58,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,29,69,1.0,10.0,-34.87,-42.42,-32.15,65.15
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,29,74,1.0,10.0,-34.87,-42.42,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,29,74,1.0,10.0,-34.87,-42.26,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,29,69,1.0,10.0,-34.87,-42.95,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,29,69,1.0,10.0,-34.87,0.0,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,29,69,1.0,10.0,-34.87,-38.0,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,29,69,1.0,10.0,-34.87,-43.58,-34.08,60.9
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,29,54,1.0,10.0,-34.87,-42.26,-31.84,65.73
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,29,54,1.0,10.0,-35.12,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,29,69,1.0,10.0,-35.12,-43.46,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,29,54,1.0,10.0,-35.12,-44.56,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,29,69,1.0,10.0,-35.12,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,29,69,1.0,10.0,-35.12,0.0,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,29,69,1.0,10.0,-35.12,-41.51,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,29,74,1.0,10.0,-35.12,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,29,74,1.0,10.0,-35.12,-43.46,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,29,74,1.0,10.0,-35.12,-44.56,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,29,74,1.0,10.0,-35.12,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,29,74,1.0,10.0,-35.12,0.0,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,29,74,1.0,10.0,-35.12,-41.51,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,29,79,1.0,10.0,-35.12,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,29,79,1.0,10.0,-35.12,-43.46,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,29,79,1.0,10.0,-35.12,-44.56,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,29,79,1.0,10.0,-35.12,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,29,79,1.0,10.0,-35.12,0.0,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,29,79,1.0,10.0,-35.12,-41.51,-31.88,59.99
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,29,69,1.0,10.0,-35.12,-44.56,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,29,54,1.0,10.0,-35.12,-43.46,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,29,69,1.0,10.0,-35.12,-43.27,-31.84,65.73
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,29,59,1.0,10.0,-35.12,-37.9,-26.66,61.27
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,29,54,1.0,10.0,-35.12,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,29,54,1.0,10.0,-35.12,0.0,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,29,54,1.0,10.0,-35.12,-41.51,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,29,59,1.0,10.0,-35.12,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,29,59,1.0,10.0,-35.12,-43.46,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,29,59,1.0,10.0,-35.12,-44.56,-34.08,60.9
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,29,59,1.0,10.0,-35.12,0.0,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,29,64,1.0,10.0,-35.12,-41.51,-31.88,59.99
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,29,59,1.0,10.0,-35.12,-41.51,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,29,64,1.0,10.0,-35.12,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,29,64,1.0,10.0,-35.12,-43.46,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,29,64,1.0,10.0,-35.12,-44.56,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,29,64,1.0,10.0,-35.12,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,29,64,1.0,10.0,-35.12,0.0,-25.67,57.65
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,34,54,1.0,10.0,-39.83,-42.42,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,34,54,1.0,10.0,-39.83,-42.26,-31.84,65.73
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,34,79,1.0,10.0,-39.83,-27.99,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,34,64,1.0,10.0,-39.83,-42.95,-31.88,59.99
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,34,69,1.0,10.0,-39.83,-42.42,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,34,69,1.0,10.0,-39.83,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,34,69,1.0,10.0,-39.83,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,34,69,1.0,10.0,-39.83,-27.99,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,34,69,1.0,10.0,-39.83,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,34,74,1.0,10.0,-39.83,-42.26,-31.84,65.73
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,34,74,1.0,10.0,-39.83,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,34,74,1.0,10.0,-39.83,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,34,74,1.0,10.0,-39.83,-27.99,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,34,74,1.0,10.0,-39.83,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,34,79,1.0,10.0,-39.83,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,34,79,1.0,10.0,-39.83,-42.42,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,34,79,1.0,10.0,-39.83,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,34,79,1.0,10.0,-39.83,-38.0,-26.66,61.27
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,34,79,1.0,10.0,-39.83,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,34,69,1.0,10.0,-39.83,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,34,74,1.0,10.0,-39.83,-42.42,-32.15,65.15
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,34,64,1.0,10.0,-39.83,-27.99,-25.67,57.65
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,34,59,1.0,10.0,-39.83,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,34,64,1.0,10.0,-39.83,-38.0,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,34,54,1.0,10.0,-39.83,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,34,54,1.0,10.0,-39.83,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,34,54,1.0,10.0,-39.83,-27.99,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,34,54,1.0,10.0,-39.83,-42.95,-31.88,59.99
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,34,59,1.0,10.0,-39.83,-42.42,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,34,59,1.0,10.0,-39.83,-42.26,-31.84,65.73
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,34,59,1.0,10.0,-39.83,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,34,59,1.0,10.0,-39.83,-27.99,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,34,59,1.0,10.0,-39.83,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,34,64,1.0,10.0,-39.83,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,34,64,1.0,10.0,-39.83,-42.42,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,34,64,1.0,10.0,-39.83,-45.38,-34.08,60.9
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,39,69,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,39,74,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,39,69,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,39,69,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,39,69,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,39,69,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,39,69,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,39,74,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,39,79,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,39,74,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,39,74,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,39,74,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,39,74,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,39,79,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,39,79,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,39,79,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,39,64,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,39,64,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,44,54,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,39,64,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,39,64,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,44,54,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,39,79,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,39,54,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,39,54,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,39,54,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,39,54,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,39,54,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,39,59,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,39,59,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,39,59,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,39,59,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,39,59,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,39,59,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,39,64,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,39,64,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,39,79,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,39,54,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,44,54,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,49,54,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,44,69,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,44,69,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,44,74,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,44,74,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,44,74,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,44,74,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,44,74,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,44,74,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,44,79,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,44,79,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,44,79,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,44,79,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,44,79,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,44,79,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,49,54,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,44,69,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,44,69,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,44,69,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,44,59,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,44,54,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,44,54,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,44,54,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,44,59,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,44,59,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,44,59,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,44,59,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,44,64,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,44,59,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,44,64,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,44,64,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,44,64,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,44,64,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,44,64,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,49,54,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,44,69,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,49,54,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,49,74,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,49,69,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,49,69,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,49,69,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,49,74,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,49,74,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,49,74,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,49,74,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,49,69,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,49,74,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,49,79,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,49,79,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,49,79,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,49,79,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,49,79,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,49,69,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,49,79,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,49,69,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,49,59,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,49,64,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,49,54,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,49,54,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,49,59,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,49,59,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,49,59,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,49,59,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,60,14,49,59,1.0,10.0,-42.68,-42.95,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,60,14,49,64,1.0,10.0,-42.68,-42.26,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,60,14,49,64,1.0,10.0,-42.68,-42.42,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,60,14,49,64,1.0,10.0,-42.68,-45.38,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,60,14,49,64,1.0,10.0,-42.68,-38.0,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,60,14,49,64,1.0,10.0,-42.68,-45.06,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,39,59,1.0,10.0,-42.71,-37.9,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,39,64,1.0,10.0,-42.71,-46.58,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,39,64,1.0,10.0,-42.71,-43.46,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,39,64,1.0,10.0,-42.71,-43.27,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,39,59,1.0,10.0,-42.71,-41.51,-31.88,59.99
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,39,64,1.0,10.0,-42.71,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,39,59,1.0,10.0,-42.71,-43.52,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,39,54,1.0,10.0,-42.71,-37.9,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,39,59,1.0,10.0,-42.71,-46.58,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,39,59,1.0,10.0,-42.71,-43.46,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,39,59,1.0,10.0,-42.71,-43.27,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,39,54,1.0,10.0,-42.71,-41.51,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,39,54,1.0,10.0,-42.71,-43.52,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,39,64,1.0,10.0,-42.71,-41.51,-31.88,59.99
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,39,54,1.0,10.0,-42.71,-46.58,-34.08,60.9
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,39,64,1.0,10.0,-42.71,-43.52,-25.67,57.65
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,39,74,1.0,10.0,-42.71,-43.46,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,39,69,1.0,10.0,-42.71,-43.27,-31.84,65.73
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,39,74,1.0,10.0,-42.71,-43.52,-25.67,57.65
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,39,54,1.0,10.0,-42.71,-43.27,-31.84,65.73
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,39,79,1.0,10.0,-42.71,-37.9,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,39,79,1.0,10.0,-42.71,-46.58,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,39,79,1.0,10.0,-42.71,-43.46,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,39,79,1.0,10.0,-42.71,-43.27,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,39,74,1.0,10.0,-42.71,-41.51,-31.88,59.99
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,39,74,1.0,10.0,-42.71,-37.9,-26.66,61.27
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,39,69,1.0,10.0,-42.71,-43.46,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,39,74,1.0,10.0,-42.71,-46.58,-34.08,60.9
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,39,74,1.0,10.0,-42.71,-43.27,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,39,69,1.0,10.0,-42.71,-41.51,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,39,69,1.0,10.0,-42.71,-43.52,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,39,69,1.0,10.0,-42.71,-37.9,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,39,69,1.0,10.0,-42.71,-46.58,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,39,54,1.0,10.0,-42.71,-43.46,-32.15,65.15
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,39,79,1.0,10.0,-42.71,-43.52,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,39,79,1.0,10.0,-42.71,-41.51,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,49,54,1.0,10.0,-43.51,-43.27,-31.84,65.73
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,49,74,1.0,10.0,-43.51,-46.58,-34.08,60.9
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,49,69,1.0,10.0,-43.51,-46.58,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,49,69,1.0,10.0,-43.51,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,49,69,1.0,10.0,-43.51,-48.36,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,49,69,1.0,10.0,-43.51,-41.51,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,49,74,1.0,10.0,-43.51,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,49,74,1.0,10.0,-43.51,-43.46,-32.15,65.15
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,49,74,1.0,10.0,-43.51,-37.9,-26.66,61.27
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,49,54,1.0,10.0,-43.51,-43.46,-32.15,65.15
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,49,74,1.0,10.0,-43.51,-48.36,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,49,74,1.0,10.0,-43.51,-41.51,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,49,79,1.0,10.0,-43.51,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,49,79,1.0,10.0,-43.51,-43.46,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,49,79,1.0,10.0,-43.51,-46.58,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,49,79,1.0,10.0,-43.51,-37.9,-26.66,61.27
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,49,69,1.0,10.0,-43.51,-43.46,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,49,69,1.0,10.0,-43.51,-43.27,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,49,64,1.0,10.0,-43.51,-41.51,-31.88,59.99
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,49,59,1.0,10.0,-43.51,-46.58,-34.08,60.9
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,49,54,1.0,10.0,-43.51,-46.58,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,49,54,1.0,10.0,-43.51,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,49,54,1.0,10.0,-43.51,-48.36,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,49,54,1.0,10.0,-43.51,-41.51,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,49,59,1.0,10.0,-43.51,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,49,59,1.0,10.0,-43.51,-43.46,-32.15,65.15
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,49,59,1.0,10.0,-43.51,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,49,64,1.0,10.0,-43.51,-48.36,-25.67,57.65
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,49,59,1.0,10.0,-43.51,-48.36,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,49,59,1.0,10.0,-43.51,-41.51,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,49,64,1.0,10.0,-43.51,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,49,64,1.0,10.0,-43.51,-43.46,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,49,64,1.0,10.0,-43.51,-46.58,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,49,64,1.0,10.0,-43.51,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,49,79,1.0,10.0,-43.51,-48.36,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,49,79,1.0,10.0,-43.51,-41.51,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,44,54,1.0,10.0,-43.86,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,44,69,1.0,10.0,-43.86,-43.46,-32.15,65.15
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,44,69,1.0,10.0,-43.86,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,44,69,1.0,10.0,-43.86,-50.44,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,44,69,1.0,10.0,-43.86,-41.51,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,44,74,1.0,10.0,-43.86,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,44,74,1.0,10.0,-43.86,-43.46,-32.15,65.15
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,44,74,1.0,10.0,-43.86,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,44,74,1.0,10.0,-43.86,-50.44,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,44,74,1.0,10.0,-43.86,-41.51,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,44,79,1.0,10.0,-43.86,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,44,79,1.0,10.0,-43.86,-43.46,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,44,79,1.0,10.0,-43.86,-46.58,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,44,79,1.0,10.0,-43.86,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,44,79,1.0,10.0,-43.86,-50.44,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,44,79,1.0,10.0,-43.86,-41.51,-31.88,59.99
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,44,54,1.0,10.0,-43.86,-43.46,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,44,69,1.0,10.0,-43.86,-46.58,-34.08,60.9
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,44,74,1.0,10.0,-43.86,-46.58,-34.08,60.9
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,44,69,1.0,10.0,-43.86,-43.27,-31.84,65.73
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,44,59,1.0,10.0,-43.86,-37.9,-26.66,61.27
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,44,64,1.0,10.0,-43.86,-41.51,-31.88,59.99
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,44,54,1.0,10.0,-43.86,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,44,54,1.0,10.0,-43.86,-50.44,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,44,54,1.0,10.0,-43.86,-41.51,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,44,59,1.0,10.0,-43.86,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,44,59,1.0,10.0,-43.86,-43.46,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,44,59,1.0,10.0,-43.86,-46.58,-34.08,60.9
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,44,54,1.0,10.0,-43.86,-46.58,-34.08,60.9
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,44,59,1.0,10.0,-43.86,-50.44,-25.67,57.65
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,44,64,1.0,10.0,-43.86,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,44,64,1.0,10.0,-43.86,-43.46,-32.15,65.15
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,44,64,1.0,10.0,-43.86,-46.58,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,44,64,1.0,10.0,-43.86,-37.9,-26.66,61.27
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,44,64,1.0,10.0,-43.86,-50.44,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,44,59,1.0,10.0,-43.86,-41.51,-31.88,59.99
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,34,59,1.0,10.0,-46.53,-44.56,-34.08,60.9
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,34,64,1.0,10.0,-46.53,-37.9,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,34,64,1.0,10.0,-46.53,-44.56,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,34,64,1.0,10.0,-46.53,-43.46,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,34,64,1.0,10.0,-46.53,-43.27,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,34,59,1.0,10.0,-46.53,-41.51,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,34,59,1.0,10.0,-46.53,-68.47,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,34,59,1.0,10.0,-46.53,-37.9,-26.66,61.27
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,34,54,1.0,10.0,-46.53,-41.51,-31.88,59.99
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,34,59,1.0,10.0,-46.53,-43.46,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,34,59,1.0,10.0,-46.53,-43.27,-31.84,65.73
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,34,54,1.0,10.0,-46.53,-68.47,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,34,54,1.0,10.0,-46.53,-37.9,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,34,54,1.0,10.0,-46.53,-44.56,-34.08,60.9
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,34,54,1.0,10.0,-46.53,-43.27,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,34,64,1.0,10.0,-46.53,-41.51,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,34,64,1.0,10.0,-46.53,-68.47,-25.67,57.65
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,34,79,1.0,10.0,-46.53,-41.51,-31.88,59.99
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,34,69,1.0,10.0,-46.53,-43.27,-31.84,65.73
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,34,69,1.0,10.0,-46.53,-43.46,-32.15,65.15
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,34,79,1.0,10.0,-46.53,-68.47,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,34,79,1.0,10.0,-46.53,-37.9,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,34,79,1.0,10.0,-46.53,-44.56,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,34,79,1.0,10.0,-46.53,-43.46,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,34,79,1.0,10.0,-46.53,-43.27,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,34,74,1.0,10.0,-46.53,-41.51,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,34,74,1.0,10.0,-46.53,-68.47,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,34,74,1.0,10.0,-46.53,-37.9,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,34,74,1.0,10.0,-46.53,-44.56,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,34,74,1.0,10.0,-46.53,-43.46,-32.15,65.15
+143,TZA,Direxion Daily Small Cap Bear 3x Shares,5,120,14,34,74,1.0,10.0,-46.53,-43.27,-31.84,65.73
+143,SMDD.K,ProShares UltraPro Short MidCap400,5,120,14,34,69,1.0,10.0,-46.53,-41.51,-31.88,59.99
+143,KLNE.K,Direxion Daily Global Clean Energy Bull 2X Shares,5,120,14,34,69,1.0,10.0,-46.53,-68.47,-25.67,57.65
+143,DRV,Direxion Daily Real Estate Bear 3X Shares,5,120,14,34,69,1.0,10.0,-46.53,-37.9,-26.66,61.27
+143,FAZ,Direxion Daily Financial Bear 3x Shares,5,120,14,34,69,1.0,10.0,-46.53,-44.56,-34.08,60.9
+143,SRTY.K,ProShares UltraPro Short Russell2000,5,120,14,34,54,1.0,10.0,-46.53,-43.46,-32.15,65.15

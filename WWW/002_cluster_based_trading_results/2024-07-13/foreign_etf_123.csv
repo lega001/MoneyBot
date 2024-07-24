@@ -1,0 +1,1801 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+123,UFO.O,Procure Space ETF,5,120,14,49,54,1.0,10.0,2754.81,-6.71,-3.33,27.92
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,49,54,1.0,10.0,2754.81,26.67,-3.07,26.81
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,49,54,1.0,10.0,2754.81,8.68,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,49,54,1.0,10.0,2754.81,5.47,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,49,54,1.0,10.0,2754.81,-9.66,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,49,54,1.0,10.0,2754.81,-6.8,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,49,54,1.0,10.0,2754.81,16.56,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,120,14,49,54,1.0,10.0,2754.81,17.69,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,49,54,1.0,10.0,2754.81,0.98,-3.92,24.66
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,49,54,1.0,10.0,2754.81,17.93,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,49,54,1.0,10.0,2754.81,-4.56,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,49,54,1.0,10.0,2754.81,14.98,-1.65,24.77
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,49,54,1.0,10.0,2754.81,-1.12,-2.07,25.64
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,49,54,1.0,10.0,2754.81,166.85,-2.07,23.88
+123,CANE.K,Teucrium Sugar Fund,5,120,14,49,54,1.0,10.0,2754.81,-6.91,-2.9,24.27
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,49,54,1.0,10.0,2754.81,53.92,-3.41,27.23
+123,MLPA.K,Global X Mlp Etf,5,120,14,49,54,1.0,10.0,2754.81,-12.0,-0.98,27.92
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,49,54,1.0,10.0,2754.81,-2.52,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,49,54,1.0,10.0,2754.81,7.46,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,120,14,49,54,1.0,10.0,2754.81,-6.9,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,49,54,1.0,10.0,2754.81,-9.37,-0.74,27.79
+123,VNM,VanEck Vietnam ETF,5,120,14,49,54,1.0,10.0,2754.81,2.39,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,49,54,1.0,10.0,2754.81,-1.43,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,49,54,1.0,10.0,2754.81,-7.09,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,49,54,1.0,10.0,2754.81,68605.72,-3.05,27.8
+123,YXI,ProShares Short FTSE China 50,5,120,14,49,59,1.0,10.0,2748.52,-5.17,-3.88,26.63
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,49,59,1.0,10.0,2748.52,21.03,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,49,59,1.0,10.0,2748.52,-1.22,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,120,14,49,59,1.0,10.0,2748.52,-8.24,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,120,14,49,59,1.0,10.0,2748.52,10.76,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,49,59,1.0,10.0,2748.52,16.56,-2.34,25.49
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,49,59,1.0,10.0,2748.52,-4.19,-3.15,25.32
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,49,59,1.0,10.0,2748.52,-9.66,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,49,59,1.0,10.0,2748.52,5.47,-2.69,23.65
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,49,59,1.0,10.0,2748.52,8.68,-2.64,23.01
+123,MLPA.K,Global X Mlp Etf,5,120,14,49,59,1.0,10.0,2748.52,-8.02,-0.98,27.92
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,49,59,1.0,10.0,2748.52,12.94,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,49,59,1.0,10.0,2748.52,-0.44,-1.92,27.8
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,49,59,1.0,10.0,2748.52,26.2,-2.07,23.88
+123,ECH,iShares MSCI Chile ETF,5,120,14,49,59,1.0,10.0,2748.52,-7.36,-2.18,25.46
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,49,59,1.0,10.0,2748.52,26.67,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,120,14,49,59,1.0,10.0,2748.52,-3.79,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,49,59,1.0,10.0,2748.52,68605.72,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,49,59,1.0,10.0,2748.52,-7.28,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,49,59,1.0,10.0,2748.52,-10.07,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,49,59,1.0,10.0,2748.52,3.76,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,49,59,1.0,10.0,2748.52,53.92,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,49,59,1.0,10.0,2748.52,-8.22,-0.74,27.79
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,49,59,1.0,10.0,2748.52,-6.53,-1.84,26.63
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,49,59,1.0,10.0,2748.52,1.47,-2.07,25.64
+123,UFO.O,Procure Space ETF,5,120,14,49,64,1.0,10.0,2747.71,1.5,-3.33,27.92
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,49,64,1.0,10.0,2747.71,12.94,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,49,64,1.0,10.0,2747.71,1.31,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,49,64,1.0,10.0,2747.71,21.03,-1.22,25.08
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,49,64,1.0,10.0,2747.71,8.68,-2.64,23.01
+123,GXG,Global X MSCI Colombia ETF,5,120,14,49,64,1.0,10.0,2747.71,-8.22,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,120,14,49,64,1.0,10.0,2747.71,10.76,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,49,64,1.0,10.0,2747.71,9.92,-2.34,25.49
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,49,64,1.0,10.0,2747.71,6.76,-2.07,25.64
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,49,64,1.0,10.0,2747.71,-8.57,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,49,64,1.0,10.0,2747.71,-6.85,-3.88,26.63
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,49,64,1.0,10.0,2747.71,-9.5,-4.84,25.37
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,49,64,1.0,10.0,2747.71,19.8,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,120,14,49,64,1.0,10.0,2747.71,-2.81,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,49,64,1.0,10.0,2747.71,68605.72,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,49,64,1.0,10.0,2747.71,-7.76,-3.72,23.36
+123,VNM,VanEck Vietnam ETF,5,120,14,49,64,1.0,10.0,2747.71,2.16,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,49,64,1.0,10.0,2747.71,37.2,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,49,64,1.0,10.0,2747.71,-7.88,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,49,64,1.0,10.0,2747.71,-6.26,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,49,64,1.0,10.0,2747.71,-5.88,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,49,64,1.0,10.0,2747.71,-6.2,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,120,14,49,64,1.0,10.0,2747.71,-6.9,-0.98,27.92
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,49,64,1.0,10.0,2747.71,5.47,-2.69,23.65
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,49,64,1.0,10.0,2747.71,26.2,-2.07,23.88
+123,MLPA.K,Global X Mlp Etf,5,120,14,49,69,1.0,10.0,2746.16,-6.9,-0.98,27.92
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,49,69,1.0,10.0,2746.16,12.94,-1.65,24.77
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,49,69,1.0,10.0,2746.16,-6.2,-3.15,25.32
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,49,69,1.0,10.0,2746.16,8.68,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,49,69,1.0,10.0,2746.16,5.47,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,49,69,1.0,10.0,2746.16,-6.91,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,49,69,1.0,10.0,2746.16,-5.33,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,49,69,1.0,10.0,2746.16,9.92,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,120,14,49,69,1.0,10.0,2746.16,10.76,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,49,69,1.0,10.0,2746.16,-8.22,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,49,69,1.0,10.0,2746.16,2.24,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,49,69,1.0,10.0,2746.16,21.03,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,49,69,1.0,10.0,2746.16,2.7,-1.92,27.8
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,49,69,1.0,10.0,2746.16,26.2,-2.07,23.88
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,49,69,1.0,10.0,2746.16,4.56,-2.07,25.64
+123,VNM,VanEck Vietnam ETF,5,120,14,49,69,1.0,10.0,2746.16,4.09,-1.97,24.52
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,49,69,1.0,10.0,2746.16,19.8,-3.07,26.81
+123,ECH,iShares MSCI Chile ETF,5,120,14,49,69,1.0,10.0,2746.16,-5.66,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,49,69,1.0,10.0,2746.16,-6.0,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,49,69,1.0,10.0,2746.16,-5.87,-3.41,27.23
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,49,69,1.0,10.0,2746.16,-6.18,-1.84,26.63
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,49,69,1.0,10.0,2746.16,-9.5,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,49,69,1.0,10.0,2746.16,-7.76,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,49,69,1.0,10.0,2746.16,68605.72,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,120,14,49,69,1.0,10.0,2746.16,-5.5,-2.9,24.27
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,49,74,1.0,10.0,2745.69,8.68,-2.64,23.01
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,49,74,1.0,10.0,2745.69,26.2,-2.07,23.88
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,49,74,1.0,10.0,2745.69,5.47,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,49,74,1.0,10.0,2745.69,-4.3,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,49,74,1.0,10.0,2745.69,-5.33,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,49,74,1.0,10.0,2745.69,9.92,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,120,14,49,74,1.0,10.0,2745.69,10.76,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,49,74,1.0,10.0,2745.69,-8.22,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,49,74,1.0,10.0,2745.69,-5.55,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,49,74,1.0,10.0,2745.69,21.03,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,49,74,1.0,10.0,2745.69,5.64,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,49,74,1.0,10.0,2745.69,12.94,-1.65,24.77
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,49,74,1.0,10.0,2745.69,-7.76,-3.72,23.36
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,49,74,1.0,10.0,2745.69,-0.96,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,49,74,1.0,10.0,2745.69,19.8,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,120,14,49,74,1.0,10.0,2745.69,-1.19,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,49,74,1.0,10.0,2745.69,68605.72,-3.05,27.8
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,49,74,1.0,10.0,2745.69,-9.5,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,49,74,1.0,10.0,2745.69,-2.84,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,49,74,1.0,10.0,2745.69,-5.87,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,49,74,1.0,10.0,2745.69,-6.97,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,49,74,1.0,10.0,2745.69,-6.18,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,49,74,1.0,10.0,2745.69,-6.18,-1.84,26.63
+123,MLPA.K,Global X Mlp Etf,5,120,14,49,74,1.0,10.0,2745.69,-6.9,-0.98,27.92
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,49,74,1.0,10.0,2745.69,-6.2,-3.15,25.32
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,49,79,1.0,10.0,2745.22,8.68,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,49,79,1.0,10.0,2745.22,5.47,-2.69,23.65
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,49,79,1.0,10.0,2745.22,-0.15,-2.07,25.64
+123,MLPA.K,Global X Mlp Etf,5,120,14,49,79,1.0,10.0,2745.22,-6.9,-0.98,27.92
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,49,79,1.0,10.0,2745.22,-4.3,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,49,79,1.0,10.0,2745.22,-7.82,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,49,79,1.0,10.0,2745.22,9.92,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,120,14,49,79,1.0,10.0,2745.22,10.76,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,49,79,1.0,10.0,2745.22,-8.22,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,49,79,1.0,10.0,2745.22,-5.55,-3.33,27.92
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,49,79,1.0,10.0,2745.22,-4.49,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,49,79,1.0,10.0,2745.22,12.94,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,49,79,1.0,10.0,2745.22,26.2,-2.07,23.88
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,49,79,1.0,10.0,2745.22,21.03,-1.22,25.08
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,49,79,1.0,10.0,2745.22,19.8,-3.07,26.81
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,49,79,1.0,10.0,2745.22,-5.87,-3.41,27.23
+123,CANE.K,Teucrium Sugar Fund,5,120,14,49,79,1.0,10.0,2745.22,-1.19,-2.9,24.27
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,49,79,1.0,10.0,2745.22,-6.18,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,120,14,49,79,1.0,10.0,2745.22,-6.18,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,49,79,1.0,10.0,2745.22,-6.97,-0.74,27.79
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,49,79,1.0,10.0,2745.22,-6.2,-3.15,25.32
+123,VNM,VanEck Vietnam ETF,5,120,14,49,79,1.0,10.0,2745.22,-2.84,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,49,79,1.0,10.0,2745.22,-9.5,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,49,79,1.0,10.0,2745.22,-7.76,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,49,79,1.0,10.0,2745.22,68605.72,-3.05,27.8
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,34,54,1.0,10.0,7.74,0.0,-2.07,23.88
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,34,54,1.0,10.0,7.74,32.73,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,120,14,34,54,1.0,10.0,7.74,2.86,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,34,54,1.0,10.0,7.74,2.56,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,34,54,1.0,10.0,7.74,0.0,-3.41,27.23
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,34,54,1.0,10.0,7.74,-3.31,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,34,54,1.0,10.0,7.74,65.25,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,34,54,1.0,10.0,7.74,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,120,14,34,54,1.0,10.0,7.74,-3.43,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,34,54,1.0,10.0,7.74,26.67,-3.07,26.81
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,34,54,1.0,10.0,7.74,18.29,-2.07,25.64
+123,MLPA.K,Global X Mlp Etf,5,120,14,34,54,1.0,10.0,7.74,-7.02,-0.98,27.92
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,34,54,1.0,10.0,7.74,0.0,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,34,54,1.0,10.0,7.74,-4.56,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,34,54,1.0,10.0,7.74,0.0,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,34,54,1.0,10.0,7.74,32.48,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,120,14,34,54,1.0,10.0,7.74,16.21,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,120,14,34,54,1.0,10.0,7.74,18.59,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,34,54,1.0,10.0,7.74,0.0,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,120,14,34,54,1.0,10.0,7.74,3.34,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,34,54,1.0,10.0,7.74,-8.51,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,34,54,1.0,10.0,7.74,0.0,-2.69,23.65
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,34,54,1.0,10.0,7.74,0.0,-2.64,23.01
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,34,54,1.0,10.0,7.74,1.42,-3.15,25.32
+123,VNM,VanEck Vietnam ETF,5,120,14,34,54,1.0,10.0,7.74,0.0,-1.97,24.52
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,39,54,1.0,10.0,7.08,0.0,-2.69,23.65
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,39,54,1.0,10.0,7.08,26.67,-3.07,26.81
+123,MLPA.K,Global X Mlp Etf,5,120,14,39,54,1.0,10.0,7.08,-7.02,-0.98,27.92
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,39,54,1.0,10.0,7.08,8.68,-2.64,23.01
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,39,54,1.0,10.0,7.08,5.65,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,39,54,1.0,10.0,7.08,13.13,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,120,14,39,54,1.0,10.0,7.08,0.32,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,39,54,1.0,10.0,7.08,-8.85,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,39,54,1.0,10.0,7.08,0.0,-3.41,27.23
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,39,54,1.0,10.0,7.08,-2.41,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,39,54,1.0,10.0,7.08,65.25,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,39,54,1.0,10.0,7.08,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,120,14,39,54,1.0,10.0,7.08,-3.43,-2.9,24.27
+123,VNM,VanEck Vietnam ETF,5,120,14,39,54,1.0,10.0,7.08,2.62,-1.97,24.52
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,39,54,1.0,10.0,7.08,16.91,-2.07,25.64
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,39,54,1.0,10.0,7.08,17.29,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,39,54,1.0,10.0,7.08,-4.56,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,39,54,1.0,10.0,7.08,17.93,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,39,54,1.0,10.0,7.08,-6.71,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,120,14,39,54,1.0,10.0,7.08,10.76,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,120,14,39,54,1.0,10.0,7.08,18.59,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,39,54,1.0,10.0,7.08,16.56,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,120,14,39,54,1.0,10.0,7.08,-1.96,-3.88,26.63
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,39,54,1.0,10.0,7.08,0.0,-2.07,23.88
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,39,54,1.0,10.0,7.08,-8.51,-2.72,22.45
+123,VNM,VanEck Vietnam ETF,5,120,14,34,59,1.0,10.0,5.76,0.0,-1.97,24.52
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,34,59,1.0,10.0,5.76,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,34,59,1.0,10.0,5.76,54.4,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,34,59,1.0,10.0,5.76,-3.31,-4.84,25.37
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,34,59,1.0,10.0,5.76,3.52,-3.15,25.32
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,34,59,1.0,10.0,5.76,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,34,59,1.0,10.0,5.76,5.56,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,34,59,1.0,10.0,5.76,0.43,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,34,59,1.0,10.0,5.76,0.47,-1.84,26.63
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,34,59,1.0,10.0,5.76,26.67,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,120,14,34,59,1.0,10.0,5.76,0.07,-2.9,24.27
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,34,59,1.0,10.0,5.76,0.0,-2.69,23.65
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,34,59,1.0,10.0,5.76,13.24,-2.07,25.64
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,34,59,1.0,10.0,5.76,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,34,59,1.0,10.0,5.76,0.0,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,34,59,1.0,10.0,5.76,-0.44,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,34,59,1.0,10.0,5.76,0.0,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,34,59,1.0,10.0,5.76,51.21,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,120,14,34,59,1.0,10.0,5.76,-2.83,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,120,14,34,59,1.0,10.0,5.76,10.76,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,34,59,1.0,10.0,5.76,0.0,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,120,14,34,59,1.0,10.0,5.76,-3.78,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,34,59,1.0,10.0,5.76,-8.51,-2.72,22.45
+123,MLPA.K,Global X Mlp Etf,5,120,14,34,59,1.0,10.0,5.76,-3.51,-0.98,27.92
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,34,59,1.0,10.0,5.76,0.0,-2.64,23.01
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,29,54,1.0,10.0,5.74,-5.13,-2.07,25.64
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,29,54,1.0,10.0,5.74,61.57,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,60,14,29,54,1.0,10.0,5.74,3.45,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,29,54,1.0,10.0,5.74,-6.51,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,29,54,1.0,10.0,5.74,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,60,14,29,54,1.0,10.0,5.74,30.04,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,29,54,1.0,10.0,5.74,-1.13,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,29,54,1.0,10.0,5.74,0.0,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,29,54,1.0,10.0,5.74,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,29,54,1.0,10.0,5.74,-4.88,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,29,54,1.0,10.0,5.74,11.22,-3.07,26.81
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,29,54,1.0,10.0,5.74,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,29,54,1.0,10.0,5.74,0.0,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,29,54,1.0,10.0,5.74,-2.12,-1.92,27.8
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,29,54,1.0,10.0,5.74,41.6,-3.15,25.32
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,29,54,1.0,10.0,5.74,18.94,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,60,14,29,54,1.0,10.0,5.74,0.0,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,60,14,29,54,1.0,10.0,5.74,-1.92,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,60,14,29,54,1.0,10.0,5.74,16.45,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,29,54,1.0,10.0,5.74,0.0,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,60,14,29,54,1.0,10.0,5.74,-3.4,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,29,54,1.0,10.0,5.74,-8.52,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,29,54,1.0,10.0,5.74,0.0,-2.69,23.65
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,29,54,1.0,10.0,5.74,0.0,-2.64,23.01
+123,MLPA.K,Global X Mlp Etf,5,60,14,29,54,1.0,10.0,5.74,-6.04,-0.98,27.92
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,39,59,1.0,10.0,4.73,0.47,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,39,59,1.0,10.0,4.73,-4.47,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,120,14,39,59,1.0,10.0,4.73,-3.51,-0.98,27.92
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,39,59,1.0,10.0,4.73,0.0,-2.07,23.88
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,39,59,1.0,10.0,4.73,8.68,-2.64,23.01
+123,ECH,iShares MSCI Chile ETF,5,120,14,39,59,1.0,10.0,4.73,-1.43,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,39,59,1.0,10.0,4.73,-6.87,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,39,59,1.0,10.0,4.73,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,120,14,39,59,1.0,10.0,4.73,4.27,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,39,59,1.0,10.0,4.73,-13.15,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,39,59,1.0,10.0,4.73,54.4,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,39,59,1.0,10.0,4.73,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,120,14,39,59,1.0,10.0,4.73,0.07,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,39,59,1.0,10.0,4.73,26.67,-3.07,26.81
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,39,59,1.0,10.0,4.73,14.96,-2.07,25.64
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,39,59,1.0,10.0,4.73,14.13,-1.65,24.77
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,39,59,1.0,10.0,4.73,16.56,-2.34,25.49
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,39,59,1.0,10.0,4.73,-0.44,-1.92,27.8
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,39,59,1.0,10.0,4.73,-8.51,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,39,59,1.0,10.0,4.73,-6.06,-3.88,26.63
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,39,59,1.0,10.0,4.73,0.0,-2.69,23.65
+123,DINT.K,Davis Select International ETF,5,120,14,39,59,1.0,10.0,4.73,10.76,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,39,59,1.0,10.0,4.73,-7.99,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,39,59,1.0,10.0,4.73,-1.22,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,39,59,1.0,10.0,4.73,21.03,-1.22,25.08
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,39,54,1.0,10.0,4.63,8.48,-1.84,26.63
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,39,54,1.0,10.0,4.63,-4.84,-2.07,25.64
+123,ECH,iShares MSCI Chile ETF,5,60,14,39,54,1.0,10.0,4.63,-6.15,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,39,54,1.0,10.0,4.63,-11.19,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,39,54,1.0,10.0,4.63,43.3,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,60,14,39,54,1.0,10.0,4.63,-1.41,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,39,54,1.0,10.0,4.63,0.01,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,39,54,1.0,10.0,4.63,-1.44,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,39,54,1.0,10.0,4.63,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,39,54,1.0,10.0,4.63,-4.88,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,39,54,1.0,10.0,4.63,11.22,-3.07,26.81
+123,UFO.O,Procure Space ETF,5,60,14,39,54,1.0,10.0,4.63,-10.87,-3.33,27.92
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,39,54,1.0,10.0,4.63,17.83,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,39,54,1.0,10.0,4.63,19.75,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,39,54,1.0,10.0,4.63,-1.52,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,39,54,1.0,10.0,4.63,6.48,-1.22,25.08
+123,GXG,Global X MSCI Colombia ETF,5,60,14,39,54,1.0,10.0,4.63,4.98,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,60,14,39,54,1.0,10.0,4.63,16.45,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,39,54,1.0,10.0,4.63,16.72,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,60,14,39,54,1.0,10.0,4.63,-5.26,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,39,54,1.0,10.0,4.63,-8.52,-2.72,22.45
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,39,54,1.0,10.0,4.63,12.12,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,39,54,1.0,10.0,4.63,21.55,-2.69,23.65
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,39,54,1.0,10.0,4.63,4.74,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,60,14,39,54,1.0,10.0,4.63,-11.77,-0.98,27.92
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,44,54,1.0,10.0,4.51,5.19,-3.15,25.32
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,44,54,1.0,10.0,4.51,19.75,-1.65,24.77
+123,ECH,iShares MSCI Chile ETF,5,60,14,44,54,1.0,10.0,4.51,-5.47,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,44,54,1.0,10.0,4.51,-9.76,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,44,54,1.0,10.0,4.51,43.3,-3.41,27.23
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,44,54,1.0,10.0,4.51,0.01,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,44,54,1.0,10.0,4.51,-4.74,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,44,54,1.0,10.0,4.51,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,44,54,1.0,10.0,4.51,-8.89,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,44,54,1.0,10.0,4.51,11.22,-3.07,26.81
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,44,54,1.0,10.0,4.51,-1.36,-2.07,25.64
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,44,54,1.0,10.0,4.51,-1.52,-1.92,27.8
+123,MLPA.K,Global X Mlp Etf,5,60,14,44,54,1.0,10.0,4.51,-11.77,-0.98,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,44,54,1.0,10.0,4.51,6.48,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,60,14,44,54,1.0,10.0,4.51,-5.03,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,60,14,44,54,1.0,10.0,4.51,2.92,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,60,14,44,54,1.0,10.0,4.51,16.1,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,44,54,1.0,10.0,4.51,16.72,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,60,14,44,54,1.0,10.0,4.51,-6.61,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,44,54,1.0,10.0,4.51,-9.24,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,44,54,1.0,10.0,4.51,21.55,-2.69,23.65
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,44,54,1.0,10.0,4.51,12.12,-2.64,23.01
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,44,54,1.0,10.0,4.51,8.18,-1.84,26.63
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,44,54,1.0,10.0,4.51,17.83,-2.07,23.88
+123,VNM,VanEck Vietnam ETF,5,60,14,44,54,1.0,10.0,4.51,-4.18,-1.97,24.52
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,44,54,1.0,10.0,4.39,5.47,-2.69,23.65
+123,YXI,ProShares Short FTSE China 50,5,120,14,44,54,1.0,10.0,4.39,-6.68,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,44,54,1.0,10.0,4.39,16.56,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,120,14,44,54,1.0,10.0,4.39,17.69,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,44,54,1.0,10.0,4.39,2.03,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,44,54,1.0,10.0,4.39,-6.71,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,44,54,1.0,10.0,4.39,17.93,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,44,54,1.0,10.0,4.39,-4.56,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,44,54,1.0,10.0,4.39,14.98,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,44,54,1.0,10.0,4.39,0.0,-2.07,23.88
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,44,54,1.0,10.0,4.39,-0.13,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,44,54,1.0,10.0,4.39,26.67,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,120,14,44,54,1.0,10.0,4.39,-6.91,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,44,54,1.0,10.0,4.39,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,44,54,1.0,10.0,4.39,-7.68,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,44,54,1.0,10.0,4.39,-2.41,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,44,54,1.0,10.0,4.39,1.15,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,44,54,1.0,10.0,4.39,53.92,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,44,54,1.0,10.0,4.39,-10.91,-0.74,27.79
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,44,54,1.0,10.0,4.39,8.68,-2.64,23.01
+123,ECH,iShares MSCI Chile ETF,5,120,14,44,54,1.0,10.0,4.39,-6.13,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,44,54,1.0,10.0,4.39,7.32,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,44,54,1.0,10.0,4.39,6.02,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,120,14,44,54,1.0,10.0,4.39,-7.02,-0.98,27.92
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,44,54,1.0,10.0,4.39,-9.66,-2.72,22.45
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,34,54,1.0,10.0,3.95,0.0,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,34,54,1.0,10.0,3.95,0.0,-2.69,23.65
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,34,54,1.0,10.0,3.95,41.87,-1.84,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,34,54,1.0,10.0,3.95,-8.52,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,34,54,1.0,10.0,3.95,0.27,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,34,54,1.0,10.0,3.95,0.0,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,34,54,1.0,10.0,3.95,16.45,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,60,14,34,54,1.0,10.0,3.95,-1.15,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,60,14,34,54,1.0,10.0,3.95,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,34,54,1.0,10.0,3.95,6.48,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,34,54,1.0,10.0,3.95,-1.52,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,34,54,1.0,10.0,3.95,0.0,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,34,54,1.0,10.0,3.95,0.0,-2.07,23.88
+123,MLPA.K,Global X Mlp Etf,5,60,14,34,54,1.0,10.0,3.95,-6.04,-0.98,27.92
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,34,54,1.0,10.0,3.95,-5.13,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,34,54,1.0,10.0,3.95,11.22,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,60,14,34,54,1.0,10.0,3.95,-4.88,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,34,54,1.0,10.0,3.95,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,34,54,1.0,10.0,3.95,51.8,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,34,54,1.0,10.0,3.95,-1.13,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,60,14,34,54,1.0,10.0,3.95,5.5,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,34,54,1.0,10.0,3.95,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,34,54,1.0,10.0,3.95,-11.19,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,60,14,34,54,1.0,10.0,3.95,-6.79,-2.18,25.46
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,34,54,1.0,10.0,3.95,11.63,-3.15,25.32
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,49,54,1.0,10.0,3.9,12.12,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,49,54,1.0,10.0,3.9,21.55,-2.69,23.65
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,49,54,1.0,10.0,3.9,11.22,-3.07,26.81
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,49,54,1.0,10.0,3.9,-9.22,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,49,54,1.0,10.0,3.9,-6.19,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,49,54,1.0,10.0,3.9,16.72,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,49,54,1.0,10.0,3.9,16.1,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,60,14,49,54,1.0,10.0,3.9,2.92,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,60,14,49,54,1.0,10.0,3.9,-11.42,-3.33,27.92
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,49,54,1.0,10.0,3.9,-6.85,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,49,54,1.0,10.0,3.9,19.75,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,49,54,1.0,10.0,3.9,17.83,-2.07,23.88
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,49,54,1.0,10.0,3.9,-0.52,-2.07,25.64
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,49,54,1.0,10.0,3.9,6.48,-1.22,25.08
+123,CANE.K,Teucrium Sugar Fund,5,60,14,49,54,1.0,10.0,3.9,-9.32,-2.9,24.27
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,49,54,1.0,10.0,3.9,-9.08,-0.74,27.79
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,49,54,1.0,10.0,3.9,0.0,-3.05,27.8
+123,MLPA.K,Global X Mlp Etf,5,60,14,49,54,1.0,10.0,3.9,-11.77,-0.98,27.92
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,49,54,1.0,10.0,3.9,3.56,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,49,54,1.0,10.0,3.9,5.83,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,60,14,49,54,1.0,10.0,3.9,-6.65,-2.18,25.46
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,49,54,1.0,10.0,3.9,43.3,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,60,14,49,54,1.0,10.0,3.9,-2.84,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,49,54,1.0,10.0,3.9,1.12,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,49,54,1.0,10.0,3.9,-7.04,-3.72,23.36
+123,DINT.K,Davis Select International ETF,5,120,14,34,64,1.0,10.0,3.57,10.76,-1.46,23.65
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,34,64,1.0,10.0,3.57,0.0,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,34,64,1.0,10.0,3.57,1.31,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,34,64,1.0,10.0,3.57,0.0,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,34,64,1.0,10.0,3.57,59.52,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,120,14,34,64,1.0,10.0,3.57,-2.83,-3.92,24.66
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,34,64,1.0,10.0,3.57,0.0,-2.64,23.01
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,34,64,1.0,10.0,3.57,0.0,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,120,14,34,64,1.0,10.0,3.57,-3.78,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,34,64,1.0,10.0,3.57,-7.41,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,34,64,1.0,10.0,3.57,0.0,-2.69,23.65
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,34,64,1.0,10.0,3.57,16.9,-2.07,25.64
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,34,64,1.0,10.0,3.57,0.0,-2.07,23.88
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,34,64,1.0,10.0,3.57,19.8,-3.07,26.81
+123,MLPA.K,Global X Mlp Etf,5,120,14,34,64,1.0,10.0,3.57,-2.55,-0.98,27.92
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,34,64,1.0,10.0,3.57,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,34,64,1.0,10.0,3.57,-2.98,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,34,64,1.0,10.0,3.57,-3.31,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,34,64,1.0,10.0,3.57,0.0,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,34,64,1.0,10.0,3.57,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,34,64,1.0,10.0,3.57,5.94,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,34,64,1.0,10.0,3.57,1.94,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,34,64,1.0,10.0,3.57,1.09,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,34,64,1.0,10.0,3.57,-6.2,-3.15,25.32
+123,CANE.K,Teucrium Sugar Fund,5,120,14,34,64,1.0,10.0,3.57,1.14,-2.9,24.27
+123,VNM,VanEck Vietnam ETF,5,60,14,39,59,1.0,10.0,3.44,1.91,-1.97,24.52
+123,CANE.K,Teucrium Sugar Fund,5,60,14,39,59,1.0,10.0,3.44,-1.78,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,39,59,1.0,10.0,3.44,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,39,59,1.0,10.0,3.44,0.69,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,39,59,1.0,10.0,3.44,-12.6,-4.84,25.37
+123,DINT.K,Davis Select International ETF,5,60,14,39,59,1.0,10.0,3.44,10.31,-1.46,23.65
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,39,59,1.0,10.0,3.44,-4.4,-3.15,25.32
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,39,59,1.0,10.0,3.44,-9.61,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,60,14,39,59,1.0,10.0,3.44,-6.7,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,39,59,1.0,10.0,3.44,0.77,-1.84,26.63
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,39,59,1.0,10.0,3.44,-2.0,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,39,59,1.0,10.0,3.44,11.22,-3.07,26.81
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,39,59,1.0,10.0,3.44,43.3,-3.41,27.23
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,39,59,1.0,10.0,3.44,16.25,-2.07,23.88
+123,YXI,ProShares Short FTSE China 50,5,60,14,39,59,1.0,10.0,3.44,-5.93,-3.88,26.63
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,39,59,1.0,10.0,3.44,15.88,-1.65,24.77
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,39,59,1.0,10.0,3.44,12.12,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,39,59,1.0,10.0,3.44,21.55,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,39,59,1.0,10.0,3.44,-8.52,-2.72,22.45
+123,MLPA.K,Global X Mlp Etf,5,60,14,39,59,1.0,10.0,3.44,-7.85,-0.98,27.92
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,39,59,1.0,10.0,3.44,16.72,-2.34,25.49
+123,UFO.O,Procure Space ETF,5,60,14,39,59,1.0,10.0,3.44,-10.87,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,39,59,1.0,10.0,3.44,10.93,-1.22,25.08
+123,GXG,Global X MSCI Colombia ETF,5,60,14,39,59,1.0,10.0,3.44,-7.41,-3.92,24.66
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,39,59,1.0,10.0,3.44,2.07,-1.92,27.8
+123,GXG,Global X MSCI Colombia ETF,5,120,14,44,59,1.0,10.0,3.36,-7.99,-3.92,24.66
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,44,59,1.0,10.0,3.36,-0.44,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,44,59,1.0,10.0,3.36,21.03,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,44,59,1.0,10.0,3.36,-1.22,-3.33,27.92
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,44,59,1.0,10.0,3.36,16.56,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,120,14,44,59,1.0,10.0,3.36,10.76,-1.46,23.65
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,44,59,1.0,10.0,3.36,0.0,-2.07,23.88
+123,YXI,ProShares Short FTSE China 50,5,120,14,44,59,1.0,10.0,3.36,-6.34,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,44,59,1.0,10.0,3.36,-9.66,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,44,59,1.0,10.0,3.36,5.47,-2.69,23.65
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,44,59,1.0,10.0,3.36,8.68,-2.64,23.01
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,44,59,1.0,10.0,3.36,12.94,-1.65,24.77
+123,CANE.K,Teucrium Sugar Fund,5,120,14,44,59,1.0,10.0,3.36,-3.79,-2.9,24.27
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,44,59,1.0,10.0,3.36,3.17,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,44,59,1.0,10.0,3.36,26.67,-3.07,26.81
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,44,59,1.0,10.0,3.36,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,44,59,1.0,10.0,3.36,-4.92,-3.72,23.36
+123,VNM,VanEck Vietnam ETF,5,120,14,44,59,1.0,10.0,3.36,3.76,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,44,59,1.0,10.0,3.36,53.92,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,44,59,1.0,10.0,3.36,-9.29,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,44,59,1.0,10.0,3.36,-6.7,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,44,59,1.0,10.0,3.36,-7.57,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,44,59,1.0,10.0,3.36,-4.47,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,120,14,44,59,1.0,10.0,3.36,-3.51,-0.98,27.92
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,44,59,1.0,10.0,3.36,-13.15,-4.84,25.37
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,44,59,1.0,10.0,3.33,12.12,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,44,59,1.0,10.0,3.33,21.55,-2.69,23.65
+123,MLPA.K,Global X Mlp Etf,5,60,14,44,59,1.0,10.0,3.33,-7.85,-0.98,27.92
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,44,59,1.0,10.0,3.33,1.63,-2.07,25.64
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,44,59,1.0,10.0,3.33,-9.24,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,44,59,1.0,10.0,3.33,-6.67,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,44,59,1.0,10.0,3.33,16.72,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,44,59,1.0,10.0,3.33,10.31,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,60,14,44,59,1.0,10.0,3.33,-8.14,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,60,14,44,59,1.0,10.0,3.33,1.16,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,44,59,1.0,10.0,3.33,10.93,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,44,59,1.0,10.0,3.33,2.07,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,44,59,1.0,10.0,3.33,15.88,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,44,59,1.0,10.0,3.33,16.25,-2.07,23.88
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,44,59,1.0,10.0,3.33,-4.4,-3.15,25.32
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,44,59,1.0,10.0,3.33,11.22,-3.07,26.81
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,44,59,1.0,10.0,3.33,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,44,59,1.0,10.0,3.33,-2.71,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,44,59,1.0,10.0,3.33,-12.6,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,60,14,44,59,1.0,10.0,3.33,-1.11,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,44,59,1.0,10.0,3.33,43.3,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,44,59,1.0,10.0,3.33,-8.42,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,60,14,44,59,1.0,10.0,3.33,-6.7,-2.18,25.46
+123,CANE.K,Teucrium Sugar Fund,5,60,14,44,59,1.0,10.0,3.33,-6.14,-2.9,24.27
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,44,59,1.0,10.0,3.33,-5.96,-1.84,26.63
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,44,64,1.0,10.0,2.85,-12.6,-4.84,25.37
+123,CANE.K,Teucrium Sugar Fund,5,60,14,44,64,1.0,10.0,2.85,-5.26,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,44,64,1.0,10.0,2.85,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,44,64,1.0,10.0,2.85,-7.54,-3.72,23.36
+123,ECH,iShares MSCI Chile ETF,5,60,14,44,64,1.0,10.0,2.85,-5.56,-2.18,25.46
+123,VNM,VanEck Vietnam ETF,5,60,14,44,64,1.0,10.0,2.85,-1.27,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,44,64,1.0,10.0,2.85,32.23,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,44,64,1.0,10.0,2.85,-8.06,-0.74,27.79
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,44,64,1.0,10.0,2.85,6.58,-2.07,25.64
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,44,64,1.0,10.0,2.85,-5.35,-1.84,26.63
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,44,64,1.0,10.0,2.85,9.32,-3.07,26.81
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,44,64,1.0,10.0,2.85,10.93,-1.22,25.08
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,44,64,1.0,10.0,2.85,16.25,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,44,64,1.0,10.0,2.85,15.88,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,44,64,1.0,10.0,2.85,3.74,-1.92,27.8
+123,UFO.O,Procure Space ETF,5,60,14,44,64,1.0,10.0,2.85,4.21,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,60,14,44,64,1.0,10.0,2.85,-8.41,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,60,14,44,64,1.0,10.0,2.85,10.31,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,44,64,1.0,10.0,2.85,10.1,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,60,14,44,64,1.0,10.0,2.85,-6.67,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,44,64,1.0,10.0,2.85,-8.23,-2.72,22.45
+123,MLPA.K,Global X Mlp Etf,5,60,14,44,64,1.0,10.0,2.85,-6.75,-0.98,27.92
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,44,64,1.0,10.0,2.85,12.12,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,44,64,1.0,10.0,2.85,21.55,-2.69,23.65
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,44,64,1.0,10.0,2.85,-6.24,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,60,14,49,59,1.0,10.0,2.82,-7.85,-0.98,27.92
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,49,59,1.0,10.0,2.82,12.12,-2.64,23.01
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,49,59,1.0,10.0,2.82,-9.22,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,49,59,1.0,10.0,2.82,-4.38,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,49,59,1.0,10.0,2.82,16.72,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,49,59,1.0,10.0,2.82,10.31,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,60,14,49,59,1.0,10.0,2.82,-8.14,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,60,14,49,59,1.0,10.0,2.82,-6.04,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,49,59,1.0,10.0,2.82,10.93,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,49,59,1.0,10.0,2.82,-4.88,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,49,59,1.0,10.0,2.82,15.88,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,49,59,1.0,10.0,2.82,16.25,-2.07,23.88
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,49,59,1.0,10.0,2.82,1.63,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,49,59,1.0,10.0,2.82,11.22,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,60,14,49,59,1.0,10.0,2.82,-6.57,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,49,59,1.0,10.0,2.82,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,49,59,1.0,10.0,2.82,-6.13,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,49,59,1.0,10.0,2.82,-8.95,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,60,14,49,59,1.0,10.0,2.82,-1.32,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,49,59,1.0,10.0,2.82,43.3,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,49,59,1.0,10.0,2.82,-8.13,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,60,14,49,59,1.0,10.0,2.82,-7.73,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,49,59,1.0,10.0,2.82,-5.96,-1.84,26.63
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,49,59,1.0,10.0,2.82,21.55,-2.69,23.65
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,49,59,1.0,10.0,2.82,-4.12,-3.15,25.32
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,39,64,1.0,10.0,2.66,21.55,-2.69,23.65
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,39,64,1.0,10.0,2.66,4.03,-2.07,25.64
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,39,64,1.0,10.0,2.66,-7.49,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,39,64,1.0,10.0,2.66,-5.93,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,39,64,1.0,10.0,2.66,10.1,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,39,64,1.0,10.0,2.66,10.31,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,60,14,39,64,1.0,10.0,2.66,-8.41,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,60,14,39,64,1.0,10.0,2.66,-10.87,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,39,64,1.0,10.0,2.66,10.93,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,39,64,1.0,10.0,2.66,3.74,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,39,64,1.0,10.0,2.66,15.88,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,39,64,1.0,10.0,2.66,16.25,-2.07,23.88
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,39,64,1.0,10.0,2.66,9.32,-3.07,26.81
+123,MLPA.K,Global X Mlp Etf,5,60,14,39,64,1.0,10.0,2.66,-6.75,-0.98,27.92
+123,CANE.K,Teucrium Sugar Fund,5,60,14,39,64,1.0,10.0,2.66,-0.82,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,39,64,1.0,10.0,2.66,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,39,64,1.0,10.0,2.66,-7.54,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,39,64,1.0,10.0,2.66,-12.6,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,60,14,39,64,1.0,10.0,2.66,0.17,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,39,64,1.0,10.0,2.66,32.23,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,39,64,1.0,10.0,2.66,-9.2,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,60,14,39,64,1.0,10.0,2.66,-5.56,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,39,64,1.0,10.0,2.66,1.16,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,39,64,1.0,10.0,2.66,-6.24,-3.15,25.32
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,39,64,1.0,10.0,2.66,12.12,-2.64,23.01
+123,VNM,VanEck Vietnam ETF,5,120,14,34,69,1.0,10.0,2.63,0.0,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,34,69,1.0,10.0,2.63,-3.31,-4.84,25.37
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,34,69,1.0,10.0,2.63,16.9,-2.07,25.64
+123,MLPA.K,Global X Mlp Etf,5,120,14,34,69,1.0,10.0,2.63,-2.55,-0.98,27.92
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,34,69,1.0,10.0,2.63,-6.2,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,34,69,1.0,10.0,2.63,-6.09,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,120,14,34,69,1.0,10.0,2.63,2.8,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,34,69,1.0,10.0,2.63,7.92,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,34,69,1.0,10.0,2.63,0.0,-3.41,27.23
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,34,69,1.0,10.0,2.63,0.0,-2.64,23.01
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,34,69,1.0,10.0,2.63,-2.98,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,34,69,1.0,10.0,2.63,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,120,14,34,69,1.0,10.0,2.63,-5.5,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,34,69,1.0,10.0,2.63,19.8,-3.07,26.81
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,34,69,1.0,10.0,2.63,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,34,69,1.0,10.0,2.63,0.0,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,34,69,1.0,10.0,2.63,2.7,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,34,69,1.0,10.0,2.63,0.0,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,34,69,1.0,10.0,2.63,41.24,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,120,14,34,69,1.0,10.0,2.63,-2.83,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,120,14,34,69,1.0,10.0,2.63,10.76,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,34,69,1.0,10.0,2.63,0.0,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,120,14,34,69,1.0,10.0,2.63,-1.22,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,34,69,1.0,10.0,2.63,-5.71,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,34,69,1.0,10.0,2.63,0.0,-2.69,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,44,64,1.0,10.0,2.5,-8.22,-3.92,24.66
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,44,64,1.0,10.0,2.5,12.94,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,44,64,1.0,10.0,2.5,1.31,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,44,64,1.0,10.0,2.5,21.03,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,44,64,1.0,10.0,2.5,1.5,-3.33,27.92
+123,MLPA.K,Global X Mlp Etf,5,120,14,44,64,1.0,10.0,2.5,-2.55,-0.98,27.92
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,44,64,1.0,10.0,2.5,9.92,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,120,14,44,64,1.0,10.0,2.5,-6.34,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,44,64,1.0,10.0,2.5,-8.57,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,44,64,1.0,10.0,2.5,5.47,-2.69,23.65
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,44,64,1.0,10.0,2.5,8.68,-2.64,23.01
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,44,64,1.0,10.0,2.5,0.0,-2.07,23.88
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,44,64,1.0,10.0,2.5,8.49,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,44,64,1.0,10.0,2.5,19.8,-3.07,26.81
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,44,64,1.0,10.0,2.5,37.2,-3.41,27.23
+123,CANE.K,Teucrium Sugar Fund,5,120,14,44,64,1.0,10.0,2.5,-2.81,-2.9,24.27
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,44,64,1.0,10.0,2.5,-6.2,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,44,64,1.0,10.0,2.5,-6.76,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,120,14,44,64,1.0,10.0,2.5,-5.53,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,44,64,1.0,10.0,2.5,-8.87,-0.74,27.79
+123,DINT.K,Davis Select International ETF,5,120,14,44,64,1.0,10.0,2.5,10.76,-1.46,23.65
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,44,64,1.0,10.0,2.5,-13.15,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,44,64,1.0,10.0,2.5,-7.76,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,44,64,1.0,10.0,2.5,0.0,-3.05,27.8
+123,VNM,VanEck Vietnam ETF,5,120,14,44,64,1.0,10.0,2.5,2.16,-1.97,24.52
+123,MLPA.K,Global X Mlp Etf,5,60,14,49,64,1.0,10.0,2.36,-6.75,-0.98,27.92
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,49,64,1.0,10.0,2.36,16.25,-2.07,23.88
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,49,64,1.0,10.0,2.36,21.55,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,49,64,1.0,10.0,2.36,-8.21,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,49,64,1.0,10.0,2.36,-6.11,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,49,64,1.0,10.0,2.36,10.1,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,49,64,1.0,10.0,2.36,10.31,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,60,14,49,64,1.0,10.0,2.36,-8.41,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,60,14,49,64,1.0,10.0,2.36,-3.39,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,49,64,1.0,10.0,2.36,10.93,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,49,64,1.0,10.0,2.36,-3.42,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,49,64,1.0,10.0,2.36,15.88,-1.65,24.77
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,49,64,1.0,10.0,2.36,9.32,-3.07,26.81
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,49,64,1.0,10.0,2.36,6.58,-2.07,25.64
+123,CANE.K,Teucrium Sugar Fund,5,60,14,49,64,1.0,10.0,2.36,-5.69,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,49,64,1.0,10.0,2.36,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,49,64,1.0,10.0,2.36,-7.54,-3.72,23.36
+123,VNM,VanEck Vietnam ETF,5,60,14,49,64,1.0,10.0,2.36,-1.46,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,49,64,1.0,10.0,2.36,32.23,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,49,64,1.0,10.0,2.36,-7.8,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,60,14,49,64,1.0,10.0,2.36,-6.67,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,49,64,1.0,10.0,2.36,-5.35,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,49,64,1.0,10.0,2.36,-6.24,-3.15,25.32
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,49,64,1.0,10.0,2.36,-9.2,-4.84,25.37
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,49,64,1.0,10.0,2.36,12.12,-2.64,23.01
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,39,64,1.0,10.0,2.28,-6.2,-3.15,25.32
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,39,64,1.0,10.0,2.28,0.0,-2.07,23.88
+123,MLPA.K,Global X Mlp Etf,5,120,14,39,64,1.0,10.0,2.28,-2.55,-0.98,27.92
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,39,64,1.0,10.0,2.28,0.0,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,39,64,1.0,10.0,2.28,-7.41,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,39,64,1.0,10.0,2.28,-6.06,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,39,64,1.0,10.0,2.28,9.92,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,120,14,39,64,1.0,10.0,2.28,10.76,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,39,64,1.0,10.0,2.28,-8.22,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,39,64,1.0,10.0,2.28,1.5,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,39,64,1.0,10.0,2.28,21.03,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,39,64,1.0,10.0,2.28,1.31,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,39,64,1.0,10.0,2.28,14.13,-1.65,24.77
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,39,64,1.0,10.0,2.28,8.68,-2.64,23.01
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,39,64,1.0,10.0,2.28,20.27,-2.07,25.64
+123,CANE.K,Teucrium Sugar Fund,5,120,14,39,64,1.0,10.0,2.28,1.14,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,39,64,1.0,10.0,2.28,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,39,64,1.0,10.0,2.28,-2.98,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,39,64,1.0,10.0,2.28,-13.15,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,39,64,1.0,10.0,2.28,0.49,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,39,64,1.0,10.0,2.28,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,39,64,1.0,10.0,2.28,-6.4,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,39,64,1.0,10.0,2.28,-0.02,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,39,64,1.0,10.0,2.28,1.09,-1.84,26.63
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,39,64,1.0,10.0,2.28,19.8,-3.07,26.81
+123,GXG,Global X MSCI Colombia ETF,5,120,14,39,69,1.0,10.0,2.24,-8.22,-3.92,24.66
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,39,69,1.0,10.0,2.24,2.7,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,39,69,1.0,10.0,2.24,21.03,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,39,69,1.0,10.0,2.24,2.24,-3.33,27.92
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,39,69,1.0,10.0,2.24,0.0,-2.69,23.65
+123,DINT.K,Davis Select International ETF,5,120,14,39,69,1.0,10.0,2.24,10.76,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,39,69,1.0,10.0,2.24,9.92,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,120,14,39,69,1.0,10.0,2.24,-3.96,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,39,69,1.0,10.0,2.24,-5.71,-2.72,22.45
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,39,69,1.0,10.0,2.24,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,39,69,1.0,10.0,2.24,14.13,-1.65,24.77
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,39,69,1.0,10.0,2.24,-2.98,-3.72,23.36
+123,MLPA.K,Global X Mlp Etf,5,120,14,39,69,1.0,10.0,2.24,-2.55,-0.98,27.92
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,39,69,1.0,10.0,2.24,19.8,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,120,14,39,69,1.0,10.0,2.24,-5.5,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,39,69,1.0,10.0,2.24,0.0,-3.05,27.8
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,39,69,1.0,10.0,2.24,-13.15,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,39,69,1.0,10.0,2.24,1.71,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,39,69,1.0,10.0,2.24,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,39,69,1.0,10.0,2.24,-3.91,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,39,69,1.0,10.0,2.24,0.77,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,39,69,1.0,10.0,2.24,-6.09,-1.84,26.63
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,39,69,1.0,10.0,2.24,8.68,-2.64,23.01
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,39,69,1.0,10.0,2.24,22.53,-2.07,25.64
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,39,69,1.0,10.0,2.24,-6.2,-3.15,25.32
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,34,59,1.0,10.0,2.04,11.22,-3.07,26.81
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,34,59,1.0,10.0,2.04,2.12,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,34,59,1.0,10.0,2.04,4.48,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,60,14,34,59,1.0,10.0,2.04,-6.79,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,34,59,1.0,10.0,2.04,-9.61,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,34,59,1.0,10.0,2.04,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,60,14,34,59,1.0,10.0,2.04,6.48,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,34,59,1.0,10.0,2.04,-1.13,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,34,59,1.0,10.0,2.04,46.73,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,34,59,1.0,10.0,2.04,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,34,59,1.0,10.0,2.04,-1.78,-2.9,24.27
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,34,59,1.0,10.0,2.04,0.0,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,34,59,1.0,10.0,2.04,-8.52,-2.72,22.45
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,34,59,1.0,10.0,2.04,0.0,-2.64,23.01
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,34,59,1.0,10.0,2.04,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,34,59,1.0,10.0,2.04,0.0,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,34,59,1.0,10.0,2.04,2.07,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,34,59,1.0,10.0,2.04,10.93,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,60,14,34,59,1.0,10.0,2.04,0.0,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,60,14,34,59,1.0,10.0,2.04,-6.11,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,60,14,34,59,1.0,10.0,2.04,10.31,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,34,59,1.0,10.0,2.04,0.0,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,60,14,34,59,1.0,10.0,2.04,-4.22,-3.88,26.63
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,34,59,1.0,10.0,2.04,-2.43,-2.07,25.64
+123,MLPA.K,Global X Mlp Etf,5,60,14,34,59,1.0,10.0,2.04,-2.78,-0.98,27.92
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,44,69,1.0,10.0,1.54,12.12,-2.64,23.01
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,44,69,1.0,10.0,1.54,9.32,-3.07,26.81
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,44,69,1.0,10.0,1.54,21.55,-2.69,23.65
+123,MLPA.K,Global X Mlp Etf,5,60,14,44,69,1.0,10.0,1.54,-6.75,-0.98,27.92
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,44,69,1.0,10.0,1.54,-6.24,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,44,69,1.0,10.0,1.54,-5.87,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,60,14,44,69,1.0,10.0,1.54,-4.95,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,44,69,1.0,10.0,1.54,-6.12,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,44,69,1.0,10.0,1.54,-5.4,-3.41,27.23
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,44,69,1.0,10.0,1.54,-12.6,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,44,69,1.0,10.0,1.54,-7.54,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,44,69,1.0,10.0,1.54,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,44,69,1.0,10.0,1.54,-6.84,-2.9,24.27
+123,VNM,VanEck Vietnam ETF,5,60,14,44,69,1.0,10.0,1.54,0.48,-1.97,24.52
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,44,69,1.0,10.0,1.54,4.26,-2.07,25.64
+123,GXG,Global X MSCI Colombia ETF,5,60,14,44,69,1.0,10.0,1.54,-8.41,-3.92,24.66
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,44,69,1.0,10.0,1.54,16.25,-2.07,23.88
+123,YXI,ProShares Short FTSE China 50,5,60,14,44,69,1.0,10.0,1.54,-4.94,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,44,69,1.0,10.0,1.54,10.1,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,44,69,1.0,10.0,1.54,10.31,-1.46,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,44,69,1.0,10.0,1.54,-6.67,-2.72,22.45
+123,UFO.O,Procure Space ETF,5,60,14,44,69,1.0,10.0,1.54,4.71,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,44,69,1.0,10.0,1.54,10.93,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,44,69,1.0,10.0,1.54,4.97,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,44,69,1.0,10.0,1.54,15.88,-1.65,24.77
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,29,59,1.0,10.0,1.43,-2.43,-2.07,25.64
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,29,59,1.0,10.0,1.43,3.51,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,29,59,1.0,10.0,1.43,-0.21,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,60,14,29,59,1.0,10.0,1.43,3.45,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,29,59,1.0,10.0,1.43,-4.05,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,29,59,1.0,10.0,1.43,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,60,14,29,59,1.0,10.0,1.43,14.44,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,29,59,1.0,10.0,1.43,-1.13,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,29,59,1.0,10.0,1.43,0.0,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,29,59,1.0,10.0,1.43,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,29,59,1.0,10.0,1.43,-1.78,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,29,59,1.0,10.0,1.43,11.22,-3.07,26.81
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,29,59,1.0,10.0,1.43,0.0,-2.64,23.01
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,29,59,1.0,10.0,1.43,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,29,59,1.0,10.0,1.43,0.0,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,29,59,1.0,10.0,1.43,-2.12,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,29,59,1.0,10.0,1.43,21.77,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,60,14,29,59,1.0,10.0,1.43,0.0,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,60,14,29,59,1.0,10.0,1.43,-6.11,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,60,14,29,59,1.0,10.0,1.43,10.31,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,29,59,1.0,10.0,1.43,0.0,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,60,14,29,59,1.0,10.0,1.43,0.09,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,29,59,1.0,10.0,1.43,-8.52,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,29,59,1.0,10.0,1.43,0.0,-2.69,23.65
+123,MLPA.K,Global X Mlp Etf,5,60,14,29,59,1.0,10.0,1.43,-2.78,-0.98,27.92
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,29,69,1.0,10.0,1.2,3.66,-2.07,25.64
+123,MLPA.K,Global X Mlp Etf,5,60,14,29,69,1.0,10.0,1.2,-1.88,-0.98,27.92
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,29,69,1.0,10.0,1.2,0.0,-1.65,24.77
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,29,69,1.0,10.0,1.2,-6.24,-3.15,25.32
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,29,69,1.0,10.0,1.2,0.0,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,29,69,1.0,10.0,1.2,0.0,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,29,69,1.0,10.0,1.2,-5.9,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,29,69,1.0,10.0,1.2,4.03,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,29,69,1.0,10.0,1.2,0.0,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,29,69,1.0,10.0,1.2,10.31,-1.46,23.65
+123,UFO.O,Procure Space ETF,5,60,14,29,69,1.0,10.0,1.2,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,29,69,1.0,10.0,1.2,21.77,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,29,69,1.0,10.0,1.2,-2.12,-1.92,27.8
+123,GXG,Global X MSCI Colombia ETF,5,60,14,29,69,1.0,10.0,1.2,-6.11,-3.92,24.66
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,29,69,1.0,10.0,1.2,0.0,-2.07,23.88
+123,VNM,VanEck Vietnam ETF,5,60,14,29,69,1.0,10.0,1.2,3.11,-1.97,24.52
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,29,69,1.0,10.0,1.2,9.32,-3.07,26.81
+123,ECH,iShares MSCI Chile ETF,5,60,14,29,69,1.0,10.0,1.2,8.94,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,29,69,1.0,10.0,1.2,-0.83,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,29,69,1.0,10.0,1.2,0.0,-3.41,27.23
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,29,69,1.0,10.0,1.2,-0.21,-1.84,26.63
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,29,69,1.0,10.0,1.2,-1.13,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,29,69,1.0,10.0,1.2,0.0,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,29,69,1.0,10.0,1.2,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,29,69,1.0,10.0,1.2,-6.84,-2.9,24.27
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,49,69,1.0,10.0,1.07,15.88,-1.65,24.77
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,49,69,1.0,10.0,1.07,12.12,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,49,69,1.0,10.0,1.07,21.55,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,49,69,1.0,10.0,1.07,-6.66,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,49,69,1.0,10.0,1.07,-4.58,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,49,69,1.0,10.0,1.07,10.1,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,49,69,1.0,10.0,1.07,10.31,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,60,14,49,69,1.0,10.0,1.07,-8.41,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,60,14,49,69,1.0,10.0,1.07,-2.18,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,49,69,1.0,10.0,1.07,10.93,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,49,69,1.0,10.0,1.07,-2.05,-1.92,27.8
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,49,69,1.0,10.0,1.07,-5.87,-1.84,26.63
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,49,69,1.0,10.0,1.07,16.25,-2.07,23.88
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,49,69,1.0,10.0,1.07,4.26,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,49,69,1.0,10.0,1.07,9.32,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,60,14,49,69,1.0,10.0,1.07,-7.2,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,49,69,1.0,10.0,1.07,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,49,69,1.0,10.0,1.07,-7.54,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,49,69,1.0,10.0,1.07,-9.2,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,60,14,49,69,1.0,10.0,1.07,0.28,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,49,69,1.0,10.0,1.07,-5.4,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,49,69,1.0,10.0,1.07,-5.96,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,60,14,49,69,1.0,10.0,1.07,-6.1,-2.18,25.46
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,49,69,1.0,10.0,1.07,-6.24,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,60,14,49,69,1.0,10.0,1.07,-6.75,-0.98,27.92
+123,MLPA.K,Global X Mlp Etf,5,60,14,39,69,1.0,10.0,1.06,-6.75,-0.98,27.92
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,39,69,1.0,10.0,1.06,21.55,-2.69,23.65
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,39,69,1.0,10.0,1.06,9.32,-3.07,26.81
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,39,69,1.0,10.0,1.06,-6.24,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,39,69,1.0,10.0,1.06,-5.87,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,60,14,39,69,1.0,10.0,1.06,-4.95,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,39,69,1.0,10.0,1.06,-6.97,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,39,69,1.0,10.0,1.06,-5.4,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,60,14,39,69,1.0,10.0,1.06,2.15,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,39,69,1.0,10.0,1.06,-12.6,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,39,69,1.0,10.0,1.06,-7.54,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,39,69,1.0,10.0,1.06,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,39,69,1.0,10.0,1.06,-6.84,-2.9,24.27
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,39,69,1.0,10.0,1.06,5.32,-2.07,25.64
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,39,69,1.0,10.0,1.06,12.12,-2.64,23.01
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,39,69,1.0,10.0,1.06,16.25,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,39,69,1.0,10.0,1.06,15.88,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,39,69,1.0,10.0,1.06,4.97,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,39,69,1.0,10.0,1.06,10.93,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,60,14,39,69,1.0,10.0,1.06,-10.87,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,60,14,39,69,1.0,10.0,1.06,-8.41,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,60,14,39,69,1.0,10.0,1.06,10.31,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,39,69,1.0,10.0,1.06,10.1,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,60,14,39,69,1.0,10.0,1.06,-4.03,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,39,69,1.0,10.0,1.06,-5.9,-2.72,22.45
+123,MLPA.K,Global X Mlp Etf,5,120,14,29,54,1.0,10.0,1.04,-7.02,-0.98,27.92
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,29,54,1.0,10.0,1.04,0.0,-3.15,25.32
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-2.69,23.65
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,120,14,29,54,1.0,10.0,1.04,2.88,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,29,54,1.0,10.0,1.04,-3.31,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,120,14,29,54,1.0,10.0,1.04,-3.43,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,29,54,1.0,10.0,1.04,26.67,-3.07,26.81
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-2.07,25.64
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,120,14,29,54,1.0,10.0,1.04,18.59,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,29,54,1.0,10.0,1.04,0.0,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,120,14,29,54,1.0,10.0,1.04,0.0,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,29,54,1.0,10.0,1.04,-8.51,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,44,74,1.0,10.0,1.03,21.55,-2.69,23.65
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,44,74,1.0,10.0,1.03,12.12,-2.64,23.01
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,44,74,1.0,10.0,1.03,-6.24,-3.15,25.32
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,44,74,1.0,10.0,1.03,0.02,-2.07,25.64
+123,MLPA.K,Global X Mlp Etf,5,60,14,44,74,1.0,10.0,1.03,-6.75,-0.98,27.92
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,44,74,1.0,10.0,1.03,-5.87,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,60,14,44,74,1.0,10.0,1.03,-6.43,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,44,74,1.0,10.0,1.03,-7.26,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,44,74,1.0,10.0,1.03,-5.4,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,60,14,44,74,1.0,10.0,1.03,-3.85,-1.97,24.52
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,44,74,1.0,10.0,1.03,-7.54,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,44,74,1.0,10.0,1.03,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,44,74,1.0,10.0,1.03,-2.67,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,44,74,1.0,10.0,1.03,9.32,-3.07,26.81
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,44,74,1.0,10.0,1.03,-12.6,-4.84,25.37
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,44,74,1.0,10.0,1.03,16.25,-2.07,23.88
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,44,74,1.0,10.0,1.03,7.79,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,44,74,1.0,10.0,1.03,10.93,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,60,14,44,74,1.0,10.0,1.03,-6.46,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,60,14,44,74,1.0,10.0,1.03,-8.41,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,60,14,44,74,1.0,10.0,1.03,10.31,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,44,74,1.0,10.0,1.03,10.1,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,60,14,44,74,1.0,10.0,1.03,-4.94,-3.88,26.63
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,44,74,1.0,10.0,1.03,15.88,-1.65,24.77
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,44,74,1.0,10.0,1.03,-4.22,-2.72,22.45
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,44,69,1.0,10.0,1.01,-13.15,-4.84,25.37
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,44,69,1.0,10.0,1.01,19.8,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,120,14,44,69,1.0,10.0,1.01,-5.5,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,44,69,1.0,10.0,1.01,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,44,69,1.0,10.0,1.01,-7.76,-3.72,23.36
+123,ECH,iShares MSCI Chile ETF,5,120,14,44,69,1.0,10.0,1.01,-4.9,-2.18,25.46
+123,VNM,VanEck Vietnam ETF,5,120,14,44,69,1.0,10.0,1.01,4.09,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,44,69,1.0,10.0,1.01,-5.87,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,44,69,1.0,10.0,1.01,-6.62,-0.74,27.79
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,44,69,1.0,10.0,1.01,12.94,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,44,69,1.0,10.0,1.01,0.0,-2.07,23.88
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,44,69,1.0,10.0,1.01,5.93,-2.07,25.64
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,44,69,1.0,10.0,1.01,2.7,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,44,69,1.0,10.0,1.01,21.03,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,44,69,1.0,10.0,1.01,2.24,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,120,14,44,69,1.0,10.0,1.01,-8.22,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,120,14,44,69,1.0,10.0,1.01,10.76,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,44,69,1.0,10.0,1.01,9.92,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,120,14,44,69,1.0,10.0,1.01,-4.42,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,44,69,1.0,10.0,1.01,-6.91,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,44,69,1.0,10.0,1.01,5.47,-2.69,23.65
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,44,69,1.0,10.0,1.01,8.68,-2.64,23.01
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,44,69,1.0,10.0,1.01,-6.2,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,44,69,1.0,10.0,1.01,-6.18,-1.84,26.63
+123,MLPA.K,Global X Mlp Etf,5,120,14,44,69,1.0,10.0,1.01,-2.55,-0.98,27.92
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-2.69,23.65
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,29,64,1.0,10.0,1.0,19.8,-3.07,26.81
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,29,64,1.0,10.0,1.0,0.0,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,120,14,29,64,1.0,10.0,1.0,6.56,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,29,64,1.0,10.0,1.0,-3.31,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,120,14,29,64,1.0,10.0,1.0,1.14,-2.9,24.27
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-2.07,25.64
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-2.64,23.01
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,120,14,29,64,1.0,10.0,1.0,10.76,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,120,14,29,64,1.0,10.0,1.0,0.0,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,29,64,1.0,10.0,1.0,-7.41,-2.72,22.45
+123,MLPA.K,Global X Mlp Etf,5,120,14,29,64,1.0,10.0,1.0,-2.55,-0.98,27.92
+123,MLPA.K,Global X Mlp Etf,5,120,14,29,59,1.0,10.0,1.0,-3.51,-0.98,27.92
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,29,59,1.0,10.0,1.0,0.0,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-1.84,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,29,59,1.0,10.0,1.0,-8.51,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,29,59,1.0,10.0,1.0,0.0,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,120,14,29,59,1.0,10.0,1.0,10.76,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-2.07,23.88
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-2.07,25.64
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-2.64,23.01
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,29,59,1.0,10.0,1.0,26.67,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,120,14,29,59,1.0,10.0,1.0,0.07,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,29,59,1.0,10.0,1.0,-3.31,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,29,59,1.0,10.0,1.0,0.0,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,29,59,1.0,10.0,1.0,2.88,-2.18,25.46
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,29,64,1.0,10.0,1.0,0.0,-2.69,23.65
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,29,64,1.0,10.0,0.97,3.66,-2.07,25.64
+123,MLPA.K,Global X Mlp Etf,5,60,14,29,64,1.0,10.0,0.97,-1.88,-0.98,27.92
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,39,74,1.0,10.0,0.97,8.68,-2.64,23.01
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,39,74,1.0,10.0,0.97,-3.14,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,39,74,1.0,10.0,0.97,-3.96,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,39,74,1.0,10.0,0.97,9.92,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,120,14,39,74,1.0,10.0,0.97,10.76,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,39,74,1.0,10.0,0.97,-8.22,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,39,74,1.0,10.0,0.97,-5.55,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,39,74,1.0,10.0,0.97,21.03,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,39,74,1.0,10.0,0.97,5.64,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,39,74,1.0,10.0,0.97,14.13,-1.65,24.77
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,29,64,1.0,10.0,0.97,-6.24,-3.15,25.32
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,39,74,1.0,10.0,0.97,0.08,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,39,74,1.0,10.0,0.97,19.8,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,120,14,39,74,1.0,10.0,0.97,-1.19,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,39,74,1.0,10.0,0.97,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,39,74,1.0,10.0,0.97,-2.98,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,39,74,1.0,10.0,0.97,-13.15,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,39,74,1.0,10.0,0.97,-2.84,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,39,74,1.0,10.0,0.97,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,39,74,1.0,10.0,0.97,-4.91,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,39,74,1.0,10.0,0.97,-5.04,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,39,74,1.0,10.0,0.97,-6.09,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,39,74,1.0,10.0,0.97,-6.2,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,120,14,39,74,1.0,10.0,0.97,-2.55,-0.98,27.92
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,39,74,1.0,10.0,0.97,0.0,-2.69,23.65
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,39,74,1.0,10.0,0.97,0.0,-2.07,23.88
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,29,64,1.0,10.0,0.97,-0.21,-1.84,26.63
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,29,64,1.0,10.0,0.97,0.0,-2.07,23.88
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,29,64,1.0,10.0,0.97,0.0,-2.64,23.01
+123,ECH,iShares MSCI Chile ETF,5,60,14,29,64,1.0,10.0,0.97,7.0,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,29,64,1.0,10.0,0.97,-3.53,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,29,64,1.0,10.0,0.97,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,60,14,29,64,1.0,10.0,0.97,1.63,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,29,64,1.0,10.0,0.97,-1.13,-4.84,25.37
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,29,64,1.0,10.0,0.97,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,29,64,1.0,10.0,0.97,-0.82,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,29,64,1.0,10.0,0.97,9.32,-3.07,26.81
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,29,64,1.0,10.0,0.97,0.0,-3.72,23.36
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,29,64,1.0,10.0,0.97,0.0,-1.65,24.77
+123,GXG,Global X MSCI Colombia ETF,5,60,14,29,64,1.0,10.0,0.97,-6.11,-3.92,24.66
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,29,64,1.0,10.0,0.97,-7.49,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,29,64,1.0,10.0,0.97,0.09,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,29,64,1.0,10.0,0.97,0.0,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,29,64,1.0,10.0,0.97,10.31,-1.46,23.65
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,29,64,1.0,10.0,0.97,0.0,-2.69,23.65
+123,UFO.O,Procure Space ETF,5,60,14,29,64,1.0,10.0,0.97,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,29,64,1.0,10.0,0.97,21.77,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,29,64,1.0,10.0,0.97,-2.12,-1.92,27.8
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,39,74,1.0,10.0,0.9,16.25,-2.07,23.88
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,39,74,1.0,10.0,0.9,-5.87,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,60,14,39,74,1.0,10.0,0.9,-6.43,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,39,74,1.0,10.0,0.9,-7.26,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,39,74,1.0,10.0,0.9,-5.4,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,60,14,39,74,1.0,10.0,0.9,-3.85,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,39,74,1.0,10.0,0.9,-12.6,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,39,74,1.0,10.0,0.9,-7.54,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,39,74,1.0,10.0,0.9,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,39,74,1.0,10.0,0.9,-2.67,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,39,74,1.0,10.0,0.9,9.32,-3.07,26.81
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,39,74,1.0,10.0,0.9,-0.46,-2.07,25.64
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,39,74,1.0,10.0,0.9,12.12,-2.64,23.01
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,39,74,1.0,10.0,0.9,15.88,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,39,74,1.0,10.0,0.9,7.79,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,39,74,1.0,10.0,0.9,10.93,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,60,14,39,74,1.0,10.0,0.9,-10.87,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,60,14,39,74,1.0,10.0,0.9,-8.41,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,60,14,39,74,1.0,10.0,0.9,10.31,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,39,74,1.0,10.0,0.9,10.1,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,60,14,39,74,1.0,10.0,0.9,-4.03,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,39,74,1.0,10.0,0.9,-3.45,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,39,74,1.0,10.0,0.9,21.55,-2.69,23.65
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,39,74,1.0,10.0,0.9,-6.24,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,60,14,39,74,1.0,10.0,0.9,-6.75,-0.98,27.92
+123,MLPA.K,Global X Mlp Etf,5,60,14,24,54,1.0,10.0,0.89,-6.04,-0.98,27.92
+123,DINT.K,Davis Select International ETF,5,60,14,24,54,1.0,10.0,0.89,16.45,-1.46,23.65
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-2.07,23.88
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,24,54,1.0,10.0,0.89,0.0,-3.15,25.32
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,24,54,1.0,10.0,0.89,-8.52,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,24,54,1.0,10.0,0.89,-1.92,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-2.34,25.49
+123,GXG,Global X MSCI Colombia ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-1.22,25.08
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,24,54,1.0,10.0,0.89,-2.12,-1.92,27.8
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-2.07,25.64
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,24,54,1.0,10.0,0.89,-1.13,-4.84,25.37
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-3.41,27.23
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-3.07,26.81
+123,VNM,VanEck Vietnam ETF,5,60,14,24,54,1.0,10.0,0.89,30.04,-1.97,24.52
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,24,54,1.0,10.0,0.89,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,24,54,1.0,10.0,0.89,-4.6,-2.9,24.27
+123,CANE.K,Teucrium Sugar Fund,5,120,14,29,69,1.0,10.0,0.88,-5.5,-2.9,24.27
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-3.41,27.23
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,29,69,1.0,10.0,0.88,-3.31,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-1.97,24.52
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-2.34,25.49
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,29,69,1.0,10.0,0.88,8.55,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,29,69,1.0,10.0,0.88,0.0,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,120,14,29,69,1.0,10.0,0.88,-2.55,-0.98,27.92
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,29,69,1.0,10.0,0.88,19.8,-3.07,26.81
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-2.64,23.01
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,120,14,29,69,1.0,10.0,0.88,10.76,-1.46,23.65
+123,YXI,ProShares Short FTSE China 50,5,120,14,29,69,1.0,10.0,0.88,0.0,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,29,69,1.0,10.0,0.88,-5.71,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,29,69,1.0,10.0,0.88,0.0,-2.69,23.65
+123,CANE.K,Teucrium Sugar Fund,5,60,14,49,74,1.0,10.0,0.87,-3.01,-2.9,24.27
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,49,74,1.0,10.0,0.87,-5.4,-3.41,27.23
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,49,74,1.0,10.0,0.87,9.32,-3.07,26.81
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,49,74,1.0,10.0,0.87,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,49,74,1.0,10.0,0.87,-7.54,-3.72,23.36
+123,VNM,VanEck Vietnam ETF,5,60,14,49,74,1.0,10.0,0.87,-3.85,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,49,74,1.0,10.0,0.87,-9.2,-4.84,25.37
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,49,74,1.0,10.0,0.87,-7.26,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,60,14,49,74,1.0,10.0,0.87,-6.43,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,49,74,1.0,10.0,0.87,-5.87,-1.84,26.63
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,49,74,1.0,10.0,0.87,16.25,-2.07,23.88
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,49,74,1.0,10.0,0.87,-6.24,-3.15,25.32
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,49,74,1.0,10.0,0.87,0.02,-2.07,25.64
+123,UFO.O,Procure Space ETF,5,60,14,49,74,1.0,10.0,0.87,-6.46,-3.33,27.92
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,49,74,1.0,10.0,0.87,15.88,-1.65,24.77
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,49,74,1.0,10.0,0.87,10.1,-2.34,25.49
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,49,74,1.0,10.0,0.87,0.49,-1.92,27.8
+123,MLPA.K,Global X Mlp Etf,5,60,14,49,74,1.0,10.0,0.87,-6.75,-0.98,27.92
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,49,74,1.0,10.0,0.87,21.55,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,49,74,1.0,10.0,0.87,-4.21,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,49,74,1.0,10.0,0.87,-4.58,-3.88,26.63
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,49,74,1.0,10.0,0.87,12.12,-2.64,23.01
+123,DINT.K,Davis Select International ETF,5,60,14,49,74,1.0,10.0,0.87,10.31,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,60,14,49,74,1.0,10.0,0.87,-8.41,-3.92,24.66
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,49,74,1.0,10.0,0.87,10.93,-1.22,25.08
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,34,74,1.0,10.0,0.68,0.0,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,34,74,1.0,10.0,0.68,-3.14,-2.72,22.45
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,34,74,1.0,10.0,0.68,19.8,-3.07,26.81
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,34,74,1.0,10.0,0.68,0.0,-2.64,23.01
+123,YXI,ProShares Short FTSE China 50,5,120,14,34,74,1.0,10.0,0.68,-1.22,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,34,74,1.0,10.0,0.68,0.0,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,120,14,34,74,1.0,10.0,0.68,10.76,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,34,74,1.0,10.0,0.68,-2.83,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,34,74,1.0,10.0,0.68,-5.55,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,34,74,1.0,10.0,0.68,0.0,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,34,74,1.0,10.0,0.68,5.64,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,34,74,1.0,10.0,0.68,0.0,-1.65,24.77
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,34,74,1.0,10.0,0.68,16.9,-2.07,25.64
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,34,74,1.0,10.0,0.68,0.0,-2.07,23.88
+123,CANE.K,Teucrium Sugar Fund,5,120,14,34,74,1.0,10.0,0.68,-1.19,-2.9,24.27
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,34,74,1.0,10.0,0.68,3.09,-0.74,27.79
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,34,74,1.0,10.0,0.68,0.0,-3.05,27.8
+123,MLPA.K,Global X Mlp Etf,5,120,14,34,74,1.0,10.0,0.68,-2.55,-0.98,27.92
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,34,74,1.0,10.0,0.68,-6.09,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,120,14,34,74,1.0,10.0,0.68,-4.2,-2.18,25.46
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,34,74,1.0,10.0,0.68,-6.2,-3.15,25.32
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,34,74,1.0,10.0,0.68,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,120,14,34,74,1.0,10.0,0.68,0.0,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,34,74,1.0,10.0,0.68,-3.31,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,34,74,1.0,10.0,0.68,-2.98,-3.72,23.36
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-2.69,23.65
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,29,74,1.0,10.0,0.65,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,29,74,1.0,10.0,0.65,-2.76,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,60,14,29,74,1.0,10.0,0.65,-4.06,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,29,74,1.0,10.0,0.65,-0.21,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,29,74,1.0,10.0,0.65,-6.24,-3.15,25.32
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,29,74,1.0,10.0,0.65,-1.13,-4.84,25.37
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-2.64,23.01
+123,UFO.O,Procure Space ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-3.33,27.92
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,29,79,1.0,10.0,0.65,-3.14,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,29,79,1.0,10.0,0.65,0.0,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-2.34,25.49
+123,GXG,Global X MSCI Colombia ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-3.92,24.66
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-1.65,24.77
+123,VNM,VanEck Vietnam ETF,5,60,14,29,74,1.0,10.0,0.65,-2.16,-1.97,24.52
+123,DINT.K,Davis Select International ETF,5,120,14,29,79,1.0,10.0,0.65,10.76,-1.46,23.65
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,29,74,1.0,10.0,0.65,0.0,-3.72,23.36
+123,GXG,Global X MSCI Colombia ETF,5,60,14,29,74,1.0,10.0,0.65,-6.11,-3.92,24.66
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-2.07,25.64
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,29,74,1.0,10.0,0.65,0.0,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,29,74,1.0,10.0,0.65,0.0,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,29,74,1.0,10.0,0.65,-3.45,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,29,74,1.0,10.0,0.65,4.03,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,29,74,1.0,10.0,0.65,0.0,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,29,74,1.0,10.0,0.65,10.31,-1.46,23.65
+123,UFO.O,Procure Space ETF,5,60,14,29,74,1.0,10.0,0.65,0.0,-3.33,27.92
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,29,74,1.0,10.0,0.65,0.0,-3.05,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,29,74,1.0,10.0,0.65,21.77,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,29,74,1.0,10.0,0.65,-2.12,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,29,74,1.0,10.0,0.65,0.0,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,29,74,1.0,10.0,0.65,0.0,-2.07,23.88
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,29,74,1.0,10.0,0.65,3.66,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,29,74,1.0,10.0,0.65,9.32,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,60,14,29,74,1.0,10.0,0.65,-2.67,-2.9,24.27
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-2.07,23.88
+123,VNM,VanEck Vietnam ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-1.97,24.52
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,29,79,1.0,10.0,0.65,19.8,-3.07,26.81
+123,GXG,Global X MSCI Colombia ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-3.92,24.66
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-2.07,23.88
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,29,74,1.0,10.0,0.65,19.8,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,120,14,29,74,1.0,10.0,0.65,-1.19,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,29,74,1.0,10.0,0.65,-3.31,-4.84,25.37
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,29,74,1.0,10.0,0.65,-4.2,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-1.84,26.63
+123,CANE.K,Teucrium Sugar Fund,5,120,14,29,79,1.0,10.0,0.65,-1.19,-2.9,24.27
+123,MLPA.K,Global X Mlp Etf,5,120,14,29,74,1.0,10.0,0.65,-2.55,-0.98,27.92
+123,MLPA.K,Global X Mlp Etf,5,60,14,29,74,1.0,10.0,0.65,-1.88,-0.98,27.92
+123,UFO.O,Procure Space ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-3.33,27.92
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,29,74,1.0,10.0,0.65,0.0,-3.15,25.32
+123,DINT.K,Davis Select International ETF,5,120,14,29,74,1.0,10.0,0.65,10.76,-1.46,23.65
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-1.84,26.63
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,29,79,1.0,10.0,0.65,-3.31,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-0.74,27.79
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,29,79,1.0,10.0,0.65,0.0,-3.05,27.8
+123,ECH,iShares MSCI Chile ETF,5,120,14,29,79,1.0,10.0,0.65,-4.2,-2.18,25.46
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,29,79,1.0,10.0,0.65,0.0,-3.15,25.32
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-2.34,25.49
+123,MLPA.K,Global X Mlp Etf,5,120,14,29,79,1.0,10.0,0.65,-2.55,-0.98,27.92
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,29,74,1.0,10.0,0.65,0.0,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,29,74,1.0,10.0,0.65,-3.14,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,29,74,1.0,10.0,0.65,0.0,-3.88,26.63
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,49,79,1.0,10.0,0.62,-5.4,-3.41,27.23
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,49,79,1.0,10.0,0.62,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,49,79,1.0,10.0,0.62,-7.54,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,49,79,1.0,10.0,0.62,-9.2,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,60,14,49,79,1.0,10.0,0.62,-3.85,-1.97,24.52
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,49,79,1.0,10.0,0.62,-6.24,-3.15,25.32
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,49,79,1.0,10.0,0.62,-7.26,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,60,14,49,79,1.0,10.0,0.62,-6.43,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,49,79,1.0,10.0,0.62,-5.87,-1.84,26.63
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,49,79,1.0,10.0,0.62,9.32,-3.07,26.81
+123,MLPA.K,Global X Mlp Etf,5,60,14,49,79,1.0,10.0,0.62,-6.75,-0.98,27.92
+123,CANE.K,Teucrium Sugar Fund,5,60,14,49,79,1.0,10.0,0.62,-3.01,-2.9,24.27
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,49,79,1.0,10.0,0.62,15.88,-1.65,24.77
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,49,79,1.0,10.0,0.62,0.83,-2.07,25.64
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,49,79,1.0,10.0,0.62,10.1,-2.34,25.49
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,49,79,1.0,10.0,0.62,16.25,-2.07,23.88
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,49,79,1.0,10.0,0.62,21.55,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,49,79,1.0,10.0,0.62,-4.21,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,49,79,1.0,10.0,0.62,-7.33,-3.88,26.63
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,49,79,1.0,10.0,0.62,12.12,-2.64,23.01
+123,DINT.K,Davis Select International ETF,5,60,14,49,79,1.0,10.0,0.62,10.31,-1.46,23.65
+123,UFO.O,Procure Space ETF,5,60,14,49,79,1.0,10.0,0.62,-6.46,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,49,79,1.0,10.0,0.62,10.93,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,49,79,1.0,10.0,0.62,-3.83,-1.92,27.8
+123,GXG,Global X MSCI Colombia ETF,5,60,14,49,79,1.0,10.0,0.62,-8.41,-3.92,24.66
+123,VNM,VanEck Vietnam ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-1.97,24.52
+123,CANE.K,Teucrium Sugar Fund,5,120,14,24,54,1.0,10.0,0.52,-5.51,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-4.84,25.37
+123,ECH,iShares MSCI Chile ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-2.18,25.46
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-0.74,27.79
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,24,54,1.0,10.0,0.52,0.0,-3.15,25.32
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-3.07,26.81
+123,MLPA.K,Global X Mlp Etf,5,120,14,24,54,1.0,10.0,0.52,0.0,-0.98,27.92
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-2.07,23.88
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-2.34,25.49
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,24,54,1.0,10.0,0.52,0.0,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,24,54,1.0,10.0,0.52,0.0,-3.88,26.63
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-1.65,24.77
+123,DINT.K,Davis Select International ETF,5,120,14,24,54,1.0,10.0,0.52,18.59,-1.46,23.65
+123,UFO.O,Procure Space ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-1.92,27.8
+123,GXG,Global X MSCI Colombia ETF,5,120,14,24,54,1.0,10.0,0.52,0.0,-3.92,24.66
+123,GXG,Global X MSCI Colombia ETF,5,120,14,44,74,1.0,10.0,0.51,-8.22,-3.92,24.66
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,44,74,1.0,10.0,0.51,12.94,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,44,74,1.0,10.0,0.51,5.64,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,44,74,1.0,10.0,0.51,21.03,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,44,74,1.0,10.0,0.51,-5.55,-3.33,27.92
+123,YXI,ProShares Short FTSE China 50,5,120,14,44,74,1.0,10.0,0.51,-4.42,-3.88,26.63
+123,DINT.K,Davis Select International ETF,5,120,14,44,74,1.0,10.0,0.51,10.76,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,44,74,1.0,10.0,0.51,9.92,-2.34,25.49
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,44,74,1.0,10.0,0.51,-4.3,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,44,74,1.0,10.0,0.51,5.47,-2.69,23.65
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,44,74,1.0,10.0,0.51,-0.13,-2.07,25.64
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,44,74,1.0,10.0,0.51,0.0,-2.07,23.88
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,44,74,1.0,10.0,0.51,8.68,-2.64,23.01
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,44,74,1.0,10.0,0.51,19.8,-3.07,26.81
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,44,74,1.0,10.0,0.51,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,44,74,1.0,10.0,0.51,-7.76,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,44,74,1.0,10.0,0.51,-13.15,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,44,74,1.0,10.0,0.51,-2.84,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,44,74,1.0,10.0,0.51,-5.87,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,44,74,1.0,10.0,0.51,-6.97,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,44,74,1.0,10.0,0.51,-6.18,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,44,74,1.0,10.0,0.51,-6.18,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,44,74,1.0,10.0,0.51,-6.2,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,120,14,44,74,1.0,10.0,0.51,-2.55,-0.98,27.92
+123,CANE.K,Teucrium Sugar Fund,5,120,14,44,74,1.0,10.0,0.51,-1.19,-2.9,24.27
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,44,79,1.0,10.0,0.5,-5.87,-1.84,26.63
+123,MLPA.K,Global X Mlp Etf,5,120,14,39,79,1.0,10.0,0.5,-2.55,-0.98,27.92
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,44,79,1.0,10.0,0.5,-6.24,-3.15,25.32
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,44,79,1.0,10.0,0.5,-5.4,-3.41,27.23
+123,ECH,iShares MSCI Chile ETF,5,60,14,44,79,1.0,10.0,0.5,-6.43,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,44,79,1.0,10.0,0.5,-7.26,-0.74,27.79
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,39,79,1.0,10.0,0.5,-6.09,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,39,79,1.0,10.0,0.5,-6.2,-3.15,25.32
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,39,79,1.0,10.0,0.5,-13.15,-4.84,25.37
+123,ECH,iShares MSCI Chile ETF,5,120,14,39,79,1.0,10.0,0.5,-5.04,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,39,79,1.0,10.0,0.5,-4.91,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,39,79,1.0,10.0,0.5,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,120,14,39,79,1.0,10.0,0.5,-2.84,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,44,79,1.0,10.0,0.5,-12.6,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,39,79,1.0,10.0,0.5,-2.98,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,39,79,1.0,10.0,0.5,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,120,14,39,79,1.0,10.0,0.5,-1.19,-2.9,24.27
+123,VNM,VanEck Vietnam ETF,5,60,14,44,79,1.0,10.0,0.5,-3.85,-1.97,24.52
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,44,79,1.0,10.0,0.5,16.25,-2.07,23.88
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,44,79,1.0,10.0,0.5,-7.54,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,44,79,1.0,10.0,0.5,0.0,-3.05,27.8
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,39,79,1.0,10.0,0.5,1.32,-2.07,25.64
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,44,79,1.0,10.0,0.5,12.12,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,44,79,1.0,10.0,0.5,21.55,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,44,79,1.0,10.0,0.5,-4.22,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,44,79,1.0,10.0,0.5,-7.33,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,44,79,1.0,10.0,0.5,10.1,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,44,79,1.0,10.0,0.5,10.31,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,60,14,44,79,1.0,10.0,0.5,-8.41,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,60,14,44,79,1.0,10.0,0.5,-6.46,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,44,79,1.0,10.0,0.5,10.93,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,44,79,1.0,10.0,0.5,-3.83,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,44,79,1.0,10.0,0.5,15.88,-1.65,24.77
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,44,79,1.0,10.0,0.5,0.83,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,44,79,1.0,10.0,0.5,9.32,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,60,14,44,79,1.0,10.0,0.5,-2.67,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,39,79,1.0,10.0,0.5,19.8,-3.07,26.81
+123,MLPA.K,Global X Mlp Etf,5,60,14,44,79,1.0,10.0,0.5,-6.75,-0.98,27.92
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,39,79,1.0,10.0,0.5,0.0,-2.07,23.88
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,39,79,1.0,10.0,0.5,9.92,-2.34,25.49
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,39,79,1.0,10.0,0.5,14.13,-1.65,24.77
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,39,79,1.0,10.0,0.5,0.0,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,39,79,1.0,10.0,0.5,-3.14,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,39,79,1.0,10.0,0.5,-6.93,-3.88,26.63
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,39,79,1.0,10.0,0.5,8.68,-2.64,23.01
+123,DINT.K,Davis Select International ETF,5,120,14,39,79,1.0,10.0,0.5,10.76,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,39,79,1.0,10.0,0.5,-8.22,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,39,79,1.0,10.0,0.5,-5.55,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,39,79,1.0,10.0,0.5,21.03,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,39,79,1.0,10.0,0.5,-4.49,-1.92,27.8
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-2.07,25.64
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,24,59,1.0,10.0,0.44,-8.52,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,24,59,1.0,10.0,0.44,1.61,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,24,59,1.0,10.0,0.44,10.31,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,24,59,1.0,10.0,0.44,-2.12,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-2.07,23.88
+123,VNM,VanEck Vietnam ETF,5,60,14,24,59,1.0,10.0,0.44,14.44,-1.97,24.52
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,60,14,24,59,1.0,10.0,0.44,-0.69,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,24,59,1.0,10.0,0.44,-1.13,-4.84,25.37
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-2.64,23.01
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,24,59,1.0,10.0,0.44,0.0,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,60,14,24,59,1.0,10.0,0.44,-2.78,-0.98,27.92
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,24,59,1.0,10.0,0.44,0.0,-2.69,23.65
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,29,79,1.0,10.0,0.44,0.0,-3.41,27.23
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,29,79,1.0,10.0,0.44,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,29,79,1.0,10.0,0.44,0.0,-1.65,24.77
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,29,79,1.0,10.0,0.44,0.0,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,29,79,1.0,10.0,0.44,0.0,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,29,79,1.0,10.0,0.44,-3.45,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,29,79,1.0,10.0,0.44,-3.07,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,29,79,1.0,10.0,0.44,0.0,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,29,79,1.0,10.0,0.44,10.31,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,60,14,29,79,1.0,10.0,0.44,-6.11,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,60,14,29,79,1.0,10.0,0.44,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,29,79,1.0,10.0,0.44,21.77,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,29,79,1.0,10.0,0.44,-2.12,-1.92,27.8
+123,MLPA.K,Global X Mlp Etf,5,60,14,29,79,1.0,10.0,0.44,-1.88,-0.98,27.92
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,29,79,1.0,10.0,0.44,-6.24,-3.15,25.32
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,29,79,1.0,10.0,0.44,5.51,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,29,79,1.0,10.0,0.44,9.32,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,60,14,29,79,1.0,10.0,0.44,-2.67,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,29,79,1.0,10.0,0.44,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,29,79,1.0,10.0,0.44,0.0,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,29,79,1.0,10.0,0.44,-1.13,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,60,14,29,79,1.0,10.0,0.44,-2.16,-1.97,24.52
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,29,79,1.0,10.0,0.44,-2.76,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,60,14,29,79,1.0,10.0,0.44,-4.06,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,29,79,1.0,10.0,0.44,-0.21,-1.84,26.63
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-2.69,23.65
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-2.64,23.01
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-2.07,25.64
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-2.64,23.01
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,24,74,1.0,10.0,0.38,0.0,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,24,74,1.0,10.0,0.38,0.0,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-2.34,25.49
+123,GXG,Global X MSCI Colombia ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-2.07,23.88
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,120,14,24,74,1.0,10.0,0.38,-1.19,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,24,74,1.0,10.0,0.38,0.0,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,120,14,24,74,1.0,10.0,0.38,0.0,-0.98,27.92
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,24,74,1.0,10.0,0.38,0.0,-2.69,23.65
+123,DINT.K,Davis Select International ETF,5,120,14,24,74,1.0,10.0,0.38,10.76,-1.46,23.65
+123,MLPA.K,Global X Mlp Etf,5,120,14,24,79,1.0,10.0,0.38,0.0,-0.98,27.92
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-3.07,26.81
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,24,79,1.0,10.0,0.38,0.0,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,24,79,1.0,10.0,0.38,0.0,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,120,14,24,79,1.0,10.0,0.38,10.76,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-1.22,25.08
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,24,79,1.0,10.0,0.38,0.0,-3.15,25.32
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-2.07,23.88
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-2.07,25.64
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-1.92,27.8
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-1.84,26.63
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,24,79,1.0,10.0,0.38,0.0,-2.18,25.46
+123,CANE.K,Teucrium Sugar Fund,5,120,14,24,79,1.0,10.0,0.38,-1.19,-2.9,24.27
+123,DINT.K,Davis Select International ETF,5,120,14,24,59,1.0,10.0,0.37,10.76,-1.46,23.65
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-3.92,24.66
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-2.64,23.01
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,120,14,24,59,1.0,10.0,0.37,0.0,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,24,59,1.0,10.0,0.37,0.0,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-2.69,23.65
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-1.65,24.77
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,39,79,1.0,10.0,0.37,21.55,-2.69,23.65
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,120,14,24,59,1.0,10.0,0.37,-1.51,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,24,59,1.0,10.0,0.37,0.0,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,24,64,1.0,10.0,0.37,0.0,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,120,14,24,64,1.0,10.0,0.37,0.0,-0.98,27.92
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,39,79,1.0,10.0,0.37,-3.45,-2.72,22.45
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-1.84,26.63
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-1.92,27.8
+123,MLPA.K,Global X Mlp Etf,5,120,14,24,59,1.0,10.0,0.37,0.0,-0.98,27.92
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,24,64,1.0,10.0,0.37,0.0,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,24,64,1.0,10.0,0.37,0.0,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,120,14,24,64,1.0,10.0,0.37,10.76,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-1.22,25.08
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-1.65,24.77
+123,ECH,iShares MSCI Chile ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-2.18,25.46
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-2.07,23.88
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,120,14,24,64,1.0,10.0,0.37,-1.51,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,24,64,1.0,10.0,0.37,0.0,-0.74,27.79
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,24,59,1.0,10.0,0.37,0.0,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,60,14,39,79,1.0,10.0,0.37,-6.75,-0.98,27.92
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,39,79,1.0,10.0,0.37,12.12,-2.64,23.01
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,39,79,1.0,10.0,0.37,9.32,-3.07,26.81
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,39,79,1.0,10.0,0.37,-6.24,-3.15,25.32
+123,ECH,iShares MSCI Chile ETF,5,60,14,39,79,1.0,10.0,0.37,-6.43,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,39,79,1.0,10.0,0.37,-7.26,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,39,79,1.0,10.0,0.37,-5.4,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,60,14,39,79,1.0,10.0,0.37,-3.85,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,39,79,1.0,10.0,0.37,-12.6,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,39,79,1.0,10.0,0.37,-7.54,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,39,79,1.0,10.0,0.37,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,39,79,1.0,10.0,0.37,-2.67,-2.9,24.27
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,39,79,1.0,10.0,0.37,-5.87,-1.84,26.63
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,39,79,1.0,10.0,0.37,0.61,-2.07,25.64
+123,GXG,Global X MSCI Colombia ETF,5,60,14,39,79,1.0,10.0,0.37,-8.41,-3.92,24.66
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,39,79,1.0,10.0,0.37,16.25,-2.07,23.88
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,39,79,1.0,10.0,0.37,10.1,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,39,79,1.0,10.0,0.37,10.31,-1.46,23.65
+123,YXI,ProShares Short FTSE China 50,5,60,14,39,79,1.0,10.0,0.37,-6.76,-3.88,26.63
+123,UFO.O,Procure Space ETF,5,60,14,39,79,1.0,10.0,0.37,-10.87,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,39,79,1.0,10.0,0.37,10.93,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,39,79,1.0,10.0,0.37,-3.83,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,39,79,1.0,10.0,0.37,15.88,-1.65,24.77
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,34,79,1.0,10.0,0.23,0.0,-2.34,25.49
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,34,79,1.0,10.0,0.23,3.09,-0.74,27.79
+123,DINT.K,Davis Select International ETF,5,120,14,34,79,1.0,10.0,0.23,10.76,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,34,79,1.0,10.0,0.23,-2.83,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,34,79,1.0,10.0,0.23,-5.55,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,34,79,1.0,10.0,0.23,0.0,-1.22,25.08
+123,MLPA.K,Global X Mlp Etf,5,120,14,34,79,1.0,10.0,0.23,-2.55,-0.98,27.92
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,34,79,1.0,10.0,0.23,-6.2,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,34,79,1.0,10.0,0.23,-6.09,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,120,14,34,79,1.0,10.0,0.23,-4.2,-2.18,25.46
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,34,79,1.0,10.0,0.23,0.0,-3.05,27.8
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,34,79,1.0,10.0,0.23,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,120,14,34,79,1.0,10.0,0.23,0.0,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,34,79,1.0,10.0,0.23,-3.31,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,34,79,1.0,10.0,0.23,-2.98,-3.72,23.36
+123,CANE.K,Teucrium Sugar Fund,5,120,14,34,79,1.0,10.0,0.23,-1.19,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,34,79,1.0,10.0,0.23,19.8,-3.07,26.81
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,34,79,1.0,10.0,0.23,19.83,-2.07,25.64
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,34,79,1.0,10.0,0.23,0.0,-2.07,23.88
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,34,79,1.0,10.0,0.23,-3.14,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,34,79,1.0,10.0,0.23,-5.28,-3.88,26.63
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,34,79,1.0,10.0,0.23,0.0,-1.65,24.77
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,34,79,1.0,10.0,0.23,0.0,-2.69,23.65
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,34,79,1.0,10.0,0.23,-4.49,-1.92,27.8
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,34,79,1.0,10.0,0.23,0.0,-2.64,23.01
+123,CANE.K,Teucrium Sugar Fund,5,120,14,24,69,1.0,10.0,0.21,-5.5,-2.9,24.27
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-3.05,27.8
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-3.07,26.81
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,120,14,24,69,1.0,10.0,0.21,10.76,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-2.34,25.49
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-2.07,25.64
+123,MLPA.K,Global X Mlp Etf,5,120,14,24,69,1.0,10.0,0.21,0.0,-0.98,27.92
+123,YXI,ProShares Short FTSE China 50,5,120,14,24,69,1.0,10.0,0.21,0.0,-3.88,26.63
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-2.64,23.01
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,24,69,1.0,10.0,0.21,0.0,-2.72,22.45
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,24,69,1.0,10.0,0.21,0.0,-3.15,25.32
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,24,69,1.0,10.0,0.21,0.0,-2.69,23.65
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-2.07,25.64
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,60,14,24,74,1.0,10.0,0.17,-2.16,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,24,74,1.0,10.0,0.17,-1.13,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,24,74,1.0,10.0,0.17,-0.93,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-3.07,26.81
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-2.07,23.88
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-2.64,23.01
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-1.65,24.77
+123,MLPA.K,Global X Mlp Etf,5,60,14,24,74,1.0,10.0,0.17,-1.88,-0.98,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,60,14,24,74,1.0,10.0,0.17,10.31,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,60,14,24,74,1.0,10.0,0.17,5.74,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,24,74,1.0,10.0,0.17,-3.45,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,24,74,1.0,10.0,0.17,0.0,-2.69,23.65
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,24,74,1.0,10.0,0.17,-2.12,-1.92,27.8
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,24,74,1.0,10.0,0.17,0.0,-3.15,25.32
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,24,69,1.0,10.0,0.12,0.0,-3.15,25.32
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-2.07,23.88
+123,MLPA.K,Global X Mlp Etf,5,60,14,24,69,1.0,10.0,0.12,-1.88,-0.98,27.92
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,60,14,24,69,1.0,10.0,0.12,3.11,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,24,69,1.0,10.0,0.12,-1.13,-4.84,25.37
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,24,69,1.0,10.0,0.12,-5.18,-2.9,24.27
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-3.07,26.81
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-2.07,25.64
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-3.72,23.36
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-1.65,24.77
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-2.34,25.49
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,24,69,1.0,10.0,0.12,-2.12,-1.92,27.8
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,24,69,1.0,10.0,0.12,-5.9,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,24,69,1.0,10.0,0.12,5.74,-3.88,26.63
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-2.64,23.01
+123,DINT.K,Davis Select International ETF,5,60,14,24,69,1.0,10.0,0.12,10.31,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,24,69,1.0,10.0,0.12,0.0,-1.22,25.08
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,120,14,44,79,1.0,10.0,0.03,0.0,-2.07,23.88
+123,TINT.K,ProShares Smart Materials ETF,5,120,14,44,79,1.0,10.0,0.03,8.68,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,120,14,44,79,1.0,10.0,0.03,5.47,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,120,14,44,79,1.0,10.0,0.03,-4.3,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,120,14,44,79,1.0,10.0,0.03,-7.11,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,120,14,44,79,1.0,10.0,0.03,9.92,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,120,14,44,79,1.0,10.0,0.03,10.76,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,120,14,44,79,1.0,10.0,0.03,-8.22,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,120,14,44,79,1.0,10.0,0.03,-5.55,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,120,14,44,79,1.0,10.0,0.03,21.03,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,120,14,44,79,1.0,10.0,0.03,-4.49,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,120,14,44,79,1.0,10.0,0.03,12.94,-1.65,24.77
+123,MLPA.K,Global X Mlp Etf,5,120,14,44,79,1.0,10.0,0.03,-2.55,-0.98,27.92
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,120,14,44,79,1.0,10.0,0.03,0.72,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,120,14,44,79,1.0,10.0,0.03,19.8,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,120,14,44,79,1.0,10.0,0.03,-1.19,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,120,14,44,79,1.0,10.0,0.03,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,120,14,44,79,1.0,10.0,0.03,-7.76,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,120,14,44,79,1.0,10.0,0.03,-13.15,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,120,14,44,79,1.0,10.0,0.03,-2.84,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,120,14,44,79,1.0,10.0,0.03,-5.87,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,120,14,44,79,1.0,10.0,0.03,-6.97,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,120,14,44,79,1.0,10.0,0.03,-6.18,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,120,14,44,79,1.0,10.0,0.03,-6.18,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,120,14,44,79,1.0,10.0,0.03,-6.2,-3.15,25.32
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-2.69,23.65
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-2.64,23.01
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,24,64,1.0,10.0,0.01,-7.49,-2.72,22.45
+123,CANE.K,Teucrium Sugar Fund,5,60,14,24,64,1.0,10.0,0.01,-0.69,-2.9,24.27
+123,YXI,ProShares Short FTSE China 50,5,60,14,24,64,1.0,10.0,0.01,1.61,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,24,64,1.0,10.0,0.01,10.31,-1.46,23.65
+123,GXG,Global X MSCI Colombia ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-3.92,24.66
+123,UFO.O,Procure Space ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-1.22,25.08
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-1.65,24.77
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-2.07,23.88
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-3.07,26.81
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,24,64,1.0,10.0,0.01,-2.12,-1.92,27.8
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-3.05,27.8
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,24,64,1.0,10.0,0.01,-1.13,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,60,14,24,64,1.0,10.0,0.01,1.63,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-2.18,25.46
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-1.84,26.63
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,24,64,1.0,10.0,0.01,0.0,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,60,14,24,64,1.0,10.0,0.01,-1.88,-0.98,27.92
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,24,64,1.0,10.0,0.01,0.0,-3.72,23.36
+123,DINT.K,Davis Select International ETF,5,60,14,34,64,1.0,10.0,-0.11,10.31,-1.46,23.65
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,34,64,1.0,10.0,-0.11,3.74,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,34,64,1.0,10.0,-0.11,10.93,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,60,14,34,64,1.0,10.0,-0.11,0.0,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,60,14,34,64,1.0,10.0,-0.11,-6.11,-3.92,24.66
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,34,64,1.0,10.0,-0.11,0.0,-2.64,23.01
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,34,64,1.0,10.0,-0.11,0.0,-2.34,25.49
+123,YXI,ProShares Short FTSE China 50,5,60,14,34,64,1.0,10.0,-0.11,-4.22,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,34,64,1.0,10.0,-0.11,-7.49,-2.72,22.45
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,34,64,1.0,10.0,-0.11,0.0,-2.69,23.65
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,34,64,1.0,10.0,-0.11,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,34,64,1.0,10.0,-0.11,0.0,-1.65,24.77
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,34,64,1.0,10.0,-0.11,4.73,-1.84,26.63
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,34,64,1.0,10.0,-0.11,3.66,-2.07,25.64
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,34,64,1.0,10.0,-0.11,9.32,-3.07,26.81
+123,CANE.K,Teucrium Sugar Fund,5,60,14,34,64,1.0,10.0,-0.11,-0.82,-2.9,24.27
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,34,64,1.0,10.0,-0.11,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,34,64,1.0,10.0,-0.11,-2.1,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,34,64,1.0,10.0,-0.11,-1.13,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,60,14,34,64,1.0,10.0,-0.11,-1.57,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,34,64,1.0,10.0,-0.11,0.0,-3.41,27.23
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,34,64,1.0,10.0,-0.11,-9.2,-0.74,27.79
+123,ECH,iShares MSCI Chile ETF,5,60,14,34,64,1.0,10.0,-0.11,-4.71,-2.18,25.46
+123,MLPA.K,Global X Mlp Etf,5,60,14,34,64,1.0,10.0,-0.11,-1.88,-0.98,27.92
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,34,64,1.0,10.0,-0.11,-6.24,-3.15,25.32
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-2.64,23.01
+123,MLPA.K,Global X Mlp Etf,5,60,14,24,79,1.0,10.0,-0.14,-1.88,-0.98,27.92
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-2.07,23.88
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,24,79,1.0,10.0,-0.14,0.0,-3.15,25.32
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-2.69,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,24,79,1.0,10.0,-0.14,-3.45,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,24,79,1.0,10.0,-0.14,-2.1,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,24,79,1.0,10.0,-0.14,10.31,-1.46,23.65
+123,UFO.O,Procure Space ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,24,79,1.0,10.0,-0.14,-2.12,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-1.65,24.77
+123,GXG,Global X MSCI Colombia ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-3.92,24.66
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-2.07,25.64
+123,VNM,VanEck Vietnam ETF,5,60,14,24,79,1.0,10.0,-0.14,-2.16,-1.97,24.52
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-3.07,26.81
+123,ECH,iShares MSCI Chile ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-3.41,27.23
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-1.84,26.63
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,24,79,1.0,10.0,-0.14,-1.13,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,24,79,1.0,10.0,-0.14,0.0,-3.05,27.8
+123,CANE.K,Teucrium Sugar Fund,5,60,14,24,79,1.0,10.0,-0.14,-0.93,-2.9,24.27
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,34,74,1.0,10.0,-0.26,-7.26,-0.74,27.79
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,34,74,1.0,10.0,-0.26,0.0,-3.05,27.8
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,34,74,1.0,10.0,-0.26,-2.1,-3.72,23.36
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,34,74,1.0,10.0,-0.26,-1.13,-4.84,25.37
+123,VNM,VanEck Vietnam ETF,5,60,14,34,74,1.0,10.0,-0.26,-3.85,-1.97,24.52
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,34,74,1.0,10.0,-0.26,0.0,-3.41,27.23
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,34,74,1.0,10.0,-0.26,-5.63,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,60,14,34,74,1.0,10.0,-0.26,-6.43,-2.18,25.46
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,34,74,1.0,10.0,-0.26,9.32,-3.07,26.81
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,34,74,1.0,10.0,-0.26,-6.24,-3.15,25.32
+123,MLPA.K,Global X Mlp Etf,5,60,14,34,74,1.0,10.0,-0.26,-1.88,-0.98,27.92
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,34,74,1.0,10.0,-0.26,0.0,-2.64,23.01
+123,CANE.K,Teucrium Sugar Fund,5,60,14,34,74,1.0,10.0,-0.26,-2.67,-2.9,24.27
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,34,74,1.0,10.0,-0.26,0.0,-2.07,23.88
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,34,74,1.0,10.0,-0.26,3.66,-2.07,25.64
+123,GXG,Global X MSCI Colombia ETF,5,60,14,34,74,1.0,10.0,-0.26,-6.11,-3.92,24.66
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,34,74,1.0,10.0,-0.26,0.0,-2.69,23.65
+123,YXI,ProShares Short FTSE China 50,5,60,14,34,74,1.0,10.0,-0.26,-1.77,-3.88,26.63
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,34,74,1.0,10.0,-0.26,0.0,-2.34,25.49
+123,DINT.K,Davis Select International ETF,5,60,14,34,74,1.0,10.0,-0.26,10.31,-1.46,23.65
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,34,74,1.0,10.0,-0.26,-3.45,-2.72,22.45
+123,UFO.O,Procure Space ETF,5,60,14,34,74,1.0,10.0,-0.26,0.0,-3.33,27.92
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,34,74,1.0,10.0,-0.26,10.93,-1.22,25.08
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,34,74,1.0,10.0,-0.26,7.79,-1.92,27.8
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,34,74,1.0,10.0,-0.26,0.0,-1.65,24.77
+123,CANE.K,Teucrium Sugar Fund,5,60,14,34,69,1.0,10.0,-0.38,-6.84,-2.9,24.27
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,34,69,1.0,10.0,-0.38,-6.24,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,34,69,1.0,10.0,-0.38,-5.63,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,60,14,34,69,1.0,10.0,-0.38,-3.62,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,34,69,1.0,10.0,-0.38,-6.97,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,34,69,1.0,10.0,-0.38,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,60,14,34,69,1.0,10.0,-0.38,-0.45,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,34,69,1.0,10.0,-0.38,-1.13,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,34,69,1.0,10.0,-0.38,-2.1,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,34,69,1.0,10.0,-0.38,0.0,-3.05,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,34,69,1.0,10.0,-0.38,10.93,-1.22,25.08
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,34,69,1.0,10.0,-0.38,9.32,-3.07,26.81
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,34,69,1.0,10.0,-0.38,3.66,-2.07,25.64
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,34,69,1.0,10.0,-0.38,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,34,69,1.0,10.0,-0.38,0.0,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,34,69,1.0,10.0,-0.38,4.97,-1.92,27.8
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,34,69,1.0,10.0,-0.38,0.0,-2.69,23.65
+123,UFO.O,Procure Space ETF,5,60,14,34,69,1.0,10.0,-0.38,0.0,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,60,14,34,69,1.0,10.0,-0.38,-6.11,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,60,14,34,69,1.0,10.0,-0.38,10.31,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,34,69,1.0,10.0,-0.38,0.0,-2.34,25.49
+123,MLPA.K,Global X Mlp Etf,5,60,14,34,69,1.0,10.0,-0.38,-1.88,-0.98,27.92
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,34,69,1.0,10.0,-0.38,0.0,-2.64,23.01
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,34,69,1.0,10.0,-0.38,-5.9,-2.72,22.45
+123,YXI,ProShares Short FTSE China 50,5,60,14,34,69,1.0,10.0,-0.38,-1.77,-3.88,26.63
+123,CANE.K,Teucrium Sugar Fund,5,60,14,34,79,1.0,10.0,-0.8,-2.67,-2.9,24.27
+123,MLPA.K,Global X Mlp Etf,5,60,14,34,79,1.0,10.0,-0.8,-1.88,-0.98,27.92
+123,REM,Ishares Mortgage Real Estate Etf,5,60,14,34,79,1.0,10.0,-0.8,-6.24,-3.15,25.32
+123,MORT.K,VanEck Mortgage REIT Income ETF,5,60,14,34,79,1.0,10.0,-0.8,-5.63,-1.84,26.63
+123,ECH,iShares MSCI Chile ETF,5,60,14,34,79,1.0,10.0,-0.8,-6.43,-2.18,25.46
+123,FTRI.O,First Trust Indxx Global Natural Resources Inc ETF,5,60,14,34,79,1.0,10.0,-0.8,-7.26,-0.74,27.79
+123,KCCA.K,KraneShares California Carbon Allowance Strat ETF,5,60,14,34,79,1.0,10.0,-0.8,0.0,-3.41,27.23
+123,VNM,VanEck Vietnam ETF,5,60,14,34,79,1.0,10.0,-0.8,-3.85,-1.97,24.52
+123,SRET.O,Global X SuperDividend REIT ETF,5,60,14,34,79,1.0,10.0,-0.8,-1.13,-4.84,25.37
+123,XSHD.K,Invesco S&P SmallCap High Div Low Vol ETF,5,60,14,34,79,1.0,10.0,-0.8,-2.1,-3.72,23.36
+123,SETM.O,Sprott Energy Transition Materials ETF,5,60,14,34,79,1.0,10.0,-0.8,0.0,-3.05,27.8
+123,YXI,ProShares Short FTSE China 50,5,60,14,34,79,1.0,10.0,-0.8,-5.57,-3.88,26.63
+123,TAGS.K,Teucrium Agricultural Fund,5,60,14,34,79,1.0,10.0,-0.8,-3.45,-2.72,22.45
+123,ECNS.K,iShares MSCI China Small-Cap ETF,5,60,14,34,79,1.0,10.0,-0.8,5.51,-2.07,25.64
+123,TMFS.K,Motley Fool Small-Cap Growth ETF,5,60,14,34,79,1.0,10.0,-0.8,0.0,-2.07,23.88
+123,TMFX.K,Motley Fool Next Index ETF,5,60,14,34,79,1.0,10.0,-0.8,0.0,-1.65,24.77
+123,FLCH.K,Franklin FTSE China ETF,5,60,14,34,79,1.0,10.0,-0.8,-3.83,-1.92,27.8
+123,GK,AdvisorShares Gerber Kawasaki ETF,5,60,14,34,79,1.0,10.0,-0.8,10.93,-1.22,25.08
+123,UFO.O,Procure Space ETF,5,60,14,34,79,1.0,10.0,-0.8,0.0,-3.33,27.92
+123,GXG,Global X MSCI Colombia ETF,5,60,14,34,79,1.0,10.0,-0.8,-6.11,-3.92,24.66
+123,DINT.K,Davis Select International ETF,5,60,14,34,79,1.0,10.0,-0.8,10.31,-1.46,23.65
+123,SEA,US Global Sea to Sky Cargo ETF,5,60,14,34,79,1.0,10.0,-0.8,0.0,-2.34,25.49
+123,TINT.K,ProShares Smart Materials ETF,5,60,14,34,79,1.0,10.0,-0.8,0.0,-2.64,23.01
+123,SOLR.K,SmartETFs Sustainable Energy II ETF,5,60,14,34,79,1.0,10.0,-0.8,0.0,-2.69,23.65
+123,FRTY.K,Alger Mid Cap 40 ETF,5,60,14,34,79,1.0,10.0,-0.8,9.32,-3.07,26.81

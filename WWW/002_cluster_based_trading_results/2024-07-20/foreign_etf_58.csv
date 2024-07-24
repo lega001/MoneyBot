@@ -1,0 +1,289 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,34,54,1.0,10.0,123.29,204.59,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,34,54,1.0,10.0,123.29,80.76,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,34,54,1.0,10.0,123.29,94.55,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,34,54,1.0,10.0,123.29,113.27,15.34,75.26
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,34,59,1.0,10.0,76.38,70.32,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,34,59,1.0,10.0,76.38,56.7,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,34,59,1.0,10.0,76.38,83.75,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,34,59,1.0,10.0,76.38,94.75,15.51,76.51
+58,BKCH.O,Global X Blockchain ETF,5,120,14,34,64,1.0,10.0,76.33,94.75,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,34,64,1.0,10.0,76.33,70.14,15.34,75.26
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,34,64,1.0,10.0,76.33,83.75,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,34,64,1.0,10.0,76.33,56.7,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,34,74,1.0,10.0,66.02,28.87,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,34,69,1.0,10.0,66.02,56.7,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,34,69,1.0,10.0,66.02,83.75,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,34,69,1.0,10.0,66.02,94.75,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,34,69,1.0,10.0,66.02,28.87,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,34,74,1.0,10.0,66.02,56.7,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,34,74,1.0,10.0,66.02,83.75,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,34,74,1.0,10.0,66.02,94.75,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,34,79,1.0,10.0,66.02,28.87,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,120,14,34,79,1.0,10.0,66.02,94.75,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,34,79,1.0,10.0,66.02,83.75,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,34,79,1.0,10.0,66.02,56.7,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,39,54,1.0,10.0,60.78,-5.61,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,39,54,1.0,10.0,60.78,73.42,17.28,70.3
+58,BKCH.O,Global X Blockchain ETF,5,120,14,39,54,1.0,10.0,60.78,94.55,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,39,54,1.0,10.0,60.78,80.76,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,49,54,1.0,10.0,44.88,121.08,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,49,54,1.0,10.0,44.88,-10.81,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,49,54,1.0,10.0,44.88,-11.5,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,49,54,1.0,10.0,44.88,80.76,15.27,69.89
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,39,64,1.0,10.0,41.79,4.02,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,120,14,39,64,1.0,10.0,41.79,94.75,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,39,64,1.0,10.0,41.79,83.75,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,39,64,1.0,10.0,41.79,-15.34,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,39,59,1.0,10.0,40.21,83.75,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,39,59,1.0,10.0,40.21,94.75,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,39,59,1.0,10.0,40.21,-2.34,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,39,59,1.0,10.0,40.21,-15.34,17.28,70.3
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,39,74,1.0,10.0,38.95,-15.34,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,39,69,1.0,10.0,38.95,-7.35,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,120,14,39,69,1.0,10.0,38.95,94.75,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,39,69,1.0,10.0,38.95,83.75,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,39,69,1.0,10.0,38.95,-15.34,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,39,74,1.0,10.0,38.95,-7.35,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,39,79,1.0,10.0,38.95,-15.34,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,39,79,1.0,10.0,38.95,83.75,15.27,69.89
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,39,74,1.0,10.0,38.95,83.75,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,39,74,1.0,10.0,38.95,94.75,15.51,76.51
+58,BKCH.O,Global X Blockchain ETF,5,120,14,39,79,1.0,10.0,38.95,94.75,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,39,79,1.0,10.0,38.95,-7.35,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,49,74,1.0,10.0,38.29,-10.82,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,49,74,1.0,10.0,38.29,-14.53,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,120,14,49,74,1.0,10.0,38.29,94.75,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,49,74,1.0,10.0,38.29,83.75,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,49,59,1.0,10.0,38.17,-17.54,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,49,59,1.0,10.0,38.17,83.75,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,49,59,1.0,10.0,38.17,94.75,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,49,59,1.0,10.0,38.17,-8.28,15.34,75.26
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,49,64,1.0,10.0,37.9,83.75,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,49,64,1.0,10.0,37.9,94.75,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,49,64,1.0,10.0,37.9,-12.01,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,49,64,1.0,10.0,37.9,-14.9,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,49,69,1.0,10.0,37.86,83.75,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,49,69,1.0,10.0,37.86,94.75,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,49,69,1.0,10.0,37.86,-14.53,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,49,69,1.0,10.0,37.86,-12.51,17.28,70.3
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,44,64,1.0,10.0,37.35,-21.99,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,44,64,1.0,10.0,37.35,83.75,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,44,64,1.0,10.0,37.35,94.75,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,44,64,1.0,10.0,37.35,-7.09,15.34,75.26
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,49,79,1.0,10.0,37.27,-14.53,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,49,79,1.0,10.0,37.27,-14.87,17.28,70.3
+58,BKCH.O,Global X Blockchain ETF,5,120,14,49,79,1.0,10.0,37.27,94.75,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,49,79,1.0,10.0,37.27,83.75,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,44,59,1.0,10.0,35.89,-21.99,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,44,59,1.0,10.0,35.89,83.75,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,44,59,1.0,10.0,35.89,94.75,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,44,59,1.0,10.0,35.89,-12.95,15.34,75.26
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,44,74,1.0,10.0,35.49,83.75,15.27,69.89
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,44,79,1.0,10.0,35.49,-14.53,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,120,14,44,79,1.0,10.0,35.49,94.75,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,44,79,1.0,10.0,35.49,83.75,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,44,79,1.0,10.0,35.49,-21.99,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,44,74,1.0,10.0,35.49,-14.53,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,120,14,44,74,1.0,10.0,35.49,94.75,15.51,76.51
+58,BKCH.O,Global X Blockchain ETF,5,120,14,44,69,1.0,10.0,35.49,94.75,15.51,76.51
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,44,74,1.0,10.0,35.49,-21.99,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,44,69,1.0,10.0,35.49,-14.53,15.34,75.26
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,44,69,1.0,10.0,35.49,83.75,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,44,69,1.0,10.0,35.49,-21.99,17.28,70.3
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,44,54,1.0,10.0,35.05,-23.55,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,44,54,1.0,10.0,35.05,-11.56,15.34,75.26
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,44,54,1.0,10.0,35.05,80.76,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,44,54,1.0,10.0,35.05,94.55,15.51,76.51
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,34,54,1.0,10.0,26.06,37.85,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,34,54,1.0,10.0,26.06,-5.42,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,34,54,1.0,10.0,26.06,34.67,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,34,54,1.0,10.0,26.06,37.14,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,29,69,1.0,10.0,21.93,43.02,15.51,76.51
+58,BKCH.O,Global X Blockchain ETF,5,60,14,29,64,1.0,10.0,21.93,43.02,15.51,76.51
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,29,79,1.0,10.0,21.93,0.0,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,29,74,1.0,10.0,21.93,0.0,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,29,74,1.0,10.0,21.93,43.02,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,29,74,1.0,10.0,21.93,44.69,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,29,74,1.0,10.0,21.93,0.0,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,29,69,1.0,10.0,21.93,0.0,15.34,75.26
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,29,79,1.0,10.0,21.93,0.0,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,29,79,1.0,10.0,21.93,43.02,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,29,69,1.0,10.0,21.93,44.69,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,29,69,1.0,10.0,21.93,0.0,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,29,64,1.0,10.0,21.93,0.0,15.34,75.26
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,29,79,1.0,10.0,21.93,44.69,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,29,59,1.0,10.0,21.93,43.02,15.51,76.51
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,29,59,1.0,10.0,21.93,0.0,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,29,64,1.0,10.0,21.93,44.69,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,29,64,1.0,10.0,21.93,0.0,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,29,59,1.0,10.0,21.93,0.0,15.34,75.26
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,29,59,1.0,10.0,21.93,44.69,15.27,69.89
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,34,64,1.0,10.0,18.45,3.65,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,34,64,1.0,10.0,18.45,-17.55,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,34,64,1.0,10.0,18.45,44.69,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,34,64,1.0,10.0,18.45,43.02,15.51,76.51
+58,BKCH.O,Global X Blockchain ETF,5,60,14,39,64,1.0,10.0,18.45,43.02,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,39,64,1.0,10.0,18.45,3.65,15.34,75.26
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,39,64,1.0,10.0,18.45,44.69,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,39,64,1.0,10.0,18.45,-17.55,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,29,54,1.0,10.0,17.95,0.0,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,29,54,1.0,10.0,17.95,34.67,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,29,54,1.0,10.0,17.95,37.14,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,29,54,1.0,10.0,17.95,0.0,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,34,59,1.0,10.0,16.95,-2.37,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,39,59,1.0,10.0,16.95,43.02,15.51,76.51
+58,BKCH.O,Global X Blockchain ETF,5,60,14,34,59,1.0,10.0,16.95,43.02,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,39,59,1.0,10.0,16.95,-2.37,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,34,59,1.0,10.0,16.95,-17.55,17.28,70.3
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,39,59,1.0,10.0,16.95,-17.55,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,39,59,1.0,10.0,16.95,44.69,15.27,69.89
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,34,59,1.0,10.0,16.95,44.69,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,44,64,1.0,10.0,16.77,-13.4,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,44,64,1.0,10.0,16.77,44.69,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,44,64,1.0,10.0,16.77,43.02,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,44,64,1.0,10.0,16.77,-7.23,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,49,54,1.0,10.0,16.76,-6.41,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,49,54,1.0,10.0,16.76,-9.44,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,49,54,1.0,10.0,16.76,45.74,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,49,54,1.0,10.0,16.76,37.14,15.27,69.89
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,49,59,1.0,10.0,15.97,-7.9,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,49,59,1.0,10.0,15.97,43.02,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,49,59,1.0,10.0,15.97,44.69,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,49,59,1.0,10.0,15.97,-15.91,17.28,70.3
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,44,74,1.0,10.0,15.91,-9.46,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,44,74,1.0,10.0,15.91,44.69,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,44,74,1.0,10.0,15.91,43.02,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,44,74,1.0,10.0,15.91,-14.63,15.34,75.26
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,49,74,1.0,10.0,15.91,-14.63,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,49,74,1.0,10.0,15.91,43.02,15.51,76.51
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,49,74,1.0,10.0,15.91,-9.46,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,49,74,1.0,10.0,15.91,44.69,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,34,74,1.0,10.0,15.75,-17.55,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,34,74,1.0,10.0,15.75,44.69,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,34,74,1.0,10.0,15.75,43.02,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,34,69,1.0,10.0,15.75,44.69,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,34,69,1.0,10.0,15.75,43.02,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,34,69,1.0,10.0,15.75,-7.16,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,34,69,1.0,10.0,15.75,-17.55,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,34,79,1.0,10.0,15.75,-7.16,15.34,75.26
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,34,74,1.0,10.0,15.75,-7.16,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,34,79,1.0,10.0,15.75,-17.55,17.28,70.3
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,39,69,1.0,10.0,15.75,-17.55,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,39,69,1.0,10.0,15.75,44.69,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,39,69,1.0,10.0,15.75,43.02,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,39,69,1.0,10.0,15.75,-7.16,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,39,74,1.0,10.0,15.75,-17.55,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,39,74,1.0,10.0,15.75,44.69,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,39,74,1.0,10.0,15.75,43.02,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,39,74,1.0,10.0,15.75,-7.16,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,39,79,1.0,10.0,15.75,-17.55,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,39,79,1.0,10.0,15.75,44.69,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,39,79,1.0,10.0,15.75,43.02,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,39,79,1.0,10.0,15.75,-7.16,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,34,79,1.0,10.0,15.75,43.02,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,34,79,1.0,10.0,15.75,44.69,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,49,64,1.0,10.0,15.66,-13.4,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,49,64,1.0,10.0,15.66,44.69,15.27,69.89
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,49,64,1.0,10.0,15.66,-11.69,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,49,64,1.0,10.0,15.66,43.02,15.51,76.51
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,44,69,1.0,10.0,15.5,-11.1,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,44,69,1.0,10.0,15.5,-14.63,15.34,75.26
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,44,69,1.0,10.0,15.5,44.69,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,44,69,1.0,10.0,15.5,43.02,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,49,69,1.0,10.0,15.5,-14.63,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,49,69,1.0,10.0,15.5,43.02,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,49,69,1.0,10.0,15.5,44.69,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,49,69,1.0,10.0,15.5,-11.1,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,44,79,1.0,10.0,14.71,44.69,15.27,69.89
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,49,79,1.0,10.0,14.71,-14.63,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,44,79,1.0,10.0,14.71,-14.25,17.28,70.3
+58,BKCH.O,Global X Blockchain ETF,5,60,14,44,79,1.0,10.0,14.71,43.02,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,44,79,1.0,10.0,14.71,-14.63,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,49,79,1.0,10.0,14.71,-14.25,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,49,79,1.0,10.0,14.71,44.69,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,49,79,1.0,10.0,14.71,43.02,15.51,76.51
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,44,59,1.0,10.0,14.68,-15.91,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,44,59,1.0,10.0,14.68,-13.09,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,44,59,1.0,10.0,14.68,43.02,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,44,59,1.0,10.0,14.68,44.69,15.27,69.89
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,39,54,1.0,10.0,12.87,-5.42,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,39,54,1.0,10.0,12.87,34.67,15.51,76.51
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,39,54,1.0,10.0,12.87,-14.93,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,39,54,1.0,10.0,12.87,37.14,15.27,69.89
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,44,54,1.0,10.0,11.66,-7.73,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,44,54,1.0,10.0,11.66,34.67,15.51,76.51
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,44,54,1.0,10.0,11.66,37.14,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,44,54,1.0,10.0,11.66,-17.46,17.28,70.3
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,24,54,1.0,10.0,0.0,0.0,17.28,70.3
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,29,79,1.0,10.0,0.0,0.0,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,15.51,76.51
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,24,79,1.0,10.0,0.0,0.0,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,24,79,1.0,10.0,0.0,0.0,15.34,75.26
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,15.27,69.89
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,15.27,69.89
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,24,54,1.0,10.0,0.0,0.0,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,15.51,76.51
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,24,59,1.0,10.0,0.0,0.0,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,24,59,1.0,10.0,0.0,0.0,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,24,64,1.0,10.0,0.0,0.0,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,15.27,69.89
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,24,74,1.0,10.0,0.0,0.0,15.34,75.26
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,15.27,69.89
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,24,64,1.0,10.0,0.0,0.0,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,24,64,1.0,10.0,0.0,0.0,17.28,70.3
+58,BKCH.O,Global X Blockchain ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,24,54,1.0,10.0,0.0,0.0,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,24,59,1.0,10.0,0.0,0.0,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,24,59,1.0,10.0,0.0,0.0,15.34,75.26
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,24,74,1.0,10.0,0.0,0.0,17.28,70.3
+58,BKCH.O,Global X Blockchain ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,24,64,1.0,10.0,0.0,0.0,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,60,14,24,69,1.0,10.0,0.0,0.0,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,60,14,24,69,1.0,10.0,0.0,0.0,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,15.51,76.51
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,24,69,1.0,10.0,0.0,0.0,17.28,70.3
+58,BKCH.O,Global X Blockchain ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,15.51,76.51
+58,BKCH.O,Global X Blockchain ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,15.51,76.51
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,29,64,1.0,10.0,0.0,0.0,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,29,64,1.0,10.0,0.0,0.0,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,29,69,1.0,10.0,0.0,0.0,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,15.27,69.89
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,29,69,1.0,10.0,0.0,0.0,15.34,75.26
+58,BKCH.O,Global X Blockchain ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,15.51,76.51
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,29,74,1.0,10.0,0.0,0.0,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,29,74,1.0,10.0,0.0,0.0,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,29,79,1.0,10.0,0.0,0.0,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,15.27,69.89
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,29,59,1.0,10.0,0.0,0.0,15.34,75.26
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,15.27,69.89
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,24,79,1.0,10.0,0.0,0.0,17.28,70.3
+58,BKCH.O,Global X Blockchain ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,24,69,1.0,10.0,0.0,0.0,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,24,74,1.0,10.0,0.0,0.0,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,24,74,1.0,10.0,0.0,0.0,15.34,75.26
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,15.27,69.89
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,29,59,1.0,10.0,0.0,0.0,17.28,70.3
+58,BKCH.O,Global X Blockchain ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,24,79,1.0,10.0,0.0,0.0,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,29,54,1.0,10.0,0.0,0.0,17.28,70.3
+58,BITQ.K,Bitwise Crypto Industry Innovators ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,15.27,69.89
+58,BKCH.O,Global X Blockchain ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,15.51,76.51
+58,MEXX.K,Direxion Daily MSCI Mexico Bull 3X Shares,5,120,14,29,54,1.0,10.0,0.0,0.0,15.34,75.26
+58,ERX,Direxion Daily Energy Bull 2x Shares,5,120,14,24,54,1.0,10.0,0.0,0.0,17.28,70.3

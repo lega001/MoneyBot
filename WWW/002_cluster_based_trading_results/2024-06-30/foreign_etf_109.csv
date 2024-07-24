@@ -1,0 +1,1009 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,29,54,1.0,10.0,17.65,37.55,0.99,35.44
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,29,54,1.0,10.0,17.65,44.21,3.79,34.34
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,29,54,1.0,10.0,17.65,0.0,3.76,37.61
+109,JETS.K,US Global Jets ETF,5,60,14,29,54,1.0,10.0,17.65,102.86,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,29,54,1.0,10.0,17.65,4.89,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,29,54,1.0,10.0,17.65,0.0,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,29,54,1.0,10.0,17.65,-0.68,2.02,37.19
+109,GDX,VanEck Gold Miners ETF,5,60,14,29,54,1.0,10.0,17.65,-2.47,4.41,37.75
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,29,54,1.0,10.0,17.65,0.0,0.35,35.27
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,29,54,1.0,10.0,17.65,48.27,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,29,54,1.0,10.0,17.65,4.48,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,29,54,1.0,10.0,17.65,0.0,0.53,34.58
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,29,54,1.0,10.0,17.65,7.99,1.67,33.12
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,29,54,1.0,10.0,17.65,0.0,-0.59,36.36
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,29,64,1.0,10.0,17.41,22.97,1.67,33.12
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,29,64,1.0,10.0,17.41,61.51,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,29,64,1.0,10.0,17.41,0.0,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,29,64,1.0,10.0,17.41,1.2,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,29,64,1.0,10.0,17.41,43.42,3.79,34.34
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,29,64,1.0,10.0,17.41,0.0,0.53,34.58
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,29,64,1.0,10.0,17.41,0.0,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,29,64,1.0,10.0,17.41,66.07,0.22,34.11
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,29,64,1.0,10.0,17.41,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,29,64,1.0,10.0,17.41,48.59,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,29,64,1.0,10.0,17.41,0.0,3.76,37.61
+109,GDX,VanEck Gold Miners ETF,5,120,14,29,64,1.0,10.0,17.41,0.0,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,120,14,29,64,1.0,10.0,17.41,0.0,3.27,32.99
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,29,64,1.0,10.0,17.41,0.0,0.35,35.27
+109,GDX,VanEck Gold Miners ETF,5,120,14,29,59,1.0,10.0,16.97,0.0,4.41,37.75
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,29,59,1.0,10.0,16.97,0.0,3.19,38.12
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,29,59,1.0,10.0,16.97,0.0,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,29,59,1.0,10.0,16.97,48.59,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,29,59,1.0,10.0,16.97,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,29,59,1.0,10.0,16.97,0.0,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,29,59,1.0,10.0,16.97,59.33,0.22,34.11
+109,JETS.K,US Global Jets ETF,5,120,14,29,59,1.0,10.0,16.97,0.0,3.27,32.99
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,29,59,1.0,10.0,16.97,22.97,1.67,33.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,29,59,1.0,10.0,16.97,0.0,0.35,35.27
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,29,59,1.0,10.0,16.97,46.58,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,29,59,1.0,10.0,16.97,-1.35,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,29,59,1.0,10.0,16.97,0.0,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,29,59,1.0,10.0,16.97,61.51,0.2,34.39
+109,GDX,VanEck Gold Miners ETF,5,120,14,29,54,1.0,10.0,16.83,0.0,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,120,14,29,54,1.0,10.0,16.83,0.0,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,29,54,1.0,10.0,16.83,72.95,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,29,54,1.0,10.0,16.83,0.0,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,29,54,1.0,10.0,16.83,-1.35,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,29,54,1.0,10.0,16.83,40.28,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,29,54,1.0,10.0,16.83,0.0,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,29,54,1.0,10.0,16.83,7.96,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,29,54,1.0,10.0,16.83,0.0,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,29,54,1.0,10.0,16.83,79.13,0.22,34.11
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,29,54,1.0,10.0,16.83,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,29,54,1.0,10.0,16.83,36.71,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,29,54,1.0,10.0,16.83,0.0,3.76,37.61
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,29,54,1.0,10.0,16.83,0.0,0.53,34.58
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,39,54,1.0,10.0,16.36,55.45,0.35,35.27
+109,GDX,VanEck Gold Miners ETF,5,120,14,39,54,1.0,10.0,16.36,-15.59,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,120,14,39,54,1.0,10.0,16.36,105.15,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,39,54,1.0,10.0,16.36,0.49,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,39,54,1.0,10.0,16.36,14.78,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,39,54,1.0,10.0,16.36,4.63,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,39,54,1.0,10.0,16.36,5.86,3.79,34.34
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,39,54,1.0,10.0,16.36,-15.55,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,39,54,1.0,10.0,16.36,4.59,1.67,33.12
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,39,54,1.0,10.0,16.36,14.89,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,39,54,1.0,10.0,16.36,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,39,54,1.0,10.0,16.36,36.71,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,39,54,1.0,10.0,16.36,26.39,3.76,37.61
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,39,54,1.0,10.0,16.36,-8.71,0.22,34.11
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,34,54,1.0,10.0,15.61,4.59,1.67,33.12
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,34,54,1.0,10.0,15.61,0.0,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,34,54,1.0,10.0,15.61,36.71,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,34,54,1.0,10.0,15.61,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,34,54,1.0,10.0,15.61,0.0,0.53,34.58
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,34,54,1.0,10.0,15.61,-12.47,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,34,54,1.0,10.0,15.61,79.13,0.22,34.11
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,34,54,1.0,10.0,15.61,0.0,0.35,35.27
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,34,54,1.0,10.0,15.61,-1.35,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,34,54,1.0,10.0,15.61,1.99,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,34,54,1.0,10.0,15.61,3.89,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,120,14,34,54,1.0,10.0,15.61,105.15,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,120,14,34,54,1.0,10.0,15.61,-6.37,4.41,37.75
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,34,54,1.0,10.0,15.61,7.28,3.79,34.34
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,29,59,1.0,10.0,14.62,9.29,0.22,34.11
+109,JETS.K,US Global Jets ETF,5,60,14,29,59,1.0,10.0,14.62,6.26,3.27,32.99
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,29,59,1.0,10.0,14.62,0.0,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,29,59,1.0,10.0,14.62,48.13,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,29,59,1.0,10.0,14.62,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,29,59,1.0,10.0,14.62,0.0,0.53,34.58
+109,GDX,VanEck Gold Miners ETF,5,60,14,29,59,1.0,10.0,14.62,0.62,4.41,37.75
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,29,59,1.0,10.0,14.62,57.11,3.19,38.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,29,59,1.0,10.0,14.62,0.0,0.35,35.27
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,29,59,1.0,10.0,14.62,-0.68,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,29,59,1.0,10.0,14.62,0.0,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,29,59,1.0,10.0,14.62,11.23,0.2,34.39
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,29,59,1.0,10.0,14.62,49.86,3.79,34.34
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,29,59,1.0,10.0,14.62,22.87,1.67,33.12
+109,GDX,VanEck Gold Miners ETF,5,60,14,34,54,1.0,10.0,13.82,-2.47,4.41,37.75
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,34,54,1.0,10.0,13.82,7.99,1.67,33.12
+109,JETS.K,US Global Jets ETF,5,60,14,34,54,1.0,10.0,13.82,38.47,3.27,32.99
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,34,54,1.0,10.0,13.82,37.55,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,34,54,1.0,10.0,13.82,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,34,54,1.0,10.0,13.82,15.47,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,34,54,1.0,10.0,13.82,4.48,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,34,54,1.0,10.0,13.82,-13.65,3.19,38.12
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,34,54,1.0,10.0,13.82,35.4,3.76,37.61
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,34,54,1.0,10.0,13.82,6.3,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,34,54,1.0,10.0,13.82,-0.68,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,34,54,1.0,10.0,13.82,20.29,3.85,36.15
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,34,54,1.0,10.0,13.82,45.31,0.35,35.27
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,34,54,1.0,10.0,13.82,-1.01,0.2,34.39
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,29,64,1.0,10.0,12.86,0.0,-0.59,36.36
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,29,64,1.0,10.0,12.86,27.11,3.19,38.12
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,29,64,1.0,10.0,12.86,0.0,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,29,64,1.0,10.0,12.86,48.13,0.99,35.44
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,29,64,1.0,10.0,12.86,0.0,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,29,64,1.0,10.0,12.86,15.21,0.22,34.11
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,29,64,1.0,10.0,12.86,22.87,1.67,33.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,29,64,1.0,10.0,12.86,0.0,0.35,35.27
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,29,64,1.0,10.0,12.86,45.99,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,29,64,1.0,10.0,12.86,1.4,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,29,64,1.0,10.0,12.86,0.0,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,29,64,1.0,10.0,12.86,11.23,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,60,14,29,64,1.0,10.0,12.86,6.26,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,60,14,29,64,1.0,10.0,12.86,1.81,4.41,37.75
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,34,64,1.0,10.0,11.31,0.0,0.35,35.27
+109,JETS.K,US Global Jets ETF,5,120,14,34,64,1.0,10.0,11.31,2.85,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,34,64,1.0,10.0,11.31,10.56,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,34,64,1.0,10.0,11.31,1.99,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,34,64,1.0,10.0,11.31,1.2,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,34,64,1.0,10.0,11.31,15.06,3.79,34.34
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,34,64,1.0,10.0,11.31,0.0,3.76,37.61
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,34,64,1.0,10.0,11.31,17.88,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,34,64,1.0,10.0,11.31,-5.93,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,34,64,1.0,10.0,11.31,66.07,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,34,64,1.0,10.0,11.31,0.0,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,34,64,1.0,10.0,11.31,0.0,-0.59,36.36
+109,GDX,VanEck Gold Miners ETF,5,60,14,39,54,1.0,10.0,11.31,-8.81,4.41,37.75
+109,GDX,VanEck Gold Miners ETF,5,120,14,34,64,1.0,10.0,11.31,0.02,4.41,37.75
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,39,54,1.0,10.0,11.31,4.94,0.53,34.58
+109,JETS.K,US Global Jets ETF,5,60,14,39,54,1.0,10.0,11.31,34.13,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,39,54,1.0,10.0,11.31,-14.36,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,39,54,1.0,10.0,11.31,18.87,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,39,54,1.0,10.0,11.31,10.25,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,39,54,1.0,10.0,11.31,0.24,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,39,54,1.0,10.0,11.31,45.31,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,39,54,1.0,10.0,11.31,7.99,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,39,54,1.0,10.0,11.31,-14.58,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,39,54,1.0,10.0,11.31,1.39,0.22,34.11
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,39,54,1.0,10.0,11.31,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,39,54,1.0,10.0,11.31,37.55,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,39,54,1.0,10.0,11.31,35.4,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,34,64,1.0,10.0,11.31,48.59,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,44,54,1.0,10.0,11.06,26.39,3.76,37.61
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,44,54,1.0,10.0,11.06,29.62,0.35,35.27
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,44,54,1.0,10.0,11.06,14.89,0.53,34.58
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,44,54,1.0,10.0,11.06,-15.55,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,44,54,1.0,10.0,11.06,-12.42,1.67,33.12
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,44,54,1.0,10.0,11.06,27.55,-0.59,36.36
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,44,54,1.0,10.0,11.06,2.44,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,44,54,1.0,10.0,11.06,9.55,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,44,54,1.0,10.0,11.06,14.78,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,44,54,1.0,10.0,11.06,-14.03,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,120,14,44,54,1.0,10.0,11.06,32.49,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,120,14,44,54,1.0,10.0,11.06,-5.26,4.41,37.75
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,44,54,1.0,10.0,11.06,36.71,0.99,35.44
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,44,54,1.0,10.0,11.06,7.67,0.22,34.11
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,34,59,1.0,10.0,10.6,4.46,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,34,59,1.0,10.0,10.6,20.15,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,34,59,1.0,10.0,10.6,-0.68,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,34,59,1.0,10.0,10.6,8.16,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,34,59,1.0,10.0,10.6,-0.76,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,34,59,1.0,10.0,10.6,22.87,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,34,59,1.0,10.0,10.6,-11.58,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,34,59,1.0,10.0,10.6,9.29,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,34,59,1.0,10.0,10.6,9.83,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,34,59,1.0,10.0,10.6,0.0,-0.59,36.36
+109,JETS.K,US Global Jets ETF,5,60,14,34,59,1.0,10.0,10.6,6.26,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,60,14,34,59,1.0,10.0,10.6,0.62,4.41,37.75
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,34,59,1.0,10.0,10.6,31.62,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,34,59,1.0,10.0,10.6,48.13,0.99,35.44
+109,JETS.K,US Global Jets ETF,5,60,14,34,64,1.0,10.0,10.38,6.26,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,60,14,34,64,1.0,10.0,10.38,1.81,4.41,37.75
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,34,64,1.0,10.0,10.38,8.33,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,34,64,1.0,10.0,10.38,5.54,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,34,64,1.0,10.0,10.38,1.4,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,34,64,1.0,10.0,10.38,2.32,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,34,64,1.0,10.0,10.38,-0.76,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,34,64,1.0,10.0,10.38,22.87,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,34,64,1.0,10.0,10.38,-7.21,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,34,64,1.0,10.0,10.38,15.21,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,34,64,1.0,10.0,10.38,9.83,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,34,64,1.0,10.0,10.38,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,34,64,1.0,10.0,10.38,48.13,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,34,64,1.0,10.0,10.38,31.62,3.76,37.61
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,34,79,1.0,10.0,9.71,0.0,-0.59,36.36
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,34,79,1.0,10.0,9.71,31.62,3.76,37.61
+109,GDX,VanEck Gold Miners ETF,5,60,14,34,79,1.0,10.0,9.71,2.04,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,60,14,34,79,1.0,10.0,9.71,6.26,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,34,79,1.0,10.0,9.71,7.57,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,34,79,1.0,10.0,9.71,5.54,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,34,79,1.0,10.0,9.71,1.96,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,34,79,1.0,10.0,9.71,-1.26,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,34,79,1.0,10.0,9.71,-0.76,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,34,79,1.0,10.0,9.71,48.66,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,34,79,1.0,10.0,9.71,-7.21,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,34,79,1.0,10.0,9.71,-0.3,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,34,79,1.0,10.0,9.71,9.83,0.53,34.58
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,34,79,1.0,10.0,9.71,31.96,0.99,35.44
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,34,59,1.0,10.0,9.69,59.33,0.22,34.11
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,34,59,1.0,10.0,9.69,48.59,0.99,35.44
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,34,59,1.0,10.0,9.69,9.19,3.79,34.34
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,34,59,1.0,10.0,9.69,0.0,3.76,37.61
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,34,59,1.0,10.0,9.69,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,34,59,1.0,10.0,9.69,0.0,0.53,34.58
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,34,59,1.0,10.0,9.69,-10.23,3.19,38.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,34,59,1.0,10.0,9.69,0.0,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,34,59,1.0,10.0,9.69,17.88,1.67,33.12
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,34,59,1.0,10.0,9.69,-1.35,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,34,59,1.0,10.0,9.69,1.99,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,34,59,1.0,10.0,9.69,10.56,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,120,14,34,59,1.0,10.0,9.69,2.85,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,120,14,34,59,1.0,10.0,9.69,-3.11,4.41,37.75
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,29,79,1.0,10.0,8.98,1.96,2.02,37.19
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,29,79,1.0,10.0,8.98,-0.3,0.22,34.11
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,29,79,1.0,10.0,8.98,0.0,3.76,37.61
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,29,79,1.0,10.0,8.98,27.11,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,29,79,1.0,10.0,8.98,48.66,1.67,33.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,29,79,1.0,10.0,8.98,0.0,0.35,35.27
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,29,79,1.0,10.0,8.98,-0.64,3.79,34.34
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,29,79,1.0,10.0,8.98,0.0,0.53,34.58
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,29,79,1.0,10.0,8.98,0.0,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,29,79,1.0,10.0,8.98,8.75,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,60,14,29,79,1.0,10.0,8.98,6.26,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,60,14,29,79,1.0,10.0,8.98,2.04,4.41,37.75
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,29,79,1.0,10.0,8.98,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,29,79,1.0,10.0,8.98,31.96,0.99,35.44
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,44,54,1.0,10.0,8.63,37.55,0.99,35.44
+109,GDX,VanEck Gold Miners ETF,5,60,14,44,54,1.0,10.0,8.63,-3.07,4.41,37.75
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,44,54,1.0,10.0,8.63,-0.51,3.76,37.61
+109,JETS.K,US Global Jets ETF,5,60,14,44,54,1.0,10.0,8.63,34.13,3.27,32.99
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,44,54,1.0,10.0,8.63,11.35,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,44,54,1.0,10.0,8.63,4.94,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,44,54,1.0,10.0,8.63,9.54,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,44,54,1.0,10.0,8.63,-10.32,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,44,54,1.0,10.0,8.63,-9.08,1.67,33.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,44,54,1.0,10.0,8.63,38.3,0.35,35.27
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,44,54,1.0,10.0,8.63,0.24,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,44,54,1.0,10.0,8.63,10.25,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,44,54,1.0,10.0,8.63,10.95,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,44,54,1.0,10.0,8.63,-13.43,0.2,34.39
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,34,74,1.0,10.0,8.6,31.62,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,34,74,1.0,10.0,8.6,31.96,0.99,35.44
+109,GDX,VanEck Gold Miners ETF,5,60,14,34,74,1.0,10.0,8.6,2.04,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,60,14,34,74,1.0,10.0,8.6,6.26,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,34,74,1.0,10.0,8.6,2.35,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,34,74,1.0,10.0,8.6,5.54,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,34,74,1.0,10.0,8.6,6.84,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,34,74,1.0,10.0,8.6,-1.26,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,34,74,1.0,10.0,8.6,-0.76,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,34,74,1.0,10.0,8.6,33.42,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,34,74,1.0,10.0,8.6,-7.21,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,34,74,1.0,10.0,8.6,-0.3,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,34,74,1.0,10.0,8.6,9.83,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,34,74,1.0,10.0,8.6,0.0,-0.59,36.36
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,39,59,1.0,10.0,8.29,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,39,59,1.0,10.0,8.29,1.78,0.53,34.58
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,39,59,1.0,10.0,8.29,-12.71,3.19,38.12
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,39,59,1.0,10.0,8.29,48.13,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,39,59,1.0,10.0,8.29,31.62,3.76,37.61
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,39,59,1.0,10.0,8.29,1.1,0.22,34.11
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,39,59,1.0,10.0,8.29,22.87,1.67,33.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,39,59,1.0,10.0,8.29,-0.76,0.35,35.27
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,39,59,1.0,10.0,8.29,1.76,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,39,59,1.0,10.0,8.29,10.7,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,39,59,1.0,10.0,8.29,18.87,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,39,59,1.0,10.0,8.29,-9.78,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,60,14,39,59,1.0,10.0,8.29,9.35,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,60,14,39,59,1.0,10.0,8.29,-6.83,4.41,37.75
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,34,69,1.0,10.0,7.95,27.23,1.67,33.12
+109,JETS.K,US Global Jets ETF,5,60,14,34,69,1.0,10.0,7.95,6.26,3.27,32.99
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,34,69,1.0,10.0,7.95,6.84,2.02,37.19
+109,GDX,VanEck Gold Miners ETF,5,60,14,34,69,1.0,10.0,7.95,1.81,4.41,37.75
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,34,69,1.0,10.0,7.95,-2.36,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,34,69,1.0,10.0,7.95,-0.76,0.35,35.27
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,34,69,1.0,10.0,7.95,0.0,-0.59,36.36
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,34,69,1.0,10.0,7.95,-7.21,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,34,69,1.0,10.0,7.95,-0.3,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,34,69,1.0,10.0,7.95,9.83,0.53,34.58
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,34,69,1.0,10.0,7.95,5.54,3.85,36.15
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,34,69,1.0,10.0,7.95,31.96,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,34,69,1.0,10.0,7.95,31.62,3.76,37.61
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,34,69,1.0,10.0,7.95,0.88,0.2,34.39
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,29,74,1.0,10.0,7.87,3.48,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,60,14,29,74,1.0,10.0,7.87,6.26,3.27,32.99
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,29,74,1.0,10.0,7.87,0.0,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,29,74,1.0,10.0,7.87,6.84,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,29,74,1.0,10.0,7.87,-0.64,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,29,74,1.0,10.0,7.87,0.0,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,29,74,1.0,10.0,7.87,33.42,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,29,74,1.0,10.0,7.87,27.11,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,29,74,1.0,10.0,7.87,-0.3,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,29,74,1.0,10.0,7.87,0.0,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,29,74,1.0,10.0,7.87,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,29,74,1.0,10.0,7.87,31.96,0.99,35.44
+109,GDX,VanEck Gold Miners ETF,5,60,14,29,74,1.0,10.0,7.87,2.04,4.41,37.75
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,29,74,1.0,10.0,7.87,0.0,3.76,37.61
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,44,59,1.0,10.0,7.41,24.82,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,44,59,1.0,10.0,7.41,48.59,0.99,35.44
+109,JETS.K,US Global Jets ETF,5,120,14,44,59,1.0,10.0,7.41,2.85,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,44,59,1.0,10.0,7.41,-6.33,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,44,59,1.0,10.0,7.41,15.2,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,44,59,1.0,10.0,7.41,10.08,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,44,59,1.0,10.0,7.41,4.11,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,44,59,1.0,10.0,7.41,-3.32,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,44,59,1.0,10.0,7.41,-6.15,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,44,59,1.0,10.0,7.41,-13.64,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,44,59,1.0,10.0,7.41,1.55,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,44,59,1.0,10.0,7.41,9.18,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,44,59,1.0,10.0,7.41,19.3,-0.59,36.36
+109,GDX,VanEck Gold Miners ETF,5,120,14,44,59,1.0,10.0,7.41,-2.48,4.41,37.75
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,39,64,1.0,10.0,7.25,48.13,0.99,35.44
+109,JETS.K,US Global Jets ETF,5,60,14,39,64,1.0,10.0,7.25,9.86,3.27,32.99
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,39,64,1.0,10.0,7.25,31.62,3.76,37.61
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,39,64,1.0,10.0,7.25,1.78,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,39,64,1.0,10.0,7.25,-2.89,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,39,64,1.0,10.0,7.25,-8.42,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,39,64,1.0,10.0,7.25,22.87,1.67,33.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,39,64,1.0,10.0,7.25,-0.76,0.35,35.27
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,39,64,1.0,10.0,7.25,-1.91,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,39,64,1.0,10.0,7.25,5.37,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,39,64,1.0,10.0,7.25,5.54,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,39,64,1.0,10.0,7.25,-3.68,0.2,34.39
+109,GDX,VanEck Gold Miners ETF,5,60,14,39,64,1.0,10.0,7.25,-6.02,4.41,37.75
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,39,64,1.0,10.0,7.25,0.0,-0.59,36.36
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,29,69,1.0,10.0,7.23,1.99,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,60,14,29,69,1.0,10.0,7.23,6.26,3.27,32.99
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,29,69,1.0,10.0,7.23,0.0,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,29,69,1.0,10.0,7.23,31.96,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,29,69,1.0,10.0,7.23,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,29,69,1.0,10.0,7.23,0.0,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,29,69,1.0,10.0,7.23,-0.3,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,29,69,1.0,10.0,7.23,27.11,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,29,69,1.0,10.0,7.23,27.23,1.67,33.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,29,69,1.0,10.0,7.23,0.0,0.35,35.27
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,29,69,1.0,10.0,7.23,-1.69,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,29,69,1.0,10.0,7.23,6.84,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,29,69,1.0,10.0,7.23,0.0,3.85,36.15
+109,GDX,VanEck Gold Miners ETF,5,60,14,29,69,1.0,10.0,7.23,1.81,4.41,37.75
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,29,79,1.0,10.0,7.21,0.0,3.19,38.12
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,29,79,1.0,10.0,7.21,0.0,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,29,79,1.0,10.0,7.21,1.86,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,29,79,1.0,10.0,7.21,-0.85,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,29,79,1.0,10.0,7.21,0.0,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,29,79,1.0,10.0,7.21,48.98,1.67,33.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,29,79,1.0,10.0,7.21,5.19,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,29,79,1.0,10.0,7.21,0.0,0.53,34.58
+109,GDX,VanEck Gold Miners ETF,5,120,14,29,79,1.0,10.0,7.21,0.0,4.41,37.75
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,29,79,1.0,10.0,7.21,30.96,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,29,79,1.0,10.0,7.21,0.0,3.76,37.61
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,29,79,1.0,10.0,7.21,14.84,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,120,14,29,79,1.0,10.0,7.21,0.0,3.27,32.99
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,29,79,1.0,10.0,7.21,0.0,-0.59,36.36
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,39,79,1.0,10.0,7.17,24.82,3.76,37.61
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,39,79,1.0,10.0,7.17,-4.43,0.35,35.27
+109,GDX,VanEck Gold Miners ETF,5,120,14,39,79,1.0,10.0,7.17,-2.8,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,120,14,39,79,1.0,10.0,7.17,2.85,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,39,79,1.0,10.0,7.17,8.57,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,39,79,1.0,10.0,7.17,3.37,3.85,36.15
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,39,79,1.0,10.0,7.17,-0.85,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,39,79,1.0,10.0,7.17,1.86,2.02,37.19
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,39,79,1.0,10.0,7.17,41.68,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,39,79,1.0,10.0,7.17,-9.09,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,39,79,1.0,10.0,7.17,-5.72,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,39,79,1.0,10.0,7.17,9.18,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,39,79,1.0,10.0,7.17,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,39,79,1.0,10.0,7.17,30.96,0.99,35.44
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,39,79,1.0,10.0,7.15,-0.76,0.35,35.27
+109,GDX,VanEck Gold Miners ETF,5,60,14,39,79,1.0,10.0,7.15,-2.77,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,60,14,39,79,1.0,10.0,7.15,-2.12,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,39,79,1.0,10.0,7.15,-0.6,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,39,79,1.0,10.0,7.15,5.54,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,39,79,1.0,10.0,7.15,1.96,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,39,79,1.0,10.0,7.15,-1.26,3.79,34.34
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,39,79,1.0,10.0,7.15,-8.42,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,39,79,1.0,10.0,7.15,48.66,1.67,33.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,39,79,1.0,10.0,7.15,-5.43,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,39,79,1.0,10.0,7.15,1.78,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,39,79,1.0,10.0,7.15,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,39,79,1.0,10.0,7.15,31.96,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,39,79,1.0,10.0,7.15,31.62,3.76,37.61
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,39,59,1.0,10.0,7.02,-4.43,0.35,35.27
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,39,59,1.0,10.0,7.02,6.31,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,39,59,1.0,10.0,7.02,15.2,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,39,59,1.0,10.0,7.02,5.39,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,39,59,1.0,10.0,7.02,7.86,3.79,34.34
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,39,59,1.0,10.0,7.02,-8.67,0.22,34.11
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,39,59,1.0,10.0,7.02,17.88,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,39,59,1.0,10.0,7.02,-13.64,3.19,38.12
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,39,59,1.0,10.0,7.02,24.82,3.76,37.61
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,39,59,1.0,10.0,7.02,9.18,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,39,59,1.0,10.0,7.02,0.0,-0.59,36.36
+109,JETS.K,US Global Jets ETF,5,120,14,39,59,1.0,10.0,7.02,2.85,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,120,14,39,59,1.0,10.0,7.02,-13.04,4.41,37.75
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,39,59,1.0,10.0,7.02,48.59,0.99,35.44
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,39,64,1.0,10.0,6.98,-4.43,0.35,35.27
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,39,64,1.0,10.0,6.98,24.82,3.76,37.61
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,39,64,1.0,10.0,6.98,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,39,64,1.0,10.0,6.98,9.18,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,39,64,1.0,10.0,6.98,-6.05,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,39,64,1.0,10.0,6.98,-9.09,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,39,64,1.0,10.0,6.98,17.88,1.67,33.12
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,39,64,1.0,10.0,6.98,48.59,0.99,35.44
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,39,64,1.0,10.0,6.98,2.53,3.79,34.34
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,39,64,1.0,10.0,6.98,3.37,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,39,64,1.0,10.0,6.98,9.8,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,120,14,39,64,1.0,10.0,6.98,2.85,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,120,14,39,64,1.0,10.0,6.98,-6.16,4.41,37.75
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,39,64,1.0,10.0,6.98,4.39,2.02,37.19
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,44,64,1.0,10.0,6.45,-6.15,1.67,33.12
+109,JETS.K,US Global Jets ETF,5,120,14,44,64,1.0,10.0,6.45,2.85,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,44,64,1.0,10.0,6.45,-1.78,0.2,34.39
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,44,64,1.0,10.0,6.45,4.39,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,44,64,1.0,10.0,6.45,0.34,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,44,64,1.0,10.0,6.45,-3.32,0.35,35.27
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,44,64,1.0,10.0,6.45,9.18,0.53,34.58
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,44,64,1.0,10.0,6.45,-9.09,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,44,64,1.0,10.0,6.45,-0.21,0.22,34.11
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,44,64,1.0,10.0,6.45,20.37,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,44,64,1.0,10.0,6.45,48.59,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,44,64,1.0,10.0,6.45,24.82,3.76,37.61
+109,GDX,VanEck Gold Miners ETF,5,120,14,44,64,1.0,10.0,6.45,-3.02,4.41,37.75
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,44,64,1.0,10.0,6.45,3.37,3.85,36.15
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,39,69,1.0,10.0,6.37,0.0,-0.59,36.36
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,39,69,1.0,10.0,6.37,-2.36,3.79,34.34
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,39,69,1.0,10.0,6.37,31.96,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,39,69,1.0,10.0,6.37,31.62,3.76,37.61
+109,GDX,VanEck Gold Miners ETF,5,60,14,39,69,1.0,10.0,6.37,-6.02,4.41,37.75
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,39,69,1.0,10.0,6.37,-6.53,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,39,69,1.0,10.0,6.37,5.54,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,39,69,1.0,10.0,6.37,9.44,2.02,37.19
+109,JETS.K,US Global Jets ETF,5,60,14,39,69,1.0,10.0,6.37,11.08,3.27,32.99
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,39,69,1.0,10.0,6.37,-0.76,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,39,69,1.0,10.0,6.37,27.23,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,39,69,1.0,10.0,6.37,-8.42,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,39,69,1.0,10.0,6.37,-5.43,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,39,69,1.0,10.0,6.37,1.78,0.53,34.58
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,39,74,1.0,10.0,6.28,24.82,3.76,37.61
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,39,74,1.0,10.0,6.28,8.71,2.02,37.19
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,39,74,1.0,10.0,6.28,30.96,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,39,74,1.0,10.0,6.28,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,39,74,1.0,10.0,6.28,9.18,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,39,74,1.0,10.0,6.28,-5.72,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,39,74,1.0,10.0,6.28,-9.09,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,39,74,1.0,10.0,6.28,27.67,1.67,33.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,39,74,1.0,10.0,6.28,-4.43,0.35,35.27
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,39,74,1.0,10.0,6.28,-0.85,3.79,34.34
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,39,74,1.0,10.0,6.28,3.27,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,120,14,39,74,1.0,10.0,6.28,2.85,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,120,14,39,74,1.0,10.0,6.28,-2.8,4.41,37.75
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,39,74,1.0,10.0,6.28,3.37,3.85,36.15
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,39,74,1.0,10.0,6.27,-8.42,3.19,38.12
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,39,74,1.0,10.0,6.27,-5.22,0.2,34.39
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,39,74,1.0,10.0,6.27,31.62,3.76,37.61
+109,GDX,VanEck Gold Miners ETF,5,60,14,39,74,1.0,10.0,6.27,-2.77,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,60,14,39,74,1.0,10.0,6.27,-2.12,3.27,32.99
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,39,74,1.0,10.0,6.27,5.54,3.85,36.15
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,39,74,1.0,10.0,6.27,-5.43,0.22,34.11
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,39,74,1.0,10.0,6.27,-1.26,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,39,74,1.0,10.0,6.27,-0.76,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,39,74,1.0,10.0,6.27,33.42,1.67,33.12
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,39,74,1.0,10.0,6.27,31.96,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,39,74,1.0,10.0,6.27,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,39,74,1.0,10.0,6.27,1.78,0.53,34.58
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,39,74,1.0,10.0,6.27,9.44,2.02,37.19
+109,GDX,VanEck Gold Miners ETF,5,120,14,34,79,1.0,10.0,6.24,1.04,4.41,37.75
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,34,79,1.0,10.0,6.24,5.19,0.22,34.11
+109,JETS.K,US Global Jets ETF,5,120,14,34,79,1.0,10.0,6.24,2.85,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,34,79,1.0,10.0,6.24,8.57,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,34,79,1.0,10.0,6.24,1.99,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,34,79,1.0,10.0,6.24,1.86,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,34,79,1.0,10.0,6.24,-0.85,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,34,79,1.0,10.0,6.24,0.0,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,34,79,1.0,10.0,6.24,41.68,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,34,79,1.0,10.0,6.24,-5.93,3.19,38.12
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,34,79,1.0,10.0,6.24,0.0,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,34,79,1.0,10.0,6.24,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,34,79,1.0,10.0,6.24,30.96,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,34,79,1.0,10.0,6.24,0.0,3.76,37.61
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,49,54,1.0,10.0,6.13,14.89,0.53,34.58
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,49,54,1.0,10.0,6.13,-11.38,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,49,54,1.0,10.0,6.13,1.54,0.22,34.11
+109,JETS.K,US Global Jets ETF,5,120,14,49,54,1.0,10.0,6.13,10.8,3.27,32.99
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,49,54,1.0,10.0,6.13,6.43,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,49,54,1.0,10.0,6.13,36.71,0.99,35.44
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,49,54,1.0,10.0,6.13,17.82,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,49,54,1.0,10.0,6.13,-10.92,1.67,33.12
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,49,54,1.0,10.0,6.13,24.51,3.76,37.61
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,49,54,1.0,10.0,6.13,0.9,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,49,54,1.0,10.0,6.13,6.46,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,49,54,1.0,10.0,6.13,7.75,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,49,54,1.0,10.0,6.13,-17.47,0.2,34.39
+109,GDX,VanEck Gold Miners ETF,5,120,14,49,54,1.0,10.0,6.13,-2.18,4.41,37.75
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,29,74,1.0,10.0,6.06,0.0,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,29,74,1.0,10.0,6.06,0.0,-0.59,36.36
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,29,74,1.0,10.0,6.06,5.19,0.22,34.11
+109,GDX,VanEck Gold Miners ETF,5,120,14,29,74,1.0,10.0,6.06,0.0,4.41,37.75
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,29,74,1.0,10.0,6.06,30.96,0.99,35.44
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,29,74,1.0,10.0,6.06,33.61,1.67,33.12
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,29,74,1.0,10.0,6.06,0.0,3.76,37.61
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,29,74,1.0,10.0,6.06,0.0,3.19,38.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,29,74,1.0,10.0,6.06,0.0,0.35,35.27
+109,JETS.K,US Global Jets ETF,5,120,14,29,74,1.0,10.0,6.06,0.0,3.27,32.99
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,29,74,1.0,10.0,6.06,6.87,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,29,74,1.0,10.0,6.06,0.0,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,29,74,1.0,10.0,6.06,9.05,0.2,34.39
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,29,74,1.0,10.0,6.06,-0.85,3.79,34.34
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,44,79,1.0,10.0,5.61,6.8,1.67,33.12
+109,GDX,VanEck Gold Miners ETF,5,120,14,44,79,1.0,10.0,5.61,-2.8,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,120,14,44,79,1.0,10.0,5.61,2.85,3.27,32.99
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,44,79,1.0,10.0,5.61,3.37,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,44,79,1.0,10.0,5.61,1.86,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,44,79,1.0,10.0,5.61,-0.85,3.79,34.34
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,44,79,1.0,10.0,5.61,0.13,0.2,34.39
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,44,79,1.0,10.0,5.61,-3.32,0.35,35.27
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,44,79,1.0,10.0,5.61,-5.72,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,44,79,1.0,10.0,5.61,9.18,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,44,79,1.0,10.0,5.61,20.37,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,44,79,1.0,10.0,5.61,30.96,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,44,79,1.0,10.0,5.61,24.82,3.76,37.61
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,44,79,1.0,10.0,5.61,-9.09,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,44,59,1.0,10.0,5.6,-2.66,1.67,33.12
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,44,59,1.0,10.0,5.6,48.13,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,44,59,1.0,10.0,5.6,11.59,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,44,59,1.0,10.0,5.6,1.78,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,44,59,1.0,10.0,5.6,2.05,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,44,59,1.0,10.0,5.6,-9.13,3.19,38.12
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,44,59,1.0,10.0,5.6,2.73,3.76,37.61
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,44,59,1.0,10.0,5.6,-0.76,0.35,35.27
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,44,59,1.0,10.0,5.6,1.76,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,44,59,1.0,10.0,5.6,10.7,2.02,37.19
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,44,59,1.0,10.0,5.6,-7.89,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,60,14,44,59,1.0,10.0,5.6,9.35,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,60,14,44,59,1.0,10.0,5.6,-0.89,4.41,37.75
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,44,59,1.0,10.0,5.6,11.58,3.85,36.15
+109,GDX,VanEck Gold Miners ETF,5,60,14,49,54,1.0,10.0,5.47,1.9,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,60,14,49,54,1.0,10.0,5.47,13.86,3.27,32.99
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,49,54,1.0,10.0,5.47,-4.03,1.67,33.12
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,49,54,1.0,10.0,5.47,1.2,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,49,54,1.0,10.0,5.47,37.55,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,49,54,1.0,10.0,5.47,15.32,-0.59,36.36
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,49,54,1.0,10.0,5.47,9.3,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,49,54,1.0,10.0,5.47,-7.7,3.19,38.12
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,49,54,1.0,10.0,5.47,-9.58,0.53,34.58
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,49,54,1.0,10.0,5.47,15.58,0.35,35.27
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,49,54,1.0,10.0,5.47,1.28,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,49,54,1.0,10.0,5.47,7.34,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,49,54,1.0,10.0,5.47,10.95,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,49,54,1.0,10.0,5.47,-16.35,0.2,34.39
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,39,69,1.0,10.0,5.45,9.18,0.53,34.58
+109,JETS.K,US Global Jets ETF,5,120,14,39,69,1.0,10.0,5.45,2.85,3.27,32.99
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,39,69,1.0,10.0,5.45,8.71,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,39,69,1.0,10.0,5.45,-1.93,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,39,69,1.0,10.0,5.45,-4.43,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,39,69,1.0,10.0,5.45,21.97,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,39,69,1.0,10.0,5.45,-9.09,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,39,69,1.0,10.0,5.45,-5.72,0.22,34.11
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,39,69,1.0,10.0,5.45,24.82,3.76,37.61
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,39,69,1.0,10.0,5.45,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,39,69,1.0,10.0,5.45,30.96,0.99,35.44
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,39,69,1.0,10.0,5.45,3.37,3.85,36.15
+109,GDX,VanEck Gold Miners ETF,5,120,14,39,69,1.0,10.0,5.45,-6.16,4.41,37.75
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,39,69,1.0,10.0,5.45,1.77,0.2,34.39
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,29,69,1.0,10.0,5.42,7.41,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,120,14,29,69,1.0,10.0,5.42,0.0,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,120,14,29,69,1.0,10.0,5.42,0.0,4.41,37.75
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,29,69,1.0,10.0,5.42,0.0,3.85,36.15
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,29,69,1.0,10.0,5.42,-1.93,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,29,69,1.0,10.0,5.42,0.0,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,29,69,1.0,10.0,5.42,27.37,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,29,69,1.0,10.0,5.42,0.0,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,29,69,1.0,10.0,5.42,5.19,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,29,69,1.0,10.0,5.42,0.0,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,29,69,1.0,10.0,5.42,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,29,69,1.0,10.0,5.42,30.96,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,29,69,1.0,10.0,5.42,0.0,3.76,37.61
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,29,69,1.0,10.0,5.42,6.87,2.02,37.19
+109,GDX,VanEck Gold Miners ETF,5,120,14,44,74,1.0,10.0,5.22,-2.8,4.41,37.75
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,44,74,1.0,10.0,5.22,-3.32,0.35,35.27
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,44,74,1.0,10.0,5.22,24.82,3.76,37.61
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,44,74,1.0,10.0,5.22,3.37,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,44,74,1.0,10.0,5.22,8.71,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,44,74,1.0,10.0,5.22,-0.85,3.79,34.34
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,44,74,1.0,10.0,5.22,30.96,0.99,35.44
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,44,74,1.0,10.0,5.22,-0.71,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,44,74,1.0,10.0,5.22,-9.09,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,44,74,1.0,10.0,5.22,-5.72,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,44,74,1.0,10.0,5.22,9.18,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,44,74,1.0,10.0,5.22,20.37,-0.59,36.36
+109,JETS.K,US Global Jets ETF,5,120,14,44,74,1.0,10.0,5.22,2.85,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,44,74,1.0,10.0,5.22,-4.71,0.2,34.39
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,34,74,1.0,10.0,5.22,30.96,0.99,35.44
+109,GDX,VanEck Gold Miners ETF,5,120,14,34,74,1.0,10.0,5.22,1.04,4.41,37.75
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,34,74,1.0,10.0,5.22,0.0,3.76,37.61
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,34,74,1.0,10.0,5.22,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,34,74,1.0,10.0,5.22,0.0,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,34,74,1.0,10.0,5.22,5.19,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,34,74,1.0,10.0,5.22,-5.93,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,34,74,1.0,10.0,5.22,27.67,1.67,33.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,34,74,1.0,10.0,5.22,0.0,0.35,35.27
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,34,74,1.0,10.0,5.22,6.87,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,34,74,1.0,10.0,5.22,1.99,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,34,74,1.0,10.0,5.22,3.27,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,120,14,34,74,1.0,10.0,5.22,2.85,3.27,32.99
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,34,74,1.0,10.0,5.22,-0.85,3.79,34.34
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,44,64,1.0,10.0,5.08,2.73,3.76,37.61
+109,GDX,VanEck Gold Miners ETF,5,60,14,44,64,1.0,10.0,5.08,-1.88,4.41,37.75
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,44,64,1.0,10.0,5.08,5.54,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,44,64,1.0,10.0,5.08,5.37,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,44,64,1.0,10.0,5.08,-1.91,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,44,64,1.0,10.0,5.08,-0.76,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,44,64,1.0,10.0,5.08,-2.66,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,44,64,1.0,10.0,5.08,-5.15,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,44,64,1.0,10.0,5.08,1.02,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,44,64,1.0,10.0,5.08,1.78,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,44,64,1.0,10.0,5.08,13.63,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,44,64,1.0,10.0,5.08,48.13,0.99,35.44
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,44,64,1.0,10.0,5.08,-4.53,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,60,14,44,64,1.0,10.0,5.08,9.86,3.27,32.99
+109,JETS.K,US Global Jets ETF,5,120,14,44,69,1.0,10.0,4.81,2.85,3.27,32.99
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,44,69,1.0,10.0,4.81,24.82,3.76,37.61
+109,GDX,VanEck Gold Miners ETF,5,120,14,44,69,1.0,10.0,4.81,-3.02,4.41,37.75
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,44,69,1.0,10.0,4.81,-6.08,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,44,69,1.0,10.0,4.81,3.37,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,44,69,1.0,10.0,4.81,8.71,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,44,69,1.0,10.0,4.81,-1.93,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,44,69,1.0,10.0,4.81,-3.32,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,44,69,1.0,10.0,4.81,-3.79,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,44,69,1.0,10.0,4.81,-9.09,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,44,69,1.0,10.0,4.81,-5.72,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,44,69,1.0,10.0,4.81,9.18,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,44,69,1.0,10.0,4.81,20.37,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,44,69,1.0,10.0,4.81,30.96,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,34,69,1.0,10.0,4.55,0.0,3.76,37.61
+109,GDX,VanEck Gold Miners ETF,5,120,14,34,69,1.0,10.0,4.55,0.02,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,120,14,34,69,1.0,10.0,4.55,2.85,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,34,69,1.0,10.0,4.55,1.77,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,34,69,1.0,10.0,4.55,1.99,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,34,69,1.0,10.0,4.55,6.87,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,34,69,1.0,10.0,4.55,-1.93,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,34,69,1.0,10.0,4.55,0.0,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,34,69,1.0,10.0,4.55,21.97,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,34,69,1.0,10.0,4.55,-5.93,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,34,69,1.0,10.0,4.55,5.19,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,34,69,1.0,10.0,4.55,0.0,0.53,34.58
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,34,69,1.0,10.0,4.55,30.96,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,34,69,1.0,10.0,4.55,0.0,-0.59,36.36
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,24,64,1.0,10.0,4.34,11.23,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,24,64,1.0,10.0,4.34,0.0,3.85,36.15
+109,GDX,VanEck Gold Miners ETF,5,60,14,24,64,1.0,10.0,4.34,0.0,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,60,14,24,64,1.0,10.0,4.34,0.0,3.27,32.99
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,24,64,1.0,10.0,4.34,1.4,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,24,64,1.0,10.0,4.34,0.0,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,24,64,1.0,10.0,4.34,0.0,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,24,64,1.0,10.0,4.34,0.0,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,24,64,1.0,10.0,4.34,0.0,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,24,64,1.0,10.0,4.34,0.0,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,24,64,1.0,10.0,4.34,0.0,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,24,64,1.0,10.0,4.34,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,24,64,1.0,10.0,4.34,48.13,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,24,64,1.0,10.0,4.34,0.0,3.76,37.61
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,24,59,1.0,10.0,4.19,11.23,0.2,34.39
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,24,59,1.0,10.0,4.19,0.0,1.67,33.12
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,24,59,1.0,10.0,4.19,48.13,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,24,59,1.0,10.0,4.19,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,24,59,1.0,10.0,4.19,0.0,0.53,34.58
+109,JETS.K,US Global Jets ETF,5,60,14,24,59,1.0,10.0,4.19,0.0,3.27,32.99
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,24,59,1.0,10.0,4.19,0.0,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,24,59,1.0,10.0,4.19,0.0,0.22,34.11
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,24,59,1.0,10.0,4.19,0.0,0.35,35.27
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,24,59,1.0,10.0,4.19,0.0,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,24,59,1.0,10.0,4.19,-0.68,2.02,37.19
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,24,59,1.0,10.0,4.19,0.0,3.76,37.61
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,24,59,1.0,10.0,4.19,0.0,3.85,36.15
+109,GDX,VanEck Gold Miners ETF,5,60,14,24,59,1.0,10.0,4.19,0.0,4.41,37.75
+109,GDX,VanEck Gold Miners ETF,5,60,14,44,69,1.0,10.0,3.91,-1.88,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,60,14,44,69,1.0,10.0,3.91,11.08,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,44,69,1.0,10.0,3.91,-7.13,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,44,69,1.0,10.0,3.91,5.54,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,44,69,1.0,10.0,3.91,9.44,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,44,69,1.0,10.0,3.91,-2.36,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,44,69,1.0,10.0,3.91,-0.76,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,44,69,1.0,10.0,3.91,-0.31,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,44,69,1.0,10.0,3.91,-3.61,3.19,38.12
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,44,69,1.0,10.0,3.91,1.78,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,44,69,1.0,10.0,3.91,13.63,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,44,69,1.0,10.0,3.91,31.96,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,44,69,1.0,10.0,3.91,2.73,3.76,37.61
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,44,69,1.0,10.0,3.91,-5.39,0.22,34.11
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,24,64,1.0,10.0,3.56,0.0,3.79,34.34
+109,GDX,VanEck Gold Miners ETF,5,120,14,24,64,1.0,10.0,3.56,0.0,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,120,14,24,64,1.0,10.0,3.56,0.0,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,24,64,1.0,10.0,3.56,0.0,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,24,64,1.0,10.0,3.56,0.0,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,24,64,1.0,10.0,3.56,1.2,2.02,37.19
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,24,64,1.0,10.0,3.56,0.0,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,24,64,1.0,10.0,3.56,0.0,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,24,64,1.0,10.0,3.56,0.0,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,24,64,1.0,10.0,3.56,0.0,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,24,64,1.0,10.0,3.56,0.0,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,24,64,1.0,10.0,3.56,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,24,64,1.0,10.0,3.56,48.59,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,24,64,1.0,10.0,3.56,0.0,3.76,37.61
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,44,79,1.0,10.0,3.4,-6.61,3.19,38.12
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,44,79,1.0,10.0,3.4,2.73,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,44,79,1.0,10.0,3.4,31.96,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,44,79,1.0,10.0,3.4,13.63,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,44,79,1.0,10.0,3.4,1.78,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,44,79,1.0,10.0,3.4,-5.39,0.22,34.11
+109,JETS.K,US Global Jets ETF,5,60,14,44,79,1.0,10.0,3.4,-2.12,3.27,32.99
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,44,79,1.0,10.0,3.4,10.41,1.67,33.12
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,44,79,1.0,10.0,3.4,-1.26,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,44,79,1.0,10.0,3.4,1.96,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,44,79,1.0,10.0,3.4,5.54,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,44,79,1.0,10.0,3.4,-1.48,0.2,34.39
+109,GDX,VanEck Gold Miners ETF,5,60,14,44,79,1.0,10.0,3.4,-2.77,4.41,37.75
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,44,79,1.0,10.0,3.4,-0.76,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,24,59,1.0,10.0,3.37,0.0,1.67,33.12
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,24,59,1.0,10.0,3.37,0.0,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,24,59,1.0,10.0,3.37,48.59,0.99,35.44
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,24,59,1.0,10.0,3.37,0.0,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,24,59,1.0,10.0,3.37,0.0,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,24,59,1.0,10.0,3.37,0.0,3.19,38.12
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,24,59,1.0,10.0,3.37,0.0,-0.59,36.36
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,24,59,1.0,10.0,3.37,0.0,0.35,35.27
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,24,59,1.0,10.0,3.37,-1.35,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,24,59,1.0,10.0,3.37,0.0,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,24,59,1.0,10.0,3.37,0.0,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,120,14,24,59,1.0,10.0,3.37,0.0,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,120,14,24,59,1.0,10.0,3.37,0.0,4.41,37.75
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,24,59,1.0,10.0,3.37,0.0,3.79,34.34
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,44,74,1.0,10.0,3.29,-1.26,3.79,34.34
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,44,74,1.0,10.0,3.29,1.78,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,44,74,1.0,10.0,3.29,-5.39,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,44,74,1.0,10.0,3.29,-3.61,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,44,74,1.0,10.0,3.29,2.81,1.67,33.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,44,74,1.0,10.0,3.29,-0.76,0.35,35.27
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,44,74,1.0,10.0,3.29,31.96,0.99,35.44
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,44,74,1.0,10.0,3.29,9.44,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,44,74,1.0,10.0,3.29,5.54,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,44,74,1.0,10.0,3.29,-5.89,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,60,14,44,74,1.0,10.0,3.29,-2.12,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,60,14,44,74,1.0,10.0,3.29,-2.77,4.41,37.75
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,44,74,1.0,10.0,3.29,2.73,3.76,37.61
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,44,74,1.0,10.0,3.29,13.63,-0.59,36.36
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,24,79,1.0,10.0,3.05,0.0,-0.59,36.36
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,24,79,1.0,10.0,3.05,0.0,0.35,35.27
+109,JETS.K,US Global Jets ETF,5,60,14,24,79,1.0,10.0,3.05,0.0,3.27,32.99
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,24,79,1.0,10.0,3.05,0.0,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,24,79,1.0,10.0,3.05,31.96,0.99,35.44
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,24,79,1.0,10.0,3.05,0.0,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,24,79,1.0,10.0,3.05,0.0,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,24,79,1.0,10.0,3.05,0.0,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,24,79,1.0,10.0,3.05,0.0,1.67,33.12
+109,GDX,VanEck Gold Miners ETF,5,60,14,24,79,1.0,10.0,3.05,0.0,4.41,37.75
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,24,79,1.0,10.0,3.05,0.0,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,24,79,1.0,10.0,3.05,1.96,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,24,79,1.0,10.0,3.05,0.0,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,24,79,1.0,10.0,3.05,8.75,0.2,34.39
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,24,74,1.0,10.0,3.02,0.0,3.76,37.61
+109,GDX,VanEck Gold Miners ETF,5,60,14,24,74,1.0,10.0,3.02,0.0,4.41,37.75
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,24,74,1.0,10.0,3.02,0.0,1.67,33.12
+109,JETS.K,US Global Jets ETF,5,60,14,24,74,1.0,10.0,3.02,0.0,3.27,32.99
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,24,74,1.0,10.0,3.02,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,24,74,1.0,10.0,3.02,0.0,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,24,74,1.0,10.0,3.02,0.0,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,24,74,1.0,10.0,3.02,0.0,3.19,38.12
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,24,74,1.0,10.0,3.02,31.96,0.99,35.44
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,24,74,1.0,10.0,3.02,0.0,0.35,35.27
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,24,74,1.0,10.0,3.02,6.84,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,24,74,1.0,10.0,3.02,0.0,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,24,74,1.0,10.0,3.02,3.48,0.2,34.39
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,24,74,1.0,10.0,3.02,0.0,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,24,54,1.0,10.0,2.98,0.0,0.35,35.27
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,24,54,1.0,10.0,2.98,4.89,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,24,54,1.0,10.0,2.98,0.0,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,24,54,1.0,10.0,2.98,-0.68,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,24,54,1.0,10.0,2.98,0.0,3.79,34.34
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,24,54,1.0,10.0,2.98,0.0,0.22,34.11
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,24,54,1.0,10.0,2.98,0.0,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,24,54,1.0,10.0,2.98,0.0,3.19,38.12
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,24,54,1.0,10.0,2.98,0.0,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,24,54,1.0,10.0,2.98,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,24,54,1.0,10.0,2.98,37.55,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,24,54,1.0,10.0,2.98,0.0,3.76,37.61
+109,GDX,VanEck Gold Miners ETF,5,60,14,24,54,1.0,10.0,2.98,0.0,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,60,14,24,54,1.0,10.0,2.98,0.0,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,60,14,24,69,1.0,10.0,2.91,0.0,4.41,37.75
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,24,69,1.0,10.0,2.91,0.0,3.19,38.12
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,24,69,1.0,10.0,2.91,0.0,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,24,69,1.0,10.0,2.91,31.96,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,24,69,1.0,10.0,2.91,0.0,-0.59,36.36
+109,JETS.K,US Global Jets ETF,5,60,14,24,69,1.0,10.0,2.91,0.0,3.27,32.99
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,24,69,1.0,10.0,2.91,0.0,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,24,69,1.0,10.0,2.91,0.0,0.53,34.58
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,24,69,1.0,10.0,2.91,0.0,1.67,33.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,24,69,1.0,10.0,2.91,0.0,0.35,35.27
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,24,69,1.0,10.0,2.91,0.0,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,24,69,1.0,10.0,2.91,6.84,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,24,69,1.0,10.0,2.91,0.0,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,24,69,1.0,10.0,2.91,1.99,0.2,34.39
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,24,69,1.0,10.0,2.7,0.0,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,24,69,1.0,10.0,2.7,30.96,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,24,69,1.0,10.0,2.7,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,24,69,1.0,10.0,2.7,0.0,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,24,69,1.0,10.0,2.7,0.0,0.22,34.11
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,24,69,1.0,10.0,2.7,0.0,3.85,36.15
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,24,69,1.0,10.0,2.7,0.0,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,24,69,1.0,10.0,2.7,0.0,1.67,33.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,24,69,1.0,10.0,2.7,0.0,0.35,35.27
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,24,69,1.0,10.0,2.7,0.0,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,24,69,1.0,10.0,2.7,6.87,2.02,37.19
+109,JETS.K,US Global Jets ETF,5,120,14,24,74,1.0,10.0,2.7,0.0,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,120,14,24,74,1.0,10.0,2.7,0.0,4.41,37.75
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,24,74,1.0,10.0,2.7,0.0,0.22,34.11
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,24,74,1.0,10.0,2.7,0.0,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,24,74,1.0,10.0,2.7,0.0,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,24,74,1.0,10.0,2.7,6.87,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,24,74,1.0,10.0,2.7,0.0,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,24,74,1.0,10.0,2.7,0.0,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,24,74,1.0,10.0,2.7,0.0,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,24,74,1.0,10.0,2.7,0.0,3.19,38.12
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,24,74,1.0,10.0,2.7,0.0,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,24,74,1.0,10.0,2.7,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,24,74,1.0,10.0,2.7,30.96,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,24,74,1.0,10.0,2.7,0.0,3.76,37.61
+109,GDX,VanEck Gold Miners ETF,5,120,14,24,69,1.0,10.0,2.7,0.0,4.41,37.75
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,24,69,1.0,10.0,2.7,0.0,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,120,14,24,69,1.0,10.0,2.7,0.0,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,120,14,24,54,1.0,10.0,2.53,0.0,4.41,37.75
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,24,54,1.0,10.0,2.53,0.0,0.53,34.58
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,24,54,1.0,10.0,2.53,0.0,3.76,37.61
+109,JETS.K,US Global Jets ETF,5,120,14,24,54,1.0,10.0,2.53,0.0,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,24,54,1.0,10.0,2.53,0.0,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,24,54,1.0,10.0,2.53,0.0,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,24,54,1.0,10.0,2.53,-1.35,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,24,54,1.0,10.0,2.53,0.0,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,24,54,1.0,10.0,2.53,0.0,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,24,54,1.0,10.0,2.53,0.0,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,24,54,1.0,10.0,2.53,0.0,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,24,54,1.0,10.0,2.53,0.0,0.22,34.11
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,24,54,1.0,10.0,2.53,0.0,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,24,54,1.0,10.0,2.53,36.71,0.99,35.44
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,24,79,1.0,10.0,2.34,30.96,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,24,79,1.0,10.0,2.34,0.0,3.76,37.61
+109,GDX,VanEck Gold Miners ETF,5,120,14,24,79,1.0,10.0,2.34,0.0,4.41,37.75
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,24,79,1.0,10.0,2.34,0.0,0.35,35.27
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,24,79,1.0,10.0,2.34,0.0,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,24,79,1.0,10.0,2.34,0.0,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,24,79,1.0,10.0,2.34,0.0,0.22,34.11
+109,JETS.K,US Global Jets ETF,5,120,14,24,79,1.0,10.0,2.34,0.0,3.27,32.99
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,24,79,1.0,10.0,2.34,0.0,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,24,79,1.0,10.0,2.34,0.0,3.19,38.12
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,24,79,1.0,10.0,2.34,0.0,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,24,79,1.0,10.0,2.34,1.86,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,24,79,1.0,10.0,2.34,0.0,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,24,79,1.0,10.0,2.34,0.0,0.2,34.39
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,49,64,1.0,10.0,1.74,-3.32,0.35,35.27
+109,GDX,VanEck Gold Miners ETF,5,120,14,49,64,1.0,10.0,1.74,-2.92,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,120,14,49,64,1.0,10.0,1.74,-4.91,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,49,64,1.0,10.0,1.74,-6.83,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,49,64,1.0,10.0,1.74,3.37,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,49,64,1.0,10.0,1.74,1.66,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,49,64,1.0,10.0,1.74,-1.26,3.79,34.34
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,49,64,1.0,10.0,1.74,-11.42,3.76,37.61
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,49,64,1.0,10.0,1.74,-11.05,1.67,33.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,49,64,1.0,10.0,1.74,-0.21,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,49,64,1.0,10.0,1.74,9.18,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,49,64,1.0,10.0,1.74,9.43,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,49,64,1.0,10.0,1.74,48.59,0.99,35.44
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,49,64,1.0,10.0,1.74,-5.99,3.19,38.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,49,59,1.0,10.0,1.71,1.11,0.35,35.27
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,49,59,1.0,10.0,1.71,11.59,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,49,59,1.0,10.0,1.71,-10.41,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,49,59,1.0,10.0,1.71,1.47,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,49,59,1.0,10.0,1.71,-4.65,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,49,59,1.0,10.0,1.71,-7.53,1.67,33.12
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,49,59,1.0,10.0,1.71,11.58,3.85,36.15
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,49,59,1.0,10.0,1.71,-3.88,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,49,59,1.0,10.0,1.71,1.42,2.02,37.19
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,49,59,1.0,10.0,1.71,-10.94,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,60,14,49,59,1.0,10.0,1.71,-4.86,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,60,14,49,59,1.0,10.0,1.71,0.57,4.41,37.75
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,49,59,1.0,10.0,1.71,48.13,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,49,59,1.0,10.0,1.71,-9.66,3.76,37.61
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,49,79,1.0,10.0,1.29,-11.42,3.76,37.61
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,49,79,1.0,10.0,1.29,-3.32,0.35,35.27
+109,GDX,VanEck Gold Miners ETF,5,120,14,49,79,1.0,10.0,1.29,-2.8,4.41,37.75
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,49,79,1.0,10.0,1.29,-3.01,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,49,79,1.0,10.0,1.29,3.37,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,49,79,1.0,10.0,1.29,1.86,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,49,79,1.0,10.0,1.29,-0.85,3.79,34.34
+109,JETS.K,US Global Jets ETF,5,120,14,49,79,1.0,10.0,1.29,-2.4,3.27,32.99
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,49,79,1.0,10.0,1.29,-0.24,1.67,33.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,49,79,1.0,10.0,1.29,-5.72,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,49,79,1.0,10.0,1.29,9.18,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,49,79,1.0,10.0,1.29,9.43,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,49,79,1.0,10.0,1.29,30.96,0.99,35.44
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,49,79,1.0,10.0,1.29,-6.95,3.19,38.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,49,59,1.0,10.0,1.22,-8.25,3.19,38.12
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,49,59,1.0,10.0,1.22,48.59,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,49,59,1.0,10.0,1.22,6.53,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,49,59,1.0,10.0,1.22,9.18,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,49,59,1.0,10.0,1.22,-0.7,0.22,34.11
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,49,59,1.0,10.0,1.22,-3.77,3.79,34.34
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,49,59,1.0,10.0,1.22,-11.05,1.67,33.12
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,49,59,1.0,10.0,1.22,-3.32,0.35,35.27
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,49,59,1.0,10.0,1.22,0.87,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,49,59,1.0,10.0,1.22,8.69,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,49,59,1.0,10.0,1.22,-11.56,0.2,34.39
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,49,59,1.0,10.0,1.22,-11.42,3.76,37.61
+109,GDX,VanEck Gold Miners ETF,5,120,14,49,59,1.0,10.0,1.22,-1.27,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,120,14,49,59,1.0,10.0,1.22,-5.5,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,60,14,49,64,1.0,10.0,0.98,-2.54,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,60,14,49,64,1.0,10.0,0.98,-4.3,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,49,64,1.0,10.0,0.98,-7.13,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,49,64,1.0,10.0,0.98,5.54,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,49,64,1.0,10.0,0.98,1.81,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,49,64,1.0,10.0,0.98,-1.91,3.79,34.34
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,49,64,1.0,10.0,0.98,-7.53,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,49,64,1.0,10.0,0.98,-5.15,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,49,64,1.0,10.0,0.98,1.02,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,49,64,1.0,10.0,0.98,-10.41,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,49,64,1.0,10.0,0.98,13.63,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,49,64,1.0,10.0,0.98,48.13,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,49,64,1.0,10.0,0.98,-9.66,3.76,37.61
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,49,64,1.0,10.0,0.98,-7.83,0.35,35.27
+109,GDX,VanEck Gold Miners ETF,5,120,14,49,74,1.0,10.0,0.96,-2.8,4.41,37.75
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,49,74,1.0,10.0,0.96,-6.48,1.67,33.12
+109,JETS.K,US Global Jets ETF,5,120,14,49,74,1.0,10.0,0.96,-2.4,3.27,32.99
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,49,74,1.0,10.0,0.96,-4.29,3.19,38.12
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,49,74,1.0,10.0,0.96,-7.47,0.2,34.39
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,49,74,1.0,10.0,0.96,-11.42,3.76,37.61
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,49,74,1.0,10.0,0.96,30.96,0.99,35.44
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,49,74,1.0,10.0,0.96,9.43,-0.59,36.36
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,49,74,1.0,10.0,0.96,-5.72,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,49,74,1.0,10.0,0.96,9.18,0.53,34.58
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,49,74,1.0,10.0,0.96,-3.32,0.35,35.27
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,49,74,1.0,10.0,0.96,-0.85,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,49,74,1.0,10.0,0.96,5.22,2.02,37.19
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,49,74,1.0,10.0,0.96,3.37,3.85,36.15
+109,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,49,69,1.0,10.0,0.69,-8.73,0.2,34.39
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,49,69,1.0,10.0,0.69,-9.06,1.67,33.12
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,49,69,1.0,10.0,0.69,3.37,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,49,69,1.0,10.0,0.69,5.22,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,120,14,49,69,1.0,10.0,0.69,-1.93,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,49,69,1.0,10.0,0.69,-3.32,0.35,35.27
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,120,14,49,69,1.0,10.0,0.69,-11.42,3.76,37.61
+109,IEZ,iShares US Oil Equipment & Services ETF,5,120,14,49,69,1.0,10.0,0.69,-4.29,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,49,69,1.0,10.0,0.69,-5.72,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,120,14,49,69,1.0,10.0,0.69,9.18,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,49,69,1.0,10.0,0.69,9.43,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,120,14,49,69,1.0,10.0,0.69,30.96,0.99,35.44
+109,GDX,VanEck Gold Miners ETF,5,120,14,49,69,1.0,10.0,0.69,-0.92,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,120,14,49,69,1.0,10.0,0.69,-3.08,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,60,14,49,79,1.0,10.0,0.49,-2.77,4.41,37.75
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,49,79,1.0,10.0,0.49,-9.66,3.76,37.61
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,49,79,1.0,10.0,0.49,-7.83,0.35,35.27
+109,JETS.K,US Global Jets ETF,5,60,14,49,79,1.0,10.0,0.49,-2.12,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,49,79,1.0,10.0,0.49,-3.84,0.2,34.39
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,49,79,1.0,10.0,0.49,31.96,0.99,35.44
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,49,79,1.0,10.0,0.49,1.96,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,49,79,1.0,10.0,0.49,-1.26,3.79,34.34
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,49,79,1.0,10.0,0.49,5.54,3.85,36.15
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,49,79,1.0,10.0,0.49,3.63,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,49,79,1.0,10.0,0.49,-6.61,3.19,38.12
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,49,79,1.0,10.0,0.49,-5.39,0.22,34.11
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,49,79,1.0,10.0,0.49,-10.41,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,49,79,1.0,10.0,0.49,13.63,-0.59,36.36
+109,GDX,VanEck Gold Miners ETF,5,60,14,49,74,1.0,10.0,0.16,-2.77,4.41,37.75
+109,JETS.K,US Global Jets ETF,5,60,14,49,74,1.0,10.0,0.16,-2.12,3.27,32.99
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,49,74,1.0,10.0,0.16,-8.14,0.2,34.39
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,49,74,1.0,10.0,0.16,5.54,3.85,36.15
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,49,74,1.0,10.0,0.16,5.15,2.02,37.19
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,49,74,1.0,10.0,0.16,-1.26,3.79,34.34
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,49,74,1.0,10.0,0.16,-7.83,0.35,35.27
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,49,74,1.0,10.0,0.16,-2.84,1.67,33.12
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,49,74,1.0,10.0,0.16,-3.61,3.19,38.12
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,49,74,1.0,10.0,0.16,-10.41,0.53,34.58
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,49,74,1.0,10.0,0.16,13.63,-0.59,36.36
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,49,74,1.0,10.0,0.16,31.96,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,49,74,1.0,10.0,0.16,-9.66,3.76,37.61
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,49,74,1.0,10.0,0.16,-5.39,0.22,34.11
+109,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,49,69,1.0,10.0,-0.08,-7.83,0.35,35.27
+109,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,49,69,1.0,10.0,-0.08,13.63,-0.59,36.36
+109,AWAY.K,Amplify Travel Tech ETF,5,60,14,49,69,1.0,10.0,-0.08,-10.41,0.53,34.58
+109,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,49,69,1.0,10.0,-0.08,-5.39,0.22,34.11
+109,IEZ,iShares US Oil Equipment & Services ETF,5,60,14,49,69,1.0,10.0,-0.08,-3.61,3.19,38.12
+109,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,49,69,1.0,10.0,-0.08,-5.49,1.67,33.12
+109,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,49,69,1.0,10.0,-0.08,5.54,3.85,36.15
+109,TUR.O,iShares MSCI Turkey ETF,5,60,14,49,69,1.0,10.0,-0.08,-2.36,3.79,34.34
+109,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,49,69,1.0,10.0,-0.08,5.15,2.02,37.19
+109,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,49,69,1.0,10.0,-0.08,-9.34,0.2,34.39
+109,JETS.K,US Global Jets ETF,5,60,14,49,69,1.0,10.0,-0.08,-2.6,3.27,32.99
+109,GDX,VanEck Gold Miners ETF,5,60,14,49,69,1.0,10.0,-0.08,-0.63,4.41,37.75
+109,DAT,ProShares Big Data Refiners ETF,5,60,14,49,69,1.0,10.0,-0.08,31.96,0.99,35.44
+109,VCAR.K,Simplify Volt RoboCar Disruption and Tech ETF,5,60,14,49,69,1.0,10.0,-0.08,-9.66,3.76,37.61

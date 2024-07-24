@@ -1,0 +1,793 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,24,54,1.0,10.0,0.0,0,98.54,55.33
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,29,79,1.0,10.0,0.0,0,98.53,55.1
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,29,79,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,29,79,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,29,79,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,29,79,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,29,79,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,29,79,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,34,54,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,34,54,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,34,54,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,34,54,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,34,54,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,34,54,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,34,54,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,34,54,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,34,54,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,34,54,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,34,54,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,34,59,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,34,59,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,34,59,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,34,59,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,29,79,1.0,10.0,0.0,0,95.1,54.14
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,29,79,1.0,10.0,0.0,0,97.68,55.18
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,34,59,1.0,10.0,0.0,0,98.83,54.96
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,29,79,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,29,69,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,29,69,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,29,69,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,29,69,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,29,69,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,29,69,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,29,69,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,29,69,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,29,69,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,29,74,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,29,74,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,29,74,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,29,74,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,29,74,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,29,74,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,29,74,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,29,74,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,29,74,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,29,74,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,29,74,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,29,79,1.0,10.0,0.0,0,98.54,55.33
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,34,59,1.0,10.0,0.0,0,95.1,54.14
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,34,59,1.0,10.0,0.0,0,101.24,55.18
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,24,54,1.0,10.0,0.0,0,99.04,55.4
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,34,69,1.0,10.0,0.0,0,97.02,55.04
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,34,74,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,34,74,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,34,74,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,34,74,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,34,74,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,34,74,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,34,74,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,34,74,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,34,74,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,34,74,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,34,74,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,34,79,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,34,79,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,34,79,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,34,79,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,34,79,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,34,79,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,34,79,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,34,79,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,34,79,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,34,79,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,34,69,1.0,10.0,0.0,0,102.32,52.28
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,34,69,1.0,10.0,0.0,0,100.05,55.12
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,34,59,1.0,10.0,0.0,0,98.52,55.17
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,34,69,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,34,59,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,34,59,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,34,59,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,34,64,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,34,64,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,34,64,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,34,64,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,34,64,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,34,64,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,34,64,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,34,64,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,34,64,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,34,64,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,34,64,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,34,69,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,34,69,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,34,69,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,34,69,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,34,69,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,34,69,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,34,69,1.0,10.0,0.0,0,101.24,55.18
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,29,69,1.0,10.0,0.0,0,99.04,55.4
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,29,69,1.0,10.0,0.0,0,98.54,55.33
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,29,64,1.0,10.0,0.0,0,102.32,52.28
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,24,64,1.0,10.0,0.0,0,98.53,55.1
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,24,64,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,24,64,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,24,64,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,24,64,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,24,64,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,24,64,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,24,69,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,24,69,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,24,69,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,24,69,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,24,69,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,24,69,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,24,69,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,24,69,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,24,69,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,24,69,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,24,69,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,24,74,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,24,74,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,24,74,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,24,74,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,24,64,1.0,10.0,0.0,0,95.1,54.14
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,24,64,1.0,10.0,0.0,0,97.68,55.18
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,29,64,1.0,10.0,0.0,0,97.02,55.04
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,24,64,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,24,54,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,24,54,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,24,54,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,24,54,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,24,54,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,24,54,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,24,54,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,24,54,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,24,54,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,24,59,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,24,59,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,24,59,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,24,59,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,24,59,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,24,59,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,24,59,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,24,59,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,24,59,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,24,59,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,24,59,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,24,64,1.0,10.0,0.0,0,98.54,55.33
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,24,74,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,24,74,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,24,74,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,24,74,1.0,10.0,0.0,0,98.52,55.17
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,29,54,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,29,59,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,29,59,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,29,59,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,29,59,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,29,59,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,29,59,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,29,59,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,29,59,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,29,59,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,29,59,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,29,59,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,29,64,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,29,64,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,29,64,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,29,64,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,29,64,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,29,64,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,29,64,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,29,64,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,29,64,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,29,54,1.0,10.0,0.0,0,97.02,55.04
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,29,54,1.0,10.0,0.0,0,100.05,55.12
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,29,54,1.0,10.0,0.0,0,98.52,55.17
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,24,79,1.0,10.0,0.0,0,101.24,55.18
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,24,74,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,24,74,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,24,74,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,24,79,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,24,79,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,24,79,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,24,79,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,24,79,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,24,79,1.0,10.0,0.0,0,98.83,54.96
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,24,79,1.0,10.0,0.0,0,98.52,55.17
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,29,54,1.0,10.0,0.0,0,101.24,55.18
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,24,79,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,24,79,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,24,79,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,29,54,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,29,54,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,29,54,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,29,54,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,29,54,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,29,54,1.0,10.0,0.0,0,98.83,54.96
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,34,79,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,39,54,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,39,54,1.0,10.0,0.0,0,99.04,55.4
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,44,79,1.0,10.0,0.0,0,95.1,54.14
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,44,79,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,44,79,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,44,79,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,44,79,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,44,79,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,49,54,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,49,54,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,49,54,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,49,54,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,49,54,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,49,54,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,49,54,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,49,54,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,49,54,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,49,54,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,49,54,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,49,59,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,49,59,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,49,59,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,49,59,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,49,59,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,44,79,1.0,10.0,0.0,0,98.83,54.96
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,44,79,1.0,10.0,0.0,0,98.53,55.1
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,44,69,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,44,79,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,44,69,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,44,69,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,44,69,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,44,69,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,44,69,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,44,69,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,44,69,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,44,69,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,44,74,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,44,74,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,44,74,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,44,74,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,44,74,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,44,74,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,44,74,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,44,74,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,44,74,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,44,74,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,44,74,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,44,79,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,44,79,1.0,10.0,0.0,0,99.04,55.4
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,49,59,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,49,59,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,49,59,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,49,59,1.0,10.0,0.0,0,100.05,55.12
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,49,74,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,49,74,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,49,74,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,49,74,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,49,74,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,49,74,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,49,74,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,49,74,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,49,74,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,49,74,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,49,74,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,49,79,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,49,79,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,49,79,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,49,79,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,49,79,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,49,79,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,49,79,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,49,79,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,49,79,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,49,79,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,49,69,1.0,10.0,0.0,0,102.32,52.28
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,49,69,1.0,10.0,0.0,0,97.02,55.04
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,49,69,1.0,10.0,0.0,0,100.05,55.12
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,49,64,1.0,10.0,0.0,0,98.52,55.17
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,49,59,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,49,59,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,49,64,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,49,64,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,49,64,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,49,64,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,49,64,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,49,64,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,49,64,1.0,10.0,0.0,0,101.24,55.18
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,49,64,1.0,10.0,0.0,0,100.05,55.12
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,49,69,1.0,10.0,0.0,0,98.52,55.17
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,49,64,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,49,64,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,49,69,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,49,69,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,49,69,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,49,69,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,49,69,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,49,69,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,49,69,1.0,10.0,0.0,0,101.24,55.18
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,44,69,1.0,10.0,0.0,0,97.68,55.18
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,44,69,1.0,10.0,0.0,0,98.54,55.33
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,39,54,1.0,10.0,0.0,0,97.68,55.18
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,39,64,1.0,10.0,0.0,0,95.1,54.14
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,39,64,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,39,64,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,39,64,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,39,64,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,39,64,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,39,69,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,39,69,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,39,69,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,39,69,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,39,69,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,39,69,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,39,69,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,39,69,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,39,69,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,39,69,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,39,69,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,39,74,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,39,74,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,39,74,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,39,74,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,39,74,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,39,64,1.0,10.0,0.0,0,98.83,54.96
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,39,64,1.0,10.0,0.0,0,98.53,55.1
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,44,64,1.0,10.0,0.0,0,102.32,52.28
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,39,64,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,39,54,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,39,54,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,39,54,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,39,54,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,39,54,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,39,54,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,39,54,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,39,54,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,39,59,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,39,59,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,39,59,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,39,59,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,39,59,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,39,59,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,39,59,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,39,59,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,39,59,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,39,59,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,39,59,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,39,64,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,39,64,1.0,10.0,0.0,0,99.04,55.4
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,39,74,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,39,74,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,39,74,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,39,74,1.0,10.0,0.0,0,100.05,55.12
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,44,59,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,44,59,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,44,59,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,44,59,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,44,59,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,44,59,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,44,59,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,44,59,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,44,59,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,44,59,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,44,59,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,44,64,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,44,64,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,44,64,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,44,64,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,44,64,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,44,64,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,44,64,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,44,64,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,44,64,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,44,64,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,44,54,1.0,10.0,0.0,0,102.32,52.28
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,44,54,1.0,10.0,0.0,0,97.02,55.04
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,44,54,1.0,10.0,0.0,0,100.05,55.12
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,39,79,1.0,10.0,0.0,0,98.52,55.17
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,39,74,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,39,74,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,39,79,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,39,79,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,39,79,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,39,79,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,39,79,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,39,79,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,39,79,1.0,10.0,0.0,0,101.24,55.18
+13,EZBC.K,Franklin Bitcoin ETF,5,120,14,39,79,1.0,10.0,0.0,0,100.05,55.12
+13,HODL.K,VanEck Bitcoin Trust,5,120,14,44,54,1.0,10.0,0.0,0,98.52,55.17
+13,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,39,79,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,39,79,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,44,54,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,44,54,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,120,14,44,54,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,44,54,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,120,14,44,54,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,44,54,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,44,54,1.0,10.0,0.0,0,101.24,55.18
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,24,54,1.0,10.0,0.0,0,99.04,55.4
+13,IBIT.O,iShares Bitcoin Trust,5,120,14,24,54,1.0,10.0,0.0,0,98.54,55.33
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,49,79,1.0,10.0,0.0,0,102.32,52.28
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,29,79,1.0,10.0,0.0,0,98.53,55.1
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,29,79,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,29,79,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,29,79,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,29,79,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,29,79,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,29,79,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,34,54,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,34,54,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,34,54,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,34,54,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,34,54,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,34,54,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,34,54,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,34,54,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,34,54,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,34,54,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,34,54,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,34,59,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,34,59,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,34,59,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,34,59,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,29,79,1.0,10.0,0.0,0,95.1,54.14
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,29,79,1.0,10.0,0.0,0,97.68,55.18
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,29,69,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,29,79,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,29,69,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,29,69,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,29,69,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,29,69,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,29,69,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,29,69,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,29,69,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,29,69,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,29,69,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,29,74,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,29,74,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,29,74,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,29,74,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,29,74,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,29,74,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,29,74,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,29,74,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,29,74,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,29,74,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,29,74,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,29,79,1.0,10.0,0.0,0,98.54,55.33
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,34,59,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,34,59,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,34,59,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,34,59,1.0,10.0,0.0,0,98.52,55.17
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,34,69,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,34,74,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,34,74,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,34,74,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,34,74,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,34,74,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,34,74,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,34,74,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,34,74,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,34,74,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,34,74,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,34,74,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,34,79,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,34,79,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,34,79,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,34,79,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,34,79,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,34,79,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,34,79,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,34,79,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,34,79,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,34,69,1.0,10.0,0.0,0,97.02,55.04
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,34,69,1.0,10.0,0.0,0,100.05,55.12
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,34,69,1.0,10.0,0.0,0,98.52,55.17
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,34,64,1.0,10.0,0.0,0,101.24,55.18
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,34,59,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,34,59,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,34,59,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,34,64,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,34,64,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,34,64,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,34,64,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,34,64,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,34,64,1.0,10.0,0.0,0,98.83,54.96
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,34,64,1.0,10.0,0.0,0,98.52,55.17
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,34,69,1.0,10.0,0.0,0,101.24,55.18
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,34,64,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,34,64,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,34,64,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,34,69,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,34,69,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,34,69,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,34,69,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,34,69,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,34,69,1.0,10.0,0.0,0,98.83,54.96
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,29,69,1.0,10.0,0.0,0,99.04,55.4
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,29,64,1.0,10.0,0.0,0,102.32,52.28
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,34,79,1.0,10.0,0.0,0,102.32,52.28
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,24,64,1.0,10.0,0.0,0,98.53,55.1
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,24,64,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,24,64,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,24,64,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,24,64,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,24,64,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,24,64,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,24,69,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,24,69,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,24,69,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,24,69,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,24,69,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,24,69,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,24,69,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,24,69,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,24,69,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,24,69,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,24,69,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,24,74,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,24,74,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,24,74,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,24,74,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,24,64,1.0,10.0,0.0,0,95.1,54.14
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,24,64,1.0,10.0,0.0,0,97.68,55.18
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,29,64,1.0,10.0,0.0,0,97.02,55.04
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,24,64,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,24,54,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,24,54,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,24,54,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,24,54,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,24,54,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,24,54,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,24,54,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,24,54,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,24,54,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,24,59,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,24,59,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,24,59,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,24,59,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,24,59,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,24,59,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,24,59,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,24,59,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,24,59,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,24,59,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,24,59,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,24,64,1.0,10.0,0.0,0,98.54,55.33
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,24,74,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,24,74,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,24,74,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,24,74,1.0,10.0,0.0,0,98.52,55.17
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,29,54,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,29,59,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,29,59,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,29,59,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,29,59,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,29,59,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,29,59,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,29,59,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,29,59,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,29,59,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,29,59,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,29,59,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,29,64,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,29,64,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,29,64,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,29,64,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,29,64,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,29,64,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,29,64,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,29,64,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,29,64,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,29,54,1.0,10.0,0.0,0,97.02,55.04
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,29,54,1.0,10.0,0.0,0,100.05,55.12
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,29,54,1.0,10.0,0.0,0,98.52,55.17
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,24,79,1.0,10.0,0.0,0,101.24,55.18
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,24,74,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,24,74,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,24,74,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,24,79,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,24,79,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,24,79,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,24,79,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,24,79,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,24,79,1.0,10.0,0.0,0,98.83,54.96
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,24,79,1.0,10.0,0.0,0,98.52,55.17
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,29,54,1.0,10.0,0.0,0,101.24,55.18
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,24,79,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,24,79,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,24,79,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,29,54,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,29,54,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,29,54,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,29,54,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,29,54,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,29,54,1.0,10.0,0.0,0,98.83,54.96
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,34,79,1.0,10.0,0.0,0,97.02,55.04
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,39,54,1.0,10.0,0.0,0,98.54,55.33
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,49,79,1.0,10.0,0.0,0,97.02,55.04
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,44,79,1.0,10.0,0.0,0,98.53,55.1
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,44,79,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,44,79,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,44,79,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,44,79,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,44,79,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,44,79,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,49,54,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,49,54,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,49,54,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,49,54,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,49,54,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,49,54,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,49,54,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,49,54,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,49,54,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,49,54,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,49,54,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,49,59,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,49,59,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,49,59,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,49,59,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,44,79,1.0,10.0,0.0,0,95.1,54.14
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,44,79,1.0,10.0,0.0,0,97.68,55.18
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,44,69,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,44,79,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,44,69,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,44,69,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,44,69,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,44,69,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,44,69,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,44,69,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,44,69,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,44,69,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,44,69,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,44,74,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,44,74,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,44,74,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,44,74,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,44,74,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,44,74,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,44,74,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,44,74,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,44,74,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,44,74,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,44,74,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,44,79,1.0,10.0,0.0,0,98.54,55.33
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,49,59,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,49,59,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,49,59,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,49,59,1.0,10.0,0.0,0,98.52,55.17
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,49,69,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,49,74,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,49,74,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,49,74,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,49,74,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,49,74,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,49,74,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,49,74,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,49,74,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,49,74,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,49,74,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,49,74,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,49,79,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,49,79,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,49,79,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,49,79,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,49,79,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,49,79,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,49,79,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,49,79,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,49,79,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,49,69,1.0,10.0,0.0,0,97.02,55.04
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,49,69,1.0,10.0,0.0,0,100.05,55.12
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,49,69,1.0,10.0,0.0,0,98.52,55.17
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,49,64,1.0,10.0,0.0,0,101.24,55.18
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,49,59,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,49,59,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,49,59,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,49,64,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,49,64,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,49,64,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,49,64,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,49,64,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,49,64,1.0,10.0,0.0,0,98.83,54.96
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,49,64,1.0,10.0,0.0,0,98.52,55.17
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,49,69,1.0,10.0,0.0,0,101.24,55.18
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,49,64,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,49,64,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,49,64,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,49,69,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,49,69,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,49,69,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,49,69,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,49,69,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,49,69,1.0,10.0,0.0,0,98.83,54.96
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,44,69,1.0,10.0,0.0,0,99.04,55.4
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,44,64,1.0,10.0,0.0,0,102.32,52.28
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,39,54,1.0,10.0,0.0,0,99.04,55.4
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,39,64,1.0,10.0,0.0,0,98.53,55.1
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,39,64,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,39,64,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,39,64,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,39,64,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,39,64,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,39,64,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,39,69,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,39,69,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,39,69,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,39,69,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,39,69,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,39,69,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,39,69,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,39,69,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,39,69,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,39,69,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,39,69,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,39,74,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,39,74,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,39,74,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,39,74,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,39,64,1.0,10.0,0.0,0,95.1,54.14
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,39,64,1.0,10.0,0.0,0,97.68,55.18
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,44,64,1.0,10.0,0.0,0,97.02,55.04
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,39,64,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,39,54,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,39,54,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,39,54,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,39,54,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,39,54,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,39,54,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,39,54,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,39,54,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,39,54,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,39,59,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,39,59,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,39,59,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,39,59,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,39,59,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,39,59,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,39,59,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,39,59,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,39,59,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,39,59,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,39,59,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,39,64,1.0,10.0,0.0,0,98.54,55.33
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,39,74,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,39,74,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,39,74,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,39,74,1.0,10.0,0.0,0,98.52,55.17
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,44,54,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,44,59,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,44,59,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,44,59,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,44,59,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,44,59,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,44,59,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,44,59,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,44,59,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,44,59,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,44,59,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,44,59,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,44,64,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,44,64,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,44,64,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,44,64,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,44,64,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,44,64,1.0,10.0,0.0,0,98.83,54.96
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,44,64,1.0,10.0,0.0,0,101.24,55.18
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,44,64,1.0,10.0,0.0,0,98.52,55.17
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,44,64,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,44,54,1.0,10.0,0.0,0,97.02,55.04
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,44,54,1.0,10.0,0.0,0,100.05,55.12
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,44,54,1.0,10.0,0.0,0,98.52,55.17
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,39,79,1.0,10.0,0.0,0,101.24,55.18
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,39,74,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,39,74,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,39,74,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,39,79,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,39,79,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,39,79,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,39,79,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,39,79,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,39,79,1.0,10.0,0.0,0,98.83,54.96
+13,HODL.K,VanEck Bitcoin Trust,5,60,14,39,79,1.0,10.0,0.0,0,98.52,55.17
+13,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,44,54,1.0,10.0,0.0,0,101.24,55.18
+13,EZBC.K,Franklin Bitcoin ETF,5,60,14,39,79,1.0,10.0,0.0,0,100.05,55.12
+13,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,39,79,1.0,10.0,0.0,0,97.02,55.04
+13,DEFI.K,Hashdex Bitcoin ETF,5,60,14,39,79,1.0,10.0,0.0,0,102.32,52.28
+13,IBIT.O,iShares Bitcoin Trust,5,60,14,44,54,1.0,10.0,0.0,0,98.54,55.33
+13,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,44,54,1.0,10.0,0.0,0,99.04,55.4
+13,BITB.K,Bitwise Bitcoin ETF,5,60,14,44,54,1.0,10.0,0.0,0,97.68,55.18
+13,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,44,54,1.0,10.0,0.0,0,98.53,55.1
+13,SVIX.K,-1x Short VIX Futures ETF,5,60,14,44,54,1.0,10.0,0.0,0,95.1,54.14
+13,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,44,54,1.0,10.0,0.0,0,98.83,54.96
+13,DEFI.K,Hashdex Bitcoin ETF,5,120,14,49,79,1.0,10.0,0.0,0,102.32,52.28

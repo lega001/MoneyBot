@@ -1,0 +1,1441 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+140,RWM,ProShares Short Russell2000,5,120,14,24,54,1.0,10.0,-0.44,-5.84,-11.9,22.05
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,24,54,1.0,10.0,-0.44,0.0,-8.93,20.54
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,24,54,1.0,10.0,-0.44,0.0,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,120,14,24,54,1.0,10.0,-0.44,-6.12,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,24,54,1.0,10.0,-0.44,-7.44,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,24,54,1.0,10.0,-0.44,0.0,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,24,54,1.0,10.0,-0.44,0.0,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,24,54,1.0,10.0,-0.44,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,24,54,1.0,10.0,-0.44,0.0,-14.62,20.99
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,24,54,1.0,10.0,-0.44,0.0,-12.08,24.91
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,24,54,1.0,10.0,-0.44,-14.1,-9.9,22.02
+140,MYY,ProShares Short MidCap400,5,120,14,24,54,1.0,10.0,-0.44,10.14,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,24,54,1.0,10.0,-0.44,0.0,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,24,54,1.0,10.0,-0.44,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,120,14,24,54,1.0,10.0,-0.44,0.0,-9.43,19.79
+140,SEF,ProShares Short Financials,5,120,14,24,54,1.0,10.0,-0.44,-8.58,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,120,14,24,54,1.0,10.0,-0.44,37.73,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,24,54,1.0,10.0,-0.44,0.0,-14.88,22.6
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,24,54,1.0,10.0,-0.44,0.0,-11.53,22.88
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,24,54,1.0,10.0,-0.44,-14.6,-12.72,18.31
+140,REK,ProShares Short Real Estate,5,120,14,24,59,1.0,10.0,-3.34,0.0,-9.43,19.79
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,24,59,1.0,10.0,-3.34,-7.44,-15.27,21.72
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,24,59,1.0,10.0,-3.34,0.0,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,24,59,1.0,10.0,-3.34,0.0,-12.08,20.54
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,24,59,1.0,10.0,-3.34,0.0,-8.93,20.54
+140,SEF,ProShares Short Financials,5,120,14,24,59,1.0,10.0,-3.34,-13.44,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,120,14,24,59,1.0,10.0,-3.34,-10.36,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,24,59,1.0,10.0,-3.34,0.0,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,24,59,1.0,10.0,-3.34,-14.6,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,120,14,24,59,1.0,10.0,-3.34,-5.84,-11.9,22.05
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,24,59,1.0,10.0,-3.34,0.0,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,24,59,1.0,10.0,-3.34,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,24,59,1.0,10.0,-3.34,0.0,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,24,59,1.0,10.0,-3.34,0.0,-12.63,21.21
+140,SBB,ProShares Short SmallCap600,5,120,14,24,59,1.0,10.0,-3.34,-6.12,-12.62,22.09
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,24,59,1.0,10.0,-3.34,0.0,-12.08,24.91
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,24,59,1.0,10.0,-3.34,0.0,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,24,59,1.0,10.0,-3.34,0.0,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,24,59,1.0,10.0,-3.34,-14.1,-9.9,22.02
+140,MYY,ProShares Short MidCap400,5,120,14,24,59,1.0,10.0,-3.34,5.1,-12.26,20.13
+140,RWM,ProShares Short Russell2000,5,120,14,24,64,1.0,10.0,-4.8,-11.45,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,24,64,1.0,10.0,-4.8,-14.6,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,24,64,1.0,10.0,-4.8,0.0,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,120,14,24,64,1.0,10.0,-4.8,-10.36,-9.77,18.54
+140,SEF,ProShares Short Financials,5,120,14,24,64,1.0,10.0,-4.8,-13.44,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,120,14,24,64,1.0,10.0,-4.8,0.0,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,24,64,1.0,10.0,-4.8,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,24,64,1.0,10.0,-4.8,0.0,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,24,64,1.0,10.0,-4.8,-12.32,-12.26,20.13
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,24,79,1.0,10.0,-4.8,-14.6,-12.72,18.31
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,24,64,1.0,10.0,-4.8,0.0,-8.93,20.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,24,79,1.0,10.0,-4.8,0.0,-14.88,22.6
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,24,79,1.0,10.0,-4.8,-14.1,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,24,79,1.0,10.0,-4.8,0.0,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,24,79,1.0,10.0,-4.8,0.0,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,120,14,24,79,1.0,10.0,-4.8,-12.29,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,24,79,1.0,10.0,-4.8,-7.44,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,24,79,1.0,10.0,-4.8,0.0,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,24,79,1.0,10.0,-4.8,0.0,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,24,79,1.0,10.0,-4.8,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,24,79,1.0,10.0,-4.8,0.0,-14.62,20.99
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,24,79,1.0,10.0,-4.8,0.0,-8.93,20.54
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,24,79,1.0,10.0,-4.8,0.0,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,120,14,24,79,1.0,10.0,-4.8,-12.32,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,24,79,1.0,10.0,-4.8,0.0,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,24,79,1.0,10.0,-4.8,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,120,14,24,79,1.0,10.0,-4.8,0.0,-9.43,19.79
+140,SEF,ProShares Short Financials,5,120,14,24,79,1.0,10.0,-4.8,-13.44,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,120,14,24,79,1.0,10.0,-4.8,-10.36,-9.77,18.54
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,24,64,1.0,10.0,-4.8,0.0,-12.08,24.91
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,24,64,1.0,10.0,-4.8,0.0,-14.62,20.99
+140,RWM,ProShares Short Russell2000,5,120,14,24,79,1.0,10.0,-4.8,-11.45,-11.9,22.05
+140,MYY,ProShares Short MidCap400,5,120,14,24,74,1.0,10.0,-4.8,-12.32,-12.26,20.13
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,24,69,1.0,10.0,-4.8,0.0,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,24,69,1.0,10.0,-4.8,-14.1,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,120,14,24,74,1.0,10.0,-4.8,-11.45,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,24,74,1.0,10.0,-4.8,-14.6,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,24,74,1.0,10.0,-4.8,0.0,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,120,14,24,74,1.0,10.0,-4.8,-10.36,-9.77,18.54
+140,SEF,ProShares Short Financials,5,120,14,24,74,1.0,10.0,-4.8,-13.44,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,120,14,24,74,1.0,10.0,-4.8,0.0,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,24,74,1.0,10.0,-4.8,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,24,74,1.0,10.0,-4.8,0.0,-10.62,21.14
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,24,74,1.0,10.0,-4.8,0.0,-12.08,24.91
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,24,64,1.0,10.0,-4.8,0.0,-13.81,21.26
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,24,74,1.0,10.0,-4.8,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,24,74,1.0,10.0,-4.8,0.0,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,24,74,1.0,10.0,-4.8,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,24,74,1.0,10.0,-4.8,0.0,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,24,74,1.0,10.0,-4.8,0.0,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,24,74,1.0,10.0,-4.8,-7.44,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,24,74,1.0,10.0,-4.8,-12.29,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,24,74,1.0,10.0,-4.8,0.0,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,24,74,1.0,10.0,-4.8,0.0,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,24,74,1.0,10.0,-4.8,-14.1,-9.9,22.02
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,24,69,1.0,10.0,-4.8,0.0,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,120,14,24,69,1.0,10.0,-4.8,-12.29,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,24,69,1.0,10.0,-4.8,-7.44,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,24,69,1.0,10.0,-4.8,0.0,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,24,64,1.0,10.0,-4.8,0.0,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,24,64,1.0,10.0,-4.8,0.0,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,24,64,1.0,10.0,-4.8,-7.44,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,24,64,1.0,10.0,-4.8,-12.29,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,24,64,1.0,10.0,-4.8,0.0,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,24,64,1.0,10.0,-4.8,0.0,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,24,64,1.0,10.0,-4.8,-14.1,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,120,14,24,69,1.0,10.0,-4.8,-11.45,-11.9,22.05
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,24,69,1.0,10.0,-4.8,0.0,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,120,14,24,69,1.0,10.0,-4.8,-10.36,-9.77,18.54
+140,SEF,ProShares Short Financials,5,120,14,24,69,1.0,10.0,-4.8,-13.44,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,120,14,24,69,1.0,10.0,-4.8,0.0,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,24,69,1.0,10.0,-4.8,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,24,69,1.0,10.0,-4.8,0.0,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,24,69,1.0,10.0,-4.8,-12.32,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,24,69,1.0,10.0,-4.8,0.0,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,24,69,1.0,10.0,-4.8,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,24,69,1.0,10.0,-4.8,0.0,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,24,69,1.0,10.0,-4.8,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,24,69,1.0,10.0,-4.8,0.0,-12.61,22.7
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,24,69,1.0,10.0,-4.8,-14.6,-12.72,18.31
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,24,54,1.0,10.0,-5.09,-14.52,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,60,14,24,54,1.0,10.0,-5.09,-6.18,-11.9,22.05
+140,YCL,ProShares Ultra Yen,5,60,14,24,54,1.0,10.0,-5.09,-13.29,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,24,54,1.0,10.0,-5.09,-16.62,-14.88,22.6
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,24,54,1.0,10.0,-5.09,-13.07,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,24,54,1.0,10.0,-5.09,0.0,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,24,54,1.0,10.0,-5.09,0.0,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,60,14,24,54,1.0,10.0,-5.09,-9.05,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,24,54,1.0,10.0,-5.09,-20.72,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,24,54,1.0,10.0,-5.09,0.0,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,24,54,1.0,10.0,-5.09,0.0,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,24,54,1.0,10.0,-5.09,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,24,54,1.0,10.0,-5.09,0.0,-14.62,20.99
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,24,54,1.0,10.0,-5.09,0.0,-8.93,20.54
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,24,54,1.0,10.0,-5.09,0.0,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,60,14,24,54,1.0,10.0,-5.09,-9.93,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,24,54,1.0,10.0,-5.09,0.0,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,24,54,1.0,10.0,-5.09,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,24,54,1.0,10.0,-5.09,10.82,-9.43,19.79
+140,SEF,ProShares Short Financials,5,60,14,24,54,1.0,10.0,-5.09,-9.32,-12.08,20.37
+140,RWM,ProShares Short Russell2000,5,60,14,24,59,1.0,10.0,-5.67,-6.18,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,24,59,1.0,10.0,-5.67,-14.52,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,24,59,1.0,10.0,-5.67,-16.62,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,60,14,24,59,1.0,10.0,-5.67,-12.38,-9.77,18.54
+140,SEF,ProShares Short Financials,5,60,14,24,59,1.0,10.0,-5.67,-13.0,-12.08,20.37
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,24,59,1.0,10.0,-5.67,-13.07,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,24,59,1.0,10.0,-5.67,0.0,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,24,59,1.0,10.0,-5.67,0.0,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,60,14,24,59,1.0,10.0,-5.67,-9.05,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,24,59,1.0,10.0,-5.67,-20.72,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,24,59,1.0,10.0,-5.67,0.0,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,24,59,1.0,10.0,-5.67,0.0,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,24,59,1.0,10.0,-5.67,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,24,59,1.0,10.0,-5.67,0.0,-14.62,20.99
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,24,59,1.0,10.0,-5.67,0.0,-8.93,20.54
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,24,59,1.0,10.0,-5.67,0.0,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,60,14,24,59,1.0,10.0,-5.67,-7.89,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,24,59,1.0,10.0,-5.67,0.0,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,24,59,1.0,10.0,-5.67,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,24,59,1.0,10.0,-5.67,0.11,-9.43,19.79
+140,YCL,ProShares Ultra Yen,5,60,14,29,54,1.0,10.0,-5.8,-13.29,-9.77,18.54
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,29,54,1.0,10.0,-5.8,-14.52,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,29,54,1.0,10.0,-5.8,-16.62,-14.88,22.6
+140,RWM,ProShares Short Russell2000,5,60,14,29,54,1.0,10.0,-5.8,-7.3,-11.9,22.05
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,29,54,1.0,10.0,-5.8,0.0,-8.93,20.54
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,29,54,1.0,10.0,-5.8,0.0,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,29,54,1.0,10.0,-5.8,20.32,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,60,14,29,54,1.0,10.0,-5.8,-8.28,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,29,54,1.0,10.0,-5.8,-20.72,-15.27,21.72
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,29,54,1.0,10.0,-5.8,9.93,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,29,54,1.0,10.0,-5.8,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,29,54,1.0,10.0,-5.8,-19.63,-14.62,20.99
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,29,54,1.0,10.0,-5.8,3.62,-12.63,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,29,54,1.0,10.0,-5.8,-13.05,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,60,14,29,54,1.0,10.0,-5.8,-9.89,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,29,54,1.0,10.0,-5.8,0.0,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,29,54,1.0,10.0,-5.8,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,29,54,1.0,10.0,-5.8,-4.87,-9.43,19.79
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,29,54,1.0,10.0,-5.8,-13.07,-9.9,22.02
+140,SEF,ProShares Short Financials,5,60,14,29,54,1.0,10.0,-5.8,-8.71,-12.08,20.37
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,29,54,1.0,10.0,-5.96,0.0,-12.08,24.91
+140,RWM,ProShares Short Russell2000,5,120,14,29,54,1.0,10.0,-5.96,-5.33,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,29,54,1.0,10.0,-5.96,-14.6,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,29,54,1.0,10.0,-5.96,-17.25,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,120,14,29,54,1.0,10.0,-5.96,-13.46,-9.77,18.54
+140,SEF,ProShares Short Financials,5,120,14,29,54,1.0,10.0,-5.96,-8.11,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,120,14,29,54,1.0,10.0,-5.96,-4.31,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,29,54,1.0,10.0,-5.96,0.0,-12.08,20.54
+140,MYY,ProShares Short MidCap400,5,120,14,29,54,1.0,10.0,-5.96,-10.74,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,29,54,1.0,10.0,-5.96,0.0,-10.62,21.14
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,29,54,1.0,10.0,-5.96,0.0,-8.93,20.54
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,29,54,1.0,10.0,-5.96,-21.95,-15.27,21.72
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,29,54,1.0,10.0,-5.96,0.0,-14.62,20.99
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,29,54,1.0,10.0,-5.96,0.0,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,29,54,1.0,10.0,-5.96,0.0,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,120,14,29,54,1.0,10.0,-5.96,-9.31,-12.62,22.09
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,29,54,1.0,10.0,-5.96,-14.1,-9.9,22.02
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,29,54,1.0,10.0,-5.96,0.0,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,29,54,1.0,10.0,-5.96,0.0,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,29,54,1.0,10.0,-5.96,0.0,-13.81,21.26
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,29,59,1.0,10.0,-6.15,0.0,-13.81,21.26
+140,SEF,ProShares Short Financials,5,60,14,29,59,1.0,10.0,-6.15,-13.0,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,29,59,1.0,10.0,-6.15,-9.65,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,29,59,1.0,10.0,-6.15,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,29,59,1.0,10.0,-6.15,0.0,-10.62,21.14
+140,YCL,ProShares Ultra Yen,5,60,14,29,59,1.0,10.0,-6.15,-12.38,-9.77,18.54
+140,MYY,ProShares Short MidCap400,5,60,14,29,59,1.0,10.0,-6.15,-8.65,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,29,59,1.0,10.0,-6.15,-13.05,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,29,59,1.0,10.0,-6.15,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,29,59,1.0,10.0,-6.15,-19.63,-14.62,20.99
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,29,59,1.0,10.0,-6.15,20.32,-11.28,20.03
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,29,59,1.0,10.0,-6.15,9.93,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,29,59,1.0,10.0,-6.15,3.62,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,29,59,1.0,10.0,-6.15,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,29,59,1.0,10.0,-6.15,-8.28,-12.62,22.09
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,29,59,1.0,10.0,-6.15,0.0,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,29,59,1.0,10.0,-6.15,-13.07,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,60,14,29,59,1.0,10.0,-6.15,-7.3,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,29,59,1.0,10.0,-6.15,-14.52,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,29,59,1.0,10.0,-6.15,-16.62,-14.88,22.6
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,29,59,1.0,10.0,-6.35,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,29,59,1.0,10.0,-6.35,-9.31,-12.62,22.09
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,29,59,1.0,10.0,-6.35,-14.1,-9.9,22.02
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,29,59,1.0,10.0,-6.35,0.0,-10.62,21.14
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,29,59,1.0,10.0,-6.35,0.0,-11.53,22.88
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,29,59,1.0,10.0,-6.35,0.0,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,29,59,1.0,10.0,-6.35,0.0,-12.63,21.21
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,29,59,1.0,10.0,-6.35,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,29,59,1.0,10.0,-6.35,0.0,-14.62,20.99
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,29,59,1.0,10.0,-6.35,0.0,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,120,14,29,59,1.0,10.0,-6.35,-9.37,-12.26,20.13
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,29,59,1.0,10.0,-6.35,0.0,-8.93,20.54
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,29,59,1.0,10.0,-6.35,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,120,14,29,59,1.0,10.0,-6.35,-9.58,-9.43,19.79
+140,SEF,ProShares Short Financials,5,120,14,29,59,1.0,10.0,-6.35,-13.07,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,120,14,29,59,1.0,10.0,-6.35,-12.41,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,29,59,1.0,10.0,-6.35,-17.25,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,29,59,1.0,10.0,-6.35,-14.6,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,120,14,29,59,1.0,10.0,-6.35,-5.33,-11.9,22.05
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,29,59,1.0,10.0,-6.35,0.0,-11.28,20.03
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,24,74,1.0,10.0,-6.4,0.0,-13.81,21.26
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,24,74,1.0,10.0,-6.4,-13.07,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,24,74,1.0,10.0,-6.4,0.0,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,24,74,1.0,10.0,-6.4,0.0,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,60,14,24,74,1.0,10.0,-6.4,-13.45,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,24,74,1.0,10.0,-6.4,-20.72,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,24,74,1.0,10.0,-6.4,0.0,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,24,74,1.0,10.0,-6.4,0.0,-12.61,22.7
+140,REK,ProShares Short Real Estate,5,60,14,24,74,1.0,10.0,-6.4,0.11,-9.43,19.79
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,24,74,1.0,10.0,-6.4,0.0,-14.62,20.99
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,24,74,1.0,10.0,-6.4,0.0,-8.93,20.54
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,24,74,1.0,10.0,-6.4,0.0,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,60,14,24,74,1.0,10.0,-6.4,-12.73,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,24,74,1.0,10.0,-6.4,0.0,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,24,74,1.0,10.0,-6.4,0.0,-12.08,20.54
+140,SEF,ProShares Short Financials,5,60,14,24,74,1.0,10.0,-6.4,-13.0,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,60,14,24,74,1.0,10.0,-6.4,-12.38,-9.77,18.54
+140,RWM,ProShares Short Russell2000,5,60,14,24,79,1.0,10.0,-6.4,-11.53,-11.9,22.05
+140,MYY,ProShares Short MidCap400,5,60,14,24,79,1.0,10.0,-6.4,-12.73,-12.26,20.13
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,24,79,1.0,10.0,-6.4,-14.52,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,24,79,1.0,10.0,-6.4,-16.62,-14.88,22.6
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,24,79,1.0,10.0,-6.4,-13.07,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,24,79,1.0,10.0,-6.4,0.0,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,24,79,1.0,10.0,-6.4,0.0,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,60,14,24,79,1.0,10.0,-6.4,-13.45,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,24,79,1.0,10.0,-6.4,-20.72,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,24,79,1.0,10.0,-6.4,0.0,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,24,79,1.0,10.0,-6.4,0.0,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,24,79,1.0,10.0,-6.4,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,24,79,1.0,10.0,-6.4,0.0,-14.62,20.99
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,24,79,1.0,10.0,-6.4,0.0,-8.93,20.54
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,24,79,1.0,10.0,-6.4,0.0,-12.08,24.91
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,24,74,1.0,10.0,-6.4,-14.52,-12.72,18.31
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,24,79,1.0,10.0,-6.4,0.0,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,24,79,1.0,10.0,-6.4,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,24,79,1.0,10.0,-6.4,0.11,-9.43,19.79
+140,SEF,ProShares Short Financials,5,60,14,24,79,1.0,10.0,-6.4,-13.0,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,60,14,24,79,1.0,10.0,-6.4,-12.38,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,24,74,1.0,10.0,-6.4,-16.62,-14.88,22.6
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,24,69,1.0,10.0,-6.4,0.0,-13.81,21.26
+140,RWM,ProShares Short Russell2000,5,60,14,24,74,1.0,10.0,-6.4,-11.53,-11.9,22.05
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,24,64,1.0,10.0,-6.4,0.0,-12.08,24.91
+140,SBB,ProShares Short SmallCap600,5,60,14,24,64,1.0,10.0,-6.4,-13.45,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,24,64,1.0,10.0,-6.4,-20.72,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,24,64,1.0,10.0,-6.4,0.0,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,24,64,1.0,10.0,-6.4,0.0,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,24,64,1.0,10.0,-6.4,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,24,64,1.0,10.0,-6.4,0.0,-14.62,20.99
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,24,64,1.0,10.0,-6.4,0.0,-8.93,20.54
+140,MYY,ProShares Short MidCap400,5,60,14,24,64,1.0,10.0,-6.4,-12.73,-12.26,20.13
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,24,64,1.0,10.0,-6.4,0.0,-11.53,22.88
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,24,64,1.0,10.0,-6.4,0.0,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,24,64,1.0,10.0,-6.4,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,24,64,1.0,10.0,-6.4,0.11,-9.43,19.79
+140,SEF,ProShares Short Financials,5,60,14,24,64,1.0,10.0,-6.4,-13.0,-12.08,20.37
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,24,64,1.0,10.0,-6.4,-16.62,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,24,64,1.0,10.0,-6.4,-14.52,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,60,14,24,64,1.0,10.0,-6.4,-11.53,-11.9,22.05
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,24,64,1.0,10.0,-6.4,0.0,-11.28,20.03
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,24,64,1.0,10.0,-6.4,-13.07,-9.9,22.02
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,24,69,1.0,10.0,-6.4,-13.07,-9.9,22.02
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,24,69,1.0,10.0,-6.4,0.0,-8.93,20.54
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,24,69,1.0,10.0,-6.4,0.0,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,24,69,1.0,10.0,-6.4,0.0,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,60,14,24,69,1.0,10.0,-6.4,-13.45,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,24,69,1.0,10.0,-6.4,-20.72,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,24,69,1.0,10.0,-6.4,0.0,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,24,69,1.0,10.0,-6.4,0.0,-12.61,22.7
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,24,69,1.0,10.0,-6.4,0.0,-14.62,20.99
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,24,69,1.0,10.0,-6.4,0.0,-12.08,24.91
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,24,69,1.0,10.0,-6.4,-14.52,-12.72,18.31
+140,MYY,ProShares Short MidCap400,5,60,14,24,69,1.0,10.0,-6.4,-12.73,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,24,69,1.0,10.0,-6.4,0.0,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,24,69,1.0,10.0,-6.4,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,24,69,1.0,10.0,-6.4,0.11,-9.43,19.79
+140,SEF,ProShares Short Financials,5,60,14,24,69,1.0,10.0,-6.4,-13.0,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,60,14,24,69,1.0,10.0,-6.4,-12.38,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,24,69,1.0,10.0,-6.4,-16.62,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,60,14,24,64,1.0,10.0,-6.4,-12.38,-9.77,18.54
+140,RWM,ProShares Short Russell2000,5,60,14,24,69,1.0,10.0,-6.4,-11.53,-11.9,22.05
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,29,64,1.0,10.0,-6.9,-19.63,-14.62,20.99
+140,RWM,ProShares Short Russell2000,5,60,14,29,74,1.0,10.0,-6.9,-12.6,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,29,69,1.0,10.0,-6.9,-14.52,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,29,69,1.0,10.0,-6.9,-16.62,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,60,14,29,69,1.0,10.0,-6.9,-12.38,-9.77,18.54
+140,SEF,ProShares Short Financials,5,60,14,29,69,1.0,10.0,-6.9,-13.0,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,29,69,1.0,10.0,-6.9,-9.65,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,29,69,1.0,10.0,-6.9,0.0,-12.08,20.54
+140,MYY,ProShares Short MidCap400,5,60,14,29,69,1.0,10.0,-6.9,-13.0,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,29,69,1.0,10.0,-6.9,-13.05,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,29,69,1.0,10.0,-6.9,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,29,69,1.0,10.0,-6.9,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,29,69,1.0,10.0,-6.9,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,29,69,1.0,10.0,-6.9,9.93,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,29,69,1.0,10.0,-6.9,3.62,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,29,69,1.0,10.0,-6.9,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,29,69,1.0,10.0,-6.9,-13.65,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,29,69,1.0,10.0,-6.9,20.32,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,29,69,1.0,10.0,-6.9,0.0,-11.53,22.88
+140,RWM,ProShares Short Russell2000,5,60,14,29,69,1.0,10.0,-6.9,-12.6,-11.9,22.05
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,29,64,1.0,10.0,-6.9,-13.07,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,29,64,1.0,10.0,-6.9,0.0,-11.53,22.88
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,29,64,1.0,10.0,-6.9,0.0,-10.62,21.14
+140,RWM,ProShares Short Russell2000,5,60,14,29,64,1.0,10.0,-6.9,-12.6,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,29,64,1.0,10.0,-6.9,-14.52,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,29,64,1.0,10.0,-6.9,-16.62,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,60,14,29,64,1.0,10.0,-6.9,-12.38,-9.77,18.54
+140,SEF,ProShares Short Financials,5,60,14,29,64,1.0,10.0,-6.9,-13.0,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,29,64,1.0,10.0,-6.9,-9.65,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,29,64,1.0,10.0,-6.9,0.0,-12.08,20.54
+140,MYY,ProShares Short MidCap400,5,60,14,29,64,1.0,10.0,-6.9,-13.0,-12.26,20.13
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,29,64,1.0,10.0,-6.9,20.32,-11.28,20.03
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,29,64,1.0,10.0,-6.9,-13.05,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,29,64,1.0,10.0,-6.9,0.0,-8.93,20.54
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,29,64,1.0,10.0,-6.9,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,29,64,1.0,10.0,-6.9,9.93,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,29,64,1.0,10.0,-6.9,3.62,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,29,64,1.0,10.0,-6.9,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,29,64,1.0,10.0,-6.9,-13.65,-12.62,22.09
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,29,69,1.0,10.0,-6.9,-13.07,-9.9,22.02
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,29,69,1.0,10.0,-6.9,0.0,-10.62,21.14
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,29,74,1.0,10.0,-6.9,-14.52,-12.72,18.31
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,29,79,1.0,10.0,-6.9,-14.52,-12.72,18.31
+140,YCL,ProShares Ultra Yen,5,60,14,29,79,1.0,10.0,-6.9,-12.38,-9.77,18.54
+140,SEF,ProShares Short Financials,5,60,14,29,79,1.0,10.0,-6.9,-13.0,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,29,79,1.0,10.0,-6.9,-9.65,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,29,79,1.0,10.0,-6.9,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,29,79,1.0,10.0,-6.9,0.0,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,60,14,29,79,1.0,10.0,-6.9,-13.0,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,29,79,1.0,10.0,-6.9,-13.05,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,29,79,1.0,10.0,-6.9,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,29,79,1.0,10.0,-6.9,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,29,79,1.0,10.0,-6.9,0.0,-13.81,21.26
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,29,74,1.0,10.0,-6.9,-16.62,-14.88,22.6
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,29,79,1.0,10.0,-6.9,3.62,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,29,79,1.0,10.0,-6.9,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,29,79,1.0,10.0,-6.9,-13.65,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,29,79,1.0,10.0,-6.9,20.32,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,29,79,1.0,10.0,-6.9,0.0,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,29,79,1.0,10.0,-6.9,-13.07,-9.9,22.02
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,29,79,1.0,10.0,-6.9,-16.62,-14.88,22.6
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,29,79,1.0,10.0,-6.9,9.93,-12.61,22.7
+140,RWM,ProShares Short Russell2000,5,60,14,29,79,1.0,10.0,-6.9,-12.6,-11.9,22.05
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,29,74,1.0,10.0,-6.9,-19.63,-14.62,20.99
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,29,74,1.0,10.0,-6.9,-13.07,-9.9,22.02
+140,YCL,ProShares Ultra Yen,5,60,14,29,74,1.0,10.0,-6.9,-12.38,-9.77,18.54
+140,SEF,ProShares Short Financials,5,60,14,29,74,1.0,10.0,-6.9,-13.0,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,29,74,1.0,10.0,-6.9,-9.65,-9.43,19.79
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,29,74,1.0,10.0,-6.9,0.0,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,60,14,29,74,1.0,10.0,-6.9,-13.0,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,29,74,1.0,10.0,-6.9,-13.05,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,29,74,1.0,10.0,-6.9,0.0,-8.93,20.54
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,29,74,1.0,10.0,-6.9,0.0,-12.08,20.54
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,29,74,1.0,10.0,-6.9,0.0,-13.81,21.26
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,29,74,1.0,10.0,-6.9,3.62,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,29,74,1.0,10.0,-6.9,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,29,74,1.0,10.0,-6.9,-13.65,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,29,74,1.0,10.0,-6.9,20.32,-11.28,20.03
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,29,74,1.0,10.0,-6.9,9.93,-12.61,22.7
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,29,74,1.0,10.0,-6.9,0.0,-11.53,22.88
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,29,69,1.0,10.0,-7.1,0.0,-11.53,22.88
+140,YCL,ProShares Ultra Yen,5,120,14,29,74,1.0,10.0,-7.1,-12.41,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,29,74,1.0,10.0,-7.1,-17.25,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,29,74,1.0,10.0,-7.1,-14.6,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,120,14,29,74,1.0,10.0,-7.1,-11.45,-11.9,22.05
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,29,69,1.0,10.0,-7.1,-14.1,-9.9,22.02
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,29,69,1.0,10.0,-7.1,-21.95,-15.27,21.72
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,29,69,1.0,10.0,-7.1,0.0,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,120,14,29,69,1.0,10.0,-7.1,-14.08,-12.62,22.09
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,29,69,1.0,10.0,-7.1,0.0,-12.63,21.21
+140,REK,ProShares Short Real Estate,5,120,14,29,74,1.0,10.0,-7.1,-9.58,-9.43,19.79
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,29,69,1.0,10.0,-7.1,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,29,69,1.0,10.0,-7.1,0.0,-12.61,22.7
+140,SEF,ProShares Short Financials,5,120,14,29,74,1.0,10.0,-7.1,-13.07,-12.08,20.37
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,29,74,1.0,10.0,-7.1,0.0,-12.63,21.21
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,29,74,1.0,10.0,-7.1,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,29,74,1.0,10.0,-7.1,0.0,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,29,74,1.0,10.0,-7.1,-13.61,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,29,74,1.0,10.0,-7.1,0.0,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,29,74,1.0,10.0,-7.1,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,29,74,1.0,10.0,-7.1,0.0,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,29,74,1.0,10.0,-7.1,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,29,74,1.0,10.0,-7.1,0.0,-12.61,22.7
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,29,74,1.0,10.0,-7.1,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,29,74,1.0,10.0,-7.1,-14.08,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,29,74,1.0,10.0,-7.1,0.0,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,29,74,1.0,10.0,-7.1,0.0,-11.53,22.88
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,29,69,1.0,10.0,-7.1,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,29,69,1.0,10.0,-7.1,0.0,-14.62,20.99
+140,RWM,ProShares Short Russell2000,5,120,14,29,64,1.0,10.0,-7.1,-11.45,-11.9,22.05
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,29,69,1.0,10.0,-7.1,0.0,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,120,14,29,69,1.0,10.0,-7.1,-13.61,-12.26,20.13
+140,RWM,ProShares Short Russell2000,5,120,14,29,79,1.0,10.0,-7.1,-11.45,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,29,64,1.0,10.0,-7.1,-14.6,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,29,64,1.0,10.0,-7.1,-17.25,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,120,14,29,64,1.0,10.0,-7.1,-12.41,-9.77,18.54
+140,SEF,ProShares Short Financials,5,120,14,29,64,1.0,10.0,-7.1,-13.07,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,120,14,29,64,1.0,10.0,-7.1,-9.58,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,29,64,1.0,10.0,-7.1,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,29,64,1.0,10.0,-7.1,0.0,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,29,64,1.0,10.0,-7.1,-13.61,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,29,64,1.0,10.0,-7.1,0.0,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,29,64,1.0,10.0,-7.1,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,29,64,1.0,10.0,-7.1,0.0,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,29,64,1.0,10.0,-7.1,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,29,64,1.0,10.0,-7.1,0.0,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,29,64,1.0,10.0,-7.1,0.0,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,29,64,1.0,10.0,-7.1,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,29,64,1.0,10.0,-7.1,-14.08,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,29,64,1.0,10.0,-7.1,0.0,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,29,64,1.0,10.0,-7.1,0.0,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,29,64,1.0,10.0,-7.1,-14.1,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,120,14,29,69,1.0,10.0,-7.1,-11.45,-11.9,22.05
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,29,69,1.0,10.0,-7.1,-17.25,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,120,14,29,69,1.0,10.0,-7.1,-12.41,-9.77,18.54
+140,SEF,ProShares Short Financials,5,120,14,29,69,1.0,10.0,-7.1,-13.07,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,120,14,29,69,1.0,10.0,-7.1,-9.58,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,29,69,1.0,10.0,-7.1,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,29,69,1.0,10.0,-7.1,0.0,-10.62,21.14
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,29,74,1.0,10.0,-7.1,-14.1,-9.9,22.02
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,29,69,1.0,10.0,-7.1,-14.6,-12.72,18.31
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,29,79,1.0,10.0,-7.1,-14.6,-12.72,18.31
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,29,79,1.0,10.0,-7.1,0.0,-14.62,20.99
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,29,79,1.0,10.0,-7.1,-14.1,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,29,79,1.0,10.0,-7.1,0.0,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,29,79,1.0,10.0,-7.1,0.0,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,120,14,29,79,1.0,10.0,-7.1,-14.08,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,29,79,1.0,10.0,-7.1,-21.95,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,29,79,1.0,10.0,-7.1,0.0,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,29,79,1.0,10.0,-7.1,0.0,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,29,79,1.0,10.0,-7.1,0.0,-13.81,21.26
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,29,79,1.0,10.0,-7.1,-17.25,-14.88,22.6
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,29,79,1.0,10.0,-7.1,0.0,-8.93,20.54
+140,REK,ProShares Short Real Estate,5,120,14,29,79,1.0,10.0,-7.1,-9.58,-9.43,19.79
+140,YCL,ProShares Ultra Yen,5,120,14,29,79,1.0,10.0,-7.1,-12.41,-9.77,18.54
+140,SEF,ProShares Short Financials,5,120,14,29,79,1.0,10.0,-7.1,-13.07,-12.08,20.37
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,29,79,1.0,10.0,-7.1,0.0,-12.08,24.91
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,29,79,1.0,10.0,-7.1,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,29,79,1.0,10.0,-7.1,0.0,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,29,79,1.0,10.0,-7.1,-13.61,-12.26,20.13
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,34,54,1.0,10.0,-7.56,0.0,-8.93,20.54
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,34,54,1.0,10.0,-7.56,-14.1,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,34,54,1.0,10.0,-7.56,0.0,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,34,54,1.0,10.0,-7.56,0.0,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,120,14,34,54,1.0,10.0,-7.56,-9.31,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,34,54,1.0,10.0,-7.56,-21.95,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,34,54,1.0,10.0,-7.56,14.6,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,34,54,1.0,10.0,-7.56,-0.32,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,34,54,1.0,10.0,-7.56,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,34,54,1.0,10.0,-7.56,-19.07,-14.62,20.99
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,34,54,1.0,10.0,-7.56,-13.16,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,120,14,34,54,1.0,10.0,-7.56,-10.74,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,34,54,1.0,10.0,-7.56,-5.63,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,34,54,1.0,10.0,-7.56,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,120,14,34,54,1.0,10.0,-7.56,-6.47,-9.43,19.79
+140,SEF,ProShares Short Financials,5,120,14,34,54,1.0,10.0,-7.56,-11.0,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,120,14,34,54,1.0,10.0,-7.56,-13.46,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,34,54,1.0,10.0,-7.56,-17.25,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,34,54,1.0,10.0,-7.56,-14.6,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,120,14,34,54,1.0,10.0,-7.56,-8.71,-11.9,22.05
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,34,59,1.0,10.0,-7.83,-21.95,-15.27,21.72
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,34,59,1.0,10.0,-7.83,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,34,59,1.0,10.0,-7.83,-0.32,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,34,59,1.0,10.0,-7.83,14.6,-12.63,21.21
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,34,59,1.0,10.0,-7.83,-14.1,-9.9,22.02
+140,SBB,ProShares Short SmallCap600,5,120,14,34,59,1.0,10.0,-7.83,-9.31,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,34,59,1.0,10.0,-7.83,0.0,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,34,59,1.0,10.0,-7.83,0.0,-11.53,22.88
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,34,59,1.0,10.0,-7.83,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,34,59,1.0,10.0,-7.83,-19.07,-14.62,20.99
+140,REK,ProShares Short Real Estate,5,120,14,34,59,1.0,10.0,-7.83,-10.82,-9.43,19.79
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,34,59,1.0,10.0,-7.83,-13.16,-12.08,24.91
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,34,59,1.0,10.0,-7.83,-5.63,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,34,59,1.0,10.0,-7.83,0.0,-12.08,20.54
+140,SEF,ProShares Short Financials,5,120,14,34,59,1.0,10.0,-7.83,-14.47,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,120,14,34,59,1.0,10.0,-7.83,-12.41,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,34,59,1.0,10.0,-7.83,-17.25,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,34,59,1.0,10.0,-7.83,-14.6,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,120,14,34,59,1.0,10.0,-7.83,-8.71,-11.9,22.05
+140,MYY,ProShares Short MidCap400,5,120,14,34,59,1.0,10.0,-7.83,-9.37,-12.26,20.13
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,34,54,1.0,10.0,-8.35,-1.6,-12.61,22.7
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,34,54,1.0,10.0,-8.35,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,34,54,1.0,10.0,-8.35,0.0,-13.81,21.26
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,34,54,1.0,10.0,-8.35,20.32,-11.28,20.03
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,34,54,1.0,10.0,-8.35,-12.23,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,34,54,1.0,10.0,-8.35,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,34,54,1.0,10.0,-8.35,-8.28,-12.62,22.09
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,34,54,1.0,10.0,-8.35,-13.05,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,34,54,1.0,10.0,-8.35,0.0,-8.93,20.54
+140,SEF,ProShares Short Financials,5,60,14,34,54,1.0,10.0,-8.35,-10.43,-12.08,20.37
+140,MYY,ProShares Short MidCap400,5,60,14,34,54,1.0,10.0,-8.35,-9.89,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,34,54,1.0,10.0,-8.35,-4.89,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,34,54,1.0,10.0,-8.35,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,34,54,1.0,10.0,-8.35,-6.54,-9.43,19.79
+140,YCL,ProShares Ultra Yen,5,60,14,34,54,1.0,10.0,-8.35,-17.41,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,34,54,1.0,10.0,-8.35,-17.63,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,34,54,1.0,10.0,-8.35,-14.52,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,60,14,34,54,1.0,10.0,-8.35,-8.19,-11.9,22.05
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,34,54,1.0,10.0,-8.35,-13.07,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,34,54,1.0,10.0,-8.35,-9.27,-11.53,22.88
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,34,59,1.0,10.0,-8.43,-9.27,-11.53,22.88
+140,RWM,ProShares Short Russell2000,5,60,14,34,59,1.0,10.0,-8.43,-8.19,-11.9,22.05
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,34,59,1.0,10.0,-8.43,0.0,-8.93,20.54
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,34,59,1.0,10.0,-8.43,-14.52,-12.72,18.31
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,34,59,1.0,10.0,-8.43,20.32,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,60,14,34,59,1.0,10.0,-8.43,-8.28,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,34,59,1.0,10.0,-8.43,-20.72,-15.27,21.72
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,34,59,1.0,10.0,-8.43,-1.6,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,34,59,1.0,10.0,-8.43,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,34,59,1.0,10.0,-8.43,-19.63,-14.62,20.99
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,34,59,1.0,10.0,-8.43,-12.23,-12.63,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,34,59,1.0,10.0,-8.43,-13.05,-12.08,24.91
+140,SEF,ProShares Short Financials,5,60,14,34,59,1.0,10.0,-8.43,-14.02,-12.08,20.37
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,34,59,1.0,10.0,-8.43,-17.63,-14.88,22.6
+140,MYY,ProShares Short MidCap400,5,60,14,34,59,1.0,10.0,-8.43,-8.65,-12.26,20.13
+140,YCL,ProShares Ultra Yen,5,60,14,34,59,1.0,10.0,-8.43,-12.38,-9.77,18.54
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,34,59,1.0,10.0,-8.43,-13.07,-9.9,22.02
+140,REK,ProShares Short Real Estate,5,60,14,34,59,1.0,10.0,-8.43,-10.77,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,34,59,1.0,10.0,-8.43,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,34,59,1.0,10.0,-8.43,-4.89,-10.62,21.14
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,34,79,1.0,10.0,-8.51,-13.16,-12.08,24.91
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,34,79,1.0,10.0,-8.51,-14.6,-12.72,18.31
+140,YCL,ProShares Ultra Yen,5,120,14,34,79,1.0,10.0,-8.51,-12.41,-9.77,18.54
+140,SEF,ProShares Short Financials,5,120,14,34,79,1.0,10.0,-8.51,-14.47,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,120,14,34,79,1.0,10.0,-8.51,-10.82,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,34,79,1.0,10.0,-8.51,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,34,79,1.0,10.0,-8.51,-5.63,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,34,79,1.0,10.0,-8.51,-13.61,-12.26,20.13
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,34,79,1.0,10.0,-8.51,-17.25,-14.88,22.6
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,34,79,1.0,10.0,-8.51,0.0,-11.53,22.88
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,34,79,1.0,10.0,-8.51,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,34,79,1.0,10.0,-8.51,-19.07,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,34,79,1.0,10.0,-8.51,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,34,79,1.0,10.0,-8.51,-0.32,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,34,79,1.0,10.0,-8.51,14.6,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,34,79,1.0,10.0,-8.51,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,34,79,1.0,10.0,-8.51,-14.08,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,34,79,1.0,10.0,-8.51,0.0,-11.28,20.03
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,34,79,1.0,10.0,-8.51,-14.1,-9.9,22.02
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,34,74,1.0,10.0,-8.51,-14.1,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,120,14,34,79,1.0,10.0,-8.51,-13.37,-11.9,22.05
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,34,74,1.0,10.0,-8.51,-13.16,-12.08,24.91
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,34,74,1.0,10.0,-8.51,0.0,-11.53,22.88
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,34,64,1.0,10.0,-8.51,-0.32,-12.61,22.7
+140,REK,ProShares Short Real Estate,5,120,14,34,69,1.0,10.0,-8.51,-10.82,-9.43,19.79
+140,SEF,ProShares Short Financials,5,120,14,34,69,1.0,10.0,-8.51,-14.47,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,120,14,34,69,1.0,10.0,-8.51,-12.41,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,34,69,1.0,10.0,-8.51,-17.25,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,34,69,1.0,10.0,-8.51,-14.6,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,120,14,34,69,1.0,10.0,-8.51,-13.37,-11.9,22.05
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,34,64,1.0,10.0,-8.51,-14.1,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,34,64,1.0,10.0,-8.51,0.0,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,34,64,1.0,10.0,-8.51,0.0,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,120,14,34,64,1.0,10.0,-8.51,-14.08,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,34,64,1.0,10.0,-8.51,-21.95,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,34,64,1.0,10.0,-8.51,14.6,-12.63,21.21
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,34,64,1.0,10.0,-8.51,0.0,-13.81,21.26
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,34,69,1.0,10.0,-8.51,-5.63,-10.62,21.14
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,34,64,1.0,10.0,-8.51,-19.07,-14.62,20.99
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,34,64,1.0,10.0,-8.51,0.0,-8.93,20.54
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,34,64,1.0,10.0,-8.51,-13.16,-12.08,24.91
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,34,74,1.0,10.0,-8.51,0.0,-11.28,20.03
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,34,64,1.0,10.0,-8.51,-5.63,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,34,64,1.0,10.0,-8.51,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,120,14,34,64,1.0,10.0,-8.51,-10.82,-9.43,19.79
+140,SEF,ProShares Short Financials,5,120,14,34,64,1.0,10.0,-8.51,-14.47,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,120,14,34,64,1.0,10.0,-8.51,-12.41,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,34,64,1.0,10.0,-8.51,-17.25,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,34,64,1.0,10.0,-8.51,-14.6,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,120,14,34,64,1.0,10.0,-8.51,-13.37,-11.9,22.05
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,34,69,1.0,10.0,-8.51,0.0,-12.08,20.54
+140,MYY,ProShares Short MidCap400,5,120,14,34,64,1.0,10.0,-8.51,-13.61,-12.26,20.13
+140,MYY,ProShares Short MidCap400,5,120,14,34,69,1.0,10.0,-8.51,-13.61,-12.26,20.13
+140,YCL,ProShares Ultra Yen,5,120,14,34,74,1.0,10.0,-8.51,-12.41,-9.77,18.54
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,34,69,1.0,10.0,-8.51,-13.16,-12.08,24.91
+140,SBB,ProShares Short SmallCap600,5,120,14,34,74,1.0,10.0,-8.51,-14.08,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,34,74,1.0,10.0,-8.51,-21.95,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,34,74,1.0,10.0,-8.51,14.6,-12.63,21.21
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,34,74,1.0,10.0,-8.51,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,34,74,1.0,10.0,-8.51,-19.07,-14.62,20.99
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,34,74,1.0,10.0,-8.51,0.0,-8.93,20.54
+140,MYY,ProShares Short MidCap400,5,120,14,34,74,1.0,10.0,-8.51,-13.61,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,34,74,1.0,10.0,-8.51,-5.63,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,34,74,1.0,10.0,-8.51,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,120,14,34,74,1.0,10.0,-8.51,-10.82,-9.43,19.79
+140,SEF,ProShares Short Financials,5,120,14,34,74,1.0,10.0,-8.51,-14.47,-12.08,20.37
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,34,74,1.0,10.0,-8.51,-0.32,-12.61,22.7
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,34,74,1.0,10.0,-8.51,-17.25,-14.88,22.6
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,34,69,1.0,10.0,-8.51,-21.95,-15.27,21.72
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,34,69,1.0,10.0,-8.51,0.0,-8.93,20.54
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,34,74,1.0,10.0,-8.51,-14.6,-12.72,18.31
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,34,69,1.0,10.0,-8.51,-19.07,-14.62,20.99
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,34,69,1.0,10.0,-8.51,-0.32,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,34,69,1.0,10.0,-8.51,14.6,-12.63,21.21
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,34,69,1.0,10.0,-8.51,0.0,-13.81,21.26
+140,SBB,ProShares Short SmallCap600,5,120,14,34,69,1.0,10.0,-8.51,-14.08,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,34,69,1.0,10.0,-8.51,0.0,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,34,69,1.0,10.0,-8.51,0.0,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,34,69,1.0,10.0,-8.51,-14.1,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,120,14,34,74,1.0,10.0,-8.51,-13.37,-11.9,22.05
+140,RWM,ProShares Short Russell2000,5,60,14,34,69,1.0,10.0,-9.15,-12.94,-11.9,22.05
+140,MYY,ProShares Short MidCap400,5,60,14,34,69,1.0,10.0,-9.15,-13.0,-12.26,20.13
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,34,69,1.0,10.0,-9.15,-14.52,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,34,69,1.0,10.0,-9.15,-17.63,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,60,14,34,69,1.0,10.0,-9.15,-12.38,-9.77,18.54
+140,SEF,ProShares Short Financials,5,60,14,34,69,1.0,10.0,-9.15,-14.02,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,34,69,1.0,10.0,-9.15,-10.77,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,34,69,1.0,10.0,-9.15,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,34,69,1.0,10.0,-9.15,-4.89,-10.62,21.14
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,34,69,1.0,10.0,-9.15,-12.23,-12.63,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,34,69,1.0,10.0,-9.15,-13.05,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,34,69,1.0,10.0,-9.15,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,34,69,1.0,10.0,-9.15,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,34,69,1.0,10.0,-9.15,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,34,69,1.0,10.0,-9.15,-1.6,-12.61,22.7
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,34,69,1.0,10.0,-9.15,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,34,69,1.0,10.0,-9.15,-13.65,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,34,69,1.0,10.0,-9.15,20.32,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,34,64,1.0,10.0,-9.15,-9.27,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,34,64,1.0,10.0,-9.15,-13.07,-9.9,22.02
+140,SEF,ProShares Short Financials,5,60,14,34,64,1.0,10.0,-9.15,-14.02,-12.08,20.37
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,34,64,1.0,10.0,-9.15,20.32,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,60,14,34,64,1.0,10.0,-9.15,-13.65,-12.62,22.09
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,34,74,1.0,10.0,-9.15,-14.52,-12.72,18.31
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,34,69,1.0,10.0,-9.15,-13.07,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,60,14,34,64,1.0,10.0,-9.15,-12.94,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,34,64,1.0,10.0,-9.15,-14.52,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,34,64,1.0,10.0,-9.15,-17.63,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,60,14,34,64,1.0,10.0,-9.15,-12.38,-9.77,18.54
+140,REK,ProShares Short Real Estate,5,60,14,34,64,1.0,10.0,-9.15,-10.77,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,34,64,1.0,10.0,-9.15,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,34,64,1.0,10.0,-9.15,-4.89,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,60,14,34,64,1.0,10.0,-9.15,-13.0,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,34,64,1.0,10.0,-9.15,-13.05,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,34,64,1.0,10.0,-9.15,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,34,64,1.0,10.0,-9.15,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,34,64,1.0,10.0,-9.15,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,34,64,1.0,10.0,-9.15,-1.6,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,34,64,1.0,10.0,-9.15,-12.23,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,34,64,1.0,10.0,-9.15,-20.72,-15.27,21.72
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,34,69,1.0,10.0,-9.15,-9.27,-11.53,22.88
+140,RWM,ProShares Short Russell2000,5,60,14,34,74,1.0,10.0,-9.15,-12.94,-11.9,22.05
+140,RWM,ProShares Short Russell2000,5,60,14,34,79,1.0,10.0,-9.15,-12.94,-11.9,22.05
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,34,74,1.0,10.0,-9.15,-19.63,-14.62,20.99
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,34,74,1.0,10.0,-9.15,-9.27,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,34,74,1.0,10.0,-9.15,20.32,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,60,14,34,74,1.0,10.0,-9.15,-13.65,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,34,74,1.0,10.0,-9.15,-20.72,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,34,74,1.0,10.0,-9.15,-12.23,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,34,74,1.0,10.0,-9.15,-1.6,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,34,74,1.0,10.0,-9.15,0.0,-13.81,21.26
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,34,74,1.0,10.0,-9.15,0.0,-8.93,20.54
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,34,79,1.0,10.0,-9.15,-14.52,-12.72,18.31
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,34,74,1.0,10.0,-9.15,-13.05,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,60,14,34,74,1.0,10.0,-9.15,-13.0,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,34,74,1.0,10.0,-9.15,-4.89,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,34,74,1.0,10.0,-9.15,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,34,74,1.0,10.0,-9.15,-10.77,-9.43,19.79
+140,SEF,ProShares Short Financials,5,60,14,34,74,1.0,10.0,-9.15,-14.02,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,60,14,34,74,1.0,10.0,-9.15,-12.38,-9.77,18.54
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,34,74,1.0,10.0,-9.15,-13.07,-9.9,22.02
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,34,74,1.0,10.0,-9.15,-17.63,-14.88,22.6
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,34,79,1.0,10.0,-9.15,-17.63,-14.88,22.6
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,34,79,1.0,10.0,-9.15,0.0,-13.81,21.26
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,34,79,1.0,10.0,-9.15,-13.07,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,34,79,1.0,10.0,-9.15,-9.27,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,34,79,1.0,10.0,-9.15,20.32,-11.28,20.03
+140,YCL,ProShares Ultra Yen,5,60,14,34,79,1.0,10.0,-9.15,-12.38,-9.77,18.54
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,34,79,1.0,10.0,-9.15,-20.72,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,34,79,1.0,10.0,-9.15,-12.23,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,34,79,1.0,10.0,-9.15,-1.6,-12.61,22.7
+140,SBB,ProShares Short SmallCap600,5,60,14,34,79,1.0,10.0,-9.15,-13.65,-12.62,22.09
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,34,79,1.0,10.0,-9.15,-19.63,-14.62,20.99
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,34,79,1.0,10.0,-9.15,-13.05,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,60,14,34,79,1.0,10.0,-9.15,-13.0,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,34,79,1.0,10.0,-9.15,-4.89,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,34,79,1.0,10.0,-9.15,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,34,79,1.0,10.0,-9.15,-10.77,-9.43,19.79
+140,SEF,ProShares Short Financials,5,60,14,34,79,1.0,10.0,-9.15,-14.02,-12.08,20.37
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,34,79,1.0,10.0,-9.15,0.0,-8.93,20.54
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,39,54,1.0,10.0,-9.49,-17.26,-12.63,21.21
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,39,54,1.0,10.0,-9.49,-19.07,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,39,54,1.0,10.0,-9.49,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,39,54,1.0,10.0,-9.49,-0.32,-12.61,22.7
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,39,54,1.0,10.0,-9.49,0.0,-11.53,22.88
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,39,54,1.0,10.0,-9.49,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,39,54,1.0,10.0,-9.49,-9.31,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,39,54,1.0,10.0,-9.49,-0.27,-11.28,20.03
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,39,54,1.0,10.0,-9.49,-14.1,-9.9,22.02
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,39,54,1.0,10.0,-9.49,0.0,-8.93,20.54
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,39,54,1.0,10.0,-9.49,-14.71,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,120,14,39,54,1.0,10.0,-9.49,-11.4,-12.26,20.13
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,39,54,1.0,10.0,-9.49,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,120,14,39,54,1.0,10.0,-9.49,-8.89,-9.43,19.79
+140,SEF,ProShares Short Financials,5,120,14,39,54,1.0,10.0,-9.49,-11.0,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,120,14,39,54,1.0,10.0,-9.49,-13.4,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,39,54,1.0,10.0,-9.49,-18.32,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,39,54,1.0,10.0,-9.49,-14.6,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,120,14,39,54,1.0,10.0,-9.49,-9.66,-11.9,22.05
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,39,54,1.0,10.0,-9.49,-5.63,-10.62,21.14
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,39,59,1.0,10.0,-9.65,-0.32,-12.61,22.7
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,39,59,1.0,10.0,-9.65,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,39,59,1.0,10.0,-9.65,-19.07,-14.62,20.99
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,39,59,1.0,10.0,-9.65,-0.27,-11.28,20.03
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,39,59,1.0,10.0,-9.65,-17.26,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,39,59,1.0,10.0,-9.65,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,39,59,1.0,10.0,-9.65,-9.31,-12.62,22.09
+140,MYY,ProShares Short MidCap400,5,120,14,39,59,1.0,10.0,-9.65,-10.02,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,39,59,1.0,10.0,-9.65,-14.71,-12.08,24.91
+140,SEF,ProShares Short Financials,5,120,14,39,59,1.0,10.0,-9.65,-14.47,-12.08,20.37
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,39,59,1.0,10.0,-9.65,-5.63,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,39,59,1.0,10.0,-9.65,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,120,14,39,59,1.0,10.0,-9.65,-10.82,-9.43,19.79
+140,YCL,ProShares Ultra Yen,5,120,14,39,59,1.0,10.0,-9.65,-12.41,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,39,59,1.0,10.0,-9.65,-18.32,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,39,59,1.0,10.0,-9.65,-14.6,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,120,14,39,59,1.0,10.0,-9.65,-9.66,-11.9,22.05
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,39,59,1.0,10.0,-9.65,-14.1,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,39,59,1.0,10.0,-9.65,0.0,-11.53,22.88
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,39,59,1.0,10.0,-9.65,0.0,-13.81,21.26
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,39,54,1.0,10.0,-9.85,0.0,-8.93,20.54
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,39,54,1.0,10.0,-9.85,-9.27,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,39,54,1.0,10.0,-9.85,-1.94,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,60,14,39,54,1.0,10.0,-9.85,-8.28,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,39,54,1.0,10.0,-9.85,-20.72,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,39,54,1.0,10.0,-9.85,-15.28,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,39,54,1.0,10.0,-9.85,-1.6,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,39,54,1.0,10.0,-9.85,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,39,54,1.0,10.0,-9.85,-19.63,-14.62,20.99
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,39,54,1.0,10.0,-9.85,-13.05,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,60,14,39,54,1.0,10.0,-9.85,-10.66,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,39,54,1.0,10.0,-9.85,-4.89,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,39,54,1.0,10.0,-9.85,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,39,54,1.0,10.0,-9.85,-8.87,-9.43,19.79
+140,SEF,ProShares Short Financials,5,60,14,39,54,1.0,10.0,-9.85,-13.08,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,60,14,39,54,1.0,10.0,-9.85,-13.15,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,39,54,1.0,10.0,-9.85,-17.8,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,39,54,1.0,10.0,-9.85,-14.52,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,60,14,39,54,1.0,10.0,-9.85,-11.12,-11.9,22.05
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,39,54,1.0,10.0,-9.85,-13.07,-9.9,22.02
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,39,59,1.0,10.0,-9.99,-13.07,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,39,59,1.0,10.0,-9.99,-9.27,-11.53,22.88
+140,RWM,ProShares Short Russell2000,5,60,14,39,59,1.0,10.0,-9.99,-11.12,-11.9,22.05
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,39,59,1.0,10.0,-9.99,-13.05,-12.08,24.91
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,39,59,1.0,10.0,-9.99,-14.52,-12.72,18.31
+140,SBB,ProShares Short SmallCap600,5,60,14,39,59,1.0,10.0,-9.99,-8.28,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,39,59,1.0,10.0,-9.99,-20.72,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,39,59,1.0,10.0,-9.99,-15.28,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,39,59,1.0,10.0,-9.99,-1.6,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,39,59,1.0,10.0,-9.99,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,39,59,1.0,10.0,-9.99,-19.63,-14.62,20.99
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,39,59,1.0,10.0,-9.99,0.0,-8.93,20.54
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,39,59,1.0,10.0,-9.99,-1.94,-11.28,20.03
+140,MYY,ProShares Short MidCap400,5,60,14,39,59,1.0,10.0,-9.99,-11.36,-12.26,20.13
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,39,59,1.0,10.0,-9.99,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,39,59,1.0,10.0,-9.99,-10.77,-9.43,19.79
+140,SEF,ProShares Short Financials,5,60,14,39,59,1.0,10.0,-9.99,-14.02,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,60,14,39,59,1.0,10.0,-9.99,-12.38,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,39,59,1.0,10.0,-9.99,-17.8,-14.88,22.6
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,39,59,1.0,10.0,-9.99,-4.89,-10.62,21.14
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,49,54,1.0,10.0,-10.27,-21.53,-14.62,20.99
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,49,54,1.0,10.0,-10.27,-18.32,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,120,14,49,54,1.0,10.0,-10.27,-11.88,-9.77,18.54
+140,SEF,ProShares Short Financials,5,120,14,49,54,1.0,10.0,-10.27,-12.01,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,120,14,49,54,1.0,10.0,-10.27,-9.6,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,49,54,1.0,10.0,-10.27,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,49,54,1.0,10.0,-10.27,-5.63,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,49,54,1.0,10.0,-10.27,-9.65,-12.26,20.13
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,49,54,1.0,10.0,-10.27,0.0,-8.93,20.54
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,49,54,1.0,10.0,-10.27,-15.48,-12.63,21.21
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,49,54,1.0,10.0,-10.27,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,49,54,1.0,10.0,-10.27,-0.32,-12.61,22.7
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,49,54,1.0,10.0,-10.27,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,49,54,1.0,10.0,-10.27,-9.31,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,49,54,1.0,10.0,-10.27,-0.27,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,49,54,1.0,10.0,-10.27,-16.31,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,49,54,1.0,10.0,-10.27,-14.1,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,120,14,49,54,1.0,10.0,-10.27,-9.66,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,49,54,1.0,10.0,-10.27,-14.6,-12.72,18.31
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,49,54,1.0,10.0,-10.27,-14.71,-12.08,24.91
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,39,74,1.0,10.0,-10.3,0.0,-11.53,22.88
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,39,69,1.0,10.0,-10.3,-14.71,-12.08,24.91
+140,RWM,ProShares Short Russell2000,5,120,14,39,64,1.0,10.0,-10.3,-14.01,-11.9,22.05
+140,YCL,ProShares Ultra Yen,5,120,14,39,69,1.0,10.0,-10.3,-12.41,-9.77,18.54
+140,SEF,ProShares Short Financials,5,120,14,39,69,1.0,10.0,-10.3,-14.47,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,120,14,39,69,1.0,10.0,-10.3,-10.82,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,39,69,1.0,10.0,-10.3,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,39,69,1.0,10.0,-10.3,-5.63,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,39,69,1.0,10.0,-10.3,-13.99,-12.26,20.13
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,39,69,1.0,10.0,-10.3,0.0,-8.93,20.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,39,64,1.0,10.0,-10.3,-18.32,-14.88,22.6
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,39,69,1.0,10.0,-10.3,-19.07,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,39,69,1.0,10.0,-10.3,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,39,69,1.0,10.0,-10.3,-0.32,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,39,69,1.0,10.0,-10.3,-17.26,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,39,69,1.0,10.0,-10.3,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,39,69,1.0,10.0,-10.3,-14.08,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,39,69,1.0,10.0,-10.3,-0.27,-11.28,20.03
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,39,64,1.0,10.0,-10.3,-14.6,-12.72,18.31
+140,YCL,ProShares Ultra Yen,5,120,14,39,64,1.0,10.0,-10.3,-12.41,-9.77,18.54
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,39,69,1.0,10.0,-10.3,-14.1,-9.9,22.02
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,39,64,1.0,10.0,-10.3,-0.32,-12.61,22.7
+140,RWM,ProShares Short Russell2000,5,120,14,39,69,1.0,10.0,-10.3,-14.01,-11.9,22.05
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,39,64,1.0,10.0,-10.3,-14.1,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,39,64,1.0,10.0,-10.3,0.0,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,39,64,1.0,10.0,-10.3,-0.27,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,120,14,39,64,1.0,10.0,-10.3,-14.08,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,39,64,1.0,10.0,-10.3,-21.95,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,39,64,1.0,10.0,-10.3,-17.26,-12.63,21.21
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,39,64,1.0,10.0,-10.3,0.0,-13.81,21.26
+140,SEF,ProShares Short Financials,5,120,14,39,64,1.0,10.0,-10.3,-14.47,-12.08,20.37
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,39,64,1.0,10.0,-10.3,-19.07,-14.62,20.99
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,39,64,1.0,10.0,-10.3,0.0,-8.93,20.54
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,39,64,1.0,10.0,-10.3,-14.71,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,120,14,39,64,1.0,10.0,-10.3,-13.99,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,39,64,1.0,10.0,-10.3,-5.63,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,39,64,1.0,10.0,-10.3,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,120,14,39,64,1.0,10.0,-10.3,-10.82,-9.43,19.79
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,39,69,1.0,10.0,-10.3,0.0,-11.53,22.88
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,39,79,1.0,10.0,-10.3,0.0,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,39,74,1.0,10.0,-10.3,-0.27,-11.28,20.03
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,39,74,1.0,10.0,-10.3,-14.71,-12.08,24.91
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,39,74,1.0,10.0,-10.3,-18.32,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,120,14,39,74,1.0,10.0,-10.3,-12.41,-9.77,18.54
+140,SEF,ProShares Short Financials,5,120,14,39,74,1.0,10.0,-10.3,-14.47,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,120,14,39,74,1.0,10.0,-10.3,-10.82,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,39,74,1.0,10.0,-10.3,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,39,74,1.0,10.0,-10.3,-5.63,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,39,74,1.0,10.0,-10.3,-13.99,-12.26,20.13
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,39,69,1.0,10.0,-10.3,-14.6,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,120,14,39,74,1.0,10.0,-10.3,-14.01,-11.9,22.05
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,39,74,1.0,10.0,-10.3,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,39,74,1.0,10.0,-10.3,-19.07,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,39,74,1.0,10.0,-10.3,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,39,74,1.0,10.0,-10.3,-0.32,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,39,74,1.0,10.0,-10.3,-17.26,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,39,74,1.0,10.0,-10.3,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,39,74,1.0,10.0,-10.3,-14.08,-12.62,22.09
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,39,74,1.0,10.0,-10.3,-14.6,-12.72,18.31
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,39,74,1.0,10.0,-10.3,-14.1,-9.9,22.02
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,39,79,1.0,10.0,-10.3,-0.27,-11.28,20.03
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,39,79,1.0,10.0,-10.3,-14.71,-12.08,24.91
+140,SBB,ProShares Short SmallCap600,5,120,14,39,79,1.0,10.0,-10.3,-14.08,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,39,79,1.0,10.0,-10.3,-21.95,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,39,79,1.0,10.0,-10.3,-17.26,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,39,79,1.0,10.0,-10.3,-0.32,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,39,79,1.0,10.0,-10.3,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,39,79,1.0,10.0,-10.3,-19.07,-14.62,20.99
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,39,79,1.0,10.0,-10.3,0.0,-8.93,20.54
+140,MYY,ProShares Short MidCap400,5,120,14,39,79,1.0,10.0,-10.3,-13.99,-12.26,20.13
+140,RWM,ProShares Short Russell2000,5,120,14,39,79,1.0,10.0,-10.3,-14.01,-11.9,22.05
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,39,79,1.0,10.0,-10.3,-5.63,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,39,79,1.0,10.0,-10.3,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,120,14,39,79,1.0,10.0,-10.3,-10.82,-9.43,19.79
+140,SEF,ProShares Short Financials,5,120,14,39,79,1.0,10.0,-10.3,-14.47,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,120,14,39,79,1.0,10.0,-10.3,-12.41,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,39,79,1.0,10.0,-10.3,-18.32,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,39,79,1.0,10.0,-10.3,-14.6,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,39,69,1.0,10.0,-10.3,-18.32,-14.88,22.6
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,39,79,1.0,10.0,-10.3,-14.1,-9.9,22.02
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,44,54,1.0,10.0,-10.38,-14.1,-9.9,22.02
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,44,54,1.0,10.0,-10.38,-21.53,-14.62,20.99
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,44,54,1.0,10.0,-10.38,-14.6,-12.72,18.31
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,44,54,1.0,10.0,-10.38,-20.22,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,44,54,1.0,10.0,-10.38,-0.27,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,120,14,44,54,1.0,10.0,-10.38,-9.31,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,44,54,1.0,10.0,-10.38,-21.95,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,44,54,1.0,10.0,-10.38,-15.48,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,44,54,1.0,10.0,-10.38,-0.32,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,44,54,1.0,10.0,-10.38,0.0,-13.81,21.26
+140,RWM,ProShares Short Russell2000,5,120,14,44,54,1.0,10.0,-10.38,-9.66,-11.9,22.05
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,44,54,1.0,10.0,-10.38,0.0,-8.93,20.54
+140,REK,ProShares Short Real Estate,5,120,14,44,54,1.0,10.0,-10.38,-8.89,-9.43,19.79
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,44,54,1.0,10.0,-10.38,-14.71,-12.08,24.91
+140,YCL,ProShares Ultra Yen,5,120,14,44,54,1.0,10.0,-10.38,-12.19,-9.77,18.54
+140,SEF,ProShares Short Financials,5,120,14,44,54,1.0,10.0,-10.38,-11.0,-12.08,20.37
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,44,54,1.0,10.0,-10.38,-18.32,-14.88,22.6
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,44,54,1.0,10.0,-10.38,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,44,54,1.0,10.0,-10.38,-5.63,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,44,54,1.0,10.0,-10.38,-9.4,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,39,69,1.0,10.0,-10.43,-13.05,-12.08,24.91
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,39,69,1.0,10.0,-10.43,-17.8,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,60,14,39,69,1.0,10.0,-10.43,-12.38,-9.77,18.54
+140,SEF,ProShares Short Financials,5,60,14,39,69,1.0,10.0,-10.43,-14.02,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,39,69,1.0,10.0,-10.43,-10.77,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,39,69,1.0,10.0,-10.43,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,39,69,1.0,10.0,-10.43,-4.89,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,60,14,39,69,1.0,10.0,-10.43,-13.0,-12.26,20.13
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,39,69,1.0,10.0,-10.43,-1.6,-12.61,22.7
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,39,69,1.0,10.0,-10.43,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,39,69,1.0,10.0,-10.43,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,39,69,1.0,10.0,-10.43,0.0,-13.81,21.26
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,39,69,1.0,10.0,-10.43,-15.28,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,39,69,1.0,10.0,-10.43,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,39,69,1.0,10.0,-10.43,-13.65,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,39,69,1.0,10.0,-10.43,-1.94,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,39,69,1.0,10.0,-10.43,-9.27,-11.53,22.88
+140,RWM,ProShares Short Russell2000,5,60,14,39,69,1.0,10.0,-10.43,-12.94,-11.9,22.05
+140,RWM,ProShares Short Russell2000,5,60,14,39,79,1.0,10.0,-10.43,-12.94,-11.9,22.05
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,39,64,1.0,10.0,-10.43,0.0,-8.93,20.54
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,39,64,1.0,10.0,-10.43,-13.07,-9.9,22.02
+140,MYY,ProShares Short MidCap400,5,60,14,39,64,1.0,10.0,-10.43,-13.0,-12.26,20.13
+140,RWM,ProShares Short Russell2000,5,60,14,39,64,1.0,10.0,-10.43,-12.94,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,39,64,1.0,10.0,-10.43,-14.52,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,39,64,1.0,10.0,-10.43,-17.8,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,60,14,39,64,1.0,10.0,-10.43,-12.38,-9.77,18.54
+140,SEF,ProShares Short Financials,5,60,14,39,64,1.0,10.0,-10.43,-14.02,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,39,64,1.0,10.0,-10.43,-10.77,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,39,64,1.0,10.0,-10.43,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,39,64,1.0,10.0,-10.43,-4.89,-10.62,21.14
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,39,64,1.0,10.0,-10.43,-13.05,-12.08,24.91
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,39,64,1.0,10.0,-10.43,-9.27,-11.53,22.88
+140,RWM,ProShares Short Russell2000,5,60,14,39,74,1.0,10.0,-10.43,-12.94,-11.9,22.05
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,39,64,1.0,10.0,-10.43,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,39,64,1.0,10.0,-10.43,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,39,64,1.0,10.0,-10.43,-1.6,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,39,64,1.0,10.0,-10.43,-15.28,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,39,64,1.0,10.0,-10.43,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,39,64,1.0,10.0,-10.43,-13.65,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,39,64,1.0,10.0,-10.43,-1.94,-11.28,20.03
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,39,69,1.0,10.0,-10.43,-13.07,-9.9,22.02
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,39,69,1.0,10.0,-10.43,-14.52,-12.72,18.31
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,39,74,1.0,10.0,-10.43,-14.52,-12.72,18.31
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,39,79,1.0,10.0,-10.43,0.0,-13.81,21.26
+140,SEF,ProShares Short Financials,5,60,14,39,79,1.0,10.0,-10.43,-14.02,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,39,79,1.0,10.0,-10.43,-10.77,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,39,79,1.0,10.0,-10.43,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,39,79,1.0,10.0,-10.43,-4.89,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,60,14,39,79,1.0,10.0,-10.43,-13.0,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,39,79,1.0,10.0,-10.43,-13.05,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,39,79,1.0,10.0,-10.43,0.0,-8.93,20.54
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,39,79,1.0,10.0,-10.43,-1.6,-12.61,22.7
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,39,79,1.0,10.0,-10.43,-17.8,-14.88,22.6
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,39,79,1.0,10.0,-10.43,-15.28,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,39,79,1.0,10.0,-10.43,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,39,79,1.0,10.0,-10.43,-13.65,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,39,79,1.0,10.0,-10.43,-1.94,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,39,79,1.0,10.0,-10.43,-9.27,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,39,79,1.0,10.0,-10.43,-13.07,-9.9,22.02
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,39,74,1.0,10.0,-10.43,-17.8,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,60,14,39,79,1.0,10.0,-10.43,-12.38,-9.77,18.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,39,79,1.0,10.0,-10.43,-19.63,-14.62,20.99
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,39,79,1.0,10.0,-10.43,-14.52,-12.72,18.31
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,39,74,1.0,10.0,-10.43,-19.63,-14.62,20.99
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,39,74,1.0,10.0,-10.43,-13.07,-9.9,22.02
+140,SEF,ProShares Short Financials,5,60,14,39,74,1.0,10.0,-10.43,-14.02,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,39,74,1.0,10.0,-10.43,-10.77,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,39,74,1.0,10.0,-10.43,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,39,74,1.0,10.0,-10.43,-4.89,-10.62,21.14
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,39,74,1.0,10.0,-10.43,-13.05,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,39,74,1.0,10.0,-10.43,0.0,-8.93,20.54
+140,MYY,ProShares Short MidCap400,5,60,14,39,74,1.0,10.0,-10.43,-13.0,-12.26,20.13
+140,YCL,ProShares Ultra Yen,5,60,14,39,74,1.0,10.0,-10.43,-12.38,-9.77,18.54
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,39,74,1.0,10.0,-10.43,-1.6,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,39,74,1.0,10.0,-10.43,-15.28,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,39,74,1.0,10.0,-10.43,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,39,74,1.0,10.0,-10.43,-13.65,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,39,74,1.0,10.0,-10.43,-1.94,-11.28,20.03
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,39,74,1.0,10.0,-10.43,0.0,-13.81,21.26
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,39,74,1.0,10.0,-10.43,-9.27,-11.53,22.88
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,44,54,1.0,10.0,-10.44,-4.89,-10.62,21.14
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,44,54,1.0,10.0,-10.44,0.0,-8.93,20.54
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,44,54,1.0,10.0,-10.44,-13.05,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,60,14,44,54,1.0,10.0,-10.44,-10.66,-12.26,20.13
+140,YCL,ProShares Ultra Yen,5,60,14,44,54,1.0,10.0,-10.44,-11.28,-9.77,18.54
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,44,54,1.0,10.0,-10.44,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,44,54,1.0,10.0,-10.44,-9.79,-9.43,19.79
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,44,54,1.0,10.0,-10.44,-19.63,-14.62,20.99
+140,SEF,ProShares Short Financials,5,60,14,44,54,1.0,10.0,-10.44,-13.08,-12.08,20.37
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,44,54,1.0,10.0,-10.44,-14.52,-12.72,18.31
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,44,54,1.0,10.0,-10.44,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,44,54,1.0,10.0,-10.44,-1.6,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,44,54,1.0,10.0,-10.44,-15.28,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,44,54,1.0,10.0,-10.44,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,44,54,1.0,10.0,-10.44,-11.87,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,44,54,1.0,10.0,-10.44,-1.94,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,44,54,1.0,10.0,-10.44,-18.43,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,44,54,1.0,10.0,-10.44,-13.07,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,60,14,44,54,1.0,10.0,-10.44,-11.12,-11.9,22.05
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,44,54,1.0,10.0,-10.44,-17.8,-14.88,22.6
+140,RWM,ProShares Short Russell2000,5,120,14,49,59,1.0,10.0,-10.53,-9.66,-11.9,22.05
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,49,59,1.0,10.0,-10.53,0.0,-8.93,20.54
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,49,59,1.0,10.0,-10.53,-14.6,-12.72,18.31
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,49,59,1.0,10.0,-10.53,0.0,-13.81,21.26
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,49,59,1.0,10.0,-10.53,-18.32,-14.88,22.6
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,49,59,1.0,10.0,-10.53,-14.1,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,49,59,1.0,10.0,-10.53,-16.31,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,49,59,1.0,10.0,-10.53,-0.27,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,120,14,49,59,1.0,10.0,-10.53,-9.31,-12.62,22.09
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,49,59,1.0,10.0,-10.53,-15.48,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,49,59,1.0,10.0,-10.53,-0.32,-12.61,22.7
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,49,59,1.0,10.0,-10.53,-21.95,-15.27,21.72
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,49,59,1.0,10.0,-10.53,-21.53,-14.62,20.99
+140,MYY,ProShares Short MidCap400,5,120,14,49,59,1.0,10.0,-10.53,-10.02,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,49,59,1.0,10.0,-10.53,-5.63,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,49,59,1.0,10.0,-10.53,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,120,14,49,59,1.0,10.0,-10.53,-10.82,-9.43,19.79
+140,SEF,ProShares Short Financials,5,120,14,49,59,1.0,10.0,-10.53,-15.16,-12.08,20.37
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,49,59,1.0,10.0,-10.53,-14.71,-12.08,24.91
+140,YCL,ProShares Ultra Yen,5,120,14,49,59,1.0,10.0,-10.53,-12.41,-9.77,18.54
+140,SEF,ProShares Short Financials,5,60,14,49,54,1.0,10.0,-10.56,-14.58,-12.08,20.37
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,49,54,1.0,10.0,-10.56,-4.89,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,49,54,1.0,10.0,-10.56,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,49,54,1.0,10.0,-10.56,-9.88,-9.43,19.79
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,49,54,1.0,10.0,-10.56,-14.52,-12.72,18.31
+140,YCL,ProShares Ultra Yen,5,60,14,49,54,1.0,10.0,-10.56,-11.28,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,49,54,1.0,10.0,-10.56,-17.8,-14.88,22.6
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,49,54,1.0,10.0,-10.56,-13.05,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,60,14,49,54,1.0,10.0,-10.56,-10.66,-12.26,20.13
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,49,54,1.0,10.0,-10.56,-18.43,-11.53,22.88
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,49,54,1.0,10.0,-10.56,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,49,54,1.0,10.0,-10.56,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,49,54,1.0,10.0,-10.56,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,49,54,1.0,10.0,-10.56,-1.6,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,49,54,1.0,10.0,-10.56,-16.15,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,49,54,1.0,10.0,-10.56,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,49,54,1.0,10.0,-10.56,-11.87,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,49,54,1.0,10.0,-10.56,-1.94,-11.28,20.03
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,49,54,1.0,10.0,-10.56,-13.07,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,60,14,49,54,1.0,10.0,-10.56,-11.12,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,44,59,1.0,10.0,-10.62,-14.52,-12.72,18.31
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,44,59,1.0,10.0,-10.62,-20.72,-15.27,21.72
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,44,59,1.0,10.0,-10.62,0.0,-8.93,20.54
+140,RWM,ProShares Short Russell2000,5,60,14,44,59,1.0,10.0,-10.62,-11.12,-11.9,22.05
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,44,59,1.0,10.0,-10.62,-13.07,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,44,59,1.0,10.0,-10.62,-18.43,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,44,59,1.0,10.0,-10.62,-1.94,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,60,14,44,59,1.0,10.0,-10.62,-11.87,-12.62,22.09
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,44,59,1.0,10.0,-10.62,-15.28,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,44,59,1.0,10.0,-10.62,-1.6,-12.61,22.7
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,44,59,1.0,10.0,-10.62,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,44,59,1.0,10.0,-10.62,0.0,-13.81,21.26
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,44,59,1.0,10.0,-10.62,-13.05,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,60,14,44,59,1.0,10.0,-10.62,-11.36,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,44,59,1.0,10.0,-10.62,-4.89,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,44,59,1.0,10.0,-10.62,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,44,59,1.0,10.0,-10.62,-10.77,-9.43,19.79
+140,SEF,ProShares Short Financials,5,60,14,44,59,1.0,10.0,-10.62,-14.02,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,60,14,44,59,1.0,10.0,-10.62,-12.38,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,44,59,1.0,10.0,-10.62,-17.8,-14.88,22.6
+140,SEF,ProShares Short Financials,5,120,14,44,59,1.0,10.0,-10.69,-14.47,-12.08,20.37
+140,MYY,ProShares Short MidCap400,5,120,14,44,59,1.0,10.0,-10.69,-10.02,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,44,59,1.0,10.0,-10.69,-5.63,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,44,59,1.0,10.0,-10.69,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,120,14,44,59,1.0,10.0,-10.69,-10.82,-9.43,19.79
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,44,59,1.0,10.0,-10.69,-18.32,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,120,14,44,59,1.0,10.0,-10.69,-12.41,-9.77,18.54
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,44,59,1.0,10.0,-10.69,-14.6,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,120,14,44,59,1.0,10.0,-10.69,-9.66,-11.9,22.05
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,44,59,1.0,10.0,-10.69,0.0,-8.93,20.54
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,44,59,1.0,10.0,-10.69,-14.71,-12.08,24.91
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,44,59,1.0,10.0,-10.69,-0.32,-12.61,22.7
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,44,59,1.0,10.0,-10.69,-21.53,-14.62,20.99
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,44,59,1.0,10.0,-10.69,-15.48,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,44,59,1.0,10.0,-10.69,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,44,59,1.0,10.0,-10.69,-9.31,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,44,59,1.0,10.0,-10.69,-0.27,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,44,59,1.0,10.0,-10.69,-20.22,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,44,59,1.0,10.0,-10.69,-14.1,-9.9,22.02
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,44,59,1.0,10.0,-10.69,0.0,-13.81,21.26
+140,MYY,ProShares Short MidCap400,5,60,14,49,59,1.0,10.0,-10.74,-11.36,-12.26,20.13
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,49,59,1.0,10.0,-10.74,-17.8,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,60,14,49,59,1.0,10.0,-10.74,-12.38,-9.77,18.54
+140,SEF,ProShares Short Financials,5,60,14,49,59,1.0,10.0,-10.74,-15.41,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,49,59,1.0,10.0,-10.74,-10.77,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,49,59,1.0,10.0,-10.74,0.0,-12.08,20.54
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,49,59,1.0,10.0,-10.74,-1.94,-11.28,20.03
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,49,59,1.0,10.0,-10.74,-4.89,-10.62,21.14
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,49,59,1.0,10.0,-10.74,-1.6,-12.61,22.7
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,49,59,1.0,10.0,-10.74,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,49,59,1.0,10.0,-10.74,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,49,59,1.0,10.0,-10.74,0.0,-13.81,21.26
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,49,59,1.0,10.0,-10.74,-16.15,-12.63,21.21
+140,SBB,ProShares Short SmallCap600,5,60,14,49,59,1.0,10.0,-10.74,-11.87,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,49,59,1.0,10.0,-10.74,-20.72,-15.27,21.72
+140,RWM,ProShares Short Russell2000,5,60,14,49,59,1.0,10.0,-10.74,-11.12,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,49,59,1.0,10.0,-10.74,-14.52,-12.72,18.31
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,49,59,1.0,10.0,-10.74,-13.05,-12.08,24.91
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,49,59,1.0,10.0,-10.74,-18.43,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,49,59,1.0,10.0,-10.74,-13.07,-9.9,22.02
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,44,64,1.0,10.0,-10.88,-1.94,-11.28,20.03
+140,RWM,ProShares Short Russell2000,5,60,14,44,64,1.0,10.0,-10.88,-12.94,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,44,64,1.0,10.0,-10.88,-14.52,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,44,64,1.0,10.0,-10.88,-17.8,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,60,14,44,64,1.0,10.0,-10.88,-12.38,-9.77,18.54
+140,SEF,ProShares Short Financials,5,60,14,44,64,1.0,10.0,-10.88,-14.02,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,44,64,1.0,10.0,-10.88,-10.77,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,44,64,1.0,10.0,-10.88,0.0,-12.08,20.54
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,44,64,1.0,10.0,-10.88,-13.07,-9.9,22.02
+140,SBB,ProShares Short SmallCap600,5,60,14,44,64,1.0,10.0,-10.88,-13.65,-12.62,22.09
+140,MYY,ProShares Short MidCap400,5,60,14,44,64,1.0,10.0,-10.88,-13.0,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,44,64,1.0,10.0,-10.88,-13.05,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,44,64,1.0,10.0,-10.88,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,44,64,1.0,10.0,-10.88,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,44,64,1.0,10.0,-10.88,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,44,64,1.0,10.0,-10.88,-1.6,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,44,64,1.0,10.0,-10.88,-15.28,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,44,64,1.0,10.0,-10.88,-20.72,-15.27,21.72
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,44,64,1.0,10.0,-10.88,-18.43,-11.53,22.88
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,44,64,1.0,10.0,-10.88,-4.89,-10.62,21.14
+140,RWM,ProShares Short Russell2000,5,60,14,44,74,1.0,10.0,-10.88,-12.94,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,44,74,1.0,10.0,-10.88,-14.52,-12.72,18.31
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,44,74,1.0,10.0,-10.88,-20.72,-15.27,21.72
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,44,79,1.0,10.0,-10.88,-4.89,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,44,79,1.0,10.0,-10.88,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,44,79,1.0,10.0,-10.88,-10.77,-9.43,19.79
+140,SEF,ProShares Short Financials,5,60,14,44,79,1.0,10.0,-10.88,-14.02,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,60,14,44,79,1.0,10.0,-10.88,-12.38,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,44,79,1.0,10.0,-10.88,-17.8,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,44,79,1.0,10.0,-10.88,-14.52,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,60,14,44,79,1.0,10.0,-10.88,-12.94,-11.9,22.05
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,44,74,1.0,10.0,-10.88,-13.07,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,44,74,1.0,10.0,-10.88,-18.43,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,44,74,1.0,10.0,-10.88,-1.94,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,60,14,44,74,1.0,10.0,-10.88,-13.65,-12.62,22.09
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,44,74,1.0,10.0,-10.88,-15.28,-12.63,21.21
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,44,79,1.0,10.0,-10.88,-13.05,-12.08,24.91
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,44,74,1.0,10.0,-10.88,-1.6,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,44,74,1.0,10.0,-10.88,0.0,-13.81,21.26
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,44,74,1.0,10.0,-10.88,-19.63,-14.62,20.99
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,44,74,1.0,10.0,-10.88,0.0,-8.93,20.54
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,44,74,1.0,10.0,-10.88,-13.05,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,60,14,44,74,1.0,10.0,-10.88,-13.0,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,44,74,1.0,10.0,-10.88,-4.89,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,44,74,1.0,10.0,-10.88,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,60,14,44,74,1.0,10.0,-10.88,-10.77,-9.43,19.79
+140,SEF,ProShares Short Financials,5,60,14,44,74,1.0,10.0,-10.88,-14.02,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,60,14,44,74,1.0,10.0,-10.88,-12.38,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,44,74,1.0,10.0,-10.88,-17.8,-14.88,22.6
+140,MYY,ProShares Short MidCap400,5,60,14,44,79,1.0,10.0,-10.88,-13.0,-12.26,20.13
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,44,79,1.0,10.0,-10.88,0.0,-8.93,20.54
+140,RWM,ProShares Short Russell2000,5,60,14,44,69,1.0,10.0,-10.88,-12.94,-11.9,22.05
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,44,69,1.0,10.0,-10.88,-15.28,-12.63,21.21
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,44,69,1.0,10.0,-10.88,-14.52,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,44,69,1.0,10.0,-10.88,-17.8,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,60,14,44,69,1.0,10.0,-10.88,-12.38,-9.77,18.54
+140,SEF,ProShares Short Financials,5,60,14,44,69,1.0,10.0,-10.88,-14.02,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,44,69,1.0,10.0,-10.88,-10.77,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,44,69,1.0,10.0,-10.88,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,44,69,1.0,10.0,-10.88,-4.89,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,60,14,44,69,1.0,10.0,-10.88,-13.0,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,44,69,1.0,10.0,-10.88,-13.05,-12.08,24.91
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,44,69,1.0,10.0,-10.88,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,44,69,1.0,10.0,-10.88,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,44,69,1.0,10.0,-10.88,-1.6,-12.61,22.7
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,44,69,1.0,10.0,-10.88,-20.72,-15.27,21.72
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,44,79,1.0,10.0,-10.88,-19.63,-14.62,20.99
+140,SBB,ProShares Short SmallCap600,5,60,14,44,69,1.0,10.0,-10.88,-13.65,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,44,69,1.0,10.0,-10.88,-1.94,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,44,69,1.0,10.0,-10.88,-18.43,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,44,69,1.0,10.0,-10.88,-13.07,-9.9,22.02
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,44,79,1.0,10.0,-10.88,-13.07,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,44,79,1.0,10.0,-10.88,-18.43,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,44,79,1.0,10.0,-10.88,-1.94,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,60,14,44,79,1.0,10.0,-10.88,-13.65,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,44,79,1.0,10.0,-10.88,-20.72,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,44,79,1.0,10.0,-10.88,-15.28,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,44,79,1.0,10.0,-10.88,-1.6,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,44,79,1.0,10.0,-10.88,0.0,-13.81,21.26
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,44,69,1.0,10.0,-10.88,0.0,-8.93,20.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,49,74,1.0,10.0,-11.0,-17.8,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,60,14,49,74,1.0,10.0,-11.0,-12.38,-9.77,18.54
+140,YCL,ProShares Ultra Yen,5,60,14,49,79,1.0,10.0,-11.0,-12.38,-9.77,18.54
+140,REK,ProShares Short Real Estate,5,60,14,49,79,1.0,10.0,-11.0,-10.77,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,49,79,1.0,10.0,-11.0,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,49,79,1.0,10.0,-11.0,-4.89,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,60,14,49,79,1.0,10.0,-11.0,-13.0,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,49,79,1.0,10.0,-11.0,-13.05,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,49,79,1.0,10.0,-11.0,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,49,79,1.0,10.0,-11.0,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,49,79,1.0,10.0,-11.0,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,49,79,1.0,10.0,-11.0,-1.6,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,49,79,1.0,10.0,-11.0,-16.15,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,49,79,1.0,10.0,-11.0,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,49,79,1.0,10.0,-11.0,-13.65,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,49,79,1.0,10.0,-11.0,-1.94,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,49,79,1.0,10.0,-11.0,-18.43,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,49,79,1.0,10.0,-11.0,-13.07,-9.9,22.02
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,49,74,1.0,10.0,-11.0,-14.52,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,60,14,49,74,1.0,10.0,-11.0,-12.94,-11.9,22.05
+140,SEF,ProShares Short Financials,5,60,14,49,79,1.0,10.0,-11.0,-15.41,-12.08,20.37
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,49,79,1.0,10.0,-11.0,-17.8,-14.88,22.6
+140,RWM,ProShares Short Russell2000,5,60,14,49,64,1.0,10.0,-11.0,-12.94,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,49,79,1.0,10.0,-11.0,-14.52,-12.72,18.31
+140,SEF,ProShares Short Financials,5,60,14,49,74,1.0,10.0,-11.0,-15.41,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,49,74,1.0,10.0,-11.0,-10.77,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,49,74,1.0,10.0,-11.0,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,49,74,1.0,10.0,-11.0,-4.89,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,60,14,49,74,1.0,10.0,-11.0,-13.0,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,49,74,1.0,10.0,-11.0,-13.05,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,49,74,1.0,10.0,-11.0,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,49,74,1.0,10.0,-11.0,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,49,74,1.0,10.0,-11.0,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,49,74,1.0,10.0,-11.0,-1.6,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,49,74,1.0,10.0,-11.0,-16.15,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,49,74,1.0,10.0,-11.0,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,49,74,1.0,10.0,-11.0,-13.65,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,49,74,1.0,10.0,-11.0,-1.94,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,49,74,1.0,10.0,-11.0,-18.43,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,49,74,1.0,10.0,-11.0,-13.07,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,60,14,49,79,1.0,10.0,-11.0,-12.94,-11.9,22.05
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,49,69,1.0,10.0,-11.0,-13.07,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,49,69,1.0,10.0,-11.0,-18.43,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,60,14,49,64,1.0,10.0,-11.0,-13.07,-9.9,22.02
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,49,64,1.0,10.0,-11.0,-14.52,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,49,69,1.0,10.0,-11.0,-17.8,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,60,14,49,69,1.0,10.0,-11.0,-12.38,-9.77,18.54
+140,SEF,ProShares Short Financials,5,60,14,49,69,1.0,10.0,-11.0,-15.41,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,49,69,1.0,10.0,-11.0,-10.77,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,49,69,1.0,10.0,-11.0,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,49,69,1.0,10.0,-11.0,-4.89,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,60,14,49,69,1.0,10.0,-11.0,-13.0,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,49,69,1.0,10.0,-11.0,-13.05,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,49,69,1.0,10.0,-11.0,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,49,69,1.0,10.0,-11.0,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,49,69,1.0,10.0,-11.0,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,49,69,1.0,10.0,-11.0,-1.6,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,49,69,1.0,10.0,-11.0,-16.15,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,49,69,1.0,10.0,-11.0,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,49,69,1.0,10.0,-11.0,-13.65,-12.62,22.09
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,60,14,49,69,1.0,10.0,-11.0,-14.52,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,60,14,49,69,1.0,10.0,-11.0,-12.94,-11.9,22.05
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,60,14,49,64,1.0,10.0,-11.0,-18.43,-11.53,22.88
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,60,14,49,64,1.0,10.0,-11.0,-13.05,-12.08,24.91
+140,YCL,ProShares Ultra Yen,5,60,14,49,64,1.0,10.0,-11.0,-12.38,-9.77,18.54
+140,SEF,ProShares Short Financials,5,60,14,49,64,1.0,10.0,-11.0,-15.41,-12.08,20.37
+140,REK,ProShares Short Real Estate,5,60,14,49,64,1.0,10.0,-11.0,-10.77,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,60,14,49,64,1.0,10.0,-11.0,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,60,14,49,64,1.0,10.0,-11.0,-4.89,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,60,14,49,64,1.0,10.0,-11.0,-13.0,-12.26,20.13
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,60,14,49,64,1.0,10.0,-11.0,0.0,-8.93,20.54
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,49,64,1.0,10.0,-11.0,-1.94,-11.28,20.03
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,60,14,49,64,1.0,10.0,-11.0,-19.63,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,60,14,49,64,1.0,10.0,-11.0,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,60,14,49,64,1.0,10.0,-11.0,-1.6,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,60,14,49,64,1.0,10.0,-11.0,-16.15,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,60,14,49,64,1.0,10.0,-11.0,-20.72,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,60,14,49,64,1.0,10.0,-11.0,-13.65,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,60,14,49,69,1.0,10.0,-11.0,-1.94,-11.28,20.03
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,60,14,49,64,1.0,10.0,-11.0,-17.8,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,120,14,49,74,1.0,10.0,-11.19,-12.41,-9.77,18.54
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,49,74,1.0,10.0,-11.19,0.0,-13.81,21.26
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,49,74,1.0,10.0,-11.19,-14.1,-9.9,22.02
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,49,74,1.0,10.0,-11.19,-16.31,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,49,74,1.0,10.0,-11.19,-0.27,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,120,14,49,74,1.0,10.0,-11.19,-14.08,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,49,74,1.0,10.0,-11.19,-21.95,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,49,74,1.0,10.0,-11.19,-15.48,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,49,74,1.0,10.0,-11.19,-0.32,-12.61,22.7
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,49,74,1.0,10.0,-11.19,-21.53,-14.62,20.99
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,49,79,1.0,10.0,-11.19,-14.6,-12.72,18.31
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,49,74,1.0,10.0,-11.19,0.0,-8.93,20.54
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,49,74,1.0,10.0,-11.19,-14.71,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,120,14,49,74,1.0,10.0,-11.19,-13.99,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,49,74,1.0,10.0,-11.19,-5.63,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,49,74,1.0,10.0,-11.19,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,120,14,49,74,1.0,10.0,-11.19,-10.82,-9.43,19.79
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,49,64,1.0,10.0,-11.19,-14.6,-12.72,18.31
+140,RWM,ProShares Short Russell2000,5,120,14,49,79,1.0,10.0,-11.19,-14.01,-11.9,22.05
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,49,79,1.0,10.0,-11.19,-18.32,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,120,14,49,64,1.0,10.0,-11.19,-12.41,-9.77,18.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,49,79,1.0,10.0,-11.19,-21.53,-14.62,20.99
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,49,79,1.0,10.0,-11.19,-16.31,-11.53,22.88
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,49,79,1.0,10.0,-11.19,-0.27,-11.28,20.03
+140,SBB,ProShares Short SmallCap600,5,120,14,49,79,1.0,10.0,-11.19,-14.08,-12.62,22.09
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,49,79,1.0,10.0,-11.19,-21.95,-15.27,21.72
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,49,79,1.0,10.0,-11.19,-15.48,-12.63,21.21
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,49,79,1.0,10.0,-11.19,-0.32,-12.61,22.7
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,49,79,1.0,10.0,-11.19,0.0,-13.81,21.26
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,49,79,1.0,10.0,-11.19,0.0,-8.93,20.54
+140,RWM,ProShares Short Russell2000,5,120,14,49,64,1.0,10.0,-11.19,-14.01,-11.9,22.05
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,49,79,1.0,10.0,-11.19,-14.71,-12.08,24.91
+140,MYY,ProShares Short MidCap400,5,120,14,49,79,1.0,10.0,-11.19,-13.99,-12.26,20.13
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,49,79,1.0,10.0,-11.19,-5.63,-10.62,21.14
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,49,79,1.0,10.0,-11.19,0.0,-12.08,20.54
+140,REK,ProShares Short Real Estate,5,120,14,49,79,1.0,10.0,-11.19,-10.82,-9.43,19.79
+140,SEF,ProShares Short Financials,5,120,14,49,79,1.0,10.0,-11.19,-15.16,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,120,14,49,79,1.0,10.0,-11.19,-12.41,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,49,64,1.0,10.0,-11.19,-18.32,-14.88,22.6
+140,SEF,ProShares Short Financials,5,120,14,49,64,1.0,10.0,-11.19,-15.16,-12.08,20.37
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,49,74,1.0,10.0,-11.19,-18.32,-14.88,22.6
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,49,69,1.0,10.0,-11.19,-0.32,-12.61,22.7
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,49,69,1.0,10.0,-11.19,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,49,69,1.0,10.0,-11.19,-5.63,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,49,69,1.0,10.0,-11.19,-13.99,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,49,69,1.0,10.0,-11.19,-14.71,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,49,69,1.0,10.0,-11.19,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,49,69,1.0,10.0,-11.19,-21.53,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,49,69,1.0,10.0,-11.19,0.0,-13.81,21.26
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,49,69,1.0,10.0,-11.19,-15.48,-12.63,21.21
+140,SEF,ProShares Short Financials,5,120,14,49,69,1.0,10.0,-11.19,-15.16,-12.08,20.37
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,49,69,1.0,10.0,-11.19,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,49,69,1.0,10.0,-11.19,-14.08,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,49,69,1.0,10.0,-11.19,-0.27,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,49,69,1.0,10.0,-11.19,-16.31,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,49,69,1.0,10.0,-11.19,-14.1,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,120,14,49,74,1.0,10.0,-11.19,-14.01,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,49,74,1.0,10.0,-11.19,-14.6,-12.72,18.31
+140,REK,ProShares Short Real Estate,5,120,14,49,69,1.0,10.0,-11.19,-10.82,-9.43,19.79
+140,YCL,ProShares Ultra Yen,5,120,14,49,69,1.0,10.0,-11.19,-12.41,-9.77,18.54
+140,REK,ProShares Short Real Estate,5,120,14,49,64,1.0,10.0,-11.19,-10.82,-9.43,19.79
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,49,64,1.0,10.0,-11.19,-0.32,-12.61,22.7
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,49,64,1.0,10.0,-11.19,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,49,64,1.0,10.0,-11.19,-5.63,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,49,64,1.0,10.0,-11.19,-13.99,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,49,64,1.0,10.0,-11.19,-14.71,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,49,64,1.0,10.0,-11.19,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,49,64,1.0,10.0,-11.19,-21.53,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,49,64,1.0,10.0,-11.19,0.0,-13.81,21.26
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,49,64,1.0,10.0,-11.19,-15.48,-12.63,21.21
+140,SEF,ProShares Short Financials,5,120,14,49,74,1.0,10.0,-11.19,-15.16,-12.08,20.37
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,49,64,1.0,10.0,-11.19,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,49,64,1.0,10.0,-11.19,-14.08,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,49,64,1.0,10.0,-11.19,-0.27,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,49,64,1.0,10.0,-11.19,-16.31,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,49,64,1.0,10.0,-11.19,-14.1,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,120,14,49,69,1.0,10.0,-11.19,-14.01,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,49,69,1.0,10.0,-11.19,-14.6,-12.72,18.31
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,49,69,1.0,10.0,-11.19,-18.32,-14.88,22.6
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,49,79,1.0,10.0,-11.19,-14.1,-9.9,22.02
+140,SEF,ProShares Short Financials,5,120,14,44,64,1.0,10.0,-11.35,-14.47,-12.08,20.37
+140,RWM,ProShares Short Russell2000,5,120,14,44,64,1.0,10.0,-11.35,-14.01,-11.9,22.05
+140,REK,ProShares Short Real Estate,5,120,14,44,69,1.0,10.0,-11.35,-10.82,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,44,69,1.0,10.0,-11.35,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,44,69,1.0,10.0,-11.35,-5.63,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,44,69,1.0,10.0,-11.35,-13.99,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,44,69,1.0,10.0,-11.35,-14.71,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,44,69,1.0,10.0,-11.35,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,44,69,1.0,10.0,-11.35,-21.53,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,44,69,1.0,10.0,-11.35,0.0,-13.81,21.26
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,44,69,1.0,10.0,-11.35,-0.32,-12.61,22.7
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,44,69,1.0,10.0,-11.35,-15.48,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,44,69,1.0,10.0,-11.35,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,44,69,1.0,10.0,-11.35,-14.08,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,44,69,1.0,10.0,-11.35,-0.27,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,44,69,1.0,10.0,-11.35,-20.22,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,44,69,1.0,10.0,-11.35,-14.1,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,120,14,44,74,1.0,10.0,-11.35,-14.01,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,44,74,1.0,10.0,-11.35,-14.6,-12.72,18.31
+140,SEF,ProShares Short Financials,5,120,14,44,69,1.0,10.0,-11.35,-14.47,-12.08,20.37
+140,YCL,ProShares Ultra Yen,5,120,14,44,69,1.0,10.0,-11.35,-12.41,-9.77,18.54
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,44,69,1.0,10.0,-11.35,-18.32,-14.88,22.6
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,44,64,1.0,10.0,-11.35,0.0,-13.81,21.26
+140,REK,ProShares Short Real Estate,5,120,14,44,64,1.0,10.0,-11.35,-10.82,-9.43,19.79
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,44,64,1.0,10.0,-11.35,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,44,64,1.0,10.0,-11.35,-5.63,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,44,64,1.0,10.0,-11.35,-13.99,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,44,64,1.0,10.0,-11.35,-14.71,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,44,64,1.0,10.0,-11.35,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,44,64,1.0,10.0,-11.35,-21.53,-14.62,20.99
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,44,64,1.0,10.0,-11.35,-0.32,-12.61,22.7
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,44,69,1.0,10.0,-11.35,-14.6,-12.72,18.31
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,44,64,1.0,10.0,-11.35,-15.48,-12.63,21.21
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,44,64,1.0,10.0,-11.35,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,44,64,1.0,10.0,-11.35,-14.08,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,44,64,1.0,10.0,-11.35,-0.27,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,44,64,1.0,10.0,-11.35,-20.22,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,44,64,1.0,10.0,-11.35,-14.1,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,120,14,44,69,1.0,10.0,-11.35,-14.01,-11.9,22.05
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,44,74,1.0,10.0,-11.35,-18.32,-14.88,22.6
+140,YCL,ProShares Ultra Yen,5,120,14,44,74,1.0,10.0,-11.35,-12.41,-9.77,18.54
+140,SEF,ProShares Short Financials,5,120,14,44,74,1.0,10.0,-11.35,-14.47,-12.08,20.37
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,44,79,1.0,10.0,-11.35,-0.32,-12.61,22.7
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,44,79,1.0,10.0,-11.35,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,44,79,1.0,10.0,-11.35,-5.63,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,44,79,1.0,10.0,-11.35,-13.99,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,44,79,1.0,10.0,-11.35,-14.71,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,44,79,1.0,10.0,-11.35,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,44,79,1.0,10.0,-11.35,-21.53,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,44,79,1.0,10.0,-11.35,0.0,-13.81,21.26
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,44,79,1.0,10.0,-11.35,-15.48,-12.63,21.21
+140,SEF,ProShares Short Financials,5,120,14,44,79,1.0,10.0,-11.35,-14.47,-12.08,20.37
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,44,79,1.0,10.0,-11.35,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,44,79,1.0,10.0,-11.35,-14.08,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,44,79,1.0,10.0,-11.35,-0.27,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,44,79,1.0,10.0,-11.35,-20.22,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,44,79,1.0,10.0,-11.35,-14.1,-9.9,22.02
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,44,64,1.0,10.0,-11.35,-18.32,-14.88,22.6
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,44,64,1.0,10.0,-11.35,-14.6,-12.72,18.31
+140,REK,ProShares Short Real Estate,5,120,14,44,79,1.0,10.0,-11.35,-10.82,-9.43,19.79
+140,YCL,ProShares Ultra Yen,5,120,14,44,79,1.0,10.0,-11.35,-12.41,-9.77,18.54
+140,REK,ProShares Short Real Estate,5,120,14,44,74,1.0,10.0,-11.35,-10.82,-9.43,19.79
+140,EATV.K,VegTech Plant-based Innovation & Climate ETF,5,120,14,44,74,1.0,10.0,-11.35,-0.32,-12.61,22.7
+140,GOOY.K,YieldMax GOOGL Option Income Strategy ETF,5,120,14,44,74,1.0,10.0,-11.35,0.0,-12.08,20.54
+140,RIET.K,Hoya Capital High Dividend Yield ETF,5,120,14,44,74,1.0,10.0,-11.35,-5.63,-10.62,21.14
+140,MYY,ProShares Short MidCap400,5,120,14,44,74,1.0,10.0,-11.35,-13.99,-12.26,20.13
+140,ERTH.K,Invesco MSCI Sustainable Future ETF,5,120,14,44,74,1.0,10.0,-11.35,-14.71,-12.08,24.91
+140,ABNY.K,YieldMax ABNB Option Income Strategy ETF,5,120,14,44,74,1.0,10.0,-11.35,0.0,-8.93,20.54
+140,RAYC.K,Rayliant Quantamental China Equity ETF,5,120,14,44,74,1.0,10.0,-11.35,-21.53,-14.62,20.99
+140,DISO.K,YieldMax DIS Option Income Strategy ETF,5,120,14,44,74,1.0,10.0,-11.35,0.0,-13.81,21.26
+140,RNRG.O,Global X Renewable Energy Producers ETF,5,120,14,44,74,1.0,10.0,-11.35,-15.48,-12.63,21.21
+140,HDGE.K,AdvisorShares Ranger Equity Bear ETF,5,120,14,44,79,1.0,10.0,-11.35,-18.32,-14.88,22.6
+140,BNDD.K,Quadratic Deflation ETF,5,120,14,44,74,1.0,10.0,-11.35,-21.95,-15.27,21.72
+140,SBB,ProShares Short SmallCap600,5,120,14,44,74,1.0,10.0,-11.35,-14.08,-12.62,22.09
+140,UPAR.K,UPAR Ultra Risk Parity ETF,5,120,14,44,74,1.0,10.0,-11.35,-0.27,-11.28,20.03
+140,WBAT.K,WisdomTree Battery Value Chain and Innovation Fund,5,120,14,44,74,1.0,10.0,-11.35,-20.22,-11.53,22.88
+140,FAIL.K,Cambria Global Tail Risk ETF,5,120,14,44,74,1.0,10.0,-11.35,-14.1,-9.9,22.02
+140,RWM,ProShares Short Russell2000,5,120,14,44,79,1.0,10.0,-11.35,-14.01,-11.9,22.05
+140,SPDN.K,Direxion Daily S&P 500 Bear 1X Shares,5,120,14,44,79,1.0,10.0,-11.35,-14.6,-12.72,18.31
+140,YCL,ProShares Ultra Yen,5,120,14,44,64,1.0,10.0,-11.35,-12.41,-9.77,18.54

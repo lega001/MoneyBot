@@ -1,0 +1,217 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,44,59,1.0,10.0,68.63,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,44,59,1.0,10.0,68.63,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,120,14,44,59,1.0,10.0,68.63,205.89,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,44,54,1.0,10.0,67.01,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,44,54,1.0,10.0,67.01,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,120,14,44,54,1.0,10.0,67.01,201.03,65.6,57.27
+25,USD,ProShares Ultra Semiconductors,5,120,14,49,54,1.0,10.0,40.54,121.63,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,49,54,1.0,10.0,40.54,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,49,54,1.0,10.0,40.54,0.0,68.37,50.19
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,44,59,1.0,10.0,36.61,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,44,59,1.0,10.0,36.61,109.83,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,44,59,1.0,10.0,36.61,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,49,59,1.0,10.0,32.05,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,49,59,1.0,10.0,32.05,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,120,14,49,59,1.0,10.0,32.05,96.15,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,44,79,1.0,10.0,30.24,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,44,79,1.0,10.0,30.24,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,44,79,1.0,10.0,30.24,90.73,65.6,57.27
+25,USD,ProShares Ultra Semiconductors,5,60,14,44,54,1.0,10.0,29.32,87.97,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,44,54,1.0,10.0,29.32,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,44,54,1.0,10.0,29.32,0.0,68.37,50.19
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,44,74,1.0,10.0,25.97,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,44,74,1.0,10.0,25.97,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,120,14,44,74,1.0,10.0,25.97,77.9,65.6,57.27
+25,USD,ProShares Ultra Semiconductors,5,120,14,49,79,1.0,10.0,25.6,76.81,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,49,79,1.0,10.0,25.6,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,49,79,1.0,10.0,25.6,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,49,79,1.0,10.0,25.33,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,49,79,1.0,10.0,25.33,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,49,79,1.0,10.0,25.33,76.0,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,44,79,1.0,10.0,24.97,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,44,79,1.0,10.0,24.97,74.9,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,44,79,1.0,10.0,24.97,0.0,64.32,49.28
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,44,69,1.0,10.0,24.35,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,120,14,44,69,1.0,10.0,24.35,73.04,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,44,69,1.0,10.0,24.35,0.0,68.37,50.19
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,49,59,1.0,10.0,24.17,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,49,59,1.0,10.0,24.17,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,60,14,49,59,1.0,10.0,24.17,72.51,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,49,54,1.0,10.0,22.87,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,49,54,1.0,10.0,22.87,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,60,14,49,54,1.0,10.0,22.87,68.61,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,49,74,1.0,10.0,22.74,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,49,74,1.0,10.0,22.74,68.22,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,49,74,1.0,10.0,22.74,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,44,74,1.0,10.0,22.69,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,44,74,1.0,10.0,22.69,68.08,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,44,74,1.0,10.0,22.69,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,49,74,1.0,10.0,22.62,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,49,74,1.0,10.0,22.62,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,60,14,49,74,1.0,10.0,22.62,67.85,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,49,69,1.0,10.0,21.72,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,49,69,1.0,10.0,21.72,65.17,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,49,69,1.0,10.0,21.72,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,60,14,49,69,1.0,10.0,21.65,64.96,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,49,69,1.0,10.0,21.65,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,49,69,1.0,10.0,21.65,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,44,69,1.0,10.0,21.4,64.2,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,44,69,1.0,10.0,21.4,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,44,69,1.0,10.0,21.4,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,44,64,1.0,10.0,17.82,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,120,14,44,64,1.0,10.0,17.82,53.45,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,44,64,1.0,10.0,17.82,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,49,64,1.0,10.0,17.6,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,60,14,49,64,1.0,10.0,17.6,52.81,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,49,64,1.0,10.0,17.6,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,49,64,1.0,10.0,17.28,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,120,14,49,64,1.0,10.0,17.28,51.83,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,49,64,1.0,10.0,17.28,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,44,64,1.0,10.0,16.81,50.44,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,44,64,1.0,10.0,16.81,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,44,64,1.0,10.0,16.81,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,29,59,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,29,59,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,29,64,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,29,64,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,68.37,50.19
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,29,69,1.0,10.0,0.0,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,120,14,29,74,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,29,74,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,29,79,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,29,79,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,34,54,1.0,10.0,0.0,0.0,65.6,57.27
+25,USD,ProShares Ultra Semiconductors,5,120,14,29,69,1.0,10.0,0.0,0.0,65.6,57.27
+25,USD,ProShares Ultra Semiconductors,5,120,14,34,69,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,34,54,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,39,59,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,39,59,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,39,64,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,39,64,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,39,69,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,39,69,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,39,74,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,39,74,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,39,79,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,39,79,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,68.37,50.19
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,39,54,1.0,10.0,0.0,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,120,14,39,54,1.0,10.0,0.0,0.0,65.6,57.27
+25,USD,ProShares Ultra Semiconductors,5,120,14,29,54,1.0,10.0,0.0,0.0,65.6,57.27
+25,USD,ProShares Ultra Semiconductors,5,120,14,34,59,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,34,59,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,34,64,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,34,64,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,34,69,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,68.37,50.19
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,34,74,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,34,74,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,34,79,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,34,79,1.0,10.0,0.0,0.0,64.32,49.28
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,29,54,1.0,10.0,0.0,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,60,14,24,54,1.0,10.0,0.0,0.0,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,68.37,50.19
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,29,64,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,29,64,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,29,69,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,29,69,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,29,74,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,29,74,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,29,79,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,29,79,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,34,54,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,34,54,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,34,59,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,34,59,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,34,64,1.0,10.0,0.0,0.0,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,29,59,1.0,10.0,0.0,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,60,14,29,59,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,24,69,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,24,59,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,24,59,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,24,64,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,24,64,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,24,69,1.0,10.0,0.0,0.0,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,68.37,50.19
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,24,74,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,24,74,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,24,79,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,24,79,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,29,54,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,29,54,1.0,10.0,0.0,0.0,64.32,49.28
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,34,64,1.0,10.0,0.0,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,60,14,34,69,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,24,79,1.0,10.0,0.0,0.0,64.32,49.28
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,34,69,1.0,10.0,0.0,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,60,14,39,79,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,39,79,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,24,54,1.0,10.0,0.0,0.0,64.32,49.28
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,24,54,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,24,59,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,24,59,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,24,64,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,24,64,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,24,69,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,24,69,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,24,74,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,24,74,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,120,14,24,79,1.0,10.0,0.0,0.0,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,68.37,50.19
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,39,74,1.0,10.0,0.0,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,60,14,39,74,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,39,54,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,34,74,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,34,74,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,34,79,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,34,79,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,39,54,1.0,10.0,0.0,0.0,65.6,57.27
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,68.37,50.19
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,39,59,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,39,59,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,39,64,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,39,64,1.0,10.0,0.0,0.0,64.32,49.28
+25,BITC.K,Bitwise Bitcoin Strategy Optimum Roll ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,68.37,50.19
+25,USD,ProShares Ultra Semiconductors,5,60,14,39,69,1.0,10.0,0.0,0.0,65.6,57.27
+25,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,39,69,1.0,10.0,0.0,0.0,64.32,49.28
+25,USD,ProShares Ultra Semiconductors,5,120,14,24,54,1.0,10.0,0.0,0.0,65.6,57.27

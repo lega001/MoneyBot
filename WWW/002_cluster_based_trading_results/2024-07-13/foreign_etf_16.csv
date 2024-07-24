@@ -1,0 +1,649 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,24,54,1.0,10.0,0.0,0,74.94,22.08
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,34,59,1.0,10.0,0.0,0,77.31,19.76
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,29,79,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,29,79,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,29,79,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,29,79,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,34,54,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,34,54,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,54,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,34,54,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,34,54,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,34,54,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,34,54,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,34,59,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,34,59,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,79,1.0,10.0,0.0,0,84.54,17.29
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,29,79,1.0,10.0,0.0,0,78.44,17.64
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0,77.17,18.22
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,29,74,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,29,69,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,69,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,29,69,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,29,69,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,29,69,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,29,69,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0,72.43,14.42
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0,77.17,18.22
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,29,79,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,29,74,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,74,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,29,74,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,29,74,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,29,74,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,29,74,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0,72.43,14.42
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,59,1.0,10.0,0.0,0,84.54,17.29
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,34,59,1.0,10.0,0.0,0,78.51,16.33
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0,77.17,18.22
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,34,59,1.0,10.0,0.0,0,72.63,22.09
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,34,74,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,34,74,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,74,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,34,74,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,34,74,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,34,74,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,34,74,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,34,79,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,34,79,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,79,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,34,79,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,34,79,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,34,79,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,34,79,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0,72.43,14.42
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,34,69,1.0,10.0,0.0,0,80.44,20.37
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,34,69,1.0,10.0,0.0,0,72.63,22.09
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,34,64,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,34,59,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,34,64,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,34,64,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,64,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,34,64,1.0,10.0,0.0,0,77.31,19.76
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,34,64,1.0,10.0,0.0,0,72.63,22.09
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,34,69,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,34,64,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,34,69,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,34,69,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,69,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,34,69,1.0,10.0,0.0,0,77.31,19.76
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0,77.17,18.22
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,29,69,1.0,10.0,0.0,0,74.94,22.08
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0,72.43,14.42
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,29,64,1.0,10.0,0.0,0,80.44,20.37
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,24,64,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,24,64,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,24,64,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,24,64,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,24,69,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,24,69,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,24,69,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,24,69,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,24,69,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,24,69,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,24,69,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,24,74,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,24,74,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,24,64,1.0,10.0,0.0,0,84.54,17.29
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,24,64,1.0,10.0,0.0,0,78.44,17.64
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0,77.17,18.22
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,24,59,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,24,54,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,24,54,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,24,54,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,24,54,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,24,54,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,24,54,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0,72.43,14.42
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0,77.17,18.22
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,24,64,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,24,59,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,24,59,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,24,59,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,24,59,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,24,59,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,24,59,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0,72.43,14.42
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,24,74,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,24,74,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,24,74,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,29,59,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,29,59,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,29,59,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,59,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,29,59,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,29,59,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,29,59,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0,72.43,14.42
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,29,54,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,29,64,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,29,64,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,64,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,29,64,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,29,64,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,29,64,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0,72.43,14.42
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,29,54,1.0,10.0,0.0,0,72.63,22.09
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,24,74,1.0,10.0,0.0,0,72.63,22.09
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,24,79,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,24,74,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,24,79,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,24,79,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,24,79,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,24,79,1.0,10.0,0.0,0,77.31,19.76
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,24,79,1.0,10.0,0.0,0,72.63,22.09
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,29,54,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,24,79,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,29,54,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,29,54,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,54,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,29,54,1.0,10.0,0.0,0,77.31,19.76
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,39,54,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0,77.17,18.22
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0,77.17,18.22
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,44,79,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,44,79,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,44,79,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,49,54,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,49,54,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,49,54,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,54,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,49,54,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,49,54,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,49,54,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,49,54,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,49,54,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,49,59,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,49,59,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,49,59,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,59,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,44,79,1.0,10.0,0.0,0,77.31,19.76
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,79,1.0,10.0,0.0,0,84.54,17.29
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,44,79,1.0,10.0,0.0,0,78.44,17.64
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0,77.17,18.22
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,69,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,44,69,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,44,69,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,44,69,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,44,69,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,44,74,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,44,74,1.0,10.0,0.0,0,78.44,17.64
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0,77.17,18.22
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,74,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,44,74,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,44,74,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,44,74,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,44,74,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,44,79,1.0,10.0,0.0,0,74.94,22.08
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,49,59,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,49,59,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,49,59,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,49,74,1.0,10.0,0.0,0,72.43,14.42
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,49,74,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,49,74,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,74,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,49,74,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,49,74,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,49,74,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,49,74,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,49,79,1.0,10.0,0.0,0,74.94,22.08
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,49,69,1.0,10.0,0.0,0,72.43,14.42
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,49,79,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,49,79,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,79,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,49,79,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,49,79,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,49,79,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,49,79,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,49,74,1.0,10.0,0.0,0,74.94,22.08
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,49,69,1.0,10.0,0.0,0,80.44,20.37
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,49,59,1.0,10.0,0.0,0,80.44,20.37
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,49,64,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,49,59,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,49,64,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,49,64,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,49,64,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,64,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,49,64,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,49,64,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,49,64,1.0,10.0,0.0,0,80.44,20.37
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,49,69,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,49,64,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,49,69,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,49,69,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,49,69,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,69,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,49,69,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,49,69,1.0,10.0,0.0,0,78.51,16.33
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,44,69,1.0,10.0,0.0,0,78.44,17.64
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,44,69,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,39,54,1.0,10.0,0.0,0,78.44,17.64
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0,72.43,14.42
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,39,64,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,39,64,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,39,64,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,39,69,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,39,69,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,69,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,39,69,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,39,69,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,39,69,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,39,69,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,39,74,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,39,74,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,74,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,39,64,1.0,10.0,0.0,0,77.31,19.76
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,64,1.0,10.0,0.0,0,84.54,17.29
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,39,64,1.0,10.0,0.0,0,78.44,17.64
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0,77.17,18.22
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,54,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,39,54,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,39,54,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,39,54,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,39,54,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,39,59,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,39,59,1.0,10.0,0.0,0,78.44,17.64
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0,77.17,18.22
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,59,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,39,59,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,39,59,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,39,59,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,39,59,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,39,64,1.0,10.0,0.0,0,74.94,22.08
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,39,74,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,39,74,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,39,74,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0,72.43,14.42
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,44,59,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,59,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,44,59,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,44,59,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,44,59,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,44,59,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,44,64,1.0,10.0,0.0,0,74.94,22.08
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0,72.43,14.42
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,44,64,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,64,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,44,64,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,44,64,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,44,64,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,44,64,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,44,59,1.0,10.0,0.0,0,74.94,22.08
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,44,54,1.0,10.0,0.0,0,80.44,20.37
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,39,74,1.0,10.0,0.0,0,80.44,20.37
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,39,79,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,39,79,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,39,79,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,79,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,39,79,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,39,79,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,120,14,39,79,1.0,10.0,0.0,0,80.44,20.37
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,120,14,44,54,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,44,54,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,120,14,44,54,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,54,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,120,14,44,54,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,120,14,44,54,1.0,10.0,0.0,0,78.51,16.33
+16,FFOG.K,Franklin Focused Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0,77.17,18.22
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,120,14,24,54,1.0,10.0,0.0,0,74.94,22.08
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,49,79,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,29,69,1.0,10.0,0.0,0,74.94,22.08
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,29,79,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,29,79,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,29,79,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,29,79,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,34,54,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,34,54,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,54,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,34,54,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,34,54,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,34,54,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,34,54,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,34,59,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,34,59,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,79,1.0,10.0,0.0,0,84.54,17.29
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,29,79,1.0,10.0,0.0,0,78.44,17.64
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0,77.17,18.22
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,29,74,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,29,69,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,69,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,29,69,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,29,69,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,29,69,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,29,69,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0,72.43,14.42
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0,77.17,18.22
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,29,79,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,29,74,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,74,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,29,74,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,29,74,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,29,74,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,29,74,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0,72.43,14.42
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,59,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,34,59,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,34,59,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,34,74,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,34,74,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,34,74,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,74,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,34,74,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,34,74,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,34,74,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0,72.43,14.42
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,34,69,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,34,79,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,34,79,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,79,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,34,79,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,34,79,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,34,79,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0,72.43,14.42
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,34,69,1.0,10.0,0.0,0,72.63,22.09
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,34,59,1.0,10.0,0.0,0,72.63,22.09
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,34,64,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,34,59,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,34,64,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,34,64,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,64,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,34,64,1.0,10.0,0.0,0,77.31,19.76
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,34,64,1.0,10.0,0.0,0,72.63,22.09
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,34,69,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,34,64,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,34,69,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,34,69,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,69,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,34,69,1.0,10.0,0.0,0,77.31,19.76
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0,77.17,18.22
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0,72.43,14.42
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0,72.43,14.42
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,29,64,1.0,10.0,0.0,0,80.44,20.37
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,24,64,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,24,64,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,24,64,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,24,64,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,24,69,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,24,69,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,24,69,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,24,69,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,24,69,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,24,69,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,24,69,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,24,74,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,24,74,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,24,64,1.0,10.0,0.0,0,84.54,17.29
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,24,64,1.0,10.0,0.0,0,78.44,17.64
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0,77.17,18.22
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,24,59,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,24,54,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,24,54,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,24,54,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,24,54,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,24,54,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,24,54,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0,72.43,14.42
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0,77.17,18.22
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,24,64,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,24,59,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,24,59,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,24,59,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,24,59,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,24,59,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,24,59,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0,72.43,14.42
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,24,74,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,24,74,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,24,74,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,29,59,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,29,59,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,29,59,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,59,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,29,59,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,29,59,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,29,59,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0,72.43,14.42
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,29,54,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,29,64,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,29,64,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,64,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,29,64,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,29,64,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,29,64,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0,72.43,14.42
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,29,54,1.0,10.0,0.0,0,72.63,22.09
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,24,74,1.0,10.0,0.0,0,72.63,22.09
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,24,79,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,24,74,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,24,79,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,24,79,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,24,79,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,24,79,1.0,10.0,0.0,0,77.31,19.76
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,24,79,1.0,10.0,0.0,0,72.63,22.09
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,29,54,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,24,79,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,29,54,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,29,54,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,54,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,29,54,1.0,10.0,0.0,0,77.31,19.76
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,34,79,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,39,54,1.0,10.0,0.0,0,74.94,22.08
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,49,79,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,44,69,1.0,10.0,0.0,0,74.94,22.08
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,44,79,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,44,79,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,44,79,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,44,79,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,44,79,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,49,54,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,49,54,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,49,54,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,54,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,49,54,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,49,54,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,49,54,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,49,54,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,49,54,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,49,59,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,49,59,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,49,59,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,79,1.0,10.0,0.0,0,84.54,17.29
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,44,79,1.0,10.0,0.0,0,78.44,17.64
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,44,79,1.0,10.0,0.0,0,77.17,18.22
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,44,74,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,44,69,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,69,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,44,69,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,44,69,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,44,69,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,44,69,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,44,69,1.0,10.0,0.0,0,72.43,14.42
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,44,74,1.0,10.0,0.0,0,77.17,18.22
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,44,79,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,44,74,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,74,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,44,74,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,44,74,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,44,74,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,44,74,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,44,74,1.0,10.0,0.0,0,72.43,14.42
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,59,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,49,59,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,49,59,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,49,74,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,49,74,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,49,74,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,49,74,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,74,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,49,74,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,49,74,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,49,74,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,49,74,1.0,10.0,0.0,0,72.43,14.42
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,49,69,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,49,79,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,49,79,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,49,79,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,79,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,49,79,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,49,79,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,49,79,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,49,69,1.0,10.0,0.0,0,72.43,14.42
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,49,69,1.0,10.0,0.0,0,72.63,22.09
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,49,59,1.0,10.0,0.0,0,72.63,22.09
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,49,64,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,49,59,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,49,59,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,49,64,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,49,64,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,49,64,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,64,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,49,64,1.0,10.0,0.0,0,77.31,19.76
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,49,64,1.0,10.0,0.0,0,72.63,22.09
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,49,69,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,49,64,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,49,64,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,49,69,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,49,69,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,49,69,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,69,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,49,69,1.0,10.0,0.0,0,77.31,19.76
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,44,69,1.0,10.0,0.0,0,77.17,18.22
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,44,64,1.0,10.0,0.0,0,72.43,14.42
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0,77.17,18.22
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,44,64,1.0,10.0,0.0,0,80.44,20.37
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,39,64,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,39,64,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,39,64,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,39,64,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,39,69,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,39,69,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,69,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,39,69,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,39,69,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,39,69,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,39,69,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,39,74,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,39,74,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,64,1.0,10.0,0.0,0,84.54,17.29
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,39,64,1.0,10.0,0.0,0,78.44,17.64
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0,77.17,18.22
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,39,59,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,39,54,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,54,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,39,54,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,39,54,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,39,54,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,39,54,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0,72.43,14.42
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0,77.17,18.22
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,39,64,1.0,10.0,0.0,0,74.94,22.08
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,39,59,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,59,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,39,59,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,39,59,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,39,59,1.0,10.0,0.0,0,72.63,22.09
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,39,59,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0,72.43,14.42
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,74,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,39,74,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,39,74,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,44,59,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,44,59,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,44,59,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,44,59,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,59,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,44,59,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,44,59,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,44,59,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,44,59,1.0,10.0,0.0,0,72.43,14.42
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,44,54,1.0,10.0,0.0,0,80.44,20.37
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,44,64,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,44,64,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,44,64,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,64,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,44,64,1.0,10.0,0.0,0,77.31,19.76
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,44,64,1.0,10.0,0.0,0,78.51,16.33
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,44,64,1.0,10.0,0.0,0,72.63,22.09
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,44,54,1.0,10.0,0.0,0,72.43,14.42
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,44,54,1.0,10.0,0.0,0,72.63,22.09
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,39,74,1.0,10.0,0.0,0,72.63,22.09
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,39,79,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,39,74,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,39,79,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,39,79,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,79,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,39,79,1.0,10.0,0.0,0,77.31,19.76
+16,MVPA.K,Miller Value Partners Appreciation ETF,5,60,14,39,79,1.0,10.0,0.0,0,72.63,22.09
+16,FIAT.K,YieldMax Short COIN Option Income Strategy ETF,5,60,14,44,54,1.0,10.0,0.0,0,78.51,16.33
+16,SPTE.K,SP Funds S&P Global Technology ETF,5,60,14,39,79,1.0,10.0,0.0,0,80.44,20.37
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0,72.43,14.42
+16,MAGS.O,Roundhill Magnificent Seven ETF,5,60,14,44,54,1.0,10.0,0.0,0,74.94,22.08
+16,FFOG.K,Franklin Focused Growth ETF,5,60,14,44,54,1.0,10.0,0.0,0,77.17,18.22
+16,INDH.O,WisdomTree India Hedged Equity Fund,5,60,14,44,54,1.0,10.0,0.0,0,78.44,17.64
+16,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,54,1.0,10.0,0.0,0,84.54,17.29
+16,MGNR.K,American Beacon GLG Natural Resources ETF,5,60,14,44,54,1.0,10.0,0.0,0,77.31,19.76
+16,BGRO.O,BlackRock Large Cap Growth ETF,5,120,14,49,79,1.0,10.0,0.0,0,72.43,14.42

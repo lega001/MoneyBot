@@ -1,0 +1,50 @@
+
+570073 (한투 인버스 2X 구리 선물 ETN)
+Cluster: 7
+Best Config: {'ticker': '570073', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 428.79%
+
+610027 (메리츠 인버스 구리 선물 ETN(H))
+Cluster: 11
+Best Config: {'ticker': '610027', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 372.01%
+
+530096 (삼성 인버스 구리 선물 ETN(H))
+Cluster: 11
+Best Config: {'ticker': '530096', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 339.76%
+
+580019 (KB 인버스 2X 항셍테크 선물 ETN)
+Cluster: 4
+Best Config: {'ticker': '580019', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 68.24%
+
+530111 (삼성 레버리지 천연가스 선물 ETN C)
+Cluster: 16
+Best Config: {'ticker': '530111', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 0.00%
+
+500008 (신한 인버스 구리 선물 ETN(H))
+Cluster: 11
+Best Config: {'ticker': '500008', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -2.18%
+
+570056 (한투 인버스 금 선물 ETN)
+Cluster: 9
+Best Config: {'ticker': '570056', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -2.65%
+
+550063 (N2 인버스 레버리지 금 선물 ETN(H))
+Cluster: 11
+Best Config: {'ticker': '550063', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -9.14%
+
+580023 (KB 인버스 2X 금 선물 ETN(H))
+Cluster: 11
+Best Config: {'ticker': '580023', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -26.37%
+
+550074 (N2 블룸버그 2X 천연가스 선물 ETN(H))
+Cluster: 19
+Best Config: {'ticker': '550074', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 24.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -75.07%

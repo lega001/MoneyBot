@@ -1,0 +1,505 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+136,JFWD.K,Jacob Forward ETF,5,120,14,24,79,1.0,10.0,-0.25,8.85,-12.22,43.14
+136,AMZA.K,InfraCap MLP ETF,5,120,14,24,74,1.0,10.0,-0.25,-10.57,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,24,69,1.0,10.0,-0.25,0.0,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,120,14,24,69,1.0,10.0,-0.25,-10.57,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,24,69,1.0,10.0,-0.25,0.0,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,24,69,1.0,10.0,-0.25,0.0,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,24,69,1.0,10.0,-0.25,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,24,69,1.0,10.0,-0.25,0.0,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,24,74,1.0,10.0,-0.25,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,24,74,1.0,10.0,-0.25,0.0,-12.48,45.53
+136,CTEC.O,Global X CleanTech ETF,5,120,14,24,74,1.0,10.0,-0.25,0.0,-9.39,38.41
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,24,69,1.0,10.0,-0.25,0.0,-11.76,39.57
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,24,74,1.0,10.0,-0.25,0.0,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,24,74,1.0,10.0,-0.25,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,24,74,1.0,10.0,-0.25,0.0,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,24,79,1.0,10.0,-0.25,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,24,79,1.0,10.0,-0.25,0.0,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,120,14,24,79,1.0,10.0,-0.25,-10.57,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,24,79,1.0,10.0,-0.25,0.0,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,24,79,1.0,10.0,-0.25,0.0,-9.61,42.36
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,24,79,1.0,10.0,-0.25,0.0,-12.58,43.73
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,24,64,1.0,10.0,-0.31,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,120,14,24,64,1.0,10.0,-0.31,8.85,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,24,64,1.0,10.0,-0.31,0.0,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,120,14,24,64,1.0,10.0,-0.31,0.0,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,120,14,24,64,1.0,10.0,-0.31,-11.02,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,24,64,1.0,10.0,-0.31,0.0,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,24,64,1.0,10.0,-0.31,0.0,-11.76,39.57
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,24,59,1.0,10.0,-0.53,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,24,59,1.0,10.0,-0.53,0.0,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,120,14,24,59,1.0,10.0,-0.53,-12.57,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,24,59,1.0,10.0,-0.53,0.0,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,24,59,1.0,10.0,-0.53,0.0,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,24,59,1.0,10.0,-0.53,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,24,59,1.0,10.0,-0.53,0.0,-12.58,43.73
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,24,54,1.0,10.0,-0.97,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,120,14,24,54,1.0,10.0,-0.97,8.85,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,24,54,1.0,10.0,-0.97,0.0,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,120,14,24,54,1.0,10.0,-0.97,0.0,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,120,14,24,54,1.0,10.0,-0.97,-15.65,-8.63,42.13
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,24,54,1.0,10.0,-0.97,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,24,54,1.0,10.0,-0.97,0.0,-12.48,45.53
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,34,54,1.0,10.0,-1.16,-0.61,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,34,54,1.0,10.0,-1.16,8.85,-12.22,43.14
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,34,54,1.0,10.0,-1.16,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,34,54,1.0,10.0,-1.16,-0.69,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,120,14,34,54,1.0,10.0,-1.16,-15.65,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,34,54,1.0,10.0,-1.16,0.0,-9.39,38.41
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,34,54,1.0,10.0,-1.16,0.0,-12.58,43.73
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,29,59,1.0,10.0,-1.5,0.0,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,29,59,1.0,10.0,-1.5,0.0,-11.76,39.57
+136,AMZA.K,InfraCap MLP ETF,5,120,14,29,59,1.0,10.0,-1.5,-12.57,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,29,59,1.0,10.0,-1.5,0.0,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,29,59,1.0,10.0,-1.5,-6.75,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,29,59,1.0,10.0,-1.5,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,29,59,1.0,10.0,-1.5,0.0,-12.58,43.73
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,29,54,1.0,10.0,-1.94,-6.75,-9.61,42.36
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,29,54,1.0,10.0,-1.94,0.0,-11.76,39.57
+136,AMZA.K,InfraCap MLP ETF,5,120,14,29,54,1.0,10.0,-1.94,-15.65,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,29,54,1.0,10.0,-1.94,0.0,-9.39,38.41
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,29,54,1.0,10.0,-1.94,0.0,-12.48,45.53
+136,JFWD.K,Jacob Forward ETF,5,120,14,29,54,1.0,10.0,-1.94,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,29,54,1.0,10.0,-1.94,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,120,14,29,74,1.0,10.0,-2.12,8.85,-12.22,43.14
+136,CTEC.O,Global X CleanTech ETF,5,120,14,29,69,1.0,10.0,-2.12,0.0,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,29,74,1.0,10.0,-2.12,-13.12,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,120,14,29,74,1.0,10.0,-2.12,0.0,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,120,14,29,74,1.0,10.0,-2.12,-10.57,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,29,74,1.0,10.0,-2.12,0.0,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,29,74,1.0,10.0,-2.12,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,29,69,1.0,10.0,-2.12,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,120,14,29,69,1.0,10.0,-2.12,8.85,-12.22,43.14
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,29,79,1.0,10.0,-2.12,0.0,-12.48,45.53
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,29,69,1.0,10.0,-2.12,-13.12,-9.61,42.36
+136,AMZA.K,InfraCap MLP ETF,5,120,14,29,69,1.0,10.0,-2.12,-10.57,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,29,69,1.0,10.0,-2.12,0.0,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,29,69,1.0,10.0,-2.12,0.0,-11.76,39.57
+136,AMZA.K,InfraCap MLP ETF,5,120,14,29,79,1.0,10.0,-2.12,-10.57,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,29,79,1.0,10.0,-2.12,0.0,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,29,79,1.0,10.0,-2.12,-13.12,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,29,79,1.0,10.0,-2.12,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,29,79,1.0,10.0,-2.12,0.0,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,29,79,1.0,10.0,-2.12,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,29,74,1.0,10.0,-2.12,0.0,-12.58,43.73
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,29,64,1.0,10.0,-2.19,0.0,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,29,64,1.0,10.0,-2.19,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,29,64,1.0,10.0,-2.19,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,120,14,29,64,1.0,10.0,-2.19,8.85,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,29,64,1.0,10.0,-2.19,-13.12,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,120,14,29,64,1.0,10.0,-2.19,0.0,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,120,14,29,64,1.0,10.0,-2.19,-11.02,-8.63,42.13
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,24,59,1.0,10.0,-2.63,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,24,59,1.0,10.0,-2.63,0.0,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,60,14,24,59,1.0,10.0,-2.63,-11.09,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,24,59,1.0,10.0,-2.63,0.0,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,24,59,1.0,10.0,-2.63,-6.5,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,60,14,24,59,1.0,10.0,-2.63,-0.8,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,24,59,1.0,10.0,-2.63,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,29,59,1.0,10.0,-2.87,-0.8,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,29,59,1.0,10.0,-2.87,0.0,-12.58,43.73
+136,CTEC.O,Global X CleanTech ETF,5,60,14,29,59,1.0,10.0,-2.87,0.0,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,60,14,29,59,1.0,10.0,-2.87,-11.09,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,29,59,1.0,10.0,-2.87,0.93,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,29,59,1.0,10.0,-2.87,0.0,-11.76,39.57
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,29,59,1.0,10.0,-2.87,-9.12,-9.61,42.36
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,24,54,1.0,10.0,-3.03,0.0,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,24,54,1.0,10.0,-3.03,0.0,-11.76,39.57
+136,CTEC.O,Global X CleanTech ETF,5,60,14,24,54,1.0,10.0,-3.03,0.0,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,60,14,24,54,1.0,10.0,-3.03,-13.94,-8.63,42.13
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,24,54,1.0,10.0,-3.03,-6.5,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,60,14,24,54,1.0,10.0,-3.03,-0.8,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,24,54,1.0,10.0,-3.03,0.0,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,24,69,1.0,10.0,-3.25,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,24,69,1.0,10.0,-3.25,0.0,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,60,14,24,69,1.0,10.0,-3.25,-9.19,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,24,69,1.0,10.0,-3.25,0.0,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,24,69,1.0,10.0,-3.25,-12.76,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,60,14,24,69,1.0,10.0,-3.25,-0.8,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,24,69,1.0,10.0,-3.25,0.0,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,24,74,1.0,10.0,-3.25,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,24,74,1.0,10.0,-3.25,0.0,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,60,14,24,74,1.0,10.0,-3.25,-9.19,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,24,74,1.0,10.0,-3.25,0.0,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,24,74,1.0,10.0,-3.25,-12.76,-9.61,42.36
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,24,74,1.0,10.0,-3.25,0.0,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,24,79,1.0,10.0,-3.25,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,24,79,1.0,10.0,-3.25,0.0,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,60,14,24,79,1.0,10.0,-3.25,-9.19,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,24,79,1.0,10.0,-3.25,0.0,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,24,79,1.0,10.0,-3.25,-12.76,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,60,14,24,79,1.0,10.0,-3.25,-0.8,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,24,79,1.0,10.0,-3.25,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,24,74,1.0,10.0,-3.25,-0.8,-12.22,43.14
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,29,54,1.0,10.0,-3.28,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,29,54,1.0,10.0,-3.28,0.93,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,60,14,29,54,1.0,10.0,-3.28,-13.94,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,29,54,1.0,10.0,-3.28,0.0,-9.39,38.41
+136,JFWD.K,Jacob Forward ETF,5,60,14,29,54,1.0,10.0,-3.28,-0.8,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,29,54,1.0,10.0,-3.28,0.0,-12.58,43.73
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,29,54,1.0,10.0,-3.28,-9.12,-9.61,42.36
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,24,64,1.0,10.0,-3.31,-12.76,-9.61,42.36
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,24,64,1.0,10.0,-3.31,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,24,64,1.0,10.0,-3.31,0.0,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,60,14,24,64,1.0,10.0,-3.31,-9.6,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,24,64,1.0,10.0,-3.31,0.0,-9.39,38.41
+136,JFWD.K,Jacob Forward ETF,5,60,14,24,64,1.0,10.0,-3.31,-0.8,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,24,64,1.0,10.0,-3.31,0.0,-12.58,43.73
+136,CTEC.O,Global X CleanTech ETF,5,60,14,29,74,1.0,10.0,-3.35,0.0,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,29,79,1.0,10.0,-3.35,-14.39,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,60,14,29,79,1.0,10.0,-3.35,0.0,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,60,14,29,79,1.0,10.0,-3.35,-9.19,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,29,79,1.0,10.0,-3.35,0.93,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,29,79,1.0,10.0,-3.35,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,29,74,1.0,10.0,-3.35,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,29,74,1.0,10.0,-3.35,-0.8,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,29,74,1.0,10.0,-3.35,-14.39,-9.61,42.36
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,29,79,1.0,10.0,-3.35,0.0,-12.58,43.73
+136,AMZA.K,InfraCap MLP ETF,5,60,14,29,74,1.0,10.0,-3.35,-9.19,-8.63,42.13
+136,JFWD.K,Jacob Forward ETF,5,60,14,29,69,1.0,10.0,-3.35,-0.8,-12.22,43.14
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,29,74,1.0,10.0,-3.35,0.93,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,29,74,1.0,10.0,-3.35,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,29,69,1.0,10.0,-3.35,0.0,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,29,69,1.0,10.0,-3.35,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,29,69,1.0,10.0,-3.35,0.93,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,60,14,29,69,1.0,10.0,-3.35,-9.19,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,29,69,1.0,10.0,-3.35,0.0,-9.39,38.41
+136,JFWD.K,Jacob Forward ETF,5,60,14,29,79,1.0,10.0,-3.35,-0.8,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,29,69,1.0,10.0,-3.35,-14.39,-9.61,42.36
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,29,64,1.0,10.0,-3.41,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,29,64,1.0,10.0,-3.41,-0.8,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,29,64,1.0,10.0,-3.41,-14.39,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,60,14,29,64,1.0,10.0,-3.41,0.0,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,60,14,29,64,1.0,10.0,-3.41,-9.6,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,29,64,1.0,10.0,-3.41,0.93,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,29,64,1.0,10.0,-3.41,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,34,59,1.0,10.0,-4.79,0.0,-12.58,43.73
+136,AMZA.K,InfraCap MLP ETF,5,120,14,34,59,1.0,10.0,-4.79,-12.57,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,34,59,1.0,10.0,-4.79,-29.86,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,34,59,1.0,10.0,-4.79,0.0,-11.76,39.57
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,34,59,1.0,10.0,-4.79,0.03,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,34,59,1.0,10.0,-4.79,8.85,-12.22,43.14
+136,CTEC.O,Global X CleanTech ETF,5,120,14,34,59,1.0,10.0,-4.79,0.0,-9.39,38.41
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,34,54,1.0,10.0,-4.88,-17.71,-12.48,45.53
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,34,54,1.0,10.0,-4.88,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,34,54,1.0,10.0,-4.88,-0.8,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,34,54,1.0,10.0,-4.88,-1.72,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,60,14,34,54,1.0,10.0,-4.88,0.0,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,60,14,34,54,1.0,10.0,-4.88,-13.94,-8.63,42.13
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,34,54,1.0,10.0,-4.88,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,34,59,1.0,10.0,-5.8,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,34,59,1.0,10.0,-5.8,-0.8,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,34,59,1.0,10.0,-5.8,-1.11,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,60,14,34,59,1.0,10.0,-5.8,0.0,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,60,14,34,59,1.0,10.0,-5.8,-11.09,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,34,59,1.0,10.0,-5.8,-27.62,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,34,59,1.0,10.0,-5.8,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,34,79,1.0,10.0,-6.77,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,120,14,34,79,1.0,10.0,-6.77,8.85,-12.22,43.14
+136,AMZA.K,InfraCap MLP ETF,5,120,14,34,74,1.0,10.0,-6.77,-10.57,-8.63,42.13
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,34,69,1.0,10.0,-6.77,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,34,69,1.0,10.0,-6.77,-29.86,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,120,14,34,69,1.0,10.0,-6.77,-10.57,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,34,69,1.0,10.0,-6.77,0.0,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,34,69,1.0,10.0,-6.77,-15.82,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,34,69,1.0,10.0,-6.77,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,34,69,1.0,10.0,-6.77,0.0,-12.58,43.73
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,34,74,1.0,10.0,-6.77,-29.86,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,34,74,1.0,10.0,-6.77,0.0,-11.76,39.57
+136,CTEC.O,Global X CleanTech ETF,5,120,14,34,74,1.0,10.0,-6.77,0.0,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,34,74,1.0,10.0,-6.77,-15.82,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,34,74,1.0,10.0,-6.77,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,34,74,1.0,10.0,-6.77,0.0,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,34,79,1.0,10.0,-6.77,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,34,79,1.0,10.0,-6.77,-29.86,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,120,14,34,79,1.0,10.0,-6.77,-10.57,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,34,79,1.0,10.0,-6.77,0.0,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,34,79,1.0,10.0,-6.77,-15.82,-9.61,42.36
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,34,64,1.0,10.0,-6.84,-29.86,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,34,64,1.0,10.0,-6.84,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,34,64,1.0,10.0,-6.84,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,120,14,34,64,1.0,10.0,-6.84,8.85,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,34,64,1.0,10.0,-6.84,-15.82,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,120,14,34,64,1.0,10.0,-6.84,0.0,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,120,14,34,64,1.0,10.0,-6.84,-11.02,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,34,69,1.0,10.0,-7.52,-27.62,-12.48,45.53
+136,CTEC.O,Global X CleanTech ETF,5,60,14,34,69,1.0,10.0,-7.52,0.0,-9.39,38.41
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,34,69,1.0,10.0,-7.52,0.0,-11.76,39.57
+136,AMZA.K,InfraCap MLP ETF,5,60,14,34,69,1.0,10.0,-7.52,-9.19,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,34,79,1.0,10.0,-7.52,-27.62,-12.48,45.53
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,34,69,1.0,10.0,-7.52,-15.06,-9.61,42.36
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,34,79,1.0,10.0,-7.52,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,34,79,1.0,10.0,-7.52,-0.8,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,34,79,1.0,10.0,-7.52,-15.06,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,60,14,34,79,1.0,10.0,-7.52,0.0,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,60,14,34,79,1.0,10.0,-7.52,-9.19,-8.63,42.13
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,34,79,1.0,10.0,-7.52,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,34,74,1.0,10.0,-7.52,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,34,74,1.0,10.0,-7.52,-0.8,-12.22,43.14
+136,CTEC.O,Global X CleanTech ETF,5,60,14,34,74,1.0,10.0,-7.52,0.0,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,60,14,34,74,1.0,10.0,-7.52,-9.19,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,34,74,1.0,10.0,-7.52,-27.62,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,34,74,1.0,10.0,-7.52,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,34,69,1.0,10.0,-7.52,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,34,69,1.0,10.0,-7.52,-0.8,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,34,74,1.0,10.0,-7.52,-15.06,-9.61,42.36
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,34,64,1.0,10.0,-7.58,-27.62,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,34,64,1.0,10.0,-7.58,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,34,64,1.0,10.0,-7.58,0.0,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,34,64,1.0,10.0,-7.58,-0.8,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,34,64,1.0,10.0,-7.58,-15.06,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,60,14,34,64,1.0,10.0,-7.58,0.0,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,60,14,34,64,1.0,10.0,-7.58,-9.6,-8.63,42.13
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,49,54,1.0,10.0,-10.79,-24.46,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,120,14,49,54,1.0,10.0,-10.79,8.85,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,49,54,1.0,10.0,-10.79,-15.45,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,120,14,49,54,1.0,10.0,-10.79,-29.75,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,120,14,49,54,1.0,10.0,-10.79,-15.65,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,49,54,1.0,10.0,-10.79,0.92,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,49,54,1.0,10.0,-10.79,0.0,-11.76,39.57
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,44,54,1.0,10.0,-11.38,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,44,54,1.0,10.0,-11.38,-3.0,-12.48,45.53
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,44,54,1.0,10.0,-11.38,-24.46,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,120,14,44,54,1.0,10.0,-11.38,8.85,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,44,54,1.0,10.0,-11.38,-15.68,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,120,14,44,54,1.0,10.0,-11.38,-29.75,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,120,14,44,54,1.0,10.0,-11.38,-15.65,-8.63,42.13
+136,AMZA.K,InfraCap MLP ETF,5,60,14,49,54,1.0,10.0,-14.19,-13.94,-8.63,42.13
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,49,54,1.0,10.0,-14.19,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,49,54,1.0,10.0,-14.19,-15.51,-12.48,45.53
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,49,54,1.0,10.0,-14.19,-26.65,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,49,54,1.0,10.0,-14.19,-0.8,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,49,54,1.0,10.0,-14.19,-16.62,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,60,14,49,54,1.0,10.0,-14.19,-25.8,-9.39,38.41
+136,JFWD.K,Jacob Forward ETF,5,60,14,49,64,1.0,10.0,-14.55,-0.8,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,49,64,1.0,10.0,-14.55,-17.82,-9.61,42.36
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,49,64,1.0,10.0,-14.55,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,49,64,1.0,10.0,-14.55,-21.18,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,60,14,49,64,1.0,10.0,-14.55,-9.6,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,49,64,1.0,10.0,-14.55,-25.8,-9.39,38.41
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,49,64,1.0,10.0,-14.55,-26.65,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,120,14,49,59,1.0,10.0,-14.78,8.85,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,49,59,1.0,10.0,-14.78,-15.07,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,120,14,49,59,1.0,10.0,-14.78,-29.75,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,120,14,49,59,1.0,10.0,-14.78,-12.57,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,49,59,1.0,10.0,-14.78,-30.43,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,49,59,1.0,10.0,-14.78,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,49,59,1.0,10.0,-14.78,-24.46,-12.58,43.73
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,44,54,1.0,10.0,-14.84,-14.81,-9.61,42.36
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,44,54,1.0,10.0,-14.84,-26.65,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,44,54,1.0,10.0,-14.84,-0.8,-12.22,43.14
+136,CTEC.O,Global X CleanTech ETF,5,60,14,44,54,1.0,10.0,-14.84,-26.11,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,39,54,1.0,10.0,-14.84,-11.56,-9.61,42.36
+136,AMZA.K,InfraCap MLP ETF,5,60,14,44,54,1.0,10.0,-14.84,-13.94,-8.63,42.13
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,44,54,1.0,10.0,-14.84,0.0,-11.76,39.57
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,39,54,1.0,10.0,-14.84,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,39,54,1.0,10.0,-14.84,-25.16,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,60,14,39,54,1.0,10.0,-14.84,-13.94,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,39,54,1.0,10.0,-14.84,-37.1,-9.39,38.41
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,39,54,1.0,10.0,-14.84,-15.36,-12.58,43.73
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,44,54,1.0,10.0,-14.84,-21.56,-12.48,45.53
+136,JFWD.K,Jacob Forward ETF,5,60,14,39,54,1.0,10.0,-14.84,-0.8,-12.22,43.14
+136,AMZA.K,InfraCap MLP ETF,5,120,14,49,64,1.0,10.0,-14.9,-11.02,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,49,64,1.0,10.0,-14.9,-30.43,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,49,64,1.0,10.0,-14.9,0.0,-11.76,39.57
+136,CTEC.O,Global X CleanTech ETF,5,120,14,49,64,1.0,10.0,-14.9,-29.75,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,49,64,1.0,10.0,-14.9,-17.46,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,49,64,1.0,10.0,-14.9,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,49,64,1.0,10.0,-14.9,-24.46,-12.58,43.73
+136,AMZA.K,InfraCap MLP ETF,5,60,14,49,59,1.0,10.0,-14.95,-11.09,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,49,59,1.0,10.0,-14.95,-25.8,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,49,59,1.0,10.0,-14.95,-16.26,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,60,14,49,59,1.0,10.0,-14.95,-0.8,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,49,59,1.0,10.0,-14.95,-26.65,-12.58,43.73
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,49,59,1.0,10.0,-14.95,-24.04,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,49,59,1.0,10.0,-14.95,0.0,-11.76,39.57
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,49,74,1.0,10.0,-14.97,0.0,-11.76,39.57
+136,AMZA.K,InfraCap MLP ETF,5,60,14,49,79,1.0,10.0,-14.97,-9.19,-8.63,42.13
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,49,79,1.0,10.0,-14.97,-17.82,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,60,14,49,79,1.0,10.0,-14.97,-0.8,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,49,79,1.0,10.0,-14.97,-26.65,-12.58,43.73
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,49,74,1.0,10.0,-14.97,-17.46,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,49,74,1.0,10.0,-14.97,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,49,74,1.0,10.0,-14.97,-24.46,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,49,79,1.0,10.0,-14.97,0.0,-11.76,39.57
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,49,69,1.0,10.0,-14.97,-17.46,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,120,14,49,69,1.0,10.0,-14.97,-29.75,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,120,14,49,69,1.0,10.0,-14.97,-10.57,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,49,69,1.0,10.0,-14.97,-31.42,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,49,69,1.0,10.0,-14.97,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,49,79,1.0,10.0,-14.97,-31.42,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,120,14,49,79,1.0,10.0,-14.97,-10.57,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,49,79,1.0,10.0,-14.97,-29.75,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,49,79,1.0,10.0,-14.97,-17.46,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,49,79,1.0,10.0,-14.97,8.85,-12.22,43.14
+136,CTEC.O,Global X CleanTech ETF,5,60,14,49,79,1.0,10.0,-14.97,-25.8,-9.39,38.41
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,49,79,1.0,10.0,-14.97,-24.54,-12.48,45.53
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,49,74,1.0,10.0,-14.97,-31.42,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,49,79,1.0,10.0,-14.97,0.0,-11.76,39.57
+136,AMZA.K,InfraCap MLP ETF,5,120,14,49,74,1.0,10.0,-14.97,-10.57,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,49,74,1.0,10.0,-14.97,-29.75,-9.39,38.41
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,49,69,1.0,10.0,-14.97,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,49,69,1.0,10.0,-14.97,-24.54,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,60,14,49,69,1.0,10.0,-14.97,-9.19,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,49,69,1.0,10.0,-14.97,-25.8,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,49,69,1.0,10.0,-14.97,-17.82,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,60,14,49,69,1.0,10.0,-14.97,-0.8,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,49,69,1.0,10.0,-14.97,-26.65,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,49,74,1.0,10.0,-14.97,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,49,74,1.0,10.0,-14.97,-24.54,-12.48,45.53
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,49,69,1.0,10.0,-14.97,-24.46,-12.58,43.73
+136,CTEC.O,Global X CleanTech ETF,5,60,14,49,74,1.0,10.0,-14.97,-25.8,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,49,74,1.0,10.0,-14.97,-17.82,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,60,14,49,74,1.0,10.0,-14.97,-0.8,-12.22,43.14
+136,JFWD.K,Jacob Forward ETF,5,120,14,49,69,1.0,10.0,-14.97,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,49,74,1.0,10.0,-14.97,-26.65,-12.58,43.73
+136,AMZA.K,InfraCap MLP ETF,5,60,14,49,74,1.0,10.0,-14.97,-9.19,-8.63,42.13
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,49,79,1.0,10.0,-14.97,-24.46,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,39,59,1.0,10.0,-15.35,0.0,-11.76,39.57
+136,AMZA.K,InfraCap MLP ETF,5,60,14,39,59,1.0,10.0,-15.35,-11.09,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,39,59,1.0,10.0,-15.35,-37.1,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,39,59,1.0,10.0,-15.35,-11.13,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,60,14,39,59,1.0,10.0,-15.35,-0.8,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,39,59,1.0,10.0,-15.35,-15.36,-12.58,43.73
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,39,59,1.0,10.0,-15.35,-32.01,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,44,59,1.0,10.0,-15.39,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,44,59,1.0,10.0,-15.39,-24.46,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,120,14,44,59,1.0,10.0,-15.39,8.85,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,44,59,1.0,10.0,-15.39,-15.29,-9.61,42.36
+136,AMZA.K,InfraCap MLP ETF,5,120,14,44,59,1.0,10.0,-15.39,-12.57,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,44,59,1.0,10.0,-15.39,-34.51,-12.48,45.53
+136,CTEC.O,Global X CleanTech ETF,5,120,14,44,59,1.0,10.0,-15.39,-29.75,-9.39,38.41
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,44,74,1.0,10.0,-15.41,0.0,-11.76,39.57
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,44,79,1.0,10.0,-15.41,0.0,-11.76,39.57
+136,CTEC.O,Global X CleanTech ETF,5,120,14,44,69,1.0,10.0,-15.41,-29.75,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,44,69,1.0,10.0,-15.41,-17.46,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,44,69,1.0,10.0,-15.41,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,44,69,1.0,10.0,-15.41,-24.46,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,44,69,1.0,10.0,-15.41,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,44,74,1.0,10.0,-15.41,-34.51,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,120,14,44,74,1.0,10.0,-15.41,-10.57,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,44,74,1.0,10.0,-15.41,-29.75,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,44,74,1.0,10.0,-15.41,-17.46,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,44,74,1.0,10.0,-15.41,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,44,74,1.0,10.0,-15.41,-24.46,-12.58,43.73
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,44,79,1.0,10.0,-15.41,-34.51,-12.48,45.53
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,44,69,1.0,10.0,-15.41,-34.51,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,120,14,44,79,1.0,10.0,-15.41,-10.57,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,44,79,1.0,10.0,-15.41,-29.75,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,44,79,1.0,10.0,-15.41,-17.46,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,44,79,1.0,10.0,-15.41,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,44,79,1.0,10.0,-15.41,-24.46,-12.58,43.73
+136,AMZA.K,InfraCap MLP ETF,5,120,14,44,69,1.0,10.0,-15.41,-10.57,-8.63,42.13
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,44,64,1.0,10.0,-15.48,-24.46,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,120,14,44,64,1.0,10.0,-15.48,8.85,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,44,64,1.0,10.0,-15.48,-17.46,-9.61,42.36
+136,AMZA.K,InfraCap MLP ETF,5,120,14,44,64,1.0,10.0,-15.48,-11.02,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,44,64,1.0,10.0,-15.48,-34.51,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,44,64,1.0,10.0,-15.48,0.0,-11.76,39.57
+136,CTEC.O,Global X CleanTech ETF,5,120,14,44,64,1.0,10.0,-15.48,-29.75,-9.39,38.41
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,39,74,1.0,10.0,-15.76,-32.01,-12.48,45.53
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,39,79,1.0,10.0,-15.76,-32.01,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,60,14,39,79,1.0,10.0,-15.76,-9.19,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,39,79,1.0,10.0,-15.76,-37.1,-9.39,38.41
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,39,69,1.0,10.0,-15.76,-32.01,-12.48,45.53
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,39,79,1.0,10.0,-15.76,-15.86,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,60,14,39,79,1.0,10.0,-15.76,-0.8,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,39,79,1.0,10.0,-15.76,-15.36,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,39,79,1.0,10.0,-15.76,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,39,74,1.0,10.0,-15.76,-15.36,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,39,74,1.0,10.0,-15.76,-0.8,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,39,74,1.0,10.0,-15.76,-15.86,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,60,14,39,74,1.0,10.0,-15.76,-37.1,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,60,14,39,74,1.0,10.0,-15.76,-9.19,-8.63,42.13
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,39,69,1.0,10.0,-15.76,0.0,-11.76,39.57
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,39,74,1.0,10.0,-15.76,0.0,-11.76,39.57
+136,AMZA.K,InfraCap MLP ETF,5,60,14,39,69,1.0,10.0,-15.76,-9.19,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,39,69,1.0,10.0,-15.76,-37.1,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,39,69,1.0,10.0,-15.76,-15.86,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,60,14,39,69,1.0,10.0,-15.76,-0.8,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,39,69,1.0,10.0,-15.76,-15.36,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,39,64,1.0,10.0,-15.82,-0.8,-12.22,43.14
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,39,64,1.0,10.0,-15.82,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,39,64,1.0,10.0,-15.82,-32.01,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,60,14,39,64,1.0,10.0,-15.82,-9.6,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,39,64,1.0,10.0,-15.82,-37.1,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,39,64,1.0,10.0,-15.82,-15.86,-9.61,42.36
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,39,64,1.0,10.0,-15.82,-15.36,-12.58,43.73
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,44,59,1.0,10.0,-16.04,-33.19,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,44,59,1.0,10.0,-16.04,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,44,59,1.0,10.0,-16.04,-26.65,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,44,59,1.0,10.0,-16.04,-0.8,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,44,59,1.0,10.0,-16.04,-14.44,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,60,14,44,59,1.0,10.0,-16.04,-26.11,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,60,14,44,59,1.0,10.0,-16.04,-11.09,-8.63,42.13
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,44,69,1.0,10.0,-16.25,-17.82,-9.61,42.36
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,44,69,1.0,10.0,-16.25,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,44,69,1.0,10.0,-16.25,-33.19,-12.48,45.53
+136,CTEC.O,Global X CleanTech ETF,5,60,14,44,69,1.0,10.0,-16.25,-26.11,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,60,14,44,69,1.0,10.0,-16.25,-9.19,-8.63,42.13
+136,JFWD.K,Jacob Forward ETF,5,60,14,44,69,1.0,10.0,-16.25,-0.8,-12.22,43.14
+136,CTEC.O,Global X CleanTech ETF,5,60,14,44,74,1.0,10.0,-16.25,-26.11,-9.39,38.41
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,44,79,1.0,10.0,-16.25,-26.65,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,44,79,1.0,10.0,-16.25,-0.8,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,44,79,1.0,10.0,-16.25,-17.82,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,60,14,44,79,1.0,10.0,-16.25,-26.11,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,60,14,44,79,1.0,10.0,-16.25,-9.19,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,44,79,1.0,10.0,-16.25,-33.19,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,44,79,1.0,10.0,-16.25,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,44,69,1.0,10.0,-16.25,-26.65,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,60,14,44,74,1.0,10.0,-16.25,-0.8,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,44,74,1.0,10.0,-16.25,-17.82,-9.61,42.36
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,44,74,1.0,10.0,-16.25,-26.65,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,44,74,1.0,10.0,-16.25,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,44,74,1.0,10.0,-16.25,-33.19,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,60,14,44,74,1.0,10.0,-16.25,-9.19,-8.63,42.13
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,60,14,44,64,1.0,10.0,-16.31,0.0,-11.76,39.57
+136,JFWD.K,Jacob Forward ETF,5,60,14,44,64,1.0,10.0,-16.31,-0.8,-12.22,43.14
+136,AMZA.K,InfraCap MLP ETF,5,60,14,44,64,1.0,10.0,-16.31,-9.6,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,60,14,44,64,1.0,10.0,-16.31,-26.11,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,60,14,44,64,1.0,10.0,-16.31,-17.82,-9.61,42.36
+136,MJ,Amplify Alternative Harvest ETF,5,60,14,44,64,1.0,10.0,-16.31,-33.19,-12.48,45.53
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,60,14,44,64,1.0,10.0,-16.31,-26.65,-12.58,43.73
+136,AMZA.K,InfraCap MLP ETF,5,120,14,39,54,1.0,10.0,-20.09,-15.65,-8.63,42.13
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,39,54,1.0,10.0,-20.09,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,39,54,1.0,10.0,-20.09,-5.3,-12.48,45.53
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,39,54,1.0,10.0,-20.09,-11.75,-9.61,42.36
+136,JFWD.K,Jacob Forward ETF,5,120,14,39,54,1.0,10.0,-20.09,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,39,54,1.0,10.0,-20.09,-37.72,-12.58,43.73
+136,CTEC.O,Global X CleanTech ETF,5,120,14,39,54,1.0,10.0,-20.09,-79.09,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,39,59,1.0,10.0,-23.28,-11.27,-9.61,42.36
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,39,59,1.0,10.0,-23.28,-31.17,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,120,14,39,59,1.0,10.0,-23.28,-12.57,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,39,59,1.0,10.0,-23.28,-79.09,-9.39,38.41
+136,JFWD.K,Jacob Forward ETF,5,120,14,39,59,1.0,10.0,-23.28,8.85,-12.22,43.14
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,39,59,1.0,10.0,-23.28,-37.72,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,39,59,1.0,10.0,-23.28,0.0,-11.76,39.57
+136,AMZA.K,InfraCap MLP ETF,5,120,14,39,79,1.0,10.0,-23.65,-10.57,-8.63,42.13
+136,JFWD.K,Jacob Forward ETF,5,120,14,39,74,1.0,10.0,-23.65,8.85,-12.22,43.14
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,39,74,1.0,10.0,-23.65,-31.17,-12.48,45.53
+136,AMZA.K,InfraCap MLP ETF,5,120,14,39,74,1.0,10.0,-23.65,-10.57,-8.63,42.13
+136,CTEC.O,Global X CleanTech ETF,5,120,14,39,74,1.0,10.0,-23.65,-79.09,-9.39,38.41
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,39,74,1.0,10.0,-23.65,-15.82,-9.61,42.36
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,39,79,1.0,10.0,-23.65,-37.72,-12.58,43.73
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,39,74,1.0,10.0,-23.65,-37.72,-12.58,43.73
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,39,79,1.0,10.0,-23.65,0.0,-11.76,39.57
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,39,69,1.0,10.0,-23.65,-37.72,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,120,14,39,79,1.0,10.0,-23.65,8.85,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,39,79,1.0,10.0,-23.65,-15.82,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,120,14,39,79,1.0,10.0,-23.65,-79.09,-9.39,38.41
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,39,74,1.0,10.0,-23.65,0.0,-11.76,39.57
+136,CTEC.O,Global X CleanTech ETF,5,120,14,39,69,1.0,10.0,-23.65,-79.09,-9.39,38.41
+136,JFWD.K,Jacob Forward ETF,5,120,14,39,69,1.0,10.0,-23.65,8.85,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,39,69,1.0,10.0,-23.65,-15.82,-9.61,42.36
+136,AMZA.K,InfraCap MLP ETF,5,120,14,39,69,1.0,10.0,-23.65,-10.57,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,39,69,1.0,10.0,-23.65,-31.17,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,39,69,1.0,10.0,-23.65,0.0,-11.76,39.57
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,39,79,1.0,10.0,-23.65,-31.17,-12.48,45.53
+136,CTEX.K,ProShares S&P Kensho Cleantech ETF,5,120,14,39,64,1.0,10.0,-23.71,-37.72,-12.58,43.73
+136,JFWD.K,Jacob Forward ETF,5,120,14,39,64,1.0,10.0,-23.71,8.85,-12.22,43.14
+136,EEV,ProShares UltraShort MSCI Emerging Markets,5,120,14,39,64,1.0,10.0,-23.71,-15.82,-9.61,42.36
+136,CTEC.O,Global X CleanTech ETF,5,120,14,39,64,1.0,10.0,-23.71,-79.09,-9.39,38.41
+136,AMZA.K,InfraCap MLP ETF,5,120,14,39,64,1.0,10.0,-23.71,-11.02,-8.63,42.13
+136,MJ,Amplify Alternative Harvest ETF,5,120,14,39,64,1.0,10.0,-23.71,-31.17,-12.48,45.53
+136,AMDY.K,YieldMax AMD Option Income Strategy ETF,5,120,14,39,64,1.0,10.0,-23.71,0.0,-11.76,39.57

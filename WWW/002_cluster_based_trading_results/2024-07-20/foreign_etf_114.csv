@@ -1,0 +1,433 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,29,64,1.0,10.0,30.75,3.02,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,29,64,1.0,10.0,30.75,11.58,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,29,64,1.0,10.0,30.75,51.87,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,29,64,1.0,10.0,30.75,0.0,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,29,64,1.0,10.0,30.75,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,29,64,1.0,10.0,30.75,118.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,29,54,1.0,10.0,29.3,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,29,54,1.0,10.0,29.3,0.0,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,29,54,1.0,10.0,29.3,37.66,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,29,54,1.0,10.0,29.3,24.8,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,29,54,1.0,10.0,29.3,-4.69,-6.67,52.34
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,29,54,1.0,10.0,29.3,118.03,-3.21,59.41
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,29,59,1.0,10.0,28.79,11.58,-2.71,55.59
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,29,59,1.0,10.0,28.79,118.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,29,59,1.0,10.0,28.79,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,29,59,1.0,10.0,28.79,0.0,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,29,59,1.0,10.0,28.79,40.12,2.85,55.16
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,29,59,1.0,10.0,28.79,3.02,-6.67,52.34
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,29,64,1.0,10.0,24.98,51.87,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,29,64,1.0,10.0,24.98,0.0,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,29,64,1.0,10.0,24.98,0.0,-6.67,52.34
+114,ZSL,ProShares UltraShort Silver,5,120,14,29,64,1.0,10.0,24.98,0.0,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,29,64,1.0,10.0,24.98,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,29,64,1.0,10.0,24.98,98.02,-3.21,59.41
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,34,64,1.0,10.0,23.26,118.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,34,64,1.0,10.0,23.26,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,34,64,1.0,10.0,23.26,-27.16,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,34,64,1.0,10.0,23.26,47.48,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,34,64,1.0,10.0,23.26,11.58,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,34,64,1.0,10.0,23.26,-10.34,-6.67,52.34
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,29,59,1.0,10.0,23.02,0.0,-6.67,52.34
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,29,59,1.0,10.0,23.02,98.02,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,29,59,1.0,10.0,23.02,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,29,59,1.0,10.0,23.02,0.0,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,29,59,1.0,10.0,23.02,40.12,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,29,59,1.0,10.0,23.02,0.0,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,34,54,1.0,10.0,22.89,-14.65,-6.67,52.34
+114,ZSL,ProShares UltraShort Silver,5,60,14,34,54,1.0,10.0,22.89,-27.16,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,34,54,1.0,10.0,22.89,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,34,54,1.0,10.0,22.89,118.03,-3.21,59.41
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,34,54,1.0,10.0,22.89,36.31,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,34,54,1.0,10.0,22.89,24.8,-2.71,55.59
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,29,54,1.0,10.0,22.61,0.0,-2.71,55.59
+114,ZSL,ProShares UltraShort Silver,5,120,14,29,54,1.0,10.0,22.61,0.0,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,29,54,1.0,10.0,22.61,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,29,54,1.0,10.0,22.61,98.02,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,29,54,1.0,10.0,22.61,0.0,-6.67,52.34
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,29,54,1.0,10.0,22.61,37.66,2.85,55.16
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,39,54,1.0,10.0,21.98,-17.56,-6.67,52.34
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,39,54,1.0,10.0,21.98,98.02,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,39,54,1.0,10.0,21.98,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,39,54,1.0,10.0,21.98,-10.99,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,39,54,1.0,10.0,21.98,32.6,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,39,54,1.0,10.0,21.98,29.8,-2.71,55.59
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,34,54,1.0,10.0,21.76,29.8,-2.71,55.59
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,34,54,1.0,10.0,21.76,98.02,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,34,54,1.0,10.0,21.76,-14.99,-6.67,52.34
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,34,54,1.0,10.0,21.76,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,34,54,1.0,10.0,21.76,-23.7,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,34,54,1.0,10.0,21.76,41.46,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,34,64,1.0,10.0,21.57,-23.7,-5.03,54.38
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,34,64,1.0,10.0,21.57,98.02,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,34,64,1.0,10.0,21.57,0.0,-5.29,56.16
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,34,64,1.0,10.0,21.57,-10.5,-6.67,52.34
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,34,64,1.0,10.0,21.57,52.42,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,34,64,1.0,10.0,21.57,13.18,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,34,59,1.0,10.0,21.55,-10.34,-6.67,52.34
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,34,59,1.0,10.0,21.55,37.18,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,34,59,1.0,10.0,21.55,-27.16,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,34,59,1.0,10.0,21.55,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,34,59,1.0,10.0,21.55,118.03,-3.21,59.41
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,34,59,1.0,10.0,21.55,11.58,-2.71,55.59
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,29,69,1.0,10.0,20.25,11.58,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,29,69,1.0,10.0,20.25,3.02,-6.67,52.34
+114,ZSL,ProShares UltraShort Silver,5,60,14,29,69,1.0,10.0,20.25,0.0,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,29,69,1.0,10.0,20.25,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,29,69,1.0,10.0,20.25,55.03,-3.21,59.41
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,29,69,1.0,10.0,20.25,51.87,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,39,59,1.0,10.0,20.09,13.18,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,39,59,1.0,10.0,20.09,34.31,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,39,59,1.0,10.0,20.09,-10.99,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,39,59,1.0,10.0,20.09,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,39,59,1.0,10.0,20.09,98.02,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,39,59,1.0,10.0,20.09,-13.93,-6.67,52.34
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,34,59,1.0,10.0,19.69,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,34,59,1.0,10.0,19.69,-23.7,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,34,59,1.0,10.0,19.69,41.14,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,34,59,1.0,10.0,19.69,13.18,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,34,59,1.0,10.0,19.69,-10.5,-6.67,52.34
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,34,59,1.0,10.0,19.69,98.02,-3.21,59.41
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,24,54,1.0,10.0,19.67,118.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,24,54,1.0,10.0,19.67,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,24,64,1.0,10.0,19.67,118.03,-3.21,59.41
+114,ZSL,ProShares UltraShort Silver,5,60,14,24,54,1.0,10.0,19.67,0.0,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,24,54,1.0,10.0,19.67,0.0,2.85,55.16
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,24,54,1.0,10.0,19.67,0.0,-6.67,52.34
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,24,59,1.0,10.0,19.67,118.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,24,59,1.0,10.0,19.67,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,24,59,1.0,10.0,19.67,0.0,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,24,59,1.0,10.0,19.67,0.0,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,24,59,1.0,10.0,19.67,0.0,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,24,59,1.0,10.0,19.67,0.0,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,24,54,1.0,10.0,19.67,0.0,-2.71,55.59
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,24,64,1.0,10.0,19.67,0.0,-5.29,56.16
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,24,64,1.0,10.0,19.67,0.0,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,24,64,1.0,10.0,19.67,0.0,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,24,64,1.0,10.0,19.67,0.0,-6.67,52.34
+114,ZSL,ProShares UltraShort Silver,5,60,14,24,64,1.0,10.0,19.67,0.0,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,39,64,1.0,10.0,19.18,0.0,-5.29,56.16
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,39,64,1.0,10.0,19.18,-13.93,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,39,64,1.0,10.0,19.18,13.18,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,39,64,1.0,10.0,19.18,45.07,2.85,55.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,39,64,1.0,10.0,19.18,98.02,-3.21,59.41
+114,ZSL,ProShares UltraShort Silver,5,120,14,39,64,1.0,10.0,19.18,-27.28,-5.03,54.38
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,39,64,1.0,10.0,17.58,-14.93,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,39,64,1.0,10.0,17.58,11.58,-2.71,55.59
+114,ZSL,ProShares UltraShort Silver,5,60,14,39,64,1.0,10.0,17.58,-26.25,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,39,64,1.0,10.0,17.58,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,39,64,1.0,10.0,17.58,118.03,-3.21,59.41
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,39,64,1.0,10.0,17.58,17.01,2.85,55.16
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,39,54,1.0,10.0,17.03,-17.91,-6.67,52.34
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,39,54,1.0,10.0,17.03,3.84,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,39,54,1.0,10.0,17.03,-26.56,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,39,54,1.0,10.0,17.03,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,39,54,1.0,10.0,17.03,118.03,-3.21,59.41
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,39,54,1.0,10.0,17.03,24.8,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,24,59,1.0,10.0,16.34,0.0,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,24,54,1.0,10.0,16.34,0.0,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,24,54,1.0,10.0,16.34,0.0,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,24,54,1.0,10.0,16.34,0.0,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,24,54,1.0,10.0,16.34,0.0,-6.67,52.34
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,24,59,1.0,10.0,16.34,98.02,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,24,59,1.0,10.0,16.34,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,24,59,1.0,10.0,16.34,0.0,-5.03,54.38
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,24,64,1.0,10.0,16.34,98.02,-3.21,59.41
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,24,59,1.0,10.0,16.34,0.0,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,24,59,1.0,10.0,16.34,0.0,-6.67,52.34
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,24,64,1.0,10.0,16.34,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,24,64,1.0,10.0,16.34,0.0,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,24,64,1.0,10.0,16.34,0.0,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,24,64,1.0,10.0,16.34,0.0,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,24,64,1.0,10.0,16.34,0.0,-6.67,52.34
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,24,54,1.0,10.0,16.34,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,24,54,1.0,10.0,16.34,98.02,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,39,59,1.0,10.0,16.12,-14.93,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,39,59,1.0,10.0,16.12,11.58,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,39,59,1.0,10.0,16.12,8.58,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,39,59,1.0,10.0,16.12,-26.56,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,39,59,1.0,10.0,16.12,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,39,59,1.0,10.0,16.12,118.03,-3.21,59.41
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,29,69,1.0,10.0,15.96,0.0,-2.71,55.59
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,29,69,1.0,10.0,15.96,43.88,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,29,69,1.0,10.0,15.96,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,29,69,1.0,10.0,15.96,0.0,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,29,69,1.0,10.0,15.96,51.87,2.85,55.16
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,29,69,1.0,10.0,15.96,0.0,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,34,69,1.0,10.0,13.25,11.58,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,34,69,1.0,10.0,13.25,-10.34,-6.67,52.34
+114,ZSL,ProShares UltraShort Silver,5,60,14,34,69,1.0,10.0,13.25,-27.16,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,34,69,1.0,10.0,13.25,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,34,69,1.0,10.0,13.25,55.03,-3.21,59.41
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,34,69,1.0,10.0,13.25,50.42,2.85,55.16
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,34,69,1.0,10.0,13.09,-10.5,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,34,69,1.0,10.0,13.09,13.18,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,34,69,1.0,10.0,13.09,55.72,2.85,55.16
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,34,69,1.0,10.0,13.09,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,34,69,1.0,10.0,13.09,43.88,-3.21,59.41
+114,ZSL,ProShares UltraShort Silver,5,120,14,34,69,1.0,10.0,13.09,-23.7,-5.03,54.38
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,49,54,1.0,10.0,12.85,118.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,49,54,1.0,10.0,12.85,-29.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,49,54,1.0,10.0,12.85,-26.56,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,49,54,1.0,10.0,12.85,4.18,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,49,54,1.0,10.0,12.85,24.8,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,49,54,1.0,10.0,12.85,-14.35,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,49,64,1.0,10.0,12.19,11.58,-2.71,55.59
+114,ZSL,ProShares UltraShort Silver,5,60,14,49,64,1.0,10.0,12.19,-26.25,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,49,64,1.0,10.0,12.19,12.94,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,44,64,1.0,10.0,12.19,-26.25,-5.03,54.38
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,49,64,1.0,10.0,12.19,-14.16,-6.67,52.34
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,44,64,1.0,10.0,12.19,12.94,2.85,55.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,49,64,1.0,10.0,12.19,118.03,-3.21,59.41
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,44,64,1.0,10.0,12.19,118.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,44,64,1.0,10.0,12.19,-29.0,-5.29,56.16
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,44,64,1.0,10.0,12.19,-14.16,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,44,64,1.0,10.0,12.19,11.58,-2.71,55.59
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,49,64,1.0,10.0,12.19,-29.0,-5.29,56.16
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,44,54,1.0,10.0,12.13,-29.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,44,54,1.0,10.0,12.13,118.03,-3.21,59.41
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,44,54,1.0,10.0,12.13,-0.03,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,44,54,1.0,10.0,12.13,-26.56,-5.03,54.38
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,44,54,1.0,10.0,12.13,24.8,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,44,54,1.0,10.0,12.13,-14.47,-6.67,52.34
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,44,59,1.0,10.0,10.79,-14.16,-6.67,52.34
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,49,59,1.0,10.0,10.79,4.83,2.85,55.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,44,59,1.0,10.0,10.79,118.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,44,59,1.0,10.0,10.79,-29.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,44,59,1.0,10.0,10.79,-26.56,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,44,59,1.0,10.0,10.79,4.83,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,44,59,1.0,10.0,10.79,11.58,-2.71,55.59
+114,ZSL,ProShares UltraShort Silver,5,60,14,49,59,1.0,10.0,10.79,-26.56,-5.03,54.38
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,49,59,1.0,10.0,10.79,11.58,-2.71,55.59
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,49,59,1.0,10.0,10.79,118.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,49,59,1.0,10.0,10.79,-29.0,-5.29,56.16
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,49,59,1.0,10.0,10.79,-14.16,-6.67,52.34
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,39,69,1.0,10.0,10.65,48.08,2.85,55.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,39,69,1.0,10.0,10.65,43.88,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,39,69,1.0,10.0,10.65,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,39,69,1.0,10.0,10.65,-27.28,-5.03,54.38
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,39,69,1.0,10.0,10.65,-13.93,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,39,69,1.0,10.0,10.65,13.18,-2.71,55.59
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,44,54,1.0,10.0,9.98,-30.91,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,44,54,1.0,10.0,9.98,98.02,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,44,54,1.0,10.0,9.98,-15.51,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,44,54,1.0,10.0,9.98,29.8,-2.71,55.59
+114,ZSL,ProShares UltraShort Silver,5,120,14,44,54,1.0,10.0,9.98,-28.28,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,44,54,1.0,10.0,9.98,6.73,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,44,64,1.0,10.0,9.84,-27.28,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,44,64,1.0,10.0,9.84,-30.91,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,44,64,1.0,10.0,9.84,98.02,-3.21,59.41
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,44,64,1.0,10.0,9.84,13.18,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,44,64,1.0,10.0,9.84,-15.14,-6.67,52.34
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,44,64,1.0,10.0,9.84,21.16,2.85,55.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,49,54,1.0,10.0,9.62,98.02,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,49,54,1.0,10.0,9.62,-30.91,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,49,54,1.0,10.0,9.62,-28.28,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,49,54,1.0,10.0,9.62,5.1,2.85,55.16
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,49,54,1.0,10.0,9.62,-16.03,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,49,54,1.0,10.0,9.62,29.8,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,24,79,1.0,10.0,9.17,0.0,-6.67,52.34
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,24,69,1.0,10.0,9.17,55.03,-3.21,59.41
+114,ZSL,ProShares UltraShort Silver,5,60,14,24,69,1.0,10.0,9.17,0.0,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,24,69,1.0,10.0,9.17,0.0,-5.29,56.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,24,79,1.0,10.0,9.17,0.0,-2.71,55.59
+114,ZSL,ProShares UltraShort Silver,5,60,14,24,79,1.0,10.0,9.17,0.0,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,24,69,1.0,10.0,9.17,0.0,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,24,69,1.0,10.0,9.17,0.0,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,24,69,1.0,10.0,9.17,0.0,-6.67,52.34
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,24,79,1.0,10.0,9.17,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,24,74,1.0,10.0,9.17,55.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,24,74,1.0,10.0,9.17,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,24,74,1.0,10.0,9.17,0.0,-5.03,54.38
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,24,79,1.0,10.0,9.17,55.03,-3.21,59.41
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,24,74,1.0,10.0,9.17,0.0,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,24,74,1.0,10.0,9.17,0.0,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,24,74,1.0,10.0,9.17,0.0,-6.67,52.34
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,24,79,1.0,10.0,9.17,0.0,2.85,55.16
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,29,79,1.0,10.0,8.79,-3.15,2.85,55.16
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,29,79,1.0,10.0,8.79,-10.7,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,29,79,1.0,10.0,8.79,11.58,-2.71,55.59
+114,ZSL,ProShares UltraShort Silver,5,60,14,29,79,1.0,10.0,8.79,0.0,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,29,74,1.0,10.0,8.79,-3.15,2.85,55.16
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,29,79,1.0,10.0,8.79,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,29,74,1.0,10.0,8.79,55.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,29,74,1.0,10.0,8.79,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,29,74,1.0,10.0,8.79,0.0,-5.03,54.38
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,29,74,1.0,10.0,8.79,11.58,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,29,74,1.0,10.0,8.79,-10.7,-6.67,52.34
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,29,79,1.0,10.0,8.79,55.03,-3.21,59.41
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,49,64,1.0,10.0,8.47,98.02,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,49,64,1.0,10.0,8.47,-15.65,-6.67,52.34
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,49,64,1.0,10.0,8.47,-30.91,-5.29,56.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,49,64,1.0,10.0,8.47,13.18,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,49,64,1.0,10.0,8.47,13.48,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,49,64,1.0,10.0,8.47,-27.28,-5.03,54.38
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,44,59,1.0,10.0,8.11,98.02,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,44,59,1.0,10.0,8.11,-30.91,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,44,59,1.0,10.0,8.11,-28.28,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,44,59,1.0,10.0,8.11,11.77,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,44,59,1.0,10.0,8.11,13.18,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,44,59,1.0,10.0,8.11,-15.14,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,39,69,1.0,10.0,7.42,11.58,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,39,69,1.0,10.0,7.42,19.05,2.85,55.16
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,39,69,1.0,10.0,7.42,-14.93,-6.67,52.34
+114,ZSL,ProShares UltraShort Silver,5,60,14,39,69,1.0,10.0,7.42,-26.25,-5.03,54.38
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,39,69,1.0,10.0,7.42,55.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,39,69,1.0,10.0,7.42,0.0,-5.29,56.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,24,69,1.0,10.0,7.31,0.0,-2.71,55.59
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,24,79,1.0,10.0,7.31,0.0,-5.29,56.16
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,24,69,1.0,10.0,7.31,0.0,-5.29,56.16
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,24,79,1.0,10.0,7.31,0.0,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,24,79,1.0,10.0,7.31,0.0,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,24,79,1.0,10.0,7.31,0.0,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,24,79,1.0,10.0,7.31,0.0,-5.03,54.38
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,24,79,1.0,10.0,7.31,43.88,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,24,69,1.0,10.0,7.31,0.0,-6.67,52.34
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,24,74,1.0,10.0,7.31,0.0,-6.67,52.34
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,24,69,1.0,10.0,7.31,0.0,2.85,55.16
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,24,74,1.0,10.0,7.31,0.0,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,24,74,1.0,10.0,7.31,0.0,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,24,74,1.0,10.0,7.31,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,24,74,1.0,10.0,7.31,43.88,-3.21,59.41
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,24,74,1.0,10.0,7.31,0.0,-2.71,55.59
+114,ZSL,ProShares UltraShort Silver,5,120,14,24,69,1.0,10.0,7.31,0.0,-5.03,54.38
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,24,69,1.0,10.0,7.31,43.88,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,49,59,1.0,10.0,6.85,-30.91,-5.29,56.16
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,49,59,1.0,10.0,6.85,-15.65,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,49,59,1.0,10.0,6.85,13.18,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,49,59,1.0,10.0,6.85,4.76,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,49,59,1.0,10.0,6.85,-28.28,-5.03,54.38
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,49,59,1.0,10.0,6.85,98.02,-3.21,59.41
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,29,79,1.0,10.0,6.79,43.88,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,29,74,1.0,10.0,6.79,0.0,-6.67,52.34
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,29,79,1.0,10.0,6.79,0.0,-5.29,56.16
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,29,74,1.0,10.0,6.79,-3.15,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,29,74,1.0,10.0,6.79,0.0,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,29,74,1.0,10.0,6.79,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,29,74,1.0,10.0,6.79,43.88,-3.21,59.41
+114,ZSL,ProShares UltraShort Silver,5,120,14,29,79,1.0,10.0,6.79,0.0,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,29,79,1.0,10.0,6.79,-3.15,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,29,79,1.0,10.0,6.79,0.0,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,29,79,1.0,10.0,6.79,0.0,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,29,74,1.0,10.0,6.79,0.0,-2.71,55.59
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,34,74,1.0,10.0,3.28,55.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,34,74,1.0,10.0,3.28,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,34,74,1.0,10.0,3.28,-27.16,-5.03,54.38
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,34,74,1.0,10.0,3.28,-3.15,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,34,74,1.0,10.0,3.28,11.58,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,34,74,1.0,10.0,3.28,-16.63,-6.67,52.34
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,34,79,1.0,10.0,3.28,55.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,34,79,1.0,10.0,3.28,0.0,-5.29,56.16
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,34,79,1.0,10.0,3.28,-16.63,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,34,79,1.0,10.0,3.28,11.58,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,34,79,1.0,10.0,3.28,-3.15,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,34,79,1.0,10.0,3.28,-27.16,-5.03,54.38
+114,ZSL,ProShares UltraShort Silver,5,60,14,39,79,1.0,10.0,3.05,-26.25,-5.03,54.38
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,39,74,1.0,10.0,3.05,-18.91,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,39,74,1.0,10.0,3.05,11.58,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,39,74,1.0,10.0,3.05,-3.15,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,39,74,1.0,10.0,3.05,-26.25,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,39,74,1.0,10.0,3.05,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,39,74,1.0,10.0,3.05,55.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,39,79,1.0,10.0,3.05,0.0,-5.29,56.16
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,39,79,1.0,10.0,3.05,-3.15,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,39,79,1.0,10.0,3.05,11.58,-2.71,55.59
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,39,79,1.0,10.0,3.05,-18.91,-6.67,52.34
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,39,79,1.0,10.0,3.05,55.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,34,74,1.0,10.0,2.2,0.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,34,74,1.0,10.0,2.2,-23.7,-5.03,54.38
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,34,79,1.0,10.0,2.2,-16.97,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,34,79,1.0,10.0,2.2,13.18,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,34,79,1.0,10.0,2.2,-3.15,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,34,79,1.0,10.0,2.2,-23.7,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,34,79,1.0,10.0,2.2,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,34,79,1.0,10.0,2.2,43.88,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,34,74,1.0,10.0,2.2,-16.97,-6.67,52.34
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,34,74,1.0,10.0,2.2,43.88,-3.21,59.41
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,34,74,1.0,10.0,2.2,-3.15,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,34,74,1.0,10.0,2.2,13.18,-2.71,55.59
+114,ZSL,ProShares UltraShort Silver,5,60,14,49,69,1.0,10.0,2.02,-26.25,-5.03,54.38
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,49,69,1.0,10.0,2.02,11.58,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,49,69,1.0,10.0,2.02,14.87,2.85,55.16
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,44,69,1.0,10.0,2.02,-14.16,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,44,69,1.0,10.0,2.02,11.58,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,44,69,1.0,10.0,2.02,14.87,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,44,69,1.0,10.0,2.02,-26.25,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,44,69,1.0,10.0,2.02,-29.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,44,69,1.0,10.0,2.02,55.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,49,69,1.0,10.0,2.02,-29.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,49,69,1.0,10.0,2.02,55.03,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,49,69,1.0,10.0,2.02,-14.16,-6.67,52.34
+114,ZSL,ProShares UltraShort Silver,5,120,14,39,74,1.0,10.0,1.31,-27.28,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,39,74,1.0,10.0,1.31,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,39,74,1.0,10.0,1.31,43.88,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,39,79,1.0,10.0,1.31,-18.78,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,39,79,1.0,10.0,1.31,13.18,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,39,79,1.0,10.0,1.31,-3.15,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,39,79,1.0,10.0,1.31,-27.28,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,39,79,1.0,10.0,1.31,0.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,39,79,1.0,10.0,1.31,43.88,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,39,74,1.0,10.0,1.31,-18.78,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,39,74,1.0,10.0,1.31,13.18,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,39,74,1.0,10.0,1.31,-3.15,2.85,55.16
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,44,69,1.0,10.0,1.2,-30.91,-5.29,56.16
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,44,69,1.0,10.0,1.2,-15.14,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,44,69,1.0,10.0,1.2,13.18,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,44,69,1.0,10.0,1.2,23.46,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,44,69,1.0,10.0,1.2,-27.28,-5.03,54.38
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,44,69,1.0,10.0,1.2,43.88,-3.21,59.41
+114,ZSL,ProShares UltraShort Silver,5,120,14,49,69,1.0,10.0,-0.21,-27.28,-5.03,54.38
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,49,69,1.0,10.0,-0.21,43.88,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,49,69,1.0,10.0,-0.21,-15.65,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,49,69,1.0,10.0,-0.21,13.18,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,49,69,1.0,10.0,-0.21,15.55,2.85,55.16
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,49,69,1.0,10.0,-0.21,-30.91,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,44,79,1.0,10.0,-1.78,55.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,44,79,1.0,10.0,-1.78,-29.0,-5.29,56.16
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,49,79,1.0,10.0,-1.78,-18.91,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,49,79,1.0,10.0,-1.78,11.58,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,49,79,1.0,10.0,-1.78,-3.15,2.85,55.16
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,49,74,1.0,10.0,-1.78,-3.15,2.85,55.16
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,44,74,1.0,10.0,-1.78,11.58,-2.71,55.59
+114,ZSL,ProShares UltraShort Silver,5,60,14,49,79,1.0,10.0,-1.78,-26.25,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,49,79,1.0,10.0,-1.78,-29.0,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,49,79,1.0,10.0,-1.78,55.03,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,49,74,1.0,10.0,-1.78,-18.91,-6.67,52.34
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,44,74,1.0,10.0,-1.78,-18.91,-6.67,52.34
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,49,74,1.0,10.0,-1.78,55.03,-3.21,59.41
+114,ZSL,ProShares UltraShort Silver,5,60,14,49,74,1.0,10.0,-1.78,-26.25,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,49,74,1.0,10.0,-1.78,-29.0,-5.29,56.16
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,44,74,1.0,10.0,-1.78,-3.15,2.85,55.16
+114,FXP,ProShares UltraShort FTSE China 50,5,60,14,44,79,1.0,10.0,-1.78,-18.91,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,44,79,1.0,10.0,-1.78,11.58,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,60,14,44,79,1.0,10.0,-1.78,-3.15,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,44,79,1.0,10.0,-1.78,-26.25,-5.03,54.38
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,60,14,44,74,1.0,10.0,-1.78,55.03,-3.21,59.41
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,60,14,44,74,1.0,10.0,-1.78,-29.0,-5.29,56.16
+114,ZSL,ProShares UltraShort Silver,5,60,14,44,74,1.0,10.0,-1.78,-26.25,-5.03,54.38
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,60,14,49,74,1.0,10.0,-1.78,11.58,-2.71,55.59
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,44,79,1.0,10.0,-3.96,43.88,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,44,79,1.0,10.0,-3.96,-19.49,-6.67,52.34
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,44,79,1.0,10.0,-3.96,-3.15,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,44,79,1.0,10.0,-3.96,-27.28,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,44,79,1.0,10.0,-3.96,-30.91,-5.29,56.16
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,44,74,1.0,10.0,-3.96,-19.49,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,44,74,1.0,10.0,-3.96,13.18,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,44,74,1.0,10.0,-3.96,-3.15,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,44,74,1.0,10.0,-3.96,-27.28,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,44,74,1.0,10.0,-3.96,-30.91,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,44,74,1.0,10.0,-3.96,43.88,-3.21,59.41
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,44,79,1.0,10.0,-3.96,13.18,-2.71,55.59
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,49,79,1.0,10.0,-4.1,43.88,-3.21,59.41
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,49,79,1.0,10.0,-4.1,13.18,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,49,79,1.0,10.0,-4.1,-3.15,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,49,79,1.0,10.0,-4.1,-27.28,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,49,79,1.0,10.0,-4.1,-30.91,-5.29,56.16
+114,BITO.K,ProShares Bitcoin Strategy ETF,5,120,14,49,74,1.0,10.0,-4.1,43.88,-3.21,59.41
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,49,74,1.0,10.0,-4.1,-20.31,-6.67,52.34
+114,OOTO.K,Direxion Daily Travel & Vacation Bull 2X Shares,5,120,14,49,74,1.0,10.0,-4.1,13.18,-2.71,55.59
+114,CHAU.K,Direxion Daily CSI 300 China A Share Bull 2X Shs,5,120,14,49,74,1.0,10.0,-4.1,-3.15,2.85,55.16
+114,ZSL,ProShares UltraShort Silver,5,120,14,49,74,1.0,10.0,-4.1,-27.28,-5.03,54.38
+114,TSLS.O,Direxion Daily TSLA Bear 1X Shares,5,120,14,49,74,1.0,10.0,-4.1,-30.91,-5.29,56.16
+114,FXP,ProShares UltraShort FTSE China 50,5,120,14,49,79,1.0,10.0,-4.1,-20.31,-6.67,52.34

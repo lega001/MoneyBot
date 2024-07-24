@@ -1,0 +1,50 @@
+
+000300 (대유플러스)
+Cluster: 82
+Best Config: {'ticker': '000300', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 423.88%
+
+448730 (삼성FN리츠)
+Cluster: 73
+Best Config: {'ticker': '448730', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 105.57%
+
+580019 (KB 인버스 2X 항셍테크 선물 ETN)
+Cluster: 23
+Best Config: {'ticker': '580019', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 45.62%
+
+011785 (금호석유우)
+Cluster: 39
+Best Config: {'ticker': '011785', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 14.33%
+
+088260 (이리츠코크렙)
+Cluster: 75
+Best Config: {'ticker': '088260', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -4.92%
+
+003520 (영진약품)
+Cluster: 49
+Best Config: {'ticker': '003520', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -12.89%
+
+33626L (두산퓨얼셀2우B)
+Cluster: 23
+Best Config: {'ticker': '33626L', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -16.00%
+
+007700 (F&F홀딩스)
+Cluster: 34
+Best Config: {'ticker': '007700', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -24.23%
+
+334690 (KBSTAR 팔라듐선물(H))
+Cluster: 86
+Best Config: {'ticker': '334690', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -33.99%
+
+003060 (에이프로젠바이오로직스)
+Cluster: 69
+Best Config: {'ticker': '003060', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 29.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -75.07%

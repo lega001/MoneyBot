@@ -1,0 +1,505 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0,43.94,14.41
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,29,79,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,34,59,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,34,54,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,34,54,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,34,54,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,34,54,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,34,54,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,29,79,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,29,79,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,29,79,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0,40.8,13.13
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,29,79,1.0,10.0,0.0,0,46.33,16.85
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,40.8,13.13
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,29,74,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,29,74,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,29,74,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,29,74,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,29,74,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,29,69,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,29,69,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,29,69,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,29,69,1.0,10.0,0.0,0,42.68,14.66
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,34,59,1.0,10.0,0.0,0,42.68,14.66
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,34,59,1.0,10.0,0.0,0,42.25,13.44
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,24,54,1.0,10.0,0.0,0,46.33,16.85
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,34,69,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,34,79,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,34,79,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,34,79,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,34,79,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,34,74,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,34,74,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,34,74,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,34,74,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,34,74,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0,43.94,14.41
+23,YALL.K,God Bless America ETF,5,120,14,34,69,1.0,10.0,0.0,0,40.63,16.41
+23,YALL.K,God Bless America ETF,5,120,14,34,59,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,34,69,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,34,69,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,34,69,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,34,64,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,34,64,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,34,64,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,34,64,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,34,64,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,34,59,1.0,10.0,0.0,0,48.31,12.07
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,29,69,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,29,64,1.0,10.0,0.0,0,48.31,12.07
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,24,64,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,24,74,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,24,69,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,24,69,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,24,69,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,24,69,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,24,69,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,24,64,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,24,64,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,24,64,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0,40.8,13.13
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,24,64,1.0,10.0,0.0,0,46.33,16.85
+23,YALL.K,God Bless America ETF,5,120,14,29,64,1.0,10.0,0.0,0,40.63,16.41
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,24,59,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,24,59,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,24,59,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,24,59,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,24,59,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,24,54,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,24,54,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,24,54,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,24,54,1.0,10.0,0.0,0,42.68,14.66
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,24,74,1.0,10.0,0.0,0,42.68,14.66
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0,40.8,13.13
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,24,74,1.0,10.0,0.0,0,42.25,13.44
+23,YALL.K,God Bless America ETF,5,120,14,24,74,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,29,64,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,29,64,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,29,64,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,29,59,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,29,59,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,29,59,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,29,59,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,29,59,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,29,54,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,29,54,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,29,54,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,29,54,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,29,54,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,24,79,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,24,79,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,24,79,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,24,79,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,24,79,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,24,74,1.0,10.0,0.0,0,48.31,12.07
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,34,79,1.0,10.0,0.0,0,48.31,12.07
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0,43.94,14.41
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,39,54,1.0,10.0,0.0,0,46.33,16.85
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,49,59,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,49,59,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,49,59,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,49,54,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,49,54,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,49,54,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,49,54,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,49,54,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,49,54,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,44,79,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,44,79,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,44,79,1.0,10.0,0.0,0,42.25,13.44
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,44,79,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,44,69,1.0,10.0,0.0,0,46.33,16.85
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,44,79,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,44,74,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,44,74,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,44,74,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,44,74,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,44,74,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,44,69,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,44,69,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,44,69,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,40.8,13.13
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,40.8,13.13
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,49,59,1.0,10.0,0.0,0,42.25,13.44
+23,YALL.K,God Bless America ETF,5,120,14,49,59,1.0,10.0,0.0,0,40.63,16.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,49,59,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,49,79,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,49,79,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,49,79,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,49,79,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,49,79,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,49,79,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,49,74,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,49,74,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,49,74,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,49,74,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,49,74,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,49,74,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,49,69,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,49,69,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,49,69,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,49,69,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,49,69,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,49,69,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,49,64,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,49,64,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,49,64,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,49,64,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,49,64,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,49,64,1.0,10.0,0.0,0,43.94,14.41
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,44,69,1.0,10.0,0.0,0,42.68,14.66
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0,43.94,14.41
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,39,54,1.0,10.0,0.0,0,42.68,14.66
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,39,74,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,39,74,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,39,69,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,39,69,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,39,69,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,39,69,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,39,69,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,39,64,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,39,64,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,39,64,1.0,10.0,0.0,0,42.25,13.44
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,39,64,1.0,10.0,0.0,0,42.68,14.66
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,44,64,1.0,10.0,0.0,0,48.31,12.07
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,39,64,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,39,59,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,39,59,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,39,59,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,39,59,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,39,59,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,39,54,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,39,54,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,39,54,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,40.8,13.13
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,40.8,13.13
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,39,74,1.0,10.0,0.0,0,42.25,13.44
+23,YALL.K,God Bless America ETF,5,120,14,39,74,1.0,10.0,0.0,0,40.63,16.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,39,74,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,44,64,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,44,64,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,44,64,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,44,64,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,44,59,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,44,59,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,44,59,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,44,59,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,44,59,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,44,54,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,44,54,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,44,54,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,44,54,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,44,54,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,39,79,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,120,14,39,79,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,120,14,39,79,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,120,14,39,79,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,39,79,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0,43.94,14.41
+23,AIPI.O,REX AI Equity Premium Income ETF,5,120,14,24,54,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,49,79,1.0,10.0,0.0,0,48.31,12.07
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,29,79,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,34,59,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,34,54,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,34,54,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,34,54,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,34,54,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,34,54,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,29,79,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,29,79,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,29,79,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0,40.8,13.13
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,29,79,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0,43.94,14.41
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,29,74,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,29,74,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,29,74,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,29,74,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,29,74,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,29,69,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,29,69,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,29,69,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,29,69,1.0,10.0,0.0,0,42.68,14.66
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,34,59,1.0,10.0,0.0,0,42.68,14.66
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,40.8,13.13
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,34,59,1.0,10.0,0.0,0,42.25,13.44
+23,YALL.K,God Bless America ETF,5,60,14,34,59,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,34,79,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,34,79,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,34,79,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,34,74,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,34,74,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,34,74,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,34,74,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,34,74,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,34,69,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,34,69,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,34,69,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,34,69,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,34,69,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,34,64,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,34,64,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,34,64,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,34,64,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,34,64,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,34,59,1.0,10.0,0.0,0,48.31,12.07
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,29,69,1.0,10.0,0.0,0,46.33,16.85
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,29,64,1.0,10.0,0.0,0,48.31,12.07
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,34,79,1.0,10.0,0.0,0,48.31,12.07
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,24,64,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,24,74,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,24,69,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,24,69,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,24,69,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,24,69,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,24,69,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,24,64,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,24,64,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,24,64,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0,40.8,13.13
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,24,64,1.0,10.0,0.0,0,46.33,16.85
+23,YALL.K,God Bless America ETF,5,60,14,29,64,1.0,10.0,0.0,0,40.63,16.41
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,24,59,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,24,59,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,24,59,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,24,59,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,24,59,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,24,54,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,24,54,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,24,54,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,24,54,1.0,10.0,0.0,0,42.68,14.66
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,24,74,1.0,10.0,0.0,0,42.68,14.66
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0,40.8,13.13
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,24,74,1.0,10.0,0.0,0,42.25,13.44
+23,YALL.K,God Bless America ETF,5,60,14,24,74,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,29,64,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,29,64,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,29,64,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,29,59,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,29,59,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,29,59,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,29,59,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,29,59,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,29,54,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,29,54,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,29,54,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,29,54,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,29,54,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,24,79,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,24,79,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,24,79,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,24,79,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,24,79,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,24,74,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,34,79,1.0,10.0,0.0,0,40.63,16.41
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0,43.94,14.41
+23,YALL.K,God Bless America ETF,5,60,14,49,79,1.0,10.0,0.0,0,40.63,16.41
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,44,79,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,49,59,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,49,59,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,49,54,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,49,54,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,49,54,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,49,54,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,49,54,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,49,54,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,44,79,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,44,79,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,44,79,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0,40.8,13.13
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,44,79,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,44,69,1.0,10.0,0.0,0,43.94,14.41
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,44,79,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,44,74,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,44,74,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,44,74,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,44,74,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,44,74,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,44,74,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,44,69,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,44,69,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,44,69,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,44,69,1.0,10.0,0.0,0,42.68,14.66
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,49,59,1.0,10.0,0.0,0,42.68,14.66
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,40.8,13.13
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,49,59,1.0,10.0,0.0,0,42.25,13.44
+23,YALL.K,God Bless America ETF,5,60,14,49,59,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,49,79,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,49,79,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,49,79,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,49,79,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,49,79,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,49,74,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,49,74,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,49,74,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,49,74,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,49,74,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,49,74,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,49,69,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,49,69,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,49,69,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,49,69,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,49,69,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,49,69,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,49,64,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,49,64,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,49,64,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,49,64,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,49,64,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,49,64,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,49,59,1.0,10.0,0.0,0,48.31,12.07
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,44,69,1.0,10.0,0.0,0,46.33,16.85
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,44,64,1.0,10.0,0.0,0,48.31,12.07
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,39,54,1.0,10.0,0.0,0,46.33,16.85
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,39,64,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,39,74,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,39,69,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,39,69,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,39,69,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,39,69,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,39,69,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,39,64,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,39,64,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,39,64,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,40.8,13.13
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,39,64,1.0,10.0,0.0,0,46.33,16.85
+23,YALL.K,God Bless America ETF,5,60,14,44,64,1.0,10.0,0.0,0,40.63,16.41
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,39,59,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,39,59,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,39,59,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,39,59,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,39,59,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,39,54,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,39,54,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,39,54,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,39,54,1.0,10.0,0.0,0,42.68,14.66
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,39,74,1.0,10.0,0.0,0,42.68,14.66
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,40.8,13.13
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,39,74,1.0,10.0,0.0,0,42.25,13.44
+23,YALL.K,God Bless America ETF,5,60,14,39,74,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,44,64,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,44,64,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,44,64,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,44,64,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,44,59,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,44,59,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,44,59,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,44,59,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,44,59,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,44,59,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,44,54,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,44,54,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,44,54,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,44,54,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,44,54,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,44,54,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,39,79,1.0,10.0,0.0,0,48.31,12.07
+23,YALL.K,God Bless America ETF,5,60,14,39,79,1.0,10.0,0.0,0,40.63,16.41
+23,GSIB.O,Themes Global Systemically Important Banks ETF,5,60,14,39,79,1.0,10.0,0.0,0,42.25,13.44
+23,CPAI.K,Counterpoint Quantitative Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0,40.8,13.13
+23,AVMV.K,Avantis US Mid Cap Value ETF,5,60,14,39,79,1.0,10.0,0.0,0,42.68,14.66
+23,AIPI.O,REX AI Equity Premium Income ETF,5,60,14,39,79,1.0,10.0,0.0,0,46.33,16.85
+23,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0,43.94,14.41
+23,BWTG.K,Brendan Wood TopGun ETF,5,60,14,39,74,1.0,10.0,0.0,0,48.31,12.07
+23,BWTG.K,Brendan Wood TopGun ETF,5,120,14,49,79,1.0,10.0,0.0,0,48.31,12.07

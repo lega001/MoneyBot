@@ -1,0 +1,649 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,49,74,1.0,10.0,3.36,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,120,14,49,74,1.0,10.0,3.36,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,74,1.0,10.0,3.36,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,74,1.0,10.0,3.36,30.25,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,49,74,1.0,10.0,3.36,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,49,74,1.0,10.0,3.36,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,49,74,1.0,10.0,3.36,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,49,74,1.0,10.0,3.36,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,49,74,1.0,10.0,3.36,0.0,27.13,17.84
+53,PTEC.O,Global X PropTech ETF,5,120,14,49,79,1.0,10.0,3.33,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,79,1.0,10.0,3.33,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,79,1.0,10.0,3.33,29.93,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,49,79,1.0,10.0,3.33,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,49,79,1.0,10.0,3.33,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,49,79,1.0,10.0,3.33,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,49,79,1.0,10.0,3.33,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,49,79,1.0,10.0,3.33,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,49,79,1.0,10.0,3.33,0.0,26.75,17.88
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,49,69,1.0,10.0,2.89,0.0,25.44,19.82
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,69,1.0,10.0,2.89,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,69,1.0,10.0,2.89,25.97,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,49,69,1.0,10.0,2.89,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,49,69,1.0,10.0,2.89,0.0,27.69,21.59
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,49,69,1.0,10.0,2.89,0.0,21.95,20.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,49,69,1.0,10.0,2.89,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,120,14,49,69,1.0,10.0,2.89,0.0,24.32,21.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,49,69,1.0,10.0,2.89,0.0,27.13,17.84
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,79,1.0,10.0,2.79,25.13,25.92,18.96
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,49,79,1.0,10.0,2.79,0.0,26.75,17.88
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,79,1.0,10.0,2.79,25.13,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,49,79,1.0,10.0,2.79,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,49,79,1.0,10.0,2.79,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,49,79,1.0,10.0,2.79,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,49,79,1.0,10.0,2.79,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,49,79,1.0,10.0,2.79,0.0,27.13,17.84
+53,PTEC.O,Global X PropTech ETF,5,60,14,44,79,1.0,10.0,2.79,0.0,24.32,21.19
+53,PTEC.O,Global X PropTech ETF,5,60,14,49,79,1.0,10.0,2.79,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,44,79,1.0,10.0,2.79,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,44,79,1.0,10.0,2.79,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,44,79,1.0,10.0,2.79,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,44,79,1.0,10.0,2.79,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,44,79,1.0,10.0,2.79,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,44,79,1.0,10.0,2.79,0.0,24.82,19.64
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,79,1.0,10.0,2.79,0.0,28.19,18.89
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,79,1.0,10.0,2.79,0.0,28.19,18.89
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,49,74,1.0,10.0,2.7,0.0,26.75,17.88
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,74,1.0,10.0,2.7,0.0,28.19,18.89
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,74,1.0,10.0,2.7,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,49,74,1.0,10.0,2.7,0.0,24.32,21.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,49,74,1.0,10.0,2.7,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,49,74,1.0,10.0,2.7,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,49,74,1.0,10.0,2.7,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,49,74,1.0,10.0,2.7,0.0,27.69,21.59
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,74,1.0,10.0,2.7,24.3,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,49,74,1.0,10.0,2.7,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,74,1.0,10.0,2.7,24.3,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,44,74,1.0,10.0,2.7,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,44,74,1.0,10.0,2.7,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,44,74,1.0,10.0,2.7,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,44,74,1.0,10.0,2.7,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,44,74,1.0,10.0,2.7,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,44,74,1.0,10.0,2.7,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,60,14,44,74,1.0,10.0,2.7,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,64,1.0,10.0,2.49,0.0,28.19,18.89
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,49,64,1.0,10.0,2.49,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,49,64,1.0,10.0,2.49,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,49,64,1.0,10.0,2.49,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,49,64,1.0,10.0,2.49,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,49,64,1.0,10.0,2.49,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,49,64,1.0,10.0,2.49,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,64,1.0,10.0,2.49,22.43,25.92,18.96
+53,PTEC.O,Global X PropTech ETF,5,120,14,49,64,1.0,10.0,2.49,0.0,24.32,21.19
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,44,69,1.0,10.0,2.26,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,44,69,1.0,10.0,2.26,0.0,24.82,19.64
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,44,69,1.0,10.0,2.26,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,44,69,1.0,10.0,2.26,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,44,69,1.0,10.0,2.26,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,44,69,1.0,10.0,2.26,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,60,14,44,69,1.0,10.0,2.26,0.0,24.32,21.19
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,69,1.0,10.0,2.26,20.33,25.92,18.96
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,49,69,1.0,10.0,2.26,0.0,27.69,21.59
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,69,1.0,10.0,2.26,0.0,28.19,18.89
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,69,1.0,10.0,2.26,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,69,1.0,10.0,2.26,20.33,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,49,69,1.0,10.0,2.26,0.0,24.82,19.64
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,49,69,1.0,10.0,2.26,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,49,69,1.0,10.0,2.26,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,49,69,1.0,10.0,2.26,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,49,69,1.0,10.0,2.26,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,60,14,49,69,1.0,10.0,2.26,0.0,24.32,21.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,49,64,1.0,10.0,1.92,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,49,64,1.0,10.0,1.92,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,49,64,1.0,10.0,1.92,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,49,64,1.0,10.0,1.92,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,49,64,1.0,10.0,1.92,0.0,24.82,19.64
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,49,64,1.0,10.0,1.92,0.0,26.75,17.88
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,64,1.0,10.0,1.92,17.24,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,64,1.0,10.0,1.92,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,49,64,1.0,10.0,1.92,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,44,64,1.0,10.0,1.92,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,60,14,44,64,1.0,10.0,1.92,0.0,24.32,21.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,44,64,1.0,10.0,1.92,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,44,64,1.0,10.0,1.92,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,44,64,1.0,10.0,1.92,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,44,64,1.0,10.0,1.92,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,44,64,1.0,10.0,1.92,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,64,1.0,10.0,1.92,17.24,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,64,1.0,10.0,1.92,0.0,28.19,18.89
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,49,59,1.0,10.0,1.81,0.0,25.44,19.82
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,59,1.0,10.0,1.81,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,59,1.0,10.0,1.81,16.27,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,49,59,1.0,10.0,1.81,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,49,59,1.0,10.0,1.81,0.0,27.69,21.59
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,49,59,1.0,10.0,1.81,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,49,59,1.0,10.0,1.81,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,49,59,1.0,10.0,1.81,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,120,14,49,59,1.0,10.0,1.81,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,54,1.0,10.0,1.66,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,120,14,49,54,1.0,10.0,1.66,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,49,54,1.0,10.0,1.66,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,49,54,1.0,10.0,1.66,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,49,54,1.0,10.0,1.66,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,49,54,1.0,10.0,1.66,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,49,54,1.0,10.0,1.66,0.0,27.69,21.59
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,54,1.0,10.0,1.66,14.9,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,49,54,1.0,10.0,1.66,0.0,24.82,19.64
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,44,59,1.0,10.0,1.29,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,49,59,1.0,10.0,1.29,0.0,27.13,17.84
+53,PTEC.O,Global X PropTech ETF,5,60,14,49,59,1.0,10.0,1.29,0.0,24.32,21.19
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,49,59,1.0,10.0,1.29,0.0,21.95,20.19
+53,PTEC.O,Global X PropTech ETF,5,60,14,44,59,1.0,10.0,1.29,0.0,24.32,21.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,49,59,1.0,10.0,1.29,0.0,25.44,19.82
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,44,59,1.0,10.0,1.29,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,44,59,1.0,10.0,1.29,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,44,59,1.0,10.0,1.29,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,44,59,1.0,10.0,1.29,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,44,59,1.0,10.0,1.29,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,59,1.0,10.0,1.29,11.63,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,59,1.0,10.0,1.29,0.0,28.19,18.89
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,49,59,1.0,10.0,1.29,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,49,59,1.0,10.0,1.29,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,59,1.0,10.0,1.29,11.63,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,59,1.0,10.0,1.29,0.0,28.19,18.89
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,49,59,1.0,10.0,1.29,0.0,26.75,17.88
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,54,1.0,10.0,1.1,9.86,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,49,54,1.0,10.0,1.1,0.0,24.82,19.64
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,44,54,1.0,10.0,1.1,0.0,24.82,19.64
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,54,1.0,10.0,1.1,0.0,28.19,18.89
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,44,54,1.0,10.0,1.1,0.0,27.69,21.59
+53,PTEC.O,Global X PropTech ETF,5,60,14,44,54,1.0,10.0,1.1,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,44,54,1.0,10.0,1.1,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,44,54,1.0,10.0,1.1,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,44,54,1.0,10.0,1.1,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,44,54,1.0,10.0,1.1,0.0,25.44,19.82
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,49,54,1.0,10.0,1.1,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,49,54,1.0,10.0,1.1,0.0,27.69,21.59
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,54,1.0,10.0,1.1,9.86,25.92,18.96
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,49,54,1.0,10.0,1.1,0.0,21.95,20.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,49,54,1.0,10.0,1.1,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,60,14,49,54,1.0,10.0,1.1,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,54,1.0,10.0,1.1,0.0,28.19,18.89
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,49,54,1.0,10.0,1.1,0.0,27.13,17.84
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,24.82,19.64
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,25.92,18.96
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,21.95,20.19
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,27.13,17.84
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,25.44,19.82
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,28.19,18.89
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,24.82,19.64
+53,PTEC.O,Global X PropTech ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,24.32,21.19
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,25.92,18.96
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,27.69,21.59
+53,PTEC.O,Global X PropTech ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,25.44,19.82
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,28.19,18.89
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,25.92,18.96
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,21.95,20.19
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,25.92,18.96
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,28.19,18.89
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,25.92,18.96
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,28.19,18.89
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,25.44,19.82
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,27.13,17.84
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,24.82,19.64
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,26.75,17.88
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,27.13,17.84
+53,PTEC.O,Global X PropTech ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,21.95,20.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,27.13,17.84
+53,PTEC.O,Global X PropTech ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,21.95,20.19
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,24.32,21.19
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,25.92,18.96
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,28.19,18.89
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,25.92,18.96
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,28.19,18.89
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,27.13,17.84
+53,PTEC.O,Global X PropTech ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,24.32,21.19
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,26.75,17.88
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,24.32,21.19
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,26.75,17.88
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,28.19,18.89
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,26.75,17.88
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,27.13,17.84
+53,PTEC.O,Global X PropTech ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,21.95,20.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,27.13,17.84
+53,PTEC.O,Global X PropTech ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,24.32,21.19
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,28.19,18.89
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,25.92,18.96
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,24.82,19.64
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,27.69,21.59
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,21.95,20.19
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,24.32,21.19
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,27.69,21.59
+53,PTEC.O,Global X PropTech ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,25.44,19.82
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,25.92,18.96
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,27.13,17.84
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,28.19,18.89
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,24.82,19.64
+53,PTEC.O,Global X PropTech ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,24.32,21.19
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,25.92,18.96
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,24.82,19.64
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,28.19,18.89
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,27.69,21.59
+53,PTEC.O,Global X PropTech ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,27.69,21.59
+53,PTEC.O,Global X PropTech ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,24.32,21.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,28.19,18.89
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,26.75,17.88
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,24.82,19.64
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,24.82,19.64
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,24.32,21.19
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,28.19,18.89
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,26.75,17.88
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,28.19,18.89
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,26.75,17.88
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,27.69,21.59
+53,PTEC.O,Global X PropTech ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,25.44,19.82
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,25.92,18.96
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,25.92,18.96
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,25.92,18.96
+53,PTEC.O,Global X PropTech ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,27.13,17.84
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,28.19,18.89
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,25.92,18.96
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,25.92,18.96
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,24.82,19.64
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,28.19,18.89
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,27.69,21.59
+53,PTEC.O,Global X PropTech ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,25.44,19.82
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,27.69,21.59
+53,PTEC.O,Global X PropTech ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,24.32,21.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,28.19,18.89
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,26.75,17.88
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,24.82,19.64
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,24.82,19.64
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,21.95,20.19
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,27.13,17.84
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,26.75,17.88
+53,PTEC.O,Global X PropTech ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,24.32,21.19
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,28.19,18.89
+53,PTEC.O,Global X PropTech ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,24.32,21.19
+53,ECML.K,Euclidean Fundamental Value ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,26.75,17.88
+53,DYNI.O,IDX Dynamic Innovation ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,27.13,17.84
+53,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,21.95,20.19
+53,GABF.K,Gabelli Financial Services Opportunities ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,25.44,19.82
+53,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,27.69,21.59
+53,DSMC.K,Distillate Small/Mid Cash Flow ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,24.82,19.64
+53,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,25.92,18.96
+53,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,28.19,18.89
+53,JGRO.K,JPMorgan Active Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,28.19,18.89

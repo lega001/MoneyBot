@@ -1,0 +1,721 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,24,54,1.0,10.0,-0.11,-9.04,-16.42,31.92
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,24,54,1.0,10.0,-0.11,0.0,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,24,54,1.0,10.0,-0.11,-13.36,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,24,54,1.0,10.0,-0.11,0.0,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,24,54,1.0,10.0,-0.11,-7.52,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,24,54,1.0,10.0,-0.11,0.0,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,24,54,1.0,10.0,-0.11,0.0,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,24,54,1.0,10.0,-0.11,28.86,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,24,54,1.0,10.0,-0.11,0.0,-11.98,31.54
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,24,54,1.0,10.0,-0.11,0.0,-17.1,33.06
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,24,59,1.0,10.0,-0.22,0.0,-13.35,33.25
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,24,59,1.0,10.0,-0.22,16.96,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,24,59,1.0,10.0,-0.22,0.0,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,24,59,1.0,10.0,-0.22,0.0,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,24,59,1.0,10.0,-0.22,-16.31,-15.29,33.7
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,24,59,1.0,10.0,-0.22,-2.88,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,24,59,1.0,10.0,-0.22,0.0,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,24,59,1.0,10.0,-0.22,0.0,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,24,59,1.0,10.0,-0.22,0.0,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,24,59,1.0,10.0,-0.22,0.0,-11.98,31.54
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,24,54,1.0,10.0,-0.56,0.0,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,24,54,1.0,10.0,-0.56,0.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,24,54,1.0,10.0,-0.56,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,24,54,1.0,10.0,-0.56,0.0,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,24,54,1.0,10.0,-0.56,-6.21,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,24,54,1.0,10.0,-0.56,0.0,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,24,54,1.0,10.0,-0.56,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,24,54,1.0,10.0,-0.56,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,24,54,1.0,10.0,-0.56,0.0,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,24,54,1.0,10.0,-0.56,16.96,-16.42,31.92
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,24,69,1.0,10.0,-1.3,-16.31,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,24,64,1.0,10.0,-1.3,0.0,-13.35,33.25
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,24,69,1.0,10.0,-1.3,0.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,24,69,1.0,10.0,-1.3,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,24,69,1.0,10.0,-1.3,0.0,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,24,69,1.0,10.0,-1.3,-13.63,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,24,69,1.0,10.0,-1.3,0.0,-13.35,33.25
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,24,69,1.0,10.0,-1.3,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,24,69,1.0,10.0,-1.3,0.0,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,24,69,1.0,10.0,-1.3,16.96,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,24,64,1.0,10.0,-1.3,0.0,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,24,64,1.0,10.0,-1.3,0.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,24,64,1.0,10.0,-1.3,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,24,64,1.0,10.0,-1.3,0.0,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,24,64,1.0,10.0,-1.3,-13.63,-13.6,34.93
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,24,64,1.0,10.0,-1.3,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,24,64,1.0,10.0,-1.3,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,24,64,1.0,10.0,-1.3,0.0,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,24,64,1.0,10.0,-1.3,16.96,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,24,69,1.0,10.0,-1.3,0.0,-11.98,31.54
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,29,59,1.0,10.0,-3.34,0.0,-14.2,29.5
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,59,1.0,10.0,-3.34,-14.17,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,29,59,1.0,10.0,-3.34,0.0,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,59,1.0,10.0,-3.34,0.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,29,59,1.0,10.0,-3.34,0.0,-13.46,31.17
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,29,59,1.0,10.0,-3.34,0.0,-17.1,33.06
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,59,1.0,10.0,-3.34,-2.88,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,59,1.0,10.0,-3.34,0.0,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,59,1.0,10.0,-3.34,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,29,59,1.0,10.0,-3.34,0.0,-11.74,32.59
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,29,54,1.0,10.0,-3.67,0.0,-13.46,31.17
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,29,54,1.0,10.0,-3.67,0.0,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,54,1.0,10.0,-3.67,0.0,-14.3,35.87
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,29,54,1.0,10.0,-3.67,0.0,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,54,1.0,10.0,-3.67,-6.21,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,54,1.0,10.0,-3.67,0.0,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,54,1.0,10.0,-3.67,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,29,54,1.0,10.0,-3.67,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,29,54,1.0,10.0,-3.67,0.0,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,54,1.0,10.0,-3.67,-14.17,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,24,79,1.0,10.0,-3.99,0.0,-17.1,33.06
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,24,74,1.0,10.0,-3.99,0.0,-11.98,31.54
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,24,79,1.0,10.0,-3.99,0.0,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,24,79,1.0,10.0,-3.99,0.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,24,79,1.0,10.0,-3.99,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,24,79,1.0,10.0,-3.99,0.0,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,24,79,1.0,10.0,-3.99,-13.63,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,24,79,1.0,10.0,-3.99,0.0,-13.35,33.25
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,24,79,1.0,10.0,-3.99,-9.92,-16.42,31.92
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,24,79,1.0,10.0,-3.99,-16.31,-15.29,33.7
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,24,74,1.0,10.0,-3.99,0.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,24,74,1.0,10.0,-3.99,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,24,74,1.0,10.0,-3.99,0.0,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,24,74,1.0,10.0,-3.99,-13.63,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,24,74,1.0,10.0,-3.99,0.0,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,24,74,1.0,10.0,-3.99,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,24,74,1.0,10.0,-3.99,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,24,74,1.0,10.0,-3.99,0.0,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,24,74,1.0,10.0,-3.99,-9.92,-16.42,31.92
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,24,79,1.0,10.0,-3.99,0.0,-11.74,32.59
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,54,1.0,10.0,-4.1,-14.82,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,29,54,1.0,10.0,-4.1,0.0,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,29,54,1.0,10.0,-4.1,0.0,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,54,1.0,10.0,-4.1,-13.36,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,54,1.0,10.0,-4.1,0.0,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,54,1.0,10.0,-4.1,-13.79,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,29,54,1.0,10.0,-4.1,0.0,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,29,54,1.0,10.0,-4.1,0.0,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,54,1.0,10.0,-4.1,0.95,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,29,54,1.0,10.0,-4.1,0.0,-11.98,31.54
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,24,59,1.0,10.0,-4.36,-9.04,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,24,59,1.0,10.0,-4.36,0.0,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,24,59,1.0,10.0,-4.36,0.0,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,24,59,1.0,10.0,-4.36,-13.36,-15.29,33.7
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,24,59,1.0,10.0,-4.36,-4.26,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,24,59,1.0,10.0,-4.36,0.0,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,24,59,1.0,10.0,-4.36,0.0,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,24,59,1.0,10.0,-4.36,-16.91,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,24,59,1.0,10.0,-4.36,0.0,-11.98,31.54
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,24,59,1.0,10.0,-4.36,0.0,-13.35,33.25
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,69,1.0,10.0,-4.41,0.0,-13.35,33.25
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,69,1.0,10.0,-4.41,-14.17,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,29,69,1.0,10.0,-4.41,0.0,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,69,1.0,10.0,-4.41,0.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,29,69,1.0,10.0,-4.41,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,29,69,1.0,10.0,-4.41,0.0,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,69,1.0,10.0,-4.41,-13.63,-13.6,34.93
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,69,1.0,10.0,-4.41,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,29,69,1.0,10.0,-4.41,0.0,-11.74,32.59
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,64,1.0,10.0,-4.41,-14.17,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,29,69,1.0,10.0,-4.41,0.0,-17.1,33.06
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,29,64,1.0,10.0,-4.41,0.0,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,64,1.0,10.0,-4.41,0.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,29,64,1.0,10.0,-4.41,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,29,64,1.0,10.0,-4.41,0.0,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,64,1.0,10.0,-4.41,-13.63,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,64,1.0,10.0,-4.41,0.0,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,64,1.0,10.0,-4.41,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,29,64,1.0,10.0,-4.41,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,29,64,1.0,10.0,-4.41,0.0,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,29,79,1.0,10.0,-4.68,0.0,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,79,1.0,10.0,-4.68,-16.31,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,79,1.0,10.0,-4.68,0.0,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,79,1.0,10.0,-4.68,-13.63,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,74,1.0,10.0,-4.68,0.0,-13.35,33.25
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,29,79,1.0,10.0,-4.68,0.0,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,29,79,1.0,10.0,-4.68,0.0,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,79,1.0,10.0,-4.68,0.0,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,29,79,1.0,10.0,-4.68,0.0,-11.98,31.54
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,79,1.0,10.0,-4.68,-16.87,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,29,79,1.0,10.0,-4.68,0.0,-17.1,33.06
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,29,74,1.0,10.0,-4.68,0.0,-17.1,33.06
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,29,74,1.0,10.0,-4.68,0.0,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,74,1.0,10.0,-4.68,0.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,29,74,1.0,10.0,-4.68,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,29,74,1.0,10.0,-4.68,0.0,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,74,1.0,10.0,-4.68,-13.63,-13.6,34.93
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,74,1.0,10.0,-4.68,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,29,74,1.0,10.0,-4.68,0.0,-11.74,32.59
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,74,1.0,10.0,-4.68,-16.87,-16.42,31.92
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,24,64,1.0,10.0,-5.36,0.0,-13.46,31.17
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,24,64,1.0,10.0,-5.36,-13.36,-15.29,33.7
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,24,64,1.0,10.0,-5.36,0.0,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,24,64,1.0,10.0,-5.36,-14.31,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,24,64,1.0,10.0,-5.36,0.0,-13.35,33.25
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,24,64,1.0,10.0,-5.36,0.0,-11.98,31.54
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,24,64,1.0,10.0,-5.36,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,24,64,1.0,10.0,-5.36,0.0,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,24,64,1.0,10.0,-5.36,-9.04,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,24,69,1.0,10.0,-5.36,0.0,-17.1,33.06
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,24,64,1.0,10.0,-5.36,-16.91,-14.3,35.87
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,24,69,1.0,10.0,-5.36,-9.04,-16.42,31.92
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,24,69,1.0,10.0,-5.36,0.0,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,24,69,1.0,10.0,-5.36,-13.36,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,24,69,1.0,10.0,-5.36,0.0,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,24,69,1.0,10.0,-5.36,-14.31,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,24,69,1.0,10.0,-5.36,0.0,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,24,69,1.0,10.0,-5.36,0.0,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,24,69,1.0,10.0,-5.36,-16.91,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,24,69,1.0,10.0,-5.36,0.0,-11.98,31.54
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,59,1.0,10.0,-5.63,0.0,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,59,1.0,10.0,-5.63,-12.02,-13.6,34.93
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,59,1.0,10.0,-5.63,-14.82,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,29,59,1.0,10.0,-5.63,0.0,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,29,59,1.0,10.0,-5.63,0.0,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,59,1.0,10.0,-5.63,-13.36,-15.29,33.7
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,59,1.0,10.0,-5.63,-16.06,-14.3,35.87
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,29,59,1.0,10.0,-5.63,0.0,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,29,59,1.0,10.0,-5.63,0.0,-13.46,31.17
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,29,59,1.0,10.0,-5.63,0.0,-11.98,31.54
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,24,79,1.0,10.0,-5.9,-14.31,-13.6,34.93
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,24,79,1.0,10.0,-5.9,0.0,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,24,79,1.0,10.0,-5.9,-16.91,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,24,79,1.0,10.0,-5.9,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,24,79,1.0,10.0,-5.9,0.0,-14.2,29.5
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,24,79,1.0,10.0,-5.9,0.0,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,24,74,1.0,10.0,-5.9,-13.36,-15.29,33.7
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,24,74,1.0,10.0,-5.9,0.0,-14.2,29.5
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,24,74,1.0,10.0,-5.9,-14.38,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,24,74,1.0,10.0,-5.9,0.0,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,24,74,1.0,10.0,-5.9,0.0,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,24,79,1.0,10.0,-5.9,-13.36,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,24,74,1.0,10.0,-5.9,0.0,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,24,74,1.0,10.0,-5.9,-14.31,-13.6,34.93
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,24,74,1.0,10.0,-5.9,0.0,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,24,74,1.0,10.0,-5.9,-16.91,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,24,74,1.0,10.0,-5.9,0.0,-11.98,31.54
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,24,79,1.0,10.0,-5.9,-14.38,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,24,79,1.0,10.0,-5.9,0.0,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,24,79,1.0,10.0,-5.9,0.0,-11.74,32.59
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,69,1.0,10.0,-6.08,-16.58,-13.6,34.93
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,29,69,1.0,10.0,-6.08,0.0,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,29,69,1.0,10.0,-6.08,0.0,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,69,1.0,10.0,-6.08,-13.36,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,69,1.0,10.0,-6.08,0.0,-13.35,33.25
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,29,64,1.0,10.0,-6.08,0.0,-11.98,31.54
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,29,69,1.0,10.0,-6.08,0.0,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,29,69,1.0,10.0,-6.08,0.0,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,69,1.0,10.0,-6.08,-16.06,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,29,69,1.0,10.0,-6.08,0.0,-11.98,31.54
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,69,1.0,10.0,-6.08,-14.82,-16.42,31.92
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,64,1.0,10.0,-6.08,-14.82,-16.42,31.92
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,64,1.0,10.0,-6.08,-16.06,-14.3,35.87
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,29,64,1.0,10.0,-6.08,0.0,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,64,1.0,10.0,-6.08,-16.58,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,64,1.0,10.0,-6.08,0.0,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,64,1.0,10.0,-6.08,-13.36,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,29,64,1.0,10.0,-6.08,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,29,64,1.0,10.0,-6.08,0.0,-17.1,33.06
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,29,64,1.0,10.0,-6.08,0.0,-13.46,31.17
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,79,1.0,10.0,-6.25,-16.58,-13.6,34.93
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,29,79,1.0,10.0,-6.25,0.0,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,79,1.0,10.0,-6.25,-13.36,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,79,1.0,10.0,-6.25,0.0,-13.35,33.25
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,29,74,1.0,10.0,-6.25,0.0,-11.98,31.54
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,29,79,1.0,10.0,-6.25,0.0,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,29,79,1.0,10.0,-6.25,0.0,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,79,1.0,10.0,-6.25,-16.06,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,29,79,1.0,10.0,-6.25,0.0,-11.98,31.54
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,29,79,1.0,10.0,-6.25,0.0,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,79,1.0,10.0,-6.25,-16.54,-16.42,31.92
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,74,1.0,10.0,-6.25,-16.06,-14.3,35.87
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,74,1.0,10.0,-6.25,0.0,-13.35,33.25
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,29,74,1.0,10.0,-6.25,0.0,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,74,1.0,10.0,-6.25,-13.36,-15.29,33.7
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,29,74,1.0,10.0,-6.25,0.0,-17.1,33.06
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,74,1.0,10.0,-6.25,-16.58,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,29,74,1.0,10.0,-6.25,0.0,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,29,74,1.0,10.0,-6.25,0.0,-13.46,31.17
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,74,1.0,10.0,-6.25,-16.54,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,34,54,1.0,10.0,-7.72,3.73,-11.98,31.54
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,54,1.0,10.0,-7.72,-17.27,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,54,1.0,10.0,-7.72,-4.64,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,54,1.0,10.0,-7.72,-13.36,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,34,54,1.0,10.0,-7.72,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,34,54,1.0,10.0,-7.72,-15.94,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,54,1.0,10.0,-7.72,-16.58,-16.42,31.92
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,54,1.0,10.0,-7.72,-3.24,-14.3,35.87
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,34,54,1.0,10.0,-7.72,-9.91,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,34,54,1.0,10.0,-7.72,0.0,-13.46,31.17
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,54,1.0,10.0,-7.93,-13.36,-15.29,33.7
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,49,54,1.0,10.0,-7.93,-20.8,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,54,1.0,10.0,-7.93,-14.15,-14.3,35.87
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,49,54,1.0,10.0,-7.93,-24.11,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,54,1.0,10.0,-7.93,-19.05,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,54,1.0,10.0,-7.93,-19.1,-13.35,33.25
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,54,1.0,10.0,-7.93,-22.28,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,49,54,1.0,10.0,-7.93,-19.34,-17.1,33.06
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,49,54,1.0,10.0,-7.93,74.34,-13.46,31.17
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,49,54,1.0,10.0,-7.93,-1.45,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,44,54,1.0,10.0,-8.12,-19.34,-17.1,33.06
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,44,54,1.0,10.0,-8.12,-20.8,-11.98,31.54
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,44,54,1.0,10.0,-8.12,74.34,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,44,54,1.0,10.0,-8.12,-24.11,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,54,1.0,10.0,-8.12,-18.52,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,54,1.0,10.0,-8.12,-19.1,-13.35,33.25
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,54,1.0,10.0,-8.12,-14.15,-14.3,35.87
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,54,1.0,10.0,-8.12,-13.36,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,44,54,1.0,10.0,-8.12,-1.45,-11.74,32.59
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,54,1.0,10.0,-8.12,-24.74,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,34,59,1.0,10.0,-8.96,3.73,-11.98,31.54
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,59,1.0,10.0,-8.96,-15.79,-13.6,34.93
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,59,1.0,10.0,-8.96,-17.11,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,34,59,1.0,10.0,-8.96,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,34,59,1.0,10.0,-8.96,-9.91,-14.2,29.5
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,59,1.0,10.0,-8.96,-4.64,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,59,1.0,10.0,-8.96,-13.36,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,34,59,1.0,10.0,-8.96,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,34,59,1.0,10.0,-8.96,-15.94,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,59,1.0,10.0,-8.96,-16.58,-16.42,31.92
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,69,1.0,10.0,-9.25,-18.68,-13.6,34.93
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,34,74,1.0,10.0,-9.25,-15.94,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,74,1.0,10.0,-9.25,-16.54,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,34,69,1.0,10.0,-9.25,3.73,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,69,1.0,10.0,-9.25,-17.11,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,34,69,1.0,10.0,-9.25,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,34,69,1.0,10.0,-9.25,-9.91,-14.2,29.5
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,74,1.0,10.0,-9.25,-13.36,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,69,1.0,10.0,-9.25,-4.64,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,69,1.0,10.0,-9.25,-13.36,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,34,69,1.0,10.0,-9.25,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,34,69,1.0,10.0,-9.25,-15.94,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,69,1.0,10.0,-9.25,-16.58,-16.42,31.92
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,64,1.0,10.0,-9.25,-17.11,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,34,64,1.0,10.0,-9.25,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,34,64,1.0,10.0,-9.25,-9.91,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,64,1.0,10.0,-9.25,-18.68,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,64,1.0,10.0,-9.25,-4.64,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,64,1.0,10.0,-9.25,-13.36,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,34,64,1.0,10.0,-9.25,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,34,64,1.0,10.0,-9.25,-15.94,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,64,1.0,10.0,-9.25,-16.58,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,34,64,1.0,10.0,-9.25,3.73,-11.98,31.54
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,34,74,1.0,10.0,-9.25,0.0,-11.74,32.59
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,34,79,1.0,10.0,-9.25,3.73,-11.98,31.54
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,34,79,1.0,10.0,-9.25,-15.94,-17.1,33.06
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,74,1.0,10.0,-9.25,-18.68,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,34,74,1.0,10.0,-9.25,-9.91,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,34,74,1.0,10.0,-9.25,0.0,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,74,1.0,10.0,-9.25,-17.11,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,34,74,1.0,10.0,-9.25,3.73,-11.98,31.54
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,79,1.0,10.0,-9.25,-16.54,-16.42,31.92
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,74,1.0,10.0,-9.25,-4.64,-13.35,33.25
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,34,79,1.0,10.0,-9.25,0.0,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,79,1.0,10.0,-9.25,-13.36,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,79,1.0,10.0,-9.25,-4.64,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,79,1.0,10.0,-9.25,-18.68,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,34,79,1.0,10.0,-9.25,-9.91,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,34,79,1.0,10.0,-9.25,0.0,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,79,1.0,10.0,-9.25,-17.11,-14.3,35.87
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,54,1.0,10.0,-9.97,-15.35,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,39,54,1.0,10.0,-9.97,-24.47,-14.2,29.5
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,54,1.0,10.0,-9.97,-16.31,-15.29,33.7
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,54,1.0,10.0,-9.97,-8.49,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,39,54,1.0,10.0,-9.97,11.01,-11.98,31.54
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,39,54,1.0,10.0,-9.97,1.03,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,39,54,1.0,10.0,-9.97,-23.66,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,54,1.0,10.0,-9.97,-17.7,-16.42,31.92
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,39,54,1.0,10.0,-9.97,0.0,-13.46,31.17
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,54,1.0,10.0,-9.97,-5.8,-13.35,33.25
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,34,54,1.0,10.0,-10.36,-24.47,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,54,1.0,10.0,-10.36,-14.37,-13.6,34.93
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,54,1.0,10.0,-10.36,-17.7,-16.42,31.92
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,34,54,1.0,10.0,-10.36,0.0,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,54,1.0,10.0,-10.36,-16.31,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,54,1.0,10.0,-10.36,-5.8,-13.35,33.25
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,34,54,1.0,10.0,-10.36,-21.28,-17.1,33.06
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,54,1.0,10.0,-10.36,-3.72,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,34,54,1.0,10.0,-10.36,0.0,-11.98,31.54
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,34,54,1.0,10.0,-10.36,0.0,-13.46,31.17
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,59,1.0,10.0,-10.86,-17.7,-16.42,31.92
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,39,59,1.0,10.0,-10.86,1.03,-11.74,32.59
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,39,59,1.0,10.0,-10.86,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,39,59,1.0,10.0,-10.86,-24.47,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,59,1.0,10.0,-10.86,-13.55,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,59,1.0,10.0,-10.86,-5.8,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,59,1.0,10.0,-10.86,-16.31,-15.29,33.7
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,39,59,1.0,10.0,-10.86,11.01,-11.98,31.54
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,39,59,1.0,10.0,-10.86,-23.66,-17.1,33.06
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,59,1.0,10.0,-10.86,-19.15,-14.3,35.87
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,79,1.0,10.0,-11.13,-17.06,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,39,79,1.0,10.0,-11.13,-24.47,-14.2,29.5
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,39,79,1.0,10.0,-11.13,11.01,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,79,1.0,10.0,-11.13,-19.15,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,39,79,1.0,10.0,-11.13,0.0,-13.46,31.17
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,74,1.0,10.0,-11.13,-16.31,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,79,1.0,10.0,-11.13,-5.8,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,79,1.0,10.0,-11.13,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,39,79,1.0,10.0,-11.13,1.03,-11.74,32.59
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,39,74,1.0,10.0,-11.13,1.03,-11.74,32.59
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,79,1.0,10.0,-11.13,-16.87,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,39,74,1.0,10.0,-11.13,11.01,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,74,1.0,10.0,-11.13,-19.15,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,39,74,1.0,10.0,-11.13,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,39,74,1.0,10.0,-11.13,-24.47,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,74,1.0,10.0,-11.13,-17.06,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,74,1.0,10.0,-11.13,-5.8,-13.35,33.25
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,74,1.0,10.0,-11.13,-16.87,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,39,74,1.0,10.0,-11.13,-23.66,-17.1,33.06
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,39,79,1.0,10.0,-11.13,-23.66,-17.1,33.06
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,39,64,1.0,10.0,-11.21,-23.66,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,64,1.0,10.0,-11.21,-17.7,-16.42,31.92
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,69,1.0,10.0,-11.21,-17.7,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,39,69,1.0,10.0,-11.21,11.01,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,69,1.0,10.0,-11.21,-19.15,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,39,69,1.0,10.0,-11.21,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,39,69,1.0,10.0,-11.21,-24.47,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,69,1.0,10.0,-11.21,-17.06,-13.6,34.93
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,69,1.0,10.0,-11.21,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,39,69,1.0,10.0,-11.21,1.03,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,39,69,1.0,10.0,-11.21,-23.66,-17.1,33.06
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,69,1.0,10.0,-11.21,-5.8,-13.35,33.25
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,39,64,1.0,10.0,-11.21,11.01,-11.98,31.54
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,39,64,1.0,10.0,-11.21,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,39,64,1.0,10.0,-11.21,-24.47,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,64,1.0,10.0,-11.21,-17.06,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,64,1.0,10.0,-11.21,-5.8,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,64,1.0,10.0,-11.21,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,39,64,1.0,10.0,-11.21,1.03,-11.74,32.59
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,64,1.0,10.0,-11.21,-19.15,-14.3,35.87
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,59,1.0,10.0,-11.58,-5.8,-13.35,33.25
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,34,59,1.0,10.0,-11.58,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,34,59,1.0,10.0,-11.58,-24.47,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,59,1.0,10.0,-11.58,-12.57,-13.6,34.93
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,59,1.0,10.0,-11.58,-17.7,-16.42,31.92
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,59,1.0,10.0,-11.58,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,34,59,1.0,10.0,-11.58,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,34,59,1.0,10.0,-11.58,-21.28,-17.1,33.06
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,34,59,1.0,10.0,-11.58,0.0,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,59,1.0,10.0,-11.58,-17.72,-14.3,35.87
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,54,1.0,10.0,-11.78,-13.33,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,44,54,1.0,10.0,-11.78,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,44,54,1.0,10.0,-11.78,-27.9,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,54,1.0,10.0,-11.78,-19.1,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,54,1.0,10.0,-11.78,-5.8,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,54,1.0,10.0,-11.78,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,44,54,1.0,10.0,-11.78,1.03,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,44,54,1.0,10.0,-11.78,-23.66,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,54,1.0,10.0,-11.78,-23.69,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,44,54,1.0,10.0,-11.78,11.01,-11.98,31.54
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,74,1.0,10.0,-11.95,-17.06,-13.6,34.93
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,79,1.0,10.0,-11.95,-16.31,-15.29,33.7
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,74,1.0,10.0,-11.95,-17.72,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,34,74,1.0,10.0,-11.95,0.0,-11.98,31.54
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,79,1.0,10.0,-11.95,-16.87,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,34,79,1.0,10.0,-11.95,-21.28,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,34,79,1.0,10.0,-11.95,0.0,-11.74,32.59
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,79,1.0,10.0,-11.95,-17.72,-14.3,35.87
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,79,1.0,10.0,-11.95,-5.8,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,79,1.0,10.0,-11.95,-17.06,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,34,79,1.0,10.0,-11.95,-24.47,-14.2,29.5
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,34,74,1.0,10.0,-11.95,-24.47,-14.2,29.5
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,34,79,1.0,10.0,-11.95,0.0,-11.98,31.54
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,34,74,1.0,10.0,-11.95,0.0,-13.46,31.17
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,34,79,1.0,10.0,-11.95,0.0,-13.46,31.17
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,74,1.0,10.0,-11.95,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,34,74,1.0,10.0,-11.95,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,34,74,1.0,10.0,-11.95,-21.28,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,74,1.0,10.0,-11.95,-16.87,-16.42,31.92
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,74,1.0,10.0,-11.95,-5.8,-13.35,33.25
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,69,1.0,10.0,-12.03,-17.7,-16.42,31.92
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,34,64,1.0,10.0,-12.03,0.0,-11.74,32.59
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,34,64,1.0,10.0,-12.03,0.0,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,64,1.0,10.0,-12.03,-17.72,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,34,64,1.0,10.0,-12.03,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,34,64,1.0,10.0,-12.03,-24.47,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,64,1.0,10.0,-12.03,-17.06,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,64,1.0,10.0,-12.03,-5.8,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,64,1.0,10.0,-12.03,-16.31,-15.29,33.7
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,69,1.0,10.0,-12.03,-16.31,-15.29,33.7
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,34,64,1.0,10.0,-12.03,-21.28,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,64,1.0,10.0,-12.03,-17.7,-16.42,31.92
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,69,1.0,10.0,-12.03,-5.8,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,69,1.0,10.0,-12.03,-17.06,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,34,69,1.0,10.0,-12.03,-24.47,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,34,69,1.0,10.0,-12.03,0.0,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,69,1.0,10.0,-12.03,-17.72,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,34,69,1.0,10.0,-12.03,0.0,-11.98,31.54
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,34,69,1.0,10.0,-12.03,-21.28,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,34,69,1.0,10.0,-12.03,0.0,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,44,79,1.0,10.0,-12.12,-23.66,-17.1,33.06
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,79,1.0,10.0,-12.12,-5.8,-13.35,33.25
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,44,74,1.0,10.0,-12.12,-23.66,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,44,74,1.0,10.0,-12.12,1.03,-11.74,32.59
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,44,79,1.0,10.0,-12.12,11.01,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,79,1.0,10.0,-12.12,-19.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,44,79,1.0,10.0,-12.12,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,44,79,1.0,10.0,-12.12,-27.9,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,79,1.0,10.0,-12.12,-19.37,-13.6,34.93
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,79,1.0,10.0,-12.12,-16.31,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,74,1.0,10.0,-12.12,-5.8,-13.35,33.25
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,44,79,1.0,10.0,-12.12,1.03,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,74,1.0,10.0,-12.12,-16.31,-15.29,33.7
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,79,1.0,10.0,-12.12,-21.25,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,44,74,1.0,10.0,-12.12,11.01,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,74,1.0,10.0,-12.12,-19.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,44,74,1.0,10.0,-12.12,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,44,74,1.0,10.0,-12.12,-27.9,-14.2,29.5
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,74,1.0,10.0,-12.12,-21.25,-16.42,31.92
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,74,1.0,10.0,-12.12,-19.37,-13.6,34.93
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,44,59,1.0,10.0,-12.2,1.03,-11.74,32.59
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,59,1.0,10.0,-12.2,-23.69,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,44,59,1.0,10.0,-12.2,11.01,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,59,1.0,10.0,-12.2,-19.0,-14.3,35.87
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,44,59,1.0,10.0,-12.2,-23.66,-17.1,33.06
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,44,59,1.0,10.0,-12.2,-27.9,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,59,1.0,10.0,-12.2,-17.69,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,59,1.0,10.0,-12.2,-5.8,-13.35,33.25
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,44,59,1.0,10.0,-12.2,0.0,-13.46,31.17
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,59,1.0,10.0,-12.2,-16.31,-15.29,33.7
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,44,69,1.0,10.0,-12.37,11.01,-11.98,31.54
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,64,1.0,10.0,-12.37,-16.31,-15.29,33.7
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,44,64,1.0,10.0,-12.37,11.01,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,64,1.0,10.0,-12.37,-19.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,44,64,1.0,10.0,-12.37,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,44,64,1.0,10.0,-12.37,-27.9,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,64,1.0,10.0,-12.37,-19.37,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,64,1.0,10.0,-12.37,-5.8,-13.35,33.25
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,44,64,1.0,10.0,-12.37,1.03,-11.74,32.59
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,69,1.0,10.0,-12.37,-19.0,-14.3,35.87
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,44,64,1.0,10.0,-12.37,-23.66,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,64,1.0,10.0,-12.37,-23.69,-16.42,31.92
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,69,1.0,10.0,-12.37,-16.31,-15.29,33.7
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,69,1.0,10.0,-12.37,-19.37,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,44,69,1.0,10.0,-12.37,-27.9,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,44,69,1.0,10.0,-12.37,0.0,-13.46,31.17
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,69,1.0,10.0,-12.37,-5.8,-13.35,33.25
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,69,1.0,10.0,-12.37,-23.69,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,44,69,1.0,10.0,-12.37,-23.66,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,44,69,1.0,10.0,-12.37,1.03,-11.74,32.59
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,49,59,1.0,10.0,-13.88,-24.84,-14.2,29.5
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,59,1.0,10.0,-13.88,-22.68,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,49,59,1.0,10.0,-13.88,-20.03,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,59,1.0,10.0,-13.88,-19.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,49,59,1.0,10.0,-13.88,0.0,-13.46,31.17
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,59,1.0,10.0,-13.88,4.36,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,59,1.0,10.0,-13.88,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,49,59,1.0,10.0,-13.88,1.03,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,49,59,1.0,10.0,-13.88,-23.66,-17.1,33.06
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,59,1.0,10.0,-13.88,-17.65,-13.6,34.93
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,49,64,1.0,10.0,-14.04,-23.66,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,49,64,1.0,10.0,-14.04,1.03,-11.74,32.59
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,49,64,1.0,10.0,-14.04,-20.03,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,64,1.0,10.0,-14.04,-19.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,49,64,1.0,10.0,-14.04,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,49,64,1.0,10.0,-14.04,-24.84,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,64,1.0,10.0,-14.04,-19.26,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,64,1.0,10.0,-14.04,4.36,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,64,1.0,10.0,-14.04,-16.31,-15.29,33.7
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,64,1.0,10.0,-14.04,-22.68,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,49,54,1.0,10.0,-14.1,-20.03,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,54,1.0,10.0,-14.1,-13.52,-14.3,35.87
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,54,1.0,10.0,-14.1,-16.31,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,54,1.0,10.0,-14.1,-4.8,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,54,1.0,10.0,-14.1,-17.17,-13.6,34.93
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,49,54,1.0,10.0,-14.1,1.03,-11.74,32.59
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,54,1.0,10.0,-14.1,-21.74,-16.42,31.92
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,49,54,1.0,10.0,-14.1,-24.84,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,49,54,1.0,10.0,-14.1,0.0,-13.46,31.17
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,49,54,1.0,10.0,-14.1,-23.66,-17.1,33.06
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,39,54,1.0,10.0,-14.18,0.0,-13.46,31.17
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,54,1.0,10.0,-14.18,-24.74,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,39,54,1.0,10.0,-14.18,-19.34,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,39,54,1.0,10.0,-14.18,-1.45,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,54,1.0,10.0,-14.18,-13.36,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,54,1.0,10.0,-14.18,-22.14,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,54,1.0,10.0,-14.18,-17.27,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,39,54,1.0,10.0,-14.18,-9.91,-14.2,29.5
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,54,1.0,10.0,-14.18,-13.59,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,39,54,1.0,10.0,-14.18,-20.0,-11.98,31.54
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,74,1.0,10.0,-14.48,-18.68,-13.6,34.93
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,74,1.0,10.0,-14.48,-21.25,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,39,79,1.0,10.0,-14.48,-20.0,-11.98,31.54
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,39,74,1.0,10.0,-14.48,-1.45,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,74,1.0,10.0,-14.48,-13.36,-15.29,33.7
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,39,74,1.0,10.0,-14.48,-19.34,-17.1,33.06
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,39,74,1.0,10.0,-14.48,-9.91,-14.2,29.5
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,39,79,1.0,10.0,-14.48,-19.34,-17.1,33.06
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,79,1.0,10.0,-14.48,-18.71,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,39,79,1.0,10.0,-14.48,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,39,79,1.0,10.0,-14.48,-9.91,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,79,1.0,10.0,-14.48,-18.68,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,79,1.0,10.0,-14.48,-22.14,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,79,1.0,10.0,-14.48,-13.36,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,39,79,1.0,10.0,-14.48,-1.45,-11.74,32.59
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,79,1.0,10.0,-14.48,-21.25,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,39,74,1.0,10.0,-14.48,-20.0,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,74,1.0,10.0,-14.48,-18.71,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,39,74,1.0,10.0,-14.48,0.0,-13.46,31.17
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,74,1.0,10.0,-14.48,-22.14,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,59,1.0,10.0,-14.55,-15.79,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,39,59,1.0,10.0,-14.55,-9.91,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,39,59,1.0,10.0,-14.55,0.0,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,59,1.0,10.0,-14.55,-18.71,-14.3,35.87
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,39,59,1.0,10.0,-14.55,-1.45,-11.74,32.59
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,59,1.0,10.0,-14.55,-22.14,-13.35,33.25
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,59,1.0,10.0,-14.55,-24.74,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,39,59,1.0,10.0,-14.55,-19.34,-17.1,33.06
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,39,59,1.0,10.0,-14.55,-20.0,-11.98,31.54
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,59,1.0,10.0,-14.55,-13.36,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,39,64,1.0,10.0,-14.83,-1.45,-11.74,32.59
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,39,69,1.0,10.0,-14.83,-1.45,-11.74,32.59
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,64,1.0,10.0,-14.83,-24.74,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,39,69,1.0,10.0,-14.83,-20.0,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,69,1.0,10.0,-14.83,-18.71,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,39,69,1.0,10.0,-14.83,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,39,69,1.0,10.0,-14.83,-9.91,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,69,1.0,10.0,-14.83,-18.68,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,69,1.0,10.0,-14.83,-22.14,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,69,1.0,10.0,-14.83,-13.36,-15.29,33.7
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,39,64,1.0,10.0,-14.83,-19.34,-17.1,33.06
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,39,69,1.0,10.0,-14.83,-19.34,-17.1,33.06
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,39,64,1.0,10.0,-14.83,-20.0,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,64,1.0,10.0,-14.83,-18.71,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,39,64,1.0,10.0,-14.83,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,39,64,1.0,10.0,-14.83,-9.91,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,64,1.0,10.0,-14.83,-18.68,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,64,1.0,10.0,-14.83,-22.14,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,64,1.0,10.0,-14.83,-13.36,-15.29,33.7
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,69,1.0,10.0,-14.83,-24.74,-16.42,31.92
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,79,1.0,10.0,-16.84,-25.11,-13.35,33.25
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,49,79,1.0,10.0,-16.84,1.03,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,79,1.0,10.0,-16.84,-16.31,-15.29,33.7
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,79,1.0,10.0,-16.84,-19.0,-14.3,35.87
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,79,1.0,10.0,-16.84,-19.26,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,49,79,1.0,10.0,-16.84,-24.84,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,49,79,1.0,10.0,-16.84,0.0,-13.46,31.17
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,79,1.0,10.0,-16.84,-21.25,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,49,79,1.0,10.0,-16.84,-23.66,-17.1,33.06
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,49,74,1.0,10.0,-16.84,-24.84,-14.2,29.5
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,49,74,1.0,10.0,-16.84,-20.03,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,74,1.0,10.0,-16.84,-19.0,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,49,74,1.0,10.0,-16.84,0.0,-13.46,31.17
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,74,1.0,10.0,-16.84,-19.26,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,74,1.0,10.0,-16.84,-25.11,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,74,1.0,10.0,-16.84,-16.31,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,49,74,1.0,10.0,-16.84,1.03,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,49,74,1.0,10.0,-16.84,-23.66,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,74,1.0,10.0,-16.84,-21.25,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,49,79,1.0,10.0,-16.84,-20.03,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,69,1.0,10.0,-16.99,-19.0,-14.3,35.87
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,69,1.0,10.0,-16.99,-16.31,-15.29,33.7
+140,DMAT.O,Global X Disruptive Materials ETF,5,120,14,49,69,1.0,10.0,-16.99,-20.03,-11.98,31.54
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,49,69,1.0,10.0,-16.99,0.0,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,120,14,49,69,1.0,10.0,-16.99,-24.84,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,69,1.0,10.0,-16.99,-19.26,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,69,1.0,10.0,-16.99,-25.11,-13.35,33.25
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,120,14,49,69,1.0,10.0,-16.99,1.03,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,120,14,49,69,1.0,10.0,-16.99,-23.66,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,69,1.0,10.0,-16.99,-22.68,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,49,59,1.0,10.0,-18.76,-20.8,-11.98,31.54
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,49,59,1.0,10.0,-18.76,-24.11,-14.2,29.5
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,59,1.0,10.0,-18.76,-22.11,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,49,59,1.0,10.0,-18.76,-19.34,-17.1,33.06
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,49,59,1.0,10.0,-18.76,-35.74,-13.46,31.17
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,59,1.0,10.0,-18.76,-17.76,-13.6,34.93
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,59,1.0,10.0,-18.76,-19.72,-14.3,35.87
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,49,59,1.0,10.0,-18.76,-1.45,-11.74,32.59
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,59,1.0,10.0,-18.76,-13.2,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,59,1.0,10.0,-18.76,-13.36,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,49,64,1.0,10.0,-18.9,-1.45,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,49,64,1.0,10.0,-18.9,-19.34,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,64,1.0,10.0,-18.9,-22.11,-16.42,31.92
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,64,1.0,10.0,-18.9,-13.36,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,64,1.0,10.0,-18.9,-13.2,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,64,1.0,10.0,-18.9,-19.18,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,49,64,1.0,10.0,-18.9,-24.11,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,49,64,1.0,10.0,-18.9,-35.74,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,64,1.0,10.0,-18.9,-19.72,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,49,64,1.0,10.0,-18.9,-20.8,-11.98,31.54
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,59,1.0,10.0,-18.96,-24.74,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,44,59,1.0,10.0,-18.96,-19.34,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,44,59,1.0,10.0,-18.96,-1.45,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,59,1.0,10.0,-18.96,-13.36,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,59,1.0,10.0,-18.96,-13.2,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,59,1.0,10.0,-18.96,-17.18,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,44,59,1.0,10.0,-18.96,-24.11,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,44,59,1.0,10.0,-18.96,-35.74,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,59,1.0,10.0,-18.96,-19.72,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,44,59,1.0,10.0,-18.96,-20.8,-11.98,31.54
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,44,64,1.0,10.0,-19.11,-19.34,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,64,1.0,10.0,-19.11,-24.74,-16.42,31.92
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,44,64,1.0,10.0,-19.11,-1.45,-11.74,32.59
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,64,1.0,10.0,-19.11,-13.36,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,64,1.0,10.0,-19.11,-13.2,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,64,1.0,10.0,-19.11,-18.68,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,44,64,1.0,10.0,-19.11,-24.11,-14.2,29.5
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,44,64,1.0,10.0,-19.11,-35.74,-13.46,31.17
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,64,1.0,10.0,-19.11,-19.72,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,44,64,1.0,10.0,-19.11,-20.8,-11.98,31.54
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,79,1.0,10.0,-19.75,-23.07,-13.35,33.25
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,44,79,1.0,10.0,-19.75,-35.74,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,44,79,1.0,10.0,-19.75,-24.11,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,79,1.0,10.0,-19.75,-18.68,-13.6,34.93
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,79,1.0,10.0,-19.75,-19.72,-14.3,35.87
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,44,79,1.0,10.0,-19.75,-20.8,-11.98,31.54
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,44,74,1.0,10.0,-19.75,-20.8,-11.98,31.54
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,44,74,1.0,10.0,-19.75,-35.74,-13.46,31.17
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,79,1.0,10.0,-19.75,-13.36,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,44,79,1.0,10.0,-19.75,-1.45,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,44,79,1.0,10.0,-19.75,-19.34,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,79,1.0,10.0,-19.75,-21.25,-16.42,31.92
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,74,1.0,10.0,-19.75,-19.72,-14.3,35.87
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,44,74,1.0,10.0,-19.75,-24.11,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,74,1.0,10.0,-19.75,-18.68,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,74,1.0,10.0,-19.75,-23.07,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,74,1.0,10.0,-19.75,-13.36,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,44,74,1.0,10.0,-19.75,-1.45,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,44,74,1.0,10.0,-19.75,-19.34,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,74,1.0,10.0,-19.75,-21.25,-16.42,31.92
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,49,79,1.0,10.0,-19.8,-35.74,-13.46,31.17
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,79,1.0,10.0,-19.8,-19.18,-13.6,34.93
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,49,79,1.0,10.0,-19.8,-24.11,-14.2,29.5
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,74,1.0,10.0,-19.8,-19.72,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,49,74,1.0,10.0,-19.8,-35.74,-13.46,31.17
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,49,79,1.0,10.0,-19.8,-20.8,-11.98,31.54
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,79,1.0,10.0,-19.8,-13.36,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,79,1.0,10.0,-19.8,-23.07,-13.35,33.25
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,79,1.0,10.0,-19.8,-19.72,-14.3,35.87
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,49,79,1.0,10.0,-19.8,-1.45,-11.74,32.59
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,74,1.0,10.0,-19.8,-21.25,-16.42,31.92
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,49,74,1.0,10.0,-19.8,-24.11,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,74,1.0,10.0,-19.8,-19.18,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,74,1.0,10.0,-19.8,-23.07,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,74,1.0,10.0,-19.8,-13.36,-15.29,33.7
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,49,79,1.0,10.0,-19.8,-19.34,-17.1,33.06
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,49,74,1.0,10.0,-19.8,-19.34,-17.1,33.06
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,49,74,1.0,10.0,-19.8,-1.45,-11.74,32.59
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,49,74,1.0,10.0,-19.8,-20.8,-11.98,31.54
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,79,1.0,10.0,-19.8,-21.25,-16.42,31.92
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,49,69,1.0,10.0,-19.89,-1.45,-11.74,32.59
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,49,69,1.0,10.0,-19.89,-35.74,-13.46,31.17
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,69,1.0,10.0,-19.89,-22.11,-16.42,31.92
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,49,69,1.0,10.0,-19.89,-19.34,-17.1,33.06
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,49,69,1.0,10.0,-19.89,-24.11,-14.2,29.5
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,69,1.0,10.0,-19.89,-13.36,-15.29,33.7
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,69,1.0,10.0,-19.89,-23.07,-13.35,33.25
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,69,1.0,10.0,-19.89,-19.18,-13.6,34.93
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,49,69,1.0,10.0,-19.89,-20.8,-11.98,31.54
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,69,1.0,10.0,-19.89,-19.72,-14.3,35.87
+140,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,69,1.0,10.0,-20.1,-19.72,-14.3,35.87
+140,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,44,69,1.0,10.0,-20.1,-35.74,-13.46,31.17
+140,FRNW.K,Fidelity Clean Energy ETF,5,60,14,44,69,1.0,10.0,-20.1,-24.11,-14.2,29.5
+140,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,69,1.0,10.0,-20.1,-18.68,-13.6,34.93
+140,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,69,1.0,10.0,-20.1,-23.07,-13.35,33.25
+140,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,69,1.0,10.0,-20.1,-13.36,-15.29,33.7
+140,EMFQ.K,Amplify Emerging Markets FinTech ETF,5,60,14,44,69,1.0,10.0,-20.1,-1.45,-11.74,32.59
+140,HJEN.K,Direxion Hydrogen ETF,5,60,14,44,69,1.0,10.0,-20.1,-19.34,-17.1,33.06
+140,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,69,1.0,10.0,-20.1,-24.74,-16.42,31.92
+140,DMAT.O,Global X Disruptive Materials ETF,5,60,14,44,69,1.0,10.0,-20.1,-20.8,-11.98,31.54

@@ -1,0 +1,1225 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,29,54,1.0,10.0,21.18,0.0,-1.14,35.38
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,29,54,1.0,10.0,21.18,0.0,0.78,34.53
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,29,54,1.0,10.0,21.18,86.85,-0.36,33.78
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,29,54,1.0,10.0,21.18,72.95,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,29,54,1.0,10.0,21.18,79.13,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,29,54,1.0,10.0,21.18,0.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,29,54,1.0,10.0,21.18,-1.35,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,29,54,1.0,10.0,21.18,12.08,2.8,31.97
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,29,54,1.0,10.0,21.18,0.0,0.97,35.25
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,29,54,1.0,10.0,21.18,0.0,0.0,36.3
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,29,54,1.0,10.0,21.18,40.28,3.99,34.33
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,29,54,1.0,10.0,21.18,7.96,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,29,54,1.0,10.0,21.18,36.71,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,29,54,1.0,10.0,21.18,0.0,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,29,54,1.0,10.0,21.18,0.0,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,29,54,1.0,10.0,21.18,25.39,0.48,31.68
+113,JETS.K,US Global Jets ETF,5,120,14,29,54,1.0,10.0,21.18,0.0,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,29,64,1.0,10.0,19.05,43.42,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,120,14,29,64,1.0,10.0,19.05,0.0,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,29,64,1.0,10.0,19.05,38.5,-0.36,33.78
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,29,64,1.0,10.0,19.05,61.51,0.32,34.39
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,29,64,1.0,10.0,19.05,0.0,0.78,34.53
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,29,64,1.0,10.0,19.05,66.07,0.69,34.13
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,29,64,1.0,10.0,19.05,0.0,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,29,64,1.0,10.0,19.05,0.0,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,29,64,1.0,10.0,19.05,48.59,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,29,64,1.0,10.0,19.05,22.97,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,29,64,1.0,10.0,19.05,0.0,0.0,36.3
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,29,64,1.0,10.0,19.05,22.27,0.48,31.68
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,29,64,1.0,10.0,19.05,0.0,0.97,35.25
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,29,64,1.0,10.0,19.05,19.25,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,29,64,1.0,10.0,19.05,1.2,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,29,64,1.0,10.0,19.05,0.0,4.16,36.1
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,29,64,1.0,10.0,19.05,0.0,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,29,59,1.0,10.0,18.78,0.0,0.97,35.25
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,29,59,1.0,10.0,18.78,61.51,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,29,59,1.0,10.0,18.78,59.33,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,29,59,1.0,10.0,18.78,0.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,29,59,1.0,10.0,18.78,-1.35,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,29,59,1.0,10.0,18.78,21.1,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,29,59,1.0,10.0,18.78,0.0,-1.14,35.38
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,29,59,1.0,10.0,18.78,22.97,1.86,33.1
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,29,59,1.0,10.0,18.78,0.0,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,29,59,1.0,10.0,18.78,0.0,0.0,36.3
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,29,59,1.0,10.0,18.78,48.59,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,29,59,1.0,10.0,18.78,0.0,4.82,35.68
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,29,59,1.0,10.0,18.78,22.27,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,29,59,1.0,10.0,18.78,0.0,0.93,32.87
+113,JETS.K,US Global Jets ETF,5,120,14,29,59,1.0,10.0,18.78,0.0,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,29,59,1.0,10.0,18.78,46.58,3.99,34.33
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,29,59,1.0,10.0,18.78,38.29,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,120,14,34,54,1.0,10.0,16.59,105.15,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,34,54,1.0,10.0,16.59,7.28,3.99,34.33
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,34,54,1.0,10.0,16.59,27.31,4.82,35.68
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,34,54,1.0,10.0,16.59,5.44,-0.36,33.78
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,34,54,1.0,10.0,16.59,36.71,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,34,54,1.0,10.0,16.59,4.59,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,34,54,1.0,10.0,16.59,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,34,54,1.0,10.0,16.59,0.0,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,34,54,1.0,10.0,16.59,0.0,0.97,35.25
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,34,54,1.0,10.0,16.59,12.66,0.48,31.68
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,34,54,1.0,10.0,16.59,-14.1,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,34,54,1.0,10.0,16.59,12.08,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,34,54,1.0,10.0,16.59,-1.35,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,34,54,1.0,10.0,16.59,3.28,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,34,54,1.0,10.0,16.59,79.13,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,34,54,1.0,10.0,16.59,3.89,0.32,34.39
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,34,54,1.0,10.0,16.59,0.0,0.93,32.87
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,29,54,1.0,10.0,15.03,13.88,-0.36,33.78
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,29,54,1.0,10.0,15.03,-2.04,-1.14,35.38
+113,JETS.K,US Global Jets ETF,5,60,14,29,54,1.0,10.0,15.03,102.86,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,29,54,1.0,10.0,15.03,44.21,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,29,54,1.0,10.0,15.03,4.89,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,29,54,1.0,10.0,15.03,4.48,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,29,54,1.0,10.0,15.03,0.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,29,54,1.0,10.0,15.03,-0.68,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,29,54,1.0,10.0,15.03,14.48,2.8,31.97
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,29,54,1.0,10.0,15.03,0.0,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,29,54,1.0,10.0,15.03,0.0,0.78,34.53
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,29,54,1.0,10.0,15.03,7.99,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,29,54,1.0,10.0,15.03,37.55,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,29,54,1.0,10.0,15.03,0.0,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,29,54,1.0,10.0,15.03,0.0,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,29,54,1.0,10.0,15.03,27.89,0.48,31.68
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,29,54,1.0,10.0,15.03,0.0,0.0,36.3
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,39,54,1.0,10.0,13.5,12.66,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,39,54,1.0,10.0,13.5,0.0,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,39,54,1.0,10.0,13.5,-13.11,4.82,35.68
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,39,54,1.0,10.0,13.5,4.63,2.55,37.19
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,39,54,1.0,10.0,13.5,36.71,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,39,54,1.0,10.0,13.5,4.59,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,39,54,1.0,10.0,13.5,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,39,54,1.0,10.0,13.5,14.89,0.78,34.53
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,39,54,1.0,10.0,13.5,-14.1,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,39,54,1.0,10.0,13.5,12.08,2.8,31.97
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,39,54,1.0,10.0,13.5,55.45,0.97,35.25
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,39,54,1.0,10.0,13.5,15.65,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,39,54,1.0,10.0,13.5,-8.71,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,39,54,1.0,10.0,13.5,0.49,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,39,54,1.0,10.0,13.5,5.86,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,120,14,39,54,1.0,10.0,13.5,105.15,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,39,54,1.0,10.0,13.5,-2.77,-0.36,33.78
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,34,64,1.0,10.0,13.41,1.2,2.55,37.19
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,34,64,1.0,10.0,13.41,48.59,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,34,64,1.0,10.0,13.41,17.88,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,34,64,1.0,10.0,13.41,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,34,64,1.0,10.0,13.41,0.0,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,34,64,1.0,10.0,13.41,0.0,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,34,64,1.0,10.0,13.41,-14.1,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,34,64,1.0,10.0,13.41,19.25,2.8,31.97
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,34,64,1.0,10.0,13.41,46.16,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,34,64,1.0,10.0,13.41,0.0,0.93,32.87
+113,JETS.K,US Global Jets ETF,5,120,14,34,64,1.0,10.0,13.41,2.14,2.97,32.98
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,34,64,1.0,10.0,13.41,3.28,4.16,36.1
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,34,64,1.0,10.0,13.41,-0.93,-0.36,33.78
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,34,64,1.0,10.0,13.41,12.72,0.48,31.68
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,34,64,1.0,10.0,13.41,15.06,3.99,34.33
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,34,64,1.0,10.0,13.41,66.07,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,34,64,1.0,10.0,13.41,10.56,0.32,34.39
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,34,54,1.0,10.0,13.12,-12.03,-1.14,35.38
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,34,54,1.0,10.0,13.12,35.88,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,34,54,1.0,10.0,13.12,37.55,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,34,54,1.0,10.0,13.12,7.99,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,34,54,1.0,10.0,13.12,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,34,54,1.0,10.0,13.12,15.47,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,34,54,1.0,10.0,13.12,45.31,0.97,35.25
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,34,54,1.0,10.0,13.12,14.48,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,34,54,1.0,10.0,13.12,-0.68,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,34,54,1.0,10.0,13.12,21.07,4.16,36.1
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,34,54,1.0,10.0,13.12,-0.56,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,34,54,1.0,10.0,13.12,6.3,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,60,14,34,54,1.0,10.0,13.12,38.47,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,34,54,1.0,10.0,13.12,-1.49,-0.36,33.78
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,34,54,1.0,10.0,13.12,4.48,0.69,34.13
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,34,54,1.0,10.0,13.12,0.0,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,34,54,1.0,10.0,13.12,10.81,0.48,31.68
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,34,59,1.0,10.0,11.69,-3.67,-0.36,33.78
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,34,59,1.0,10.0,11.69,0.0,0.78,34.53
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,34,59,1.0,10.0,11.69,10.56,0.32,34.39
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,34,59,1.0,10.0,11.69,3.28,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,34,59,1.0,10.0,11.69,-1.35,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,34,59,1.0,10.0,11.69,21.1,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,34,59,1.0,10.0,11.69,-14.1,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,34,59,1.0,10.0,11.69,0.0,0.97,35.25
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,34,59,1.0,10.0,11.69,0.0,0.0,36.3
+113,JETS.K,US Global Jets ETF,5,120,14,34,59,1.0,10.0,11.69,2.14,2.97,32.98
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,34,59,1.0,10.0,11.69,17.88,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,34,59,1.0,10.0,11.69,48.59,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,34,59,1.0,10.0,11.69,33.14,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,34,59,1.0,10.0,11.69,0.0,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,34,59,1.0,10.0,11.69,12.72,0.48,31.68
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,34,59,1.0,10.0,11.69,9.19,3.99,34.33
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,34,59,1.0,10.0,11.69,59.33,0.69,34.13
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,29,64,1.0,10.0,11.1,24.18,0.48,31.68
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,29,64,1.0,10.0,11.1,-2.04,-1.14,35.38
+113,JETS.K,US Global Jets ETF,5,60,14,29,64,1.0,10.0,11.1,5.55,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,29,64,1.0,10.0,11.1,45.99,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,29,64,1.0,10.0,11.1,11.23,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,29,64,1.0,10.0,11.1,15.21,0.69,34.13
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,29,64,1.0,10.0,11.1,0.0,0.93,32.87
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,29,64,1.0,10.0,11.1,1.4,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,29,64,1.0,10.0,11.1,20.94,2.8,31.97
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,29,64,1.0,10.0,11.1,0.0,4.16,36.1
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,29,64,1.0,10.0,11.1,0.0,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,29,64,1.0,10.0,11.1,0.0,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,29,64,1.0,10.0,11.1,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,29,64,1.0,10.0,11.1,22.87,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,29,64,1.0,10.0,11.1,48.13,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,29,64,1.0,10.0,11.1,0.0,4.82,35.68
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,29,64,1.0,10.0,11.1,-4.73,-0.36,33.78
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,34,64,1.0,10.0,11.05,20.94,2.8,31.97
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,34,64,1.0,10.0,11.05,-4.73,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,60,14,34,64,1.0,10.0,11.05,5.55,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,34,64,1.0,10.0,11.05,2.32,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,34,64,1.0,10.0,11.05,8.58,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,34,64,1.0,10.0,11.05,15.21,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,34,64,1.0,10.0,11.05,6.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,34,64,1.0,10.0,11.05,1.4,2.55,37.19
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,34,64,1.0,10.0,11.05,0.23,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,34,64,1.0,10.0,11.05,-12.03,-1.14,35.38
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,34,64,1.0,10.0,11.05,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,34,64,1.0,10.0,11.05,22.87,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,34,64,1.0,10.0,11.05,48.13,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,34,64,1.0,10.0,11.05,51.72,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,34,64,1.0,10.0,11.05,0.0,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,34,64,1.0,10.0,11.05,11.22,0.48,31.68
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,34,64,1.0,10.0,11.05,10.46,0.78,34.53
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,29,59,1.0,10.0,10.86,-2.04,-1.14,35.38
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,29,59,1.0,10.0,10.86,49.86,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,29,59,1.0,10.0,10.86,11.23,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,29,59,1.0,10.0,10.86,9.29,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,29,59,1.0,10.0,10.86,0.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,29,59,1.0,10.0,10.86,-0.68,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,29,59,1.0,10.0,10.86,23.03,2.8,31.97
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,29,59,1.0,10.0,10.86,0.0,0.0,36.3
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,29,59,1.0,10.0,10.86,0.0,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,29,59,1.0,10.0,10.86,0.0,0.78,34.53
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,29,59,1.0,10.0,10.86,-6.74,-0.36,33.78
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,29,59,1.0,10.0,10.86,22.87,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,29,59,1.0,10.0,10.86,48.13,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,29,59,1.0,10.0,10.86,0.0,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,29,59,1.0,10.0,10.86,0.0,0.93,32.87
+113,JETS.K,US Global Jets ETF,5,60,14,29,59,1.0,10.0,10.86,5.55,2.97,32.98
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,29,59,1.0,10.0,10.86,24.18,0.48,31.68
+113,JETS.K,US Global Jets ETF,5,60,14,34,59,1.0,10.0,10.82,5.55,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,34,59,1.0,10.0,10.82,8.16,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,34,59,1.0,10.0,10.82,4.84,0.32,34.39
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,34,59,1.0,10.0,10.82,20.86,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,34,59,1.0,10.0,10.82,-0.68,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,34,59,1.0,10.0,10.82,23.03,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,34,59,1.0,10.0,10.82,-12.03,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,34,59,1.0,10.0,10.82,0.23,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,34,59,1.0,10.0,10.82,10.46,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,34,59,1.0,10.0,10.82,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,34,59,1.0,10.0,10.82,22.87,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,34,59,1.0,10.0,10.82,48.13,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,34,59,1.0,10.0,10.82,38.74,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,34,59,1.0,10.0,10.82,0.0,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,34,59,1.0,10.0,10.82,11.22,0.48,31.68
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,34,59,1.0,10.0,10.82,9.29,0.69,34.13
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,34,59,1.0,10.0,10.82,-6.74,-0.36,33.78
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,44,54,1.0,10.0,10.22,9.55,2.55,37.19
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,44,54,1.0,10.0,10.22,29.62,0.97,35.25
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,44,54,1.0,10.0,10.22,-13.65,0.32,34.39
+113,JETS.K,US Global Jets ETF,5,120,14,44,54,1.0,10.0,10.22,32.49,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,44,54,1.0,10.0,10.22,5.56,-0.36,33.78
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,44,54,1.0,10.0,10.22,2.44,3.99,34.33
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,44,54,1.0,10.0,10.22,7.67,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,44,54,1.0,10.0,10.22,15.65,4.16,36.1
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,44,54,1.0,10.0,10.22,12.08,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,44,54,1.0,10.0,10.22,-14.1,-1.14,35.38
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,44,54,1.0,10.0,10.22,14.89,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,44,54,1.0,10.0,10.22,27.55,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,44,54,1.0,10.0,10.22,-11.98,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,44,54,1.0,10.0,10.22,36.71,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,44,54,1.0,10.0,10.22,-8.31,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,44,54,1.0,10.0,10.22,14.85,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,44,54,1.0,10.0,10.22,12.66,0.48,31.68
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,44,54,1.0,10.0,9.82,11.62,4.16,36.1
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,44,54,1.0,10.0,9.82,14.48,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,44,54,1.0,10.0,9.82,10.25,2.55,37.19
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,44,54,1.0,10.0,9.82,0.24,3.99,34.33
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,44,54,1.0,10.0,9.82,9.54,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,44,54,1.0,10.0,9.82,-13.16,0.32,34.39
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,44,54,1.0,10.0,9.82,38.3,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,44,54,1.0,10.0,9.82,-15.65,-1.14,35.38
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,44,54,1.0,10.0,9.82,4.94,0.78,34.53
+113,JETS.K,US Global Jets ETF,5,60,14,44,54,1.0,10.0,9.82,34.13,2.97,32.98
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,44,54,1.0,10.0,9.82,13.48,0.93,32.87
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,44,54,1.0,10.0,9.82,11.35,0.0,36.3
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,44,54,1.0,10.0,9.82,10.81,0.48,31.68
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,44,54,1.0,10.0,9.82,12.81,-0.36,33.78
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,44,54,1.0,10.0,9.82,-5.1,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,44,54,1.0,10.0,9.82,37.55,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,44,54,1.0,10.0,9.82,-8.64,1.86,33.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,34,74,1.0,10.0,9.46,6.84,2.55,37.19
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,34,74,1.0,10.0,9.46,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,34,74,1.0,10.0,9.46,10.46,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,34,74,1.0,10.0,9.46,0.23,0.97,35.25
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,34,74,1.0,10.0,9.46,49.55,4.82,35.68
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,34,74,1.0,10.0,9.46,20.94,2.8,31.97
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,34,74,1.0,10.0,9.46,0.38,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,34,74,1.0,10.0,9.46,6.0,4.16,36.1
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,34,74,1.0,10.0,9.46,11.22,0.48,31.68
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,34,74,1.0,10.0,9.46,2.55,0.32,34.39
+113,JETS.K,US Global Jets ETF,5,60,14,34,74,1.0,10.0,9.46,5.55,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,34,74,1.0,10.0,9.46,-6.1,-0.36,33.78
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,34,74,1.0,10.0,9.46,0.0,0.93,32.87
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,34,74,1.0,10.0,9.46,-1.05,3.99,34.33
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,34,74,1.0,10.0,9.46,-12.03,-1.14,35.38
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,34,74,1.0,10.0,9.46,32.9,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,34,74,1.0,10.0,9.46,33.42,1.86,33.1
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,39,54,1.0,10.0,9.09,5.79,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,60,14,39,54,1.0,10.0,9.09,34.13,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,39,54,1.0,10.0,9.09,0.24,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,39,54,1.0,10.0,9.09,-14.07,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,39,54,1.0,10.0,9.09,1.39,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,39,54,1.0,10.0,9.09,19.62,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,39,54,1.0,10.0,9.09,10.25,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,39,54,1.0,10.0,9.09,14.48,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,39,54,1.0,10.0,9.09,-15.65,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,39,54,1.0,10.0,9.09,45.31,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,39,54,1.0,10.0,9.09,4.94,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,39,54,1.0,10.0,9.09,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,39,54,1.0,10.0,9.09,7.99,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,39,54,1.0,10.0,9.09,37.55,1.58,35.35
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,39,54,1.0,10.0,9.09,0.0,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,39,54,1.0,10.0,9.09,-8.21,4.82,35.68
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,39,54,1.0,10.0,9.09,10.81,0.48,31.68
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,34,69,1.0,10.0,9.06,6.84,2.55,37.19
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,34,69,1.0,10.0,9.06,11.22,0.48,31.68
+113,JETS.K,US Global Jets ETF,5,60,14,34,69,1.0,10.0,9.06,5.55,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,34,69,1.0,10.0,9.06,-2.36,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,34,69,1.0,10.0,9.06,1.08,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,34,69,1.0,10.0,9.06,0.38,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,34,69,1.0,10.0,9.06,6.0,4.16,36.1
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,34,69,1.0,10.0,9.06,-6.1,-0.36,33.78
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,34,69,1.0,10.0,9.06,20.94,2.8,31.97
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,34,69,1.0,10.0,9.06,27.23,1.86,33.1
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,34,69,1.0,10.0,9.06,-12.03,-1.14,35.38
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,34,69,1.0,10.0,9.06,51.72,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,34,69,1.0,10.0,9.06,32.9,1.58,35.35
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,34,69,1.0,10.0,9.06,0.0,0.93,32.87
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,34,69,1.0,10.0,9.06,0.0,0.0,36.3
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,34,69,1.0,10.0,9.06,0.23,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,34,69,1.0,10.0,9.06,10.46,0.78,34.53
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,29,79,1.0,10.0,8.63,0.0,-1.14,35.38
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,29,79,1.0,10.0,8.63,14.84,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,29,79,1.0,10.0,8.63,5.97,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,29,79,1.0,10.0,8.63,0.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,29,79,1.0,10.0,8.63,2.47,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,29,79,1.0,10.0,8.63,19.25,2.8,31.97
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,29,79,1.0,10.0,8.63,0.0,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,29,79,1.0,10.0,8.63,0.0,0.97,35.25
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,29,79,1.0,10.0,8.63,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,29,79,1.0,10.0,8.63,48.98,1.86,33.1
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,29,79,1.0,10.0,8.63,0.0,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,29,79,1.0,10.0,8.63,0.0,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,29,79,1.0,10.0,8.63,22.27,0.48,31.68
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,29,79,1.0,10.0,8.63,31.99,1.58,35.35
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,29,79,1.0,10.0,8.63,-0.63,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,120,14,29,79,1.0,10.0,8.63,0.0,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,29,79,1.0,10.0,8.63,1.54,-0.36,33.78
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,34,74,1.0,10.0,8.17,-14.1,-1.14,35.38
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,34,74,1.0,10.0,8.17,0.0,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,34,74,1.0,10.0,8.17,45.25,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,34,74,1.0,10.0,8.17,31.99,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,34,74,1.0,10.0,8.17,27.67,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,34,74,1.0,10.0,8.17,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,34,74,1.0,10.0,8.17,0.0,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,34,74,1.0,10.0,8.17,0.0,0.97,35.25
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,34,74,1.0,10.0,8.17,19.25,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,34,74,1.0,10.0,8.17,6.87,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,34,74,1.0,10.0,8.17,3.28,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,34,74,1.0,10.0,8.17,5.97,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,34,74,1.0,10.0,8.17,3.27,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,34,74,1.0,10.0,8.17,-0.63,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,120,14,34,74,1.0,10.0,8.17,2.14,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,34,74,1.0,10.0,8.17,-4.84,-0.36,33.78
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,34,74,1.0,10.0,8.17,12.72,0.48,31.68
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,29,79,1.0,10.0,7.96,24.18,0.48,31.68
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,29,79,1.0,10.0,7.96,-6.1,-0.36,33.78
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,29,79,1.0,10.0,7.96,20.94,2.8,31.97
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,29,79,1.0,10.0,7.96,0.0,0.93,32.87
+113,JETS.K,US Global Jets ETF,5,60,14,29,79,1.0,10.0,7.96,5.55,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,29,79,1.0,10.0,7.96,-0.42,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,29,79,1.0,10.0,7.96,8.75,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,29,79,1.0,10.0,7.96,0.38,0.69,34.13
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,29,79,1.0,10.0,7.96,2.56,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,29,79,1.0,10.0,7.96,0.0,4.16,36.1
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,29,79,1.0,10.0,7.96,-2.04,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,29,79,1.0,10.0,7.96,0.0,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,29,79,1.0,10.0,7.96,0.0,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,29,79,1.0,10.0,7.96,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,29,79,1.0,10.0,7.96,48.66,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,29,79,1.0,10.0,7.96,32.9,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,29,79,1.0,10.0,7.96,0.0,4.82,35.68
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,34,69,1.0,10.0,7.72,0.0,0.97,35.25
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,34,69,1.0,10.0,7.72,1.77,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,34,69,1.0,10.0,7.72,5.97,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,34,69,1.0,10.0,7.72,3.28,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,34,69,1.0,10.0,7.72,6.87,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,34,69,1.0,10.0,7.72,19.25,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,34,69,1.0,10.0,7.72,-14.1,-1.14,35.38
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,34,69,1.0,10.0,7.72,-4.84,-0.36,33.78
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,34,69,1.0,10.0,7.72,0.0,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,34,69,1.0,10.0,7.72,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,34,69,1.0,10.0,7.72,21.97,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,34,69,1.0,10.0,7.72,31.99,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,34,69,1.0,10.0,7.72,46.16,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,34,69,1.0,10.0,7.72,0.0,0.93,32.87
+113,JETS.K,US Global Jets ETF,5,120,14,34,69,1.0,10.0,7.72,2.14,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,34,69,1.0,10.0,7.72,-1.93,3.99,34.33
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,34,69,1.0,10.0,7.72,12.72,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,29,74,1.0,10.0,7.64,0.0,0.93,32.87
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,29,74,1.0,10.0,7.64,19.25,2.8,31.97
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,29,74,1.0,10.0,7.64,31.99,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,29,74,1.0,10.0,7.64,33.61,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,29,74,1.0,10.0,7.64,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,29,74,1.0,10.0,7.64,0.0,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,29,74,1.0,10.0,7.64,0.0,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,29,74,1.0,10.0,7.64,0.0,-1.14,35.38
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,29,74,1.0,10.0,7.64,6.87,2.55,37.19
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,29,74,1.0,10.0,7.64,22.27,0.48,31.68
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,29,74,1.0,10.0,7.64,0.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,29,74,1.0,10.0,7.64,5.97,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,29,74,1.0,10.0,7.64,9.05,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,29,74,1.0,10.0,7.64,-0.63,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,120,14,29,74,1.0,10.0,7.64,0.0,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,29,74,1.0,10.0,7.64,1.54,-0.36,33.78
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,29,74,1.0,10.0,7.64,0.0,4.82,35.68
+113,JETS.K,US Global Jets ETF,5,60,14,34,79,1.0,10.0,7.43,5.55,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,34,79,1.0,10.0,7.43,-1.05,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,34,79,1.0,10.0,7.43,7.75,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,34,79,1.0,10.0,7.43,0.38,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,34,79,1.0,10.0,7.43,6.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,34,79,1.0,10.0,7.43,2.56,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,34,79,1.0,10.0,7.43,20.94,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,34,79,1.0,10.0,7.43,-12.03,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,34,79,1.0,10.0,7.43,0.23,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,34,79,1.0,10.0,7.43,10.46,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,34,79,1.0,10.0,7.43,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,34,79,1.0,10.0,7.43,48.66,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,34,79,1.0,10.0,7.43,32.9,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,34,79,1.0,10.0,7.43,-1.21,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,34,79,1.0,10.0,7.43,0.0,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,34,79,1.0,10.0,7.43,11.22,0.48,31.68
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,34,79,1.0,10.0,7.43,-6.1,-0.36,33.78
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,29,69,1.0,10.0,7.1,22.27,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,29,69,1.0,10.0,7.1,0.0,0.93,32.87
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,29,69,1.0,10.0,7.1,1.54,-0.36,33.78
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,29,69,1.0,10.0,7.1,0.0,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,29,69,1.0,10.0,7.1,31.99,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,29,69,1.0,10.0,7.1,27.37,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,29,69,1.0,10.0,7.1,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,29,69,1.0,10.0,7.1,0.0,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,29,69,1.0,10.0,7.1,0.0,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,29,69,1.0,10.0,7.1,0.0,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,29,69,1.0,10.0,7.1,19.25,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,29,69,1.0,10.0,7.1,6.87,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,29,69,1.0,10.0,7.1,0.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,29,69,1.0,10.0,7.1,5.97,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,29,69,1.0,10.0,7.1,7.41,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,29,69,1.0,10.0,7.1,-1.93,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,120,14,29,69,1.0,10.0,7.1,0.0,2.97,32.98
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,39,59,1.0,10.0,7.05,11.22,0.48,31.68
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,39,59,1.0,10.0,7.05,-3.84,-0.36,33.78
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,39,59,1.0,10.0,7.05,0.0,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,39,59,1.0,10.0,7.05,-2.09,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,39,59,1.0,10.0,7.05,48.13,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,39,59,1.0,10.0,7.05,22.87,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,39,59,1.0,10.0,7.05,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,39,59,1.0,10.0,7.05,2.36,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,39,59,1.0,10.0,7.05,0.23,0.97,35.25
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,39,59,1.0,10.0,7.05,23.03,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,39,59,1.0,10.0,7.05,12.03,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,39,59,1.0,10.0,7.05,19.55,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,39,59,1.0,10.0,7.05,1.1,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,39,59,1.0,10.0,7.05,-9.52,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,39,59,1.0,10.0,7.05,1.76,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,60,14,39,59,1.0,10.0,7.05,8.67,2.97,32.98
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,39,59,1.0,10.0,7.05,-15.65,-1.14,35.38
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,44,59,1.0,10.0,7.01,12.72,0.48,31.68
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,29,74,1.0,10.0,7.01,0.0,0.78,34.53
+113,JETS.K,US Global Jets ETF,5,120,14,44,59,1.0,10.0,7.01,2.14,2.97,32.98
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,29,74,1.0,10.0,7.01,32.9,1.58,35.35
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,29,74,1.0,10.0,7.01,0.0,0.0,36.3
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,29,74,1.0,10.0,7.01,0.0,4.82,35.68
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,29,74,1.0,10.0,7.01,24.18,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,29,74,1.0,10.0,7.01,0.0,0.93,32.87
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,29,74,1.0,10.0,7.01,-6.1,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,60,14,29,74,1.0,10.0,7.01,5.55,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,29,74,1.0,10.0,7.01,-0.42,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,29,74,1.0,10.0,7.01,3.48,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,29,74,1.0,10.0,7.01,0.38,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,29,74,1.0,10.0,7.01,0.0,4.16,36.1
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,29,74,1.0,10.0,7.01,20.94,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,29,74,1.0,10.0,7.01,-2.04,-1.14,35.38
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,44,59,1.0,10.0,7.01,-4.81,-0.36,33.78
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,29,74,1.0,10.0,7.01,6.84,2.55,37.19
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,44,59,1.0,10.0,7.01,4.11,3.99,34.33
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,44,59,1.0,10.0,7.01,9.84,0.78,34.53
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,44,59,1.0,10.0,7.01,13.08,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,44,59,1.0,10.0,7.01,-8.6,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,44,59,1.0,10.0,7.01,48.59,1.58,35.35
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,44,59,1.0,10.0,7.01,-6.0,0.32,34.39
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,44,59,1.0,10.0,7.01,19.3,0.0,36.3
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,29,74,1.0,10.0,7.01,0.0,0.97,35.25
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,44,59,1.0,10.0,7.01,-5.73,1.86,33.1
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,44,59,1.0,10.0,7.01,-2.31,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,44,59,1.0,10.0,7.01,-14.1,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,44,59,1.0,10.0,7.01,21.1,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,44,59,1.0,10.0,7.01,11.55,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,44,59,1.0,10.0,7.01,15.98,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,44,59,1.0,10.0,7.01,2.31,0.69,34.13
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,29,74,1.0,10.0,7.01,33.42,1.86,33.1
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,44,59,1.0,10.0,6.57,-1.81,-0.36,33.78
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,44,59,1.0,10.0,6.57,0.23,0.97,35.25
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,44,59,1.0,10.0,6.57,1.76,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,44,59,1.0,10.0,6.57,-7.65,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,44,59,1.0,10.0,6.57,2.72,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,44,59,1.0,10.0,6.57,12.2,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,44,59,1.0,10.0,6.57,12.03,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,44,59,1.0,10.0,6.57,23.03,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,44,59,1.0,10.0,6.57,-15.65,-1.14,35.38
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,44,59,1.0,10.0,6.57,2.36,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,44,59,1.0,10.0,6.57,11.59,0.0,36.3
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,44,59,1.0,10.0,6.57,48.13,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,44,59,1.0,10.0,6.57,-7.26,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,44,59,1.0,10.0,6.57,12.32,0.93,32.87
+113,JETS.K,US Global Jets ETF,5,60,14,44,59,1.0,10.0,6.57,8.67,2.97,32.98
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,44,59,1.0,10.0,6.57,11.22,0.48,31.68
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,44,59,1.0,10.0,6.57,-2.25,1.86,33.1
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,49,54,1.0,10.0,6.49,17.03,0.97,35.25
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,49,54,1.0,10.0,6.49,-5.1,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,49,54,1.0,10.0,6.49,37.55,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,49,54,1.0,10.0,6.49,-3.61,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,49,54,1.0,10.0,6.49,15.32,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,49,54,1.0,10.0,6.49,-9.58,0.78,34.53
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,49,54,1.0,10.0,6.49,11.62,4.16,36.1
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,49,54,1.0,10.0,6.49,-15.65,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,49,54,1.0,10.0,6.49,14.48,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,49,54,1.0,10.0,6.49,7.34,2.55,37.19
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,49,54,1.0,10.0,6.49,10.26,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,49,54,1.0,10.0,6.49,-16.1,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,49,54,1.0,10.0,6.49,1.28,3.99,34.33
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,49,54,1.0,10.0,6.49,7.31,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,60,14,49,54,1.0,10.0,6.49,13.86,2.97,32.98
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,49,54,1.0,10.0,6.49,10.81,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,49,54,1.0,10.0,6.49,13.48,0.93,32.87
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,39,59,1.0,10.0,6.48,0.0,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,39,59,1.0,10.0,6.48,-6.43,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,39,59,1.0,10.0,6.48,48.59,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,39,59,1.0,10.0,6.48,17.88,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,39,59,1.0,10.0,6.48,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,39,59,1.0,10.0,6.48,9.84,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,39,59,1.0,10.0,6.48,-3.33,0.97,35.25
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,39,59,1.0,10.0,6.48,12.72,0.48,31.68
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,39,59,1.0,10.0,6.48,21.1,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,39,59,1.0,10.0,6.48,7.01,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,39,59,1.0,10.0,6.48,15.98,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,39,59,1.0,10.0,6.48,-8.67,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,39,59,1.0,10.0,6.48,6.31,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,39,59,1.0,10.0,6.48,7.86,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,120,14,39,59,1.0,10.0,6.48,2.14,2.97,32.98
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,39,59,1.0,10.0,6.48,-14.1,-1.14,35.38
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,39,59,1.0,10.0,6.48,-6.72,-0.36,33.78
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,29,69,1.0,10.0,6.48,-2.04,-1.14,35.38
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,29,69,1.0,10.0,6.48,-6.1,-0.36,33.78
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,29,69,1.0,10.0,6.48,-1.69,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,29,69,1.0,10.0,6.48,1.99,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,29,69,1.0,10.0,6.48,0.38,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,29,69,1.0,10.0,6.48,0.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,29,69,1.0,10.0,6.48,6.84,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,29,69,1.0,10.0,6.48,20.94,2.8,31.97
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,29,69,1.0,10.0,6.48,0.0,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,29,69,1.0,10.0,6.48,0.0,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,29,69,1.0,10.0,6.48,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,29,69,1.0,10.0,6.48,27.23,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,29,69,1.0,10.0,6.48,32.9,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,29,69,1.0,10.0,6.48,0.0,4.82,35.68
+113,JETS.K,US Global Jets ETF,5,60,14,29,69,1.0,10.0,6.48,5.55,2.97,32.98
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,29,69,1.0,10.0,6.48,24.18,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,29,69,1.0,10.0,6.48,0.0,0.93,32.87
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,34,79,1.0,10.0,6.24,0.0,0.0,36.3
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,34,79,1.0,10.0,6.24,5.97,0.69,34.13
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,34,79,1.0,10.0,6.24,-4.84,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,120,14,34,79,1.0,10.0,6.24,2.14,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,34,79,1.0,10.0,6.24,-0.63,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,34,79,1.0,10.0,6.24,8.57,0.32,34.39
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,34,79,1.0,10.0,6.24,12.72,0.48,31.68
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,34,79,1.0,10.0,6.24,3.28,4.16,36.1
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,34,79,1.0,10.0,6.24,41.68,1.86,33.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,34,79,1.0,10.0,6.24,2.47,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,34,79,1.0,10.0,6.24,19.25,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,34,79,1.0,10.0,6.24,-14.1,-1.14,35.38
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,34,79,1.0,10.0,6.24,0.0,0.93,32.87
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,34,79,1.0,10.0,6.24,0.0,0.97,35.25
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,34,79,1.0,10.0,6.24,-2.39,4.82,35.68
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,34,79,1.0,10.0,6.24,0.0,0.78,34.53
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,34,79,1.0,10.0,6.24,31.99,1.58,35.35
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,44,64,1.0,10.0,6.16,-3.6,-0.36,33.78
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,44,64,1.0,10.0,6.16,-14.1,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,44,64,1.0,10.0,6.16,-2.31,0.97,35.25
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,44,64,1.0,10.0,6.16,13.08,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,44,64,1.0,10.0,6.16,-5.57,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,44,64,1.0,10.0,6.16,48.59,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,44,64,1.0,10.0,6.16,-5.73,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,44,64,1.0,10.0,6.16,22.18,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,44,64,1.0,10.0,6.16,9.84,0.78,34.53
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,44,64,1.0,10.0,6.16,12.72,0.48,31.68
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,44,64,1.0,10.0,6.16,19.25,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,44,64,1.0,10.0,6.16,5.28,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,44,64,1.0,10.0,6.16,3.85,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,44,64,1.0,10.0,6.16,0.36,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,44,64,1.0,10.0,6.16,-1.55,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,44,64,1.0,10.0,6.16,0.34,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,120,14,44,64,1.0,10.0,6.16,2.14,2.97,32.98
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,39,64,1.0,10.0,6.1,11.22,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,39,64,1.0,10.0,6.1,0.0,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,39,64,1.0,10.0,6.1,2.47,4.82,35.68
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,39,64,1.0,10.0,6.1,20.94,2.8,31.97
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,39,64,1.0,10.0,6.1,-3.49,0.32,34.39
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,39,64,1.0,10.0,6.1,6.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,39,64,1.0,10.0,6.1,6.22,2.55,37.19
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,39,64,1.0,10.0,6.1,-1.91,3.99,34.33
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,39,64,1.0,10.0,6.1,-15.65,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,39,64,1.0,10.0,6.1,0.23,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,39,64,1.0,10.0,6.1,2.36,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,39,64,1.0,10.0,6.1,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,39,64,1.0,10.0,6.1,22.87,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,39,64,1.0,10.0,6.1,48.13,1.58,35.35
+113,JETS.K,US Global Jets ETF,5,60,14,39,64,1.0,10.0,6.1,9.19,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,39,64,1.0,10.0,6.1,-2.69,-0.36,33.78
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,39,64,1.0,10.0,6.1,-2.27,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,49,54,1.0,10.0,6.03,-17.2,0.32,34.39
+113,JETS.K,US Global Jets ETF,5,120,14,49,54,1.0,10.0,6.03,10.8,2.97,32.98
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,49,54,1.0,10.0,6.03,2.52,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,49,54,1.0,10.0,6.03,8.48,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,49,54,1.0,10.0,6.03,6.46,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,49,54,1.0,10.0,6.03,12.08,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,49,54,1.0,10.0,6.03,-14.1,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,49,54,1.0,10.0,6.03,17.82,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,49,54,1.0,10.0,6.03,14.89,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,49,54,1.0,10.0,6.03,6.43,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,49,54,1.0,10.0,6.03,-10.48,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,49,54,1.0,10.0,6.03,36.71,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,49,54,1.0,10.0,6.03,-8.7,4.82,35.68
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,49,54,1.0,10.0,6.03,0.9,3.99,34.33
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,49,54,1.0,10.0,6.03,14.85,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,49,54,1.0,10.0,6.03,12.66,0.48,31.68
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,49,54,1.0,10.0,6.03,8.33,-0.36,33.78
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,39,64,1.0,10.0,5.99,-3.33,0.97,35.25
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,39,64,1.0,10.0,5.99,2.53,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,39,64,1.0,10.0,5.99,9.8,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,39,64,1.0,10.0,5.99,-6.05,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,39,64,1.0,10.0,5.99,3.85,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,39,64,1.0,10.0,5.99,5.28,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,39,64,1.0,10.0,5.99,19.25,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,39,64,1.0,10.0,5.99,-14.1,-1.14,35.38
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,39,64,1.0,10.0,5.99,9.84,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,39,64,1.0,10.0,5.99,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,39,64,1.0,10.0,5.99,17.88,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,39,64,1.0,10.0,5.99,48.59,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,39,64,1.0,10.0,5.99,-1.85,4.82,35.68
+113,JETS.K,US Global Jets ETF,5,120,14,39,64,1.0,10.0,5.99,2.14,2.97,32.98
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,39,64,1.0,10.0,5.99,0.0,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,39,64,1.0,10.0,5.99,12.72,0.48,31.68
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,39,64,1.0,10.0,5.99,-4.64,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,120,14,39,79,1.0,10.0,5.93,2.14,2.97,32.98
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,39,79,1.0,10.0,5.93,12.72,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,39,79,1.0,10.0,5.93,0.0,0.93,32.87
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,39,79,1.0,10.0,5.93,-6.08,-0.36,33.78
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,39,79,1.0,10.0,5.93,-0.63,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,39,79,1.0,10.0,5.93,8.57,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,39,79,1.0,10.0,5.93,-5.24,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,39,79,1.0,10.0,5.93,3.85,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,39,79,1.0,10.0,5.93,2.47,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,39,79,1.0,10.0,5.93,19.25,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,39,79,1.0,10.0,5.93,-14.1,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,39,79,1.0,10.0,5.93,-3.33,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,39,79,1.0,10.0,5.93,9.84,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,39,79,1.0,10.0,5.93,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,39,79,1.0,10.0,5.93,41.68,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,39,79,1.0,10.0,5.93,31.99,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,39,79,1.0,10.0,5.93,-2.39,4.82,35.68
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,44,64,1.0,10.0,5.86,-1.91,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,60,14,44,64,1.0,10.0,5.86,9.19,2.97,32.98
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,44,64,1.0,10.0,5.86,-15.65,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,44,64,1.0,10.0,5.86,20.94,2.8,31.97
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,44,64,1.0,10.0,5.86,14.99,0.0,36.3
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,44,64,1.0,10.0,5.86,0.23,0.97,35.25
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,44,64,1.0,10.0,5.86,6.22,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,44,64,1.0,10.0,5.86,6.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,44,64,1.0,10.0,5.86,1.57,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,44,64,1.0,10.0,5.86,-4.34,0.32,34.39
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,44,64,1.0,10.0,5.86,-2.25,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,44,64,1.0,10.0,5.86,48.13,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,44,64,1.0,10.0,5.86,-4.82,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,44,64,1.0,10.0,5.86,12.32,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,44,64,1.0,10.0,5.86,11.22,0.48,31.68
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,44,64,1.0,10.0,5.86,-4.58,-0.36,33.78
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,44,64,1.0,10.0,5.86,2.36,0.78,34.53
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,39,79,1.0,10.0,5.47,-6.1,-0.36,33.78
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,39,74,1.0,10.0,5.47,-6.08,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,120,14,39,74,1.0,10.0,5.47,2.14,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,39,74,1.0,10.0,5.47,-0.63,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,39,74,1.0,10.0,5.47,3.27,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,39,74,1.0,10.0,5.47,-5.24,0.69,34.13
+113,JETS.K,US Global Jets ETF,5,60,14,39,79,1.0,10.0,5.47,-2.43,2.97,32.98
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,39,74,1.0,10.0,5.47,3.85,4.16,36.1
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,39,74,1.0,10.0,5.47,31.99,1.58,35.35
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,39,74,1.0,10.0,5.47,19.25,2.8,31.97
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,39,79,1.0,10.0,5.47,-1.05,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,39,79,1.0,10.0,5.47,-0.44,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,39,79,1.0,10.0,5.47,-4.95,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,39,79,1.0,10.0,5.47,6.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,39,79,1.0,10.0,5.47,2.56,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,39,79,1.0,10.0,5.47,20.94,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,39,79,1.0,10.0,5.47,-15.65,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,39,79,1.0,10.0,5.47,0.23,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,39,79,1.0,10.0,5.47,2.36,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,39,79,1.0,10.0,5.47,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,39,79,1.0,10.0,5.47,48.66,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,39,79,1.0,10.0,5.47,32.9,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,39,79,1.0,10.0,5.47,-1.21,4.82,35.68
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,39,74,1.0,10.0,5.47,9.53,2.55,37.19
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,39,79,1.0,10.0,5.47,0.0,0.93,32.87
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,39,74,1.0,10.0,5.47,-14.1,-1.14,35.38
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,39,79,1.0,10.0,5.47,11.22,0.48,31.68
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,39,74,1.0,10.0,5.47,-3.33,0.97,35.25
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,39,74,1.0,10.0,5.47,12.72,0.48,31.68
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,39,74,1.0,10.0,5.47,2.13,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,39,74,1.0,10.0,5.47,0.0,0.93,32.87
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,39,74,1.0,10.0,5.47,27.67,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,39,74,1.0,10.0,5.47,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,39,74,1.0,10.0,5.47,9.84,0.78,34.53
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,44,79,1.0,10.0,5.39,7.16,1.86,33.1
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,44,79,1.0,10.0,5.39,3.85,4.16,36.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,44,79,1.0,10.0,5.39,22.18,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,44,79,1.0,10.0,5.39,9.84,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,44,79,1.0,10.0,5.39,-2.31,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,44,79,1.0,10.0,5.39,-14.1,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,44,79,1.0,10.0,5.39,19.25,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,44,79,1.0,10.0,5.39,2.47,2.55,37.19
+113,JETS.K,US Global Jets ETF,5,120,14,44,79,1.0,10.0,5.39,2.14,2.97,32.98
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,44,79,1.0,10.0,5.39,-5.24,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,44,79,1.0,10.0,5.39,0.3,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,44,79,1.0,10.0,5.39,-0.63,3.99,34.33
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,44,79,1.0,10.0,5.39,-6.08,-0.36,33.78
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,44,79,1.0,10.0,5.39,13.08,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,44,79,1.0,10.0,5.39,12.72,0.48,31.68
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,44,79,1.0,10.0,5.39,31.99,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,44,79,1.0,10.0,5.39,-4.99,4.82,35.68
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,44,74,1.0,10.0,5.22,-14.1,-1.14,35.38
+113,JETS.K,US Global Jets ETF,5,120,14,44,74,1.0,10.0,5.22,2.14,2.97,32.98
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,44,74,1.0,10.0,5.22,-2.31,0.97,35.25
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,44,74,1.0,10.0,5.22,-0.63,3.99,34.33
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,44,74,1.0,10.0,5.22,-6.08,-0.36,33.78
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,44,74,1.0,10.0,5.22,-4.53,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,44,74,1.0,10.0,5.22,-5.24,0.69,34.13
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,44,74,1.0,10.0,5.22,9.53,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,44,74,1.0,10.0,5.22,19.25,2.8,31.97
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,44,74,1.0,10.0,5.22,3.85,4.16,36.1
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,44,74,1.0,10.0,5.22,9.84,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,44,74,1.0,10.0,5.22,22.18,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,44,74,1.0,10.0,5.22,-0.32,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,44,74,1.0,10.0,5.22,31.99,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,44,74,1.0,10.0,5.22,-2.64,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,44,74,1.0,10.0,5.22,13.08,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,44,74,1.0,10.0,5.22,12.72,0.48,31.68
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,39,69,1.0,10.0,5.21,20.94,2.8,31.97
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,39,69,1.0,10.0,5.21,2.47,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,39,69,1.0,10.0,5.21,32.9,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,39,69,1.0,10.0,5.21,27.23,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,39,69,1.0,10.0,5.21,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,39,69,1.0,10.0,5.21,2.36,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,39,69,1.0,10.0,5.21,0.23,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,39,69,1.0,10.0,5.21,-15.65,-1.14,35.38
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,39,69,1.0,10.0,5.21,11.22,0.48,31.68
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,39,69,1.0,10.0,5.21,10.23,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,39,69,1.0,10.0,5.21,6.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,39,69,1.0,10.0,5.21,-4.95,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,39,69,1.0,10.0,5.21,-6.35,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,39,69,1.0,10.0,5.21,-2.36,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,60,14,39,69,1.0,10.0,5.21,10.46,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,39,69,1.0,10.0,5.21,-6.1,-0.36,33.78
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,39,69,1.0,10.0,5.21,0.0,0.93,32.87
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,39,74,1.0,10.0,5.18,6.0,4.16,36.1
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,39,74,1.0,10.0,5.18,-6.1,-0.36,33.78
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,39,74,1.0,10.0,5.18,0.23,0.97,35.25
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,39,74,1.0,10.0,5.18,11.22,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,39,74,1.0,10.0,5.18,0.0,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,39,74,1.0,10.0,5.18,6.06,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,39,74,1.0,10.0,5.18,32.9,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,39,74,1.0,10.0,5.18,33.42,1.86,33.1
+113,JETS.K,US Global Jets ETF,5,60,14,39,74,1.0,10.0,5.18,-2.43,2.97,32.98
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,39,74,1.0,10.0,5.18,2.36,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,39,74,1.0,10.0,5.18,0.0,0.0,36.3
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,39,74,1.0,10.0,5.18,-15.65,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,39,74,1.0,10.0,5.18,20.94,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,39,74,1.0,10.0,5.18,10.23,2.55,37.19
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,39,74,1.0,10.0,5.18,-4.95,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,39,74,1.0,10.0,5.18,-5.05,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,39,74,1.0,10.0,5.18,-1.05,3.99,34.33
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,44,69,1.0,10.0,4.76,2.36,0.78,34.53
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,44,69,1.0,10.0,4.76,11.22,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,44,69,1.0,10.0,4.76,12.32,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,44,69,1.0,10.0,4.76,-4.82,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,44,69,1.0,10.0,4.76,32.9,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,44,69,1.0,10.0,4.76,0.09,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,44,69,1.0,10.0,4.76,14.99,0.0,36.3
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,44,69,1.0,10.0,4.76,-6.96,0.32,34.39
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,44,69,1.0,10.0,4.76,0.23,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,44,69,1.0,10.0,4.76,-15.65,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,44,69,1.0,10.0,4.76,20.94,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,44,69,1.0,10.0,4.76,10.23,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,44,69,1.0,10.0,4.76,6.0,4.16,36.1
+113,JETS.K,US Global Jets ETF,5,60,14,44,69,1.0,10.0,4.76,10.46,2.97,32.98
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,44,69,1.0,10.0,4.76,-4.91,0.69,34.13
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,44,69,1.0,10.0,4.76,-6.1,-0.36,33.78
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,44,69,1.0,10.0,4.76,-2.36,3.99,34.33
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,39,69,1.0,10.0,4.74,12.72,0.48,31.68
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,39,69,1.0,10.0,4.74,19.25,2.8,31.97
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,39,69,1.0,10.0,4.74,0.0,0.93,32.87
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,39,69,1.0,10.0,4.74,31.99,1.58,35.35
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,39,69,1.0,10.0,4.74,-6.08,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,120,14,39,69,1.0,10.0,4.74,2.14,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,39,69,1.0,10.0,4.74,-1.93,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,39,69,1.0,10.0,4.74,1.77,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,39,69,1.0,10.0,4.74,-5.24,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,39,69,1.0,10.0,4.74,3.85,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,39,69,1.0,10.0,4.74,9.53,2.55,37.19
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,39,69,1.0,10.0,4.74,-14.1,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,39,69,1.0,10.0,4.74,-3.33,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,39,69,1.0,10.0,4.74,9.84,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,39,69,1.0,10.0,4.74,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,39,69,1.0,10.0,4.74,21.97,1.86,33.1
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,39,69,1.0,10.0,4.74,-1.85,4.82,35.68
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,44,69,1.0,10.0,4.71,22.18,0.0,36.3
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,44,69,1.0,10.0,4.71,-5.89,0.32,34.39
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,44,69,1.0,10.0,4.71,-6.08,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,120,14,44,69,1.0,10.0,4.71,2.14,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,44,69,1.0,10.0,4.71,-1.93,3.99,34.33
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,44,69,1.0,10.0,4.71,12.72,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,44,69,1.0,10.0,4.71,13.08,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,44,69,1.0,10.0,4.71,-5.57,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,44,69,1.0,10.0,4.71,31.99,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,44,69,1.0,10.0,4.71,-3.39,1.86,33.1
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,44,69,1.0,10.0,4.71,9.84,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,44,69,1.0,10.0,4.71,-2.31,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,44,69,1.0,10.0,4.71,-14.1,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,44,69,1.0,10.0,4.71,19.25,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,44,69,1.0,10.0,4.71,9.53,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,44,69,1.0,10.0,4.71,3.85,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,44,69,1.0,10.0,4.71,-5.24,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,44,79,1.0,10.0,4.55,-1.33,0.32,34.39
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,44,79,1.0,10.0,4.55,14.99,0.0,36.3
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,44,79,1.0,10.0,4.55,-15.65,-1.14,35.38
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,44,79,1.0,10.0,4.55,2.56,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,44,79,1.0,10.0,4.55,6.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,44,79,1.0,10.0,4.55,-4.91,0.69,34.13
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,44,79,1.0,10.0,4.55,0.23,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,44,79,1.0,10.0,4.55,2.36,0.78,34.53
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,44,79,1.0,10.0,4.55,10.76,1.86,33.1
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,44,79,1.0,10.0,4.55,-1.05,3.99,34.33
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,44,79,1.0,10.0,4.55,32.9,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,44,79,1.0,10.0,4.55,-5.52,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,44,79,1.0,10.0,4.55,12.32,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,44,79,1.0,10.0,4.55,11.22,0.48,31.68
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,44,79,1.0,10.0,4.55,-6.1,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,60,14,44,79,1.0,10.0,4.55,-2.43,2.97,32.98
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,44,79,1.0,10.0,4.55,20.94,2.8,31.97
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,24,64,1.0,10.0,4.53,0.0,0.48,31.68
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,24,64,1.0,10.0,4.53,-4.73,-0.36,33.78
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,24,64,1.0,10.0,4.53,48.13,1.58,35.35
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,24,64,1.0,10.0,4.53,0.0,0.93,32.87
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,24,64,1.0,10.0,4.53,0.0,1.86,33.1
+113,JETS.K,US Global Jets ETF,5,60,14,24,64,1.0,10.0,4.53,0.0,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,24,64,1.0,10.0,4.53,0.0,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,24,64,1.0,10.0,4.53,11.23,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,24,64,1.0,10.0,4.53,0.0,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,24,64,1.0,10.0,4.53,0.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,24,64,1.0,10.0,4.53,1.4,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,24,64,1.0,10.0,4.53,20.94,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,24,64,1.0,10.0,4.53,0.0,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,24,64,1.0,10.0,4.53,0.0,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,24,64,1.0,10.0,4.53,0.0,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,24,64,1.0,10.0,4.53,0.0,0.0,36.3
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,24,64,1.0,10.0,4.53,0.0,4.82,35.68
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,44,74,1.0,10.0,4.47,14.99,0.0,36.3
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,44,74,1.0,10.0,4.47,-6.1,-0.36,33.78
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,44,74,1.0,10.0,4.47,0.23,0.97,35.25
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,44,74,1.0,10.0,4.47,11.22,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,44,74,1.0,10.0,4.47,12.32,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,44,74,1.0,10.0,4.47,-2.46,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,44,74,1.0,10.0,4.47,32.9,1.58,35.35
+113,JETS.K,US Global Jets ETF,5,60,14,44,74,1.0,10.0,4.47,-2.43,2.97,32.98
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,44,74,1.0,10.0,4.47,2.36,0.78,34.53
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,44,74,1.0,10.0,4.47,3.19,1.86,33.1
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,44,74,1.0,10.0,4.47,-15.65,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,44,74,1.0,10.0,4.47,20.94,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,44,74,1.0,10.0,4.47,10.23,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,44,74,1.0,10.0,4.47,6.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,44,74,1.0,10.0,4.47,-4.91,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,44,74,1.0,10.0,4.47,-5.73,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,44,74,1.0,10.0,4.47,-1.05,3.99,34.33
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,24,59,1.0,10.0,4.41,-6.74,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,60,14,24,59,1.0,10.0,4.41,0.0,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,24,59,1.0,10.0,4.41,0.0,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,24,59,1.0,10.0,4.41,11.23,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,24,59,1.0,10.0,4.41,0.0,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,24,59,1.0,10.0,4.41,0.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,24,59,1.0,10.0,4.41,-0.68,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,24,59,1.0,10.0,4.41,23.03,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,24,59,1.0,10.0,4.41,0.0,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,24,59,1.0,10.0,4.41,0.0,0.97,35.25
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,24,59,1.0,10.0,4.41,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,24,59,1.0,10.0,4.41,0.0,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,24,59,1.0,10.0,4.41,48.13,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,24,59,1.0,10.0,4.41,0.0,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,24,59,1.0,10.0,4.41,0.0,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,24,59,1.0,10.0,4.41,0.0,0.48,31.68
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,24,59,1.0,10.0,4.41,0.0,0.78,34.53
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,49,64,1.0,10.0,4.11,2.45,2.55,37.19
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,49,64,1.0,10.0,4.11,48.59,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,49,64,1.0,10.0,4.11,-10.69,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,49,64,1.0,10.0,4.11,10.83,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,49,64,1.0,10.0,4.11,9.84,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,49,64,1.0,10.0,4.11,-2.31,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,49,64,1.0,10.0,4.11,-14.1,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,49,64,1.0,10.0,4.11,19.25,2.8,31.97
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,49,64,1.0,10.0,4.11,-1.26,3.99,34.33
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,49,64,1.0,10.0,4.11,3.85,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,49,64,1.0,10.0,4.11,0.36,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,49,64,1.0,10.0,4.11,-6.64,0.32,34.39
+113,JETS.K,US Global Jets ETF,5,120,14,49,64,1.0,10.0,4.11,-5.34,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,49,64,1.0,10.0,4.11,-4.5,-0.36,33.78
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,49,64,1.0,10.0,4.11,12.72,0.48,31.68
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,49,64,1.0,10.0,4.11,-6.3,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,49,64,1.0,10.0,4.11,13.08,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,49,79,1.0,10.0,3.8,12.72,0.48,31.68
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,49,79,1.0,10.0,3.8,-14.1,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,49,79,1.0,10.0,3.8,19.25,2.8,31.97
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,49,79,1.0,10.0,3.8,31.99,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,49,79,1.0,10.0,3.8,0.07,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,49,79,1.0,10.0,3.8,10.83,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,49,79,1.0,10.0,3.8,9.84,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,49,79,1.0,10.0,3.8,-2.31,0.97,35.25
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,49,79,1.0,10.0,3.8,-6.08,-0.36,33.78
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,49,79,1.0,10.0,3.8,2.47,2.55,37.19
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,49,79,1.0,10.0,3.8,13.08,0.93,32.87
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,49,79,1.0,10.0,3.8,3.85,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,49,79,1.0,10.0,3.8,-5.24,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,49,79,1.0,10.0,3.8,-2.85,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,49,79,1.0,10.0,3.8,-0.63,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,120,14,49,79,1.0,10.0,3.8,-2.72,2.97,32.98
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,49,79,1.0,10.0,3.8,-5.62,4.82,35.68
+113,JETS.K,US Global Jets ETF,5,120,14,49,59,1.0,10.0,3.73,-5.93,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,49,59,1.0,10.0,3.73,-2.61,-0.36,33.78
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,49,59,1.0,10.0,3.73,12.72,0.48,31.68
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,49,59,1.0,10.0,3.73,-14.1,-1.14,35.38
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,49,59,1.0,10.0,3.73,13.08,0.93,32.87
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,49,59,1.0,10.0,3.73,-11.31,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,49,59,1.0,10.0,3.73,-0.05,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,49,59,1.0,10.0,3.73,9.35,4.16,36.1
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,49,59,1.0,10.0,3.73,-3.77,3.99,34.33
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,49,59,1.0,10.0,3.73,21.1,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,49,59,1.0,10.0,3.73,1.79,2.55,37.19
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,49,59,1.0,10.0,3.73,-2.31,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,49,59,1.0,10.0,3.73,9.84,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,49,59,1.0,10.0,3.73,6.53,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,49,59,1.0,10.0,3.73,-10.69,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,49,59,1.0,10.0,3.73,48.59,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,49,59,1.0,10.0,3.73,-8.82,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,49,59,1.0,10.0,3.72,12.32,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,49,59,1.0,10.0,3.72,-7.26,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,49,59,1.0,10.0,3.72,48.13,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,49,59,1.0,10.0,3.72,-7.17,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,49,59,1.0,10.0,3.72,11.59,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,49,59,1.0,10.0,3.72,-9.91,0.78,34.53
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,49,59,1.0,10.0,3.72,-3.88,3.99,34.33
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,49,59,1.0,10.0,3.72,-15.65,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,49,59,1.0,10.0,3.72,23.03,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,49,59,1.0,10.0,3.72,2.23,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,49,59,1.0,10.0,3.72,12.2,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,49,59,1.0,10.0,3.72,2.09,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,49,59,1.0,10.0,3.72,-10.71,0.32,34.39
+113,JETS.K,US Global Jets ETF,5,60,14,49,59,1.0,10.0,3.72,-5.27,2.97,32.98
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,49,59,1.0,10.0,3.72,11.22,0.48,31.68
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,49,59,1.0,10.0,3.72,2.09,0.97,35.25
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,49,59,1.0,10.0,3.72,-1.81,-0.36,33.78
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,49,74,1.0,10.0,3.48,31.99,1.58,35.35
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,49,74,1.0,10.0,3.48,12.72,0.48,31.68
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,49,74,1.0,10.0,3.48,-6.08,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,120,14,49,74,1.0,10.0,3.48,-2.72,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,49,74,1.0,10.0,3.48,-0.63,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,49,74,1.0,10.0,3.48,-7.31,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,49,74,1.0,10.0,3.48,-5.24,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,49,74,1.0,10.0,3.48,3.85,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,49,74,1.0,10.0,3.48,5.95,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,49,74,1.0,10.0,3.48,19.25,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,49,74,1.0,10.0,3.48,-14.1,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,49,74,1.0,10.0,3.48,-2.31,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,49,74,1.0,10.0,3.48,9.84,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,49,74,1.0,10.0,3.48,10.83,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,49,74,1.0,10.0,3.48,-6.15,1.86,33.1
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,49,74,1.0,10.0,3.48,13.08,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,49,74,1.0,10.0,3.48,-3.78,4.82,35.68
+113,JETS.K,US Global Jets ETF,5,60,14,24,79,1.0,10.0,3.47,0.0,2.97,32.98
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,24,79,1.0,10.0,3.47,0.0,0.78,34.53
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,24,79,1.0,10.0,3.47,0.0,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,24,79,1.0,10.0,3.47,0.0,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,24,79,1.0,10.0,3.47,0.0,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,24,79,1.0,10.0,3.47,32.9,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,24,79,1.0,10.0,3.47,0.0,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,24,79,1.0,10.0,3.47,0.0,0.0,36.3
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,24,79,1.0,10.0,3.47,0.0,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,24,79,1.0,10.0,3.47,0.0,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,24,79,1.0,10.0,3.47,20.94,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,24,79,1.0,10.0,3.47,2.56,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,24,79,1.0,10.0,3.47,0.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,24,79,1.0,10.0,3.47,0.0,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,24,79,1.0,10.0,3.47,8.75,0.32,34.39
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,24,79,1.0,10.0,3.47,-6.1,-0.36,33.78
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,24,79,1.0,10.0,3.47,0.0,3.99,34.33
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,24,74,1.0,10.0,3.42,0.0,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,24,74,1.0,10.0,3.42,0.0,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,24,74,1.0,10.0,3.42,32.9,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,24,74,1.0,10.0,3.42,0.0,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,24,74,1.0,10.0,3.42,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,24,74,1.0,10.0,3.42,0.0,0.78,34.53
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,24,74,1.0,10.0,3.42,0.0,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,24,74,1.0,10.0,3.42,20.94,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,24,74,1.0,10.0,3.42,6.84,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,24,74,1.0,10.0,3.42,0.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,24,74,1.0,10.0,3.42,0.0,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,24,74,1.0,10.0,3.42,3.48,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,24,74,1.0,10.0,3.42,0.0,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,60,14,24,74,1.0,10.0,3.42,0.0,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,24,74,1.0,10.0,3.42,-6.1,-0.36,33.78
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,24,74,1.0,10.0,3.42,0.0,0.48,31.68
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,24,74,1.0,10.0,3.42,0.0,0.97,35.25
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,24,69,1.0,10.0,3.33,0.0,0.97,35.25
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,24,69,1.0,10.0,3.33,20.94,2.8,31.97
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,24,69,1.0,10.0,3.33,0.0,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,24,69,1.0,10.0,3.33,32.9,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,24,69,1.0,10.0,3.33,0.0,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,24,69,1.0,10.0,3.33,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,24,69,1.0,10.0,3.33,0.0,0.78,34.53
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,24,69,1.0,10.0,3.33,0.0,-1.14,35.38
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,24,69,1.0,10.0,3.33,6.84,2.55,37.19
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,24,69,1.0,10.0,3.33,0.0,0.48,31.68
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,24,69,1.0,10.0,3.33,0.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,24,69,1.0,10.0,3.33,0.0,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,24,69,1.0,10.0,3.33,1.99,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,24,69,1.0,10.0,3.33,0.0,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,60,14,24,69,1.0,10.0,3.33,0.0,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,24,69,1.0,10.0,3.33,-6.1,-0.36,33.78
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,24,69,1.0,10.0,3.33,0.0,0.93,32.87
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,49,64,1.0,10.0,3.23,-1.91,3.99,34.33
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,49,64,1.0,10.0,3.23,-4.58,-0.36,33.78
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,49,64,1.0,10.0,3.23,-9.91,0.78,34.53
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,49,64,1.0,10.0,3.23,-6.95,0.32,34.39
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,49,64,1.0,10.0,3.23,12.32,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,49,64,1.0,10.0,3.23,-4.82,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,49,64,1.0,10.0,3.23,48.13,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,49,64,1.0,10.0,3.23,-7.17,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,49,64,1.0,10.0,3.23,14.99,0.0,36.3
+113,JETS.K,US Global Jets ETF,5,60,14,49,64,1.0,10.0,3.23,-4.72,2.97,32.98
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,49,64,1.0,10.0,3.23,11.22,0.48,31.68
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,49,64,1.0,10.0,3.23,-7.12,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,49,64,1.0,10.0,3.23,-15.65,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,49,64,1.0,10.0,3.23,20.94,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,49,64,1.0,10.0,3.23,2.55,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,49,64,1.0,10.0,3.23,6.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,49,64,1.0,10.0,3.23,1.57,0.69,34.13
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,49,69,1.0,10.0,2.99,19.25,2.8,31.97
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,49,69,1.0,10.0,2.99,-6.08,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,120,14,49,69,1.0,10.0,2.99,-3.49,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,49,69,1.0,10.0,2.99,-1.93,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,49,69,1.0,10.0,2.99,-8.56,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,49,69,1.0,10.0,2.99,-5.24,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,49,69,1.0,10.0,2.99,3.85,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,49,69,1.0,10.0,2.99,5.95,2.55,37.19
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,49,69,1.0,10.0,2.99,9.84,0.78,34.53
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,49,69,1.0,10.0,2.99,-14.1,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,49,69,1.0,10.0,2.99,-2.31,0.97,35.25
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,49,69,1.0,10.0,2.99,12.72,0.48,31.68
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,49,69,1.0,10.0,2.99,10.83,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,49,69,1.0,10.0,2.99,-8.71,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,49,69,1.0,10.0,2.99,31.99,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,49,69,1.0,10.0,2.99,-6.3,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,49,69,1.0,10.0,2.99,13.08,0.93,32.87
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,24,54,1.0,10.0,2.99,-5.4,-0.36,33.78
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,24,54,1.0,10.0,2.99,0.0,0.48,31.68
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,24,54,1.0,10.0,2.99,0.0,0.97,35.25
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,24,54,1.0,10.0,2.99,0.0,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,24,54,1.0,10.0,2.99,0.0,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,24,54,1.0,10.0,2.99,37.55,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,24,54,1.0,10.0,2.99,0.0,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,24,54,1.0,10.0,2.99,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,24,54,1.0,10.0,2.99,0.0,0.78,34.53
+113,JETS.K,US Global Jets ETF,5,60,14,24,54,1.0,10.0,2.99,0.0,2.97,32.98
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,24,54,1.0,10.0,2.99,0.0,-1.14,35.38
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,24,54,1.0,10.0,2.99,-0.68,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,24,54,1.0,10.0,2.99,0.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,24,54,1.0,10.0,2.99,0.0,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,24,54,1.0,10.0,2.99,4.89,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,24,54,1.0,10.0,2.99,0.0,3.99,34.33
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,24,54,1.0,10.0,2.99,14.48,2.8,31.97
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,0.78,34.53
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,24,64,1.0,10.0,2.93,48.59,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,0.0,36.3
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,24,64,1.0,10.0,2.93,1.2,2.55,37.19
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,2.8,31.97
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,0.32,34.39
+113,JETS.K,US Global Jets ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,-0.36,33.78
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,24,64,1.0,10.0,2.93,0.0,3.99,34.33
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,49,79,1.0,10.0,2.85,12.32,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,49,79,1.0,10.0,2.85,-5.52,4.82,35.68
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,49,79,1.0,10.0,2.85,-6.1,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,60,14,49,79,1.0,10.0,2.85,-2.43,2.97,32.98
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,49,79,1.0,10.0,2.85,-1.05,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,49,79,1.0,10.0,2.85,-3.69,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,49,79,1.0,10.0,2.85,-4.91,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,49,79,1.0,10.0,2.85,6.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,49,79,1.0,10.0,2.85,2.56,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,49,79,1.0,10.0,2.85,20.94,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,49,79,1.0,10.0,2.85,-15.65,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,49,79,1.0,10.0,2.85,-7.12,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,49,79,1.0,10.0,2.85,-9.91,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,49,79,1.0,10.0,2.85,14.99,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,49,79,1.0,10.0,2.85,3.95,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,49,79,1.0,10.0,2.85,32.9,1.58,35.35
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,49,79,1.0,10.0,2.85,11.22,0.48,31.68
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,0.48,31.68
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,24,59,1.0,10.0,2.78,48.59,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,24,59,1.0,10.0,2.78,-1.35,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,2.97,32.98
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,0.93,32.87
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,24,59,1.0,10.0,2.78,0.0,-0.36,33.78
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,49,74,1.0,10.0,2.59,-6.1,-0.36,33.78
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,49,74,1.0,10.0,2.59,11.22,0.48,31.68
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,49,74,1.0,10.0,2.59,-1.05,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,49,74,1.0,10.0,2.59,-7.98,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,49,74,1.0,10.0,2.59,-4.91,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,49,74,1.0,10.0,2.59,6.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,49,74,1.0,10.0,2.59,5.84,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,49,74,1.0,10.0,2.59,20.94,2.8,31.97
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,49,74,1.0,10.0,2.59,-15.65,-1.14,35.38
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,49,74,1.0,10.0,2.59,-7.12,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,49,74,1.0,10.0,2.59,-9.91,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,49,74,1.0,10.0,2.59,14.99,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,49,74,1.0,10.0,2.59,-2.5,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,49,74,1.0,10.0,2.59,32.9,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,49,74,1.0,10.0,2.59,-2.46,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,49,74,1.0,10.0,2.59,12.32,0.93,32.87
+113,JETS.K,US Global Jets ETF,5,60,14,49,74,1.0,10.0,2.59,-2.43,2.97,32.98
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,2.8,31.97
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,1.86,33.1
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,1.86,33.1
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,24,74,1.0,10.0,2.29,31.99,1.58,35.35
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,24,69,1.0,10.0,2.29,31.99,1.58,35.35
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,0.0,36.3
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,-1.14,35.38
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,24,69,1.0,10.0,2.29,6.87,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,2.97,32.98
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,0.97,35.25
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,0.48,31.68
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,24,74,1.0,10.0,2.29,0.0,-0.36,33.78
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,24,69,1.0,10.0,2.29,0.0,-0.36,33.78
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,24,74,1.0,10.0,2.29,6.87,2.55,37.19
+113,JETS.K,US Global Jets ETF,5,60,14,49,69,1.0,10.0,2.12,-3.0,2.97,32.98
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,60,14,49,69,1.0,10.0,2.12,-15.65,-1.14,35.38
+113,TUR.O,iShares MSCI Turkey ETF,5,60,14,49,69,1.0,10.0,2.12,-2.36,3.99,34.33
+113,PBW,Invesco WilderHill Clean Energy ETF,5,60,14,49,69,1.0,10.0,2.12,-9.18,0.32,34.39
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,60,14,49,69,1.0,10.0,2.12,-4.91,0.69,34.13
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,60,14,49,69,1.0,10.0,2.12,6.0,4.16,36.1
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,60,14,49,69,1.0,10.0,2.12,5.84,2.55,37.19
+113,BUZZ.K,VanEck Social Sentiment ETF,5,60,14,49,69,1.0,10.0,2.12,20.94,2.8,31.97
+113,DAT,ProShares Big Data Refiners ETF,5,60,14,49,69,1.0,10.0,2.12,32.9,1.58,35.35
+113,FLBR.K,Franklin FTSE Brazil ETF,5,60,14,49,69,1.0,10.0,2.12,-7.12,0.97,35.25
+113,AWAY.K,Amplify Travel Tech ETF,5,60,14,49,69,1.0,10.0,2.12,-9.91,0.78,34.53
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,60,14,49,69,1.0,10.0,2.12,14.99,0.0,36.3
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,60,14,49,69,1.0,10.0,2.12,-5.14,1.86,33.1
+113,CNXT.K,VanEck ChiNext ETF,5,60,14,49,69,1.0,10.0,2.12,-4.82,4.82,35.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,60,14,49,69,1.0,10.0,2.12,12.32,0.93,32.87
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,60,14,49,69,1.0,10.0,2.12,11.22,0.48,31.68
+113,EWZ,Ishares Msci Brazil ETF,5,60,14,49,69,1.0,10.0,2.12,-6.1,-0.36,33.78
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,-0.36,33.78
+113,JETS.K,US Global Jets ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,2.97,32.98
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,0.78,34.53
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,3.99,34.33
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,0.48,31.68
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,0.93,32.87
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,4.82,35.68
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,0.0,36.3
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,24,54,1.0,10.0,2.08,36.71,1.58,35.35
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,-1.14,35.38
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,2.8,31.97
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,24,54,1.0,10.0,2.08,-1.35,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,24,54,1.0,10.0,2.08,0.0,0.32,34.39
+113,BUZZ.K,VanEck Social Sentiment ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,2.8,31.97
+113,CNXT.K,VanEck ChiNext ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,4.82,35.68
+113,DAT,ProShares Big Data Refiners ETF,5,120,14,24,79,1.0,10.0,2.03,31.99,1.58,35.35
+113,KGRN.K,KraneShares MSCI China Clean Technology Index ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,1.86,33.1
+113,GBUY.K,Goldman Sachs Future Consumer Equity ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,0.0,36.3
+113,AWAY.K,Amplify Travel Tech ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,0.78,34.53
+113,FLBR.K,Franklin FTSE Brazil ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,0.97,35.25
+113,GNOM.O,Global X Genomics And Biotechnology ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,-1.14,35.38
+113,ISHP.O,First Trust S-Network E-Commerce ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,0.93,32.87
+113,RING.O,iShares MSCI Global Gold Miners ETF,5,120,14,24,79,1.0,10.0,2.03,2.47,2.55,37.19
+113,PFFA.K,Virtus InfraCap US Preferred Stock ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,4.16,36.1
+113,EWZS.O,iShares MSCI Brazil Small-Cap ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,0.69,34.13
+113,PBW,Invesco WilderHill Clean Energy ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,0.32,34.39
+113,TUR.O,iShares MSCI Turkey ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,3.99,34.33
+113,JETS.K,US Global Jets ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,2.97,32.98
+113,EWZ,Ishares Msci Brazil ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,-0.36,33.78
+113,MVPS.K,Amplify Thematic All-Stars ETF,5,120,14,24,79,1.0,10.0,2.03,0.0,0.48,31.68

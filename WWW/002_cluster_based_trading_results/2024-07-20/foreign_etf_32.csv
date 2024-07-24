@@ -1,0 +1,1297 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,24,54,1.0,10.0,0.0,0,35.35,18.57
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,29,79,1.0,10.0,0.0,0,37.24,17.5
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,34,54,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,34,54,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,34,54,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,34,54,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,34,54,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,29,79,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,29,79,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,29,79,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,29,79,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,29,79,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,29,79,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,29,79,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,29,79,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,29,79,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0,32.19,19.95
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,34,54,1.0,10.0,0.0,0,31.61,14.77
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,34,54,1.0,10.0,0.0,0,31.73,16.2
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,34,59,1.0,10.0,0.0,0,35.35,18.57
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,34,59,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,34,59,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,34,59,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,34,59,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,34,59,1.0,10.0,0.0,0,30.3,15.93
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.36,15.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,34,54,1.0,10.0,0.0,0,32.64,14.34
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,34,54,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,34,54,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,34,54,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,34,54,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.67,18.98
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0,32.19,19.95
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0,33.91,14.83
+32,INDE.K,Matthews India Active ETF,5,60,14,24,54,1.0,10.0,0.0,0,30.3,15.93
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,29,79,1.0,10.0,0.0,0,36.76,17.72
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,29,74,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,29,69,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,29,69,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,29,69,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,29,69,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,29,69,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,29,69,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,29,69,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,29,69,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,29,69,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,29,69,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,29,74,1.0,10.0,0.0,0,30.3,15.93
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,29,74,1.0,10.0,0.0,0,34.31,18.37
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,29,74,1.0,10.0,0.0,0,36.76,17.72
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,29,74,1.0,10.0,0.0,0,35.39,14.48
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,29,79,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,29,79,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,29,79,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,29,74,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,29,74,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0,34.21,16.64
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.39,17.42
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.91,14.83
+32,NITE.K,The Nightview Fund,5,120,14,29,74,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,29,74,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,29,74,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,29,74,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,29,74,1.0,10.0,0.0,0,37.24,17.5
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,34,59,1.0,10.0,0.0,0,31.73,16.2
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,34,59,1.0,10.0,0.0,0,32.64,14.34
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.67,18.98
+32,NITE.K,The Nightview Fund,5,120,14,34,59,1.0,10.0,0.0,0,34.28,19.32
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,34,74,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,34,74,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,34,74,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,34,74,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,34,74,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,34,74,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,34,74,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,34,74,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,34,74,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,34,74,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,34,69,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,34,74,1.0,10.0,0.0,0,30.97,15.96
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,34,74,1.0,10.0,0.0,0,34.42,19.01
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.36,15.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,34,79,1.0,10.0,0.0,0,32.64,14.34
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,34,79,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,34,79,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,34,79,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,34,79,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,34,79,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0,33.67,18.98
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,34,79,1.0,10.0,0.0,0,31.73,16.2
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,34,79,1.0,10.0,0.0,0,35.35,18.57
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,34,79,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,34,79,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,34,79,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,34,79,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,34,79,1.0,10.0,0.0,0,30.3,15.93
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,34,69,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,34,69,1.0,10.0,0.0,0,35.39,14.48
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,34,64,1.0,10.0,0.0,0,34.31,18.37
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,34,64,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,34,64,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,34,64,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,34,64,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,34,64,1.0,10.0,0.0,0,36.76,17.72
+32,INDE.K,Matthews India Active ETF,5,120,14,34,64,1.0,10.0,0.0,0,30.3,15.93
+32,NITE.K,The Nightview Fund,5,120,14,34,64,1.0,10.0,0.0,0,34.28,19.32
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,34,64,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,34,59,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,34,59,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,34,59,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.39,17.42
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.67,18.98
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.39,17.42
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.39,17.42
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.91,14.83
+32,NITE.K,The Nightview Fund,5,120,14,34,69,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,34,69,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,34,69,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,34,69,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,34,69,1.0,10.0,0.0,0,37.24,17.5
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,34,69,1.0,10.0,0.0,0,36.76,17.72
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,34,64,1.0,10.0,0.0,0,35.39,14.48
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,34,69,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,34,69,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,34,69,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,34,64,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,34,64,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0,34.21,16.64
+32,INDE.K,Matthews India Active ETF,5,120,14,29,69,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,29,69,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.36,15.32
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,24,74,1.0,10.0,0.0,0,31.73,16.2
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,24,69,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,24,69,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,24,69,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,24,69,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,24,64,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,24,64,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,24,64,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,24,64,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,24,64,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,24,64,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,24,64,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,24,64,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,24,64,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,24,69,1.0,10.0,0.0,0,37.24,17.5
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0,32.19,19.95
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,24,69,1.0,10.0,0.0,0,31.61,14.77
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,24,69,1.0,10.0,0.0,0,33.36,15.32
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,24,74,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,24,74,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,24,74,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,24,74,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,24,74,1.0,10.0,0.0,0,35.35,18.57
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,24,69,1.0,10.0,0.0,0,34.42,19.01
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,24,69,1.0,10.0,0.0,0,31.73,16.2
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,24,69,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,24,69,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,24,69,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,24,69,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,24,69,1.0,10.0,0.0,0,32.64,14.34
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,24,64,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,24,64,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0,33.67,18.98
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,24,54,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,24,54,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,24,54,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,24,54,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,24,54,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,24,54,1.0,10.0,0.0,0,34.28,19.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,24,54,1.0,10.0,0.0,0,32.64,14.34
+32,INDE.K,Matthews India Active ETF,5,120,14,24,59,1.0,10.0,0.0,0,30.3,15.93
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,24,54,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,24,54,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,24,54,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,24,54,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,24,54,1.0,10.0,0.0,0,34.31,18.37
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,24,59,1.0,10.0,0.0,0,35.35,18.57
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,24,59,1.0,10.0,0.0,0,34.31,18.37
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,24,64,1.0,10.0,0.0,0,34.31,18.37
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,24,59,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,120,14,24,64,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,24,64,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,24,59,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,24,59,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,24,59,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,24,59,1.0,10.0,0.0,0,35.39,14.48
+32,NITE.K,The Nightview Fund,5,120,14,24,59,1.0,10.0,0.0,0,34.28,19.32
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,24,59,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,24,59,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,24,59,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,24,59,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,24,59,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0,33.91,14.83
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,24,74,1.0,10.0,0.0,0,31.61,14.77
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,24,74,1.0,10.0,0.0,0,32.64,14.34
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,29,64,1.0,10.0,0.0,0,34.42,19.01
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0,33.67,18.98
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,29,59,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,29,59,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,29,59,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,29,59,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,29,59,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,29,59,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,29,59,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,29,59,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,29,59,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,29,59,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,29,54,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,29,54,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0,34.21,16.64
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,29,59,1.0,10.0,0.0,0,30.97,15.96
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,29,59,1.0,10.0,0.0,0,34.42,19.01
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,29,64,1.0,10.0,0.0,0,31.73,16.2
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,29,64,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,29,64,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,29,64,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,29,64,1.0,10.0,0.0,0,32.64,14.34
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,29,64,1.0,10.0,0.0,0,31.61,14.77
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.36,15.32
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,29,64,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,29,64,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,29,64,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,29,64,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,29,64,1.0,10.0,0.0,0,35.35,18.57
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,29,54,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,120,14,24,79,1.0,10.0,0.0,0,30.3,15.93
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,24,79,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,24,79,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,24,79,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,24,79,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,24,79,1.0,10.0,0.0,0,34.31,18.37
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,24,79,1.0,10.0,0.0,0,35.35,18.57
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0,33.67,18.98
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,24,74,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,24,74,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,24,74,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,24,74,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,24,74,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,24,74,1.0,10.0,0.0,0,34.28,19.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,24,79,1.0,10.0,0.0,0,32.64,14.34
+32,NITE.K,The Nightview Fund,5,120,14,24,79,1.0,10.0,0.0,0,34.28,19.32
+32,NITE.K,The Nightview Fund,5,120,14,29,54,1.0,10.0,0.0,0,34.28,19.32
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,29,54,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,29,54,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,29,54,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,29,54,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,29,54,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.91,14.83
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,29,54,1.0,10.0,0.0,0,34.31,18.37
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,24,79,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,120,14,29,54,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,29,54,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,24,79,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,24,79,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,24,79,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,24,79,1.0,10.0,0.0,0,35.39,14.48
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,34,79,1.0,10.0,0.0,0,33.36,15.32
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,39,54,1.0,10.0,0.0,0,35.35,18.57
+32,INDE.K,Matthews India Active ETF,5,120,14,39,54,1.0,10.0,0.0,0,30.3,15.93
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,49,59,1.0,10.0,0.0,0,32.64,14.34
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,49,54,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,49,54,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,49,54,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,49,54,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,49,54,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,44,79,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,44,79,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,44,79,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,44,79,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,44,79,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,44,79,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,44,79,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,44,79,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,44,79,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,49,54,1.0,10.0,0.0,0,32.19,19.95
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,49,54,1.0,10.0,0.0,0,31.61,14.77
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,49,54,1.0,10.0,0.0,0,31.73,16.2
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,49,59,1.0,10.0,0.0,0,35.35,18.57
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,49,59,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,49,59,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,49,59,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,49,59,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,49,59,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,49,59,1.0,10.0,0.0,0,30.3,15.93
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.36,15.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,49,54,1.0,10.0,0.0,0,32.64,14.34
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,49,54,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,49,54,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,49,54,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,49,54,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,49,54,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.67,18.98
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,44,79,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0,33.91,14.83
+32,NITE.K,The Nightview Fund,5,120,14,44,69,1.0,10.0,0.0,0,34.28,19.32
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,44,74,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,44,69,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,44,69,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,44,69,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.39,17.42
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.67,18.98
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,44,74,1.0,10.0,0.0,0,34.31,18.37
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,44,69,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,44,69,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,44,69,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,44,69,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,44,69,1.0,10.0,0.0,0,36.76,17.72
+32,INDE.K,Matthews India Active ETF,5,120,14,44,74,1.0,10.0,0.0,0,30.3,15.93
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,44,74,1.0,10.0,0.0,0,36.76,17.72
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,44,79,1.0,10.0,0.0,0,36.76,17.72
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,44,74,1.0,10.0,0.0,0,35.39,14.48
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,44,79,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,44,79,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,44,79,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,44,74,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,44,74,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0,34.21,16.64
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.39,17.42
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.91,14.83
+32,NITE.K,The Nightview Fund,5,120,14,44,74,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,44,74,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,44,74,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,44,74,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,44,74,1.0,10.0,0.0,0,37.24,17.5
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,49,59,1.0,10.0,0.0,0,31.73,16.2
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.67,18.98
+32,INDE.K,Matthews India Active ETF,5,120,14,44,69,1.0,10.0,0.0,0,30.3,15.93
+32,NITE.K,The Nightview Fund,5,120,14,49,59,1.0,10.0,0.0,0,34.28,19.32
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,49,74,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,49,74,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,49,74,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,49,74,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,49,74,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,49,74,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,49,74,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,49,74,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,49,74,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,49,74,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,49,74,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,49,74,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,49,69,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,49,74,1.0,10.0,0.0,0,30.97,15.96
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,49,74,1.0,10.0,0.0,0,34.42,19.01
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.36,15.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,49,79,1.0,10.0,0.0,0,32.64,14.34
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,49,79,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,49,79,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,49,79,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,49,79,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,49,79,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,49,79,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,49,79,1.0,10.0,0.0,0,33.67,18.98
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,49,79,1.0,10.0,0.0,0,31.73,16.2
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,49,79,1.0,10.0,0.0,0,35.35,18.57
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,49,79,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,49,79,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,49,79,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,49,79,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,49,79,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,49,79,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,49,79,1.0,10.0,0.0,0,30.3,15.93
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,49,69,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,49,69,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,49,69,1.0,10.0,0.0,0,35.39,14.48
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,49,64,1.0,10.0,0.0,0,34.31,18.37
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,49,64,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,49,64,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,49,64,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,49,64,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,49,64,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,49,64,1.0,10.0,0.0,0,36.76,17.72
+32,INDE.K,Matthews India Active ETF,5,120,14,49,64,1.0,10.0,0.0,0,30.3,15.93
+32,NITE.K,The Nightview Fund,5,120,14,49,64,1.0,10.0,0.0,0,34.28,19.32
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,49,64,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,49,59,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,49,59,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,49,59,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,49,59,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.39,17.42
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.67,18.98
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.39,17.42
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.39,17.42
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.91,14.83
+32,NITE.K,The Nightview Fund,5,120,14,49,69,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,49,69,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,49,69,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,49,69,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,49,69,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,49,69,1.0,10.0,0.0,0,37.24,17.5
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,49,69,1.0,10.0,0.0,0,36.76,17.72
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,49,64,1.0,10.0,0.0,0,35.39,14.48
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,49,69,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,49,69,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,49,69,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,49,64,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,49,64,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,49,64,1.0,10.0,0.0,0,34.21,16.64
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,44,69,1.0,10.0,0.0,0,34.31,18.37
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,44,69,1.0,10.0,0.0,0,35.35,18.57
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,39,54,1.0,10.0,0.0,0,34.31,18.37
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,39,74,1.0,10.0,0.0,0,32.64,14.34
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,39,69,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,39,69,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,39,69,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,39,69,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,39,69,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,39,64,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,39,64,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,39,64,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,39,64,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,39,64,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,39,64,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,39,64,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0,32.19,19.95
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,39,69,1.0,10.0,0.0,0,31.61,14.77
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,39,69,1.0,10.0,0.0,0,31.73,16.2
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,39,74,1.0,10.0,0.0,0,35.35,18.57
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,39,74,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,39,74,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,39,74,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,39,74,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,39,74,1.0,10.0,0.0,0,30.3,15.93
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.36,15.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,39,69,1.0,10.0,0.0,0,32.64,14.34
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,39,69,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,39,69,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,39,69,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,39,69,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.67,18.98
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,39,64,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.91,14.83
+32,NITE.K,The Nightview Fund,5,120,14,39,54,1.0,10.0,0.0,0,34.28,19.32
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,39,59,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,39,54,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,39,54,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,39,54,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.39,17.42
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.67,18.98
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,39,59,1.0,10.0,0.0,0,34.31,18.37
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,39,54,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,39,54,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,39,54,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,39,54,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,39,54,1.0,10.0,0.0,0,36.76,17.72
+32,INDE.K,Matthews India Active ETF,5,120,14,39,59,1.0,10.0,0.0,0,30.3,15.93
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,39,59,1.0,10.0,0.0,0,36.76,17.72
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,39,64,1.0,10.0,0.0,0,36.76,17.72
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,39,59,1.0,10.0,0.0,0,35.39,14.48
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,39,64,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,39,64,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,39,64,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,39,59,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,39,59,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0,34.21,16.64
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.39,17.42
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.91,14.83
+32,NITE.K,The Nightview Fund,5,120,14,39,59,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,39,59,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,39,59,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,39,59,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,39,59,1.0,10.0,0.0,0,37.24,17.5
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,39,74,1.0,10.0,0.0,0,31.73,16.2
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.67,18.98
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.36,15.32
+32,NITE.K,The Nightview Fund,5,120,14,39,74,1.0,10.0,0.0,0,34.28,19.32
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,44,59,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,44,59,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,44,59,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,44,59,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,44,59,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,44,59,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,44,59,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,44,59,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,44,59,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,44,59,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,44,54,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,44,59,1.0,10.0,0.0,0,30.97,15.96
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,44,59,1.0,10.0,0.0,0,34.42,19.01
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.36,15.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,44,64,1.0,10.0,0.0,0,32.64,14.34
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,44,64,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,44,64,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,44,64,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,120,14,44,64,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.67,18.98
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,44,64,1.0,10.0,0.0,0,31.73,16.2
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,44,64,1.0,10.0,0.0,0,35.35,18.57
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,44,64,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,44,64,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,44,64,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,44,64,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,44,64,1.0,10.0,0.0,0,30.3,15.93
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,44,54,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,44,54,1.0,10.0,0.0,0,35.39,14.48
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,39,79,1.0,10.0,0.0,0,34.31,18.37
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,39,79,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,39,79,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,39,79,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,39,79,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,39,79,1.0,10.0,0.0,0,36.76,17.72
+32,INDE.K,Matthews India Active ETF,5,120,14,39,79,1.0,10.0,0.0,0,30.3,15.93
+32,NITE.K,The Nightview Fund,5,120,14,39,79,1.0,10.0,0.0,0,34.28,19.32
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,39,79,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,39,74,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,39,74,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,39,74,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.39,17.42
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0,33.67,18.98
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,39,79,1.0,10.0,0.0,0,33.39,17.42
+32,BOTT.O,Themes Robotics & Automation ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.39,17.42
+32,TGRT.K,T Rowe Price Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.91,14.83
+32,NITE.K,The Nightview Fund,5,120,14,44,54,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,44,54,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,44,54,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,120,14,44,54,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,44,54,1.0,10.0,0.0,0,37.24,17.5
+32,RSHO.K,Tema American Reshoring ETF,5,120,14,44,54,1.0,10.0,0.0,0,36.76,17.72
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,39,79,1.0,10.0,0.0,0,35.39,14.48
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,120,14,44,54,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,120,14,44,54,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,44,54,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,39,79,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,120,14,39,79,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,120,14,39,79,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0,34.21,16.64
+32,INDE.K,Matthews India Active ETF,5,120,14,24,54,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,120,14,24,54,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,49,79,1.0,10.0,0.0,0,33.36,15.32
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,34,59,1.0,10.0,0.0,0,31.73,16.2
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,34,54,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,34,54,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,34,54,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,34,54,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,29,79,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,29,79,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,29,79,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,29,79,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,29,79,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,29,79,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,29,79,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,29,79,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,29,79,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,34,54,1.0,10.0,0.0,0,37.24,17.5
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0,32.19,19.95
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,34,54,1.0,10.0,0.0,0,31.61,14.77
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.36,15.32
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,34,59,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,34,59,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,34,59,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,34,59,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,34,59,1.0,10.0,0.0,0,35.35,18.57
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,34,54,1.0,10.0,0.0,0,34.42,19.01
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,34,54,1.0,10.0,0.0,0,31.73,16.2
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,34,54,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,34,54,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,34,54,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,34,54,1.0,10.0,0.0,0,32.64,14.34
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,29,79,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,29,79,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.67,18.98
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,29,69,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,29,69,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,29,69,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,29,69,1.0,10.0,0.0,0,34.28,19.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,29,69,1.0,10.0,0.0,0,32.64,14.34
+32,INDE.K,Matthews India Active ETF,5,60,14,29,74,1.0,10.0,0.0,0,30.3,15.93
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,29,69,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,29,69,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,29,69,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,29,69,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,29,69,1.0,10.0,0.0,0,34.31,18.37
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,29,74,1.0,10.0,0.0,0,35.35,18.57
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,29,74,1.0,10.0,0.0,0,34.31,18.37
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,29,79,1.0,10.0,0.0,0,34.31,18.37
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,60,14,29,79,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,29,79,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,29,74,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,29,74,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,29,74,1.0,10.0,0.0,0,35.39,14.48
+32,NITE.K,The Nightview Fund,5,60,14,29,74,1.0,10.0,0.0,0,34.28,19.32
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,29,74,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,29,74,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,29,74,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,29,74,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,29,74,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.91,14.83
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,34,59,1.0,10.0,0.0,0,31.61,14.77
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,34,59,1.0,10.0,0.0,0,32.64,14.34
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,29,69,1.0,10.0,0.0,0,35.35,18.57
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.67,18.98
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,34,74,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,34,74,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,34,74,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,34,74,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,34,74,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,34,74,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,34,74,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,34,74,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,34,74,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,34,74,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,34,69,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,34,69,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0,34.21,16.64
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,34,74,1.0,10.0,0.0,0,30.97,15.96
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,34,74,1.0,10.0,0.0,0,34.42,19.01
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,34,79,1.0,10.0,0.0,0,31.73,16.2
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,34,79,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,34,79,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,34,79,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,34,79,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,34,79,1.0,10.0,0.0,0,32.64,14.34
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,34,79,1.0,10.0,0.0,0,31.61,14.77
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.36,15.32
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,34,79,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,34,79,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,34,79,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,34,79,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,34,79,1.0,10.0,0.0,0,35.35,18.57
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,34,69,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,60,14,34,64,1.0,10.0,0.0,0,30.3,15.93
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,34,64,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,34,64,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,34,64,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,34,64,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,34,64,1.0,10.0,0.0,0,34.31,18.37
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,34,64,1.0,10.0,0.0,0,35.35,18.57
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.67,18.98
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,34,59,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,34,59,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,34,59,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,34,59,1.0,10.0,0.0,0,34.28,19.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,34,64,1.0,10.0,0.0,0,32.64,14.34
+32,NITE.K,The Nightview Fund,5,60,14,34,64,1.0,10.0,0.0,0,34.28,19.32
+32,NITE.K,The Nightview Fund,5,60,14,34,69,1.0,10.0,0.0,0,34.28,19.32
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,34,69,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,34,69,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,34,69,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,34,69,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,34,69,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.91,14.83
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,34,69,1.0,10.0,0.0,0,34.31,18.37
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,60,14,34,69,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,34,69,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,34,64,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,34,64,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,34,64,1.0,10.0,0.0,0,35.39,14.48
+32,INDE.K,Matthews India Active ETF,5,60,14,29,69,1.0,10.0,0.0,0,30.3,15.93
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.36,15.32
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,34,79,1.0,10.0,0.0,0,33.36,15.32
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,24,74,1.0,10.0,0.0,0,31.73,16.2
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,24,69,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,24,69,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,24,69,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,24,69,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,24,64,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,24,64,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,24,64,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,24,64,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,24,64,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,24,64,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,24,64,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,24,64,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,24,64,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,24,69,1.0,10.0,0.0,0,37.24,17.5
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0,32.19,19.95
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,24,69,1.0,10.0,0.0,0,31.61,14.77
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,24,69,1.0,10.0,0.0,0,33.36,15.32
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,24,74,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,24,74,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,24,74,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,24,74,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,24,74,1.0,10.0,0.0,0,35.35,18.57
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,24,69,1.0,10.0,0.0,0,34.42,19.01
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,24,69,1.0,10.0,0.0,0,31.73,16.2
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,24,69,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,24,69,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,24,69,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,24,69,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,24,69,1.0,10.0,0.0,0,32.64,14.34
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,24,64,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,24,64,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0,33.67,18.98
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,24,54,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,24,54,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,24,54,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,24,54,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,24,54,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,24,54,1.0,10.0,0.0,0,34.28,19.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,24,54,1.0,10.0,0.0,0,32.64,14.34
+32,INDE.K,Matthews India Active ETF,5,60,14,24,59,1.0,10.0,0.0,0,30.3,15.93
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,24,54,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,24,54,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,24,54,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,24,54,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,24,54,1.0,10.0,0.0,0,34.31,18.37
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,24,59,1.0,10.0,0.0,0,35.35,18.57
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,24,59,1.0,10.0,0.0,0,34.31,18.37
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,24,64,1.0,10.0,0.0,0,34.31,18.37
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,24,59,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,60,14,24,64,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,24,64,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,24,59,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,24,59,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,24,59,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,24,59,1.0,10.0,0.0,0,35.39,14.48
+32,NITE.K,The Nightview Fund,5,60,14,24,59,1.0,10.0,0.0,0,34.28,19.32
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,24,59,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,24,59,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,24,59,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,24,59,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,24,59,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0,33.91,14.83
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,24,74,1.0,10.0,0.0,0,31.61,14.77
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,24,74,1.0,10.0,0.0,0,32.64,14.34
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,29,64,1.0,10.0,0.0,0,34.42,19.01
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0,33.67,18.98
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,29,59,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,29,59,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,29,59,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,29,59,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,29,59,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,29,59,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,29,59,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,29,59,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,29,59,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,29,59,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,29,54,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,29,54,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0,34.21,16.64
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,29,59,1.0,10.0,0.0,0,30.97,15.96
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,29,59,1.0,10.0,0.0,0,34.42,19.01
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,29,64,1.0,10.0,0.0,0,31.73,16.2
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,29,64,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,29,64,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,29,64,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,29,64,1.0,10.0,0.0,0,32.64,14.34
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,29,64,1.0,10.0,0.0,0,31.61,14.77
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.36,15.32
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,29,64,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,29,64,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,29,64,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,29,64,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,29,64,1.0,10.0,0.0,0,35.35,18.57
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,29,54,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,60,14,24,79,1.0,10.0,0.0,0,30.3,15.93
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,24,79,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,24,79,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,24,79,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,24,79,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,24,79,1.0,10.0,0.0,0,34.31,18.37
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,24,79,1.0,10.0,0.0,0,35.35,18.57
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0,33.67,18.98
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,24,74,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,24,74,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,24,74,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,24,74,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,24,74,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,24,74,1.0,10.0,0.0,0,34.28,19.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,24,79,1.0,10.0,0.0,0,32.64,14.34
+32,NITE.K,The Nightview Fund,5,60,14,24,79,1.0,10.0,0.0,0,34.28,19.32
+32,NITE.K,The Nightview Fund,5,60,14,29,54,1.0,10.0,0.0,0,34.28,19.32
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,29,54,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,29,54,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,29,54,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,29,54,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,29,54,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.91,14.83
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,29,54,1.0,10.0,0.0,0,34.31,18.37
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,24,79,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,60,14,29,54,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,29,54,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,24,79,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,24,79,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,24,79,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,24,79,1.0,10.0,0.0,0,35.39,14.48
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,34,79,1.0,10.0,0.0,0,34.42,19.01
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,39,54,1.0,10.0,0.0,0,35.35,18.57
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,49,79,1.0,10.0,0.0,0,34.42,19.01
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,49,59,1.0,10.0,0.0,0,31.73,16.2
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,49,54,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,49,54,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,49,54,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,49,54,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,44,79,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,44,79,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,44,79,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,44,79,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,44,79,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,44,79,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,44,79,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,44,79,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,44,79,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,44,79,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,44,79,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,44,79,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,49,54,1.0,10.0,0.0,0,37.24,17.5
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,49,54,1.0,10.0,0.0,0,32.19,19.95
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,49,54,1.0,10.0,0.0,0,31.61,14.77
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.36,15.32
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,49,59,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,49,59,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,49,59,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,49,59,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,49,59,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,49,59,1.0,10.0,0.0,0,35.35,18.57
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,49,54,1.0,10.0,0.0,0,34.42,19.01
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,49,54,1.0,10.0,0.0,0,31.73,16.2
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,49,54,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,49,54,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,49,54,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,49,54,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,49,54,1.0,10.0,0.0,0,32.64,14.34
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,44,79,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,44,79,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,44,79,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.67,18.98
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,44,69,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,44,69,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,44,69,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,44,69,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,44,69,1.0,10.0,0.0,0,34.28,19.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,44,69,1.0,10.0,0.0,0,32.64,14.34
+32,INDE.K,Matthews India Active ETF,5,60,14,44,74,1.0,10.0,0.0,0,30.3,15.93
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,44,69,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,44,69,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,44,69,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,44,69,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,44,69,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,44,69,1.0,10.0,0.0,0,34.31,18.37
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,44,74,1.0,10.0,0.0,0,35.35,18.57
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,44,74,1.0,10.0,0.0,0,34.31,18.37
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,44,79,1.0,10.0,0.0,0,34.31,18.37
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,60,14,44,79,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,44,79,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,44,74,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,44,74,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,44,74,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,44,74,1.0,10.0,0.0,0,35.39,14.48
+32,NITE.K,The Nightview Fund,5,60,14,44,74,1.0,10.0,0.0,0,34.28,19.32
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,44,74,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,44,74,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,44,74,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,44,74,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,44,74,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,44,74,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.91,14.83
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,49,59,1.0,10.0,0.0,0,31.61,14.77
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,49,59,1.0,10.0,0.0,0,32.64,14.34
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,44,69,1.0,10.0,0.0,0,35.35,18.57
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.67,18.98
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,49,74,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,49,74,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,49,74,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,49,74,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,49,74,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,49,74,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,49,74,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,49,74,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,49,74,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,49,74,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,49,74,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,49,69,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,49,69,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,49,74,1.0,10.0,0.0,0,34.21,16.64
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,49,74,1.0,10.0,0.0,0,30.97,15.96
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,49,74,1.0,10.0,0.0,0,34.42,19.01
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,49,79,1.0,10.0,0.0,0,31.73,16.2
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,49,79,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,49,79,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,49,79,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,49,79,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,49,79,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,49,79,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,49,79,1.0,10.0,0.0,0,32.64,14.34
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,49,79,1.0,10.0,0.0,0,31.61,14.77
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.36,15.32
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,49,79,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,49,79,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,49,79,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,49,79,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,49,79,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,49,79,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,49,79,1.0,10.0,0.0,0,35.35,18.57
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,49,69,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,49,69,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,60,14,49,64,1.0,10.0,0.0,0,30.3,15.93
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,49,64,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,49,64,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,49,64,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,49,64,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,49,64,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,49,64,1.0,10.0,0.0,0,34.31,18.37
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,49,64,1.0,10.0,0.0,0,35.35,18.57
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.67,18.98
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,49,59,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,49,59,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,49,59,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,49,59,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,49,59,1.0,10.0,0.0,0,34.28,19.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,49,64,1.0,10.0,0.0,0,32.64,14.34
+32,NITE.K,The Nightview Fund,5,60,14,49,64,1.0,10.0,0.0,0,34.28,19.32
+32,NITE.K,The Nightview Fund,5,60,14,49,69,1.0,10.0,0.0,0,34.28,19.32
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,49,69,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,49,69,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,49,69,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,49,69,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,49,69,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,49,69,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.91,14.83
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,49,69,1.0,10.0,0.0,0,34.31,18.37
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,60,14,49,69,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,49,69,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,49,64,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,49,64,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,49,64,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,49,64,1.0,10.0,0.0,0,35.39,14.48
+32,INDE.K,Matthews India Active ETF,5,60,14,44,69,1.0,10.0,0.0,0,30.3,15.93
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.36,15.32
+32,INDE.K,Matthews India Active ETF,5,60,14,39,54,1.0,10.0,0.0,0,30.3,15.93
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,39,74,1.0,10.0,0.0,0,31.73,16.2
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,39,69,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,39,69,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,39,69,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,39,69,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,39,64,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,39,64,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,39,64,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,39,64,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,39,64,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,39,64,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,39,64,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,39,69,1.0,10.0,0.0,0,37.24,17.5
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0,32.19,19.95
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,39,69,1.0,10.0,0.0,0,31.61,14.77
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.36,15.32
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,39,74,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,39,74,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,39,74,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,39,74,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,39,74,1.0,10.0,0.0,0,35.35,18.57
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,39,69,1.0,10.0,0.0,0,34.42,19.01
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,39,69,1.0,10.0,0.0,0,31.73,16.2
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,39,69,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,39,69,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,39,69,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,39,69,1.0,10.0,0.0,0,32.64,14.34
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,39,64,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,39,64,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.67,18.98
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,39,54,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,39,54,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,39,54,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,39,54,1.0,10.0,0.0,0,34.28,19.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,39,54,1.0,10.0,0.0,0,32.64,14.34
+32,INDE.K,Matthews India Active ETF,5,60,14,39,59,1.0,10.0,0.0,0,30.3,15.93
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,39,54,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,39,54,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,39,54,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,39,54,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,39,54,1.0,10.0,0.0,0,34.31,18.37
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,39,59,1.0,10.0,0.0,0,35.35,18.57
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,39,59,1.0,10.0,0.0,0,34.31,18.37
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,39,64,1.0,10.0,0.0,0,34.31,18.37
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,60,14,39,64,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,39,64,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,39,59,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,39,59,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,39,59,1.0,10.0,0.0,0,35.39,14.48
+32,NITE.K,The Nightview Fund,5,60,14,39,59,1.0,10.0,0.0,0,34.28,19.32
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,39,59,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,39,59,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,39,59,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,39,59,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,39,59,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.91,14.83
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,39,74,1.0,10.0,0.0,0,31.61,14.77
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,39,74,1.0,10.0,0.0,0,32.64,14.34
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,44,64,1.0,10.0,0.0,0,34.42,19.01
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.67,18.98
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,44,59,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,44,59,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,44,59,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,44,59,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,44,59,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,44,59,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,44,59,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,44,59,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,44,59,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,44,59,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,44,59,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,44,54,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,44,54,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,44,59,1.0,10.0,0.0,0,34.21,16.64
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,44,59,1.0,10.0,0.0,0,30.97,15.96
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,44,59,1.0,10.0,0.0,0,34.42,19.01
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,44,64,1.0,10.0,0.0,0,31.73,16.2
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,44,64,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,44,64,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,44,64,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,44,64,1.0,10.0,0.0,0,34.28,19.32
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,44,64,1.0,10.0,0.0,0,32.64,14.34
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,44,64,1.0,10.0,0.0,0,31.61,14.77
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.36,15.32
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,44,64,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,44,64,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,44,64,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,44,64,1.0,10.0,0.0,0,34.31,18.37
+32,INDE.K,Matthews India Active ETF,5,60,14,44,64,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,44,64,1.0,10.0,0.0,0,35.35,18.57
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,44,54,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,44,54,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,60,14,39,79,1.0,10.0,0.0,0,30.3,15.93
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,39,79,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,39,79,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,39,79,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0,33.91,14.83
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,39,79,1.0,10.0,0.0,0,36.76,17.72
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,39,79,1.0,10.0,0.0,0,34.31,18.37
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,39,79,1.0,10.0,0.0,0,35.35,18.57
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0,33.67,18.98
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,39,74,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,39,74,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,39,74,1.0,10.0,0.0,0,35.39,14.48
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.39,17.42
+32,NITE.K,The Nightview Fund,5,60,14,39,74,1.0,10.0,0.0,0,34.28,19.32
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,39,79,1.0,10.0,0.0,0,32.64,14.34
+32,NITE.K,The Nightview Fund,5,60,14,39,79,1.0,10.0,0.0,0,34.28,19.32
+32,NITE.K,The Nightview Fund,5,60,14,44,54,1.0,10.0,0.0,0,34.28,19.32
+32,RSHO.K,Tema American Reshoring ETF,5,60,14,44,54,1.0,10.0,0.0,0,36.76,17.72
+32,IWFG.K,IQ Winslow Focused Large Cap Growth ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.67,18.98
+32,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,44,54,1.0,10.0,0.0,0,32.64,14.34
+32,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,44,54,1.0,10.0,0.0,0,31.73,16.2
+32,JPAN.K,Matthews Japan Active ETF,5,60,14,44,54,1.0,10.0,0.0,0,31.61,14.77
+32,IWLG.K,IQ Winslow Large Cap Growth ETF,5,60,14,44,54,1.0,10.0,0.0,0,32.19,19.95
+32,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,44,54,1.0,10.0,0.0,0,37.24,17.5
+32,TGRT.K,T Rowe Price Growth ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.91,14.83
+32,FDCF.O,Fidelity Disruptive Communications ETF,5,60,14,44,54,1.0,10.0,0.0,0,34.31,18.37
+32,BOTT.O,Themes Robotics & Automation ETF,5,60,14,39,79,1.0,10.0,0.0,0,33.39,17.42
+32,INDE.K,Matthews India Active ETF,5,60,14,44,54,1.0,10.0,0.0,0,30.3,15.93
+32,GRPM.K,Invesco S&P MidCap 400 GARP ETF,5,60,14,44,54,1.0,10.0,0.0,0,35.35,18.57
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,60,14,39,79,1.0,10.0,0.0,0,33.36,15.32
+32,PJBF.K,PGIM Jennison Better Future ETF,5,60,14,39,79,1.0,10.0,0.0,0,34.42,19.01
+32,SMCF.O,Themes US Small Cap Cash Flow Champions ETF,5,60,14,39,79,1.0,10.0,0.0,0,30.97,15.96
+32,LSGR.K,Natixis Loomis Sayles Focused Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0,34.21,16.64
+32,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,39,79,1.0,10.0,0.0,0,35.39,14.48
+32,HYKE.K,Vest 2 Year Interest Rate Hedge ETF,5,120,14,49,79,1.0,10.0,0.0,0,33.36,15.32

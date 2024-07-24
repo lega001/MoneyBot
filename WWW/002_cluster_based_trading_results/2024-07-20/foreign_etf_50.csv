@@ -1,0 +1,1441 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,24,54,1.0,10.0,0.0,0,18.55,6.68
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.81,9.39
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,34,54,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,34,54,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,34,54,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,34,54,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,29,79,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,29,79,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,29,79,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,29,79,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,29,79,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,29,79,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,29,79,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,29,79,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,29,79,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,34,54,1.0,10.0,0.0,0,18.22,8.44
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,16.85,7.85
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,24,54,1.0,10.0,0.0,0,17.21,7.9
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,34,54,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,34,59,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,34,59,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,34,59,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,34,59,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,34,59,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,34,54,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,34,54,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,34,54,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,34,54,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,34,54,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,34,54,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,34,54,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,34,54,1.0,10.0,0.0,0,18.86,6.57
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,29,79,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,29,79,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,29,79,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.09,3.55
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,29,74,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,29,69,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,29,69,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,29,69,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,29,69,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,29,69,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,29,69,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,29,69,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,29,69,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,29,69,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,29,69,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,29,69,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,29,69,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,29,74,1.0,10.0,0.0,0,17.21,7.9
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.42,7.57
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.09,3.55
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,29,74,1.0,10.0,0.0,0,20.47,8.59
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,29,79,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,29,79,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,29,74,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,29,74,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,29,74,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,29,74,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,29,74,1.0,10.0,0.0,0,18.87,6.79
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,18.02,5.45
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,29,74,1.0,10.0,0.0,0,18.81,8.81
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,29,74,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,29,74,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,29,74,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,29,74,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,29,74,1.0,10.0,0.0,0,20.97,6.34
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,34,59,1.0,10.0,0.0,0,18.23,8.07
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,34,59,1.0,10.0,0.0,0,18.86,6.57
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.28,7.4
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,34,69,1.0,10.0,0.0,0,17.75,8.65
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,34,74,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,34,74,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,34,74,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,34,74,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,34,74,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,34,74,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,34,74,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,34,74,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,34,74,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,34,74,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,34,74,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,34,69,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,34,69,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,34,74,1.0,10.0,0.0,0,18.59,8.01
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,34,74,1.0,10.0,0.0,0,19.31,5.36
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,34,74,1.0,10.0,0.0,0,18.53,8.17
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,34,79,1.0,10.0,0.0,0,18.86,6.57
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,34,79,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,34,79,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,34,79,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,34,79,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,34,79,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,34,79,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.28,7.4
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,34,79,1.0,10.0,0.0,0,18.23,8.07
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,34,79,1.0,10.0,0.0,0,18.55,6.68
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,34,79,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,34,79,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,34,79,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,34,79,1.0,10.0,0.0,0,17.21,7.9
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,34,69,1.0,10.0,0.0,0,18.59,8.01
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,34,69,1.0,10.0,0.0,0,18.87,6.79
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,34,59,1.0,10.0,0.0,0,20.93,6.87
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,34,69,1.0,10.0,0.0,0,20.47,8.59
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,34,64,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,34,64,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,34,64,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,34,64,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,34,64,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,34,64,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,34,64,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,34,59,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,34,59,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,34,59,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,34,59,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,34,59,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,34,59,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,34,64,1.0,10.0,0.0,0,20.93,6.87
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,18.02,5.45
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,34,64,1.0,10.0,0.0,0,20.47,8.59
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,34,69,1.0,10.0,0.0,0,20.97,6.34
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,34,69,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,34,69,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,34,69,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,34,69,1.0,10.0,0.0,0,18.22,8.44
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,34,69,1.0,10.0,0.0,0,18.81,8.81
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,34,64,1.0,10.0,0.0,0,18.87,6.79
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,34,69,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,34,69,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,34,64,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,34,64,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,34,64,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,34,64,1.0,10.0,0.0,0,17.75,8.65
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,29,69,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,29,69,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,29,64,1.0,10.0,0.0,0,18.53,8.17
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,24,64,1.0,10.0,0.0,0,20.97,6.34
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,24,69,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,24,69,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,24,69,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,24,69,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,24,64,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,24,64,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,24,64,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,24,64,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,24,64,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,24,64,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,24,64,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,24,64,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,24,64,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,24,69,1.0,10.0,0.0,0,18.22,8.44
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.81,9.39
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0,16.85,7.85
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,24,69,1.0,10.0,0.0,0,18.53,8.17
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,24,74,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,24,74,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,24,74,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,24,74,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,24,74,1.0,10.0,0.0,0,18.55,6.68
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,24,69,1.0,10.0,0.0,0,19.31,5.36
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,24,69,1.0,10.0,0.0,0,18.23,8.07
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,24,69,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,24,69,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,24,69,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,24,69,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,24,69,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,24,69,1.0,10.0,0.0,0,18.86,6.57
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,24,64,1.0,10.0,0.0,0,18.22,8.44
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,24,64,1.0,10.0,0.0,0,18.81,8.81
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,24,74,1.0,10.0,0.0,0,18.23,8.07
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.09,3.55
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,24,59,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,24,54,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,24,54,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,24,54,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,24,54,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,24,54,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,24,54,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,24,54,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,24,54,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,24,54,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,24,54,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,24,54,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,24,54,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,24,59,1.0,10.0,0.0,0,17.21,7.9
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.42,7.57
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.09,3.55
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,24,59,1.0,10.0,0.0,0,20.47,8.59
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,24,64,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,24,64,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,24,59,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,24,59,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,24,59,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,24,59,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,24,59,1.0,10.0,0.0,0,18.87,6.79
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0,18.02,5.45
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,24,59,1.0,10.0,0.0,0,18.81,8.81
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,24,59,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,24,59,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,24,59,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,24,59,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,24,59,1.0,10.0,0.0,0,20.97,6.34
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0,16.85,7.85
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,24,74,1.0,10.0,0.0,0,18.86,6.57
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,29,64,1.0,10.0,0.0,0,19.31,5.36
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,29,54,1.0,10.0,0.0,0,18.87,6.79
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,29,59,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,29,59,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,29,59,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,29,59,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,29,59,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,29,59,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,29,59,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,29,59,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,29,59,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,29,59,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,29,54,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,29,54,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,29,54,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,29,59,1.0,10.0,0.0,0,17.75,8.65
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,29,59,1.0,10.0,0.0,0,18.59,8.01
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,29,59,1.0,10.0,0.0,0,19.31,5.36
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,29,64,1.0,10.0,0.0,0,18.23,8.07
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,29,64,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,29,64,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,29,64,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,29,64,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,29,64,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,29,64,1.0,10.0,0.0,0,18.86,6.57
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,16.85,7.85
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,29,59,1.0,10.0,0.0,0,18.53,8.17
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,29,64,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,29,64,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,29,64,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,29,64,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,29,64,1.0,10.0,0.0,0,18.55,6.68
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,29,54,1.0,10.0,0.0,0,17.75,8.65
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,29,54,1.0,10.0,0.0,0,20.47,8.59
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.28,7.4
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,18.02,5.45
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,24,79,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,24,79,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,24,79,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,24,79,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,24,79,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,24,79,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,24,79,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,24,74,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,24,74,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,24,74,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,24,74,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,24,74,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,24,74,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,24,74,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.28,7.4
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,24,79,1.0,10.0,0.0,0,20.93,6.87
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0,18.02,5.45
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,29,54,1.0,10.0,0.0,0,18.81,8.81
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,29,54,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,29,54,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,29,54,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,29,54,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,29,54,1.0,10.0,0.0,0,20.97,6.34
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.09,3.55
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,24,79,1.0,10.0,0.0,0,20.47,8.59
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,29,54,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,29,54,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,24,79,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,24,79,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,24,79,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,24,79,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,24,79,1.0,10.0,0.0,0,18.87,6.79
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,34,79,1.0,10.0,0.0,0,18.53,8.17
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,39,54,1.0,10.0,0.0,0,18.55,6.68
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,39,54,1.0,10.0,0.0,0,17.21,7.9
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,44,79,1.0,10.0,0.0,0,18.22,8.44
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,49,54,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,49,54,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,49,54,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,49,54,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,49,54,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,44,79,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,44,79,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,44,79,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,44,79,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,44,79,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,44,79,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,44,79,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,44,79,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,44,79,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.81,9.39
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,16.85,7.85
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,49,54,1.0,10.0,0.0,0,18.23,8.07
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,49,59,1.0,10.0,0.0,0,18.55,6.68
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,49,59,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,49,59,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,49,59,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,49,59,1.0,10.0,0.0,0,17.21,7.9
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,49,54,1.0,10.0,0.0,0,18.53,8.17
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,49,54,1.0,10.0,0.0,0,18.86,6.57
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,49,54,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,49,54,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,49,54,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,49,54,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,49,54,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,49,54,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.28,7.4
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.81,9.39
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,44,79,1.0,10.0,0.0,0,20.97,6.34
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,49,59,1.0,10.0,0.0,0,18.86,6.57
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,44,79,1.0,10.0,0.0,0,18.81,8.81
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,44,74,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,44,74,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,44,69,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,44,69,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,44,69,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,44,69,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,44,69,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,44,69,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,44,69,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,44,69,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,44,69,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,44,69,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,44,69,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,44,69,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.42,7.57
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.09,3.55
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,44,74,1.0,10.0,0.0,0,18.81,8.81
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,44,74,1.0,10.0,0.0,0,18.87,6.79
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,44,79,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,44,79,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,44,74,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,44,74,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,44,74,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,44,74,1.0,10.0,0.0,0,17.75,8.65
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,44,74,1.0,10.0,0.0,0,20.47,8.59
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,44,74,1.0,10.0,0.0,0,20.97,6.34
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,44,74,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,44,74,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,44,74,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,44,74,1.0,10.0,0.0,0,18.22,8.44
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,49,59,1.0,10.0,0.0,0,18.23,8.07
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.28,7.4
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,44,69,1.0,10.0,0.0,0,17.21,7.9
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,49,69,1.0,10.0,0.0,0,17.75,8.65
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,49,74,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,49,74,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,49,74,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,49,74,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,49,74,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,49,74,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,49,74,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,49,74,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,49,74,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,49,74,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,49,74,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,49,69,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,49,69,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,49,74,1.0,10.0,0.0,0,18.59,8.01
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,49,74,1.0,10.0,0.0,0,19.31,5.36
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,49,74,1.0,10.0,0.0,0,18.53,8.17
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,49,79,1.0,10.0,0.0,0,18.86,6.57
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,49,79,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,49,79,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,49,79,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,49,79,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,49,79,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,49,79,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,49,79,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.28,7.4
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,49,79,1.0,10.0,0.0,0,18.23,8.07
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,49,79,1.0,10.0,0.0,0,18.55,6.68
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,49,79,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,49,79,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,49,79,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,49,79,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,49,79,1.0,10.0,0.0,0,17.21,7.9
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,49,69,1.0,10.0,0.0,0,18.59,8.01
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,49,69,1.0,10.0,0.0,0,18.87,6.79
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,49,59,1.0,10.0,0.0,0,20.93,6.87
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,49,69,1.0,10.0,0.0,0,20.47,8.59
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,49,64,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,49,64,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,49,64,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,49,64,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,49,64,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,49,64,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,49,64,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,49,59,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,49,59,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,49,59,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,49,59,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,49,59,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,49,59,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,49,64,1.0,10.0,0.0,0,20.93,6.87
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,18.02,5.45
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,49,64,1.0,10.0,0.0,0,20.47,8.59
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,49,69,1.0,10.0,0.0,0,20.97,6.34
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,49,69,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,49,69,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,49,69,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,49,69,1.0,10.0,0.0,0,18.22,8.44
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,49,69,1.0,10.0,0.0,0,18.81,8.81
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,49,64,1.0,10.0,0.0,0,18.87,6.79
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,49,69,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,49,69,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,49,64,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,49,64,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,49,64,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,49,64,1.0,10.0,0.0,0,17.75,8.65
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.42,7.57
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,44,69,1.0,10.0,0.0,0,18.55,6.68
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.42,7.57
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,39,64,1.0,10.0,0.0,0,18.22,8.44
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,39,69,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,39,69,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,39,69,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,39,69,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,39,69,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,39,64,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,39,64,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,39,64,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,39,64,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,39,64,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,39,64,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,39,64,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,39,64,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,39,64,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.81,9.39
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,16.85,7.85
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,39,69,1.0,10.0,0.0,0,18.23,8.07
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,39,74,1.0,10.0,0.0,0,18.55,6.68
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,39,74,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,39,74,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,39,74,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,39,74,1.0,10.0,0.0,0,17.21,7.9
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,39,69,1.0,10.0,0.0,0,18.53,8.17
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,39,69,1.0,10.0,0.0,0,18.86,6.57
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,39,69,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,39,69,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,39,69,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,39,69,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,39,69,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,39,69,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.28,7.4
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.81,9.39
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,39,64,1.0,10.0,0.0,0,20.97,6.34
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,39,74,1.0,10.0,0.0,0,18.86,6.57
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,39,64,1.0,10.0,0.0,0,18.81,8.81
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,39,59,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,39,59,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,39,54,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,39,54,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,39,54,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,39,54,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,39,54,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,39,54,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,39,54,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,39,54,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,39,54,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,39,54,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,39,54,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,39,54,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.42,7.57
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.09,3.55
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,39,59,1.0,10.0,0.0,0,18.81,8.81
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,39,59,1.0,10.0,0.0,0,18.87,6.79
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,39,64,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,39,64,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,39,59,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,39,59,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,39,59,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,39,59,1.0,10.0,0.0,0,17.75,8.65
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,39,59,1.0,10.0,0.0,0,20.47,8.59
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,39,59,1.0,10.0,0.0,0,20.97,6.34
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,39,59,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,39,59,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,39,59,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,39,59,1.0,10.0,0.0,0,18.22,8.44
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,39,74,1.0,10.0,0.0,0,18.23,8.07
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.28,7.4
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,44,64,1.0,10.0,0.0,0,18.53,8.17
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,44,54,1.0,10.0,0.0,0,17.75,8.65
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,44,59,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,44,59,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,44,59,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,44,59,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,44,59,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,44,59,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,44,59,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,44,59,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,44,59,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,44,59,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,44,59,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,44,54,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,44,54,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,44,59,1.0,10.0,0.0,0,18.59,8.01
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,44,59,1.0,10.0,0.0,0,19.31,5.36
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,44,59,1.0,10.0,0.0,0,18.53,8.17
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,44,64,1.0,10.0,0.0,0,18.86,6.57
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,44,64,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,44,64,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,44,64,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,44,64,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,44,64,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,44,64,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.28,7.4
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,44,64,1.0,10.0,0.0,0,18.23,8.07
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,44,64,1.0,10.0,0.0,0,18.55,6.68
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,44,64,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,44,64,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,44,64,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,44,64,1.0,10.0,0.0,0,17.21,7.9
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,44,54,1.0,10.0,0.0,0,18.59,8.01
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,44,54,1.0,10.0,0.0,0,18.87,6.79
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,39,74,1.0,10.0,0.0,0,20.93,6.87
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,44,54,1.0,10.0,0.0,0,20.47,8.59
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,39,79,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,39,79,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,39,79,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,39,79,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,39,79,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,39,79,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,39,79,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,39,74,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,39,74,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,39,74,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,39,74,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,39,74,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,39,74,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,39,79,1.0,10.0,0.0,0,20.93,6.87
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0,18.02,5.45
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,120,14,39,79,1.0,10.0,0.0,0,20.47,8.59
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,44,54,1.0,10.0,0.0,0,20.97,6.34
+50,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,120,14,44,54,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,120,14,44,54,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,120,14,44,54,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,120,14,44,54,1.0,10.0,0.0,0,18.22,8.44
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,120,14,44,54,1.0,10.0,0.0,0,18.81,8.81
+50,IRTR.K,iShares LifePath Retirement ETF,5,120,14,39,79,1.0,10.0,0.0,0,18.87,6.79
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,44,54,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,44,54,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,39,79,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,39,79,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,120,14,39,79,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,120,14,39,79,1.0,10.0,0.0,0,17.75,8.65
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,120,14,24,54,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,120,14,24,54,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,49,79,1.0,10.0,0.0,0,18.53,8.17
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,29,79,1.0,10.0,0.0,0,20.97,6.34
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,34,54,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,34,54,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,34,54,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,34,54,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,29,79,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,29,79,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,29,79,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,29,79,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,29,79,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,29,79,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,29,79,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,29,79,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,29,79,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,34,54,1.0,10.0,0.0,0,18.22,8.44
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.81,9.39
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,16.85,7.85
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,34,54,1.0,10.0,0.0,0,18.53,8.17
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,34,59,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,34,59,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,34,59,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,34,59,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,34,59,1.0,10.0,0.0,0,18.55,6.68
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,34,54,1.0,10.0,0.0,0,19.31,5.36
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,34,54,1.0,10.0,0.0,0,18.23,8.07
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,34,54,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,34,54,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,34,54,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,34,54,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,34,54,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,34,54,1.0,10.0,0.0,0,18.86,6.57
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,29,79,1.0,10.0,0.0,0,18.22,8.44
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,29,79,1.0,10.0,0.0,0,18.81,8.81
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,34,59,1.0,10.0,0.0,0,18.23,8.07
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.09,3.55
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,29,74,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,29,69,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,29,69,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,29,69,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,29,69,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,29,69,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,29,69,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,29,69,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,29,69,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,29,69,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,29,69,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,29,69,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,29,69,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,29,74,1.0,10.0,0.0,0,17.21,7.9
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.42,7.57
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.09,3.55
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,29,74,1.0,10.0,0.0,0,20.47,8.59
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,29,79,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,29,79,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,29,74,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,29,74,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,29,74,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,29,74,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,29,74,1.0,10.0,0.0,0,18.87,6.79
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,18.02,5.45
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,29,74,1.0,10.0,0.0,0,18.81,8.81
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,29,74,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,29,74,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,29,74,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,29,74,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,29,74,1.0,10.0,0.0,0,20.97,6.34
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,16.85,7.85
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,34,59,1.0,10.0,0.0,0,18.86,6.57
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,29,69,1.0,10.0,0.0,0,18.55,6.68
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,34,69,1.0,10.0,0.0,0,18.87,6.79
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,34,74,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,34,74,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,34,74,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,34,74,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,34,74,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,34,74,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,34,74,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,34,74,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,34,74,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,34,74,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,34,69,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,34,69,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,34,69,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,34,74,1.0,10.0,0.0,0,17.75,8.65
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,34,74,1.0,10.0,0.0,0,18.59,8.01
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,34,74,1.0,10.0,0.0,0,19.31,5.36
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,34,79,1.0,10.0,0.0,0,18.23,8.07
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,34,79,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,34,79,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,34,79,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,34,79,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,34,79,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,34,79,1.0,10.0,0.0,0,18.86,6.57
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0,16.85,7.85
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,34,74,1.0,10.0,0.0,0,18.53,8.17
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,34,79,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,34,79,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,34,79,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,34,79,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,34,79,1.0,10.0,0.0,0,18.55,6.68
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,34,69,1.0,10.0,0.0,0,17.75,8.65
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,34,69,1.0,10.0,0.0,0,20.47,8.59
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.28,7.4
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,18.02,5.45
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,34,64,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,34,64,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,34,64,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,34,64,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,34,64,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,34,64,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,34,64,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,34,59,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,34,59,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,34,59,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,34,59,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,34,59,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,34,59,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,34,59,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.28,7.4
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,34,64,1.0,10.0,0.0,0,20.93,6.87
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,18.02,5.45
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,34,69,1.0,10.0,0.0,0,18.81,8.81
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,34,69,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,34,69,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,34,69,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,34,69,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,34,69,1.0,10.0,0.0,0,20.97,6.34
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.09,3.55
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,34,64,1.0,10.0,0.0,0,20.47,8.59
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,34,69,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,34,69,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,34,64,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,34,64,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,34,64,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,34,64,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,34,64,1.0,10.0,0.0,0,18.87,6.79
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,29,69,1.0,10.0,0.0,0,17.21,7.9
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,29,64,1.0,10.0,0.0,0,18.53,8.17
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,34,79,1.0,10.0,0.0,0,18.53,8.17
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,24,64,1.0,10.0,0.0,0,20.97,6.34
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,24,69,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,24,69,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,24,69,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,24,69,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,24,64,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,24,64,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,24,64,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,24,64,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,24,64,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,24,64,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,24,64,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,24,64,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,24,64,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,24,69,1.0,10.0,0.0,0,18.22,8.44
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.81,9.39
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0,16.85,7.85
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,24,69,1.0,10.0,0.0,0,18.53,8.17
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,24,74,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,24,74,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,24,74,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,24,74,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,24,74,1.0,10.0,0.0,0,18.55,6.68
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,24,69,1.0,10.0,0.0,0,19.31,5.36
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,24,69,1.0,10.0,0.0,0,18.23,8.07
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,24,69,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,24,69,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,24,69,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,24,69,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,24,69,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,24,69,1.0,10.0,0.0,0,18.86,6.57
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,24,64,1.0,10.0,0.0,0,18.22,8.44
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,24,64,1.0,10.0,0.0,0,18.81,8.81
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,24,74,1.0,10.0,0.0,0,18.23,8.07
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.09,3.55
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,24,59,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,24,54,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,24,54,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,24,54,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,24,54,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,24,54,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,24,54,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,24,54,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,24,54,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,24,54,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,24,54,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,24,54,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,24,54,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,24,59,1.0,10.0,0.0,0,17.21,7.9
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.42,7.57
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.09,3.55
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,24,59,1.0,10.0,0.0,0,20.47,8.59
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,24,64,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,24,64,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,24,59,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,24,59,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,24,59,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,24,59,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,24,59,1.0,10.0,0.0,0,18.87,6.79
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0,18.02,5.45
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,24,59,1.0,10.0,0.0,0,18.81,8.81
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,24,59,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,24,59,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,24,59,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,24,59,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,24,59,1.0,10.0,0.0,0,20.97,6.34
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0,16.85,7.85
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,24,74,1.0,10.0,0.0,0,18.86,6.57
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,29,64,1.0,10.0,0.0,0,19.31,5.36
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,29,54,1.0,10.0,0.0,0,18.87,6.79
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,29,59,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,29,59,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,29,59,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,29,59,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,29,59,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,29,59,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,29,59,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,29,59,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,29,59,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,29,59,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,29,54,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,29,54,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,29,54,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,29,59,1.0,10.0,0.0,0,17.75,8.65
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,29,59,1.0,10.0,0.0,0,18.59,8.01
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,29,59,1.0,10.0,0.0,0,19.31,5.36
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,29,64,1.0,10.0,0.0,0,18.23,8.07
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,29,64,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,29,64,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,29,64,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,29,64,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,29,64,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,29,64,1.0,10.0,0.0,0,18.86,6.57
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,16.85,7.85
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,29,59,1.0,10.0,0.0,0,18.53,8.17
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,29,64,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,29,64,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,29,64,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,29,64,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,29,64,1.0,10.0,0.0,0,18.55,6.68
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,29,54,1.0,10.0,0.0,0,17.75,8.65
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,29,54,1.0,10.0,0.0,0,20.47,8.59
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.28,7.4
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,18.02,5.45
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,24,79,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,24,79,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,24,79,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,24,79,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,24,79,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,24,79,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,24,79,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,24,74,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,24,74,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,24,74,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,24,74,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,24,74,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,24,74,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,24,74,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.28,7.4
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,24,79,1.0,10.0,0.0,0,20.93,6.87
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0,18.02,5.45
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,29,54,1.0,10.0,0.0,0,18.81,8.81
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,29,54,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,29,54,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,29,54,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,29,54,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,29,54,1.0,10.0,0.0,0,20.97,6.34
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.09,3.55
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,24,79,1.0,10.0,0.0,0,20.47,8.59
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,29,54,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,29,54,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,24,79,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,24,79,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,24,79,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,24,79,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,24,79,1.0,10.0,0.0,0,18.87,6.79
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,34,79,1.0,10.0,0.0,0,19.31,5.36
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,39,54,1.0,10.0,0.0,0,18.55,6.68
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,49,79,1.0,10.0,0.0,0,19.31,5.36
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,44,79,1.0,10.0,0.0,0,20.97,6.34
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,49,54,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,49,54,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,49,54,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,49,54,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,44,79,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,44,79,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,44,79,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,44,79,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,44,79,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,44,79,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,44,79,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,44,79,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,44,79,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,49,54,1.0,10.0,0.0,0,18.22,8.44
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.81,9.39
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,16.85,7.85
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,49,54,1.0,10.0,0.0,0,18.53,8.17
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,49,59,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,49,59,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,49,59,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,49,59,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,49,59,1.0,10.0,0.0,0,18.55,6.68
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,49,54,1.0,10.0,0.0,0,19.31,5.36
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,49,54,1.0,10.0,0.0,0,18.23,8.07
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,49,54,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,49,54,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,49,54,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,49,54,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,49,54,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,49,54,1.0,10.0,0.0,0,18.86,6.57
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,44,79,1.0,10.0,0.0,0,18.22,8.44
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,44,79,1.0,10.0,0.0,0,18.81,8.81
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,49,59,1.0,10.0,0.0,0,18.23,8.07
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.09,3.55
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,44,74,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,44,69,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,44,69,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,44,69,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,44,69,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,44,69,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,44,69,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,44,69,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,44,69,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,44,69,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,44,69,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,44,69,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,44,69,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,44,74,1.0,10.0,0.0,0,17.21,7.9
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.42,7.57
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.09,3.55
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,44,74,1.0,10.0,0.0,0,20.47,8.59
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,44,79,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,44,79,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,44,74,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,44,74,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,44,74,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,44,74,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,44,74,1.0,10.0,0.0,0,18.87,6.79
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,18.02,5.45
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,44,74,1.0,10.0,0.0,0,18.81,8.81
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,44,74,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,44,74,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,44,74,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,44,74,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,44,74,1.0,10.0,0.0,0,20.97,6.34
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,16.85,7.85
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,49,59,1.0,10.0,0.0,0,18.86,6.57
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,44,69,1.0,10.0,0.0,0,18.55,6.68
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,49,69,1.0,10.0,0.0,0,18.87,6.79
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,49,74,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,49,74,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,49,74,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,49,74,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,49,74,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,49,74,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,49,74,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,49,74,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,49,74,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,49,74,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,49,69,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,49,69,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,49,69,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,49,74,1.0,10.0,0.0,0,17.75,8.65
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,49,74,1.0,10.0,0.0,0,18.59,8.01
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,49,74,1.0,10.0,0.0,0,19.31,5.36
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,49,79,1.0,10.0,0.0,0,18.23,8.07
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,49,79,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,49,79,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,49,79,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,49,79,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,49,79,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,49,79,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,49,79,1.0,10.0,0.0,0,18.86,6.57
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,49,79,1.0,10.0,0.0,0,16.85,7.85
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,49,74,1.0,10.0,0.0,0,18.53,8.17
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,49,79,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,49,79,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,49,79,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,49,79,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,49,79,1.0,10.0,0.0,0,18.55,6.68
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,49,69,1.0,10.0,0.0,0,17.75,8.65
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,49,69,1.0,10.0,0.0,0,20.47,8.59
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.28,7.4
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,18.02,5.45
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,49,64,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,49,64,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,49,64,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,49,64,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,49,64,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,49,64,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,49,64,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,49,59,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,49,59,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,49,59,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,49,59,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,49,59,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,49,59,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,49,59,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.28,7.4
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,49,64,1.0,10.0,0.0,0,20.93,6.87
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,18.02,5.45
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,49,69,1.0,10.0,0.0,0,18.81,8.81
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,49,69,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,49,69,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,49,69,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,49,69,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,49,69,1.0,10.0,0.0,0,20.97,6.34
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.09,3.55
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,49,64,1.0,10.0,0.0,0,20.47,8.59
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,49,69,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,49,69,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,49,64,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,49,64,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,49,64,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,49,64,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,49,64,1.0,10.0,0.0,0,18.87,6.79
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,44,69,1.0,10.0,0.0,0,17.21,7.9
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,44,64,1.0,10.0,0.0,0,18.53,8.17
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,39,54,1.0,10.0,0.0,0,17.21,7.9
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,39,64,1.0,10.0,0.0,0,20.97,6.34
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,39,69,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,39,69,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,39,69,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,39,69,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,39,64,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,39,64,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,39,64,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,39,64,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,39,64,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,39,64,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,39,64,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,39,64,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,39,64,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,39,69,1.0,10.0,0.0,0,18.22,8.44
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.81,9.39
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,16.85,7.85
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,39,69,1.0,10.0,0.0,0,18.53,8.17
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,39,74,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,39,74,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,39,74,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,39,74,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,39,74,1.0,10.0,0.0,0,18.55,6.68
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,39,69,1.0,10.0,0.0,0,19.31,5.36
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,39,69,1.0,10.0,0.0,0,18.23,8.07
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,39,69,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,39,69,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,39,69,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,39,69,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,39,69,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,39,69,1.0,10.0,0.0,0,18.86,6.57
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,39,64,1.0,10.0,0.0,0,18.22,8.44
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,39,64,1.0,10.0,0.0,0,18.81,8.81
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,39,74,1.0,10.0,0.0,0,18.23,8.07
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.09,3.55
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,39,59,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,39,54,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,39,54,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,39,54,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,39,54,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,39,54,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,39,54,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,39,54,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,39,54,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,39,54,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,39,54,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,39,54,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,39,54,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,39,59,1.0,10.0,0.0,0,17.21,7.9
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.42,7.57
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.09,3.55
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,39,59,1.0,10.0,0.0,0,20.47,8.59
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,39,64,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,39,64,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,39,59,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,39,59,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,39,59,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,39,59,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,39,59,1.0,10.0,0.0,0,18.87,6.79
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,18.02,5.45
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,39,59,1.0,10.0,0.0,0,18.81,8.81
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,39,59,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,39,59,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,39,59,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,39,59,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,39,59,1.0,10.0,0.0,0,20.97,6.34
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,16.85,7.85
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,39,74,1.0,10.0,0.0,0,18.86,6.57
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,44,64,1.0,10.0,0.0,0,19.31,5.36
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,44,54,1.0,10.0,0.0,0,18.87,6.79
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,44,59,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,44,59,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,44,59,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,44,59,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,44,59,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,44,59,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,44,59,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,44,59,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,44,59,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,44,59,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,44,54,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,44,54,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,44,54,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,44,59,1.0,10.0,0.0,0,17.75,8.65
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,44,59,1.0,10.0,0.0,0,18.59,8.01
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,44,59,1.0,10.0,0.0,0,19.31,5.36
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,44,64,1.0,10.0,0.0,0,18.23,8.07
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,44,64,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,44,64,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,44,64,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,44,64,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,44,64,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,44,64,1.0,10.0,0.0,0,18.86,6.57
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,16.85,7.85
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,44,59,1.0,10.0,0.0,0,18.53,8.17
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,44,64,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,44,64,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,44,64,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,44,64,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,44,64,1.0,10.0,0.0,0,18.55,6.68
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,44,54,1.0,10.0,0.0,0,17.75,8.65
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,44,54,1.0,10.0,0.0,0,20.47,8.59
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.28,7.4
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,18.02,5.45
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,39,79,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,39,79,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,39,79,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,39,79,1.0,10.0,0.0,0,20.97,6.34
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,39,79,1.0,10.0,0.0,0,18.81,8.81
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.09,3.55
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,39,79,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,39,79,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,39,74,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,39,74,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,39,74,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,39,74,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,39,74,1.0,10.0,0.0,0,18.87,6.79
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,39,74,1.0,10.0,0.0,0,20.47,8.59
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,18.02,5.45
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,39,74,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.28,7.4
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,39,79,1.0,10.0,0.0,0,20.93,6.87
+50,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0,18.02,5.45
+50,APRT.K,AllianzIM US Large Cap Buffer10 Apr ETF,5,60,14,44,54,1.0,10.0,0.0,0,18.81,8.81
+50,MAYT.K,AllianzIM US Large Cap Buffer10 May ETF,5,60,14,44,54,1.0,10.0,0.0,0,20.93,6.87
+50,SEPT.K,AllianzIM US Large Cap Buffer10 Sep ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.28,7.4
+50,JUNT.K,AllianzIM US Large Cap Buffer10 Jun ETF,5,60,14,44,54,1.0,10.0,0.0,0,18.86,6.57
+50,AUGT.K,AllianzIM US Large Cap Buffer10 Aug ETF,5,60,14,44,54,1.0,10.0,0.0,0,18.23,8.07
+50,FHEQ.K,Fidelity Hedged Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,16.85,7.85
+50,ERNZ.O,TrueShares Active Yield ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.81,9.39
+50,FEBT.K,AllianzIM US Large Cap Buffer10 Feb ETF,5,60,14,44,54,1.0,10.0,0.0,0,18.22,8.44
+50,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,44,54,1.0,10.0,0.0,0,20.97,6.34
+50,SIXD.K,AllianzIM US LargeCap 6 Month Buffer10 Jun/Dec ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.09,3.55
+50,CCEF.K,Calamos CEF Income & Arbitrage ETF,5,60,14,39,79,1.0,10.0,0.0,0,20.47,8.59
+50,MART.K,AllianzIM US Large Cap Buffer10 Mar ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.42,7.57
+50,RSJN.K,FT Vest US Eqty Equal Weight Buff - Jun,5,60,14,44,54,1.0,10.0,0.0,0,17.21,7.9
+50,IBDZ.K,iShares iBonds Dec 2034 Term Corporate ETF,5,60,14,44,54,1.0,10.0,0.0,0,18.55,6.68
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,60,14,39,79,1.0,10.0,0.0,0,18.53,8.17
+50,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,39,79,1.0,10.0,0.0,0,19.31,5.36
+50,SNOV.K,FT Vest US Small Cp Moderate Buffer ETF - Nov,5,60,14,39,79,1.0,10.0,0.0,0,18.59,8.01
+50,OCTT.K,AllianzIM US Large Cap Buffer10 Oct ETF,5,60,14,39,79,1.0,10.0,0.0,0,17.75,8.65
+50,IRTR.K,iShares LifePath Retirement ETF,5,60,14,39,79,1.0,10.0,0.0,0,18.87,6.79
+50,IMAY.K,Innovator Intl Developed Power Buffer ETF - May,5,120,14,49,79,1.0,10.0,0.0,0,18.53,8.17

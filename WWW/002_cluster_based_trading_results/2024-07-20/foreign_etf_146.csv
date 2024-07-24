@@ -1,0 +1,289 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,29,69,1.0,10.0,-24.43,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,29,54,1.0,10.0,-24.43,0.0,-33.33,52.12
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,29,54,1.0,10.0,-24.43,-24.59,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,29,59,1.0,10.0,-24.43,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,29,59,1.0,10.0,-24.43,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,29,59,1.0,10.0,-24.43,-35.23,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,29,59,1.0,10.0,-24.43,-24.59,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,29,64,1.0,10.0,-24.43,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,29,64,1.0,10.0,-24.43,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,29,64,1.0,10.0,-24.43,-35.23,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,29,64,1.0,10.0,-24.43,-24.59,-34.41,52.54
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,29,69,1.0,10.0,-24.43,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,29,69,1.0,10.0,-24.43,-35.23,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,29,69,1.0,10.0,-24.43,-24.59,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,29,74,1.0,10.0,-24.43,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,29,74,1.0,10.0,-24.43,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,29,74,1.0,10.0,-24.43,-35.23,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,29,74,1.0,10.0,-24.43,-24.59,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,29,79,1.0,10.0,-24.43,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,29,79,1.0,10.0,-24.43,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,29,79,1.0,10.0,-24.43,-35.23,-27.64,50.97
+146,REW,ProShares UltraShort Technology,5,60,14,29,54,1.0,10.0,-24.43,-35.23,-27.64,50.97
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,29,54,1.0,10.0,-24.43,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,29,79,1.0,10.0,-24.43,-24.59,-34.41,52.54
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,34,54,1.0,10.0,-24.64,0.0,-33.33,52.12
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,34,79,1.0,10.0,-24.64,-24.59,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,60,14,34,79,1.0,10.0,-24.64,-36.07,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,34,79,1.0,10.0,-24.64,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,34,79,1.0,10.0,-24.64,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,34,74,1.0,10.0,-24.64,-24.59,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,60,14,34,74,1.0,10.0,-24.64,-36.07,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,34,74,1.0,10.0,-24.64,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,34,74,1.0,10.0,-24.64,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,34,69,1.0,10.0,-24.64,-24.59,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,60,14,34,69,1.0,10.0,-24.64,-36.07,-27.64,50.97
+146,REW,ProShares UltraShort Technology,5,60,14,34,54,1.0,10.0,-24.64,-36.07,-27.64,50.97
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,34,54,1.0,10.0,-24.64,-37.91,-31.49,48.98
+146,REW,ProShares UltraShort Technology,5,60,14,39,54,1.0,10.0,-24.64,-36.07,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,34,64,1.0,10.0,-24.64,-24.59,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,60,14,34,64,1.0,10.0,-24.64,-36.07,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,34,64,1.0,10.0,-24.64,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,34,64,1.0,10.0,-24.64,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,34,59,1.0,10.0,-24.64,-24.59,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,60,14,34,59,1.0,10.0,-24.64,-36.07,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,34,59,1.0,10.0,-24.64,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,34,59,1.0,10.0,-24.64,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,34,54,1.0,10.0,-24.64,-24.59,-34.41,52.54
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,34,69,1.0,10.0,-24.64,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,34,69,1.0,10.0,-24.64,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,39,54,1.0,10.0,-24.64,0.0,-33.33,52.12
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,39,54,1.0,10.0,-24.64,-24.59,-34.41,52.54
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,39,79,1.0,10.0,-24.64,-24.59,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,60,14,39,79,1.0,10.0,-24.64,-36.07,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,39,79,1.0,10.0,-24.64,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,39,79,1.0,10.0,-24.64,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,39,74,1.0,10.0,-24.64,-24.59,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,60,14,39,74,1.0,10.0,-24.64,-36.07,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,39,74,1.0,10.0,-24.64,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,39,74,1.0,10.0,-24.64,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,39,69,1.0,10.0,-24.64,-24.59,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,60,14,39,69,1.0,10.0,-24.64,-36.07,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,39,69,1.0,10.0,-24.64,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,39,69,1.0,10.0,-24.64,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,39,64,1.0,10.0,-24.64,-24.59,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,60,14,39,64,1.0,10.0,-24.64,-36.07,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,39,64,1.0,10.0,-24.64,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,39,64,1.0,10.0,-24.64,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,39,59,1.0,10.0,-24.64,-24.59,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,60,14,39,59,1.0,10.0,-24.64,-36.07,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,39,59,1.0,10.0,-24.64,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,39,59,1.0,10.0,-24.64,-37.91,-31.49,48.98
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,39,54,1.0,10.0,-24.64,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,24,54,1.0,10.0,-24.78,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,24,54,1.0,10.0,-24.78,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,24,59,1.0,10.0,-24.78,-24.59,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,24,69,1.0,10.0,-24.78,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,24,79,1.0,10.0,-24.78,-24.59,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,60,14,24,54,1.0,10.0,-24.78,-36.6,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,24,54,1.0,10.0,-24.78,-24.59,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,24,59,1.0,10.0,-24.78,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,24,59,1.0,10.0,-24.78,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,24,59,1.0,10.0,-24.78,-36.6,-27.64,50.97
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,24,64,1.0,10.0,-24.78,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,24,64,1.0,10.0,-24.78,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,24,64,1.0,10.0,-24.78,-36.6,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,24,64,1.0,10.0,-24.78,-24.59,-34.41,52.54
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,24,69,1.0,10.0,-24.78,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,24,69,1.0,10.0,-24.78,-36.6,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,24,69,1.0,10.0,-24.78,-24.59,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,24,74,1.0,10.0,-24.78,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,24,74,1.0,10.0,-24.78,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,24,74,1.0,10.0,-24.78,-36.6,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,24,74,1.0,10.0,-24.78,-24.59,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,24,79,1.0,10.0,-24.78,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,24,79,1.0,10.0,-24.78,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,24,79,1.0,10.0,-24.78,-36.6,-27.64,50.97
+146,REW,ProShares UltraShort Technology,5,60,14,49,59,1.0,10.0,-24.82,-36.77,-27.64,50.97
+146,REW,ProShares UltraShort Technology,5,60,14,49,64,1.0,10.0,-24.82,-36.77,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,49,64,1.0,10.0,-24.82,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,49,64,1.0,10.0,-24.82,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,49,59,1.0,10.0,-24.82,-24.59,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,49,54,1.0,10.0,-24.82,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,49,59,1.0,10.0,-24.82,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,49,59,1.0,10.0,-24.82,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,49,54,1.0,10.0,-24.82,-24.59,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,60,14,49,54,1.0,10.0,-24.82,-36.77,-27.64,50.97
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,49,69,1.0,10.0,-24.82,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,49,64,1.0,10.0,-24.82,-24.59,-34.41,52.54
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,49,79,1.0,10.0,-24.82,-24.59,-34.41,52.54
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,49,69,1.0,10.0,-24.82,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,49,69,1.0,10.0,-24.82,-36.77,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,49,69,1.0,10.0,-24.82,-24.59,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,49,74,1.0,10.0,-24.82,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,49,74,1.0,10.0,-24.82,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,49,74,1.0,10.0,-24.82,-36.77,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,49,74,1.0,10.0,-24.82,-24.59,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,49,79,1.0,10.0,-24.82,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,49,79,1.0,10.0,-24.82,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,49,79,1.0,10.0,-24.82,-36.77,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,49,54,1.0,10.0,-24.82,0.0,-33.33,52.12
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,44,79,1.0,10.0,-24.82,-24.59,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,60,14,44,79,1.0,10.0,-24.82,-36.77,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,44,64,1.0,10.0,-24.82,-24.59,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,44,54,1.0,10.0,-24.82,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,44,54,1.0,10.0,-24.82,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,44,54,1.0,10.0,-24.82,-36.77,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,44,54,1.0,10.0,-24.82,-24.59,-34.41,52.54
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,44,59,1.0,10.0,-24.82,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,44,59,1.0,10.0,-24.82,-36.77,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,44,59,1.0,10.0,-24.82,-24.59,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,44,64,1.0,10.0,-24.82,-37.91,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,44,64,1.0,10.0,-24.82,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,60,14,44,64,1.0,10.0,-24.82,-36.77,-27.64,50.97
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,44,59,1.0,10.0,-24.82,-37.91,-31.49,48.98
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,44,69,1.0,10.0,-24.82,-37.91,-31.49,48.98
+146,REW,ProShares UltraShort Technology,5,60,14,44,74,1.0,10.0,-24.82,-36.77,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,44,69,1.0,10.0,-24.82,0.0,-33.33,52.12
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,44,79,1.0,10.0,-24.82,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,44,79,1.0,10.0,-24.82,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,44,74,1.0,10.0,-24.82,-24.59,-34.41,52.54
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,60,14,44,74,1.0,10.0,-24.82,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,60,14,44,74,1.0,10.0,-24.82,-37.91,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,60,14,44,69,1.0,10.0,-24.82,-24.59,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,60,14,44,69,1.0,10.0,-24.82,-36.77,-27.64,50.97
+146,REW,ProShares UltraShort Technology,5,120,14,34,54,1.0,10.0,-25.26,-35.69,-27.64,50.97
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,29,79,1.0,10.0,-25.26,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,34,54,1.0,10.0,-25.26,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,34,54,1.0,10.0,-25.26,-38.48,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,29,79,1.0,10.0,-25.26,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,29,79,1.0,10.0,-25.26,-35.69,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,29,79,1.0,10.0,-25.26,0.0,-33.33,52.12
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,29,69,1.0,10.0,-25.26,-26.85,-34.41,52.54
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,29,74,1.0,10.0,-25.26,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,29,74,1.0,10.0,-25.26,-35.69,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,29,74,1.0,10.0,-25.26,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,29,74,1.0,10.0,-25.26,-38.48,-31.49,48.98
+146,REW,ProShares UltraShort Technology,5,120,14,29,69,1.0,10.0,-25.26,-35.69,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,29,69,1.0,10.0,-25.26,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,34,59,1.0,10.0,-25.26,-38.48,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,34,54,1.0,10.0,-25.26,-26.85,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,29,69,1.0,10.0,-25.26,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,34,59,1.0,10.0,-25.26,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,34,69,1.0,10.0,-25.26,-35.69,-27.64,50.97
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,34,79,1.0,10.0,-25.26,-38.48,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,34,74,1.0,10.0,-25.26,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,34,74,1.0,10.0,-25.26,-35.69,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,34,74,1.0,10.0,-25.26,0.0,-33.33,52.12
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,29,64,1.0,10.0,-25.26,-26.85,-34.41,52.54
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,34,69,1.0,10.0,-25.26,-26.85,-34.41,52.54
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,34,69,1.0,10.0,-25.26,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,34,59,1.0,10.0,-25.26,-35.69,-27.64,50.97
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,34,69,1.0,10.0,-25.26,-38.48,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,34,64,1.0,10.0,-25.26,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,34,64,1.0,10.0,-25.26,-35.69,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,34,64,1.0,10.0,-25.26,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,34,64,1.0,10.0,-25.26,-38.48,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,34,59,1.0,10.0,-25.26,-26.85,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,34,74,1.0,10.0,-25.26,-38.48,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,34,79,1.0,10.0,-25.26,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,29,64,1.0,10.0,-25.26,-35.69,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,29,54,1.0,10.0,-25.26,-26.85,-34.41,52.54
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,29,64,1.0,10.0,-25.26,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,34,79,1.0,10.0,-25.26,-35.69,-27.64,50.97
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,29,54,1.0,10.0,-25.26,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,29,54,1.0,10.0,-25.26,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,29,54,1.0,10.0,-25.26,-35.69,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,34,79,1.0,10.0,-25.26,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,29,59,1.0,10.0,-25.26,-38.48,-31.49,48.98
+146,REW,ProShares UltraShort Technology,5,120,14,29,59,1.0,10.0,-25.26,-35.69,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,29,59,1.0,10.0,-25.26,-26.85,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,29,64,1.0,10.0,-25.26,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,29,59,1.0,10.0,-25.26,0.0,-33.33,52.12
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,44,64,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,44,54,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,44,54,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,44,59,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,44,59,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,44,59,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,44,59,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,44,64,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,44,64,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,44,64,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,REW,ProShares UltraShort Technology,5,120,14,44,69,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,44,69,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,44,69,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,44,69,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,44,74,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,44,74,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,44,74,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,44,79,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,44,79,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,44,79,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,44,79,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,44,74,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,44,54,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,49,54,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,49,54,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,49,79,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,49,79,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,49,79,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,49,74,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,49,74,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,49,74,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,49,74,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,49,69,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,49,69,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,49,69,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,49,69,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,49,64,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,49,64,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,49,64,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,49,64,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,49,59,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,49,59,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,49,59,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,49,59,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,49,54,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,49,54,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,44,54,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,49,79,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,39,79,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,39,64,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,REW,ProShares UltraShort Technology,5,120,14,39,79,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,39,54,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,39,54,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,39,54,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,39,54,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,39,59,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,39,59,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,39,59,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,39,64,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,39,64,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,39,59,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,39,64,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,39,74,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,39,69,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,39,79,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,39,74,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,39,74,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,39,79,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,39,74,1.0,10.0,-25.4,-38.48,-31.49,48.98
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,39,69,1.0,10.0,-25.4,-26.85,-34.41,52.54
+146,REW,ProShares UltraShort Technology,5,120,14,39,69,1.0,10.0,-25.4,-36.27,-27.64,50.97
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,39,69,1.0,10.0,-25.4,0.0,-33.33,52.12
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,24,64,1.0,10.0,-25.63,-26.85,-34.41,52.54
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,24,54,1.0,10.0,-25.63,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,24,54,1.0,10.0,-25.63,-37.2,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,24,54,1.0,10.0,-25.63,-26.85,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,24,59,1.0,10.0,-25.63,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,24,59,1.0,10.0,-25.63,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,24,59,1.0,10.0,-25.63,-37.2,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,24,59,1.0,10.0,-25.63,-26.85,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,24,64,1.0,10.0,-25.63,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,24,64,1.0,10.0,-25.63,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,24,64,1.0,10.0,-25.63,-37.2,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,24,79,1.0,10.0,-25.63,-26.85,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,24,69,1.0,10.0,-25.63,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,24,69,1.0,10.0,-25.63,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,24,69,1.0,10.0,-25.63,-37.2,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,24,69,1.0,10.0,-25.63,-26.85,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,24,74,1.0,10.0,-25.63,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,24,74,1.0,10.0,-25.63,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,24,74,1.0,10.0,-25.63,-37.2,-27.64,50.97
+146,MJUS.K,Amplify U.S. Alternative Harvest ETF,5,120,14,24,74,1.0,10.0,-25.63,-26.85,-34.41,52.54
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,24,79,1.0,10.0,-25.63,-38.48,-31.49,48.98
+146,SKRE.O,Tuttle Capital Daily 2X Inverse Regional Banks ETF,5,120,14,24,79,1.0,10.0,-25.63,0.0,-33.33,52.12
+146,REW,ProShares UltraShort Technology,5,120,14,24,79,1.0,10.0,-25.63,-37.2,-27.64,50.97
+146,SDOW.K,ProShares UltraPro Short Dow30,5,120,14,24,54,1.0,10.0,-25.63,-38.48,-31.49,48.98

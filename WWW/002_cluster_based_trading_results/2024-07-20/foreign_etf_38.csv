@@ -1,0 +1,433 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+38,UYG,ProShares Ultra Financials,5,120,14,44,54,1.0,10.0,161.53,163.89,25.38,40.51
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,44,54,1.0,10.0,161.53,0.0,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,120,14,44,54,1.0,10.0,161.53,689.46,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,120,14,44,54,1.0,10.0,161.53,51.48,27.89,43.53
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,44,54,1.0,10.0,161.53,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,44,54,1.0,10.0,161.53,64.33,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,49,59,1.0,10.0,145.03,0.0,27.51,44.4
+38,UXI,ProShares Ultra Industrials,5,60,14,49,59,1.0,10.0,145.03,59.68,28.99,38.04
+38,UYG,ProShares Ultra Financials,5,60,14,49,59,1.0,10.0,145.03,44.38,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,49,59,1.0,10.0,145.03,16.17,27.89,43.53
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,49,59,1.0,10.0,145.03,726.03,32.15,41.28
+38,MVV,ProShares Ultra MidCap400,5,60,14,49,59,1.0,10.0,145.03,23.89,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,49,64,1.0,10.0,142.39,46.15,25.38,40.51
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,49,64,1.0,10.0,142.39,726.03,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,49,64,1.0,10.0,142.39,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,49,64,1.0,10.0,142.39,26.12,26.97,40.02
+38,UXI,ProShares Ultra Industrials,5,60,14,49,64,1.0,10.0,142.39,30.59,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,60,14,49,64,1.0,10.0,142.39,25.48,27.89,43.53
+38,MVV,ProShares Ultra MidCap400,5,120,14,49,64,1.0,10.0,131.31,26.17,26.97,40.02
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,49,64,1.0,10.0,131.31,658.89,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,49,64,1.0,10.0,131.31,0.0,27.51,44.4
+38,SAA,ProShares Ultra SmallCap600,5,120,14,49,64,1.0,10.0,131.31,27.13,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,120,14,49,64,1.0,10.0,131.31,45.37,25.38,40.51
+38,UXI,ProShares Ultra Industrials,5,120,14,49,64,1.0,10.0,131.31,30.33,28.99,38.04
+38,UYG,ProShares Ultra Financials,5,120,14,49,59,1.0,10.0,127.23,37.66,25.38,40.51
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,49,59,1.0,10.0,127.23,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,49,59,1.0,10.0,127.23,23.02,26.97,40.02
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,49,59,1.0,10.0,127.23,658.89,32.15,41.28
+38,SAA,ProShares Ultra SmallCap600,5,120,14,49,59,1.0,10.0,127.23,13.63,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,49,59,1.0,10.0,127.23,30.15,28.99,38.04
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,49,69,1.0,10.0,113.82,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,49,69,1.0,10.0,113.82,560.02,32.15,41.28
+38,UYG,ProShares Ultra Financials,5,60,14,49,69,1.0,10.0,113.82,34.77,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,49,69,1.0,10.0,113.82,27.11,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,49,69,1.0,10.0,113.82,34.11,28.99,38.04
+38,MVV,ProShares Ultra MidCap400,5,60,14,49,69,1.0,10.0,113.82,26.92,26.97,40.02
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,49,79,1.0,10.0,109.08,560.02,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,49,79,1.0,10.0,109.08,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,49,79,1.0,10.0,109.08,20.53,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,49,79,1.0,10.0,109.08,22.72,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,49,79,1.0,10.0,109.08,23.83,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,49,79,1.0,10.0,109.08,27.37,28.99,38.04
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,49,69,1.0,10.0,108.75,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,49,69,1.0,10.0,108.75,27.41,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,49,69,1.0,10.0,108.75,47.73,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,49,69,1.0,10.0,108.75,27.45,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,49,69,1.0,10.0,108.75,36.23,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,49,69,1.0,10.0,108.75,513.7,32.15,41.28
+38,MVV,ProShares Ultra MidCap400,5,60,14,49,74,1.0,10.0,108.55,20.0,26.97,40.02
+38,UXI,ProShares Ultra Industrials,5,60,14,49,74,1.0,10.0,108.55,24.49,28.99,38.04
+38,UYG,ProShares Ultra Financials,5,60,14,49,74,1.0,10.0,108.55,25.99,25.38,40.51
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,49,74,1.0,10.0,108.55,560.02,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,49,74,1.0,10.0,108.55,0.0,27.51,44.4
+38,SAA,ProShares Ultra SmallCap600,5,60,14,49,74,1.0,10.0,108.55,20.8,27.89,43.53
+38,SAA,ProShares Ultra SmallCap600,5,60,14,49,54,1.0,10.0,107.23,40.47,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,49,54,1.0,10.0,107.23,98.18,28.99,38.04
+38,UYG,ProShares Ultra Financials,5,60,14,49,54,1.0,10.0,107.23,43.79,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,60,14,49,54,1.0,10.0,107.23,72.11,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,49,54,1.0,10.0,107.23,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,49,54,1.0,10.0,107.23,388.82,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,120,14,49,79,1.0,10.0,100.45,22.45,28.99,38.04
+38,UYG,ProShares Ultra Financials,5,120,14,49,79,1.0,10.0,100.45,29.61,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,49,79,1.0,10.0,100.45,18.3,27.89,43.53
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,49,79,1.0,10.0,100.45,513.7,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,49,79,1.0,10.0,100.45,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,49,79,1.0,10.0,100.45,18.65,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,49,74,1.0,10.0,100.36,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,49,74,1.0,10.0,100.36,17.25,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,49,74,1.0,10.0,100.36,33.22,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,49,74,1.0,10.0,100.36,17.03,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,49,74,1.0,10.0,100.36,20.97,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,49,74,1.0,10.0,100.36,513.7,32.15,41.28
+38,MVV,ProShares Ultra MidCap400,5,60,14,39,54,1.0,10.0,80.98,116.67,26.97,40.02
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,39,54,1.0,10.0,80.98,0.0,32.15,41.28
+38,UYG,ProShares Ultra Financials,5,60,14,39,54,1.0,10.0,80.98,85.15,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,39,54,1.0,10.0,80.98,168.43,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,39,54,1.0,10.0,80.98,115.62,28.99,38.04
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,39,54,1.0,10.0,80.98,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,39,59,1.0,10.0,80.51,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,39,59,1.0,10.0,80.51,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,39,59,1.0,10.0,80.51,135.53,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,39,59,1.0,10.0,80.51,56.46,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,39,59,1.0,10.0,80.51,177.48,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,39,59,1.0,10.0,80.51,113.57,28.99,38.04
+38,UXI,ProShares Ultra Industrials,5,120,14,49,54,1.0,10.0,69.81,32.94,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,49,54,1.0,10.0,69.81,271.01,32.15,41.28
+38,SAA,ProShares Ultra SmallCap600,5,120,14,49,54,1.0,10.0,69.81,29.72,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,120,14,49,54,1.0,10.0,69.81,37.19,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,120,14,49,54,1.0,10.0,69.81,48.0,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,49,54,1.0,10.0,69.81,0.0,27.51,44.4
+38,UXI,ProShares Ultra Industrials,5,120,14,44,64,1.0,10.0,52.77,28.1,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,120,14,44,64,1.0,10.0,52.77,80.59,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,120,14,44,64,1.0,10.0,52.77,90.28,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,120,14,44,64,1.0,10.0,52.77,117.67,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,44,64,1.0,10.0,52.77,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,44,64,1.0,10.0,52.77,0.0,32.15,41.28
+38,UYG,ProShares Ultra Financials,5,60,14,39,64,1.0,10.0,51.46,70.42,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,60,14,39,64,1.0,10.0,51.46,83.78,26.97,40.02
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,39,64,1.0,10.0,51.46,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,39,64,1.0,10.0,51.46,0.0,27.51,44.4
+38,UXI,ProShares Ultra Industrials,5,60,14,39,64,1.0,10.0,51.46,45.06,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,60,14,39,64,1.0,10.0,51.46,109.52,27.89,43.53
+38,MVV,ProShares Ultra MidCap400,5,120,14,44,69,1.0,10.0,50.96,108.92,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,44,69,1.0,10.0,50.96,89.96,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,44,69,1.0,10.0,50.96,75.68,27.89,43.53
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,44,69,1.0,10.0,50.96,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,44,69,1.0,10.0,50.96,0.0,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,120,14,44,69,1.0,10.0,50.96,31.19,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,39,69,1.0,10.0,50.42,0.0,32.15,41.28
+38,SAA,ProShares Ultra SmallCap600,5,60,14,39,69,1.0,10.0,50.42,103.22,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,39,69,1.0,10.0,50.42,45.06,28.99,38.04
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,39,69,1.0,10.0,50.42,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,39,69,1.0,10.0,50.42,82.13,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,39,69,1.0,10.0,50.42,72.12,25.38,40.51
+38,UXI,ProShares Ultra Industrials,5,120,14,44,59,1.0,10.0,40.04,20.37,28.99,38.04
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,44,59,1.0,10.0,40.04,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,44,59,1.0,10.0,40.04,89.31,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,44,59,1.0,10.0,40.04,74.11,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,44,59,1.0,10.0,40.04,56.44,27.89,43.53
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,44,59,1.0,10.0,40.04,0.0,32.15,41.28
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,44,54,1.0,10.0,38.21,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,44,54,1.0,10.0,38.21,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,44,54,1.0,10.0,38.21,68.39,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,44,54,1.0,10.0,38.21,43.79,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,44,54,1.0,10.0,38.21,33.79,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,44,54,1.0,10.0,38.21,83.27,28.99,38.04
+38,MVV,ProShares Ultra MidCap400,5,60,14,39,79,1.0,10.0,24.02,26.82,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,39,79,1.0,10.0,24.02,28.43,25.38,40.51
+38,UXI,ProShares Ultra Industrials,5,60,14,39,79,1.0,10.0,24.02,54.17,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,60,14,39,79,1.0,10.0,24.02,34.67,27.89,43.53
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,39,79,1.0,10.0,24.02,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,39,79,1.0,10.0,24.02,0.0,32.15,41.28
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,44,59,1.0,10.0,23.89,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,44,59,1.0,10.0,23.89,0.0,27.51,44.4
+38,SAA,ProShares Ultra SmallCap600,5,60,14,44,59,1.0,10.0,23.89,14.58,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,44,59,1.0,10.0,23.89,59.68,28.99,38.04
+38,MVV,ProShares Ultra MidCap400,5,60,14,44,59,1.0,10.0,23.89,24.67,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,44,59,1.0,10.0,23.89,44.38,25.38,40.51
+38,UXI,ProShares Ultra Industrials,5,60,14,39,74,1.0,10.0,23.6,49.74,28.99,38.04
+38,UYG,ProShares Ultra Financials,5,60,14,39,74,1.0,10.0,23.6,30.79,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,60,14,39,74,1.0,10.0,23.6,29.52,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,39,74,1.0,10.0,23.6,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,39,74,1.0,10.0,23.6,0.0,32.15,41.28
+38,SAA,ProShares Ultra SmallCap600,5,60,14,39,74,1.0,10.0,23.6,31.56,27.89,43.53
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,44,64,1.0,10.0,21.08,0.0,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,60,14,44,64,1.0,10.0,21.08,30.59,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,60,14,44,64,1.0,10.0,21.08,23.04,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,60,14,44,64,1.0,10.0,21.08,46.15,25.38,40.51
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,44,64,1.0,10.0,21.08,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,44,64,1.0,10.0,21.08,26.69,26.97,40.02
+38,MVV,ProShares Ultra MidCap400,5,60,14,44,69,1.0,10.0,20.04,26.96,26.97,40.02
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,44,69,1.0,10.0,20.04,0.0,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,60,14,44,69,1.0,10.0,20.04,34.11,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,60,14,44,69,1.0,10.0,20.04,24.38,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,60,14,44,69,1.0,10.0,20.04,34.77,25.38,40.51
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,44,69,1.0,10.0,20.04,0.0,27.51,44.4
+38,UYG,ProShares Ultra Financials,5,60,14,34,54,1.0,10.0,17.52,105.14,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,60,14,34,54,1.0,10.0,17.52,0.0,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,34,54,1.0,10.0,17.52,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,34,54,1.0,10.0,17.52,0.0,32.15,41.28
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,29,54,1.0,10.0,17.52,0.0,32.15,41.28
+38,SAA,ProShares Ultra SmallCap600,5,60,14,34,54,1.0,10.0,17.52,0.0,27.89,43.53
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,29,54,1.0,10.0,17.52,0.0,27.51,44.4
+38,UYG,ProShares Ultra Financials,5,60,14,29,54,1.0,10.0,17.52,105.14,25.38,40.51
+38,UXI,ProShares Ultra Industrials,5,60,14,34,54,1.0,10.0,17.52,0.0,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,60,14,29,54,1.0,10.0,17.52,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,29,54,1.0,10.0,17.52,0.0,28.99,38.04
+38,MVV,ProShares Ultra MidCap400,5,60,14,29,54,1.0,10.0,17.52,0.0,26.97,40.02
+38,UXI,ProShares Ultra Industrials,5,120,14,44,74,1.0,10.0,16.8,30.5,28.99,38.04
+38,MVV,ProShares Ultra MidCap400,5,120,14,44,74,1.0,10.0,16.8,17.86,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,44,74,1.0,10.0,16.8,33.22,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,44,74,1.0,10.0,16.8,19.21,27.89,43.53
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,44,74,1.0,10.0,16.8,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,44,74,1.0,10.0,16.8,0.0,27.51,44.4
+38,UXI,ProShares Ultra Industrials,5,120,14,44,79,1.0,10.0,16.74,33.76,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,120,14,44,79,1.0,10.0,16.74,19.21,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,120,14,44,79,1.0,10.0,16.74,29.61,25.38,40.51
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,44,79,1.0,10.0,16.74,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,44,79,1.0,10.0,16.74,17.86,26.97,40.02
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,44,79,1.0,10.0,16.74,0.0,32.15,41.28
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,44,79,1.0,10.0,14.92,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,44,79,1.0,10.0,14.92,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,44,79,1.0,10.0,14.92,20.53,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,44,79,1.0,10.0,14.92,22.72,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,44,79,1.0,10.0,14.92,18.88,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,44,79,1.0,10.0,14.92,27.37,28.99,38.04
+38,UYG,ProShares Ultra Financials,5,60,14,44,74,1.0,10.0,14.1,25.99,25.38,40.51
+38,UXI,ProShares Ultra Industrials,5,60,14,44,74,1.0,10.0,14.1,24.49,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,44,74,1.0,10.0,14.1,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,44,74,1.0,10.0,14.1,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,44,74,1.0,10.0,14.1,18.32,26.97,40.02
+38,SAA,ProShares Ultra SmallCap600,5,60,14,44,74,1.0,10.0,14.1,15.78,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,60,14,29,74,1.0,10.0,9.56,57.37,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,60,14,29,74,1.0,10.0,9.56,0.0,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,29,74,1.0,10.0,9.56,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,29,74,1.0,10.0,9.56,0.0,32.15,41.28
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,34,74,1.0,10.0,9.56,0.0,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,60,14,29,74,1.0,10.0,9.56,0.0,28.99,38.04
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,34,74,1.0,10.0,9.56,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,34,74,1.0,10.0,9.56,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,34,74,1.0,10.0,9.56,57.37,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,34,74,1.0,10.0,9.56,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,34,74,1.0,10.0,9.56,0.0,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,60,14,29,74,1.0,10.0,9.56,0.0,27.89,43.53
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,29,69,1.0,10.0,8.39,0.0,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,60,14,29,69,1.0,10.0,8.39,0.0,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,60,14,29,69,1.0,10.0,8.39,0.0,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,60,14,29,69,1.0,10.0,8.39,50.33,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,60,14,29,69,1.0,10.0,8.39,0.0,26.97,40.02
+38,SAA,ProShares Ultra SmallCap600,5,60,14,34,69,1.0,10.0,8.39,0.0,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,60,14,34,69,1.0,10.0,8.39,50.33,25.38,40.51
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,29,69,1.0,10.0,8.39,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,34,69,1.0,10.0,8.39,0.0,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,34,69,1.0,10.0,8.39,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,34,69,1.0,10.0,8.39,0.0,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,60,14,34,69,1.0,10.0,8.39,0.0,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,60,14,29,64,1.0,10.0,7.86,0.0,27.89,43.53
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,34,64,1.0,10.0,7.86,0.0,27.51,44.4
+38,UXI,ProShares Ultra Industrials,5,60,14,34,64,1.0,10.0,7.86,0.0,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,60,14,34,64,1.0,10.0,7.86,0.0,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,60,14,34,64,1.0,10.0,7.86,47.18,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,60,14,34,64,1.0,10.0,7.86,0.0,26.97,40.02
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,34,64,1.0,10.0,7.86,0.0,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,60,14,29,64,1.0,10.0,7.86,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,29,64,1.0,10.0,7.86,0.0,32.15,41.28
+38,MVV,ProShares Ultra MidCap400,5,60,14,29,64,1.0,10.0,7.86,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,29,64,1.0,10.0,7.86,47.18,25.38,40.51
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,29,64,1.0,10.0,7.86,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,29,59,1.0,10.0,6.22,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,29,59,1.0,10.0,6.22,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,29,59,1.0,10.0,6.22,0.0,26.97,40.02
+38,SAA,ProShares Ultra SmallCap600,5,60,14,29,59,1.0,10.0,6.22,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,29,59,1.0,10.0,6.22,0.0,28.99,38.04
+38,UYG,ProShares Ultra Financials,5,60,14,29,59,1.0,10.0,6.22,37.32,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,34,59,1.0,10.0,6.22,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,34,59,1.0,10.0,6.22,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,34,59,1.0,10.0,6.22,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,34,59,1.0,10.0,6.22,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,34,59,1.0,10.0,6.22,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,34,59,1.0,10.0,6.22,37.32,25.38,40.51
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,29,79,1.0,10.0,5.5,0.0,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,60,14,34,79,1.0,10.0,5.5,0.0,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,60,14,34,79,1.0,10.0,5.5,0.0,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,60,14,34,79,1.0,10.0,5.5,33.03,25.38,40.51
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,34,79,1.0,10.0,5.5,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,34,79,1.0,10.0,5.5,0.0,32.15,41.28
+38,MVV,ProShares Ultra MidCap400,5,60,14,34,79,1.0,10.0,5.5,0.0,26.97,40.02
+38,UXI,ProShares Ultra Industrials,5,60,14,29,79,1.0,10.0,5.5,0.0,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,60,14,29,79,1.0,10.0,5.5,0.0,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,60,14,29,79,1.0,10.0,5.5,33.03,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,60,14,29,79,1.0,10.0,5.5,0.0,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,29,79,1.0,10.0,5.5,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,39,54,1.0,10.0,0.0,0.0,26.97,40.02
+38,SAA,ProShares Ultra SmallCap600,5,120,14,34,79,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,34,79,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,39,54,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,34,69,1.0,10.0,0.0,0.0,32.15,41.28
+38,UYG,ProShares Ultra Financials,5,120,14,39,54,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,39,54,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,39,54,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,39,59,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,34,79,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,34,79,1.0,10.0,0.0,0.0,25.38,40.51
+38,UXI,ProShares Ultra Industrials,5,120,14,34,69,1.0,10.0,0.0,0.0,28.99,38.04
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,34,79,1.0,10.0,0.0,0.0,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,120,14,34,74,1.0,10.0,0.0,0.0,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,120,14,34,74,1.0,10.0,0.0,0.0,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,120,14,34,74,1.0,10.0,0.0,0.0,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,120,14,34,74,1.0,10.0,0.0,0.0,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,34,74,1.0,10.0,0.0,0.0,32.15,41.28
+38,UYG,ProShares Ultra Financials,5,120,14,39,59,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,34,69,1.0,10.0,0.0,0.0,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,120,14,34,69,1.0,10.0,0.0,0.0,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,120,14,34,69,1.0,10.0,0.0,0.0,26.97,40.02
+38,MVV,ProShares Ultra MidCap400,5,120,14,39,59,1.0,10.0,0.0,0.0,26.97,40.02
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,39,69,1.0,10.0,0.0,0.0,32.15,41.28
+38,SAA,ProShares Ultra SmallCap600,5,120,14,39,59,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,39,59,1.0,10.0,0.0,0.0,28.99,38.04
+38,UXI,ProShares Ultra Industrials,5,120,14,39,79,1.0,10.0,0.0,0.0,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,120,14,39,79,1.0,10.0,0.0,0.0,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,120,14,39,79,1.0,10.0,0.0,0.0,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,120,14,39,79,1.0,10.0,0.0,0.0,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,39,79,1.0,10.0,0.0,0.0,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,120,14,39,74,1.0,10.0,0.0,0.0,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,120,14,39,74,1.0,10.0,0.0,0.0,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,120,14,39,74,1.0,10.0,0.0,0.0,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,120,14,39,74,1.0,10.0,0.0,0.0,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,39,74,1.0,10.0,0.0,0.0,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,120,14,39,69,1.0,10.0,0.0,0.0,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,120,14,39,69,1.0,10.0,0.0,0.0,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,120,14,39,69,1.0,10.0,0.0,0.0,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,120,14,39,69,1.0,10.0,0.0,0.0,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,27.51,44.4
+38,UXI,ProShares Ultra Industrials,5,120,14,39,64,1.0,10.0,0.0,0.0,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,120,14,39,64,1.0,10.0,0.0,0.0,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,120,14,39,64,1.0,10.0,0.0,0.0,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,120,14,39,64,1.0,10.0,0.0,0.0,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,39,64,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,24,54,1.0,10.0,0.0,0.0,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,120,14,34,64,1.0,10.0,0.0,0.0,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,120,14,24,59,1.0,10.0,0.0,0.0,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,60,14,24,79,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,24,79,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,24,79,1.0,10.0,0.0,0.0,28.99,38.04
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,27.51,44.4
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,24,54,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,24,54,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,24,54,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,24,54,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,24,59,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,24,59,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,24,59,1.0,10.0,0.0,0.0,25.38,40.51
+38,UXI,ProShares Ultra Industrials,5,120,14,24,59,1.0,10.0,0.0,0.0,28.99,38.04
+38,MVV,ProShares Ultra MidCap400,5,120,14,24,74,1.0,10.0,0.0,0.0,26.97,40.02
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,24,64,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,24,64,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,24,64,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,24,64,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,24,64,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,24,69,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,24,69,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,24,69,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,24,69,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,24,69,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,24,74,1.0,10.0,0.0,0.0,32.15,41.28
+38,MVV,ProShares Ultra MidCap400,5,60,14,24,79,1.0,10.0,0.0,0.0,26.97,40.02
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,24,79,1.0,10.0,0.0,0.0,32.15,41.28
+38,UXI,ProShares Ultra Industrials,5,60,14,24,74,1.0,10.0,0.0,0.0,28.99,38.04
+38,MVV,ProShares Ultra MidCap400,5,60,14,24,54,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,24,54,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,24,54,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,24,54,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,24,59,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,24,59,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,24,59,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,24,59,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,24,59,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,24,64,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,24,64,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,24,64,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,24,64,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,24,64,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,24,69,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,24,69,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,24,69,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,24,69,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,60,14,24,69,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,24,74,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,60,14,24,74,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,60,14,24,74,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,60,14,24,74,1.0,10.0,0.0,0.0,27.89,43.53
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,27.51,44.4
+38,UYG,ProShares Ultra Financials,5,120,14,24,74,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,34,64,1.0,10.0,0.0,0.0,27.89,43.53
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,29,74,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,29,74,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,29,74,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,29,74,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,29,74,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,29,79,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,29,79,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,29,79,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,29,79,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,29,79,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,34,54,1.0,10.0,0.0,0.0,32.15,41.28
+38,MVV,ProShares Ultra MidCap400,5,120,14,34,54,1.0,10.0,0.0,0.0,26.97,40.02
+38,SAA,ProShares Ultra SmallCap600,5,120,14,24,74,1.0,10.0,0.0,0.0,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,120,14,34,54,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,34,54,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,34,54,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,34,59,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,34,59,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,34,59,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,34,59,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,34,59,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,34,64,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,34,64,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,34,64,1.0,10.0,0.0,0.0,25.38,40.51
+38,UXI,ProShares Ultra Industrials,5,120,14,29,69,1.0,10.0,0.0,0.0,28.99,38.04
+38,SAA,ProShares Ultra SmallCap600,5,120,14,29,69,1.0,10.0,0.0,0.0,27.89,43.53
+38,UYG,ProShares Ultra Financials,5,120,14,29,69,1.0,10.0,0.0,0.0,25.38,40.51
+38,MVV,ProShares Ultra MidCap400,5,120,14,29,69,1.0,10.0,0.0,0.0,26.97,40.02
+38,UXI,ProShares Ultra Industrials,5,120,14,24,74,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,24,79,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,24,79,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,24,79,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,24,79,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,24,79,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,29,54,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,29,54,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,29,54,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,29,54,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,29,54,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,29,59,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,29,59,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,29,59,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,29,59,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,29,59,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,29,64,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,27.51,44.4
+38,MVV,ProShares Ultra MidCap400,5,120,14,29,64,1.0,10.0,0.0,0.0,26.97,40.02
+38,UYG,ProShares Ultra Financials,5,120,14,29,64,1.0,10.0,0.0,0.0,25.38,40.51
+38,SAA,ProShares Ultra SmallCap600,5,120,14,29,64,1.0,10.0,0.0,0.0,27.89,43.53
+38,UXI,ProShares Ultra Industrials,5,120,14,29,64,1.0,10.0,0.0,0.0,28.99,38.04
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,29,69,1.0,10.0,0.0,0.0,32.15,41.28
+38,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,27.51,44.4
+38,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,24,54,1.0,10.0,0.0,0.0,32.15,41.28

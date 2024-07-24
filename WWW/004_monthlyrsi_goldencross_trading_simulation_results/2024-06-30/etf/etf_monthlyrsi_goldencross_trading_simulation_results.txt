@@ -1,0 +1,15 @@
+
+204480 (TIGER 차이나CSI300레버리지(합성))
+Cluster: 20
+Best Config: {'ticker': '204480', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 2.04%
+
+267440 (KBSTAR 미국장기국채선물(H))
+Cluster: 27
+Best Config: {'ticker': '267440', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -5.11%
+
+267490 (KBSTAR 미국장기국채선물레버리지(합성 H))
+Cluster: 28
+Best Config: {'ticker': '267490', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -8.51%

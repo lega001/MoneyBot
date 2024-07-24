@@ -1,0 +1,1513 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,24,54,1.0,10.0,0.0,0,15.42,3.71
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,29,79,1.0,10.0,0.0,0,16.73,2.35
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,34,54,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,34,54,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,34,54,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,34,54,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,34,54,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,34,54,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,29,79,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,29,79,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,29,79,1.0,10.0,0.0,0,14.61,1.77
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,29,79,1.0,10.0,0.0,0,13.79,3.55
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,34,54,1.0,10.0,0.0,0,12.66,3.61
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,29,79,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,29,79,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,29,79,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,29,79,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,29,79,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,29,79,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,29,79,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,29,79,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,29,79,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,34,54,1.0,10.0,0.0,0,13.6,4.95
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,34,54,1.0,10.0,0.0,0,14.75,3.97
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,34,59,1.0,10.0,0.0,0,12.77,2.74
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,34,54,1.0,10.0,0.0,0,16.18,2.33
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,34,59,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,34,59,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,34,59,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,34,59,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,34,59,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,34,59,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,34,59,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,34,59,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,34,59,1.0,10.0,0.0,0,15.42,3.71
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,34,54,1.0,10.0,0.0,0,13.78,2.03
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,34,54,1.0,10.0,0.0,0,15.35,3.18
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,34,54,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,34,54,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,34,54,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,34,54,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,34,54,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,34,54,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,34,54,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,34,54,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,34,54,1.0,10.0,0.0,0,12.77,2.74
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,29,79,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,29,79,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,29,79,1.0,10.0,0.0,0,12.02,3.97
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,29,69,1.0,10.0,0.0,0,14.7,4.84
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,29,74,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,29,69,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,29,69,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,29,69,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,29,69,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,29,69,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,29,69,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,29,69,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,29,69,1.0,10.0,0.0,0,15.41,4.09
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,29,69,1.0,10.0,0.0,0,14.23,4.4
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,29,79,1.0,10.0,0.0,0,12.21,3.25
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,29,69,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,29,69,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,29,69,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,29,69,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,29,69,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,29,69,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,29,69,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,29,69,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,29,69,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,29,74,1.0,10.0,0.0,0,13.22,3.17
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,29,74,1.0,10.0,0.0,0,13.17,4.15
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,29,74,1.0,10.0,0.0,0,12.21,3.25
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,29,74,1.0,10.0,0.0,0,12.02,3.97
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,29,79,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,29,79,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,29,79,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,29,74,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,29,74,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,29,74,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,29,74,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,29,74,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,29,74,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,29,74,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,29,74,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,29,74,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,29,74,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,29,74,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,29,74,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,29,74,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,29,74,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,29,74,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,29,74,1.0,10.0,0.0,0,13.9,4.8
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,34,59,1.0,10.0,0.0,0,15.35,3.18
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,34,59,1.0,10.0,0.0,0,14.23,4.4
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,24,54,1.0,10.0,0.0,0,13.22,3.17
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,34,74,1.0,10.0,0.0,0,12.66,3.61
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,34,74,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,34,74,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,34,74,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,34,74,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,34,74,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,34,74,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,34,74,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,34,74,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,34,74,1.0,10.0,0.0,0,14.75,3.97
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,34,74,1.0,10.0,0.0,0,13.6,4.95
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,34,74,1.0,10.0,0.0,0,14.61,1.77
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,34,74,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,34,74,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,34,74,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,34,74,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,34,74,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,34,74,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,34,69,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,34,69,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,34,69,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,34,74,1.0,10.0,0.0,0,16.73,2.35
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,34,74,1.0,10.0,0.0,0,13.78,2.03
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,34,59,1.0,10.0,0.0,0,14.7,4.84
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,34,79,1.0,10.0,0.0,0,12.77,2.74
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,34,79,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,34,79,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,34,79,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,34,79,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,34,79,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,34,79,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,34,79,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,34,79,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,34,79,1.0,10.0,0.0,0,14.23,4.4
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,34,79,1.0,10.0,0.0,0,15.35,3.18
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,34,74,1.0,10.0,0.0,0,16.18,2.33
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,34,79,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,34,79,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,34,79,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,34,79,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,34,79,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,34,79,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,34,79,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,34,79,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,34,79,1.0,10.0,0.0,0,15.42,3.71
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,34,69,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,34,69,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,34,69,1.0,10.0,0.0,0,15.73,3.8
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,34,64,1.0,10.0,0.0,0,13.17,4.15
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,34,64,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,34,64,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,34,64,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,34,64,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,34,64,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,34,64,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,34,64,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,34,64,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,34,64,1.0,10.0,0.0,0,12.21,3.25
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,34,64,1.0,10.0,0.0,0,13.22,3.17
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,34,69,1.0,10.0,0.0,0,14.25,4.51
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,34,64,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,34,59,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,34,59,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,34,59,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,34,59,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,34,59,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,34,59,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,34,59,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,34,59,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,34,64,1.0,10.0,0.0,0,14.7,4.84
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,34,64,1.0,10.0,0.0,0,15.41,4.09
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,34,64,1.0,10.0,0.0,0,14.25,4.51
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,34,64,1.0,10.0,0.0,0,15.73,3.8
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,34,69,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,34,69,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,34,69,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,34,69,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,34,69,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,34,69,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,34,69,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,34,69,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,34,69,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,34,69,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,34,69,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,34,69,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,34,69,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,34,69,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,34,64,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,34,64,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,34,64,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,34,64,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,34,64,1.0,10.0,0.0,0,13.79,3.55
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,29,69,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,29,69,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,29,64,1.0,10.0,0.0,0,16.18,2.33
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,24,64,1.0,10.0,0.0,0,16.73,2.35
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,24,69,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,24,69,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,24,69,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,24,69,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,24,69,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,24,69,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,24,64,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,24,64,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,24,64,1.0,10.0,0.0,0,14.61,1.77
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,24,64,1.0,10.0,0.0,0,13.79,3.55
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,24,69,1.0,10.0,0.0,0,12.66,3.61
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,24,64,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,24,64,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,24,64,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,24,64,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,24,64,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,24,64,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,24,64,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,24,64,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,24,64,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,24,69,1.0,10.0,0.0,0,13.6,4.95
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,24,69,1.0,10.0,0.0,0,14.75,3.97
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,29,64,1.0,10.0,0.0,0,13.78,2.03
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,24,69,1.0,10.0,0.0,0,16.18,2.33
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,24,74,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,24,74,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,24,74,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,24,74,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,24,74,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,24,74,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,24,74,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,24,74,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,24,74,1.0,10.0,0.0,0,15.42,3.71
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,24,69,1.0,10.0,0.0,0,13.78,2.03
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,24,69,1.0,10.0,0.0,0,15.35,3.18
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,24,69,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,24,69,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,24,69,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,24,69,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,24,69,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,24,69,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,24,69,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,24,69,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,24,69,1.0,10.0,0.0,0,12.77,2.74
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,24,64,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,24,64,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,24,64,1.0,10.0,0.0,0,12.02,3.97
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,24,54,1.0,10.0,0.0,0,14.7,4.84
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,24,59,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,24,54,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,24,54,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,24,54,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,24,54,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,24,54,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,24,54,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,24,54,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,24,54,1.0,10.0,0.0,0,15.41,4.09
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,24,54,1.0,10.0,0.0,0,14.23,4.4
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,24,64,1.0,10.0,0.0,0,12.21,3.25
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,24,54,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,24,54,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,24,54,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,24,54,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,24,54,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,24,54,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,24,54,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,24,54,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,24,54,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,24,59,1.0,10.0,0.0,0,13.22,3.17
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,24,59,1.0,10.0,0.0,0,13.17,4.15
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,24,59,1.0,10.0,0.0,0,12.21,3.25
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,24,59,1.0,10.0,0.0,0,12.02,3.97
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,24,64,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,24,64,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,24,64,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,24,59,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,24,59,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,24,59,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,24,59,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,24,59,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,24,59,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,24,59,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,24,59,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,24,59,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,24,59,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,24,59,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,24,59,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,24,59,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,24,59,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,24,59,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,24,59,1.0,10.0,0.0,0,13.9,4.8
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,24,74,1.0,10.0,0.0,0,15.35,3.18
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,24,74,1.0,10.0,0.0,0,12.77,2.74
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,24,74,1.0,10.0,0.0,0,14.23,4.4
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,29,59,1.0,10.0,0.0,0,12.66,3.61
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,29,59,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,29,59,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,29,59,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,29,59,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,29,59,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,29,59,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,29,59,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,29,59,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,29,59,1.0,10.0,0.0,0,14.75,3.97
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,29,59,1.0,10.0,0.0,0,13.6,4.95
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,29,54,1.0,10.0,0.0,0,13.79,3.55
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,29,59,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,29,59,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,29,59,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,29,59,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,29,59,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,29,59,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,29,54,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,29,54,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,29,54,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,29,59,1.0,10.0,0.0,0,16.73,2.35
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,29,59,1.0,10.0,0.0,0,14.61,1.77
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,29,59,1.0,10.0,0.0,0,13.78,2.03
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,29,59,1.0,10.0,0.0,0,16.18,2.33
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,29,64,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,29,64,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,29,64,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,29,64,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,29,64,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,29,64,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,29,64,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,29,64,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,29,64,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,29,64,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,29,64,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,29,64,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,29,64,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,29,64,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,29,64,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,29,64,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,29,64,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,29,64,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,29,64,1.0,10.0,0.0,0,15.42,3.71
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,29,54,1.0,10.0,0.0,0,16.73,2.35
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,29,54,1.0,10.0,0.0,0,15.73,3.8
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,24,74,1.0,10.0,0.0,0,14.7,4.84
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,24,79,1.0,10.0,0.0,0,13.17,4.15
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,24,79,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,24,79,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,24,79,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,24,79,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,24,79,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,24,79,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,24,79,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,24,79,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,24,79,1.0,10.0,0.0,0,12.21,3.25
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,24,79,1.0,10.0,0.0,0,13.22,3.17
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,29,54,1.0,10.0,0.0,0,14.25,4.51
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,24,79,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,24,74,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,24,74,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,24,74,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,24,74,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,24,74,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,24,74,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,24,74,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,24,74,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,24,79,1.0,10.0,0.0,0,14.7,4.84
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,24,79,1.0,10.0,0.0,0,15.41,4.09
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,24,79,1.0,10.0,0.0,0,14.25,4.51
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,24,79,1.0,10.0,0.0,0,15.73,3.8
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,29,54,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,29,54,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,29,54,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,29,54,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,29,54,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,29,54,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,29,54,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,29,54,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,29,54,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,29,54,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,29,54,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,29,54,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,29,54,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,29,54,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,24,79,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,24,79,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,24,79,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,24,79,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,24,79,1.0,10.0,0.0,0,13.79,3.55
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,34,79,1.0,10.0,0.0,0,16.18,2.33
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,39,54,1.0,10.0,0.0,0,15.42,3.71
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,39,54,1.0,10.0,0.0,0,13.22,3.17
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,44,79,1.0,10.0,0.0,0,14.61,1.77
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,49,54,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,49,54,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,49,54,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,49,54,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,49,54,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,49,54,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,49,54,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,44,79,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,44,79,1.0,10.0,0.0,0,13.78,2.03
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,44,79,1.0,10.0,0.0,0,16.73,2.35
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,49,54,1.0,10.0,0.0,0,14.75,3.97
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,44,79,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,44,79,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,44,79,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,44,79,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,44,79,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,44,79,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,44,79,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,44,79,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,44,79,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,49,54,1.0,10.0,0.0,0,12.66,3.61
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,49,54,1.0,10.0,0.0,0,15.35,3.18
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,44,69,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,49,59,1.0,10.0,0.0,0,15.42,3.71
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,49,59,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,49,59,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,49,59,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,49,59,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,49,59,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,49,59,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,49,59,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,49,59,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,49,59,1.0,10.0,0.0,0,13.22,3.17
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,49,54,1.0,10.0,0.0,0,16.18,2.33
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,49,54,1.0,10.0,0.0,0,12.77,2.74
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,49,54,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,49,54,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,49,54,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,49,54,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,49,54,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,49,54,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,49,54,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,49,54,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,49,54,1.0,10.0,0.0,0,14.23,4.4
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,44,79,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,44,79,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,44,79,1.0,10.0,0.0,0,13.9,4.8
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,44,69,1.0,10.0,0.0,0,15.41,4.09
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,44,74,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,44,74,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,44,69,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,44,69,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,44,69,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,44,69,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,44,69,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,44,69,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,44,69,1.0,10.0,0.0,0,14.25,4.51
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,44,69,1.0,10.0,0.0,0,14.7,4.84
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,44,79,1.0,10.0,0.0,0,12.02,3.97
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,44,69,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,44,69,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,44,69,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,44,69,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,44,69,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,44,69,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,44,69,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,44,69,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,44,69,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,44,74,1.0,10.0,0.0,0,13.17,4.15
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,44,74,1.0,10.0,0.0,0,12.21,3.25
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,44,74,1.0,10.0,0.0,0,12.02,3.97
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,44,74,1.0,10.0,0.0,0,13.9,4.8
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,44,79,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,44,79,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,44,79,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,44,79,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,44,74,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,44,74,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,44,74,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,44,74,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,44,74,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,44,74,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,44,74,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,44,74,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,44,74,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,44,74,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,44,74,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,44,74,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,44,74,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,44,74,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,44,74,1.0,10.0,0.0,0,13.6,4.95
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,49,59,1.0,10.0,0.0,0,12.77,2.74
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,49,59,1.0,10.0,0.0,0,14.23,4.4
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,49,59,1.0,10.0,0.0,0,14.7,4.84
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,49,74,1.0,10.0,0.0,0,14.75,3.97
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,49,74,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,49,74,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,49,74,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,49,74,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,49,74,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,49,74,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,49,74,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,49,74,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,49,74,1.0,10.0,0.0,0,15.35,3.18
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,49,74,1.0,10.0,0.0,0,12.66,3.61
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,49,69,1.0,10.0,0.0,0,16.73,2.35
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,49,74,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,49,74,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,49,74,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,49,74,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,49,74,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,49,74,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,49,74,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,49,69,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,49,69,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,49,74,1.0,10.0,0.0,0,14.61,1.77
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,49,74,1.0,10.0,0.0,0,13.78,2.03
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,49,74,1.0,10.0,0.0,0,16.18,2.33
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,49,79,1.0,10.0,0.0,0,15.42,3.71
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,49,79,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,49,79,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,49,79,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,49,79,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,49,79,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,49,79,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,49,79,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,49,79,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,49,79,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,49,79,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,49,79,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,49,79,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,49,79,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,49,79,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,49,79,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,49,79,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,49,79,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,49,79,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,49,79,1.0,10.0,0.0,0,13.22,3.17
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,49,69,1.0,10.0,0.0,0,14.61,1.77
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,49,69,1.0,10.0,0.0,0,13.79,3.55
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,49,59,1.0,10.0,0.0,0,15.41,4.09
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,49,64,1.0,10.0,0.0,0,12.21,3.25
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,49,64,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,49,64,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,49,64,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,49,64,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,49,64,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,49,64,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,49,64,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,49,64,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,49,64,1.0,10.0,0.0,0,12.02,3.97
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,49,64,1.0,10.0,0.0,0,13.17,4.15
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,49,69,1.0,10.0,0.0,0,15.73,3.8
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,49,64,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,49,64,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,49,59,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,49,59,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,49,59,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,49,59,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,49,59,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,49,59,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,49,59,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,49,64,1.0,10.0,0.0,0,15.41,4.09
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,49,64,1.0,10.0,0.0,0,14.25,4.51
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,49,64,1.0,10.0,0.0,0,15.73,3.8
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,49,64,1.0,10.0,0.0,0,13.79,3.55
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,49,69,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,49,69,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,49,69,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,49,69,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,49,69,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,49,69,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,49,69,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,49,69,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,49,69,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,49,69,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,49,69,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,49,69,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,49,69,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,49,69,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,49,69,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,49,64,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,49,64,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,49,64,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,49,64,1.0,10.0,0.0,0,16.73,2.35
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,44,69,1.0,10.0,0.0,0,13.17,4.15
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,44,69,1.0,10.0,0.0,0,15.42,3.71
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,39,54,1.0,10.0,0.0,0,13.17,4.15
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,39,64,1.0,10.0,0.0,0,14.61,1.77
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,39,69,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,39,69,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,39,69,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,39,69,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,39,69,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,39,69,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,39,69,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,39,64,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,39,64,1.0,10.0,0.0,0,13.78,2.03
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,39,64,1.0,10.0,0.0,0,16.73,2.35
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,39,69,1.0,10.0,0.0,0,14.75,3.97
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,39,64,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,39,64,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,39,64,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,39,64,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,39,64,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,39,64,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,39,64,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,39,64,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,39,64,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,39,69,1.0,10.0,0.0,0,12.66,3.61
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,39,69,1.0,10.0,0.0,0,15.35,3.18
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,44,64,1.0,10.0,0.0,0,16.18,2.33
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,39,74,1.0,10.0,0.0,0,15.42,3.71
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,39,74,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,39,74,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,39,74,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,39,74,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,39,74,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,39,74,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,39,74,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,39,74,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,39,74,1.0,10.0,0.0,0,13.22,3.17
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,39,69,1.0,10.0,0.0,0,16.18,2.33
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,39,69,1.0,10.0,0.0,0,12.77,2.74
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,39,69,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,39,69,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,39,69,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,39,69,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,39,69,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,39,69,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,39,69,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,39,69,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,39,69,1.0,10.0,0.0,0,14.23,4.4
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,39,64,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,39,64,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,39,64,1.0,10.0,0.0,0,13.9,4.8
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,39,54,1.0,10.0,0.0,0,15.41,4.09
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,39,59,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,39,59,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,39,54,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,39,54,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,39,54,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,39,54,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,39,54,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,39,54,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,39,54,1.0,10.0,0.0,0,14.25,4.51
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,39,54,1.0,10.0,0.0,0,14.7,4.84
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,39,64,1.0,10.0,0.0,0,12.02,3.97
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,39,54,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,39,54,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,39,54,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,39,54,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,39,54,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,39,54,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,39,54,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,39,54,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,39,54,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,39,59,1.0,10.0,0.0,0,13.17,4.15
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,39,59,1.0,10.0,0.0,0,12.21,3.25
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,39,59,1.0,10.0,0.0,0,12.02,3.97
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,39,59,1.0,10.0,0.0,0,13.9,4.8
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,39,64,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,39,64,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,39,64,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,39,64,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,39,59,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,39,59,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,39,59,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,39,59,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,39,59,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,39,59,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,39,59,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,39,59,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,39,59,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,39,59,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,39,59,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,39,59,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,39,59,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,39,59,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,39,59,1.0,10.0,0.0,0,13.6,4.95
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,39,74,1.0,10.0,0.0,0,12.77,2.74
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,39,74,1.0,10.0,0.0,0,14.23,4.4
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,39,74,1.0,10.0,0.0,0,14.7,4.84
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,44,59,1.0,10.0,0.0,0,14.75,3.97
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,44,59,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,44,59,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,44,59,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,44,59,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,44,59,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,44,59,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,44,59,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,44,59,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,44,59,1.0,10.0,0.0,0,15.35,3.18
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,44,59,1.0,10.0,0.0,0,12.66,3.61
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,44,54,1.0,10.0,0.0,0,16.73,2.35
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,44,59,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,44,59,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,44,59,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,44,59,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,44,59,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,44,59,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,44,59,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,44,54,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,44,54,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,44,59,1.0,10.0,0.0,0,14.61,1.77
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,44,59,1.0,10.0,0.0,0,13.78,2.03
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,44,59,1.0,10.0,0.0,0,16.18,2.33
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,44,64,1.0,10.0,0.0,0,15.42,3.71
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,44,64,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,44,64,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,44,64,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,44,64,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,44,64,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,44,64,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,44,64,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,44,64,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,44,64,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,44,64,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,44,64,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,44,64,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,44,64,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,44,64,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,44,64,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,44,64,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,44,64,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,44,64,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,44,64,1.0,10.0,0.0,0,13.22,3.17
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,44,54,1.0,10.0,0.0,0,14.61,1.77
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,44,54,1.0,10.0,0.0,0,13.79,3.55
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,39,74,1.0,10.0,0.0,0,15.41,4.09
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,39,79,1.0,10.0,0.0,0,12.21,3.25
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,39,79,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,39,79,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,39,79,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,39,79,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,39,79,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,39,79,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,39,79,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,39,79,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,39,79,1.0,10.0,0.0,0,12.02,3.97
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,39,79,1.0,10.0,0.0,0,13.17,4.15
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,44,54,1.0,10.0,0.0,0,15.73,3.8
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,39,79,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,39,79,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,39,74,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,39,74,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,39,74,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,39,74,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,39,74,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,39,74,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,39,74,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,39,79,1.0,10.0,0.0,0,15.41,4.09
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,39,79,1.0,10.0,0.0,0,14.25,4.51
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,120,14,39,79,1.0,10.0,0.0,0,15.73,3.8
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,120,14,39,79,1.0,10.0,0.0,0,13.79,3.55
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,120,14,44,54,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,120,14,44,54,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,120,14,44,54,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,120,14,44,54,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,120,14,44,54,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,120,14,44,54,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,120,14,44,54,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,120,14,44,54,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,120,14,44,54,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,120,14,44,54,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,120,14,44,54,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,120,14,44,54,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,120,14,44,54,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,44,54,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,44,54,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,39,79,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,120,14,39,79,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,120,14,39,79,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,120,14,39,79,1.0,10.0,0.0,0,16.73,2.35
+77,BUFC.O,AB Conservative Buffer ETF,5,120,14,24,54,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,120,14,24,54,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,49,79,1.0,10.0,0.0,0,16.18,2.33
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,29,79,1.0,10.0,0.0,0,16.73,2.35
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,34,54,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,34,54,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,34,54,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,34,54,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,34,54,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,34,54,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,29,79,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,29,79,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,29,79,1.0,10.0,0.0,0,14.61,1.77
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,29,79,1.0,10.0,0.0,0,13.79,3.55
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,34,54,1.0,10.0,0.0,0,12.66,3.61
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,29,79,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,29,79,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,29,79,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,29,79,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,29,79,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,29,79,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,29,79,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,29,79,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,29,79,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,34,54,1.0,10.0,0.0,0,13.6,4.95
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,34,54,1.0,10.0,0.0,0,14.75,3.97
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,29,69,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,34,54,1.0,10.0,0.0,0,16.18,2.33
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,34,59,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,34,59,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,34,59,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,34,59,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,34,59,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,34,59,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,34,59,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,34,59,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,34,59,1.0,10.0,0.0,0,15.42,3.71
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,34,54,1.0,10.0,0.0,0,13.78,2.03
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,34,54,1.0,10.0,0.0,0,15.35,3.18
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,34,54,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,34,54,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,34,54,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,34,54,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,34,54,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,34,54,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,34,54,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,34,54,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,34,54,1.0,10.0,0.0,0,12.77,2.74
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,29,79,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,29,79,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,29,79,1.0,10.0,0.0,0,12.02,3.97
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,29,69,1.0,10.0,0.0,0,14.7,4.84
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,29,74,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,29,69,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,29,69,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,29,69,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,29,69,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,29,69,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,29,69,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,29,69,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,29,69,1.0,10.0,0.0,0,15.41,4.09
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,29,69,1.0,10.0,0.0,0,14.23,4.4
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,29,79,1.0,10.0,0.0,0,12.21,3.25
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,29,69,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,29,69,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,29,69,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,29,69,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,29,69,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,29,69,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,29,69,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,29,69,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,29,69,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,29,74,1.0,10.0,0.0,0,13.22,3.17
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,29,74,1.0,10.0,0.0,0,13.17,4.15
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,29,74,1.0,10.0,0.0,0,12.21,3.25
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,29,74,1.0,10.0,0.0,0,12.02,3.97
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,29,79,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,29,79,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,29,79,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,29,74,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,29,74,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,29,74,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,29,74,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,29,74,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,29,74,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,29,74,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,29,74,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,29,74,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,29,74,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,29,74,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,29,74,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,29,74,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,29,74,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,29,74,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,29,74,1.0,10.0,0.0,0,13.9,4.8
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,34,59,1.0,10.0,0.0,0,15.35,3.18
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,34,59,1.0,10.0,0.0,0,12.77,2.74
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,34,59,1.0,10.0,0.0,0,14.23,4.4
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,34,74,1.0,10.0,0.0,0,12.66,3.61
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,34,74,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,34,74,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,34,74,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,34,74,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,34,74,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,34,74,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,34,74,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,34,74,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,34,74,1.0,10.0,0.0,0,14.75,3.97
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,34,74,1.0,10.0,0.0,0,13.6,4.95
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,34,69,1.0,10.0,0.0,0,13.79,3.55
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,34,74,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,34,74,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,34,74,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,34,74,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,34,74,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,34,74,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,34,69,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,34,69,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,34,69,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,34,74,1.0,10.0,0.0,0,16.73,2.35
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,34,74,1.0,10.0,0.0,0,14.61,1.77
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,34,74,1.0,10.0,0.0,0,13.78,2.03
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,34,74,1.0,10.0,0.0,0,16.18,2.33
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,34,79,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,34,79,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,34,79,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,34,79,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,34,79,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,34,79,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,34,79,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,34,79,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,34,79,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,34,79,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,34,79,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,34,79,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,34,79,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,34,79,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,34,79,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,34,79,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,34,79,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,34,79,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,34,79,1.0,10.0,0.0,0,15.42,3.71
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,34,69,1.0,10.0,0.0,0,16.73,2.35
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,34,69,1.0,10.0,0.0,0,15.73,3.8
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,34,59,1.0,10.0,0.0,0,14.7,4.84
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,34,64,1.0,10.0,0.0,0,13.17,4.15
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,34,64,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,34,64,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,34,64,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,34,64,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,34,64,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,34,64,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,34,64,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,34,64,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,34,64,1.0,10.0,0.0,0,12.21,3.25
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,34,64,1.0,10.0,0.0,0,13.22,3.17
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,34,69,1.0,10.0,0.0,0,14.25,4.51
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,34,64,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,34,59,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,34,59,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,34,59,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,34,59,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,34,59,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,34,59,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,34,59,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,34,59,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,34,64,1.0,10.0,0.0,0,14.7,4.84
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,34,64,1.0,10.0,0.0,0,15.41,4.09
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,34,64,1.0,10.0,0.0,0,14.25,4.51
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,34,64,1.0,10.0,0.0,0,15.73,3.8
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,34,69,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,34,69,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,34,69,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,34,69,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,34,69,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,34,69,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,34,69,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,34,69,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,34,69,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,34,69,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,34,69,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,34,69,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,34,69,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,34,69,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,34,64,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,34,64,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,34,64,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,34,64,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,34,64,1.0,10.0,0.0,0,13.79,3.55
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,29,69,1.0,10.0,0.0,0,13.22,3.17
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,29,64,1.0,10.0,0.0,0,16.18,2.33
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,34,79,1.0,10.0,0.0,0,16.18,2.33
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,24,64,1.0,10.0,0.0,0,16.73,2.35
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,24,69,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,24,69,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,24,69,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,24,69,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,24,69,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,24,69,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,24,64,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,24,64,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,24,64,1.0,10.0,0.0,0,14.61,1.77
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,24,64,1.0,10.0,0.0,0,13.79,3.55
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,24,69,1.0,10.0,0.0,0,12.66,3.61
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,24,64,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,24,64,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,24,64,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,24,64,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,24,64,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,24,64,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,24,64,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,24,64,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,24,64,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,24,69,1.0,10.0,0.0,0,13.6,4.95
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,24,69,1.0,10.0,0.0,0,14.75,3.97
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,29,64,1.0,10.0,0.0,0,13.78,2.03
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,24,69,1.0,10.0,0.0,0,16.18,2.33
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,24,74,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,24,74,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,24,74,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,24,74,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,24,74,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,24,74,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,24,74,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,24,74,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,24,74,1.0,10.0,0.0,0,15.42,3.71
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,24,69,1.0,10.0,0.0,0,13.78,2.03
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,24,69,1.0,10.0,0.0,0,15.35,3.18
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,24,69,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,24,69,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,24,69,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,24,69,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,24,69,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,24,69,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,24,69,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,24,69,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,24,69,1.0,10.0,0.0,0,12.77,2.74
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,24,64,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,24,64,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,24,64,1.0,10.0,0.0,0,12.02,3.97
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,24,54,1.0,10.0,0.0,0,14.7,4.84
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,24,59,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,24,54,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,24,54,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,24,54,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,24,54,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,24,54,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,24,54,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,24,54,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,24,54,1.0,10.0,0.0,0,15.41,4.09
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,24,54,1.0,10.0,0.0,0,14.23,4.4
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,24,64,1.0,10.0,0.0,0,12.21,3.25
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,24,54,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,24,54,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,24,54,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,24,54,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,24,54,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,24,54,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,24,54,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,24,54,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,24,54,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,24,59,1.0,10.0,0.0,0,13.22,3.17
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,24,59,1.0,10.0,0.0,0,13.17,4.15
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,24,59,1.0,10.0,0.0,0,12.21,3.25
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,24,59,1.0,10.0,0.0,0,12.02,3.97
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,24,64,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,24,64,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,24,64,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,24,59,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,24,59,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,24,59,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,24,59,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,24,59,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,24,59,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,24,59,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,24,59,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,24,59,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,24,59,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,24,59,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,24,59,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,24,59,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,24,59,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,24,59,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,24,59,1.0,10.0,0.0,0,13.9,4.8
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,24,74,1.0,10.0,0.0,0,15.35,3.18
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,24,74,1.0,10.0,0.0,0,12.77,2.74
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,24,74,1.0,10.0,0.0,0,14.23,4.4
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,29,59,1.0,10.0,0.0,0,12.66,3.61
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,29,59,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,29,59,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,29,59,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,29,59,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,29,59,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,29,59,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,29,59,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,29,59,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,29,59,1.0,10.0,0.0,0,14.75,3.97
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,29,59,1.0,10.0,0.0,0,13.6,4.95
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,29,54,1.0,10.0,0.0,0,13.79,3.55
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,29,59,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,29,59,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,29,59,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,29,59,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,29,59,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,29,59,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,29,54,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,29,54,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,29,54,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,29,59,1.0,10.0,0.0,0,16.73,2.35
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,29,59,1.0,10.0,0.0,0,14.61,1.77
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,29,59,1.0,10.0,0.0,0,13.78,2.03
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,29,59,1.0,10.0,0.0,0,16.18,2.33
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,29,64,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,29,64,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,29,64,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,29,64,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,29,64,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,29,64,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,29,64,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,29,64,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,29,64,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,29,64,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,29,64,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,29,64,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,29,64,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,29,64,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,29,64,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,29,64,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,29,64,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,29,64,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,29,64,1.0,10.0,0.0,0,15.42,3.71
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,29,54,1.0,10.0,0.0,0,16.73,2.35
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,29,54,1.0,10.0,0.0,0,15.73,3.8
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,24,74,1.0,10.0,0.0,0,14.7,4.84
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,24,79,1.0,10.0,0.0,0,13.17,4.15
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,24,79,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,24,79,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,24,79,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,24,79,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,24,79,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,24,79,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,24,79,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,24,79,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,24,79,1.0,10.0,0.0,0,12.21,3.25
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,24,79,1.0,10.0,0.0,0,13.22,3.17
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,29,54,1.0,10.0,0.0,0,14.25,4.51
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,24,79,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,24,74,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,24,74,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,24,74,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,24,74,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,24,74,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,24,74,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,24,74,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,24,74,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,24,79,1.0,10.0,0.0,0,14.7,4.84
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,24,79,1.0,10.0,0.0,0,15.41,4.09
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,24,79,1.0,10.0,0.0,0,14.25,4.51
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,24,79,1.0,10.0,0.0,0,15.73,3.8
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,29,54,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,29,54,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,29,54,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,29,54,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,29,54,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,29,54,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,29,54,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,29,54,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,29,54,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,29,54,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,29,54,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,29,54,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,29,54,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,29,54,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,24,79,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,24,79,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,24,79,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,24,79,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,24,79,1.0,10.0,0.0,0,13.79,3.55
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,34,79,1.0,10.0,0.0,0,13.78,2.03
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,39,54,1.0,10.0,0.0,0,15.42,3.71
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,49,79,1.0,10.0,0.0,0,13.78,2.03
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,44,79,1.0,10.0,0.0,0,16.73,2.35
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,49,54,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,49,54,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,49,54,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,49,54,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,49,54,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,49,54,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,44,79,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,44,79,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,44,79,1.0,10.0,0.0,0,14.61,1.77
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,44,79,1.0,10.0,0.0,0,13.79,3.55
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,49,54,1.0,10.0,0.0,0,12.66,3.61
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,44,79,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,44,79,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,44,79,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,44,79,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,44,79,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,44,79,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,44,79,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,44,79,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,44,79,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,49,54,1.0,10.0,0.0,0,13.6,4.95
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,49,54,1.0,10.0,0.0,0,14.75,3.97
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,44,69,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,49,54,1.0,10.0,0.0,0,16.18,2.33
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,49,59,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,49,59,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,49,59,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,49,59,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,49,59,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,49,59,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,49,59,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,49,59,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,49,59,1.0,10.0,0.0,0,15.42,3.71
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,49,54,1.0,10.0,0.0,0,13.78,2.03
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,49,54,1.0,10.0,0.0,0,15.35,3.18
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,49,54,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,49,54,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,49,54,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,49,54,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,49,54,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,49,54,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,49,54,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,49,54,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,49,54,1.0,10.0,0.0,0,12.77,2.74
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,44,79,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,44,79,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,44,79,1.0,10.0,0.0,0,12.02,3.97
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,44,69,1.0,10.0,0.0,0,14.7,4.84
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,44,74,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,44,69,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,44,69,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,44,69,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,44,69,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,44,69,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,44,69,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,44,69,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,44,69,1.0,10.0,0.0,0,15.41,4.09
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,44,69,1.0,10.0,0.0,0,14.23,4.4
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,44,79,1.0,10.0,0.0,0,12.21,3.25
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,44,69,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,44,69,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,44,69,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,44,69,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,44,69,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,44,69,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,44,69,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,44,69,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,44,69,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,44,74,1.0,10.0,0.0,0,13.22,3.17
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,44,74,1.0,10.0,0.0,0,13.17,4.15
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,44,74,1.0,10.0,0.0,0,12.21,3.25
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,44,74,1.0,10.0,0.0,0,12.02,3.97
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,44,79,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,44,79,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,44,79,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,44,74,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,44,74,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,44,74,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,44,74,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,44,74,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,44,74,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,44,74,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,44,74,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,44,74,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,44,74,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,44,74,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,44,74,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,44,74,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,44,74,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,44,74,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,44,74,1.0,10.0,0.0,0,13.9,4.8
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,49,59,1.0,10.0,0.0,0,15.35,3.18
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,49,59,1.0,10.0,0.0,0,12.77,2.74
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,49,59,1.0,10.0,0.0,0,14.23,4.4
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,49,74,1.0,10.0,0.0,0,12.66,3.61
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,49,74,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,49,74,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,49,74,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,49,74,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,49,74,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,49,74,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,49,74,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,49,74,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,49,74,1.0,10.0,0.0,0,14.75,3.97
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,49,74,1.0,10.0,0.0,0,13.6,4.95
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,49,69,1.0,10.0,0.0,0,13.79,3.55
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,49,74,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,49,74,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,49,74,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,49,74,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,49,74,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,49,74,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,49,69,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,49,69,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,49,69,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,49,74,1.0,10.0,0.0,0,16.73,2.35
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,49,74,1.0,10.0,0.0,0,14.61,1.77
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,49,74,1.0,10.0,0.0,0,13.78,2.03
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,49,74,1.0,10.0,0.0,0,16.18,2.33
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,49,79,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,49,79,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,49,79,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,49,79,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,49,79,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,49,79,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,49,79,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,49,79,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,49,79,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,49,79,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,49,79,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,49,79,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,49,79,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,49,79,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,49,79,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,49,79,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,49,79,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,49,79,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,49,79,1.0,10.0,0.0,0,15.42,3.71
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,49,69,1.0,10.0,0.0,0,16.73,2.35
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,49,69,1.0,10.0,0.0,0,15.73,3.8
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,49,59,1.0,10.0,0.0,0,14.7,4.84
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,49,64,1.0,10.0,0.0,0,13.17,4.15
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,49,64,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,49,64,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,49,64,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,49,64,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,49,64,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,49,64,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,49,64,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,49,64,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,49,64,1.0,10.0,0.0,0,12.21,3.25
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,49,64,1.0,10.0,0.0,0,13.22,3.17
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,49,69,1.0,10.0,0.0,0,14.25,4.51
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,49,64,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,49,59,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,49,59,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,49,59,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,49,59,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,49,59,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,49,59,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,49,59,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,49,59,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,49,64,1.0,10.0,0.0,0,14.7,4.84
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,49,64,1.0,10.0,0.0,0,15.41,4.09
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,49,64,1.0,10.0,0.0,0,14.25,4.51
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,49,64,1.0,10.0,0.0,0,15.73,3.8
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,49,69,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,49,69,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,49,69,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,49,69,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,49,69,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,49,69,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,49,69,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,49,69,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,49,69,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,49,69,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,49,69,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,49,69,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,49,69,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,49,69,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,49,64,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,49,64,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,49,64,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,49,64,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,49,64,1.0,10.0,0.0,0,13.79,3.55
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,44,69,1.0,10.0,0.0,0,13.22,3.17
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,44,64,1.0,10.0,0.0,0,16.18,2.33
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,39,54,1.0,10.0,0.0,0,13.22,3.17
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,39,64,1.0,10.0,0.0,0,16.73,2.35
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,39,69,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,39,69,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,39,69,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,39,69,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,39,69,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,39,69,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,39,64,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,39,64,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,39,64,1.0,10.0,0.0,0,14.61,1.77
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,39,64,1.0,10.0,0.0,0,13.79,3.55
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,39,69,1.0,10.0,0.0,0,12.66,3.61
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,39,64,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,39,64,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,39,64,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,39,64,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,39,64,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,39,64,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,39,64,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,39,64,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,39,64,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,39,69,1.0,10.0,0.0,0,13.6,4.95
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,39,69,1.0,10.0,0.0,0,14.75,3.97
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,44,64,1.0,10.0,0.0,0,13.78,2.03
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,39,69,1.0,10.0,0.0,0,16.18,2.33
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,39,74,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,39,74,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,39,74,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,39,74,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,39,74,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,39,74,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,39,74,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,39,74,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,39,74,1.0,10.0,0.0,0,15.42,3.71
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,39,69,1.0,10.0,0.0,0,13.78,2.03
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,39,69,1.0,10.0,0.0,0,15.35,3.18
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,39,69,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,39,69,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,39,69,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,39,69,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,39,69,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,39,69,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,39,69,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,39,69,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,39,69,1.0,10.0,0.0,0,12.77,2.74
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,39,64,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,39,64,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,39,64,1.0,10.0,0.0,0,12.02,3.97
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,39,54,1.0,10.0,0.0,0,14.7,4.84
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,39,59,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,39,54,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,39,54,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,39,54,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,39,54,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,39,54,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,39,54,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,39,54,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,39,54,1.0,10.0,0.0,0,15.41,4.09
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,39,54,1.0,10.0,0.0,0,14.23,4.4
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,39,64,1.0,10.0,0.0,0,12.21,3.25
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,39,54,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,39,54,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,39,54,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,39,54,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,39,54,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,39,54,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,39,54,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,39,54,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,39,54,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,39,59,1.0,10.0,0.0,0,13.22,3.17
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,39,59,1.0,10.0,0.0,0,13.17,4.15
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,39,59,1.0,10.0,0.0,0,12.21,3.25
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,39,59,1.0,10.0,0.0,0,12.02,3.97
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,39,64,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,39,64,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,39,64,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,39,59,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,39,59,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,39,59,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,39,59,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,39,59,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,39,59,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,39,59,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,39,59,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,39,59,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,39,59,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,39,59,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,39,59,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,39,59,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,39,59,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,39,59,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,39,59,1.0,10.0,0.0,0,13.9,4.8
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,39,74,1.0,10.0,0.0,0,15.35,3.18
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,39,74,1.0,10.0,0.0,0,12.77,2.74
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,39,74,1.0,10.0,0.0,0,14.23,4.4
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,44,59,1.0,10.0,0.0,0,12.66,3.61
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,44,59,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,44,59,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,44,59,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,44,59,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,44,59,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,44,59,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,44,59,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,44,59,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,44,59,1.0,10.0,0.0,0,14.75,3.97
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,44,59,1.0,10.0,0.0,0,13.6,4.95
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,44,54,1.0,10.0,0.0,0,13.79,3.55
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,44,59,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,44,59,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,44,59,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,44,59,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,44,59,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,44,59,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,44,54,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,44,54,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,44,54,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,44,59,1.0,10.0,0.0,0,16.73,2.35
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,44,59,1.0,10.0,0.0,0,14.61,1.77
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,44,59,1.0,10.0,0.0,0,13.78,2.03
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,44,59,1.0,10.0,0.0,0,16.18,2.33
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,44,64,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,44,64,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,44,64,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,44,64,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,44,64,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,44,64,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,44,64,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,44,64,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,44,64,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,44,64,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,44,64,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,44,64,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,44,64,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,44,64,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,44,64,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,44,64,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,44,64,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,44,64,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,44,64,1.0,10.0,0.0,0,15.42,3.71
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,44,54,1.0,10.0,0.0,0,16.73,2.35
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,44,54,1.0,10.0,0.0,0,15.73,3.8
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,39,74,1.0,10.0,0.0,0,14.7,4.84
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,39,79,1.0,10.0,0.0,0,13.17,4.15
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,39,79,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,39,79,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,39,79,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,39,79,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,39,79,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,39,79,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,39,79,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,39,79,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,39,79,1.0,10.0,0.0,0,12.21,3.25
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,39,79,1.0,10.0,0.0,0,13.22,3.17
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,44,54,1.0,10.0,0.0,0,14.25,4.51
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,39,79,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,39,74,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,39,74,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,39,74,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,39,74,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,39,74,1.0,10.0,0.0,0,13.79,3.55
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,39,74,1.0,10.0,0.0,0,15.73,3.8
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,39,74,1.0,10.0,0.0,0,14.25,4.51
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,39,74,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,39,79,1.0,10.0,0.0,0,14.7,4.84
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,39,79,1.0,10.0,0.0,0,15.41,4.09
+77,PBMR.K,PGIM US Large-Cap Buffer 20 ETF - March,5,60,14,39,79,1.0,10.0,0.0,0,14.25,4.51
+77,PBJA.K,PGIM US Large-Cap Buffer 20 ETF - January,5,60,14,39,79,1.0,10.0,0.0,0,15.73,3.8
+77,SIXF.K,AllianzIM US LargeCap 6 Month Buffer10 Feb/Aug ETF,5,60,14,44,54,1.0,10.0,0.0,0,15.41,4.09
+77,OCTW.K,AllianzIM US Large Cap Buffer20 Oct ETF,5,60,14,44,54,1.0,10.0,0.0,0,14.7,4.84
+77,MAYW.K,AllianzIM US Large Cap Buffer20 May ETF,5,60,14,44,54,1.0,10.0,0.0,0,14.23,4.4
+77,XNOV.K,FT Vest US Equity Enh & Mod Buffer ETF - Nov,5,60,14,44,54,1.0,10.0,0.0,0,12.77,2.74
+77,XOCT.K,FT Vest US Equity Enh & Mod Buffer ETF - Oct,5,60,14,44,54,1.0,10.0,0.0,0,15.35,3.18
+77,XFEB.K,FT Vest US Equity Enh & Mod Buffer ETF - Feb,5,60,14,44,54,1.0,10.0,0.0,0,14.75,3.97
+77,XMAR.K,FT Vest US Equity Enh & Mod Buffer ETF - Mar,5,60,14,44,54,1.0,10.0,0.0,0,12.66,3.61
+77,SEPW.K,AllianzIM US Large Cap Buffer20 Sep ETF,5,60,14,44,54,1.0,10.0,0.0,0,13.6,4.95
+77,MARW.K,AllianzIM US Large Cap Buffer20 Mar ETF,5,60,14,44,54,1.0,10.0,0.0,0,13.9,4.8
+77,XAUG.K,FT Vest US Equity Enh & Mod Buffer ETF - Aug,5,60,14,44,54,1.0,10.0,0.0,0,12.02,3.97
+77,XJAN.K,FT Vest US Equity Enh & Mod Buffer ETF - Jan,5,60,14,44,54,1.0,10.0,0.0,0,12.21,3.25
+77,JUNW.K,AllianzIM US Large Cap Buffer20 Jun ETF,5,60,14,44,54,1.0,10.0,0.0,0,13.17,4.15
+77,BUFC.O,AB Conservative Buffer ETF,5,60,14,44,54,1.0,10.0,0.0,0,13.22,3.17
+77,ZALT.K,Innovator US Equity 10 Buffer ETF - Quarterly,5,60,14,44,54,1.0,10.0,0.0,0,15.42,3.71
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,60,14,39,79,1.0,10.0,0.0,0,16.18,2.33
+77,PBSE.K,PGIM US Large-Cap Buffer 20 ETF - September,5,60,14,39,79,1.0,10.0,0.0,0,13.78,2.03
+77,PBAU.K,PGIM US Large-Cap Buffer 20 ETF - August,5,60,14,39,79,1.0,10.0,0.0,0,14.61,1.77
+77,AUGP.K,PGIM US Large-Cap Buffer 12 ETF - August,5,60,14,39,79,1.0,10.0,0.0,0,16.73,2.35
+77,PBFB.K,PGIM US Large-Cap Buffer 20 ETF - February,5,60,14,39,79,1.0,10.0,0.0,0,13.79,3.55
+77,SEPP.K,PGIM US Large-Cap Buffer 12 ETF - September,5,120,14,49,79,1.0,10.0,0.0,0,16.18,2.33

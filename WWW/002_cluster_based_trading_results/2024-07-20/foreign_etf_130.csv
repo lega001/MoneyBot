@@ -1,0 +1,361 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,44,54,1.0,10.0,926.5,-30.32,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,44,54,1.0,10.0,926.5,-26.67,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,44,54,1.0,10.0,926.5,4620.97,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,44,54,1.0,10.0,926.5,-46.8,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,44,54,1.0,10.0,926.5,115.3,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,39,54,1.0,10.0,917.14,-31.82,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,39,54,1.0,10.0,917.14,-19.03,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,39,54,1.0,10.0,917.14,4620.97,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,39,54,1.0,10.0,917.14,-99.73,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,39,54,1.0,10.0,917.14,115.3,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,44,59,1.0,10.0,908.57,-46.8,-12.25,71.32
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,44,59,1.0,10.0,908.57,-30.32,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,44,59,1.0,10.0,908.57,-27.93,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,44,59,1.0,10.0,908.57,4620.97,-16.33,74.25
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,44,59,1.0,10.0,908.57,26.9,-12.92,69.06
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,44,69,1.0,10.0,908.1,26.9,-12.92,69.06
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,44,69,1.0,10.0,908.1,4620.97,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,44,69,1.0,10.0,908.1,-24.84,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,44,69,1.0,10.0,908.1,-35.74,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,44,64,1.0,10.0,908.1,26.9,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,44,64,1.0,10.0,908.1,-46.8,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,44,64,1.0,10.0,908.1,4620.97,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,44,64,1.0,10.0,908.1,-24.84,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,44,64,1.0,10.0,908.1,-35.74,-11.28,76.94
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,44,69,1.0,10.0,908.1,-46.8,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,44,74,1.0,10.0,906.38,26.9,-12.92,69.06
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,44,79,1.0,10.0,906.38,26.9,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,44,79,1.0,10.0,906.38,-46.8,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,44,79,1.0,10.0,906.38,4620.97,-16.33,74.25
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,44,79,1.0,10.0,906.38,-35.74,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,44,79,1.0,10.0,906.38,-33.41,-19.34,71.45
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,44,74,1.0,10.0,906.38,-46.8,-12.25,71.32
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,44,74,1.0,10.0,906.38,-33.41,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,44,74,1.0,10.0,906.38,-35.74,-11.28,76.94
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,44,74,1.0,10.0,906.38,4620.97,-16.33,74.25
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,39,59,1.0,10.0,898.92,4620.97,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,39,59,1.0,10.0,898.92,-99.73,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,39,59,1.0,10.0,898.92,26.9,-12.92,69.06
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,39,59,1.0,10.0,898.92,-21.72,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,39,59,1.0,10.0,898.92,-31.82,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,39,64,1.0,10.0,898.69,26.9,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,39,64,1.0,10.0,898.69,-36.58,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,39,64,1.0,10.0,898.69,-18.1,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,39,64,1.0,10.0,898.69,4620.97,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,39,64,1.0,10.0,898.69,-99.73,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,39,69,1.0,10.0,898.69,26.9,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,39,69,1.0,10.0,898.69,-99.73,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,39,69,1.0,10.0,898.69,4620.97,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,39,69,1.0,10.0,898.69,-18.1,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,39,69,1.0,10.0,898.69,-36.58,-11.28,76.94
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,39,79,1.0,10.0,895.63,-99.73,-12.25,71.32
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,39,74,1.0,10.0,895.63,-36.58,-11.28,76.94
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,39,74,1.0,10.0,895.63,4620.97,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,39,74,1.0,10.0,895.63,-99.73,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,39,74,1.0,10.0,895.63,26.9,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,39,79,1.0,10.0,895.63,-36.58,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,39,79,1.0,10.0,895.63,-33.41,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,39,79,1.0,10.0,895.63,4620.97,-16.33,74.25
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,39,79,1.0,10.0,895.63,26.9,-12.92,69.06
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,39,74,1.0,10.0,895.63,-33.41,-19.34,71.45
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,44,54,1.0,10.0,89.99,144.31,-12.92,69.06
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,44,54,1.0,10.0,89.99,376.01,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,44,54,1.0,10.0,89.99,-15.66,-12.25,71.32
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,44,54,1.0,10.0,89.99,-24.25,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,44,54,1.0,10.0,89.99,-30.48,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,39,54,1.0,10.0,89.47,144.31,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,39,54,1.0,10.0,89.47,-15.66,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,39,54,1.0,10.0,89.47,376.01,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,39,54,1.0,10.0,89.47,-26.45,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,39,54,1.0,10.0,89.47,-30.85,-11.28,76.94
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,44,59,1.0,10.0,69.21,376.01,-16.33,74.25
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,44,59,1.0,10.0,69.21,-30.48,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,44,59,1.0,10.0,69.21,-26.65,-19.34,71.45
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,44,59,1.0,10.0,69.21,-15.66,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,44,59,1.0,10.0,69.21,42.84,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,39,59,1.0,10.0,69.14,-30.85,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,39,59,1.0,10.0,69.14,42.84,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,39,59,1.0,10.0,69.14,-15.66,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,39,59,1.0,10.0,69.14,376.01,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,39,59,1.0,10.0,69.14,-26.65,-19.34,71.45
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,39,64,1.0,10.0,68.79,-23.55,-19.34,71.45
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,39,69,1.0,10.0,68.79,-15.66,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,39,69,1.0,10.0,68.79,376.01,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,39,69,1.0,10.0,68.79,-23.55,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,39,69,1.0,10.0,68.79,-35.68,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,39,64,1.0,10.0,68.79,42.84,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,39,64,1.0,10.0,68.79,-15.66,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,39,64,1.0,10.0,68.79,376.01,-16.33,74.25
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,39,64,1.0,10.0,68.79,-35.68,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,39,69,1.0,10.0,68.79,42.84,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,44,69,1.0,10.0,68.71,-36.12,-11.28,76.94
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,44,69,1.0,10.0,68.71,376.01,-16.33,74.25
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,44,64,1.0,10.0,68.71,-36.12,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,44,64,1.0,10.0,68.71,-23.55,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,44,64,1.0,10.0,68.71,376.01,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,44,64,1.0,10.0,68.71,-15.66,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,44,64,1.0,10.0,68.71,42.84,-12.92,69.06
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,44,69,1.0,10.0,68.71,42.84,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,44,69,1.0,10.0,68.71,-15.66,-12.25,71.32
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,44,69,1.0,10.0,68.71,-23.55,-19.34,71.45
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,39,79,1.0,10.0,66.95,42.84,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,39,79,1.0,10.0,66.95,-15.66,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,39,79,1.0,10.0,66.95,376.01,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,39,79,1.0,10.0,66.95,-32.76,-19.34,71.45
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,39,74,1.0,10.0,66.95,-32.76,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,39,79,1.0,10.0,66.95,-35.68,-11.28,76.94
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,39,74,1.0,10.0,66.95,376.01,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,39,74,1.0,10.0,66.95,-15.66,-12.25,71.32
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,39,74,1.0,10.0,66.95,-35.68,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,39,74,1.0,10.0,66.95,42.84,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,44,79,1.0,10.0,66.86,-36.12,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,44,74,1.0,10.0,66.86,42.84,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,44,74,1.0,10.0,66.86,-15.66,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,44,79,1.0,10.0,66.86,42.84,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,44,79,1.0,10.0,66.86,-15.66,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,44,79,1.0,10.0,66.86,376.01,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,44,79,1.0,10.0,66.86,-32.76,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,44,74,1.0,10.0,66.86,-36.12,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,44,74,1.0,10.0,66.86,-32.76,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,44,74,1.0,10.0,66.86,376.01,-16.33,74.25
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,24,54,1.0,10.0,28.86,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,24,54,1.0,10.0,28.86,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,24,54,1.0,10.0,28.86,144.31,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,24,54,1.0,10.0,28.86,0.0,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,24,54,1.0,10.0,28.86,0.0,-19.34,71.45
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,24,54,1.0,10.0,23.06,115.3,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,24,54,1.0,10.0,23.06,0.0,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,24,54,1.0,10.0,23.06,0.0,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,24,54,1.0,10.0,23.06,0.0,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,24,54,1.0,10.0,23.06,0.0,-11.28,76.94
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,34,54,1.0,10.0,20.51,-26.08,-11.28,76.94
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,34,54,1.0,10.0,20.51,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,29,54,1.0,10.0,20.51,144.31,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,29,54,1.0,10.0,20.51,0.0,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,29,54,1.0,10.0,20.51,0.0,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,29,54,1.0,10.0,20.51,-15.68,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,29,54,1.0,10.0,20.51,-26.08,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,34,54,1.0,10.0,20.51,144.31,-12.92,69.06
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,34,54,1.0,10.0,20.51,-15.68,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,34,54,1.0,10.0,20.51,0.0,-16.33,74.25
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,29,54,1.0,10.0,14.75,115.3,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,29,54,1.0,10.0,14.75,0.0,-12.25,71.32
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,29,54,1.0,10.0,14.75,-18.28,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,29,54,1.0,10.0,14.75,0.0,-16.33,74.25
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,29,54,1.0,10.0,14.75,-23.25,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,34,54,1.0,10.0,13.99,-18.28,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,34,54,1.0,10.0,13.99,-27.08,-11.28,76.94
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,34,54,1.0,10.0,13.99,0.0,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,34,54,1.0,10.0,13.99,0.0,-16.33,74.25
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,34,54,1.0,10.0,13.99,115.3,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,24,74,1.0,10.0,8.57,0.0,-11.28,76.94
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,24,79,1.0,10.0,8.57,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,24,79,1.0,10.0,8.57,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,24,79,1.0,10.0,8.57,42.84,-12.92,69.06
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,24,79,1.0,10.0,8.57,0.0,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,24,79,1.0,10.0,8.57,0.0,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,24,74,1.0,10.0,8.57,42.84,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,24,74,1.0,10.0,8.57,0.0,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,24,74,1.0,10.0,8.57,0.0,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,24,74,1.0,10.0,8.57,0.0,-19.34,71.45
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,24,69,1.0,10.0,8.57,42.84,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,24,59,1.0,10.0,8.57,0.0,-11.28,76.94
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,24,64,1.0,10.0,8.57,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,24,69,1.0,10.0,8.57,0.0,-12.25,71.32
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,24,59,1.0,10.0,8.57,0.0,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,24,59,1.0,10.0,8.57,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,24,59,1.0,10.0,8.57,0.0,-12.25,71.32
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,24,64,1.0,10.0,8.57,0.0,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,24,64,1.0,10.0,8.57,0.0,-19.34,71.45
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,24,59,1.0,10.0,8.57,42.84,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,24,64,1.0,10.0,8.57,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,24,64,1.0,10.0,8.57,42.84,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,24,69,1.0,10.0,8.57,0.0,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,24,69,1.0,10.0,8.57,0.0,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,24,69,1.0,10.0,8.57,0.0,-16.33,74.25
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,24,64,1.0,10.0,5.38,26.9,-12.92,69.06
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,24,74,1.0,10.0,5.38,0.0,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,24,69,1.0,10.0,5.38,0.0,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,24,69,1.0,10.0,5.38,0.0,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,24,69,1.0,10.0,5.38,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,24,69,1.0,10.0,5.38,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,24,69,1.0,10.0,5.38,26.9,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,24,74,1.0,10.0,5.38,0.0,-11.28,76.94
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,24,64,1.0,10.0,5.38,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,24,74,1.0,10.0,5.38,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,24,74,1.0,10.0,5.38,26.9,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,24,79,1.0,10.0,5.38,0.0,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,24,79,1.0,10.0,5.38,0.0,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,24,79,1.0,10.0,5.38,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,24,79,1.0,10.0,5.38,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,24,79,1.0,10.0,5.38,26.9,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,24,64,1.0,10.0,5.38,0.0,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,24,74,1.0,10.0,5.38,0.0,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,24,64,1.0,10.0,5.38,0.0,-19.34,71.45
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,24,59,1.0,10.0,5.38,26.9,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,24,59,1.0,10.0,5.38,0.0,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,24,59,1.0,10.0,5.38,0.0,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,24,59,1.0,10.0,5.38,0.0,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,24,59,1.0,10.0,5.38,0.0,-11.28,76.94
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,24,64,1.0,10.0,5.38,0.0,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,49,54,1.0,10.0,3.94,144.31,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,49,54,1.0,10.0,3.94,-30.48,-11.28,76.94
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,49,54,1.0,10.0,3.94,-56.69,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,49,54,1.0,10.0,3.94,-15.66,-12.25,71.32
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,49,54,1.0,10.0,3.94,-21.78,-19.34,71.45
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,34,59,1.0,10.0,0.17,42.84,-12.92,69.06
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,34,59,1.0,10.0,0.17,-15.89,-19.34,71.45
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,29,59,1.0,10.0,0.17,0.0,-12.25,71.32
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,34,59,1.0,10.0,0.17,-26.08,-11.28,76.94
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,29,59,1.0,10.0,0.17,0.0,-16.33,74.25
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,29,59,1.0,10.0,0.17,42.84,-12.92,69.06
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,34,59,1.0,10.0,0.17,0.0,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,29,59,1.0,10.0,0.17,-15.89,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,29,59,1.0,10.0,0.17,-26.08,-11.28,76.94
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,34,59,1.0,10.0,0.17,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,34,69,1.0,10.0,-0.12,42.84,-12.92,69.06
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,34,64,1.0,10.0,-0.12,-11.09,-19.34,71.45
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,29,64,1.0,10.0,-0.12,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,29,64,1.0,10.0,-0.12,42.84,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,29,69,1.0,10.0,-0.12,-32.36,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,29,69,1.0,10.0,-0.12,-11.09,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,29,69,1.0,10.0,-0.12,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,34,64,1.0,10.0,-0.12,0.0,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,34,64,1.0,10.0,-0.12,0.0,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,29,64,1.0,10.0,-0.12,-11.09,-19.34,71.45
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,34,64,1.0,10.0,-0.12,42.84,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,34,69,1.0,10.0,-0.12,-32.36,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,29,69,1.0,10.0,-0.12,42.84,-12.92,69.06
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,34,69,1.0,10.0,-0.12,-11.09,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,34,69,1.0,10.0,-0.12,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,34,69,1.0,10.0,-0.12,0.0,-12.25,71.32
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,29,69,1.0,10.0,-0.12,0.0,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,29,64,1.0,10.0,-0.12,0.0,-16.33,74.25
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,29,64,1.0,10.0,-0.12,-32.36,-11.28,76.94
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,34,64,1.0,10.0,-0.12,-32.36,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,29,59,1.0,10.0,-2.68,26.9,-12.92,69.06
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,29,59,1.0,10.0,-2.68,-17.04,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,29,59,1.0,10.0,-2.68,-23.25,-11.28,76.94
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,29,59,1.0,10.0,-2.68,0.0,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,29,59,1.0,10.0,-2.68,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,29,64,1.0,10.0,-3.34,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,29,69,1.0,10.0,-3.34,26.9,-12.92,69.06
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,29,64,1.0,10.0,-3.34,-12.27,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,29,64,1.0,10.0,-3.34,-31.33,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,29,64,1.0,10.0,-3.34,26.9,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,29,69,1.0,10.0,-3.34,-31.33,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,29,69,1.0,10.0,-3.34,-12.27,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,29,69,1.0,10.0,-3.34,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,29,69,1.0,10.0,-3.34,0.0,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,29,64,1.0,10.0,-3.34,0.0,-16.33,74.25
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,34,59,1.0,10.0,-3.44,-27.08,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,34,59,1.0,10.0,-3.44,-17.04,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,34,59,1.0,10.0,-3.44,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,34,59,1.0,10.0,-3.44,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,34,59,1.0,10.0,-3.44,26.9,-12.92,69.06
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,34,64,1.0,10.0,-3.71,-12.27,-19.34,71.45
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,34,69,1.0,10.0,-3.71,26.9,-12.92,69.06
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,34,64,1.0,10.0,-3.71,0.0,-16.33,74.25
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,34,64,1.0,10.0,-3.71,26.9,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,34,69,1.0,10.0,-3.71,0.0,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,34,69,1.0,10.0,-3.71,0.0,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,34,69,1.0,10.0,-3.71,-12.27,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,34,69,1.0,10.0,-3.71,-33.17,-11.28,76.94
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,34,64,1.0,10.0,-3.71,-33.17,-11.28,76.94
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,34,64,1.0,10.0,-3.71,0.0,-12.25,71.32
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,29,74,1.0,10.0,-4.46,-32.36,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,29,74,1.0,10.0,-4.46,-32.76,-19.34,71.45
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,29,74,1.0,10.0,-4.46,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,29,74,1.0,10.0,-4.46,42.84,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,29,79,1.0,10.0,-4.46,-32.36,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,29,79,1.0,10.0,-4.46,-32.76,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,29,79,1.0,10.0,-4.46,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,29,79,1.0,10.0,-4.46,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,29,79,1.0,10.0,-4.46,42.84,-12.92,69.06
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,29,74,1.0,10.0,-4.46,0.0,-16.33,74.25
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,34,79,1.0,10.0,-4.46,42.84,-12.92,69.06
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,34,79,1.0,10.0,-4.46,0.0,-16.33,74.25
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,34,74,1.0,10.0,-4.46,-32.36,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,34,74,1.0,10.0,-4.46,-32.76,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,34,74,1.0,10.0,-4.46,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,34,74,1.0,10.0,-4.46,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,34,74,1.0,10.0,-4.46,42.84,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,34,79,1.0,10.0,-4.46,-32.36,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,34,79,1.0,10.0,-4.46,-32.76,-19.34,71.45
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,34,79,1.0,10.0,-4.46,0.0,-12.25,71.32
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,29,79,1.0,10.0,-7.57,-33.41,-19.34,71.45
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,29,74,1.0,10.0,-7.57,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,29,74,1.0,10.0,-7.57,26.9,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,29,79,1.0,10.0,-7.57,-31.33,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,29,74,1.0,10.0,-7.57,-33.41,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,29,79,1.0,10.0,-7.57,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,29,79,1.0,10.0,-7.57,0.0,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,29,79,1.0,10.0,-7.57,26.9,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,29,74,1.0,10.0,-7.57,-31.33,-11.28,76.94
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,29,74,1.0,10.0,-7.57,0.0,-16.33,74.25
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,34,79,1.0,10.0,-7.94,26.9,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,34,74,1.0,10.0,-7.94,0.0,-12.25,71.32
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,34,74,1.0,10.0,-7.94,-33.41,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,34,79,1.0,10.0,-7.94,0.0,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,34,79,1.0,10.0,-7.94,-33.41,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,34,79,1.0,10.0,-7.94,-33.17,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,34,74,1.0,10.0,-7.94,26.9,-12.92,69.06
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,34,74,1.0,10.0,-7.94,0.0,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,34,79,1.0,10.0,-7.94,0.0,-12.25,71.32
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,34,74,1.0,10.0,-7.94,-33.17,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,49,54,1.0,10.0,-10.43,115.3,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,49,54,1.0,10.0,-10.43,-30.32,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,49,54,1.0,10.0,-10.43,-25.63,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,49,54,1.0,10.0,-10.43,-64.68,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,49,54,1.0,10.0,-10.43,-46.8,-12.25,71.32
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,49,59,1.0,10.0,-18.31,-30.48,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,49,59,1.0,10.0,-18.31,-31.58,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,49,59,1.0,10.0,-18.31,-56.69,-16.33,74.25
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,49,59,1.0,10.0,-18.31,42.84,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,49,59,1.0,10.0,-18.31,-15.66,-12.25,71.32
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,49,64,1.0,10.0,-18.9,-28.89,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,49,64,1.0,10.0,-18.9,-56.69,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,49,64,1.0,10.0,-18.9,-15.66,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,49,64,1.0,10.0,-18.9,42.84,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,49,69,1.0,10.0,-18.9,-36.12,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,49,69,1.0,10.0,-18.9,-28.89,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,49,69,1.0,10.0,-18.9,-56.69,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,49,69,1.0,10.0,-18.9,-15.66,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,49,69,1.0,10.0,-18.9,42.84,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,49,64,1.0,10.0,-18.9,-36.12,-11.28,76.94
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,49,79,1.0,10.0,-19.68,-36.12,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,49,79,1.0,10.0,-19.68,42.84,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,49,79,1.0,10.0,-19.68,-15.66,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,49,79,1.0,10.0,-19.68,-56.69,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,49,79,1.0,10.0,-19.68,-32.76,-19.34,71.45
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,60,14,49,74,1.0,10.0,-19.68,-32.76,-19.34,71.45
+130,WEED.K,Roundhill Cannabis ETF,5,60,14,49,74,1.0,10.0,-19.68,42.84,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,60,14,49,74,1.0,10.0,-19.68,-15.66,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,60,14,49,74,1.0,10.0,-19.68,-56.69,-16.33,74.25
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,60,14,49,74,1.0,10.0,-19.68,-36.12,-11.28,76.94
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,49,59,1.0,10.0,-29.67,26.9,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,49,59,1.0,10.0,-29.67,-46.8,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,49,59,1.0,10.0,-29.67,-64.68,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,49,59,1.0,10.0,-29.67,-33.46,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,49,59,1.0,10.0,-29.67,-30.32,-11.28,76.94
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,49,69,1.0,10.0,-30.22,-35.74,-11.28,76.94
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,49,69,1.0,10.0,-30.22,-46.8,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,49,69,1.0,10.0,-30.22,-64.68,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,49,69,1.0,10.0,-30.22,-30.79,-19.34,71.45
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,49,69,1.0,10.0,-30.22,26.9,-12.92,69.06
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,49,64,1.0,10.0,-30.22,26.9,-12.92,69.06
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,49,64,1.0,10.0,-30.22,-46.8,-12.25,71.32
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,49,64,1.0,10.0,-30.22,-64.68,-16.33,74.25
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,49,64,1.0,10.0,-30.22,-30.79,-19.34,71.45
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,49,64,1.0,10.0,-30.22,-35.74,-11.28,76.94
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,49,74,1.0,10.0,-30.75,-35.74,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,49,74,1.0,10.0,-30.75,-33.41,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,49,74,1.0,10.0,-30.75,-64.68,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,49,74,1.0,10.0,-30.75,-46.8,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,49,74,1.0,10.0,-30.75,26.9,-12.92,69.06
+130,YANG.K,Direxion Daily FTSE China Bear 3X Shares,5,120,14,49,79,1.0,10.0,-30.75,-35.74,-11.28,76.94
+130,ERY,Direxion Daily Energy Bear 2x Shares,5,120,14,49,79,1.0,10.0,-30.75,-33.41,-19.34,71.45
+130,TSL.O,GraniteShares 1.25x Long TSLA Daily ETF,5,120,14,49,79,1.0,10.0,-30.75,-64.68,-16.33,74.25
+130,BABX.O,GraniteShares 2x Long BABA Daily ETF,5,120,14,49,79,1.0,10.0,-30.75,-46.8,-12.25,71.32
+130,WEED.K,Roundhill Cannabis ETF,5,120,14,49,79,1.0,10.0,-30.75,26.9,-12.92,69.06

@@ -1,0 +1,937 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,44,59,1.0,10.0,18.87,218.7,73.9,62.77
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,44,59,1.0,10.0,18.87,0.0,69.69,57.29
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,44,59,1.0,10.0,18.87,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,44,59,1.0,10.0,18.87,0.0,72.43,55.83
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,44,59,1.0,10.0,18.87,0.0,75.31,55.88
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,44,59,1.0,10.0,18.87,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,44,59,1.0,10.0,18.87,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,44,59,1.0,10.0,18.87,0.0,73.38,56.06
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,44,59,1.0,10.0,18.87,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,44,59,1.0,10.0,18.87,26.66,74.11,60.09
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,44,59,1.0,10.0,18.87,0.0,71.71,55.72
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,44,59,1.0,10.0,18.87,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,44,59,1.0,10.0,18.87,0.0,74.02,55.79
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,44,64,1.0,10.0,15.11,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,44,64,1.0,10.0,15.11,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,44,64,1.0,10.0,15.11,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,44,64,1.0,10.0,15.11,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,44,64,1.0,10.0,15.11,151.17,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,44,64,1.0,10.0,15.11,0.0,72.43,55.83
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,44,64,1.0,10.0,15.11,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,44,64,1.0,10.0,15.11,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,44,64,1.0,10.0,15.11,0.0,75.31,55.88
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,44,64,1.0,10.0,15.11,45.2,74.11,60.09
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,44,64,1.0,10.0,15.11,0.0,72.98,55.81
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,44,64,1.0,10.0,15.11,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,44,64,1.0,10.0,15.11,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,44,54,1.0,10.0,13.79,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,44,54,1.0,10.0,13.79,0.0,71.71,55.72
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,44,54,1.0,10.0,13.79,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,44,54,1.0,10.0,13.79,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,44,54,1.0,10.0,13.79,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,44,54,1.0,10.0,13.79,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,44,54,1.0,10.0,13.79,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,44,54,1.0,10.0,13.79,156.6,73.9,62.77
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,44,54,1.0,10.0,13.79,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,44,54,1.0,10.0,13.79,0.0,73.38,56.06
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,44,54,1.0,10.0,13.79,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,44,54,1.0,10.0,13.79,22.63,74.11,60.09
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,44,54,1.0,10.0,13.79,0.0,73.19,55.73
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,49,64,1.0,10.0,12.14,0.0,73.19,55.73
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,49,64,1.0,10.0,12.14,0.0,74.02,55.79
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,49,64,1.0,10.0,12.14,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,49,64,1.0,10.0,12.14,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,49,64,1.0,10.0,12.14,86.13,73.9,62.77
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,49,64,1.0,10.0,12.14,0.0,75.31,55.88
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,49,64,1.0,10.0,12.14,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,49,64,1.0,10.0,12.14,0.0,73.38,56.06
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,49,64,1.0,10.0,12.14,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,49,64,1.0,10.0,12.14,71.76,74.11,60.09
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,49,64,1.0,10.0,12.14,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,49,64,1.0,10.0,12.14,0.0,69.69,57.29
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,49,64,1.0,10.0,12.14,0.0,74.79,55.68
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,44,64,1.0,10.0,11.48,0.0,73.32,56.0
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,44,64,1.0,10.0,11.48,0.0,72.98,55.81
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,44,64,1.0,10.0,11.48,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,44,64,1.0,10.0,11.48,0.0,71.71,55.72
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,44,64,1.0,10.0,11.48,0.0,75.31,55.88
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,44,64,1.0,10.0,11.48,63.09,74.11,60.09
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,44,64,1.0,10.0,11.48,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,44,64,1.0,10.0,11.48,0.0,74.02,55.79
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,44,64,1.0,10.0,11.48,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,44,64,1.0,10.0,11.48,86.13,73.9,62.77
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,44,64,1.0,10.0,11.48,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,44,64,1.0,10.0,11.48,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,44,64,1.0,10.0,11.48,0.0,73.38,56.06
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,49,59,1.0,10.0,11.19,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,49,59,1.0,10.0,11.19,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,49,59,1.0,10.0,11.19,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,49,59,1.0,10.0,11.19,90.6,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,49,59,1.0,10.0,11.19,0.0,72.43,55.83
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,49,59,1.0,10.0,11.19,0.0,71.71,55.72
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,49,59,1.0,10.0,11.19,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,49,59,1.0,10.0,11.19,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,49,59,1.0,10.0,11.19,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,49,59,1.0,10.0,11.19,0.0,75.31,55.88
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,49,59,1.0,10.0,11.19,54.88,74.11,60.09
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,49,59,1.0,10.0,11.19,0.0,69.69,57.29
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,49,59,1.0,10.0,11.19,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,49,69,1.0,10.0,11.17,86.98,74.11,60.09
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,49,69,1.0,10.0,11.17,0.0,71.71,55.72
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,49,69,1.0,10.0,11.17,0.0,72.98,55.81
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,49,69,1.0,10.0,11.17,0.0,69.69,57.29
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,49,69,1.0,10.0,11.17,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,49,69,1.0,10.0,11.17,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,49,69,1.0,10.0,11.17,0.0,74.79,55.68
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,49,69,1.0,10.0,11.17,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,49,69,1.0,10.0,11.17,58.28,73.9,62.77
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,49,69,1.0,10.0,11.17,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,49,69,1.0,10.0,11.17,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,49,69,1.0,10.0,11.17,0.0,73.38,56.06
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,49,69,1.0,10.0,11.17,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,44,59,1.0,10.0,10.64,47.7,74.11,60.09
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,44,59,1.0,10.0,10.64,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,44,59,1.0,10.0,10.64,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,44,59,1.0,10.0,10.64,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,44,59,1.0,10.0,10.64,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,44,59,1.0,10.0,10.64,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,44,59,1.0,10.0,10.64,90.6,73.9,62.77
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,44,59,1.0,10.0,10.64,0.0,73.19,55.73
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,44,59,1.0,10.0,10.64,0.0,73.32,56.0
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,44,59,1.0,10.0,10.64,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,44,59,1.0,10.0,10.64,0.0,69.69,57.29
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,44,59,1.0,10.0,10.64,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,44,59,1.0,10.0,10.64,0.0,79.83,55.48
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,49,79,1.0,10.0,10.33,0.0,73.32,56.0
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,49,79,1.0,10.0,10.33,0.0,74.79,55.68
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,49,79,1.0,10.0,10.33,73.93,74.11,60.09
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,49,79,1.0,10.0,10.33,0.0,73.38,56.06
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,49,79,1.0,10.0,10.33,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,49,79,1.0,10.0,10.33,0.0,71.71,55.72
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,49,79,1.0,10.0,10.33,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,49,79,1.0,10.0,10.33,0.0,75.31,55.88
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,49,79,1.0,10.0,10.33,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,49,79,1.0,10.0,10.33,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,49,79,1.0,10.0,10.33,60.35,73.9,62.77
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,49,79,1.0,10.0,10.33,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,49,79,1.0,10.0,10.33,0.0,79.83,55.48
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,49,74,1.0,10.0,10.27,61.25,73.9,62.77
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,49,74,1.0,10.0,10.27,0.0,69.69,57.29
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,49,74,1.0,10.0,10.27,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,49,74,1.0,10.0,10.27,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,49,74,1.0,10.0,10.27,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,49,74,1.0,10.0,10.27,0.0,72.43,55.83
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,49,74,1.0,10.0,10.27,0.0,71.71,55.72
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,49,74,1.0,10.0,10.27,0.0,73.19,55.73
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,49,74,1.0,10.0,10.27,72.22,74.11,60.09
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,49,74,1.0,10.0,10.27,0.0,79.83,55.48
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,49,74,1.0,10.0,10.27,0.0,75.31,55.88
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,49,74,1.0,10.0,10.27,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,49,74,1.0,10.0,10.27,0.0,73.38,56.06
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,49,54,1.0,10.0,10.15,51.77,73.9,62.77
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,49,54,1.0,10.0,10.15,0.0,71.71,55.72
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,49,54,1.0,10.0,10.15,0.0,73.32,56.0
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,49,54,1.0,10.0,10.15,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,49,54,1.0,10.0,10.15,0.0,73.19,55.73
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,49,54,1.0,10.0,10.15,80.24,74.11,60.09
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,49,54,1.0,10.0,10.15,0.0,72.43,55.83
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,49,54,1.0,10.0,10.15,0.0,75.31,55.88
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,49,54,1.0,10.0,10.15,0.0,72.98,55.81
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,49,54,1.0,10.0,10.15,0.0,69.69,57.29
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,49,54,1.0,10.0,10.15,0.0,73.38,56.06
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,49,54,1.0,10.0,10.15,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,49,54,1.0,10.0,10.15,0.0,74.79,55.68
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,44,74,1.0,10.0,10.08,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,44,74,1.0,10.0,10.08,0.0,71.71,55.72
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,44,74,1.0,10.0,10.08,0.0,75.31,55.88
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,44,74,1.0,10.0,10.08,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,44,74,1.0,10.0,10.08,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,44,74,1.0,10.0,10.08,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,44,74,1.0,10.0,10.08,61.25,73.9,62.77
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,44,74,1.0,10.0,10.08,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,44,74,1.0,10.0,10.08,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,44,74,1.0,10.0,10.08,0.0,73.38,56.06
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,44,74,1.0,10.0,10.08,0.0,74.02,55.79
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,44,74,1.0,10.0,10.08,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,44,74,1.0,10.0,10.08,69.84,74.11,60.09
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,44,79,1.0,10.0,10.01,0.0,72.43,55.83
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,44,79,1.0,10.0,10.01,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,44,79,1.0,10.0,10.01,0.0,69.69,57.29
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,44,79,1.0,10.0,10.01,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,44,79,1.0,10.0,10.01,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,44,79,1.0,10.0,10.01,0.0,72.98,55.81
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,44,79,1.0,10.0,10.01,0.0,75.31,55.88
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,44,79,1.0,10.0,10.01,60.35,73.9,62.77
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,44,79,1.0,10.0,10.01,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,44,79,1.0,10.0,10.01,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,44,79,1.0,10.0,10.01,0.0,73.38,56.06
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,44,79,1.0,10.0,10.01,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,44,79,1.0,10.0,10.01,69.84,74.11,60.09
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,44,74,1.0,10.0,9.97,0.0,73.19,55.73
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,44,74,1.0,10.0,9.97,51.51,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,44,74,1.0,10.0,9.97,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,44,74,1.0,10.0,9.97,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,44,74,1.0,10.0,9.97,0.0,79.83,55.48
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,44,74,1.0,10.0,9.97,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,44,74,1.0,10.0,9.97,0.0,75.31,55.88
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,44,74,1.0,10.0,9.97,78.06,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,44,74,1.0,10.0,9.97,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,44,74,1.0,10.0,9.97,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,44,74,1.0,10.0,9.97,0.0,74.79,55.68
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,44,74,1.0,10.0,9.97,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,44,74,1.0,10.0,9.97,0.0,69.69,57.29
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,44,69,1.0,10.0,9.86,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,44,69,1.0,10.0,9.86,69.84,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,44,69,1.0,10.0,9.86,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,44,69,1.0,10.0,9.86,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,44,69,1.0,10.0,9.86,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,44,69,1.0,10.0,9.86,0.0,73.19,55.73
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,44,69,1.0,10.0,9.86,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,44,69,1.0,10.0,9.86,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,44,69,1.0,10.0,9.86,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,44,69,1.0,10.0,9.86,0.0,74.02,55.79
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,44,69,1.0,10.0,9.86,58.28,73.9,62.77
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,44,69,1.0,10.0,9.86,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,44,69,1.0,10.0,9.86,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,44,69,1.0,10.0,9.71,0.0,69.69,57.29
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,44,69,1.0,10.0,9.71,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,44,69,1.0,10.0,9.71,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,44,69,1.0,10.0,9.71,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,44,69,1.0,10.0,9.71,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,44,69,1.0,10.0,9.71,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,44,69,1.0,10.0,9.71,74.69,73.9,62.77
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,44,69,1.0,10.0,9.71,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,44,69,1.0,10.0,9.71,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,44,69,1.0,10.0,9.71,0.0,73.38,56.06
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,44,69,1.0,10.0,9.71,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,44,69,1.0,10.0,9.71,51.51,74.11,60.09
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,44,69,1.0,10.0,9.71,0.0,71.71,55.72
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,44,79,1.0,10.0,9.7,74.54,73.9,62.77
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,44,79,1.0,10.0,9.7,0.0,69.69,57.29
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,44,79,1.0,10.0,9.7,0.0,73.19,55.73
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,44,79,1.0,10.0,9.7,51.51,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,44,79,1.0,10.0,9.7,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,44,79,1.0,10.0,9.7,0.0,73.38,56.06
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,44,79,1.0,10.0,9.7,0.0,71.71,55.72
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,44,79,1.0,10.0,9.7,0.0,79.83,55.48
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,44,79,1.0,10.0,9.7,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,44,79,1.0,10.0,9.7,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,44,79,1.0,10.0,9.7,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,44,79,1.0,10.0,9.7,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,44,79,1.0,10.0,9.7,0.0,75.31,55.88
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,49,69,1.0,10.0,8.91,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,49,69,1.0,10.0,8.91,0.0,71.71,55.72
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,49,69,1.0,10.0,8.91,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,49,69,1.0,10.0,8.91,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,49,69,1.0,10.0,8.91,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,49,69,1.0,10.0,8.91,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,49,69,1.0,10.0,8.91,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,49,69,1.0,10.0,8.91,46.32,73.9,62.77
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,49,69,1.0,10.0,8.91,0.0,73.32,56.0
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,49,69,1.0,10.0,8.91,0.0,73.19,55.73
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,49,69,1.0,10.0,8.91,69.46,74.11,60.09
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,49,69,1.0,10.0,8.91,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,49,69,1.0,10.0,8.91,0.0,79.83,55.48
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,49,64,1.0,10.0,8.72,54.67,74.11,60.09
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,49,64,1.0,10.0,8.72,0.0,69.69,57.29
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,49,64,1.0,10.0,8.72,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,49,64,1.0,10.0,8.72,0.0,73.38,56.06
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,49,64,1.0,10.0,8.72,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,49,64,1.0,10.0,8.72,58.72,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,49,64,1.0,10.0,8.72,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,49,64,1.0,10.0,8.72,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,49,64,1.0,10.0,8.72,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,49,64,1.0,10.0,8.72,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,49,64,1.0,10.0,8.72,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,49,64,1.0,10.0,8.72,0.0,71.71,55.72
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,49,64,1.0,10.0,8.72,0.0,79.83,55.48
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,49,79,1.0,10.0,8.33,0.0,69.69,57.29
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,49,79,1.0,10.0,8.33,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,49,79,1.0,10.0,8.33,58.34,74.11,60.09
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,49,79,1.0,10.0,8.33,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,49,79,1.0,10.0,8.33,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,49,79,1.0,10.0,8.33,49.91,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,49,79,1.0,10.0,8.33,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,49,79,1.0,10.0,8.33,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,49,79,1.0,10.0,8.33,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,49,79,1.0,10.0,8.33,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,49,79,1.0,10.0,8.33,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,49,79,1.0,10.0,8.33,0.0,71.71,55.72
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,49,79,1.0,10.0,8.33,0.0,73.38,56.06
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,44,54,1.0,10.0,8.19,0.0,74.02,55.79
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,44,54,1.0,10.0,8.19,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,44,54,1.0,10.0,8.19,0.0,69.69,57.29
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,44,54,1.0,10.0,8.19,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,44,54,1.0,10.0,8.19,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,44,54,1.0,10.0,8.19,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,44,54,1.0,10.0,8.19,51.77,73.9,62.77
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,44,54,1.0,10.0,8.19,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,44,54,1.0,10.0,8.19,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,44,54,1.0,10.0,8.19,0.0,73.38,56.06
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,44,54,1.0,10.0,8.19,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,44,54,1.0,10.0,8.19,54.65,74.11,60.09
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,44,54,1.0,10.0,8.19,0.0,75.31,55.88
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,49,74,1.0,10.0,8.12,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,49,74,1.0,10.0,8.12,56.27,74.11,60.09
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,49,74,1.0,10.0,8.12,0.0,72.43,55.83
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,49,74,1.0,10.0,8.12,0.0,71.71,55.72
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,49,74,1.0,10.0,8.12,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,49,74,1.0,10.0,8.12,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,49,74,1.0,10.0,8.12,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,49,74,1.0,10.0,8.12,49.34,73.9,62.77
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,49,74,1.0,10.0,8.12,0.0,73.32,56.0
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,49,74,1.0,10.0,8.12,0.0,72.98,55.81
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,49,74,1.0,10.0,8.12,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,49,74,1.0,10.0,8.12,0.0,75.31,55.88
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,49,74,1.0,10.0,8.12,0.0,74.79,55.68
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,49,59,1.0,10.0,6.18,0.0,74.79,55.68
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,49,59,1.0,10.0,6.18,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,49,59,1.0,10.0,6.18,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,49,59,1.0,10.0,6.18,51.77,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,49,59,1.0,10.0,6.18,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,49,59,1.0,10.0,6.18,0.0,72.98,55.81
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,49,59,1.0,10.0,6.18,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,49,59,1.0,10.0,6.18,0.0,74.02,55.79
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,49,59,1.0,10.0,6.18,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,49,59,1.0,10.0,6.18,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,49,59,1.0,10.0,6.18,28.52,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,49,59,1.0,10.0,6.18,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,49,59,1.0,10.0,6.18,0.0,73.38,56.06
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,39,79,1.0,10.0,5.37,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,39,79,1.0,10.0,5.37,0.0,74.02,55.79
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,39,79,1.0,10.0,5.37,0.0,72.98,55.81
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,39,79,1.0,10.0,5.37,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,39,79,1.0,10.0,5.37,0.0,69.69,57.29
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,39,79,1.0,10.0,5.37,0.0,74.79,55.68
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,39,74,1.0,10.0,5.37,0.0,72.43,55.83
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,39,79,1.0,10.0,5.37,0.0,72.43,55.83
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,39,74,1.0,10.0,5.37,0.0,73.38,56.06
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,39,69,1.0,10.0,5.37,69.84,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,39,69,1.0,10.0,5.37,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,39,69,1.0,10.0,5.37,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,39,69,1.0,10.0,5.37,0.0,79.83,55.48
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,39,69,1.0,10.0,5.37,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,39,69,1.0,10.0,5.37,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,39,69,1.0,10.0,5.37,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,39,69,1.0,10.0,5.37,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,39,69,1.0,10.0,5.37,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,39,69,1.0,10.0,5.37,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,39,69,1.0,10.0,5.37,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,39,69,1.0,10.0,5.37,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,39,74,1.0,10.0,5.37,69.84,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,39,74,1.0,10.0,5.37,0.0,73.32,56.0
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,39,69,1.0,10.0,5.37,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,39,74,1.0,10.0,5.37,0.0,79.83,55.48
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,39,74,1.0,10.0,5.37,0.0,69.69,57.29
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,39,79,1.0,10.0,5.37,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,39,79,1.0,10.0,5.37,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,39,79,1.0,10.0,5.37,0.0,73.38,56.06
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,39,79,1.0,10.0,5.37,0.0,73.32,56.0
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,39,74,1.0,10.0,5.37,0.0,73.19,55.73
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,39,79,1.0,10.0,5.37,69.84,74.11,60.09
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,39,74,1.0,10.0,5.37,0.0,71.71,55.72
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,39,74,1.0,10.0,5.37,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,39,74,1.0,10.0,5.37,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,39,74,1.0,10.0,5.37,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,39,74,1.0,10.0,5.37,0.0,72.98,55.81
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,39,79,1.0,10.0,5.37,0.0,73.9,62.77
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,39,74,1.0,10.0,5.37,0.0,73.9,62.77
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,39,64,1.0,10.0,4.85,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,39,64,1.0,10.0,4.85,0.0,73.19,55.73
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,39,64,1.0,10.0,4.85,63.09,74.11,60.09
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,39,64,1.0,10.0,4.85,0.0,73.38,56.06
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,39,64,1.0,10.0,4.85,0.0,73.32,56.0
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,39,64,1.0,10.0,4.85,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,39,64,1.0,10.0,4.85,0.0,73.9,62.77
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,39,64,1.0,10.0,4.85,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,39,64,1.0,10.0,4.85,0.0,72.98,55.81
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,39,64,1.0,10.0,4.85,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,39,64,1.0,10.0,4.85,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,39,64,1.0,10.0,4.85,0.0,69.69,57.29
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,39,64,1.0,10.0,4.85,0.0,74.02,55.79
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,39,54,1.0,10.0,4.2,0.0,73.9,62.77
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,39,54,1.0,10.0,4.2,0.0,75.31,55.88
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,39,54,1.0,10.0,4.2,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,39,54,1.0,10.0,4.2,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,39,54,1.0,10.0,4.2,0.0,72.43,55.83
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,39,54,1.0,10.0,4.2,0.0,73.38,56.06
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,39,54,1.0,10.0,4.2,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,39,54,1.0,10.0,4.2,0.0,79.83,55.48
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,39,54,1.0,10.0,4.2,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,39,54,1.0,10.0,4.2,54.65,74.11,60.09
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,39,54,1.0,10.0,4.2,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,39,54,1.0,10.0,4.2,0.0,71.71,55.72
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,39,54,1.0,10.0,4.2,0.0,74.02,55.79
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,39,59,1.0,10.0,3.67,47.7,74.11,60.09
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,39,59,1.0,10.0,3.67,0.0,72.98,55.81
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,39,59,1.0,10.0,3.67,0.0,73.32,56.0
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,39,59,1.0,10.0,3.67,0.0,69.69,57.29
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,39,59,1.0,10.0,3.67,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,39,59,1.0,10.0,3.67,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,39,59,1.0,10.0,3.67,0.0,74.79,55.68
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,39,59,1.0,10.0,3.67,0.0,71.71,55.72
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,39,59,1.0,10.0,3.67,0.0,72.43,55.83
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,39,59,1.0,10.0,3.67,0.0,73.19,55.73
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,39,59,1.0,10.0,3.67,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,39,59,1.0,10.0,3.67,0.0,79.83,55.48
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,39,59,1.0,10.0,3.67,0.0,73.9,62.77
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,49,54,1.0,10.0,3.18,13.2,73.9,62.77
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,49,54,1.0,10.0,3.18,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,49,54,1.0,10.0,3.18,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,49,54,1.0,10.0,3.18,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,49,54,1.0,10.0,3.18,0.0,72.43,55.83
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,49,54,1.0,10.0,3.18,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,49,54,1.0,10.0,3.18,0.0,73.19,55.73
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,49,54,1.0,10.0,3.18,0.0,73.38,56.06
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,49,54,1.0,10.0,3.18,0.0,73.32,56.0
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,49,54,1.0,10.0,3.18,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,49,54,1.0,10.0,3.18,28.11,74.11,60.09
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,49,54,1.0,10.0,3.18,0.0,71.71,55.72
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,49,54,1.0,10.0,3.18,0.0,75.31,55.88
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,73.9,62.77
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,34,64,1.0,10.0,0.0,0.0,75.31,55.88
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,34,64,1.0,10.0,0.0,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,73.9,62.77
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,73.9,62.77
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,34,64,1.0,10.0,0.0,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,34,64,1.0,10.0,0.0,0.0,73.38,56.06
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,34,64,1.0,10.0,0.0,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,34,64,1.0,10.0,0.0,0.0,74.11,60.09
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,34,59,1.0,10.0,0.0,0.0,71.71,55.72
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,34,59,1.0,10.0,0.0,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,34,59,1.0,10.0,0.0,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,72.43,55.83
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,74.02,55.79
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,34,64,1.0,10.0,0.0,0.0,71.71,55.72
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,73.19,55.73
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,69.69,57.29
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,34,69,1.0,10.0,0.0,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,34,69,1.0,10.0,0.0,0.0,73.38,56.06
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,34,69,1.0,10.0,0.0,0.0,73.32,56.0
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,34,69,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,34,69,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,34,69,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,34,74,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,34,74,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,34,74,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,34,74,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,73.19,55.73
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,73.19,55.73
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,34,69,1.0,10.0,0.0,0.0,74.11,60.09
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,73.9,62.77
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,74.79,55.68
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,34,59,1.0,10.0,0.0,0.0,79.83,55.48
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,29,74,1.0,10.0,0.0,0.0,73.32,56.0
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,29,74,1.0,10.0,0.0,0.0,71.71,55.72
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,29,74,1.0,10.0,0.0,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,74.02,55.79
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,34,74,1.0,10.0,0.0,0.0,72.98,55.81
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,29,74,1.0,10.0,0.0,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,73.9,62.77
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,29,74,1.0,10.0,0.0,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,29,74,1.0,10.0,0.0,0.0,73.38,56.06
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,29,74,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,29,79,1.0,10.0,0.0,0.0,73.32,56.0
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,29,69,1.0,10.0,0.0,0.0,71.71,55.72
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,29,69,1.0,10.0,0.0,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,29,69,1.0,10.0,0.0,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,73.9,62.77
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,29,69,1.0,10.0,0.0,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,29,69,1.0,10.0,0.0,0.0,73.38,56.06
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,29,79,1.0,10.0,0.0,0.0,74.11,60.09
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,29,79,1.0,10.0,0.0,0.0,73.38,56.06
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,34,59,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,34,54,1.0,10.0,0.0,0.0,79.83,55.48
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,34,59,1.0,10.0,0.0,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,34,59,1.0,10.0,0.0,0.0,74.11,60.09
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,34,54,1.0,10.0,0.0,0.0,71.71,55.72
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,34,54,1.0,10.0,0.0,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,34,54,1.0,10.0,0.0,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,73.9,62.77
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,73.19,55.73
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,34,54,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,29,79,1.0,10.0,0.0,0.0,79.83,55.48
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,34,54,1.0,10.0,0.0,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,34,54,1.0,10.0,0.0,0.0,74.11,60.09
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,29,79,1.0,10.0,0.0,0.0,71.71,55.72
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,29,79,1.0,10.0,0.0,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,29,79,1.0,10.0,0.0,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,73.9,62.77
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,73.19,55.73
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,72.43,55.83
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,39,79,1.0,10.0,0.0,0.0,79.83,55.48
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,39,69,1.0,10.0,0.0,0.0,72.98,55.81
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,39,59,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,39,64,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,39,64,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,39,64,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,39,64,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,39,64,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,39,64,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,39,64,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,39,69,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,39,69,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,39,69,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,39,69,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,73.9,62.77
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,39,59,1.0,10.0,0.0,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,74.02,55.79
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,29,69,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,39,54,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,39,54,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,39,54,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,39,54,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,74.79,55.68
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,39,54,1.0,10.0,0.0,0.0,75.31,55.88
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,39,59,1.0,10.0,0.0,0.0,72.98,55.81
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,39,54,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,39,59,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,39,59,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,39,59,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,39,59,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,72.43,55.83
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,72.43,55.83
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,74.02,55.79
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,74.02,55.79
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,39,79,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,39,79,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,39,54,1.0,10.0,0.0,0.0,74.11,60.09
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,34,79,1.0,10.0,0.0,0.0,71.71,55.72
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,34,79,1.0,10.0,0.0,0.0,75.31,55.88
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,34,79,1.0,10.0,0.0,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,73.9,62.77
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,34,79,1.0,10.0,0.0,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,34,79,1.0,10.0,0.0,0.0,73.38,56.06
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,34,79,1.0,10.0,0.0,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,34,79,1.0,10.0,0.0,0.0,74.11,60.09
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,34,74,1.0,10.0,0.0,0.0,71.71,55.72
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,34,74,1.0,10.0,0.0,0.0,75.31,55.88
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,39,79,1.0,10.0,0.0,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,72.43,55.83
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,72.43,55.83
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,39,69,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,39,69,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,39,74,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,39,74,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,39,74,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,39,74,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,73.9,62.77
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,39,74,1.0,10.0,0.0,0.0,72.98,55.81
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,73.9,62.77
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,39,74,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,39,74,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,39,79,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,39,79,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,39,79,1.0,10.0,0.0,0.0,73.38,56.06
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,73.19,55.73
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,29,69,1.0,10.0,0.0,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,24,54,1.0,10.0,0.0,0.0,74.11,60.09
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,69.69,57.29
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,29,69,1.0,10.0,0.0,0.0,79.83,55.48
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,29,64,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,29,64,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,29,69,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,29,69,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,29,69,1.0,10.0,0.0,0.0,73.38,56.06
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,73.19,55.73
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,29,69,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,29,69,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,29,69,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,69.69,57.29
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,29,64,1.0,10.0,0.0,0.0,72.98,55.81
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,73.9,62.77
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,29,74,1.0,10.0,0.0,0.0,73.32,56.0
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,29,59,1.0,10.0,0.0,0.0,72.98,55.81
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,29,59,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,29,59,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,29,59,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,29,59,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,72.43,55.83
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,74.79,55.68
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,73.19,55.73
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,29,59,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,29,59,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,29,64,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,29,64,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,29,64,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,29,64,1.0,10.0,0.0,0.0,79.83,55.48
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,29,74,1.0,10.0,0.0,0.0,74.11,60.09
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,29,74,1.0,10.0,0.0,0.0,73.38,56.06
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,29,54,1.0,10.0,0.0,0.0,75.31,55.88
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,74.79,55.68
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,34,54,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,34,54,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,34,54,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,34,54,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,34,54,1.0,10.0,0.0,0.0,72.98,55.81
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,74.02,55.79
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,29,79,1.0,10.0,0.0,0.0,71.71,55.72
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,34,54,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,34,54,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,34,59,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,34,59,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,34,59,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,34,59,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,73.19,55.73
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,69.69,57.29
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,29,79,1.0,10.0,0.0,0.0,75.31,55.88
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,29,74,1.0,10.0,0.0,0.0,79.83,55.48
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,69.69,57.29
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,29,74,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,29,74,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,29,74,1.0,10.0,0.0,0.0,71.71,55.72
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,29,79,1.0,10.0,0.0,0.0,74.11,60.09
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,74.02,55.79
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,29,79,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,29,79,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,29,79,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,29,79,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,74.79,55.68
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,29,54,1.0,10.0,0.0,0.0,71.71,55.72
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,74.02,55.79
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,29,64,1.0,10.0,0.0,0.0,71.71,55.72
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,72.43,55.83
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,24,59,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,24,64,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,24,64,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,24,64,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,24,64,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,73.9,62.77
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,24,64,1.0,10.0,0.0,0.0,72.98,55.81
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,24,64,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,24,64,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,24,69,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,24,69,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,24,69,1.0,10.0,0.0,0.0,73.38,56.06
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,24,59,1.0,10.0,0.0,0.0,75.31,55.88
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,74.79,55.68
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,73.19,55.73
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,24,54,1.0,10.0,0.0,0.0,75.31,55.88
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,24,54,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,24,54,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,24,54,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,74.02,55.79
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,24,54,1.0,10.0,0.0,0.0,71.71,55.72
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,24,59,1.0,10.0,0.0,0.0,72.98,55.81
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,24,59,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,24,59,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,24,59,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,24,59,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,72.43,55.83
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,24,69,1.0,10.0,0.0,0.0,79.83,55.48
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,73.9,62.77
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,74.79,55.68
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,24,79,1.0,10.0,0.0,0.0,71.71,55.72
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,24,79,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,24,79,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,24,79,1.0,10.0,0.0,0.0,75.31,55.88
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,69.69,57.29
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,24,79,1.0,10.0,0.0,0.0,73.32,56.0
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,29,54,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,29,54,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,29,54,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,29,54,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,29,54,1.0,10.0,0.0,0.0,72.98,55.81
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,24,79,1.0,10.0,0.0,0.0,73.38,56.06
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,24,79,1.0,10.0,0.0,0.0,74.11,60.09
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,72.43,55.83
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,24,74,1.0,10.0,0.0,0.0,73.38,56.06
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,24,69,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,24,69,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,24,69,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,24,74,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,24,74,1.0,10.0,0.0,0.0,73.32,56.0
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,24,74,1.0,10.0,0.0,0.0,79.83,55.48
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,69.69,57.29
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,24,74,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,24,74,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,24,74,1.0,10.0,0.0,0.0,71.71,55.72
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,34,59,1.0,10.0,0.0,0.0,72.98,55.81
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,74.02,55.79
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,24,74,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,24,74,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,24,74,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,24,74,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,74.79,55.68
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,24,74,1.0,10.0,0.0,0.0,75.31,55.88
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,69.69,57.29
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,24,74,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,24,79,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,24,79,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,24,79,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,24,79,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,73.9,62.77
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,24,74,1.0,10.0,0.0,0.0,74.11,60.09
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,24,69,1.0,10.0,0.0,0.0,71.71,55.72
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,24,79,1.0,10.0,0.0,0.0,72.98,55.81
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,24,69,1.0,10.0,0.0,0.0,74.11,60.09
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,24,64,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,24,64,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,24,64,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,69.69,57.29
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,24,69,1.0,10.0,0.0,0.0,73.32,56.0
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,24,69,1.0,10.0,0.0,0.0,75.31,55.88
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,24,69,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,24,69,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,24,69,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,74.02,55.79
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,72.43,55.83
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,74.79,55.68
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,74.79,55.68
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,29,64,1.0,10.0,0.0,0.0,73.32,56.0
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,29,59,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,29,59,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,29,59,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,29,64,1.0,10.0,0.0,0.0,74.11,60.09
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,29,64,1.0,10.0,0.0,0.0,73.38,56.06
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,29,64,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,29,64,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,29,64,1.0,10.0,0.0,0.0,75.31,55.88
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,73.9,62.77
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,29,59,1.0,10.0,0.0,0.0,79.83,55.48
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,74.02,55.79
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,73.9,62.77
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,24,79,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,24,79,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,29,54,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,29,54,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,29,54,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,29,54,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,73.19,55.73
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,72.43,55.83
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,29,59,1.0,10.0,0.0,0.0,73.38,56.06
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,29,54,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,29,54,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,29,54,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,29,59,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,29,59,1.0,10.0,0.0,0.0,73.32,56.0
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,73.19,55.73
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,24,64,1.0,10.0,0.0,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,24,64,1.0,10.0,0.0,0.0,73.38,56.06
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,34,74,1.0,10.0,0.0,0.0,74.11,60.09
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,34,69,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,34,69,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,34,69,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,69.69,57.29
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,34,74,1.0,10.0,0.0,0.0,73.32,56.0
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,34,69,1.0,10.0,0.0,0.0,79.83,55.48
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,34,74,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,34,74,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,34,74,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,74.02,55.79
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,73.19,55.73
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,34,69,1.0,10.0,0.0,0.0,73.38,56.06
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,24,64,1.0,10.0,0.0,0.0,73.32,56.0
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,73.19,55.73
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,34,59,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,34,59,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,34,64,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,34,64,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,34,64,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,34,64,1.0,10.0,0.0,0.0,79.83,55.48
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,73.9,62.77
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,34,69,1.0,10.0,0.0,0.0,73.32,56.0
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,34,64,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,34,64,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,34,64,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,34,69,1.0,10.0,0.0,0.0,74.11,60.09
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,34,74,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,34,74,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,69.69,57.29
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,73.19,55.73
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,24,54,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,24,54,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,24,59,1.0,10.0,0.0,0.0,74.11,60.09
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,24,59,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,24,59,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,24,59,1.0,10.0,0.0,0.0,79.83,55.48
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,73.9,62.77
+22,TQQQ.O,ProShares UltraPro QQQ,5,60,14,34,79,1.0,10.0,0.0,0.0,74.11,60.09
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,24,59,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,120,14,24,59,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,120,14,24,59,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,69.69,57.29
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,24,64,1.0,10.0,0.0,0.0,74.11,60.09
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,74.79,55.68
+22,HODL.K,VanEck Bitcoin Trust,5,120,14,24,54,1.0,10.0,0.0,0.0,72.98,55.81
+22,BITB.K,Bitwise Bitcoin ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,72.43,55.83
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,73.9,62.77
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,34,79,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,60,14,34,79,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,60,14,34,79,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,73.19,55.73
+22,TECL.K,Direxion Daily Technology Bull 3X Shares ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,73.9,62.77
+22,BITB.K,Bitwise Bitcoin ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,72.43,55.83
+22,HODL.K,VanEck Bitcoin Trust,5,60,14,34,79,1.0,10.0,0.0,0.0,72.98,55.81
+22,BTCO.K,Invesco Galaxy Bitcoin ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,74.79,55.68
+22,EZBC.K,Franklin Bitcoin ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,74.02,55.79
+22,BTCW.K,WisdomTree Bitcoin Fund,5,60,14,34,79,1.0,10.0,0.0,0.0,75.31,55.88
+22,BRRR.O,Valkyrie Bitcoin Fund,5,60,14,34,79,1.0,10.0,0.0,0.0,71.71,55.72
+22,MAXI.O,Simplify Bitcoin Strategy Plus Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,69.69,57.29
+22,IBIT.O,iShares Bitcoin Trust,5,60,14,24,54,1.0,10.0,0.0,0.0,73.32,56.0
+22,IBIT.O,iShares Bitcoin Trust,5,120,14,24,54,1.0,10.0,0.0,0.0,73.32,56.0
+22,FBTC.K,Fidelity Wise Origin Bitcoin Fund,5,120,14,24,54,1.0,10.0,0.0,0.0,73.38,56.06
+22,GBTC.K,Grayscale Bitcoin Trust,5,120,14,24,54,1.0,10.0,0.0,0.0,79.83,55.48
+22,ARKB.K,ARK 21Shares Bitcoin ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,73.19,55.73
+22,TQQQ.O,ProShares UltraPro QQQ,5,120,14,24,54,1.0,10.0,0.0,0.0,74.11,60.09

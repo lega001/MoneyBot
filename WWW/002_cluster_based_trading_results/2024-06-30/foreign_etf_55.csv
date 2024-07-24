@@ -1,0 +1,2017 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0,22.64,10.74
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.45,11.54
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,34,54,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,34,54,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,34,54,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,34,54,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,29,79,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,29,79,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,29,79,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0,20.45,11.39
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,29,79,1.0,10.0,0.0,0,21.37,12.18
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,34,54,1.0,10.0,0.0,0,21.08,10.32
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,29,79,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,29,79,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,29,79,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,29,79,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,29,79,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,29,79,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,29,79,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,29,79,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,29,79,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,29,79,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,29,79,1.0,10.0,0.0,0,23.11,11.66
+55,BINV.K,Brandes International ETF,5,120,14,34,54,1.0,10.0,0.0,0,23.11,11.66
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,21.15,11.68
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.7,11.98
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,34,54,1.0,10.0,0.0,0,20.96,9.98
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,34,59,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,34,59,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,34,59,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,34,59,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,34,59,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,34,59,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,22.64,10.74
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,34,54,1.0,10.0,0.0,0,20.22,12.21
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.99,10.38
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,34,54,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,34,54,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,34,54,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,34,54,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,34,54,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,34,54,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,34,54,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,34,54,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,34,54,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,34,54,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,34,54,1.0,10.0,0.0,0,21.9,10.61
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,29,79,1.0,10.0,0.0,0,21.83,9.47
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,29,69,1.0,10.0,0.0,0,23.16,9.5
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,29,69,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,29,69,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,29,69,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,29,69,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,29,69,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,29,69,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,29,69,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,29,69,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,29,69,1.0,10.0,0.0,0,22.62,12.64
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,29,69,1.0,10.0,0.0,0,21.26,10.71
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,29,79,1.0,10.0,0.0,0,22.52,11.03
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,29,69,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,29,69,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,29,69,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,29,69,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,29,69,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,29,69,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,29,69,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,29,69,1.0,10.0,0.0,0,23.93,10.82
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,29,74,1.0,10.0,0.0,0,23.93,10.82
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,29,74,1.0,10.0,0.0,0,20.08,10.27
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,22.91,10.29
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,29,74,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,29,79,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,29,79,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,29,74,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,29,74,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,29,74,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,29,74,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,29,74,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,29,74,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,29,74,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,29,74,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,29,74,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,29,74,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,29,74,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,29,74,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,29,74,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,29,74,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,29,74,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,29,74,1.0,10.0,0.0,0,21.83,9.47
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,34,59,1.0,10.0,0.0,0,21.9,10.61
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,34,59,1.0,10.0,0.0,0,21.02,13.09
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,34,59,1.0,10.0,0.0,0,21.26,10.71
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,34,74,1.0,10.0,0.0,0,21.08,10.32
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,34,74,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,34,74,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,34,74,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,34,74,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,34,74,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,34,74,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,34,74,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,34,74,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,34,74,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,34,74,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,21.15,11.68
+55,BINV.K,Brandes International ETF,5,120,14,34,74,1.0,10.0,0.0,0,23.11,11.66
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,34,69,1.0,10.0,0.0,0,21.37,12.18
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,34,74,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,34,74,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,34,74,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,34,74,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,34,69,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,34,69,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,34,69,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0,20.45,11.39
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0,20.45,11.39
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,34,74,1.0,10.0,0.0,0,22.79,9.74
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,34,74,1.0,10.0,0.0,0,20.22,12.21
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,34,74,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,34,79,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,34,79,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,34,79,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,34,79,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,34,79,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,34,79,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,34,79,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,34,79,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,34,79,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,34,79,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,34,79,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,34,79,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,34,79,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,34,79,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,34,79,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,34,79,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,34,79,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,34,79,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0,22.64,10.74
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.45,11.54
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,34,69,1.0,10.0,0.0,0,22.0,13.06
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,34,59,1.0,10.0,0.0,0,23.16,9.5
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,34,64,1.0,10.0,0.0,0,20.08,10.27
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,34,64,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,34,64,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,34,64,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,34,64,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,34,64,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,34,64,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,34,64,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,34,64,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,22.91,10.29
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,34,64,1.0,10.0,0.0,0,23.93,10.82
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,34,69,1.0,10.0,0.0,0,22.62,8.39
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,34,59,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,34,59,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,34,59,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,34,59,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,34,59,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,34,59,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,34,59,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,34,59,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,34,59,1.0,10.0,0.0,0,22.62,12.64
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,34,64,1.0,10.0,0.0,0,22.62,12.64
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,34,64,1.0,10.0,0.0,0,21.99,11.95
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,34,64,1.0,10.0,0.0,0,23.38,12.67
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,34,64,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,34,69,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,34,69,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,34,69,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,34,69,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,34,69,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,34,69,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,34,69,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,34,69,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,34,69,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,34,69,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,34,69,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,34,69,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,34,69,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,34,64,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,34,64,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,34,64,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,34,64,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,34,64,1.0,10.0,0.0,0,22.0,13.06
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,29,64,1.0,10.0,0.0,0,20.96,9.98
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.45,11.54
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,24,69,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,24,69,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,24,69,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,24,69,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,24,64,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,24,64,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,24,64,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0,20.45,11.39
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,24,64,1.0,10.0,0.0,0,21.37,12.18
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0,23.11,11.09
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,24,64,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,24,64,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,24,64,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,24,64,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,24,64,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,24,64,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,24,64,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,24,64,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,24,64,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,24,64,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,24,64,1.0,10.0,0.0,0,23.11,11.66
+55,BINV.K,Brandes International ETF,5,120,14,24,69,1.0,10.0,0.0,0,23.11,11.66
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,24,69,1.0,10.0,0.0,0,21.08,10.32
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0,21.15,11.68
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,24,74,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,24,74,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,24,74,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,24,74,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,24,74,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,24,74,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,24,69,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,24,69,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,24,69,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,24,69,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,24,69,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,24,69,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,24,69,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,24,69,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,24,69,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,24,69,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,24,69,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,24,69,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,24,69,1.0,10.0,0.0,0,21.9,10.61
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0,21.14,13.92
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,24,64,1.0,10.0,0.0,0,21.83,9.47
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,24,74,1.0,10.0,0.0,0,21.9,10.61
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,24,54,1.0,10.0,0.0,0,23.16,9.5
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,24,54,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,24,54,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,24,54,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,24,54,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,24,54,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,24,54,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,24,54,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,24,54,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,24,54,1.0,10.0,0.0,0,22.62,12.64
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,24,54,1.0,10.0,0.0,0,21.26,10.71
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,24,64,1.0,10.0,0.0,0,22.52,11.03
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,24,54,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,24,54,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,24,54,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,24,54,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,24,54,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,24,54,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,24,54,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,24,54,1.0,10.0,0.0,0,23.93,10.82
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,24,59,1.0,10.0,0.0,0,23.93,10.82
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,24,59,1.0,10.0,0.0,0,20.08,10.27
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0,22.91,10.29
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,24,59,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,24,64,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,24,64,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,24,59,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,24,59,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,24,59,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,24,59,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,24,59,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,24,59,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,24,59,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,24,59,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,24,59,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,24,59,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,24,59,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,24,59,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,24,59,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,24,59,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,24,59,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,24,59,1.0,10.0,0.0,0,21.83,9.47
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.99,10.38
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,24,74,1.0,10.0,0.0,0,21.02,13.09
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,29,64,1.0,10.0,0.0,0,20.22,12.21
+55,BINV.K,Brandes International ETF,5,120,14,29,59,1.0,10.0,0.0,0,23.11,11.66
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,29,59,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,29,59,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,29,59,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,29,59,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,29,59,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,29,59,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,29,59,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,29,59,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,29,59,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,29,59,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,29,59,1.0,10.0,0.0,0,21.08,10.32
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,21.14,13.92
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,29,54,1.0,10.0,0.0,0,22.0,13.06
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,29,59,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,29,59,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,29,59,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,29,59,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,29,54,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,29,54,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,29,54,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.45,11.54
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.45,11.54
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0,20.45,11.39
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,29,59,1.0,10.0,0.0,0,22.79,9.74
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,29,59,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,29,64,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,29,64,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,29,64,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,29,64,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,29,64,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,29,64,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,29,64,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,29,64,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,29,64,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,29,64,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,29,64,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,29,64,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,29,64,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,29,64,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,29,64,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,29,64,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,29,64,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,29,59,1.0,10.0,0.0,0,20.96,9.98
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,29,54,1.0,10.0,0.0,0,21.37,12.18
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,29,54,1.0,10.0,0.0,0,22.62,8.39
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,24,74,1.0,10.0,0.0,0,21.26,10.71
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,24,79,1.0,10.0,0.0,0,23.93,10.82
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,24,79,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,24,79,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,24,79,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,24,79,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,24,79,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,24,79,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,24,79,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,24,79,1.0,10.0,0.0,0,20.08,10.27
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.7,11.98
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,29,54,1.0,10.0,0.0,0,23.38,12.67
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,24,74,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,24,74,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,24,74,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,24,74,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,24,74,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,24,74,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,24,74,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,24,74,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,24,74,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,24,74,1.0,10.0,0.0,0,23.16,9.5
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,24,79,1.0,10.0,0.0,0,23.16,9.5
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,24,79,1.0,10.0,0.0,0,22.62,12.64
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,24,79,1.0,10.0,0.0,0,21.99,11.95
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,24,79,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,29,54,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,29,54,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,29,54,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,29,54,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,29,54,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,29,54,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,29,54,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,29,54,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,29,54,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,29,54,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,29,54,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,29,54,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,24,79,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,24,79,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,24,79,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,24,79,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,24,79,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,24,79,1.0,10.0,0.0,0,22.62,8.39
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,34,79,1.0,10.0,0.0,0,20.96,9.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,22.64,10.74
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.7,11.98
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0,20.45,11.39
+55,BINV.K,Brandes International ETF,5,120,14,49,54,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,49,54,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,49,54,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,49,54,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,49,54,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,44,79,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,44,79,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,44,79,1.0,10.0,0.0,0,22.79,9.74
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.45,11.54
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0,21.14,13.92
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,44,79,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,44,79,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,44,79,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,44,79,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,44,79,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,44,79,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,44,79,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,44,79,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,44,79,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,44,79,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,44,79,1.0,10.0,0.0,0,21.08,10.32
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,49,54,1.0,10.0,0.0,0,21.08,10.32
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,21.15,11.68
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.99,10.38
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,49,54,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,49,59,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,49,59,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,49,59,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,49,59,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,49,59,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,49,59,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,49,54,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,49,54,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,49,54,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,49,54,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,49,54,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,49,54,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,49,54,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,49,54,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,49,54,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,49,54,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,49,54,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,49,54,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,49,54,1.0,10.0,0.0,0,21.02,13.09
+55,BINV.K,Brandes International ETF,5,120,14,44,79,1.0,10.0,0.0,0,23.11,11.66
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0,23.11,11.09
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,49,59,1.0,10.0,0.0,0,21.02,13.09
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,44,69,1.0,10.0,0.0,0,22.62,12.64
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,44,74,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,44,69,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,44,69,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,44,69,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,44,69,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,44,69,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,44,69,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,44,69,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,44,69,1.0,10.0,0.0,0,21.99,11.95
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,44,69,1.0,10.0,0.0,0,23.16,9.5
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,44,79,1.0,10.0,0.0,0,21.83,9.47
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,44,69,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,44,69,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,44,69,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,44,69,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,44,69,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,44,69,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,44,69,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,44,69,1.0,10.0,0.0,0,20.08,10.27
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,44,74,1.0,10.0,0.0,0,20.08,10.27
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,22.91,10.29
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,44,74,1.0,10.0,0.0,0,22.52,11.03
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,44,74,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,44,79,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,44,79,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,44,79,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,44,74,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,44,74,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,44,74,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,44,74,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,44,74,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,44,74,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,44,74,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,44,74,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,44,74,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,44,74,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,44,74,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,44,74,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,44,74,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,44,74,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,44,74,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,23.11,11.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,49,59,1.0,10.0,0.0,0,21.9,10.61
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,49,59,1.0,10.0,0.0,0,21.26,10.71
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.7,11.98
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,49,74,1.0,10.0,0.0,0,21.08,10.32
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,49,74,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,49,74,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,49,74,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,49,74,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,49,74,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,49,74,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,49,74,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,49,74,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,49,74,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,49,74,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,21.15,11.68
+55,BINV.K,Brandes International ETF,5,120,14,49,74,1.0,10.0,0.0,0,23.11,11.66
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,49,69,1.0,10.0,0.0,0,21.37,12.18
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,49,74,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,49,74,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,49,74,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,49,74,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,49,69,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,49,69,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,49,69,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,49,69,1.0,10.0,0.0,0,20.45,11.39
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,49,74,1.0,10.0,0.0,0,20.45,11.39
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,49,74,1.0,10.0,0.0,0,22.79,9.74
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,49,74,1.0,10.0,0.0,0,20.22,12.21
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,49,74,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,49,79,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,49,79,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,49,79,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,49,79,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,49,79,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,49,79,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,49,79,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,49,79,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,49,79,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,49,79,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,49,79,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,49,79,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,49,79,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,49,79,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,49,79,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,49,79,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,49,79,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,49,79,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,49,79,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,49,79,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,49,79,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,49,79,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,49,79,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,49,79,1.0,10.0,0.0,0,22.64,10.74
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.45,11.54
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,49,69,1.0,10.0,0.0,0,22.0,13.06
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,49,59,1.0,10.0,0.0,0,23.16,9.5
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,49,64,1.0,10.0,0.0,0,20.08,10.27
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,49,64,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,49,64,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,49,64,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,49,64,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,49,64,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,49,64,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,49,64,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,49,64,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,22.91,10.29
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,49,64,1.0,10.0,0.0,0,23.93,10.82
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,49,69,1.0,10.0,0.0,0,22.62,8.39
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,49,59,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,49,59,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,49,59,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,49,59,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,49,59,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,49,59,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,49,59,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,49,59,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,49,59,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,49,59,1.0,10.0,0.0,0,22.62,12.64
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,49,64,1.0,10.0,0.0,0,22.62,12.64
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,49,64,1.0,10.0,0.0,0,21.99,11.95
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,49,64,1.0,10.0,0.0,0,23.38,12.67
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,49,64,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,49,69,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,49,69,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,49,69,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,49,69,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,49,69,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,49,69,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,49,69,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,49,69,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,49,69,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,49,69,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,49,69,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,49,69,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,49,69,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,49,64,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,49,64,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,49,64,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,49,64,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,49,64,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,49,64,1.0,10.0,0.0,0,22.0,13.06
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,44,69,1.0,10.0,0.0,0,23.93,10.82
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,22.64,10.74
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,39,54,1.0,10.0,0.0,0,23.93,10.82
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0,20.45,11.39
+55,BINV.K,Brandes International ETF,5,120,14,39,69,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,39,69,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,39,69,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,39,69,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,39,69,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,39,64,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,39,64,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,39,64,1.0,10.0,0.0,0,22.79,9.74
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.45,11.54
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,21.14,13.92
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,39,64,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,39,64,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,39,64,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,39,64,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,39,64,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,39,64,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,39,64,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,39,64,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,39,64,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,39,64,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,39,64,1.0,10.0,0.0,0,21.08,10.32
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,39,69,1.0,10.0,0.0,0,21.08,10.32
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,21.15,11.68
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.99,10.38
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,39,69,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,39,74,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,39,74,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,39,74,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,39,74,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,39,74,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,39,74,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,39,69,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,39,69,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,39,69,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,39,69,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,39,69,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,39,69,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,39,69,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,39,69,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,39,69,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,39,69,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,39,69,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,39,69,1.0,10.0,0.0,0,21.02,13.09
+55,BINV.K,Brandes International ETF,5,120,14,39,64,1.0,10.0,0.0,0,23.11,11.66
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,23.11,11.09
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,39,74,1.0,10.0,0.0,0,21.02,13.09
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,39,54,1.0,10.0,0.0,0,22.62,12.64
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,39,59,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,39,54,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,39,54,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,39,54,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,39,54,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,39,54,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,39,54,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,39,54,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,39,54,1.0,10.0,0.0,0,21.99,11.95
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,39,54,1.0,10.0,0.0,0,23.16,9.5
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,39,64,1.0,10.0,0.0,0,21.83,9.47
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,39,54,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,39,54,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,39,54,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,39,54,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,39,54,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,39,54,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,39,54,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,39,54,1.0,10.0,0.0,0,20.08,10.27
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,39,59,1.0,10.0,0.0,0,20.08,10.27
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,22.91,10.29
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,39,59,1.0,10.0,0.0,0,22.52,11.03
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,39,59,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,39,64,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,39,64,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,39,64,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,39,59,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,39,59,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,39,59,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,39,59,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,39,59,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,39,59,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,39,59,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,39,59,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,39,59,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,39,59,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,39,59,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,39,59,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,39,59,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,39,59,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,39,59,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,23.11,11.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,39,74,1.0,10.0,0.0,0,21.9,10.61
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,39,74,1.0,10.0,0.0,0,21.26,10.71
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,44,64,1.0,10.0,0.0,0,20.96,9.98
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,44,59,1.0,10.0,0.0,0,21.08,10.32
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,44,59,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,44,59,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,44,59,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,44,59,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,44,59,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,44,59,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,44,59,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,44,59,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,44,59,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,44,59,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,21.15,11.68
+55,BINV.K,Brandes International ETF,5,120,14,44,59,1.0,10.0,0.0,0,23.11,11.66
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,44,54,1.0,10.0,0.0,0,21.37,12.18
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,44,59,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,44,59,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,44,59,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,44,59,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,44,54,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,44,54,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,44,54,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0,20.45,11.39
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0,20.45,11.39
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,44,59,1.0,10.0,0.0,0,22.79,9.74
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,44,59,1.0,10.0,0.0,0,20.22,12.21
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,44,59,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,44,64,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,44,64,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,44,64,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,44,64,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,44,64,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,44,64,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,44,64,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,44,64,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,44,64,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,44,64,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,44,64,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,44,64,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,44,64,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,44,64,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,44,64,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,44,64,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,44,64,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,44,64,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,22.64,10.74
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.45,11.54
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,44,54,1.0,10.0,0.0,0,22.0,13.06
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,39,74,1.0,10.0,0.0,0,23.16,9.5
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,39,79,1.0,10.0,0.0,0,20.08,10.27
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,39,79,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,39,79,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,39,79,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,39,79,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,39,79,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,39,79,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,39,79,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,39,79,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0,22.91,10.29
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,39,79,1.0,10.0,0.0,0,23.93,10.82
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,44,54,1.0,10.0,0.0,0,22.62,8.39
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,39,74,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,39,74,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,39,74,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,39,74,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,39,74,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,39,74,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,39,74,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,39,74,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,39,74,1.0,10.0,0.0,0,22.62,12.64
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,39,79,1.0,10.0,0.0,0,22.62,12.64
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,39,79,1.0,10.0,0.0,0,21.99,11.95
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,39,79,1.0,10.0,0.0,0,23.38,12.67
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,120,14,39,79,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,120,14,44,54,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,120,14,44,54,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,120,14,44,54,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,120,14,44,54,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,120,14,44,54,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,44,54,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,120,14,44,54,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,120,14,44,54,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,120,14,44,54,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,120,14,44,54,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,120,14,44,54,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,120,14,44,54,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,120,14,44,54,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,39,79,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,120,14,39,79,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,120,14,39,79,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,120,14,39,79,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,120,14,39,79,1.0,10.0,0.0,0,22.0,13.06
+55,JIVE.O,JPMorgan International Value ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,49,79,1.0,10.0,0.0,0,20.96,9.98
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.45,11.54
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,34,54,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,34,54,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,34,54,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,34,54,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,29,79,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,29,79,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,29,79,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0,20.45,11.39
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,29,79,1.0,10.0,0.0,0,21.37,12.18
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0,23.11,11.09
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,29,79,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,29,79,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,29,79,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,29,79,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,29,79,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,29,79,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,29,79,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,29,79,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,29,79,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,29,79,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,29,79,1.0,10.0,0.0,0,23.11,11.66
+55,BINV.K,Brandes International ETF,5,60,14,34,54,1.0,10.0,0.0,0,23.11,11.66
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,34,54,1.0,10.0,0.0,0,21.08,10.32
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,21.15,11.68
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,34,59,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,34,59,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,34,59,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,34,59,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,34,59,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,34,59,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,34,54,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,34,54,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,34,54,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,34,54,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,34,54,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,34,54,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,34,54,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,34,54,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,34,54,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,34,54,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,34,54,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,34,54,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,34,54,1.0,10.0,0.0,0,21.9,10.61
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0,21.14,13.92
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,29,79,1.0,10.0,0.0,0,21.83,9.47
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,34,59,1.0,10.0,0.0,0,21.9,10.61
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,29,69,1.0,10.0,0.0,0,23.16,9.5
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,29,69,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,29,69,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,29,69,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,29,69,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,29,69,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,29,69,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,29,69,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,29,69,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,29,69,1.0,10.0,0.0,0,22.62,12.64
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,29,69,1.0,10.0,0.0,0,21.26,10.71
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,29,79,1.0,10.0,0.0,0,22.52,11.03
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,29,69,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,29,69,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,29,69,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,29,69,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,29,69,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,29,69,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,29,69,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,29,69,1.0,10.0,0.0,0,23.93,10.82
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,29,74,1.0,10.0,0.0,0,23.93,10.82
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,29,74,1.0,10.0,0.0,0,20.08,10.27
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,22.91,10.29
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,29,74,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,29,79,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,29,79,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,29,74,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,29,74,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,29,74,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,29,74,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,29,74,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,29,74,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,29,74,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,29,74,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,29,74,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,29,74,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,29,74,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,29,74,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,29,74,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,29,74,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,29,74,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,29,74,1.0,10.0,0.0,0,21.83,9.47
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.99,10.38
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,34,59,1.0,10.0,0.0,0,21.02,13.09
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,22.64,10.74
+55,BINV.K,Brandes International ETF,5,60,14,34,74,1.0,10.0,0.0,0,23.11,11.66
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,34,74,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,34,74,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,34,74,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,34,74,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,34,74,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,34,74,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,34,74,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,34,74,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,34,74,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,34,74,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,34,74,1.0,10.0,0.0,0,21.08,10.32
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,21.14,13.92
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,34,69,1.0,10.0,0.0,0,22.0,13.06
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,34,74,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,34,74,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,34,74,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,34,74,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,34,69,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,34,69,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,34,69,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.45,11.54
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.45,11.54
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0,20.45,11.39
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,34,74,1.0,10.0,0.0,0,22.79,9.74
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,34,74,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,34,79,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,34,79,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,34,79,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,34,79,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,34,79,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,34,79,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,34,79,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,34,79,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,34,79,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,34,79,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,34,79,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,34,79,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,34,79,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,34,79,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,34,79,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,34,79,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,34,79,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,34,74,1.0,10.0,0.0,0,20.96,9.98
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,34,69,1.0,10.0,0.0,0,21.37,12.18
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,34,69,1.0,10.0,0.0,0,22.62,8.39
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,34,59,1.0,10.0,0.0,0,21.26,10.71
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,34,64,1.0,10.0,0.0,0,23.93,10.82
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,34,64,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,34,64,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,34,64,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,34,64,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,34,64,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,34,64,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,34,64,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,34,64,1.0,10.0,0.0,0,20.08,10.27
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.7,11.98
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,34,69,1.0,10.0,0.0,0,23.38,12.67
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,34,59,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,34,59,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,34,59,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,34,59,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,34,59,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,34,59,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,34,59,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,34,59,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,34,59,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,34,59,1.0,10.0,0.0,0,23.16,9.5
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,34,64,1.0,10.0,0.0,0,23.16,9.5
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,34,64,1.0,10.0,0.0,0,22.62,12.64
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,34,64,1.0,10.0,0.0,0,21.99,11.95
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,34,64,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,34,69,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,34,69,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,34,69,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,34,69,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,34,69,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,34,69,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,34,69,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,34,69,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,34,69,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,34,69,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,34,69,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,34,69,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,34,64,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,34,64,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,34,64,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,34,64,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,34,64,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,34,64,1.0,10.0,0.0,0,22.62,8.39
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.7,11.98
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,29,64,1.0,10.0,0.0,0,20.96,9.98
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,34,79,1.0,10.0,0.0,0,20.96,9.98
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.45,11.54
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,24,69,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,24,69,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,24,69,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,24,69,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,24,64,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,24,64,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,24,64,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0,20.45,11.39
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,24,64,1.0,10.0,0.0,0,21.37,12.18
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0,23.11,11.09
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,24,64,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,24,64,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,24,64,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,24,64,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,24,64,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,24,64,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,24,64,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,24,64,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,24,64,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,24,64,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,24,64,1.0,10.0,0.0,0,23.11,11.66
+55,BINV.K,Brandes International ETF,5,60,14,24,69,1.0,10.0,0.0,0,23.11,11.66
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,24,69,1.0,10.0,0.0,0,21.08,10.32
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0,21.15,11.68
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,24,74,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,24,74,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,24,74,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,24,74,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,24,74,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,24,74,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,24,69,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,24,69,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,24,69,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,24,69,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,24,69,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,24,69,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,24,69,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,24,69,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,24,69,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,24,69,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,24,69,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,24,69,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,24,69,1.0,10.0,0.0,0,21.9,10.61
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0,21.14,13.92
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,24,64,1.0,10.0,0.0,0,21.83,9.47
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,24,74,1.0,10.0,0.0,0,21.9,10.61
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,24,54,1.0,10.0,0.0,0,23.16,9.5
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,24,54,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,24,54,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,24,54,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,24,54,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,24,54,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,24,54,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,24,54,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,24,54,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,24,54,1.0,10.0,0.0,0,22.62,12.64
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,24,54,1.0,10.0,0.0,0,21.26,10.71
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,24,64,1.0,10.0,0.0,0,22.52,11.03
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,24,54,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,24,54,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,24,54,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,24,54,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,24,54,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,24,54,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,24,54,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,24,54,1.0,10.0,0.0,0,23.93,10.82
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,24,59,1.0,10.0,0.0,0,23.93,10.82
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,24,59,1.0,10.0,0.0,0,20.08,10.27
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0,22.91,10.29
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,24,59,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,24,64,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,24,64,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,24,59,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,24,59,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,24,59,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,24,59,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,24,59,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,24,59,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,24,59,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,24,59,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,24,59,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,24,59,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,24,59,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,24,59,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,24,59,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,24,59,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,24,59,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,24,59,1.0,10.0,0.0,0,21.83,9.47
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.99,10.38
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,24,74,1.0,10.0,0.0,0,21.02,13.09
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,29,64,1.0,10.0,0.0,0,20.22,12.21
+55,BINV.K,Brandes International ETF,5,60,14,29,59,1.0,10.0,0.0,0,23.11,11.66
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,29,59,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,29,59,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,29,59,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,29,59,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,29,59,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,29,59,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,29,59,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,29,59,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,29,59,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,29,59,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,29,59,1.0,10.0,0.0,0,21.08,10.32
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,21.14,13.92
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,29,54,1.0,10.0,0.0,0,22.0,13.06
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,29,59,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,29,59,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,29,59,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,29,59,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,29,54,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,29,54,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,29,54,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.45,11.54
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.45,11.54
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0,20.45,11.39
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,29,59,1.0,10.0,0.0,0,22.79,9.74
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,29,59,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,29,64,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,29,64,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,29,64,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,29,64,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,29,64,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,29,64,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,29,64,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,29,64,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,29,64,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,29,64,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,29,64,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,29,64,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,29,64,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,29,64,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,29,64,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,29,64,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,29,64,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,29,59,1.0,10.0,0.0,0,20.96,9.98
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,29,54,1.0,10.0,0.0,0,21.37,12.18
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,29,54,1.0,10.0,0.0,0,22.62,8.39
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,24,74,1.0,10.0,0.0,0,21.26,10.71
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,24,79,1.0,10.0,0.0,0,23.93,10.82
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,24,79,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,24,79,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,24,79,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,24,79,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,24,79,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,24,79,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,24,79,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,24,79,1.0,10.0,0.0,0,20.08,10.27
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.7,11.98
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,29,54,1.0,10.0,0.0,0,23.38,12.67
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,24,74,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,24,74,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,24,74,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,24,74,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,24,74,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,24,74,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,24,74,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,24,74,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,24,74,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,24,74,1.0,10.0,0.0,0,23.16,9.5
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,24,79,1.0,10.0,0.0,0,23.16,9.5
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,24,79,1.0,10.0,0.0,0,22.62,12.64
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,24,79,1.0,10.0,0.0,0,21.99,11.95
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,24,79,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,29,54,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,29,54,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,29,54,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,29,54,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,29,54,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,29,54,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,29,54,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,29,54,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,29,54,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,29,54,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,29,54,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,29,54,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,24,79,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,24,79,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,24,79,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,24,79,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,24,79,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,24,79,1.0,10.0,0.0,0,22.62,8.39
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,34,79,1.0,10.0,0.0,0,20.22,12.21
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,22.64,10.74
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,49,79,1.0,10.0,0.0,0,20.22,12.21
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.45,11.54
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,49,54,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,49,54,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,49,54,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,49,54,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,44,79,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,44,79,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,44,79,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,44,79,1.0,10.0,0.0,0,20.45,11.39
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,44,79,1.0,10.0,0.0,0,21.37,12.18
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0,23.11,11.09
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,44,79,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,44,79,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,44,79,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,44,79,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,44,79,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,44,79,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,44,79,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,44,79,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,44,79,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,44,79,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,44,79,1.0,10.0,0.0,0,23.11,11.66
+55,BINV.K,Brandes International ETF,5,60,14,49,54,1.0,10.0,0.0,0,23.11,11.66
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,49,54,1.0,10.0,0.0,0,21.08,10.32
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,21.15,11.68
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,49,59,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,49,59,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,49,59,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,49,59,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,49,59,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,49,59,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,49,54,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,49,54,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,49,54,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,49,54,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,49,54,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,49,54,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,49,54,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,49,54,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,49,54,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,49,54,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,49,54,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,49,54,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,49,54,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,49,54,1.0,10.0,0.0,0,21.9,10.61
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0,21.14,13.92
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,44,79,1.0,10.0,0.0,0,21.83,9.47
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,49,59,1.0,10.0,0.0,0,21.9,10.61
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,44,69,1.0,10.0,0.0,0,23.16,9.5
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,44,69,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,44,69,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,44,69,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,44,69,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,44,69,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,44,69,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,44,69,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,44,69,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,44,69,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,44,69,1.0,10.0,0.0,0,22.62,12.64
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,44,69,1.0,10.0,0.0,0,21.26,10.71
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,44,79,1.0,10.0,0.0,0,22.52,11.03
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,44,69,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,44,69,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,44,69,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,44,69,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,44,69,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,44,69,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,44,69,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,44,69,1.0,10.0,0.0,0,23.93,10.82
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,44,74,1.0,10.0,0.0,0,23.93,10.82
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,44,74,1.0,10.0,0.0,0,20.08,10.27
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,22.91,10.29
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,44,74,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,44,79,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,44,79,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,44,74,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,44,74,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,44,74,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,44,74,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,44,74,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,44,74,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,44,74,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,44,74,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,44,74,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,44,74,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,44,74,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,44,74,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,44,74,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,44,74,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,44,74,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,44,74,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,44,74,1.0,10.0,0.0,0,21.83,9.47
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.99,10.38
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,49,59,1.0,10.0,0.0,0,21.02,13.09
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,22.64,10.74
+55,BINV.K,Brandes International ETF,5,60,14,49,74,1.0,10.0,0.0,0,23.11,11.66
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,49,74,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,49,74,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,49,74,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,49,74,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,49,74,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,49,74,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,49,74,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,49,74,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,49,74,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,49,74,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,49,74,1.0,10.0,0.0,0,21.08,10.32
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,21.14,13.92
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,49,69,1.0,10.0,0.0,0,22.0,13.06
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,49,74,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,49,74,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,49,74,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,49,74,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,49,69,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,49,69,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,49,69,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,49,69,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.45,11.54
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.45,11.54
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,49,74,1.0,10.0,0.0,0,20.45,11.39
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,49,74,1.0,10.0,0.0,0,22.79,9.74
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,49,74,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,49,79,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,49,79,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,49,79,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,49,79,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,49,79,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,49,79,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,49,79,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,49,79,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,49,79,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,49,79,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,49,79,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,49,79,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,49,79,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,49,79,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,49,79,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,49,79,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,49,79,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,49,79,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,49,79,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,49,79,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,49,79,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,49,79,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,49,79,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,49,74,1.0,10.0,0.0,0,20.96,9.98
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,49,69,1.0,10.0,0.0,0,21.37,12.18
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,49,69,1.0,10.0,0.0,0,22.62,8.39
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,49,59,1.0,10.0,0.0,0,21.26,10.71
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,49,64,1.0,10.0,0.0,0,23.93,10.82
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,49,64,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,49,64,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,49,64,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,49,64,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,49,64,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,49,64,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,49,64,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,49,64,1.0,10.0,0.0,0,20.08,10.27
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.7,11.98
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,49,69,1.0,10.0,0.0,0,23.38,12.67
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,49,59,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,49,59,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,49,59,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,49,59,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,49,59,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,49,59,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,49,59,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,49,59,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,49,59,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,49,59,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,49,59,1.0,10.0,0.0,0,23.16,9.5
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,49,64,1.0,10.0,0.0,0,23.16,9.5
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,49,64,1.0,10.0,0.0,0,22.62,12.64
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,49,64,1.0,10.0,0.0,0,21.99,11.95
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,49,64,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,49,69,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,49,69,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,49,69,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,49,69,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,49,69,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,49,69,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,49,69,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,49,69,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,49,69,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,49,69,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,49,69,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,49,69,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,49,64,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,49,64,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,49,64,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,49,64,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,49,64,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,49,64,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,49,64,1.0,10.0,0.0,0,22.62,8.39
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.7,11.98
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,44,64,1.0,10.0,0.0,0,20.96,9.98
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.7,11.98
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.45,11.54
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,39,69,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,39,69,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,39,69,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,39,69,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,39,64,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,39,64,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,39,64,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0,20.45,11.39
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,39,64,1.0,10.0,0.0,0,21.37,12.18
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,23.11,11.09
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,39,64,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,39,64,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,39,64,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,39,64,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,39,64,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,39,64,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,39,64,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,39,64,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,39,64,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,39,64,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,39,64,1.0,10.0,0.0,0,23.11,11.66
+55,BINV.K,Brandes International ETF,5,60,14,39,69,1.0,10.0,0.0,0,23.11,11.66
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,39,69,1.0,10.0,0.0,0,21.08,10.32
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,21.15,11.68
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,39,74,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,39,74,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,39,74,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,39,74,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,39,74,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,39,74,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,39,69,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,39,69,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,39,69,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,39,69,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,39,69,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,39,69,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,39,69,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,39,69,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,39,69,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,39,69,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,39,69,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,39,69,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,39,69,1.0,10.0,0.0,0,21.9,10.61
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,21.14,13.92
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,39,64,1.0,10.0,0.0,0,21.83,9.47
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,39,74,1.0,10.0,0.0,0,21.9,10.61
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,39,54,1.0,10.0,0.0,0,23.16,9.5
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,39,54,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,39,54,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,39,54,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,39,54,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,39,54,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,39,54,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,39,54,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,39,54,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,39,54,1.0,10.0,0.0,0,22.62,12.64
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,39,54,1.0,10.0,0.0,0,21.26,10.71
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,39,64,1.0,10.0,0.0,0,22.52,11.03
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,39,54,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,39,54,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,39,54,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,39,54,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,39,54,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,39,54,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,39,54,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,39,54,1.0,10.0,0.0,0,23.93,10.82
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,39,59,1.0,10.0,0.0,0,23.93,10.82
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,39,59,1.0,10.0,0.0,0,20.08,10.27
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,22.91,10.29
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,39,59,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,39,64,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,39,64,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,39,59,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,39,59,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,39,59,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,39,59,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,39,59,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,39,59,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,39,59,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,39,59,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,39,59,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,39,59,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,39,59,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,39,59,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,39,59,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,39,59,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,39,59,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,39,59,1.0,10.0,0.0,0,21.83,9.47
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.99,10.38
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,39,74,1.0,10.0,0.0,0,21.02,13.09
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,44,64,1.0,10.0,0.0,0,20.22,12.21
+55,BINV.K,Brandes International ETF,5,60,14,44,59,1.0,10.0,0.0,0,23.11,11.66
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,44,59,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,44,59,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,44,59,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,44,59,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,44,59,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,44,59,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,44,59,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,44,59,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,44,59,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,44,59,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,44,59,1.0,10.0,0.0,0,21.08,10.32
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,21.14,13.92
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,44,54,1.0,10.0,0.0,0,22.0,13.06
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,44,59,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,44,59,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,44,59,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,44,59,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,44,54,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,44,54,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,44,54,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,44,54,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.45,11.54
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.45,11.54
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,44,59,1.0,10.0,0.0,0,20.45,11.39
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,44,59,1.0,10.0,0.0,0,22.79,9.74
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,44,59,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,44,64,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,44,64,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,44,64,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,44,64,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,44,64,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,44,64,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,44,64,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,44,64,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,44,64,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,44,64,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,44,64,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,44,64,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,44,64,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,44,64,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,44,64,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,44,64,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,44,64,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,44,64,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,44,59,1.0,10.0,0.0,0,20.96,9.98
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,44,54,1.0,10.0,0.0,0,21.37,12.18
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,44,54,1.0,10.0,0.0,0,22.62,8.39
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,39,74,1.0,10.0,0.0,0,21.26,10.71
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,39,79,1.0,10.0,0.0,0,23.93,10.82
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,39,79,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,39,79,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,39,79,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,39,79,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,39,79,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,39,79,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,39,79,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,39,79,1.0,10.0,0.0,0,20.08,10.27
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.7,11.98
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,44,54,1.0,10.0,0.0,0,23.38,12.67
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,39,74,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,39,74,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,39,74,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,39,74,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,39,74,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,39,74,1.0,10.0,0.0,0,22.62,8.39
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,39,74,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,39,74,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,39,74,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,39,74,1.0,10.0,0.0,0,23.16,9.5
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,39,79,1.0,10.0,0.0,0,23.16,9.5
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,39,79,1.0,10.0,0.0,0,22.62,12.64
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,39,79,1.0,10.0,0.0,0,21.99,11.95
+55,TOLL.K,Tema Monopolies and Oligopolies ETF,5,60,14,39,79,1.0,10.0,0.0,0,23.38,12.67
+55,CDEI.K,Calvert US Large-Cap Diversity  Eqty & Inc Idx ETF,5,60,14,44,54,1.0,10.0,0.0,0,21.99,11.95
+55,CVLC.K,Calvert US Large-Cap Core Responsible Index ETF,5,60,14,44,54,1.0,10.0,0.0,0,22.62,12.64
+55,AGQI.K,First Trust Active Global Quality Income ETF,5,60,14,44,54,1.0,10.0,0.0,0,23.16,9.5
+55,BLCV.K,BlackRock Large Cap Value ETF,5,60,14,44,54,1.0,10.0,0.0,0,21.26,10.71
+55,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,44,54,1.0,10.0,0.0,0,21.02,13.09
+55,KOOL.K,North Shore Equity Rotation ETF,5,60,14,44,54,1.0,10.0,0.0,0,21.9,10.61
+55,JANT.K,AllianzIM US Large Cap Buffer10 Jan ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.99,10.38
+55,CGIE.K,Capital Group International Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,21.15,11.68
+55,DUBS.K,Aptus Large Cap Enhanced Yield ETF,5,60,14,44,54,1.0,10.0,0.0,0,21.08,10.32
+55,BINV.K,Brandes International ETF,5,60,14,44,54,1.0,10.0,0.0,0,23.11,11.66
+55,EQTY.K,Kovitz Core Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,21.14,13.92
+55,USSE.K,Segall Bryant & Hamill Select Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,23.11,11.09
+55,SFLR.K,Innovator Equity Managed Floor ETF,5,60,14,44,54,1.0,10.0,0.0,0,21.83,9.47
+55,FENI.K,Fidelity Enhanced International ETF,5,60,14,44,54,1.0,10.0,0.0,0,22.52,11.03
+55,EAGL.K,Eagle Capital Select Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,22.91,10.29
+55,CGDG.K,Capital Group Dividend Growers ETF,5,60,14,44,54,1.0,10.0,0.0,0,20.08,10.27
+55,QFLR.K,Innovator Nasdaq-100 Managed Floor ETF,5,60,14,44,54,1.0,10.0,0.0,0,23.93,10.82
+55,JIVE.O,JPMorgan International Value ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.7,11.98
+55,TCAF.K,T Rowe Price Capital Appreciation Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,22.64,10.74
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,60,14,39,79,1.0,10.0,0.0,0,20.96,9.98
+55,PJFV.K,PGIM Jennison Focused Value ETF,5,60,14,39,79,1.0,10.0,0.0,0,20.22,12.21
+55,USCF.O,Themes US Cash Flow Champions ETF,5,60,14,39,79,1.0,10.0,0.0,0,22.79,9.74
+55,PRAE.K,PlanRock Alternative Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0,20.45,11.39
+55,SPDG.K,SPDR Portfolio S&P Sector Neutral Dividend ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.45,11.54
+55,KBUF.K,KraneShares 90% KWEB Defined Outcome January 2026 ETF,5,60,14,39,79,1.0,10.0,0.0,0,21.37,12.18
+55,MSFY.K,Kurv Yield Premium Strategy Microsoft MSFT ETF,5,60,14,39,79,1.0,10.0,0.0,0,22.0,13.06
+55,NXTV.K,Simplify Next Intangible Value Index ETF,5,60,14,39,79,1.0,10.0,0.0,0,22.62,8.39
+55,GVUS.K,Goldman Sachs MarketBeta Russell 1000 Value Eq ETF,5,120,14,49,79,1.0,10.0,0.0,0,20.96,9.98

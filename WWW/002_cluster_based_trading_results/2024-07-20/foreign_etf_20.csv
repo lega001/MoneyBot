@@ -1,0 +1,289 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,39,59,1.0,10.0,73.44,129.55,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,39,59,1.0,10.0,73.44,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,39,59,1.0,10.0,73.44,0.0,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,39,59,1.0,10.0,73.44,164.2,48.97,50.93
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,49,59,1.0,10.0,71.54,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,49,59,1.0,10.0,71.54,60.62,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,49,59,1.0,10.0,71.54,59.81,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,49,59,1.0,10.0,71.54,165.73,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,49,64,1.0,10.0,71.48,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,49,64,1.0,10.0,71.48,165.73,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,49,64,1.0,10.0,71.48,65.38,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,49,64,1.0,10.0,71.48,54.82,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,49,54,1.0,10.0,62.52,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,49,54,1.0,10.0,62.52,42.36,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,49,54,1.0,10.0,62.52,106.38,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,49,54,1.0,10.0,62.52,101.36,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,49,64,1.0,10.0,61.16,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,49,64,1.0,10.0,61.16,160.65,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,49,64,1.0,10.0,61.16,40.65,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,49,64,1.0,10.0,61.16,43.34,48.06,50.83
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,49,59,1.0,10.0,58.81,160.65,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,49,59,1.0,10.0,58.81,31.53,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,49,59,1.0,10.0,58.81,43.07,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,49,59,1.0,10.0,58.81,0.0,50.71,49.2
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,49,69,1.0,10.0,58.79,0.0,50.71,49.2
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,49,69,1.0,10.0,58.79,61.5,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,49,69,1.0,10.0,58.79,112.72,47.6,46.39
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,49,69,1.0,10.0,58.79,60.93,48.06,50.83
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,39,64,1.0,10.0,58.35,53.76,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,39,64,1.0,10.0,58.35,179.65,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,39,64,1.0,10.0,58.35,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,39,64,1.0,10.0,58.35,0.0,50.71,49.2
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,39,54,1.0,10.0,53.45,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,39,54,1.0,10.0,53.45,88.47,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,39,54,1.0,10.0,53.45,125.32,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,39,54,1.0,10.0,53.45,0.0,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,49,69,1.0,10.0,52.24,48.29,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,49,69,1.0,10.0,52.24,109.72,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,49,69,1.0,10.0,52.24,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,49,69,1.0,10.0,52.24,50.97,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,44,54,1.0,10.0,40.04,0.0,50.71,49.2
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,44,54,1.0,10.0,40.04,79.9,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,44,54,1.0,10.0,40.04,0.0,47.6,46.39
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,44,54,1.0,10.0,40.04,80.25,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,49,74,1.0,10.0,40.0,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,49,74,1.0,10.0,40.0,37.2,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,49,74,1.0,10.0,40.0,62.34,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,49,74,1.0,10.0,40.0,60.45,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,44,54,1.0,10.0,38.91,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,44,54,1.0,10.0,38.91,0.0,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,44,54,1.0,10.0,38.91,80.34,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,44,54,1.0,10.0,38.91,75.29,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,39,79,1.0,10.0,37.31,77.69,48.97,50.93
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,39,79,1.0,10.0,37.31,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,39,79,1.0,10.0,37.31,0.0,47.6,46.39
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,39,79,1.0,10.0,37.31,71.56,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,44,64,1.0,10.0,37.11,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,44,64,1.0,10.0,37.11,0.0,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,44,64,1.0,10.0,37.11,83.69,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,44,64,1.0,10.0,37.11,64.75,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,44,59,1.0,10.0,36.73,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,44,59,1.0,10.0,36.73,0.0,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,44,59,1.0,10.0,36.73,73.06,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,44,59,1.0,10.0,36.73,73.84,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,49,54,1.0,10.0,35.7,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,49,54,1.0,10.0,35.7,29.05,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,49,54,1.0,10.0,35.7,53.85,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,49,54,1.0,10.0,35.7,59.92,48.06,50.83
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,44,74,1.0,10.0,35.62,69.97,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,44,74,1.0,10.0,35.62,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,44,74,1.0,10.0,35.62,0.0,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,44,74,1.0,10.0,35.62,72.51,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,44,69,1.0,10.0,34.78,69.16,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,44,69,1.0,10.0,34.78,69.95,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,44,69,1.0,10.0,34.78,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,44,69,1.0,10.0,34.78,0.0,50.71,49.2
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,49,74,1.0,10.0,33.76,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,49,74,1.0,10.0,33.76,35.34,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,49,74,1.0,10.0,33.76,48.26,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,49,74,1.0,10.0,33.76,51.44,48.06,50.83
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,44,64,1.0,10.0,33.6,67.25,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,44,64,1.0,10.0,33.6,67.14,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,44,64,1.0,10.0,33.6,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,44,64,1.0,10.0,33.6,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,39,74,1.0,10.0,33.45,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,39,74,1.0,10.0,33.45,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,39,74,1.0,10.0,33.45,62.76,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,39,74,1.0,10.0,33.45,71.03,48.97,50.93
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,49,79,1.0,10.0,33.43,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,49,79,1.0,10.0,33.43,37.2,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,49,79,1.0,10.0,33.43,48.92,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,49,79,1.0,10.0,33.43,47.58,48.06,50.83
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,44,59,1.0,10.0,31.15,62.39,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,44,59,1.0,10.0,31.15,62.21,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,44,59,1.0,10.0,31.15,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,44,59,1.0,10.0,31.15,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,44,69,1.0,10.0,31.03,62.17,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,44,79,1.0,10.0,31.03,61.97,48.97,50.93
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,44,79,1.0,10.0,31.03,0.0,50.71,49.2
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,44,69,1.0,10.0,31.03,61.97,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,44,79,1.0,10.0,31.03,0.0,47.6,46.39
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,44,79,1.0,10.0,31.03,62.17,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,44,74,1.0,10.0,31.03,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,44,74,1.0,10.0,31.03,0.0,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,44,74,1.0,10.0,31.03,61.97,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,44,74,1.0,10.0,31.03,62.17,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,44,69,1.0,10.0,31.03,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,44,69,1.0,10.0,31.03,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,39,69,1.0,10.0,30.72,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,39,69,1.0,10.0,30.72,0.0,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,39,69,1.0,10.0,30.72,62.77,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,39,69,1.0,10.0,30.72,60.12,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,49,79,1.0,10.0,28.27,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,49,79,1.0,10.0,28.27,43.23,48.06,50.83
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,49,79,1.0,10.0,28.27,35.34,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,49,79,1.0,10.0,28.27,34.49,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,44,79,1.0,10.0,25.69,50.55,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,44,79,1.0,10.0,25.69,52.22,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,44,79,1.0,10.0,25.69,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,44,79,1.0,10.0,25.69,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,29,69,1.0,10.0,0.0,0.0,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,34,59,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,34,64,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,34,64,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,34,64,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,34,69,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,34,59,1.0,10.0,0.0,0.0,48.97,50.93
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,34,69,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,34,69,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,34,74,1.0,10.0,0.0,0.0,48.06,50.83
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,47.6,46.39
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,47.6,46.39
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,34,59,1.0,10.0,0.0,0.0,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,34,54,1.0,10.0,0.0,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,34,54,1.0,10.0,0.0,0.0,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,34,54,1.0,10.0,0.0,0.0,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,29,79,1.0,10.0,0.0,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,29,79,1.0,10.0,0.0,0.0,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,29,79,1.0,10.0,0.0,0.0,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,29,74,1.0,10.0,0.0,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,29,74,1.0,10.0,0.0,0.0,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,29,74,1.0,10.0,0.0,0.0,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,29,69,1.0,10.0,0.0,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,34,74,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,34,74,1.0,10.0,0.0,0.0,50.71,49.2
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,47.6,46.39
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,39,54,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,39,59,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,39,59,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,39,59,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,39,64,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,39,64,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,39,64,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,39,69,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,39,69,1.0,10.0,0.0,0.0,48.97,50.93
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,39,69,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,34,79,1.0,10.0,0.0,0.0,48.06,50.83
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,39,74,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,39,74,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,39,74,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,39,79,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,39,79,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,39,79,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,39,54,1.0,10.0,0.0,0.0,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,34,79,1.0,10.0,0.0,0.0,50.71,49.2
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,39,54,1.0,10.0,0.0,0.0,48.97,50.93
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,34,79,1.0,10.0,0.0,0.0,48.97,50.93
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,29,69,1.0,10.0,0.0,0.0,48.97,50.93
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,24,54,1.0,10.0,0.0,0.0,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,29,64,1.0,10.0,0.0,0.0,50.71,49.2
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,29,54,1.0,10.0,0.0,0.0,50.71,49.2
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,29,59,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,29,59,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,29,64,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,29,64,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,29,64,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,29,69,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,29,69,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,29,69,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,29,74,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,29,74,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,29,74,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,29,79,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,29,79,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,29,79,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,34,54,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,34,54,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,34,54,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,29,59,1.0,10.0,0.0,0.0,48.06,50.83
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,34,59,1.0,10.0,0.0,0.0,48.97,50.93
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,29,54,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,24,54,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,24,59,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,24,59,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,24,59,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,24,64,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,24,64,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,24,64,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,24,69,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,24,69,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,24,69,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,24,74,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,24,74,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,24,74,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,24,79,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,24,79,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,24,79,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,29,54,1.0,10.0,0.0,0.0,48.06,50.83
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,34,59,1.0,10.0,0.0,0.0,48.06,50.83
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,47.6,46.39
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,47.6,46.39
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,24,64,1.0,10.0,0.0,0.0,48.97,50.93
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,24,64,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,24,69,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,24,69,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,24,69,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,24,74,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,24,74,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,24,74,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,24,79,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,24,79,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,24,79,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,29,54,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,29,54,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,29,54,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,29,59,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,29,59,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,29,59,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,29,64,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,29,64,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,47.6,46.39
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,24,64,1.0,10.0,0.0,0.0,48.06,50.83
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,34,59,1.0,10.0,0.0,0.0,50.71,49.2
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,24,59,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,34,64,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,34,64,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,34,64,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,34,69,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,34,69,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,34,69,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,34,74,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,34,74,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,34,74,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,60,14,34,79,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,34,79,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,60,14,34,79,1.0,10.0,0.0,0.0,50.71,49.2
+20,UPRO.K,ProShares UltraPro S&P500,5,60,14,24,54,1.0,10.0,0.0,0.0,48.97,50.93
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,24,54,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,47.6,46.39
+20,GGLL.O,Direxion Daily GOOGL Bull 2X Shares,5,120,14,24,54,1.0,10.0,0.0,0.0,50.71,49.2
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,24,59,1.0,10.0,0.0,0.0,48.06,50.83
+20,UPRO.K,ProShares UltraPro S&P500,5,120,14,24,59,1.0,10.0,0.0,0.0,48.97,50.93
+20,URNM.K,Sprott Uranium Miners ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,47.6,46.39
+20,SPXL.K,Direxion Daily S&P 500 Bull 3X Shares,5,120,14,24,54,1.0,10.0,0.0,0.0,48.06,50.83

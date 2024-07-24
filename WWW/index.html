@@ -1,0 +1,221 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MoneyBot, stock analyze and simulation (@2024-07-20 updated)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77aaff 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header li {
+            float: left;
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+        header #branding {
+            float: left;
+        }
+        header #branding h1 {
+            margin: 0;
+        }
+        header nav {
+            float: right;
+            margin-top: 10px;
+        }
+        .market {
+            background: #fff;
+            color: #333;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .market h2 {
+            margin-top: 0;
+        }
+        .market a {
+            color: #333;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .market a:hover {
+            text-decoration: underline;
+        }
+        iframe {
+            width: 100%;
+            height: 600px;
+            border: none;
+        }
+        #iframe-container {
+            margin-top: 20px;
+        }
+    </style>
+    <script>
+        let currentDate = '2024-07-20';
+        function updateContent(date) {
+            currentDate = date;
+            const titleText = 'MoneyBot, stock analyze and simulation (@' + date + ' updated)';
+            document.title = titleText;
+            document.getElementById('branding').innerHTML = '<h1>' + titleText + '</h1>';
+            document.getElementById('iframe-container').innerHTML = '<div class="market"><h2>Market Analysis for ' + date + '</h2><p>Content for ' + date + ' will be displayed here.</p></div>';
+        }
+        function openLink(element) {
+            const baseUrl = element.getAttribute('data-base-url');
+            const url = baseUrl.replace('DATE_PLACEHOLDER', currentDate);
+            document.getElementById('iframe-container').innerHTML = '<iframe src="' + url + '"></iframe>';
+        }
+        // Initialize with the most recent date content
+        window.onload = function() {
+            updateContent('2024-07-20');
+        };
+    </script>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1>MoneyBot, stock analyze and simulation (@2024-07-20 updated)</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="javascript:void(0);" onclick="updateContent('2024-07-20');">[Home]</a></li>
+                    <li><a href="ExportData_visualization.html">[Export Trend]</a></li>
+                    <li><a href="javascript:void(0);" onclick="updateContent('2024-07-20');">[2024-07-20]</a></li><li><a href="javascript:void(0);" onclick="updateContent('2024-07-13');">[2024-07-13]</a></li><li><a href="javascript:void(0);" onclick="updateContent('2024-07-06');">[2024-07-06]</a></li><li><a href="javascript:void(0);" onclick="updateContent('2024-06-30');">[2024-06-30]</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="container">
+        <div id="iframe-container">
+            <!-- Content will be updated by JavaScript -->
+        </div>
+        
+<div class="market">
+    <h2>KOSPI</h2>
+    <ul>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/KOSPI/cluster_results_KOSPI.html" onclick="openLink(this)">KMEANS CLUSTERING LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/KOSPI/cluster_plot.html" onclick="openLink(this)">Cluster Plot</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./003_current_price_evaluation_results/DATE_PLACEHOLDER/KOSPI_current_price_evaluation.html" onclick="openLink(this)">CURRENT PRICE EVALUATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./004_monthlyrsi_goldencross_trading_simulation_results/DATE_PLACEHOLDER/KOSPI/KOSPI_monthlyrsi_goldencross_trading_simulation_results.html" onclick="openLink(this)">GOLDENDCROSS TRADING SIMULATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./005_rsi_value/DATE_PLACEHOLDER/KOSPI_rsi_value.html" onclick="openLink(this)">RSI SIMULATION LINK</a></li>
+    </ul>
+</div>
+
+<div class="market">
+    <h2>KOSDAQ</h2>
+    <ul>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/KOSDAQ/cluster_results_KOSDAQ.html" onclick="openLink(this)">KMEANS CLUSTERING LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/KOSDAQ/cluster_plot.html" onclick="openLink(this)">Cluster Plot</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./003_current_price_evaluation_results/DATE_PLACEHOLDER/KOSDAQ_current_price_evaluation.html" onclick="openLink(this)">CURRENT PRICE EVALUATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./004_monthlyrsi_goldencross_trading_simulation_results/DATE_PLACEHOLDER/KOSDAQ/KOSDAQ_monthlyrsi_goldencross_trading_simulation_results.html" onclick="openLink(this)">GOLDENDCROSS TRADING SIMULATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./005_rsi_value/DATE_PLACEHOLDER/KOSDAQ_rsi_value.html" onclick="openLink(this)">RSI SIMULATION LINK</a></li>
+    </ul>
+</div>
+
+<div class="market">
+    <h2>etf</h2>
+    <ul>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/etf/cluster_results_etf.html" onclick="openLink(this)">KMEANS CLUSTERING LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/etf/cluster_plot.html" onclick="openLink(this)">Cluster Plot</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./003_current_price_evaluation_results/DATE_PLACEHOLDER/etf_current_price_evaluation.html" onclick="openLink(this)">CURRENT PRICE EVALUATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./004_monthlyrsi_goldencross_trading_simulation_results/DATE_PLACEHOLDER/etf/etf_monthlyrsi_goldencross_trading_simulation_results.html" onclick="openLink(this)">GOLDENDCROSS TRADING SIMULATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./005_rsi_value/DATE_PLACEHOLDER/etf_rsi_value.html" onclick="openLink(this)">RSI SIMULATION LINK</a></li>
+    </ul>
+</div>
+
+<div class="market">
+    <h2>etn</h2>
+    <ul>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/etn/cluster_results_etn.html" onclick="openLink(this)">KMEANS CLUSTERING LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/etn/cluster_plot.html" onclick="openLink(this)">Cluster Plot</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./003_current_price_evaluation_results/DATE_PLACEHOLDER/etn_current_price_evaluation.html" onclick="openLink(this)">CURRENT PRICE EVALUATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./004_monthlyrsi_goldencross_trading_simulation_results/DATE_PLACEHOLDER/etn/etn_monthlyrsi_goldencross_trading_simulation_results.html" onclick="openLink(this)">GOLDENDCROSS TRADING SIMULATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./005_rsi_value/DATE_PLACEHOLDER/etn_rsi_value.html" onclick="openLink(this)">RSI SIMULATION LINK</a></li>
+    </ul>
+</div>
+
+<div class="market">
+    <h2>NASDAQ</h2>
+    <ul>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/NASDAQ/cluster_results_NASDAQ.html" onclick="openLink(this)">KMEANS CLUSTERING LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/NASDAQ/cluster_plot.html" onclick="openLink(this)">Cluster Plot</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./003_current_price_evaluation_results/DATE_PLACEHOLDER/NASDAQ_current_price_evaluation.html" onclick="openLink(this)">CURRENT PRICE EVALUATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./004_monthlyrsi_goldencross_trading_simulation_results/DATE_PLACEHOLDER/NASDAQ/NASDAQ_monthlyrsi_goldencross_trading_simulation_results.html" onclick="openLink(this)">GOLDENDCROSS TRADING SIMULATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./005_rsi_value/DATE_PLACEHOLDER/NASDAQ_rsi_value.html" onclick="openLink(this)">RSI SIMULATION LINK</a></li>
+    </ul>
+</div>
+
+<div class="market">
+    <h2>.DJI</h2>
+    <ul>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/.DJI/cluster_results_.DJI.html" onclick="openLink(this)">KMEANS CLUSTERING LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/.DJI/cluster_plot.html" onclick="openLink(this)">Cluster Plot</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./003_current_price_evaluation_results/DATE_PLACEHOLDER/DJI_current_price_evaluation.html" onclick="openLink(this)">CURRENT PRICE EVALUATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./004_monthlyrsi_goldencross_trading_simulation_results/DATE_PLACEHOLDER/DJI/DJI_monthlyrsi_goldencross_trading_simulation_results.html" onclick="openLink(this)">GOLDENDCROSS TRADING SIMULATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./005_rsi_value/DATE_PLACEHOLDER/.DJI_rsi_value.html" onclick="openLink(this)">RSI SIMULATION LINK</a></li>
+    </ul>
+</div>
+
+<div class="market">
+    <h2>.INX</h2>
+    <ul>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/.INX/cluster_results_.INX.html" onclick="openLink(this)">KMEANS CLUSTERING LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/.INX/cluster_plot.html" onclick="openLink(this)">Cluster Plot</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./003_current_price_evaluation_results/DATE_PLACEHOLDER/INX_current_price_evaluation.html" onclick="openLink(this)">CURRENT PRICE EVALUATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./004_monthlyrsi_goldencross_trading_simulation_results/DATE_PLACEHOLDER/INX/INX_monthlyrsi_goldencross_trading_simulation_results.html" onclick="openLink(this)">GOLDENDCROSS TRADING SIMULATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./005_rsi_value/DATE_PLACEHOLDER/.INX_rsi_value.html" onclick="openLink(this)">RSI SIMULATION LINK</a></li>
+    </ul>
+</div>
+
+<div class="market">
+    <h2>.SOX</h2>
+    <ul>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/.SOX/cluster_results_.SOX.html" onclick="openLink(this)">KMEANS CLUSTERING LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/.SOX/cluster_plot.html" onclick="openLink(this)">Cluster Plot</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./003_current_price_evaluation_results/DATE_PLACEHOLDER/SOX_current_price_evaluation.html" onclick="openLink(this)">CURRENT PRICE EVALUATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./004_monthlyrsi_goldencross_trading_simulation_results/DATE_PLACEHOLDER/SOX/SOX_monthlyrsi_goldencross_trading_simulation_results.html" onclick="openLink(this)">GOLDENDCROSS TRADING SIMULATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./005_rsi_value/DATE_PLACEHOLDER/.SOX_rsi_value.html" onclick="openLink(this)">RSI SIMULATION LINK</a></li>
+    </ul>
+</div>
+
+<div class="market">
+    <h2>foreign_etf</h2>
+    <ul>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/foreign_etf/cluster_results_foreign_etf.html" onclick="openLink(this)">KMEANS CLUSTERING LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./001_kmeans_clustering_results/DATE_PLACEHOLDER/foreign_etf/cluster_plot.html" onclick="openLink(this)">Cluster Plot</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./003_current_price_evaluation_results/DATE_PLACEHOLDER/foreign_etf_current_price_evaluation.html" onclick="openLink(this)">CURRENT PRICE EVALUATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./004_monthlyrsi_goldencross_trading_simulation_results/DATE_PLACEHOLDER/foreign_etf/foreign_etf_monthlyrsi_goldencross_trading_simulation_results.html" onclick="openLink(this)">GOLDENDCROSS TRADING SIMULATION LINK</a></li>
+        <li><a href="javascript:void(0);" data-base-url="./005_rsi_value/DATE_PLACEHOLDER/foreign_etf_rsi_value.html" onclick="openLink(this)">RSI SIMULATION LINK</a></li>
+    </ul>
+</div>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,217 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,44,69,1.0,10.0,30.28,74.26,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,44,69,1.0,10.0,30.28,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,44,69,1.0,10.0,30.28,16.59,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,49,69,1.0,10.0,29.91,74.26,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,49,69,1.0,10.0,29.91,32.22,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,49,69,1.0,10.0,29.91,-16.77,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,49,79,1.0,10.0,28.52,74.26,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,49,79,1.0,10.0,28.52,-13.97,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,49,79,1.0,10.0,28.52,25.26,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,44,64,1.0,10.0,28.42,74.26,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,44,64,1.0,10.0,28.42,11.0,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,44,64,1.0,10.0,28.42,0.0,36.76,84.24
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,49,74,1.0,10.0,28.37,24.84,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,49,74,1.0,10.0,28.37,74.26,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,49,74,1.0,10.0,28.37,-13.97,33.78,91.66
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,49,54,1.0,10.0,28.36,-25.96,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,49,54,1.0,10.0,28.36,36.77,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,49,54,1.0,10.0,28.36,74.26,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,49,64,1.0,10.0,27.58,27.89,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,49,64,1.0,10.0,27.58,-19.41,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,49,64,1.0,10.0,27.58,74.26,37.9,87.87
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,39,74,1.0,10.0,26.74,74.26,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,39,74,1.0,10.0,26.74,5.97,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,39,74,1.0,10.0,26.74,0.0,36.76,84.24
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,39,79,1.0,10.0,26.74,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,39,79,1.0,10.0,26.74,5.97,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,39,79,1.0,10.0,26.74,74.26,37.9,87.87
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,44,59,1.0,10.0,26.14,74.26,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,44,59,1.0,10.0,26.14,4.15,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,44,59,1.0,10.0,26.14,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,34,69,1.0,10.0,24.75,0.0,33.78,91.66
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,34,79,1.0,10.0,24.75,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,34,54,1.0,10.0,24.75,74.26,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,34,59,1.0,10.0,24.75,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,34,59,1.0,10.0,24.75,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,34,59,1.0,10.0,24.75,74.26,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,34,64,1.0,10.0,24.75,0.0,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,34,79,1.0,10.0,24.75,74.26,37.9,87.87
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,34,74,1.0,10.0,24.75,74.26,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,34,79,1.0,10.0,24.75,0.0,36.76,84.24
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,34,54,1.0,10.0,24.75,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,34,74,1.0,10.0,24.75,0.0,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,34,74,1.0,10.0,24.75,0.0,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,34,69,1.0,10.0,24.75,74.26,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,34,64,1.0,10.0,24.75,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,34,64,1.0,10.0,24.75,74.26,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,34,69,1.0,10.0,24.75,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,34,54,1.0,10.0,24.75,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,49,59,1.0,10.0,24.39,74.26,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,49,59,1.0,10.0,24.39,-22.32,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,49,59,1.0,10.0,24.39,21.23,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,44,79,1.0,10.0,23.56,74.26,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,44,79,1.0,10.0,23.56,-3.57,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,44,79,1.0,10.0,23.56,0.0,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,44,74,1.0,10.0,23.56,74.26,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,44,74,1.0,10.0,23.56,-3.57,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,44,74,1.0,10.0,23.56,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,44,69,1.0,10.0,23.01,21.78,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,44,69,1.0,10.0,23.01,27.58,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,44,69,1.0,10.0,23.01,19.67,36.76,84.24
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,39,69,1.0,10.0,22.9,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,39,69,1.0,10.0,22.9,-5.56,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,39,69,1.0,10.0,22.9,74.26,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,44,54,1.0,10.0,21.74,0.0,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,44,54,1.0,10.0,21.74,74.26,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,44,54,1.0,10.0,21.74,-9.04,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,39,64,1.0,10.0,21.66,0.0,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,39,64,1.0,10.0,21.66,74.26,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,39,64,1.0,10.0,21.66,-9.28,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,34,59,1.0,10.0,21.54,27.58,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,34,64,1.0,10.0,21.54,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,34,64,1.0,10.0,21.54,37.04,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,34,64,1.0,10.0,21.54,27.58,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,34,69,1.0,10.0,21.54,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,34,69,1.0,10.0,21.54,37.04,33.78,91.66
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,34,74,1.0,10.0,21.54,37.04,33.78,91.66
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,34,59,1.0,10.0,21.54,37.04,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,34,59,1.0,10.0,21.54,0.0,36.76,84.24
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,34,74,1.0,10.0,21.54,0.0,36.76,84.24
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,34,54,1.0,10.0,21.54,0.0,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,34,79,1.0,10.0,21.54,27.58,37.9,87.87
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,34,69,1.0,10.0,21.54,27.58,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,34,54,1.0,10.0,21.54,37.04,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,34,54,1.0,10.0,21.54,27.58,37.9,87.87
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,34,74,1.0,10.0,21.54,27.58,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,34,79,1.0,10.0,21.54,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,34,79,1.0,10.0,21.54,37.04,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,44,64,1.0,10.0,19.86,27.58,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,44,64,1.0,10.0,19.86,16.56,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,44,64,1.0,10.0,19.86,15.44,36.76,84.24
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,39,59,1.0,10.0,19.26,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,39,59,1.0,10.0,19.26,-16.48,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,39,59,1.0,10.0,19.26,74.26,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,39,54,1.0,10.0,16.65,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,39,54,1.0,10.0,16.65,-24.31,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,39,54,1.0,10.0,16.65,74.26,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,44,59,1.0,10.0,15.35,8.42,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,44,59,1.0,10.0,15.35,10.04,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,44,59,1.0,10.0,15.35,27.58,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,44,74,1.0,10.0,15.31,20.97,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,44,74,1.0,10.0,15.31,-2.62,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,44,74,1.0,10.0,15.31,27.58,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,44,79,1.0,10.0,15.31,20.97,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,44,79,1.0,10.0,15.31,-2.62,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,44,79,1.0,10.0,15.31,27.58,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,49,69,1.0,10.0,14.55,-12.71,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,49,69,1.0,10.0,14.55,27.58,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,49,69,1.0,10.0,14.55,28.79,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,49,79,1.0,10.0,14.26,27.58,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,49,79,1.0,10.0,14.26,-11.33,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,49,79,1.0,10.0,14.26,26.52,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,49,74,1.0,10.0,14.25,27.58,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,49,74,1.0,10.0,14.25,-11.33,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,49,74,1.0,10.0,14.25,26.49,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,39,79,1.0,10.0,13.28,27.58,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,39,79,1.0,10.0,13.28,12.26,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,39,74,1.0,10.0,13.28,27.58,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,39,74,1.0,10.0,13.28,12.26,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,39,74,1.0,10.0,13.28,0.0,36.76,84.24
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,39,79,1.0,10.0,13.28,0.0,36.76,84.24
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,49,64,1.0,10.0,11.64,22.58,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,49,64,1.0,10.0,11.64,27.58,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,49,64,1.0,10.0,11.64,-15.25,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,44,54,1.0,10.0,11.3,27.58,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,44,54,1.0,10.0,11.3,-1.39,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,44,54,1.0,10.0,11.3,7.72,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,39,69,1.0,10.0,9.51,0.95,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,39,69,1.0,10.0,9.51,27.58,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,39,69,1.0,10.0,9.51,0.0,36.76,84.24
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,49,59,1.0,10.0,8.61,16.32,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,49,59,1.0,10.0,8.61,-18.08,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,49,59,1.0,10.0,8.61,27.58,37.9,87.87
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,39,64,1.0,10.0,8.29,27.58,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,39,64,1.0,10.0,8.29,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,39,64,1.0,10.0,8.29,-2.72,33.78,91.66
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,49,54,1.0,10.0,7.31,-19.66,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,49,54,1.0,10.0,7.31,14.01,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,49,54,1.0,10.0,7.31,27.58,37.9,87.87
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,39,59,1.0,10.0,5.88,27.58,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,39,59,1.0,10.0,5.88,-9.94,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,39,59,1.0,10.0,5.88,0.0,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,39,54,1.0,10.0,3.7,27.58,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,39,54,1.0,10.0,3.7,-16.47,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,39,54,1.0,10.0,3.7,0.0,36.76,84.24
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,36.76,84.24
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,29,79,1.0,10.0,0.0,0.0,37.9,87.87
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,29,64,1.0,10.0,0.0,0.0,37.9,87.87
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,29,54,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,29,59,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,29,59,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,29,64,1.0,10.0,0.0,0.0,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,36.76,84.24
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,29,69,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,29,69,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,29,74,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,29,74,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,29,54,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,24,79,1.0,10.0,0.0,0.0,37.9,87.87
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,29,79,1.0,10.0,0.0,0.0,37.9,87.87
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,24,64,1.0,10.0,0.0,0.0,37.9,87.87
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,24,54,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,24,59,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,24,59,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,24,64,1.0,10.0,0.0,0.0,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,24,79,1.0,10.0,0.0,0.0,33.78,91.66
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,24,69,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,24,69,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,24,74,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,60,14,24,74,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,29,79,1.0,10.0,0.0,0.0,33.78,91.66
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,60,14,24,54,1.0,10.0,0.0,0.0,33.78,91.66
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,29,79,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,29,64,1.0,10.0,0.0,0.0,37.9,87.87
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,29,54,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,29,59,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,29,59,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,29,64,1.0,10.0,0.0,0.0,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,36.76,84.24
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,29,69,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,29,69,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,29,74,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,29,74,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,29,54,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,24,79,1.0,10.0,0.0,0.0,37.9,87.87
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,24,54,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,24,64,1.0,10.0,0.0,0.0,37.9,87.87
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,24,54,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,24,59,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,24,59,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,24,64,1.0,10.0,0.0,0.0,33.78,91.66
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,24,79,1.0,10.0,0.0,0.0,33.78,91.66
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,24,69,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,24,69,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,36.76,84.24
+41,KOLD.K,ProShares UltraShort Bloomberg Natural Gas,5,120,14,24,74,1.0,10.0,0.0,0.0,33.78,91.66
+41,WEBL.K,Direxion Daily Dow Jones Internet Bull 3X Shares,5,120,14,24,74,1.0,10.0,0.0,0.0,37.9,87.87
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,36.76,84.24
+41,IVW,iShares S&P 500 Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,36.76,84.24

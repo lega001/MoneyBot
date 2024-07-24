@@ -1,0 +1,1441 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,24,54,1.0,10.0,0.0,0,22.19,5.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.82,5.48
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,34,54,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,34,54,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,34,54,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,34,54,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,34,54,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,34,54,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,29,79,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,29,79,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,29,79,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,29,79,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,29,79,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,29,79,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,29,79,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,29,79,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,29,79,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,29,79,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,29,79,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,29,79,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,34,54,1.0,10.0,0.0,0,20.93,1.01
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,34,54,1.0,10.0,0.0,0,21.95,1.51
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,24,54,1.0,10.0,0.0,0,18.33,1.91
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,34,54,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,34,59,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,34,59,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,34,59,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,34,59,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,34,59,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,34,59,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,34,59,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,34,59,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,34,54,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,34,54,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,34,54,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,34,54,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,34,54,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,34,54,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,34,54,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,34,54,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,34,54,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,34,54,1.0,10.0,0.0,0,18.28,2.46
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,29,79,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,29,79,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,29,79,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,29,79,1.0,10.0,0.0,0,20.14,2.49
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,29,74,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,29,69,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,29,69,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,29,69,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,29,69,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,29,69,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,29,69,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,29,69,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,29,69,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,29,69,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,29,69,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,29,69,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,29,69,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,29,69,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,29,69,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,29,69,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,29,69,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,29,69,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,29,74,1.0,10.0,0.0,0,18.33,1.91
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,29,74,1.0,10.0,0.0,0,19.52,1.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,29,74,1.0,10.0,0.0,0,20.14,2.49
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,29,74,1.0,10.0,0.0,0,22.63,6.42
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,29,79,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,29,79,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,29,79,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,29,74,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,29,74,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,29,74,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,29,74,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,29,74,1.0,10.0,0.0,0,21.68,5.48
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,29,74,1.0,10.0,0.0,0,23.03,3.16
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.62,4.96
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,29,74,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,29,74,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,29,74,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,29,74,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,29,74,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,29,74,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,29,74,1.0,10.0,0.0,0,18.74,3.93
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,34,59,1.0,10.0,0.0,0,21.17,2.3
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,34,59,1.0,10.0,0.0,0,18.28,2.46
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,34,59,1.0,10.0,0.0,0,24.68,2.94
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,34,69,1.0,10.0,0.0,0,20.46,2.8
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,34,74,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,34,74,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,34,74,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,34,74,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,34,74,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,34,74,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,34,74,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,34,74,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,34,74,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,34,74,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,34,74,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,34,74,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,34,74,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,34,74,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,34,74,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,34,74,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,34,69,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,34,69,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,34,74,1.0,10.0,0.0,0,19.38,2.41
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,34,74,1.0,10.0,0.0,0,23.87,3.1
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,34,74,1.0,10.0,0.0,0,19.96,2.24
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,34,79,1.0,10.0,0.0,0,18.28,2.46
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,34,79,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,34,79,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,34,79,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,34,79,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,34,79,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,34,79,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,34,79,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,34,79,1.0,10.0,0.0,0,24.68,2.94
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,34,79,1.0,10.0,0.0,0,21.17,2.3
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,34,79,1.0,10.0,0.0,0,22.19,5.51
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,34,79,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,34,79,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,34,79,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,34,79,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,34,79,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,34,79,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,34,79,1.0,10.0,0.0,0,18.33,1.91
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,34,69,1.0,10.0,0.0,0,19.38,2.41
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,34,69,1.0,10.0,0.0,0,21.68,5.48
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,34,59,1.0,10.0,0.0,0,18.73,2.88
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,34,69,1.0,10.0,0.0,0,22.63,6.42
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,34,64,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,34,64,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,34,64,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,34,64,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,34,64,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,34,64,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,34,64,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,34,64,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,34,64,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,34,64,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,34,64,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,34,59,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,34,59,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,34,59,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,34,59,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,34,59,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,34,59,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,34,59,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,34,64,1.0,10.0,0.0,0,18.73,2.88
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,34,64,1.0,10.0,0.0,0,23.03,3.16
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,34,64,1.0,10.0,0.0,0,22.63,6.42
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,34,69,1.0,10.0,0.0,0,18.74,3.93
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,34,69,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,34,69,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,34,69,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,34,69,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,34,69,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,34,69,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,34,69,1.0,10.0,0.0,0,20.93,1.01
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,34,69,1.0,10.0,0.0,0,19.62,4.96
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,34,64,1.0,10.0,0.0,0,21.68,5.48
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,34,69,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,34,69,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,34,69,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,34,69,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,34,64,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,34,64,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,34,64,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,34,64,1.0,10.0,0.0,0,20.46,2.8
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,29,69,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,29,69,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,29,64,1.0,10.0,0.0,0,19.96,2.24
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,24,64,1.0,10.0,0.0,0,18.74,3.93
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,24,69,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,24,69,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,24,69,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,24,69,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,24,69,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,24,64,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,24,64,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,24,64,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,24,64,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,24,64,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,24,64,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,24,64,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,24,64,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,24,64,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,24,64,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,24,64,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,24,64,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,24,69,1.0,10.0,0.0,0,20.93,1.01
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,24,69,1.0,10.0,0.0,0,19.82,5.48
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,24,69,1.0,10.0,0.0,0,21.95,1.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,24,69,1.0,10.0,0.0,0,19.96,2.24
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,24,74,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,24,74,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,24,74,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,24,74,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,24,74,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,24,74,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,24,74,1.0,10.0,0.0,0,22.19,5.51
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,24,69,1.0,10.0,0.0,0,23.87,3.1
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,24,69,1.0,10.0,0.0,0,21.17,2.3
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,24,69,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,24,69,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,24,69,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,24,69,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,24,69,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,24,69,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,24,69,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,24,69,1.0,10.0,0.0,0,18.28,2.46
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,24,64,1.0,10.0,0.0,0,20.93,1.01
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,24,64,1.0,10.0,0.0,0,19.62,4.96
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,24,74,1.0,10.0,0.0,0,21.17,2.3
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,24,64,1.0,10.0,0.0,0,20.14,2.49
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,24,59,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,24,54,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,24,54,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,24,54,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,24,54,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,24,54,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,24,54,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,24,54,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,24,54,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,24,54,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,24,54,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,24,54,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,24,54,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,24,54,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,24,54,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,24,54,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,24,54,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,24,54,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,24,59,1.0,10.0,0.0,0,18.33,1.91
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,24,59,1.0,10.0,0.0,0,19.52,1.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,24,59,1.0,10.0,0.0,0,20.14,2.49
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,24,59,1.0,10.0,0.0,0,22.63,6.42
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,24,64,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,24,64,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,24,64,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,24,59,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,24,59,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,24,59,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,24,59,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,24,59,1.0,10.0,0.0,0,21.68,5.48
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,24,59,1.0,10.0,0.0,0,23.03,3.16
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.62,4.96
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,24,59,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,24,59,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,24,59,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,24,59,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,24,59,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,24,59,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,24,59,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,24,59,1.0,10.0,0.0,0,18.74,3.93
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,24,74,1.0,10.0,0.0,0,21.95,1.51
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,24,74,1.0,10.0,0.0,0,18.28,2.46
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,29,64,1.0,10.0,0.0,0,23.87,3.1
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,29,54,1.0,10.0,0.0,0,21.68,5.48
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,29,59,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,29,59,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,29,59,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,29,59,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,29,59,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,29,59,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,29,59,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,29,59,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,29,59,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,29,59,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,29,59,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,29,59,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,29,59,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,29,59,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,29,59,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,29,54,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,29,54,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,29,54,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,29,59,1.0,10.0,0.0,0,20.46,2.8
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,29,59,1.0,10.0,0.0,0,19.38,2.41
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,29,59,1.0,10.0,0.0,0,23.87,3.1
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,29,64,1.0,10.0,0.0,0,21.17,2.3
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,29,64,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,29,64,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,29,64,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,29,64,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,29,64,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,29,64,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,29,64,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,29,64,1.0,10.0,0.0,0,18.28,2.46
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,29,64,1.0,10.0,0.0,0,21.95,1.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,29,59,1.0,10.0,0.0,0,19.96,2.24
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,29,64,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,29,64,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,29,64,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,29,64,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,29,64,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,29,64,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,29,64,1.0,10.0,0.0,0,22.19,5.51
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,29,54,1.0,10.0,0.0,0,20.46,2.8
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,29,54,1.0,10.0,0.0,0,22.63,6.42
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,24,74,1.0,10.0,0.0,0,24.68,2.94
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,29,54,1.0,10.0,0.0,0,23.03,3.16
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,24,79,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,24,79,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,24,79,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,24,79,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,24,79,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,24,79,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,24,79,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,24,79,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,24,79,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,24,79,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,24,74,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,24,74,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,24,74,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,24,74,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,24,74,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,24,74,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,24,74,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,24,74,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,24,79,1.0,10.0,0.0,0,24.68,2.94
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,24,79,1.0,10.0,0.0,0,18.73,2.88
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,24,79,1.0,10.0,0.0,0,23.03,3.16
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.62,4.96
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,29,54,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,29,54,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,29,54,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,29,54,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,29,54,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,29,54,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,29,54,1.0,10.0,0.0,0,18.74,3.93
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,29,54,1.0,10.0,0.0,0,20.14,2.49
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,24,79,1.0,10.0,0.0,0,22.63,6.42
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,29,54,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,29,54,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,29,54,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,24,79,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,24,79,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,24,79,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,24,79,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,24,79,1.0,10.0,0.0,0,21.68,5.48
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,34,79,1.0,10.0,0.0,0,19.96,2.24
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,39,54,1.0,10.0,0.0,0,22.19,5.51
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,39,54,1.0,10.0,0.0,0,18.33,1.91
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,44,79,1.0,10.0,0.0,0,20.93,1.01
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,49,54,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,49,54,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,49,54,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,49,54,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,49,54,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,49,54,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,44,79,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,44,79,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,44,79,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,44,79,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,44,79,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,44,79,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,44,79,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,44,79,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,44,79,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,44,79,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,44,79,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,44,79,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,19.82,5.48
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,49,54,1.0,10.0,0.0,0,21.95,1.51
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,49,54,1.0,10.0,0.0,0,21.17,2.3
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,49,59,1.0,10.0,0.0,0,22.19,5.51
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,49,59,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,49,59,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,49,59,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,49,59,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,49,59,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,49,59,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,49,59,1.0,10.0,0.0,0,18.33,1.91
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,49,54,1.0,10.0,0.0,0,19.96,2.24
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,49,54,1.0,10.0,0.0,0,18.28,2.46
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,49,54,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,49,54,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,49,54,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,49,54,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,49,54,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,49,54,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,49,54,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,49,54,1.0,10.0,0.0,0,24.68,2.94
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.82,5.48
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,44,79,1.0,10.0,0.0,0,18.74,3.93
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,49,59,1.0,10.0,0.0,0,18.28,2.46
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,44,79,1.0,10.0,0.0,0,19.62,4.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,44,74,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,44,74,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,44,69,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,44,69,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,44,69,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,44,69,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,44,69,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,44,69,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,44,69,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,44,69,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,44,69,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,44,69,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,44,69,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,44,69,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,44,69,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,44,69,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,44,69,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,44,69,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,44,74,1.0,10.0,0.0,0,19.52,1.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,44,74,1.0,10.0,0.0,0,20.14,2.49
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.62,4.96
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,44,74,1.0,10.0,0.0,0,21.68,5.48
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,44,79,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,44,79,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,44,79,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,44,79,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,44,74,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,44,74,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,44,74,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,44,74,1.0,10.0,0.0,0,20.46,2.8
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,44,74,1.0,10.0,0.0,0,22.63,6.42
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,44,74,1.0,10.0,0.0,0,18.74,3.93
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,44,74,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,44,74,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,44,74,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,44,74,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,44,74,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,44,74,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,44,74,1.0,10.0,0.0,0,20.93,1.01
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,49,59,1.0,10.0,0.0,0,21.17,2.3
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,49,59,1.0,10.0,0.0,0,24.68,2.94
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,44,69,1.0,10.0,0.0,0,18.33,1.91
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,49,69,1.0,10.0,0.0,0,20.46,2.8
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,49,74,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,49,74,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,49,74,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,49,74,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,49,74,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,49,74,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,49,74,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,49,74,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,49,74,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,49,74,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,49,74,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,49,74,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,49,74,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,49,74,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,49,74,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,49,74,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,49,69,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,49,69,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,49,74,1.0,10.0,0.0,0,19.38,2.41
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,49,74,1.0,10.0,0.0,0,23.87,3.1
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,49,74,1.0,10.0,0.0,0,19.96,2.24
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,49,79,1.0,10.0,0.0,0,18.28,2.46
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,49,79,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,49,79,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,49,79,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,49,79,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,49,79,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,49,79,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,49,79,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,49,79,1.0,10.0,0.0,0,24.68,2.94
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,49,79,1.0,10.0,0.0,0,21.17,2.3
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,49,79,1.0,10.0,0.0,0,22.19,5.51
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,49,79,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,49,79,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,49,79,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,49,79,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,49,79,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,49,79,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,49,79,1.0,10.0,0.0,0,18.33,1.91
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,49,69,1.0,10.0,0.0,0,19.38,2.41
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,49,69,1.0,10.0,0.0,0,21.68,5.48
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,49,59,1.0,10.0,0.0,0,18.73,2.88
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,49,69,1.0,10.0,0.0,0,22.63,6.42
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,49,64,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,49,64,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,49,64,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,49,64,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,49,64,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,49,64,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,49,64,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,49,64,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,49,64,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,49,64,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,49,64,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,49,59,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,49,59,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,49,59,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,49,59,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,49,59,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,49,59,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,49,59,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,49,64,1.0,10.0,0.0,0,18.73,2.88
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,49,64,1.0,10.0,0.0,0,23.03,3.16
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,49,64,1.0,10.0,0.0,0,22.63,6.42
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,49,69,1.0,10.0,0.0,0,18.74,3.93
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,49,69,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,49,69,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,49,69,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,49,69,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,49,69,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,49,69,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,49,69,1.0,10.0,0.0,0,20.93,1.01
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,49,69,1.0,10.0,0.0,0,19.62,4.96
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,49,64,1.0,10.0,0.0,0,21.68,5.48
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,49,69,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,49,69,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,49,69,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,49,69,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,49,64,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,49,64,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,49,64,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,49,64,1.0,10.0,0.0,0,20.46,2.8
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,44,69,1.0,10.0,0.0,0,19.52,1.96
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,44,69,1.0,10.0,0.0,0,22.19,5.51
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,39,54,1.0,10.0,0.0,0,19.52,1.96
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,39,64,1.0,10.0,0.0,0,20.93,1.01
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,39,69,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,39,69,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,39,69,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,39,69,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,39,69,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,39,69,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,39,64,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,39,64,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,39,64,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,39,64,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,39,64,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,39,64,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,39,64,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,39,64,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,39,64,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,39,64,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,39,64,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,39,64,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,19.82,5.48
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,39,69,1.0,10.0,0.0,0,21.95,1.51
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,39,69,1.0,10.0,0.0,0,21.17,2.3
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,39,74,1.0,10.0,0.0,0,22.19,5.51
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,39,74,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,39,74,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,39,74,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,39,74,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,39,74,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,39,74,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,39,74,1.0,10.0,0.0,0,18.33,1.91
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,39,69,1.0,10.0,0.0,0,19.96,2.24
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,39,69,1.0,10.0,0.0,0,18.28,2.46
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,39,69,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,39,69,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,39,69,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,39,69,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,39,69,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,39,69,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,39,69,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,39,69,1.0,10.0,0.0,0,24.68,2.94
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.82,5.48
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,39,64,1.0,10.0,0.0,0,18.74,3.93
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,39,74,1.0,10.0,0.0,0,18.28,2.46
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,39,64,1.0,10.0,0.0,0,19.62,4.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,39,59,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,39,59,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,39,54,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,39,54,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,39,54,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,39,54,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,39,54,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,39,54,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,39,54,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,39,54,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,39,54,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,39,54,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,39,54,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,39,54,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,39,54,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,39,54,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,39,54,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,39,54,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,39,59,1.0,10.0,0.0,0,19.52,1.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,39,59,1.0,10.0,0.0,0,20.14,2.49
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.62,4.96
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,39,59,1.0,10.0,0.0,0,21.68,5.48
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,39,64,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,39,64,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,39,64,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,39,64,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,39,59,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,39,59,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,39,59,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,39,59,1.0,10.0,0.0,0,20.46,2.8
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,39,59,1.0,10.0,0.0,0,22.63,6.42
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,39,59,1.0,10.0,0.0,0,18.74,3.93
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,39,59,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,39,59,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,39,59,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,39,59,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,39,59,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,39,59,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,39,59,1.0,10.0,0.0,0,20.93,1.01
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,39,74,1.0,10.0,0.0,0,21.17,2.3
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,39,74,1.0,10.0,0.0,0,24.68,2.94
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,44,64,1.0,10.0,0.0,0,19.96,2.24
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,44,54,1.0,10.0,0.0,0,20.46,2.8
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,44,59,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,44,59,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,44,59,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,44,59,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,44,59,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,44,59,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,44,59,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,44,59,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,44,59,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,44,59,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,44,59,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,44,59,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,44,59,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,44,59,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,44,59,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,44,59,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,44,54,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,44,54,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,44,59,1.0,10.0,0.0,0,19.38,2.41
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,44,59,1.0,10.0,0.0,0,23.87,3.1
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,44,59,1.0,10.0,0.0,0,19.96,2.24
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,44,64,1.0,10.0,0.0,0,18.28,2.46
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,44,64,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,44,64,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,44,64,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,44,64,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,44,64,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,44,64,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,44,64,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,44,64,1.0,10.0,0.0,0,24.68,2.94
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,44,64,1.0,10.0,0.0,0,21.17,2.3
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,44,64,1.0,10.0,0.0,0,22.19,5.51
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,44,64,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,44,64,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,44,64,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,44,64,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,44,64,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,44,64,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,44,64,1.0,10.0,0.0,0,18.33,1.91
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,44,54,1.0,10.0,0.0,0,19.38,2.41
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,44,54,1.0,10.0,0.0,0,21.68,5.48
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,39,74,1.0,10.0,0.0,0,18.73,2.88
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,44,54,1.0,10.0,0.0,0,22.63,6.42
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,39,79,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,39,79,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,39,79,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,39,79,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,39,79,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,39,79,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,39,79,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,39,79,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,39,79,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,39,79,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,39,79,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,39,74,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,39,74,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,39,74,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,39,74,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,39,74,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,39,74,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,39,74,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,39,79,1.0,10.0,0.0,0,18.73,2.88
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,39,79,1.0,10.0,0.0,0,23.03,3.16
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,120,14,39,79,1.0,10.0,0.0,0,22.63,6.42
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,120,14,44,54,1.0,10.0,0.0,0,18.74,3.93
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,120,14,44,54,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,120,14,44,54,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,120,14,44,54,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,120,14,44,54,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,120,14,44,54,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,120,14,44,54,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,120,14,44,54,1.0,10.0,0.0,0,20.93,1.01
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,120,14,44,54,1.0,10.0,0.0,0,19.62,4.96
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,120,14,39,79,1.0,10.0,0.0,0,21.68,5.48
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,120,14,44,54,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,120,14,44,54,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,44,54,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,44,54,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,39,79,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,120,14,39,79,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,120,14,39,79,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,120,14,39,79,1.0,10.0,0.0,0,20.46,2.8
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,120,14,24,54,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,120,14,24,54,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,49,79,1.0,10.0,0.0,0,19.96,2.24
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,29,79,1.0,10.0,0.0,0,18.74,3.93
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,34,54,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,34,54,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,34,54,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,34,54,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,34,54,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,29,79,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,29,79,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,29,79,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,29,79,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,29,79,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,29,79,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,29,79,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,29,79,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,29,79,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,29,79,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,29,79,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,29,79,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,34,54,1.0,10.0,0.0,0,20.93,1.01
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,19.82,5.48
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,34,54,1.0,10.0,0.0,0,21.95,1.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,34,54,1.0,10.0,0.0,0,19.96,2.24
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,34,59,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,34,59,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,34,59,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,34,59,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,34,59,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,34,59,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,34,59,1.0,10.0,0.0,0,22.19,5.51
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,34,54,1.0,10.0,0.0,0,23.87,3.1
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,34,54,1.0,10.0,0.0,0,21.17,2.3
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,34,54,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,34,54,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,34,54,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,34,54,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,34,54,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,34,54,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,34,54,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,34,54,1.0,10.0,0.0,0,18.28,2.46
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,29,79,1.0,10.0,0.0,0,20.93,1.01
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,29,79,1.0,10.0,0.0,0,19.62,4.96
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,34,59,1.0,10.0,0.0,0,21.17,2.3
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,29,79,1.0,10.0,0.0,0,20.14,2.49
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,29,74,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,29,69,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,29,69,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,29,69,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,29,69,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,29,69,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,29,69,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,29,69,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,29,69,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,29,69,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,29,69,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,29,69,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,29,69,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,29,69,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,29,69,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,29,69,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,29,69,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,29,69,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,29,74,1.0,10.0,0.0,0,18.33,1.91
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,29,74,1.0,10.0,0.0,0,19.52,1.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,29,74,1.0,10.0,0.0,0,20.14,2.49
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,29,74,1.0,10.0,0.0,0,22.63,6.42
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,29,79,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,29,79,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,29,79,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,29,74,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,29,74,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,29,74,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,29,74,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,29,74,1.0,10.0,0.0,0,21.68,5.48
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,29,74,1.0,10.0,0.0,0,23.03,3.16
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.62,4.96
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,29,74,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,29,74,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,29,74,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,29,74,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,29,74,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,29,74,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,29,74,1.0,10.0,0.0,0,18.74,3.93
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,34,59,1.0,10.0,0.0,0,21.95,1.51
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,34,59,1.0,10.0,0.0,0,18.28,2.46
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,29,69,1.0,10.0,0.0,0,22.19,5.51
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,34,69,1.0,10.0,0.0,0,21.68,5.48
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,34,74,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,34,74,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,34,74,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,34,74,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,34,74,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,34,74,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,34,74,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,34,74,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,34,74,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,34,74,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,34,74,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,34,74,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,34,74,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,34,74,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,34,74,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,34,69,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,34,69,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,34,69,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,34,74,1.0,10.0,0.0,0,20.46,2.8
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,34,74,1.0,10.0,0.0,0,19.38,2.41
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,34,74,1.0,10.0,0.0,0,23.87,3.1
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,34,79,1.0,10.0,0.0,0,21.17,2.3
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,34,79,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,34,79,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,34,79,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,34,79,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,34,79,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,34,79,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,34,79,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,34,79,1.0,10.0,0.0,0,18.28,2.46
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,34,79,1.0,10.0,0.0,0,21.95,1.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,34,74,1.0,10.0,0.0,0,19.96,2.24
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,34,79,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,34,79,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,34,79,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,34,79,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,34,79,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,34,79,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,34,79,1.0,10.0,0.0,0,22.19,5.51
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,34,69,1.0,10.0,0.0,0,20.46,2.8
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,34,69,1.0,10.0,0.0,0,22.63,6.42
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,34,59,1.0,10.0,0.0,0,24.68,2.94
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,34,69,1.0,10.0,0.0,0,23.03,3.16
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,34,64,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,34,64,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,34,64,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,34,64,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,34,64,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,34,64,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,34,64,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,34,64,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,34,64,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,34,64,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,34,59,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,34,59,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,34,59,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,34,59,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,34,59,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,34,59,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,34,59,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,34,59,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,34,64,1.0,10.0,0.0,0,24.68,2.94
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,34,64,1.0,10.0,0.0,0,18.73,2.88
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,34,64,1.0,10.0,0.0,0,23.03,3.16
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.62,4.96
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,34,69,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,34,69,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,34,69,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,34,69,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,34,69,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,34,69,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,34,69,1.0,10.0,0.0,0,18.74,3.93
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,34,69,1.0,10.0,0.0,0,20.14,2.49
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,34,64,1.0,10.0,0.0,0,22.63,6.42
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,34,69,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,34,69,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,34,69,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,34,64,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,34,64,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,34,64,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,34,64,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,34,64,1.0,10.0,0.0,0,21.68,5.48
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,29,69,1.0,10.0,0.0,0,18.33,1.91
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,29,64,1.0,10.0,0.0,0,19.96,2.24
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,34,79,1.0,10.0,0.0,0,19.96,2.24
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,24,64,1.0,10.0,0.0,0,18.74,3.93
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,24,69,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,24,69,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,24,69,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,24,69,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,24,69,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,24,64,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,24,64,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,24,64,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,24,64,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,24,64,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,24,64,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,24,64,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,24,64,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,24,64,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,24,64,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,24,64,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,24,64,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,24,69,1.0,10.0,0.0,0,20.93,1.01
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,24,69,1.0,10.0,0.0,0,19.82,5.48
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,24,69,1.0,10.0,0.0,0,21.95,1.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,24,69,1.0,10.0,0.0,0,19.96,2.24
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,24,74,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,24,74,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,24,74,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,24,74,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,24,74,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,24,74,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,24,74,1.0,10.0,0.0,0,22.19,5.51
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,24,69,1.0,10.0,0.0,0,23.87,3.1
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,24,69,1.0,10.0,0.0,0,21.17,2.3
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,24,69,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,24,69,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,24,69,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,24,69,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,24,69,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,24,69,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,24,69,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,24,69,1.0,10.0,0.0,0,18.28,2.46
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,24,64,1.0,10.0,0.0,0,20.93,1.01
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,24,64,1.0,10.0,0.0,0,19.62,4.96
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,24,74,1.0,10.0,0.0,0,21.17,2.3
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,24,64,1.0,10.0,0.0,0,20.14,2.49
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,24,59,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,24,54,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,24,54,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,24,54,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,24,54,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,24,54,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,24,54,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,24,54,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,24,54,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,24,54,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,24,54,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,24,54,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,24,54,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,24,54,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,24,54,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,24,54,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,24,54,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,24,54,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,24,59,1.0,10.0,0.0,0,18.33,1.91
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,24,59,1.0,10.0,0.0,0,19.52,1.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,24,59,1.0,10.0,0.0,0,20.14,2.49
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,24,59,1.0,10.0,0.0,0,22.63,6.42
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,24,64,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,24,64,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,24,64,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,24,59,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,24,59,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,24,59,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,24,59,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,24,59,1.0,10.0,0.0,0,21.68,5.48
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,24,59,1.0,10.0,0.0,0,23.03,3.16
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.62,4.96
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,24,59,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,24,59,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,24,59,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,24,59,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,24,59,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,24,59,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,24,59,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,24,59,1.0,10.0,0.0,0,18.74,3.93
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,24,74,1.0,10.0,0.0,0,21.95,1.51
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,24,74,1.0,10.0,0.0,0,18.28,2.46
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,29,64,1.0,10.0,0.0,0,23.87,3.1
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,29,54,1.0,10.0,0.0,0,21.68,5.48
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,29,59,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,29,59,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,29,59,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,29,59,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,29,59,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,29,59,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,29,59,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,29,59,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,29,59,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,29,59,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,29,59,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,29,59,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,29,59,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,29,59,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,29,59,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,29,54,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,29,54,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,29,54,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,29,59,1.0,10.0,0.0,0,20.46,2.8
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,29,59,1.0,10.0,0.0,0,19.38,2.41
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,29,59,1.0,10.0,0.0,0,23.87,3.1
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,29,64,1.0,10.0,0.0,0,21.17,2.3
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,29,64,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,29,64,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,29,64,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,29,64,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,29,64,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,29,64,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,29,64,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,29,64,1.0,10.0,0.0,0,18.28,2.46
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,29,64,1.0,10.0,0.0,0,21.95,1.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,29,59,1.0,10.0,0.0,0,19.96,2.24
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,29,64,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,29,64,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,29,64,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,29,64,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,29,64,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,29,64,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,29,64,1.0,10.0,0.0,0,22.19,5.51
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,29,54,1.0,10.0,0.0,0,20.46,2.8
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,29,54,1.0,10.0,0.0,0,22.63,6.42
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,24,74,1.0,10.0,0.0,0,24.68,2.94
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,29,54,1.0,10.0,0.0,0,23.03,3.16
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,24,79,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,24,79,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,24,79,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,24,79,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,24,79,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,24,79,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,24,79,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,24,79,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,24,79,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,24,79,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,24,74,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,24,74,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,24,74,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,24,74,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,24,74,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,24,74,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,24,74,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,24,74,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,24,79,1.0,10.0,0.0,0,24.68,2.94
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,24,79,1.0,10.0,0.0,0,18.73,2.88
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,24,79,1.0,10.0,0.0,0,23.03,3.16
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.62,4.96
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,29,54,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,29,54,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,29,54,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,29,54,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,29,54,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,29,54,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,29,54,1.0,10.0,0.0,0,18.74,3.93
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,29,54,1.0,10.0,0.0,0,20.14,2.49
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,24,79,1.0,10.0,0.0,0,22.63,6.42
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,29,54,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,29,54,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,29,54,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,24,79,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,24,79,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,24,79,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,24,79,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,24,79,1.0,10.0,0.0,0,21.68,5.48
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,34,79,1.0,10.0,0.0,0,23.87,3.1
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,39,54,1.0,10.0,0.0,0,22.19,5.51
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,49,79,1.0,10.0,0.0,0,23.87,3.1
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,44,79,1.0,10.0,0.0,0,18.74,3.93
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,49,54,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,49,54,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,49,54,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,49,54,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,49,54,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,44,79,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,44,79,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,44,79,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,44,79,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,44,79,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,44,79,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,44,79,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,44,79,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,44,79,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,44,79,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,44,79,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,44,79,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,49,54,1.0,10.0,0.0,0,20.93,1.01
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,19.82,5.48
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,49,54,1.0,10.0,0.0,0,21.95,1.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,49,54,1.0,10.0,0.0,0,19.96,2.24
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,49,59,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,49,59,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,49,59,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,49,59,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,49,59,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,49,59,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,49,59,1.0,10.0,0.0,0,22.19,5.51
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,49,54,1.0,10.0,0.0,0,23.87,3.1
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,49,54,1.0,10.0,0.0,0,21.17,2.3
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,49,54,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,49,54,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,49,54,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,49,54,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,49,54,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,49,54,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,49,54,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,49,54,1.0,10.0,0.0,0,18.28,2.46
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,44,79,1.0,10.0,0.0,0,20.93,1.01
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,44,79,1.0,10.0,0.0,0,19.62,4.96
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,49,59,1.0,10.0,0.0,0,21.17,2.3
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,44,79,1.0,10.0,0.0,0,20.14,2.49
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,44,74,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,44,69,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,44,69,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,44,69,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,44,69,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,44,69,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,44,69,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,44,69,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,44,69,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,44,69,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,44,69,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,44,69,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,44,69,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,44,69,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,44,69,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,44,69,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,44,69,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,44,69,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,44,74,1.0,10.0,0.0,0,18.33,1.91
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,44,74,1.0,10.0,0.0,0,19.52,1.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,44,74,1.0,10.0,0.0,0,20.14,2.49
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,44,74,1.0,10.0,0.0,0,22.63,6.42
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,44,79,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,44,79,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,44,79,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,44,74,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,44,74,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,44,74,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,44,74,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,44,74,1.0,10.0,0.0,0,21.68,5.48
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,44,74,1.0,10.0,0.0,0,23.03,3.16
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.62,4.96
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,44,74,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,44,74,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,44,74,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,44,74,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,44,74,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,44,74,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,44,74,1.0,10.0,0.0,0,18.74,3.93
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,49,59,1.0,10.0,0.0,0,21.95,1.51
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,49,59,1.0,10.0,0.0,0,18.28,2.46
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,44,69,1.0,10.0,0.0,0,22.19,5.51
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,49,69,1.0,10.0,0.0,0,21.68,5.48
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,49,74,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,49,74,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,49,74,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,49,74,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,49,74,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,49,74,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,49,74,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,49,74,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,49,74,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,49,74,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,49,74,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,49,74,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,49,74,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,49,74,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,49,74,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,49,69,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,49,69,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,49,69,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,49,74,1.0,10.0,0.0,0,20.46,2.8
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,49,74,1.0,10.0,0.0,0,19.38,2.41
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,49,74,1.0,10.0,0.0,0,23.87,3.1
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,49,79,1.0,10.0,0.0,0,21.17,2.3
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,49,79,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,49,79,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,49,79,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,49,79,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,49,79,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,49,79,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,49,79,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,49,79,1.0,10.0,0.0,0,18.28,2.46
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,49,79,1.0,10.0,0.0,0,21.95,1.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,49,74,1.0,10.0,0.0,0,19.96,2.24
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,49,79,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,49,79,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,49,79,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,49,79,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,49,79,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,49,79,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,49,79,1.0,10.0,0.0,0,22.19,5.51
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,49,69,1.0,10.0,0.0,0,20.46,2.8
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,49,69,1.0,10.0,0.0,0,22.63,6.42
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,49,59,1.0,10.0,0.0,0,24.68,2.94
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,49,69,1.0,10.0,0.0,0,23.03,3.16
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,49,64,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,49,64,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,49,64,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,49,64,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,49,64,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,49,64,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,49,64,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,49,64,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,49,64,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,49,64,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,49,59,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,49,59,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,49,59,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,49,59,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,49,59,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,49,59,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,49,59,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,49,59,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,49,64,1.0,10.0,0.0,0,24.68,2.94
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,49,64,1.0,10.0,0.0,0,18.73,2.88
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,49,64,1.0,10.0,0.0,0,23.03,3.16
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.62,4.96
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,49,69,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,49,69,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,49,69,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,49,69,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,49,69,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,49,69,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,49,69,1.0,10.0,0.0,0,18.74,3.93
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,49,69,1.0,10.0,0.0,0,20.14,2.49
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,49,64,1.0,10.0,0.0,0,22.63,6.42
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,49,69,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,49,69,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,49,69,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,49,64,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,49,64,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,49,64,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,49,64,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,49,64,1.0,10.0,0.0,0,21.68,5.48
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,44,69,1.0,10.0,0.0,0,18.33,1.91
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,44,64,1.0,10.0,0.0,0,19.96,2.24
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,39,54,1.0,10.0,0.0,0,18.33,1.91
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,39,64,1.0,10.0,0.0,0,18.74,3.93
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,39,69,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,39,69,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,39,69,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,39,69,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,39,69,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,39,64,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,39,64,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,39,64,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,39,64,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,39,64,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,39,64,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,39,64,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,39,64,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,39,64,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,39,64,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,39,64,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,39,64,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,39,69,1.0,10.0,0.0,0,20.93,1.01
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,19.82,5.48
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,39,69,1.0,10.0,0.0,0,21.95,1.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,39,69,1.0,10.0,0.0,0,19.96,2.24
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,39,74,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,39,74,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,39,74,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,39,74,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,39,74,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,39,74,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,39,74,1.0,10.0,0.0,0,22.19,5.51
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,39,69,1.0,10.0,0.0,0,23.87,3.1
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,39,69,1.0,10.0,0.0,0,21.17,2.3
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,39,69,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,39,69,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,39,69,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,39,69,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,39,69,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,39,69,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,39,69,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,39,69,1.0,10.0,0.0,0,18.28,2.46
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,39,64,1.0,10.0,0.0,0,20.93,1.01
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,39,64,1.0,10.0,0.0,0,19.62,4.96
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,39,74,1.0,10.0,0.0,0,21.17,2.3
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,39,64,1.0,10.0,0.0,0,20.14,2.49
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,39,59,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,39,54,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,39,54,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,39,54,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,39,54,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,39,54,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,39,54,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,39,54,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,39,54,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,39,54,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,39,54,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,39,54,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,39,54,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,39,54,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,39,54,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,39,54,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,39,54,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,39,54,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,39,59,1.0,10.0,0.0,0,18.33,1.91
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,39,59,1.0,10.0,0.0,0,19.52,1.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,39,59,1.0,10.0,0.0,0,20.14,2.49
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,39,59,1.0,10.0,0.0,0,22.63,6.42
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,39,64,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,39,64,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,39,64,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,39,59,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,39,59,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,39,59,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,39,59,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,39,59,1.0,10.0,0.0,0,21.68,5.48
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,39,59,1.0,10.0,0.0,0,23.03,3.16
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.62,4.96
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,39,59,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,39,59,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,39,59,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,39,59,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,39,59,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,39,59,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,39,59,1.0,10.0,0.0,0,18.74,3.93
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,39,74,1.0,10.0,0.0,0,21.95,1.51
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,39,74,1.0,10.0,0.0,0,18.28,2.46
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,44,64,1.0,10.0,0.0,0,23.87,3.1
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,44,54,1.0,10.0,0.0,0,21.68,5.48
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,44,59,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,44,59,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,44,59,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,44,59,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,44,59,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,44,59,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,44,59,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,44,59,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,44,59,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,44,59,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,44,59,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,44,59,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,44,59,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,44,59,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,44,59,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,44,54,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,44,54,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,44,54,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,44,59,1.0,10.0,0.0,0,20.46,2.8
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,44,59,1.0,10.0,0.0,0,19.38,2.41
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,44,59,1.0,10.0,0.0,0,23.87,3.1
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,44,64,1.0,10.0,0.0,0,21.17,2.3
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,44,64,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,44,64,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,44,64,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,44,64,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,44,64,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,44,64,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,44,64,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,44,64,1.0,10.0,0.0,0,18.28,2.46
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,44,64,1.0,10.0,0.0,0,21.95,1.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,44,59,1.0,10.0,0.0,0,19.96,2.24
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,44,64,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,44,64,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,44,64,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,44,64,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,44,64,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,44,64,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,44,64,1.0,10.0,0.0,0,22.19,5.51
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,44,54,1.0,10.0,0.0,0,20.46,2.8
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,44,54,1.0,10.0,0.0,0,22.63,6.42
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,39,74,1.0,10.0,0.0,0,24.68,2.94
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,44,54,1.0,10.0,0.0,0,23.03,3.16
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,39,79,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,39,79,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,39,79,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,39,79,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,39,79,1.0,10.0,0.0,0,18.74,3.93
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,39,79,1.0,10.0,0.0,0,19.62,4.96
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,39,79,1.0,10.0,0.0,0,20.14,2.49
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,39,79,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,39,79,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,39,79,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,39,74,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,39,74,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,39,74,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,39,74,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,39,74,1.0,10.0,0.0,0,21.68,5.48
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,39,74,1.0,10.0,0.0,0,22.63,6.42
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,39,74,1.0,10.0,0.0,0,23.03,3.16
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,39,74,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,39,79,1.0,10.0,0.0,0,24.68,2.94
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,39,79,1.0,10.0,0.0,0,18.73,2.88
+65,XAPR.K,FT Vest US Equity Enh & Mod Buffer ETF - Apr,5,60,14,39,79,1.0,10.0,0.0,0,23.03,3.16
+65,FLJJ.K,AllianzIM US Equity 6 Month Floor5 Jan/Jul ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.62,4.96
+65,XMAY.K,FT Vest US Equity Enh & Mod Buffer ETF - May,5,60,14,44,54,1.0,10.0,0.0,0,18.73,2.88
+65,DECP.K,PGIM US Large-Cap Buffer 12 ETF - December,5,60,14,44,54,1.0,10.0,0.0,0,24.68,2.94
+65,PBOC.K,PGIM US Large-Cap Buffer 20 ETF - October,5,60,14,44,54,1.0,10.0,0.0,0,18.28,2.46
+65,JULP.K,PGIM US Large Cap Buffer 12 ETF - July,5,60,14,44,54,1.0,10.0,0.0,0,21.17,2.3
+65,PBFR.K,PGIM Laddered Fund of Buffer 20 ETF,5,60,14,44,54,1.0,10.0,0.0,0,21.95,1.51
+65,PHEQ.K,Parametric Hedged Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,19.82,5.48
+65,XIJN.K,FT Vest US Eqty Buff & Prem Inc ETF - Jun,5,60,14,44,54,1.0,10.0,0.0,0,20.93,1.01
+65,GOCT.K,FT Vest US Equity Moderate Buffer ETF - Oct,5,60,14,44,54,1.0,10.0,0.0,0,18.74,3.93
+65,CPSM.K,Calamos S&P 500 Structured Alt Prtctn ETF - May,5,60,14,44,54,1.0,10.0,0.0,0,20.14,2.49
+65,INOV.K,Innovator Intl Developed Power Buffer ETF - Nov,5,60,14,39,79,1.0,10.0,0.0,0,22.63,6.42
+65,PBJL.K,PGIM US Large Cap Buffer 20 ETF - July,5,60,14,44,54,1.0,10.0,0.0,0,19.52,1.96
+65,JUNM.K,FT Vest US Equity Max Buffer ETF - Jun,5,60,14,44,54,1.0,10.0,0.0,0,18.33,1.91
+65,CGHM.K,Capital Group Municipal High Income ETF,5,60,14,44,54,1.0,10.0,0.0,0,22.19,5.51
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,60,14,39,79,1.0,10.0,0.0,0,19.96,2.24
+65,NOVP.K,PGIM US Large-Cap Buffer 12 ETF - November,5,60,14,39,79,1.0,10.0,0.0,0,23.87,3.1
+65,PBNV.K,PGIM US Large-Cap Buffer 20 ETF - November,5,60,14,39,79,1.0,10.0,0.0,0,19.38,2.41
+65,OCTP.K,PGIM US Large-Cap Buffer 12 ETF - October,5,60,14,39,79,1.0,10.0,0.0,0,20.46,2.8
+65,JANP.K,PGIM US Large-Cap Buffer 12 ETF - January,5,60,14,39,79,1.0,10.0,0.0,0,21.68,5.48
+65,PBDE.K,PGIM US Large-Cap Buffer 20 ETF - December,5,120,14,49,79,1.0,10.0,0.0,0,19.96,2.24

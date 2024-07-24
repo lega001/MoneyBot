@@ -1,0 +1,577 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,24,54,1.0,10.0,0.0,0,54.95,10.09
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,29,79,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,29,79,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,29,79,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,34,54,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,34,54,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,34,54,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,34,54,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,34,54,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,34,54,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,34,59,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,34,59,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,29,79,1.0,10.0,0.0,0,55.28,10.17
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,29,79,1.0,10.0,0.0,0,58.51,6.45
+27,GRW,TCW Compounders ETF,5,120,14,29,79,1.0,10.0,0.0,0,54.95,10.09
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,29,69,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,29,69,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,29,69,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,29,69,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,29,69,1.0,10.0,0.0,0,55.79,11.94
+27,GRW,TCW Compounders ETF,5,120,14,29,74,1.0,10.0,0.0,0,54.95,10.09
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,29,79,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,29,74,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,29,74,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,29,74,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,29,74,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,29,74,1.0,10.0,0.0,0,55.79,11.94
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,34,59,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,34,59,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,34,74,1.0,10.0,0.0,0,55.79,11.94
+27,GRW,TCW Compounders ETF,5,120,14,34,74,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,34,74,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,34,74,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,34,74,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,34,74,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0,55.42,14.01
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,34,69,1.0,10.0,0.0,0,55.79,11.94
+27,GRW,TCW Compounders ETF,5,120,14,34,79,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,34,79,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,34,79,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,34,79,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,34,79,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,34,79,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0,55.42,14.01
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,34,69,1.0,10.0,0.0,0,58.56,5.9
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,34,59,1.0,10.0,0.0,0,58.56,5.9
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,34,64,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,34,59,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,34,64,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,34,64,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,34,64,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,34,64,1.0,10.0,0.0,0,58.56,5.9
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,34,69,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,34,64,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,34,69,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,34,69,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,34,69,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0,53.08,9.44
+27,GRW,TCW Compounders ETF,5,120,14,29,69,1.0,10.0,0.0,0,54.95,10.09
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0,55.42,14.01
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,29,64,1.0,10.0,0.0,0,55.79,11.94
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,24,69,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,24,64,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,24,64,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,24,64,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,24,69,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,24,69,1.0,10.0,0.0,0,55.28,10.17
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,24,64,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,24,69,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,24,69,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,24,69,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,24,69,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,24,74,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,24,64,1.0,10.0,0.0,0,55.28,10.17
+27,GRW,TCW Compounders ETF,5,120,14,24,64,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,24,74,1.0,10.0,0.0,0,55.28,10.17
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,24,54,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,24,54,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,24,54,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,24,54,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,24,54,1.0,10.0,0.0,0,55.79,11.94
+27,GRW,TCW Compounders ETF,5,120,14,24,59,1.0,10.0,0.0,0,54.95,10.09
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,24,64,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,24,59,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,24,59,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,24,59,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,24,59,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,24,59,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,24,59,1.0,10.0,0.0,0,55.79,11.94
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,24,74,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,24,74,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,29,64,1.0,10.0,0.0,0,58.56,5.9
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,29,59,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,29,59,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,29,59,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,29,59,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,29,59,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,29,59,1.0,10.0,0.0,0,55.79,11.94
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,29,54,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,29,64,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,29,64,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,29,64,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,29,64,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,29,54,1.0,10.0,0.0,0,55.79,11.94
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,29,54,1.0,10.0,0.0,0,55.73,12.97
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,24,74,1.0,10.0,0.0,0,55.73,12.97
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,24,74,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,24,74,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,24,79,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,24,79,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,24,79,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,24,79,1.0,10.0,0.0,0,55.28,10.17
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,24,79,1.0,10.0,0.0,0,55.73,12.97
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,24,79,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,24,79,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,29,54,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,29,54,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,29,54,1.0,10.0,0.0,0,55.28,10.17
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,34,79,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,39,54,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,49,54,1.0,10.0,0.0,0,55.28,10.17
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,44,79,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,44,79,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,44,79,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,49,54,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,49,54,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,49,54,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,49,54,1.0,10.0,0.0,0,53.08,9.44
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,44,79,1.0,10.0,0.0,0,55.28,10.17
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,49,54,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,49,54,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,49,54,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,49,59,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,49,59,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,49,59,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0,53.08,9.44
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,44,79,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,49,59,1.0,10.0,0.0,0,53.08,9.44
+27,GRW,TCW Compounders ETF,5,120,14,44,74,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,44,69,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,44,69,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,44,69,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,44,69,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,44,74,1.0,10.0,0.0,0,58.51,6.45
+27,GRW,TCW Compounders ETF,5,120,14,44,79,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,44,74,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,44,74,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,44,74,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,44,74,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,44,79,1.0,10.0,0.0,0,55.42,14.01
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,49,59,1.0,10.0,0.0,0,55.28,10.17
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,49,59,1.0,10.0,0.0,0,55.73,12.97
+27,GRW,TCW Compounders ETF,5,120,14,44,69,1.0,10.0,0.0,0,54.95,10.09
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,49,74,1.0,10.0,0.0,0,55.79,11.94
+27,GRW,TCW Compounders ETF,5,120,14,49,74,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,49,74,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,49,74,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,49,74,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,49,74,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,49,74,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,49,79,1.0,10.0,0.0,0,55.42,14.01
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,49,69,1.0,10.0,0.0,0,55.79,11.94
+27,GRW,TCW Compounders ETF,5,120,14,49,79,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,49,79,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,49,79,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,49,79,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,49,79,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,49,79,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,49,74,1.0,10.0,0.0,0,55.42,14.01
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,49,69,1.0,10.0,0.0,0,58.56,5.9
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,49,59,1.0,10.0,0.0,0,58.56,5.9
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,49,64,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,49,59,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,49,64,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,49,64,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,49,64,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,49,64,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,49,64,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,49,64,1.0,10.0,0.0,0,58.56,5.9
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,49,69,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,49,64,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,49,69,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,49,69,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,49,69,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,49,69,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,49,69,1.0,10.0,0.0,0,53.08,9.44
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,44,69,1.0,10.0,0.0,0,58.51,6.45
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,39,54,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,39,69,1.0,10.0,0.0,0,55.28,10.17
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,39,64,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,39,64,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,39,64,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,39,69,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,39,69,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0,53.08,9.44
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,39,64,1.0,10.0,0.0,0,55.28,10.17
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,39,69,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,39,69,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,39,69,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,39,74,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,39,74,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0,53.08,9.44
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,39,64,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0,53.08,9.44
+27,GRW,TCW Compounders ETF,5,120,14,39,59,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,39,54,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,39,54,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,39,54,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,39,54,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,39,59,1.0,10.0,0.0,0,58.51,6.45
+27,GRW,TCW Compounders ETF,5,120,14,39,64,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,39,59,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,39,59,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,39,59,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,39,59,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0,55.42,14.01
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,39,74,1.0,10.0,0.0,0,55.28,10.17
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,39,74,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,44,64,1.0,10.0,0.0,0,55.79,11.94
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,44,59,1.0,10.0,0.0,0,55.79,11.94
+27,GRW,TCW Compounders ETF,5,120,14,44,59,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,44,59,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,44,59,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,44,59,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,44,59,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0,55.42,14.01
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,44,54,1.0,10.0,0.0,0,55.79,11.94
+27,GRW,TCW Compounders ETF,5,120,14,44,64,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,44,64,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,44,64,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,44,64,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,44,64,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0,55.42,14.01
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,44,54,1.0,10.0,0.0,0,58.56,5.9
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,39,74,1.0,10.0,0.0,0,58.56,5.9
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,39,79,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,39,74,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,39,79,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,39,79,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,39,79,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,39,79,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,120,14,39,79,1.0,10.0,0.0,0,58.56,5.9
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,120,14,44,54,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,39,79,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,120,14,44,54,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,44,54,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,120,14,44,54,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0,53.08,9.44
+27,GRW,TCW Compounders ETF,5,120,14,24,54,1.0,10.0,0.0,0,54.95,10.09
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,120,14,24,54,1.0,10.0,0.0,0,55.42,14.01
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,49,79,1.0,10.0,0.0,0,55.79,11.94
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,34,54,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,29,79,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,29,79,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,29,79,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,34,54,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,34,54,1.0,10.0,0.0,0,55.28,10.17
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,29,79,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,34,54,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,34,54,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,34,54,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,34,59,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,29,79,1.0,10.0,0.0,0,55.28,10.17
+27,GRW,TCW Compounders ETF,5,60,14,29,79,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,34,59,1.0,10.0,0.0,0,55.28,10.17
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,29,69,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,29,69,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,29,69,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,29,69,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,29,69,1.0,10.0,0.0,0,55.79,11.94
+27,GRW,TCW Compounders ETF,5,60,14,29,74,1.0,10.0,0.0,0,54.95,10.09
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,29,79,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,29,74,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,29,74,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,29,74,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,29,74,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,29,74,1.0,10.0,0.0,0,55.79,11.94
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,34,59,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0,53.08,9.44
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0,55.42,14.01
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,34,74,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,34,74,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,34,74,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,34,74,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,34,74,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,34,74,1.0,10.0,0.0,0,55.79,11.94
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,34,69,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,34,79,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,34,79,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,34,79,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,34,79,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,34,79,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,34,69,1.0,10.0,0.0,0,55.79,11.94
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,34,69,1.0,10.0,0.0,0,55.73,12.97
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,34,59,1.0,10.0,0.0,0,55.73,12.97
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,34,59,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,34,59,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,34,64,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,34,64,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,34,64,1.0,10.0,0.0,0,55.28,10.17
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,34,64,1.0,10.0,0.0,0,55.73,12.97
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,34,64,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,34,64,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,34,69,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,34,69,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,34,69,1.0,10.0,0.0,0,55.28,10.17
+27,GRW,TCW Compounders ETF,5,60,14,29,69,1.0,10.0,0.0,0,54.95,10.09
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,29,64,1.0,10.0,0.0,0,55.79,11.94
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,34,79,1.0,10.0,0.0,0,55.79,11.94
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,24,69,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,24,64,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,24,64,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,24,64,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,24,69,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,24,69,1.0,10.0,0.0,0,55.28,10.17
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,24,64,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,24,69,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,24,69,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,24,69,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,24,69,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,24,74,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,24,64,1.0,10.0,0.0,0,55.28,10.17
+27,GRW,TCW Compounders ETF,5,60,14,24,64,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,24,74,1.0,10.0,0.0,0,55.28,10.17
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,24,54,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,24,54,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,24,54,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,24,54,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,24,54,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,24,54,1.0,10.0,0.0,0,55.79,11.94
+27,GRW,TCW Compounders ETF,5,60,14,24,59,1.0,10.0,0.0,0,54.95,10.09
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,24,64,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,24,59,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,24,59,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,24,59,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,24,59,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,24,59,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,24,59,1.0,10.0,0.0,0,55.79,11.94
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,24,74,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,24,74,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,29,64,1.0,10.0,0.0,0,58.56,5.9
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,29,59,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,29,59,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,29,59,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,29,59,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,29,59,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,29,59,1.0,10.0,0.0,0,55.79,11.94
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,29,54,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,29,64,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,29,64,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,29,64,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,29,64,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,29,54,1.0,10.0,0.0,0,55.79,11.94
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,29,54,1.0,10.0,0.0,0,55.73,12.97
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,24,74,1.0,10.0,0.0,0,55.73,12.97
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,24,74,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,24,74,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,24,79,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,24,79,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,24,79,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,24,79,1.0,10.0,0.0,0,55.28,10.17
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,24,79,1.0,10.0,0.0,0,55.73,12.97
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,24,79,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,24,79,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,29,54,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,29,54,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,29,54,1.0,10.0,0.0,0,55.28,10.17
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,34,79,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0,55.42,14.01
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,49,79,1.0,10.0,0.0,0,58.56,5.9
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,49,54,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,44,79,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,44,79,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,44,79,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,44,79,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,49,54,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,49,54,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,49,54,1.0,10.0,0.0,0,55.28,10.17
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,44,79,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,49,54,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,49,54,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,49,54,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,49,54,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,49,59,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,49,59,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,44,79,1.0,10.0,0.0,0,55.28,10.17
+27,GRW,TCW Compounders ETF,5,60,14,44,79,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,49,59,1.0,10.0,0.0,0,55.28,10.17
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,44,74,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,44,69,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,44,69,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,44,69,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,44,69,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,44,69,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,44,69,1.0,10.0,0.0,0,55.79,11.94
+27,GRW,TCW Compounders ETF,5,60,14,44,74,1.0,10.0,0.0,0,54.95,10.09
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,44,79,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,44,74,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,44,74,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,44,74,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,44,74,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,44,74,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,44,74,1.0,10.0,0.0,0,55.79,11.94
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,49,59,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,49,59,1.0,10.0,0.0,0,53.08,9.44
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,44,69,1.0,10.0,0.0,0,55.42,14.01
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,49,74,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,49,74,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,49,74,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,49,74,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,49,74,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,49,74,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,49,74,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,49,74,1.0,10.0,0.0,0,55.79,11.94
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,49,69,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,49,79,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,49,79,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,49,79,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,49,79,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,49,79,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,49,79,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,49,69,1.0,10.0,0.0,0,55.79,11.94
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,49,69,1.0,10.0,0.0,0,55.73,12.97
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,49,59,1.0,10.0,0.0,0,55.73,12.97
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,49,64,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,49,59,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,49,59,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,49,64,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,49,64,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,49,64,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,49,64,1.0,10.0,0.0,0,55.28,10.17
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,49,64,1.0,10.0,0.0,0,55.73,12.97
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,49,69,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,49,64,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,49,64,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,49,69,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,49,69,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,49,69,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,49,69,1.0,10.0,0.0,0,55.28,10.17
+27,GRW,TCW Compounders ETF,5,60,14,44,69,1.0,10.0,0.0,0,54.95,10.09
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,44,64,1.0,10.0,0.0,0,55.79,11.94
+27,GRW,TCW Compounders ETF,5,60,14,39,54,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,39,69,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,39,64,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,39,64,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,39,64,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,39,69,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,39,69,1.0,10.0,0.0,0,55.28,10.17
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,39,64,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,39,69,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,39,69,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,39,69,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,39,74,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,39,64,1.0,10.0,0.0,0,55.28,10.17
+27,GRW,TCW Compounders ETF,5,60,14,39,64,1.0,10.0,0.0,0,54.95,10.09
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,39,74,1.0,10.0,0.0,0,55.28,10.17
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,39,54,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,39,54,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,39,54,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,39,54,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,39,54,1.0,10.0,0.0,0,55.79,11.94
+27,GRW,TCW Compounders ETF,5,60,14,39,59,1.0,10.0,0.0,0,54.95,10.09
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0,55.42,14.01
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,39,59,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,39,59,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,39,59,1.0,10.0,0.0,0,55.73,12.97
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,39,59,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,39,59,1.0,10.0,0.0,0,55.79,11.94
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,39,74,1.0,10.0,0.0,0,58.51,6.45
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,44,64,1.0,10.0,0.0,0,58.56,5.9
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,44,59,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,44,59,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,44,59,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,44,59,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,44,59,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,44,59,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,44,59,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,44,59,1.0,10.0,0.0,0,55.79,11.94
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,44,54,1.0,10.0,0.0,0,58.56,5.9
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,44,64,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,44,64,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,44,64,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,44,64,1.0,10.0,0.0,0,55.28,10.17
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,44,64,1.0,10.0,0.0,0,53.08,9.44
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,44,64,1.0,10.0,0.0,0,55.73,12.97
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,44,54,1.0,10.0,0.0,0,55.79,11.94
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,44,54,1.0,10.0,0.0,0,55.73,12.97
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,39,74,1.0,10.0,0.0,0,55.73,12.97
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,39,74,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,39,74,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,39,79,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,39,79,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,39,79,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,39,79,1.0,10.0,0.0,0,55.28,10.17
+27,JHAC.K,John Hancock Fundamental All Cap Core ETF,5,60,14,39,79,1.0,10.0,0.0,0,55.73,12.97
+27,LRGG.K,Macquarie Focused Large Growth ETF,5,60,14,44,54,1.0,10.0,0.0,0,53.08,9.44
+27,JNEU.K,AllianzIM US Equity Buffer15 Uncapped Jun ETF,5,60,14,39,79,1.0,10.0,0.0,0,58.56,5.9
+27,BWTG.K,Brendan Wood TopGun ETF,5,60,14,39,79,1.0,10.0,0.0,0,55.79,11.94
+27,FELG.K,Fidelity Enhanced Large Cap Growth ETF,5,60,14,44,54,1.0,10.0,0.0,0,55.42,14.01
+27,GRW,TCW Compounders ETF,5,60,14,44,54,1.0,10.0,0.0,0,54.95,10.09
+27,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,44,54,1.0,10.0,0.0,0,58.51,6.45
+27,THNR.K,Amplify Weight Loss Drug & Treatment ETF,5,60,14,44,54,1.0,10.0,0.0,0,55.28,10.17
+27,BWTG.K,Brendan Wood TopGun ETF,5,120,14,49,79,1.0,10.0,0.0,0,55.79,11.94

@@ -1,0 +1,1369 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,9.16,3.21
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,49,64,1.0,10.0,0.76,0.0,9.92,3.36
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,49,64,1.0,10.0,0.76,14.43,5.54,2.9
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,7.94,4.54
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,5.29,3.21
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,8.28,2.93
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,4.75,1.78
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,9.14,4.42
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,5.58,3.39
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,49,64,1.0,10.0,0.76,0.0,9.47,3.05
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,49,64,1.0,10.0,0.76,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,5.12,0.4
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,5.87,4.25
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,7.3,3.52
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,8.61,4.96
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,8.05,0.69
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,49,64,1.0,10.0,0.76,0.0,7.39,4.79
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,8.05,0.69
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,5.58,3.39
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,49,64,1.0,10.0,0.74,14.08,5.54,2.9
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,7.94,4.54
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,5.29,3.21
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,8.28,2.93
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,4.75,1.78
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,9.14,4.42
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,49,64,1.0,10.0,0.74,0.0,9.92,3.36
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,49,64,1.0,10.0,0.74,0.0,8.49,3.64
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,49,64,1.0,10.0,0.74,0.0,9.47,3.05
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,5.87,4.25
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,7.3,3.52
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,8.61,4.96
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,9.16,3.21
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,49,64,1.0,10.0,0.74,0.0,7.39,4.79
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,8.61,4.96
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,9.16,3.21
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,49,54,1.0,10.0,0.69,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,49,54,1.0,10.0,0.69,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,8.28,2.93
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,49,54,1.0,10.0,0.69,13.13,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,49,54,1.0,10.0,0.69,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,5.12,0.4
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,8.61,4.96
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,9.16,3.21
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,8.05,0.69
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,49,59,1.0,10.0,0.69,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,49,59,1.0,10.0,0.69,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,49,59,1.0,10.0,0.69,13.13,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,49,59,1.0,10.0,0.69,0.0,8.49,3.64
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,49,59,1.0,10.0,0.69,0.0,7.3,3.52
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,49,54,1.0,10.0,0.69,0.0,5.29,3.21
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,8.05,0.69
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,8.05,0.69
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,49,54,1.0,10.0,0.58,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,49,54,1.0,10.0,0.58,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,49,54,1.0,10.0,0.58,11.04,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,7.39,4.79
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,9.16,3.21
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,5.12,0.4
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,49,54,1.0,10.0,0.58,0.0,5.12,0.4
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,49,59,1.0,10.0,0.58,0.0,8.49,3.64
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,49,59,1.0,10.0,0.58,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,49,59,1.0,10.0,0.58,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,49,59,1.0,10.0,0.58,11.04,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,49,54,1.0,10.0,0.58,0.0,8.49,3.64
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,49,59,1.0,10.0,0.58,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,7.3,3.52
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,9.16,3.21
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,8.05,0.69
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,49,74,1.0,10.0,0.56,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,49,74,1.0,10.0,0.56,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,49,74,1.0,10.0,0.56,10.68,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,49,74,1.0,10.0,0.56,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,5.12,0.4
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,49,74,1.0,10.0,0.56,0.0,5.87,4.25
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,9.16,3.21
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,8.05,0.69
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,49,74,1.0,10.0,0.54,0.0,8.49,3.64
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,9.14,4.42
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,7.39,4.79
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,49,74,1.0,10.0,0.54,10.3,5.54,2.9
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,7.94,4.54
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,5.29,3.21
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,8.28,2.93
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,4.75,1.78
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,5.58,3.39
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,8.61,4.96
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,49,74,1.0,10.0,0.54,0.0,9.92,3.36
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,49,74,1.0,10.0,0.54,0.0,9.47,3.05
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,5.87,4.25
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,7.3,3.52
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,49,74,1.0,10.0,0.54,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,8.05,0.69
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,8.61,4.96
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,4.75,1.78
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,49,79,1.0,10.0,0.54,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,49,79,1.0,10.0,0.54,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,9.14,4.42
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,8.28,2.93
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,8.05,0.69
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,7.94,4.54
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,5.12,0.4
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,49,79,1.0,10.0,0.54,10.28,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,49,79,1.0,10.0,0.54,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,5.12,0.4
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,7.3,3.52
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,9.16,3.21
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,49,79,1.0,10.0,0.54,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,8.61,4.96
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,49,69,1.0,10.0,0.54,0.0,8.49,3.64
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,7.39,4.79
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,49,69,1.0,10.0,0.54,10.18,5.54,2.9
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,7.94,4.54
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,5.29,3.21
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,8.28,2.93
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,4.75,1.78
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,9.14,4.42
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,5.58,3.39
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,49,69,1.0,10.0,0.54,0.0,9.92,3.36
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,49,69,1.0,10.0,0.54,0.0,9.47,3.05
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,5.87,4.25
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,49,69,1.0,10.0,0.54,0.0,7.3,3.52
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,7.94,4.54
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,8.28,2.93
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,5.12,0.4
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,49,79,1.0,10.0,0.52,0.0,8.49,3.64
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,49,79,1.0,10.0,0.52,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,49,79,1.0,10.0,0.52,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,4.75,1.78
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,5.29,3.21
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,49,79,1.0,10.0,0.52,9.92,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,49,79,1.0,10.0,0.52,0.0,7.39,4.79
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,49,69,1.0,10.0,0.48,9.16,5.54,2.9
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,7.94,4.54
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,9.14,4.42
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,49,69,1.0,10.0,0.48,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,5.12,0.4
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,4.75,1.78
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,5.87,4.25
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,5.58,3.39
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,49,69,1.0,10.0,0.48,0.0,9.47,3.05
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,9.39,0.42
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,7.3,3.52
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,8.61,4.96
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,9.16,3.21
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,49,69,1.0,10.0,0.48,0.0,8.05,0.69
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,49,69,1.0,10.0,0.48,0.0,9.92,3.36
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,9.16,3.21
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,29,74,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,8.05,0.69
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.87,4.25
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,7.3,3.52
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,7.94,4.54
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,9.39,0.42
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.54,2.9
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,9.14,4.42
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.29,3.21
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,8.28,2.93
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.75,1.78
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,29,69,1.0,10.0,0.0,0.0,9.47,3.05
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.58,3.39
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,29,74,1.0,10.0,0.0,0.0,9.92,3.36
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,29,74,1.0,10.0,0.0,0.0,9.47,3.05
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.87,4.25
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.2,2.02
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,8.28,2.93
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,29,69,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.58,3.39
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.75,1.78
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,9.14,4.42
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.58,3.39
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,29,64,1.0,10.0,0.0,0.0,9.92,3.36
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,29,64,1.0,10.0,0.0,0.0,9.47,3.05
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.87,4.25
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,7.3,3.52
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,8.61,4.96
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,9.16,3.21
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,8.05,0.69
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.12,0.4
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,29,69,1.0,10.0,0.0,0.0,8.49,3.64
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,7.39,4.79
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.54,2.9
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,7.94,4.54
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.29,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,8.61,4.96
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.75,1.78
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,9.14,4.42
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,7.3,3.52
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,29,79,1.0,10.0,0.0,0.0,8.49,3.64
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,8.28,2.93
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,4.75,1.78
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,9.14,4.42
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,5.58,3.39
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,34,54,1.0,10.0,0.0,0.0,9.92,3.36
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,34,54,1.0,10.0,0.0,0.0,9.47,3.05
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,5.87,4.25
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,7.3,3.52
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,9.16,3.21
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,8.05,0.69
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,8.05,0.69
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,5.12,0.4
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,34,59,1.0,10.0,0.0,0.0,8.49,3.64
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,7.39,4.79
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,5.54,2.9
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,7.94,4.54
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,5.29,3.21
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,8.28,2.93
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,4.75,1.78
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,9.14,4.42
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,7.39,4.79
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,5.12,0.4
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.29,3.21
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,7.39,4.79
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,5.54,2.9
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,7.94,4.54
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,5.29,3.21
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,8.28,2.93
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,4.75,1.78
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,9.14,4.42
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,5.58,3.39
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,29,79,1.0,10.0,0.0,0.0,9.92,3.36
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,29,79,1.0,10.0,0.0,0.0,9.47,3.05
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,5.87,4.25
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,7.3,3.52
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,8.61,4.96
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,9.16,3.21
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,8.05,0.69
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,5.12,0.4
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,34,54,1.0,10.0,0.0,0.0,8.49,3.64
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,8.28,2.93
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,29,64,1.0,10.0,0.0,0.0,8.49,3.64
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,7.94,4.54
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,8.61,4.96
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,24,74,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,24,74,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,24,74,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,9.39,0.42
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,7.3,3.52
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,9.16,3.21
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,24,69,1.0,10.0,0.0,0.0,9.47,3.05
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,8.05,0.69
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,34,59,1.0,10.0,0.0,0.0,9.92,3.36
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,24,79,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,24,79,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,24,79,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,5.12,0.4
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,6.2,2.02
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,24,69,1.0,10.0,0.0,0.0,9.92,3.36
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.54,2.9
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,9.16,3.21
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.12,0.4
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,29,59,1.0,10.0,0.0,0.0,8.49,3.64
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,7.39,4.79
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.54,2.9
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,7.94,4.54
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.29,3.21
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,8.28,2.93
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.75,1.78
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,9.14,4.42
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.58,3.39
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,29,59,1.0,10.0,0.0,0.0,9.92,3.36
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,29,59,1.0,10.0,0.0,0.0,9.47,3.05
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.87,4.25
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,7.3,3.52
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,8.61,4.96
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,9.16,3.21
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,8.05,0.69
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.12,0.4
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,7.39,4.79
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,8.05,0.69
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,8.61,4.96
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,5.58,3.39
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,7.3,3.52
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,29,54,1.0,10.0,0.0,0.0,8.49,3.64
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,7.39,4.79
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.54,2.9
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,7.94,4.54
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.29,3.21
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,8.28,2.93
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.75,1.78
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,9.14,4.42
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.58,3.39
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,29,54,1.0,10.0,0.0,0.0,9.92,3.36
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,29,54,1.0,10.0,0.0,0.0,9.47,3.05
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.87,4.25
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,5.58,3.39
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,34,74,1.0,10.0,0.0,0.0,9.92,3.36
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,34,59,1.0,10.0,0.0,0.0,9.47,3.05
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,9.14,4.42
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,44,54,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,44,54,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,5.58,3.39
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,4.75,1.78
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,9.16,3.21
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,44,54,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,5.12,0.4
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,8.61,4.96
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,44,54,1.0,10.0,0.0,0.0,8.05,0.69
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,8.61,4.96
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,5.58,3.39
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,44,59,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,44,59,1.0,10.0,0.0,0.0,9.92,3.36
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,9.14,4.42
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,5.12,0.4
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,44,59,1.0,10.0,0.0,0.0,8.49,3.64
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,8.61,4.96
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,4.75,1.78
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,39,74,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,39,74,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,9.14,4.42
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,8.28,2.93
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,7.3,3.52
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,39,74,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,8.05,0.69
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,7.3,3.52
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,8.61,4.96
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,9.16,3.21
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,8.05,0.69
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,39,79,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,39,79,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,39,79,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,39,79,1.0,10.0,0.0,0.0,5.12,0.4
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,9.16,3.21
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,44,59,1.0,10.0,0.0,0.0,8.05,0.69
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,5.12,0.4
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,44,74,1.0,10.0,0.0,0.0,9.47,3.05
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,6.2,2.02
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,44,74,1.0,10.0,0.0,0.0,9.92,3.36
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,44,74,1.0,10.0,0.0,0.0,8.49,3.64
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,5.54,2.9
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,5.12,0.4
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,44,79,1.0,10.0,0.0,0.0,8.49,3.64
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,7.39,4.79
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,5.54,2.9
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,44,79,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,44,79,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,44,79,1.0,10.0,0.0,0.0,7.94,4.54
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,7.39,4.79
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,44,74,1.0,10.0,0.0,0.0,5.12,0.4
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,44,64,1.0,10.0,0.0,0.0,8.49,3.64
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,44,64,1.0,10.0,0.0,0.0,9.92,3.36
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,44,64,1.0,10.0,0.0,0.0,9.47,3.05
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,5.58,3.39
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,8.05,0.69
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,7.39,4.79
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,44,64,1.0,10.0,0.0,0.0,8.05,0.69
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,5.12,0.4
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,44,69,1.0,10.0,0.0,0.0,8.49,3.64
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,7.39,4.79
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,44,69,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,44,69,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,44,69,1.0,10.0,0.0,0.0,5.54,2.9
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,9.16,3.21
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,7.3,3.52
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,6.2,2.02
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,5.54,2.9
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,5.12,0.4
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,7.94,4.54
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,7.39,4.79
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,6.2,2.02
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,34,74,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,5.87,4.25
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,34,74,1.0,10.0,0.0,0.0,9.47,3.05
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,5.87,4.25
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,7.94,4.54
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,34,79,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,34,79,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,5.29,3.21
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,5.54,2.9
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,5.87,4.25
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,34,79,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,7.3,3.52
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,34,69,1.0,10.0,0.0,0.0,9.47,3.05
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,7.39,4.79
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,5.54,2.9
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,34,64,1.0,10.0,0.0,0.0,8.49,3.64
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,34,69,1.0,10.0,0.0,0.0,9.92,3.36
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,9.39,0.42
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,34,64,1.0,10.0,0.0,0.0,9.92,3.36
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,34,64,1.0,10.0,0.0,0.0,9.47,3.05
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,9.39,0.42
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,34,69,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,5.87,4.25
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,5.87,4.25
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,8.28,2.93
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,39,64,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,39,64,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,4.75,1.78
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,5.29,3.21
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,7.3,3.52
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,39,64,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,9.16,3.21
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,5.87,4.25
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,7.3,3.52
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,8.61,4.96
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,9.16,3.21
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,39,69,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,39,69,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,39,69,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,8.05,0.69
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,8.61,4.96
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,5.87,4.25
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,7.3,3.52
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,5.29,3.21
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,39,54,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,39,54,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,8.28,2.93
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,7.94,4.54
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,9.39,0.42
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,39,54,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,8.61,4.96
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,5.87,4.25
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,7.3,3.52
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,8.61,4.96
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,39,59,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,39,59,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,39,59,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,9.16,3.21
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,24,69,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,8.05,0.69
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,8.61,4.96
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,29,79,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,9.16,3.21
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,7.3,3.52
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,8.28,2.93
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,29,74,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,29,74,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,9.14,4.42
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,5.29,3.21
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,4.75,1.78
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,5.29,3.21
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,9.16,3.21
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,34,54,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,8.05,0.69
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,8.61,4.96
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,9.14,4.42
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,29,79,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,29,79,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,29,79,1.0,10.0,0.0,0.0,5.58,3.39
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,5.29,3.21
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,7.3,3.52
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,29,69,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,8.61,4.96
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,5.87,4.25
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,7.94,4.54
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,29,64,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,29,64,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,4.75,1.78
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,7.94,4.54
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,5.29,3.21
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,8.28,2.93
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,4.75,1.78
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,29,74,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,29,69,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,29,69,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,9.14,4.42
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,8.28,2.93
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,4.75,1.78
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,9.14,4.42
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,5.12,0.4
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,34,69,1.0,10.0,0.0,0.0,8.49,3.64
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,8.05,0.69
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,5.58,3.39
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,34,64,1.0,10.0,0.0,0.0,9.47,3.05
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,9.14,4.42
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,5.58,3.39
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,34,69,1.0,10.0,0.0,0.0,9.92,3.36
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,34,69,1.0,10.0,0.0,0.0,9.47,3.05
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,34,74,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,6.2,2.02
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,34,64,1.0,10.0,0.0,0.0,9.92,3.36
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,9.14,4.42
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,5.58,3.39
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,8.05,0.69
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,34,59,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,5.12,0.4
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,9.16,3.21
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,4.75,1.78
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,34,54,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,34,54,1.0,10.0,0.0,0.0,9.92,3.36
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,4.75,1.78
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,9.14,4.42
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,5.58,3.39
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,34,59,1.0,10.0,0.0,0.0,9.92,3.36
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,34,64,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,34,59,1.0,10.0,0.0,0.0,9.47,3.05
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,8.28,2.93
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,7.94,4.54
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,9.16,3.21
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,24,64,1.0,10.0,0.0,0.0,9.47,3.05
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,6.2,2.02
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,24,64,1.0,10.0,0.0,0.0,9.92,3.36
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,24,69,1.0,10.0,0.0,0.0,8.49,3.64
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,5.54,2.9
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,5.12,0.4
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,7.39,4.79
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,5.54,2.9
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,6.2,2.02
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,9.39,0.42
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,24,69,1.0,10.0,0.0,0.0,9.47,3.05
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,5.54,2.9
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,24,69,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,7.94,4.54
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,24,64,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,5.12,0.4
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,24,54,1.0,10.0,0.0,0.0,9.92,3.36
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,24,54,1.0,10.0,0.0,0.0,9.47,3.05
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,5.58,3.39
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,8.05,0.69
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,7.39,4.79
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,8.05,0.69
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,5.12,0.4
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,24,59,1.0,10.0,0.0,0.0,8.49,3.64
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,7.39,4.79
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,24,59,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,24,59,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,5.54,2.9
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,24,74,1.0,10.0,0.0,0.0,8.49,3.64
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,7.39,4.79
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,5.54,2.9
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,5.87,4.25
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,29,59,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,7.3,3.52
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,9.39,0.42
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,7.94,4.54
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,29,54,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,29,54,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,8.28,2.93
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,5.54,2.9
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,7.94,4.54
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,5.29,3.21
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,8.28,2.93
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,29,64,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,29,59,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,29,59,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,4.75,1.78
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,5.29,3.21
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,5.54,2.9
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,7.94,4.54
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,9.39,0.42
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,24,79,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,5.87,4.25
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,6.2,2.02
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,7.39,4.79
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,24,74,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,24,74,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,5.29,3.21
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,7.39,4.79
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,5.54,2.9
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,7.94,4.54
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,5.29,3.21
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,29,54,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,24,79,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,24,79,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,8.28,2.93
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,9.14,4.42
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,5.58,3.39
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,34,74,1.0,10.0,0.0,0.0,9.92,3.36
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,8.28,2.93
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,44,69,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,44,69,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,4.75,1.78
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,5.29,3.21
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,7.3,3.52
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,44,69,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,9.16,3.21
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,5.87,4.25
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,8.61,4.96
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,34,74,1.0,10.0,0.0,0.0,9.47,3.05
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,4.75,1.78
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,44,74,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,44,74,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,9.14,4.42
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,8.28,2.93
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,9.16,3.21
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,44,74,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,44,69,1.0,10.0,0.0,0.0,8.05,0.69
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,5.87,4.25
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,5.29,3.21
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,44,59,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,44,59,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,8.28,2.93
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,7.94,4.54
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,9.39,0.42
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,44,59,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,8.61,4.96
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,5.87,4.25
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,7.3,3.52
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,8.61,4.96
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,44,64,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,44,64,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,44,64,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,44,64,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,44,59,1.0,10.0,0.0,0.0,9.16,3.21
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,7.3,3.52
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,8.61,4.96
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,9.16,3.21
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,5.58,3.39
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,24,59,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,24,59,1.0,10.0,0.0,0.0,9.92,3.36
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,9.14,4.42
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,8.05,0.69
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,24,59,1.0,10.0,0.0,0.0,8.49,3.64
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,9.16,3.21
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,8.05,0.69
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,5.12,0.4
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,24,64,1.0,10.0,0.0,0.0,8.49,3.64
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,24,64,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,24,64,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,7.39,4.79
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,5.12,0.4
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,9.16,3.21
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,44,74,1.0,10.0,0.0,0.0,8.05,0.69
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,9.14,4.42
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,44,79,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,44,79,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,5.58,3.39
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,4.75,1.78
+94,NDOW.K,Anydrus Advantage ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,44,79,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,5.12,0.4
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,8.61,4.96
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,9.16,3.21
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,44,79,1.0,10.0,0.0,0.0,8.05,0.69
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,24,54,1.0,10.0,0.0,0.0,8.49,3.64
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,6.2,2.02
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,120,14,24,54,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,120,14,24,54,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,120,14,24,54,1.0,10.0,0.0,0.0,8.49,3.64
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,9.39,0.42
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,7.39,4.79
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,5.54,2.9
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,39,59,1.0,10.0,0.0,0.0,8.49,3.64
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,39,54,1.0,10.0,0.0,0.0,9.47,3.05
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,9.39,0.42
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,39,59,1.0,10.0,0.0,0.0,9.92,3.36
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,39,59,1.0,10.0,0.0,0.0,9.47,3.05
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,9.39,0.42
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,39,64,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,5.87,4.25
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,6.2,2.02
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,39,54,1.0,10.0,0.0,0.0,9.92,3.36
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,39,64,1.0,10.0,0.0,0.0,9.47,3.05
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,34,79,1.0,10.0,0.0,0.0,8.49,3.64
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,7.39,4.79
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,5.12,0.4
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,5.58,3.39
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,9.39,0.42
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,6.2,2.02
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,5.58,3.39
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,34,79,1.0,10.0,0.0,0.0,9.92,3.36
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,34,79,1.0,10.0,0.0,0.0,9.47,3.05
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,6.2,2.02
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,39,54,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,5.87,4.25
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,34,79,1.0,10.0,0.0,0.0,9.39,0.42
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,39,64,1.0,10.0,0.0,0.0,9.92,3.36
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,6.2,2.02
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,6.2,2.02
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,7.94,4.54
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,39,79,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,39,79,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,5.29,3.21
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,5.54,2.9
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,9.39,0.42
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,39,79,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,7.3,3.52
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,5.87,4.25
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,7.3,3.52
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,44,54,1.0,10.0,0.0,0.0,9.47,3.05
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,44,54,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,44,54,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,44,54,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,39,79,1.0,10.0,0.0,0.0,8.61,4.96
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,5.87,4.25
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,9.39,0.42
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,5.54,2.9
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,39,69,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,7.94,4.54
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,7.39,4.79
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,39,74,1.0,10.0,0.0,0.0,9.47,3.05
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,39,69,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,7.3,3.52
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,5.87,4.25
+94,AJAN.K,Innovator Eqty Defined Protctn ETF 2 Y to Jan 2026,5,60,14,39,69,1.0,10.0,0.0,0.0,9.47,3.05
+94,CCSB.O,Carbon Collective Short Duration Green Bond ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,6.2,2.02
+94,CGUI.K,Capital Group Ultra Short Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,9.39,0.42
+94,OOSP.K,Obra Opportunistic Structured Products ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,5.87,4.25
+94,MARM.K,FT Vest US Equity Max Buffer ETF - Mar,5,60,14,39,74,1.0,10.0,0.0,0.0,9.92,3.36
+94,JSI,Janus Henderson Securitized Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,5.58,3.39
+94,JHHY.K,John Hancock High Yield ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,9.14,4.42
+94,USDX.O,SGI Enhanced Core ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,4.75,1.78
+94,EVSD.O,Eaton Vance Short Duration Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,8.28,2.93
+94,MBSF.K,Regan Floating Rate MBS ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,5.29,3.21
+94,CAOS.K,Alpha Architect Tail Risk ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,7.94,4.54
+94,BALT.K,Innovator Defined Wealth Shield ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,5.54,2.9
+94,DFGX.O,Dimensional Global ex US Core Fixed Income ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,7.39,4.79
+94,TJUL.K,Innovator Eqty Defined Protctn ETF 2 Y to Jul 2025,5,60,14,39,74,1.0,10.0,0.0,0.0,8.49,3.64
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,5.12,0.4
+94,PUSH.K,PGIM Ultra Short Municipal Bond ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,8.05,0.69
+94,GENM.K,Genter Capital Municipal Quality Intermediate ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,9.16,3.21
+94,NDOW.K,Anydrus Advantage ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,8.61,4.96
+94,EVIM.K,Eaton Vance Intermediate Municipal Income ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,7.3,3.52
+94,BOXX.K,Alpha Architect 1-3 Month Box ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,5.12,0.4

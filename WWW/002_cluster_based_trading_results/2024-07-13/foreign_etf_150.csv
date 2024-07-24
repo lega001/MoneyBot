@@ -1,0 +1,433 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,24,54,1.0,10.0,-3.21,0.0,-31.47,22.49
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,24,74,1.0,10.0,-3.21,0.0,-26.09,24.56
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,24,69,1.0,10.0,-3.21,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,24,69,1.0,10.0,-3.21,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,24,69,1.0,10.0,-3.21,0.0,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,24,69,1.0,10.0,-3.21,0.0,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,24,74,1.0,10.0,-3.21,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,24,74,1.0,10.0,-3.21,0.0,-31.3,18.63
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,24,74,1.0,10.0,-3.21,-19.27,-25.63,27.78
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,24,69,1.0,10.0,-3.21,0.0,-31.47,22.49
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,24,74,1.0,10.0,-3.21,0.0,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,24,74,1.0,10.0,-3.21,0.0,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,24,79,1.0,10.0,-3.21,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,24,79,1.0,10.0,-3.21,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,24,79,1.0,10.0,-3.21,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,24,79,1.0,10.0,-3.21,-19.27,-25.63,27.78
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,24,69,1.0,10.0,-3.21,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,24,64,1.0,10.0,-3.21,0.0,-24.57,28.7
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,24,79,1.0,10.0,-3.21,0.0,-24.57,28.7
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,24,59,1.0,10.0,-3.21,0.0,-26.09,24.56
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,24,54,1.0,10.0,-3.21,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,24,54,1.0,10.0,-3.21,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,24,54,1.0,10.0,-3.21,0.0,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,24,54,1.0,10.0,-3.21,0.0,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,24,59,1.0,10.0,-3.21,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,24,59,1.0,10.0,-3.21,0.0,-31.3,18.63
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,24,59,1.0,10.0,-3.21,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,24,64,1.0,10.0,-3.21,0.0,-23.39,23.95
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,24,59,1.0,10.0,-3.21,0.0,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,24,59,1.0,10.0,-3.21,0.0,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,24,64,1.0,10.0,-3.21,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,24,64,1.0,10.0,-3.21,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,24,64,1.0,10.0,-3.21,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,24,64,1.0,10.0,-3.21,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,24,79,1.0,10.0,-3.21,0.0,-23.39,23.95
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,24,54,1.0,10.0,-3.21,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,29,69,1.0,10.0,-7.77,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,29,69,1.0,10.0,-7.77,0.0,-31.3,18.63
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,29,69,1.0,10.0,-7.77,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,29,69,1.0,10.0,-7.77,-27.34,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,29,69,1.0,10.0,-7.77,0.0,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,29,74,1.0,10.0,-7.77,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,29,74,1.0,10.0,-7.77,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,29,74,1.0,10.0,-7.77,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,29,74,1.0,10.0,-7.77,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,29,74,1.0,10.0,-7.77,-27.34,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,29,74,1.0,10.0,-7.77,0.0,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,29,79,1.0,10.0,-7.77,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,29,79,1.0,10.0,-7.77,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,29,79,1.0,10.0,-7.77,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,29,79,1.0,10.0,-7.77,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,29,79,1.0,10.0,-7.77,-27.34,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,29,79,1.0,10.0,-7.77,0.0,-24.57,28.7
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,29,69,1.0,10.0,-7.77,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,29,54,1.0,10.0,-7.77,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,29,54,1.0,10.0,-7.77,0.0,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,29,64,1.0,10.0,-7.77,0.0,-24.57,28.7
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,29,54,1.0,10.0,-7.77,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,29,54,1.0,10.0,-7.77,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,29,54,1.0,10.0,-7.77,-27.34,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,29,54,1.0,10.0,-7.77,0.0,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,29,59,1.0,10.0,-7.77,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,29,59,1.0,10.0,-7.77,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,29,59,1.0,10.0,-7.77,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,29,59,1.0,10.0,-7.77,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,29,59,1.0,10.0,-7.77,-27.34,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,29,59,1.0,10.0,-7.77,0.0,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,29,64,1.0,10.0,-7.77,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,29,64,1.0,10.0,-7.77,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,29,64,1.0,10.0,-7.77,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,29,64,1.0,10.0,-7.77,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,29,64,1.0,10.0,-7.77,-27.34,-23.39,23.95
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,24,54,1.0,10.0,-9.95,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,24,54,1.0,10.0,-9.95,-31.79,-31.47,22.49
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,24,54,1.0,10.0,-9.95,0.0,-25.63,27.78
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,24,74,1.0,10.0,-9.95,-27.92,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,24,69,1.0,10.0,-9.95,0.0,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,24,69,1.0,10.0,-9.95,-27.92,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,24,74,1.0,10.0,-9.95,-31.79,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,24,74,1.0,10.0,-9.95,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,24,74,1.0,10.0,-9.95,0.0,-26.09,24.56
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,24,74,1.0,10.0,-9.95,0.0,-23.39,23.95
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,24,79,1.0,10.0,-9.95,-31.79,-31.47,22.49
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,24,69,1.0,10.0,-9.95,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,24,79,1.0,10.0,-9.95,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,24,79,1.0,10.0,-9.95,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,24,79,1.0,10.0,-9.95,0.0,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,24,79,1.0,10.0,-9.95,0.0,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,24,79,1.0,10.0,-9.95,-27.92,-24.57,28.7
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,24,54,1.0,10.0,-9.95,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,24,69,1.0,10.0,-9.95,0.0,-25.63,27.78
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,24,74,1.0,10.0,-9.95,0.0,-25.63,27.78
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,24,69,1.0,10.0,-9.95,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,24,59,1.0,10.0,-9.95,-27.92,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,24,69,1.0,10.0,-9.95,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,24,54,1.0,10.0,-9.95,-27.92,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,24,59,1.0,10.0,-9.95,-31.79,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,24,59,1.0,10.0,-9.95,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,24,59,1.0,10.0,-9.95,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,24,59,1.0,10.0,-9.95,0.0,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,24,59,1.0,10.0,-9.95,0.0,-23.39,23.95
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,24,54,1.0,10.0,-9.95,0.0,-23.39,23.95
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,24,64,1.0,10.0,-9.95,-31.79,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,24,64,1.0,10.0,-9.95,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,24,64,1.0,10.0,-9.95,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,24,64,1.0,10.0,-9.95,0.0,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,24,64,1.0,10.0,-9.95,0.0,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,24,64,1.0,10.0,-9.95,-27.92,-24.57,28.7
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,29,74,1.0,10.0,-14.03,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,29,69,1.0,10.0,-14.03,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,29,69,1.0,10.0,-14.03,0.0,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,29,69,1.0,10.0,-14.03,-24.47,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,29,69,1.0,10.0,-14.03,-27.92,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,29,74,1.0,10.0,-14.03,-31.79,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,29,74,1.0,10.0,-14.03,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,29,74,1.0,10.0,-14.03,0.0,-26.09,24.56
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,29,79,1.0,10.0,-14.03,-31.79,-31.47,22.49
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,29,74,1.0,10.0,-14.03,-24.47,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,29,74,1.0,10.0,-14.03,-27.92,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,29,69,1.0,10.0,-14.03,-31.79,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,29,79,1.0,10.0,-14.03,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,29,79,1.0,10.0,-14.03,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,29,79,1.0,10.0,-14.03,0.0,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,29,79,1.0,10.0,-14.03,-24.47,-23.39,23.95
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,29,69,1.0,10.0,-14.03,0.0,-31.3,18.63
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,29,54,1.0,10.0,-14.03,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,29,64,1.0,10.0,-14.03,-27.92,-24.57,28.7
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,29,59,1.0,10.0,-14.03,0.0,-26.09,24.56
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,29,54,1.0,10.0,-14.03,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,29,54,1.0,10.0,-14.03,0.0,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,29,54,1.0,10.0,-14.03,-24.47,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,29,54,1.0,10.0,-14.03,-27.92,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,29,59,1.0,10.0,-14.03,-31.79,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,29,59,1.0,10.0,-14.03,0.0,-31.3,18.63
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,29,59,1.0,10.0,-14.03,0.0,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,29,64,1.0,10.0,-14.03,-24.47,-23.39,23.95
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,29,59,1.0,10.0,-14.03,-24.47,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,29,59,1.0,10.0,-14.03,-27.92,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,29,64,1.0,10.0,-14.03,-31.79,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,29,64,1.0,10.0,-14.03,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,29,64,1.0,10.0,-14.03,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,29,64,1.0,10.0,-14.03,0.0,-25.63,27.78
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,29,79,1.0,10.0,-14.03,-27.92,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,29,54,1.0,10.0,-14.03,-31.79,-31.47,22.49
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,44,54,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,44,74,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,44,69,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,44,69,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,44,74,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,44,74,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,44,74,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,44,74,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,44,74,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,44,69,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,44,79,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,44,79,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,44,79,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,44,79,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,44,79,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,44,79,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,44,69,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,44,69,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,49,54,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,44,59,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,44,54,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,44,54,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,44,59,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,44,59,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,44,59,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,44,59,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,44,59,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,44,69,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,44,64,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,44,64,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,44,64,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,44,64,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,44,64,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,44,64,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,49,54,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,49,54,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,34,54,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,49,74,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,49,69,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,49,69,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,49,69,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,49,74,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,49,74,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,49,74,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,49,74,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,49,69,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,49,74,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,49,79,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,49,79,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,49,79,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,49,79,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,49,79,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,49,69,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,49,69,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,34,54,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,49,59,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,49,54,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,49,54,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,49,54,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,49,59,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,49,59,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,49,59,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,49,59,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,49,64,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,49,59,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,49,64,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,49,64,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,49,64,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,49,64,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,49,64,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,34,54,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,34,54,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,44,54,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,39,64,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,39,69,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,39,64,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,39,64,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,39,64,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,39,64,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,39,64,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,39,59,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,39,69,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,39,59,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,39,59,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,39,59,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,39,59,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,39,59,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,39,54,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,39,69,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,39,69,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,39,54,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,39,79,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,44,54,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,39,79,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,39,79,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,39,79,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,39,79,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,39,79,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,39,74,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,39,69,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,39,74,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,39,74,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,39,74,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,39,74,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,39,74,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,39,69,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,39,54,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,44,54,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,34,54,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,34,64,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,34,69,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,34,64,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,34,64,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,34,64,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,34,64,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,34,64,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,34,59,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,34,69,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,34,59,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,34,59,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,34,59,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,34,59,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,34,59,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,34,54,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,34,69,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,34,69,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,39,54,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,34,79,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,39,54,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,34,79,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,34,79,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,34,79,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,34,79,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,34,79,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,34,74,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,34,69,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,120,14,34,74,1.0,10.0,-15.04,-27.34,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,120,14,34,74,1.0,10.0,-15.04,-19.27,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,34,74,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,120,14,34,74,1.0,10.0,-15.04,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,120,14,34,74,1.0,10.0,-15.04,0.0,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,34,69,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,120,14,39,54,1.0,10.0,-15.04,0.0,-26.09,24.56
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,120,14,49,79,1.0,10.0,-15.04,-43.62,-24.57,28.7
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,34,54,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,34,54,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,39,69,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,39,64,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,39,64,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,39,64,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,39,64,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,39,64,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,39,64,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,39,59,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,39,59,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,39,59,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,39,59,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,39,59,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,39,59,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,39,54,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,39,54,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,39,69,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,39,69,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,39,69,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,39,79,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,44,54,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,39,79,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,39,79,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,39,79,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,39,79,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,39,79,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,39,74,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,39,69,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,39,74,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,39,74,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,39,74,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,39,74,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,39,74,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,39,69,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,39,54,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,39,54,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,39,54,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,34,59,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,34,64,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,34,64,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,34,64,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,34,64,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,34,64,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,34,64,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,34,59,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,34,69,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,34,59,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,34,59,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,34,59,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,34,59,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,34,54,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,34,54,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,34,69,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,34,69,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,39,54,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,34,74,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,34,79,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,34,79,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,34,79,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,34,79,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,34,79,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,34,79,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,34,74,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,34,69,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,34,74,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,34,74,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,34,74,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,34,74,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,34,69,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,34,69,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,44,54,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,44,54,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,44,54,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,49,64,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,49,69,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,49,64,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,49,64,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,49,64,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,49,64,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,49,64,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,49,59,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,49,69,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,49,59,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,49,59,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,49,59,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,49,59,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,49,59,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,49,54,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,49,69,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,49,69,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,49,54,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,49,79,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,34,54,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,49,79,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,49,79,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,49,79,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,49,79,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,49,79,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,49,74,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,49,69,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,49,74,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,49,74,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,49,74,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,49,74,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,49,74,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,49,69,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,49,54,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,49,54,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,44,54,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,44,64,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,44,69,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,44,64,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,44,64,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,44,64,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,44,64,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,44,64,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,44,59,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,44,69,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,44,59,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,44,59,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,44,59,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,44,59,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,44,59,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,44,54,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,44,69,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,44,69,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,49,54,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,44,79,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,49,54,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,44,79,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,44,79,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,44,79,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,44,79,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,44,79,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,44,74,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,44,69,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,KROP.O,Global X AgTech & Food Innovation ETF,5,60,14,44,74,1.0,10.0,-16.25,-22.12,-23.39,23.95
+150,NIKL.O,Sprott Nickel Miners ETF,5,60,14,44,74,1.0,10.0,-16.25,0.0,-25.63,27.78
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,44,74,1.0,10.0,-16.25,0.0,-26.09,24.56
+150,QQQY.O,Defiance Nasdaq 100 Enhanced Options Income ETF,5,60,14,44,74,1.0,10.0,-16.25,0.0,-31.3,18.63
+150,KLIP.K,KraneShares Chn Intrnt & Cvrd Cll Strtgy ETF,5,60,14,44,74,1.0,10.0,-16.25,-31.79,-31.47,22.49
+150,TILL.K,Teucrium Agricultural Strategy No K-1 ETF,5,60,14,44,69,1.0,10.0,-16.25,-43.62,-24.57,28.7
+150,USOY.O,Defiance Oil Enhanced Options Income ETF,5,60,14,34,54,1.0,10.0,-16.25,0.0,-26.09,24.56

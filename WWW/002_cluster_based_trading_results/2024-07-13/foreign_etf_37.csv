@@ -1,0 +1,361 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,39,59,1.0,10.0,165.19,4.77,36.15,58.58
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,39,59,1.0,10.0,165.19,350.9,42.56,59.05
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,39,59,1.0,10.0,165.19,376.51,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,39,59,1.0,10.0,165.19,0.0,35.15,62.77
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,39,59,1.0,10.0,165.19,93.79,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,39,64,1.0,10.0,144.3,301.77,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,39,64,1.0,10.0,144.3,0.0,35.15,62.77
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,39,64,1.0,10.0,144.3,91.51,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,39,64,1.0,10.0,144.3,8.79,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,39,64,1.0,10.0,144.3,319.43,37.9,59.38
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,39,54,1.0,10.0,142.28,72.23,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,39,54,1.0,10.0,142.28,3.55,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,39,54,1.0,10.0,142.28,331.15,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,39,54,1.0,10.0,142.28,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,39,54,1.0,10.0,142.28,304.46,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,44,54,1.0,10.0,133.88,154.22,43.43,60.22
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,44,54,1.0,10.0,133.88,75.92,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,44,54,1.0,10.0,133.88,318.26,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,44,54,1.0,10.0,133.88,117.43,42.56,59.05
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,44,54,1.0,10.0,133.88,3.55,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,44,59,1.0,10.0,130.84,81.17,37.9,59.38
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,44,59,1.0,10.0,130.84,174.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,44,59,1.0,10.0,130.84,4.77,36.15,58.58
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,44,59,1.0,10.0,130.84,110.88,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,44,59,1.0,10.0,130.84,283.38,35.15,62.77
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,39,54,1.0,10.0,123.32,215.05,35.15,62.77
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,39,54,1.0,10.0,123.32,89.24,37.9,59.38
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,39,54,1.0,10.0,123.32,5.87,36.15,58.58
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,39,54,1.0,10.0,123.32,119.64,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,39,54,1.0,10.0,123.32,186.78,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,44,64,1.0,10.0,122.64,277.08,35.15,62.77
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,44,64,1.0,10.0,122.64,79.14,37.9,59.38
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,44,64,1.0,10.0,122.64,8.79,36.15,58.58
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,44,64,1.0,10.0,122.64,148.31,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,44,64,1.0,10.0,122.64,99.86,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,39,69,1.0,10.0,88.31,101.97,43.43,60.22
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,39,69,1.0,10.0,88.31,0.0,35.15,62.77
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,39,69,1.0,10.0,88.31,25.03,37.9,59.38
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,39,69,1.0,10.0,88.31,8.79,36.15,58.58
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,39,69,1.0,10.0,88.31,305.73,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,44,54,1.0,10.0,70.3,108.78,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,44,54,1.0,10.0,70.3,73.66,42.56,59.05
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,44,54,1.0,10.0,70.3,11.91,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,44,54,1.0,10.0,70.3,57.53,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,44,54,1.0,10.0,70.3,99.6,35.15,62.77
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,44,69,1.0,10.0,68.27,8.79,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,44,69,1.0,10.0,68.27,37.36,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,44,69,1.0,10.0,68.27,34.65,35.15,62.77
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,44,69,1.0,10.0,68.27,155.47,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,44,69,1.0,10.0,68.27,105.06,42.56,59.05
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,49,54,1.0,10.0,57.93,15.11,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,49,54,1.0,10.0,57.93,51.85,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,49,54,1.0,10.0,57.93,89.66,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,49,54,1.0,10.0,57.93,63.47,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,49,54,1.0,10.0,57.93,69.56,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,39,64,1.0,10.0,47.6,10.79,36.15,58.58
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,39,64,1.0,10.0,47.6,139.23,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,39,64,1.0,10.0,47.6,33.16,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,39,64,1.0,10.0,47.6,27.01,35.15,62.77
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,39,64,1.0,10.0,47.6,27.79,37.9,59.38
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,39,69,1.0,10.0,45.22,10.79,36.15,58.58
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,39,69,1.0,10.0,45.22,147.76,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,39,69,1.0,10.0,45.22,39.76,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,39,69,1.0,10.0,45.22,14.16,35.15,62.77
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,39,69,1.0,10.0,45.22,13.62,37.9,59.38
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,44,59,1.0,10.0,44.96,26.35,37.9,59.38
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,44,59,1.0,10.0,44.96,16.97,36.15,58.58
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,44,59,1.0,10.0,44.96,28.91,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,44,59,1.0,10.0,44.96,30.53,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,44,59,1.0,10.0,44.96,122.06,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,49,54,1.0,10.0,44.01,51.04,42.56,59.05
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,49,54,1.0,10.0,44.01,39.29,37.9,59.38
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,49,54,1.0,10.0,44.01,12.79,36.15,58.58
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,49,54,1.0,10.0,44.01,61.75,35.15,62.77
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,49,54,1.0,10.0,44.01,55.2,43.43,60.22
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,44,64,1.0,10.0,43.77,105.3,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,44,64,1.0,10.0,43.77,17.62,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,44,64,1.0,10.0,43.77,30.32,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,44,64,1.0,10.0,43.77,33.68,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,44,64,1.0,10.0,43.77,31.93,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,39,59,1.0,10.0,43.33,22.52,35.15,62.77
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,39,59,1.0,10.0,43.33,131.27,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,39,59,1.0,10.0,43.33,6.94,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,39,59,1.0,10.0,43.33,23.63,37.9,59.38
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,39,59,1.0,10.0,43.33,32.28,42.56,59.05
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,49,64,1.0,10.0,37.62,24.74,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,49,64,1.0,10.0,37.62,24.9,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,49,64,1.0,10.0,37.62,33.68,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,49,64,1.0,10.0,37.62,26.18,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,49,64,1.0,10.0,37.62,78.59,43.43,60.22
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,49,59,1.0,10.0,36.0,83.73,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,49,59,1.0,10.0,36.0,22.08,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,49,59,1.0,10.0,36.0,20.74,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,49,59,1.0,10.0,36.0,28.91,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,49,59,1.0,10.0,36.0,24.53,42.56,59.05
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,49,64,1.0,10.0,35.48,23.75,37.9,59.38
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,49,64,1.0,10.0,35.48,72.6,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,49,64,1.0,10.0,35.48,30.84,36.15,58.58
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,49,64,1.0,10.0,35.48,23.18,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,49,64,1.0,10.0,35.48,27.05,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,39,74,1.0,10.0,34.81,112.78,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,39,74,1.0,10.0,34.81,12.03,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,39,74,1.0,10.0,34.81,25.03,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,39,74,1.0,10.0,34.81,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,39,74,1.0,10.0,34.81,24.19,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,44,74,1.0,10.0,31.9,48.66,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,44,74,1.0,10.0,31.9,34.1,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,44,74,1.0,10.0,31.9,34.65,35.15,62.77
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,44,74,1.0,10.0,31.9,12.03,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,44,74,1.0,10.0,31.9,30.08,37.9,59.38
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,44,69,1.0,10.0,31.87,68.33,43.43,60.22
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,44,69,1.0,10.0,31.87,20.97,37.9,59.38
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,44,69,1.0,10.0,31.87,18.05,36.15,58.58
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,44,69,1.0,10.0,31.87,37.83,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,44,69,1.0,10.0,31.87,14.16,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,49,69,1.0,10.0,31.78,33.45,42.56,59.05
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,49,69,1.0,10.0,31.78,18.64,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,49,69,1.0,10.0,31.78,10.13,35.15,62.77
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,49,69,1.0,10.0,31.78,80.47,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,49,69,1.0,10.0,31.78,16.21,36.15,58.58
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,49,59,1.0,10.0,30.16,18.23,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,49,59,1.0,10.0,30.16,25.25,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,49,59,1.0,10.0,30.16,69.65,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,49,59,1.0,10.0,30.16,18.73,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,49,59,1.0,10.0,30.16,18.95,37.9,59.38
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,44,79,1.0,10.0,28.74,42.22,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,44,79,1.0,10.0,28.74,14.83,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,44,79,1.0,10.0,28.74,15.45,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,44,79,1.0,10.0,28.74,34.65,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,44,79,1.0,10.0,28.74,36.56,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,49,69,1.0,10.0,26.95,52.89,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,49,69,1.0,10.0,26.95,18.52,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,49,69,1.0,10.0,26.95,17.26,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,49,69,1.0,10.0,26.95,14.16,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,49,69,1.0,10.0,26.95,31.94,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,49,74,1.0,10.0,25.15,53.36,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,49,74,1.0,10.0,25.15,23.69,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,49,74,1.0,10.0,25.15,10.13,35.15,62.77
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,49,74,1.0,10.0,25.15,18.46,37.9,59.38
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,49,74,1.0,10.0,25.15,20.09,36.15,58.58
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,44,74,1.0,10.0,23.71,14.16,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,44,74,1.0,10.0,23.71,25.09,42.56,59.05
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,44,74,1.0,10.0,23.71,22.5,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,44,74,1.0,10.0,23.71,19.79,37.9,59.38
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,44,74,1.0,10.0,23.71,37.02,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,39,74,1.0,10.0,22.94,17.41,42.56,59.05
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,39,74,1.0,10.0,22.94,19.79,37.9,59.38
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,39,74,1.0,10.0,22.94,13.74,36.15,58.58
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,39,74,1.0,10.0,22.94,49.62,43.43,60.22
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,39,74,1.0,10.0,22.94,14.16,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,49,74,1.0,10.0,22.9,21.4,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,49,74,1.0,10.0,22.9,14.16,35.15,62.77
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,49,74,1.0,10.0,22.9,22.12,36.15,58.58
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,49,74,1.0,10.0,22.9,37.02,43.43,60.22
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,49,74,1.0,10.0,22.9,19.79,37.9,59.38
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,39,79,1.0,10.0,22.87,24.19,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,39,79,1.0,10.0,22.87,0.0,35.15,62.77
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,39,79,1.0,10.0,22.87,25.03,37.9,59.38
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,39,79,1.0,10.0,22.87,50.28,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,39,79,1.0,10.0,22.87,14.83,36.15,58.58
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,49,79,1.0,10.0,22.75,22.72,42.56,59.05
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,49,79,1.0,10.0,22.75,23.24,36.15,58.58
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,49,79,1.0,10.0,22.75,42.22,43.43,60.22
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,49,79,1.0,10.0,22.75,15.45,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,49,79,1.0,10.0,22.75,10.13,35.15,62.77
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,39,79,1.0,10.0,22.41,42.72,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,39,79,1.0,10.0,22.41,23.45,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,39,79,1.0,10.0,22.41,14.16,35.15,62.77
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,39,79,1.0,10.0,22.41,15.37,37.9,59.38
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,39,79,1.0,10.0,22.41,16.34,36.15,58.58
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,44,79,1.0,10.0,21.99,14.16,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,44,79,1.0,10.0,21.99,23.45,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,44,79,1.0,10.0,21.99,30.96,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,44,79,1.0,10.0,21.99,26.01,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,44,79,1.0,10.0,21.99,15.37,37.9,59.38
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,49,79,1.0,10.0,21.8,30.96,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,49,79,1.0,10.0,21.8,25.05,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,49,79,1.0,10.0,21.8,15.37,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,49,79,1.0,10.0,21.8,14.16,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,49,79,1.0,10.0,21.8,23.45,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,34,74,1.0,10.0,19.86,99.3,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,29,74,1.0,10.0,19.86,0.0,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,29,74,1.0,10.0,19.86,0.0,35.15,62.77
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,29,74,1.0,10.0,19.86,0.0,37.9,59.38
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,29,74,1.0,10.0,19.86,0.0,36.15,58.58
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,29,74,1.0,10.0,19.86,99.3,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,34,74,1.0,10.0,19.86,0.0,42.56,59.05
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,34,74,1.0,10.0,19.86,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,34,74,1.0,10.0,19.86,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,34,74,1.0,10.0,19.86,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,34,69,1.0,10.0,17.97,0.0,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,34,69,1.0,10.0,17.97,0.0,35.15,62.77
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,34,69,1.0,10.0,17.97,0.0,37.9,59.38
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,34,69,1.0,10.0,17.97,0.0,36.15,58.58
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,34,69,1.0,10.0,17.97,89.83,43.43,60.22
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,29,69,1.0,10.0,17.97,89.83,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,29,69,1.0,10.0,17.97,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,29,69,1.0,10.0,17.97,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,29,69,1.0,10.0,17.97,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,29,69,1.0,10.0,17.97,0.0,42.56,59.05
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,29,59,1.0,10.0,16.24,0.0,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,29,59,1.0,10.0,16.24,0.0,35.15,62.77
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,29,59,1.0,10.0,16.24,81.22,43.43,60.22
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,29,59,1.0,10.0,16.24,0.0,37.9,59.38
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,34,59,1.0,10.0,16.24,81.22,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,34,59,1.0,10.0,16.24,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,34,59,1.0,10.0,16.24,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,34,59,1.0,10.0,16.24,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,34,59,1.0,10.0,16.24,0.0,42.56,59.05
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,29,59,1.0,10.0,16.24,0.0,36.15,58.58
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,34,64,1.0,10.0,16.02,80.1,43.43,60.22
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,34,64,1.0,10.0,16.02,0.0,37.9,59.38
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,29,64,1.0,10.0,16.02,80.1,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,29,64,1.0,10.0,16.02,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,29,64,1.0,10.0,16.02,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,29,64,1.0,10.0,16.02,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,29,64,1.0,10.0,16.02,0.0,42.56,59.05
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,34,64,1.0,10.0,16.02,0.0,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,34,64,1.0,10.0,16.02,0.0,35.15,62.77
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,34,64,1.0,10.0,16.02,0.0,36.15,58.58
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,34,54,1.0,10.0,12.73,0.0,36.15,58.58
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,34,54,1.0,10.0,12.73,0.0,42.56,59.05
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,29,54,1.0,10.0,12.73,0.0,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,29,54,1.0,10.0,12.73,0.0,35.15,62.77
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,34,54,1.0,10.0,12.73,0.0,35.15,62.77
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,29,54,1.0,10.0,12.73,0.0,37.9,59.38
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,34,54,1.0,10.0,12.73,63.63,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,29,54,1.0,10.0,12.73,0.0,36.15,58.58
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,29,54,1.0,10.0,12.73,63.63,43.43,60.22
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,34,54,1.0,10.0,12.73,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,29,79,1.0,10.0,9.82,0.0,35.15,62.77
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,29,79,1.0,10.0,9.82,49.11,43.43,60.22
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,29,79,1.0,10.0,9.82,0.0,37.9,59.38
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,29,79,1.0,10.0,9.82,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,34,79,1.0,10.0,9.82,49.11,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,34,79,1.0,10.0,9.82,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,34,79,1.0,10.0,9.82,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,34,79,1.0,10.0,9.82,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,34,79,1.0,10.0,9.82,0.0,42.56,59.05
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,29,79,1.0,10.0,9.82,0.0,36.15,58.58
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,34,74,1.0,10.0,0.0,0.0,35.15,62.77
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,34,69,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,34,69,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,34,74,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,37.9,59.38
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,37.9,59.38
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,34,74,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,34,79,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,34,79,1.0,10.0,0.0,0.0,36.15,58.58
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,34,79,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,34,79,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,34,69,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,36.15,58.58
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,24,54,1.0,10.0,0.0,0.0,43.43,60.22
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,34,64,1.0,10.0,0.0,0.0,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,34,64,1.0,10.0,0.0,0.0,35.15,62.77
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,24,79,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,24,79,1.0,10.0,0.0,0.0,42.56,59.05
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,36.15,58.58
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,24,54,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,24,54,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,24,54,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,24,59,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,24,59,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,24,59,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,24,59,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,24,64,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,24,64,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,24,64,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,24,64,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,24,69,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,24,69,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,24,69,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,24,69,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,24,74,1.0,10.0,0.0,0.0,43.43,60.22
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,37.9,59.38
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,24,79,1.0,10.0,0.0,0.0,36.15,58.58
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,24,79,1.0,10.0,0.0,0.0,43.43,60.22
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,37.9,59.38
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,24,54,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,24,54,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,24,54,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,24,59,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,24,59,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,24,59,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,24,59,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,24,64,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,24,64,1.0,10.0,0.0,0.0,36.15,58.58
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,24,64,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,24,74,1.0,10.0,0.0,0.0,42.56,59.05
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,24,64,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,24,69,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,24,69,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,24,69,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,60,14,24,69,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,60,14,24,74,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,60,14,24,74,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,60,14,24,74,1.0,10.0,0.0,0.0,35.15,62.77
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,24,74,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,24,74,1.0,10.0,0.0,0.0,35.15,62.77
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,36.15,58.58
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,29,74,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,29,74,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,29,79,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,29,79,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,29,79,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,29,79,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,34,54,1.0,10.0,0.0,0.0,43.43,60.22
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,37.9,59.38
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,29,69,1.0,10.0,0.0,0.0,42.56,59.05
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,34,54,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,34,54,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,34,59,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,34,59,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,34,59,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,34,64,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,37.9,59.38
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,29,74,1.0,10.0,0.0,0.0,43.43,60.22
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,29,69,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,24,74,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,29,59,1.0,10.0,0.0,0.0,43.43,60.22
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,24,79,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,24,79,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,24,79,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,24,79,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,29,54,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,29,54,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,29,54,1.0,10.0,0.0,0.0,42.56,59.05
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,37.9,59.38
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,29,59,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,29,59,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,29,64,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,36.15,58.58
+37,MIDU.K,Direxion Daily Mid Cap Bull 3X Shares ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,37.9,59.38
+37,DUSL.K,Direxion Daily Industrials Bull 3X Shares,5,120,14,29,64,1.0,10.0,0.0,0.0,35.15,62.77
+37,UMDD.K,ProShares UltraPro MidCap400,5,120,14,29,64,1.0,10.0,0.0,0.0,42.56,59.05
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,29,69,1.0,10.0,0.0,0.0,43.43,60.22
+37,SVXY.K,ProShares Short VIX Short-Term Futures ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,36.15,58.58
+37,FAS,Direxion Daily Financial Bull 3x Shares,5,120,14,24,54,1.0,10.0,0.0,0.0,43.43,60.22

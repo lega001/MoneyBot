@@ -1,0 +1,793 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,59,1.0,10.0,0.33,21.14,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,60,14,44,54,1.0,10.0,0.33,-12.5,-11.96,16.45
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,49,54,1.0,10.0,0.33,7.11,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,49,54,1.0,10.0,0.33,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,49,54,1.0,10.0,0.33,-7.24,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,49,54,1.0,10.0,0.33,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,49,54,1.0,10.0,0.33,6.28,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,49,54,1.0,10.0,0.33,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,49,54,1.0,10.0,0.33,-8.02,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,49,54,1.0,10.0,0.33,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,49,54,1.0,10.0,0.33,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,60,14,49,59,1.0,10.0,0.33,-12.5,-11.96,16.45
+136,DOG,ProShares Short Dow30,5,60,14,39,54,1.0,10.0,0.33,-12.5,-11.96,16.45
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,49,59,1.0,10.0,0.33,7.11,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,49,59,1.0,10.0,0.33,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,49,59,1.0,10.0,0.33,-7.24,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,49,59,1.0,10.0,0.33,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,49,59,1.0,10.0,0.33,6.28,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,49,59,1.0,10.0,0.33,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,49,59,1.0,10.0,0.33,-8.02,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,49,59,1.0,10.0,0.33,0.0,-7.05,14.16
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,54,1.0,10.0,0.33,21.14,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,60,14,49,54,1.0,10.0,0.33,-12.5,-11.96,16.45
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,39,59,1.0,10.0,0.33,0.0,-11.62,15.81
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,39,54,1.0,10.0,0.33,0.0,-11.62,15.81
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,39,54,1.0,10.0,0.33,7.11,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,39,54,1.0,10.0,0.33,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,39,54,1.0,10.0,0.33,-7.24,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,39,54,1.0,10.0,0.33,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,39,54,1.0,10.0,0.33,6.28,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,39,54,1.0,10.0,0.33,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,39,54,1.0,10.0,0.33,-8.02,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,39,54,1.0,10.0,0.33,0.0,-7.05,14.16
+136,DOG,ProShares Short Dow30,5,60,14,39,59,1.0,10.0,0.33,-12.5,-11.96,16.45
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,39,59,1.0,10.0,0.33,0.0,-7.05,14.16
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,59,1.0,10.0,0.33,21.14,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,39,59,1.0,10.0,0.33,7.11,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,39,59,1.0,10.0,0.33,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,39,59,1.0,10.0,0.33,-7.24,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,39,59,1.0,10.0,0.33,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,39,59,1.0,10.0,0.33,6.28,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,39,59,1.0,10.0,0.33,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,39,59,1.0,10.0,0.33,-8.02,-10.13,17.08
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,49,59,1.0,10.0,0.33,0.0,-11.62,15.81
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,54,1.0,10.0,0.33,21.14,-6.9,13.34
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,54,1.0,10.0,0.33,21.14,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,60,14,44,59,1.0,10.0,0.33,-12.5,-11.96,16.45
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,44,59,1.0,10.0,0.33,-8.02,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,44,59,1.0,10.0,0.33,-3.19,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,44,59,1.0,10.0,0.33,6.28,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,44,59,1.0,10.0,0.33,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,44,59,1.0,10.0,0.33,-7.24,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,44,59,1.0,10.0,0.33,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,44,59,1.0,10.0,0.33,7.11,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,59,1.0,10.0,0.33,21.14,-6.9,13.34
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,44,54,1.0,10.0,0.33,0.0,-11.62,15.81
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,44,59,1.0,10.0,0.33,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,44,54,1.0,10.0,0.33,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,44,54,1.0,10.0,0.33,-8.02,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,44,54,1.0,10.0,0.33,-3.19,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,44,54,1.0,10.0,0.33,6.28,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,44,54,1.0,10.0,0.33,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,44,54,1.0,10.0,0.33,-7.24,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,44,54,1.0,10.0,0.33,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,44,54,1.0,10.0,0.33,7.11,-7.22,15.9
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,44,59,1.0,10.0,0.33,0.0,-7.05,14.16
+136,DOG,ProShares Short Dow30,5,60,14,39,74,1.0,10.0,0.12,-12.5,-11.96,16.45
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,39,79,1.0,10.0,0.12,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,60,14,39,79,1.0,10.0,0.12,-12.5,-11.96,16.45
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,39,79,1.0,10.0,0.12,-8.02,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,39,79,1.0,10.0,0.12,-3.19,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,39,79,1.0,10.0,0.12,6.28,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,39,79,1.0,10.0,0.12,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,39,79,1.0,10.0,0.12,-9.48,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,39,79,1.0,10.0,0.12,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,39,79,1.0,10.0,0.12,7.11,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,79,1.0,10.0,0.12,21.14,-6.9,13.34
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,39,74,1.0,10.0,0.12,0.0,-11.62,15.81
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,74,1.0,10.0,0.12,21.14,-6.9,13.34
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,39,74,1.0,10.0,0.12,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,39,74,1.0,10.0,0.12,-8.02,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,39,74,1.0,10.0,0.12,-3.19,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,39,74,1.0,10.0,0.12,6.28,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,39,74,1.0,10.0,0.12,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,39,74,1.0,10.0,0.12,-9.48,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,39,74,1.0,10.0,0.12,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,39,74,1.0,10.0,0.12,7.11,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,74,1.0,10.0,0.12,21.14,-6.9,13.34
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,39,69,1.0,10.0,0.12,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,39,69,1.0,10.0,0.12,0.0,-7.05,14.16
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,69,1.0,10.0,0.12,21.14,-6.9,13.34
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,44,64,1.0,10.0,0.12,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,44,64,1.0,10.0,0.12,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,44,64,1.0,10.0,0.12,6.28,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,44,64,1.0,10.0,0.12,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,44,64,1.0,10.0,0.12,-8.02,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,44,64,1.0,10.0,0.12,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,44,64,1.0,10.0,0.12,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,60,14,44,69,1.0,10.0,0.12,-12.5,-11.96,16.45
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,44,69,1.0,10.0,0.12,7.11,-7.22,15.9
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,39,69,1.0,10.0,0.12,-8.02,-10.13,17.08
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,44,69,1.0,10.0,0.12,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,44,69,1.0,10.0,0.12,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,44,69,1.0,10.0,0.12,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,44,69,1.0,10.0,0.12,6.28,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,44,69,1.0,10.0,0.12,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,44,69,1.0,10.0,0.12,-8.02,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,44,69,1.0,10.0,0.12,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,44,69,1.0,10.0,0.12,0.0,-11.62,15.81
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,44,64,1.0,10.0,0.12,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,44,64,1.0,10.0,0.12,7.11,-7.22,15.9
+136,DOG,ProShares Short Dow30,5,60,14,39,64,1.0,10.0,0.12,-12.5,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,64,1.0,10.0,0.12,21.14,-6.9,13.34
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,39,69,1.0,10.0,0.12,-3.19,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,39,69,1.0,10.0,0.12,6.28,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,39,69,1.0,10.0,0.12,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,39,69,1.0,10.0,0.12,-9.48,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,39,69,1.0,10.0,0.12,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,39,69,1.0,10.0,0.12,7.11,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,39,69,1.0,10.0,0.12,21.14,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,60,14,39,69,1.0,10.0,0.12,-12.5,-11.96,16.45
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,39,64,1.0,10.0,0.12,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,39,64,1.0,10.0,0.12,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,39,64,1.0,10.0,0.12,-8.02,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,39,64,1.0,10.0,0.12,-3.19,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,39,64,1.0,10.0,0.12,6.28,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,39,64,1.0,10.0,0.12,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,39,64,1.0,10.0,0.12,-9.48,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,39,64,1.0,10.0,0.12,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,39,64,1.0,10.0,0.12,7.11,-7.22,15.9
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,39,79,1.0,10.0,0.12,0.0,-7.05,14.16
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,79,1.0,10.0,0.12,21.14,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,44,74,1.0,10.0,0.12,7.11,-7.22,15.9
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,49,74,1.0,10.0,0.12,0.0,-12.56,12.15
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,49,69,1.0,10.0,0.12,7.11,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,49,69,1.0,10.0,0.12,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,49,69,1.0,10.0,0.12,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,49,69,1.0,10.0,0.12,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,49,69,1.0,10.0,0.12,6.28,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,49,69,1.0,10.0,0.12,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,49,69,1.0,10.0,0.12,-8.02,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,49,69,1.0,10.0,0.12,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,49,69,1.0,10.0,0.12,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,60,14,49,74,1.0,10.0,0.12,-12.5,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,74,1.0,10.0,0.12,21.14,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,49,74,1.0,10.0,0.12,7.11,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,49,74,1.0,10.0,0.12,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,49,74,1.0,10.0,0.12,-9.48,-8.98,14.48
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,49,74,1.0,10.0,0.12,6.28,-7.84,16.39
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,44,74,1.0,10.0,0.12,0.0,-11.56,12.78
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,49,74,1.0,10.0,0.12,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,49,74,1.0,10.0,0.12,-8.02,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,49,74,1.0,10.0,0.12,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,49,74,1.0,10.0,0.12,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,60,14,49,79,1.0,10.0,0.12,-12.5,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,79,1.0,10.0,0.12,21.14,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,49,79,1.0,10.0,0.12,7.11,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,49,79,1.0,10.0,0.12,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,49,79,1.0,10.0,0.12,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,49,79,1.0,10.0,0.12,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,49,79,1.0,10.0,0.12,6.28,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,49,79,1.0,10.0,0.12,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,49,79,1.0,10.0,0.12,-8.02,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,49,79,1.0,10.0,0.12,0.0,-7.05,14.16
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,69,1.0,10.0,0.12,21.14,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,60,14,49,69,1.0,10.0,0.12,-12.5,-11.96,16.45
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,49,64,1.0,10.0,0.12,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,49,64,1.0,10.0,0.12,0.0,-7.05,14.16
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,44,74,1.0,10.0,0.12,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,44,74,1.0,10.0,0.12,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,44,74,1.0,10.0,0.12,6.28,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,44,74,1.0,10.0,0.12,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,44,74,1.0,10.0,0.12,-8.02,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,44,74,1.0,10.0,0.12,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,44,74,1.0,10.0,0.12,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,60,14,44,79,1.0,10.0,0.12,-12.5,-11.96,16.45
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,49,79,1.0,10.0,0.12,0.0,-11.62,15.81
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,44,79,1.0,10.0,0.12,7.11,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,44,79,1.0,10.0,0.12,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,44,79,1.0,10.0,0.12,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,44,79,1.0,10.0,0.12,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,44,79,1.0,10.0,0.12,6.28,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,44,79,1.0,10.0,0.12,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,44,79,1.0,10.0,0.12,-8.02,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,44,79,1.0,10.0,0.12,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,44,79,1.0,10.0,0.12,0.0,-11.62,15.81
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,44,64,1.0,10.0,0.12,21.14,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,60,14,44,64,1.0,10.0,0.12,-12.5,-11.96,16.45
+136,DOG,ProShares Short Dow30,5,60,14,49,64,1.0,10.0,0.12,-12.5,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,49,64,1.0,10.0,0.12,21.14,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,49,64,1.0,10.0,0.12,7.11,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,49,64,1.0,10.0,0.12,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,49,64,1.0,10.0,0.12,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,49,64,1.0,10.0,0.12,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,49,64,1.0,10.0,0.12,6.28,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,49,64,1.0,10.0,0.12,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,49,64,1.0,10.0,0.12,-8.02,-10.13,17.08
+136,DOG,ProShares Short Dow30,5,60,14,44,74,1.0,10.0,0.12,-12.5,-11.96,16.45
+136,DOG,ProShares Short Dow30,5,120,14,24,54,1.0,10.0,-0.76,-12.84,-11.96,16.45
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,54,1.0,10.0,-0.76,0.0,-6.9,13.34
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-7.05,14.16
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,24,59,1.0,10.0,-0.76,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,24,59,1.0,10.0,-0.76,9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-11.56,12.78
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,54,1.0,10.0,-0.76,0.0,-6.9,13.34
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,120,14,24,59,1.0,10.0,-0.76,-12.84,-11.96,16.45
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,24,54,1.0,10.0,-0.76,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,24,54,1.0,10.0,-0.76,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,24,54,1.0,10.0,-0.76,0.0,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,24,54,1.0,10.0,-0.76,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,24,54,1.0,10.0,-0.76,0.0,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,24,54,1.0,10.0,-0.76,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,24,54,1.0,10.0,-0.76,9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,24,54,1.0,10.0,-0.76,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,24,54,1.0,10.0,-0.76,0.0,-7.22,15.9
+136,DOG,ProShares Short Dow30,5,120,14,29,54,1.0,10.0,-0.76,-12.84,-11.96,16.45
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,24,59,1.0,10.0,-0.76,0.0,-10.13,17.08
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,29,54,1.0,10.0,-0.76,0.0,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,59,1.0,10.0,-0.76,0.0,-6.9,13.34
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,29,59,1.0,10.0,-0.76,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,29,59,1.0,10.0,-0.76,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,29,59,1.0,10.0,-0.76,0.0,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,29,59,1.0,10.0,-0.76,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,29,59,1.0,10.0,-0.76,0.0,-7.84,16.39
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,29,54,1.0,10.0,-0.76,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,29,59,1.0,10.0,-0.76,9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,29,59,1.0,10.0,-0.76,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,29,59,1.0,10.0,-0.76,0.0,-7.22,15.9
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,29,59,1.0,10.0,-0.76,0.0,-12.56,12.15
+136,DOG,ProShares Short Dow30,5,120,14,29,59,1.0,10.0,-0.76,-12.84,-11.96,16.45
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,29,54,1.0,10.0,-0.76,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,29,54,1.0,10.0,-0.76,0.0,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,29,54,1.0,10.0,-0.76,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,29,54,1.0,10.0,-0.76,0.0,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,29,54,1.0,10.0,-0.76,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,29,54,1.0,10.0,-0.76,9.72,-8.98,14.48
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,29,54,1.0,10.0,-0.76,0.0,-11.62,15.81
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,34,54,1.0,10.0,-0.9,0.0,-12.56,12.15
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,34,54,1.0,10.0,-0.9,-8.02,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,34,54,1.0,10.0,-0.9,-3.19,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,34,54,1.0,10.0,-0.9,0.0,-7.84,16.39
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,34,54,1.0,10.0,-0.9,0.0,-7.22,15.9
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,34,54,1.0,10.0,-0.9,-7.36,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,34,54,1.0,10.0,-0.9,0.0,-11.56,12.78
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,54,1.0,10.0,-0.9,21.14,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,60,14,34,59,1.0,10.0,-0.9,-12.5,-11.96,16.45
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,34,54,1.0,10.0,-0.9,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,34,54,1.0,10.0,-0.9,0.0,-7.05,14.16
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,59,1.0,10.0,-0.9,21.14,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,34,59,1.0,10.0,-0.9,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,34,59,1.0,10.0,-0.9,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,34,59,1.0,10.0,-0.9,-7.36,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,34,59,1.0,10.0,-0.9,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,34,59,1.0,10.0,-0.9,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,34,59,1.0,10.0,-0.9,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,34,59,1.0,10.0,-0.9,-8.02,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,34,59,1.0,10.0,-0.9,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,34,59,1.0,10.0,-0.9,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,60,14,34,54,1.0,10.0,-0.9,-12.5,-11.96,16.45
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,34,79,1.0,10.0,-1.1,0.0,-11.62,15.81
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,34,69,1.0,10.0,-1.1,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,34,79,1.0,10.0,-1.1,0.0,-7.05,14.16
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,74,1.0,10.0,-1.1,21.14,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,34,74,1.0,10.0,-1.1,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,34,74,1.0,10.0,-1.1,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,34,74,1.0,10.0,-1.1,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,34,74,1.0,10.0,-1.1,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,34,74,1.0,10.0,-1.1,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,34,74,1.0,10.0,-1.1,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,34,74,1.0,10.0,-1.1,-8.02,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,34,74,1.0,10.0,-1.1,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,34,74,1.0,10.0,-1.1,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,60,14,34,79,1.0,10.0,-1.1,-12.5,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,79,1.0,10.0,-1.1,21.14,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,34,79,1.0,10.0,-1.1,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,34,79,1.0,10.0,-1.1,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,34,79,1.0,10.0,-1.1,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,34,79,1.0,10.0,-1.1,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,34,79,1.0,10.0,-1.1,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,34,79,1.0,10.0,-1.1,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,34,79,1.0,10.0,-1.1,-8.02,-10.13,17.08
+136,DOG,ProShares Short Dow30,5,60,14,34,74,1.0,10.0,-1.1,-12.5,-11.96,16.45
+136,DOG,ProShares Short Dow30,5,60,14,34,64,1.0,10.0,-1.1,-12.5,-11.96,16.45
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,34,69,1.0,10.0,-1.1,0.0,-7.05,14.16
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,34,64,1.0,10.0,-1.1,0.0,-7.05,14.16
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,64,1.0,10.0,-1.1,21.14,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,34,64,1.0,10.0,-1.1,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,34,64,1.0,10.0,-1.1,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,34,64,1.0,10.0,-1.1,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,34,64,1.0,10.0,-1.1,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,34,64,1.0,10.0,-1.1,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,34,64,1.0,10.0,-1.1,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,34,64,1.0,10.0,-1.1,-8.02,-10.13,17.08
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,34,64,1.0,10.0,-1.1,0.0,-11.62,15.81
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,34,69,1.0,10.0,-1.1,-8.02,-10.13,17.08
+136,DOG,ProShares Short Dow30,5,60,14,34,69,1.0,10.0,-1.1,-12.5,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,34,69,1.0,10.0,-1.1,21.14,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,34,69,1.0,10.0,-1.1,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,34,69,1.0,10.0,-1.1,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,34,69,1.0,10.0,-1.1,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,34,69,1.0,10.0,-1.1,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,34,69,1.0,10.0,-1.1,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,34,69,1.0,10.0,-1.1,-3.19,-9.96,12.69
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,54,1.0,10.0,-1.74,0.0,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,60,14,24,54,1.0,10.0,-1.74,-12.5,-11.96,16.45
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,24,54,1.0,10.0,-1.74,0.0,-12.56,12.15
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,24,54,1.0,10.0,-1.74,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,24,54,1.0,10.0,-1.74,-3.94,-10.13,17.08
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,24,54,1.0,10.0,-1.74,0.46,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,24,54,1.0,10.0,-1.74,0.0,-11.56,12.78
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,24,54,1.0,10.0,-1.74,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,24,54,1.0,10.0,-1.74,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,60,14,24,59,1.0,10.0,-1.74,-12.5,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,59,1.0,10.0,-1.74,0.0,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,24,59,1.0,10.0,-1.74,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,24,59,1.0,10.0,-1.74,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,24,59,1.0,10.0,-1.74,0.46,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,24,59,1.0,10.0,-1.74,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,24,59,1.0,10.0,-1.74,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,24,59,1.0,10.0,-1.74,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,24,59,1.0,10.0,-1.74,-3.94,-10.13,17.08
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,24,54,1.0,10.0,-1.74,0.0,-7.22,15.9
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,24,59,1.0,10.0,-1.74,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,24,59,1.0,10.0,-1.74,0.0,-11.62,15.81
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,24,54,1.0,10.0,-1.74,0.0,-7.84,16.39
+136,DOG,ProShares Short Dow30,5,120,14,39,54,1.0,10.0,-2.46,-12.84,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,54,1.0,10.0,-2.46,0.0,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,39,54,1.0,10.0,-2.46,1.98,-7.22,15.9
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,49,54,1.0,10.0,-2.46,1.98,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,49,54,1.0,10.0,-2.46,0.0,-11.56,12.78
+136,DOG,ProShares Short Dow30,5,120,14,44,54,1.0,10.0,-2.46,-12.84,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,59,1.0,10.0,-2.46,0.0,-6.9,13.34
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,39,59,1.0,10.0,-2.46,1.49,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,39,59,1.0,10.0,-2.46,-5.26,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,39,59,1.0,10.0,-2.46,-4.46,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,39,59,1.0,10.0,-2.46,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,39,59,1.0,10.0,-2.46,0.0,-11.62,15.81
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,39,59,1.0,10.0,-2.46,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,39,59,1.0,10.0,-2.46,1.98,-7.22,15.9
+136,DOG,ProShares Short Dow30,5,120,14,39,59,1.0,10.0,-2.46,-12.84,-11.96,16.45
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,39,54,1.0,10.0,-2.46,0.0,-11.56,12.78
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,39,54,1.0,10.0,-2.46,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,39,54,1.0,10.0,-2.46,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,39,54,1.0,10.0,-2.46,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,39,54,1.0,10.0,-2.46,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,39,54,1.0,10.0,-2.46,1.49,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,39,54,1.0,10.0,-2.46,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,39,54,1.0,10.0,-2.46,-7.94,-8.98,14.48
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,39,59,1.0,10.0,-2.46,-7.94,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,39,59,1.0,10.0,-2.46,0.0,-12.56,12.15
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,44,59,1.0,10.0,-2.46,-4.46,-10.13,17.08
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,44,59,1.0,10.0,-2.46,-7.94,-8.98,14.48
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,44,59,1.0,10.0,-2.46,1.49,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,44,59,1.0,10.0,-2.46,-5.26,-9.96,12.69
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,49,54,1.0,10.0,-2.46,0.0,-7.05,14.16
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,44,59,1.0,10.0,-2.46,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,44,59,1.0,10.0,-2.46,0.0,-11.62,15.81
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,49,54,1.0,10.0,-2.46,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,120,14,49,54,1.0,10.0,-2.46,-12.84,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,54,1.0,10.0,-2.46,0.0,-6.9,13.34
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,49,59,1.0,10.0,-2.46,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,49,59,1.0,10.0,-2.46,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,49,59,1.0,10.0,-2.46,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,49,59,1.0,10.0,-2.46,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,49,59,1.0,10.0,-2.46,1.49,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,49,59,1.0,10.0,-2.46,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,49,59,1.0,10.0,-2.46,-7.94,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,49,59,1.0,10.0,-2.46,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,49,59,1.0,10.0,-2.46,1.98,-7.22,15.9
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,44,59,1.0,10.0,-2.46,0.0,-12.56,12.15
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,44,59,1.0,10.0,-2.46,0.0,-11.56,12.78
+136,DOG,ProShares Short Dow30,5,120,14,49,59,1.0,10.0,-2.46,-12.84,-11.96,16.45
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,44,59,1.0,10.0,-2.46,1.98,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,54,1.0,10.0,-2.46,0.0,-6.9,13.34
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,49,54,1.0,10.0,-2.46,-7.94,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,49,54,1.0,10.0,-2.46,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,49,54,1.0,10.0,-2.46,1.49,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,49,54,1.0,10.0,-2.46,-5.26,-9.96,12.69
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,44,54,1.0,10.0,-2.46,1.98,-7.22,15.9
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,49,54,1.0,10.0,-2.46,-4.46,-10.13,17.08
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,44,54,1.0,10.0,-2.46,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,44,54,1.0,10.0,-2.46,-7.94,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,44,54,1.0,10.0,-2.46,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,44,54,1.0,10.0,-2.46,1.49,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,44,54,1.0,10.0,-2.46,-5.26,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,44,54,1.0,10.0,-2.46,-4.46,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,44,54,1.0,10.0,-2.46,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,44,54,1.0,10.0,-2.46,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,120,14,44,59,1.0,10.0,-2.46,-12.84,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,59,1.0,10.0,-2.46,0.0,-6.9,13.34
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,59,1.0,10.0,-2.46,0.0,-6.9,13.34
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,24,79,1.0,10.0,-2.53,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,24,79,1.0,10.0,-2.53,0.0,-7.22,15.9
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,24,79,1.0,10.0,-2.53,-9.72,-8.98,14.48
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,24,79,1.0,10.0,-2.53,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,24,79,1.0,10.0,-2.53,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,24,79,1.0,10.0,-2.53,0.0,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,24,79,1.0,10.0,-2.53,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,24,79,1.0,10.0,-2.53,0.0,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,24,79,1.0,10.0,-2.53,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,29,69,1.0,10.0,-2.53,0.0,-7.84,16.39
+136,DOG,ProShares Short Dow30,5,120,14,29,64,1.0,10.0,-2.53,-12.84,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,64,1.0,10.0,-2.53,0.0,-6.9,13.34
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,29,74,1.0,10.0,-2.53,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,29,74,1.0,10.0,-2.53,-9.72,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,29,74,1.0,10.0,-2.53,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,29,74,1.0,10.0,-2.53,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,29,74,1.0,10.0,-2.53,-5.26,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,29,74,1.0,10.0,-2.53,0.0,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,29,74,1.0,10.0,-2.53,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,29,74,1.0,10.0,-2.53,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,120,14,29,79,1.0,10.0,-2.53,-12.84,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,79,1.0,10.0,-2.53,0.0,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,29,79,1.0,10.0,-2.53,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,29,79,1.0,10.0,-2.53,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,29,79,1.0,10.0,-2.53,-9.72,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,29,79,1.0,10.0,-2.53,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,29,79,1.0,10.0,-2.53,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,29,79,1.0,10.0,-2.53,-5.26,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,29,79,1.0,10.0,-2.53,0.0,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,29,79,1.0,10.0,-2.53,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,29,79,1.0,10.0,-2.53,0.0,-11.62,15.81
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,29,74,1.0,10.0,-2.53,0.0,-7.22,15.9
+136,DOG,ProShares Short Dow30,5,120,14,29,74,1.0,10.0,-2.53,-12.84,-11.96,16.45
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,29,69,1.0,10.0,-2.53,0.0,-11.62,15.81
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,29,64,1.0,10.0,-2.53,0.0,-11.62,15.81
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,29,64,1.0,10.0,-2.53,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,29,64,1.0,10.0,-2.53,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,29,64,1.0,10.0,-2.53,-9.72,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,29,64,1.0,10.0,-2.53,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,29,64,1.0,10.0,-2.53,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,29,64,1.0,10.0,-2.53,-5.26,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,29,64,1.0,10.0,-2.53,0.0,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,29,64,1.0,10.0,-2.53,0.0,-7.05,14.16
+136,DOG,ProShares Short Dow30,5,120,14,29,69,1.0,10.0,-2.53,-12.84,-11.96,16.45
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,29,69,1.0,10.0,-2.53,0.0,-7.05,14.16
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,69,1.0,10.0,-2.53,0.0,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,29,69,1.0,10.0,-2.53,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,29,69,1.0,10.0,-2.53,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,29,69,1.0,10.0,-2.53,-9.72,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,29,69,1.0,10.0,-2.53,0.0,-12.56,12.15
+136,DOG,ProShares Short Dow30,5,120,14,24,79,1.0,10.0,-2.53,-12.84,-11.96,16.45
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,29,69,1.0,10.0,-2.53,-5.26,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,29,69,1.0,10.0,-2.53,0.0,-10.13,17.08
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,79,1.0,10.0,-2.53,0.0,-6.9,13.34
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,29,74,1.0,10.0,-2.53,0.0,-6.9,13.34
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,24,74,1.0,10.0,-2.53,0.0,-11.62,15.81
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,24,64,1.0,10.0,-2.53,0.0,-7.84,16.39
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,69,1.0,10.0,-2.53,0.0,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,120,14,24,69,1.0,10.0,-2.53,-12.84,-11.96,16.45
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,24,64,1.0,10.0,-2.53,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,24,64,1.0,10.0,-2.53,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,24,64,1.0,10.0,-2.53,0.0,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,24,64,1.0,10.0,-2.53,-5.26,-9.96,12.69
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,24,64,1.0,10.0,-2.53,0.0,-12.56,12.15
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,24,69,1.0,10.0,-2.53,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,24,64,1.0,10.0,-2.53,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,24,64,1.0,10.0,-2.53,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,24,64,1.0,10.0,-2.53,0.0,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,64,1.0,10.0,-2.53,0.0,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,120,14,24,64,1.0,10.0,-2.53,-12.84,-11.96,16.45
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,24,74,1.0,10.0,-2.53,0.0,-7.05,14.16
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,24,69,1.0,10.0,-2.53,0.0,-7.22,15.9
+136,DOG,ProShares Short Dow30,5,120,14,24,74,1.0,10.0,-2.53,-12.84,-11.96,16.45
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,24,69,1.0,10.0,-2.53,-9.72,-8.98,14.48
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,24,74,1.0,10.0,-2.53,0.0,-7.22,15.9
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,24,69,1.0,10.0,-2.53,0.0,-12.56,12.15
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,24,74,1.0,10.0,-2.53,0.0,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,24,74,1.0,10.0,-2.53,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,24,74,1.0,10.0,-2.53,0.0,-7.84,16.39
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,24,74,1.0,10.0,-2.53,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,24,74,1.0,10.0,-2.53,0.0,-11.56,12.78
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,24,74,1.0,10.0,-2.53,0.0,-12.56,12.15
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,24,74,1.0,10.0,-2.53,0.0,-6.9,13.34
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,24,69,1.0,10.0,-2.53,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,24,69,1.0,10.0,-2.53,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,24,69,1.0,10.0,-2.53,0.0,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,24,69,1.0,10.0,-2.53,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,24,69,1.0,10.0,-2.53,0.0,-7.84,16.39
+136,DOG,ProShares Short Dow30,5,120,14,44,79,1.0,10.0,-2.62,-12.84,-11.96,16.45
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,44,79,1.0,10.0,-2.62,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,44,79,1.0,10.0,-2.62,1.49,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,44,79,1.0,10.0,-2.62,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,44,79,1.0,10.0,-2.62,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,44,79,1.0,10.0,-2.62,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,44,79,1.0,10.0,-2.62,1.98,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,79,1.0,10.0,-2.62,0.0,-6.9,13.34
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,44,74,1.0,10.0,-2.62,0.0,-12.56,12.15
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,44,74,1.0,10.0,-2.62,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,44,74,1.0,10.0,-2.62,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,44,74,1.0,10.0,-2.62,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,44,74,1.0,10.0,-2.62,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,44,74,1.0,10.0,-2.62,1.49,-7.84,16.39
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,44,79,1.0,10.0,-2.62,0.0,-7.05,14.16
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,44,74,1.0,10.0,-2.62,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,44,74,1.0,10.0,-2.62,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,44,74,1.0,10.0,-2.62,1.98,-7.22,15.9
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,44,79,1.0,10.0,-2.62,-4.46,-10.13,17.08
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,44,64,1.0,10.0,-2.62,1.49,-7.84,16.39
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,44,79,1.0,10.0,-2.62,0.0,-11.62,15.81
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,64,1.0,10.0,-2.62,0.0,-6.9,13.34
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,44,69,1.0,10.0,-2.62,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,44,69,1.0,10.0,-2.62,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,44,69,1.0,10.0,-2.62,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,44,69,1.0,10.0,-2.62,1.49,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,44,69,1.0,10.0,-2.62,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,44,69,1.0,10.0,-2.62,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,44,69,1.0,10.0,-2.62,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,44,69,1.0,10.0,-2.62,1.98,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,69,1.0,10.0,-2.62,0.0,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,120,14,44,69,1.0,10.0,-2.62,-12.84,-11.96,16.45
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,44,64,1.0,10.0,-2.62,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,44,64,1.0,10.0,-2.62,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,44,64,1.0,10.0,-2.62,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,44,64,1.0,10.0,-2.62,-5.26,-9.96,12.69
+136,DOG,ProShares Short Dow30,5,120,14,44,64,1.0,10.0,-2.62,-12.84,-11.96,16.45
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,44,64,1.0,10.0,-2.62,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,44,64,1.0,10.0,-2.62,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,44,64,1.0,10.0,-2.62,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,44,64,1.0,10.0,-2.62,1.98,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,44,74,1.0,10.0,-2.62,0.0,-6.9,13.34
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,39,79,1.0,10.0,-2.62,0.0,-11.56,12.78
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,39,79,1.0,10.0,-2.62,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,39,64,1.0,10.0,-2.62,0.0,-7.05,14.16
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,39,69,1.0,10.0,-2.62,1.49,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,39,69,1.0,10.0,-2.62,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,39,69,1.0,10.0,-2.62,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,39,69,1.0,10.0,-2.62,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,39,69,1.0,10.0,-2.62,1.98,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,69,1.0,10.0,-2.62,0.0,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,120,14,39,69,1.0,10.0,-2.62,-12.84,-11.96,16.45
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,39,64,1.0,10.0,-2.62,0.0,-11.62,15.81
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,39,64,1.0,10.0,-2.62,-4.46,-10.13,17.08
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,39,69,1.0,10.0,-2.62,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,39,64,1.0,10.0,-2.62,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,39,64,1.0,10.0,-2.62,1.49,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,39,64,1.0,10.0,-2.62,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,39,64,1.0,10.0,-2.62,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,39,64,1.0,10.0,-2.62,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,39,64,1.0,10.0,-2.62,1.98,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,64,1.0,10.0,-2.62,0.0,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,120,14,39,64,1.0,10.0,-2.62,-12.84,-11.96,16.45
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,39,69,1.0,10.0,-2.62,-5.26,-9.96,12.69
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,39,69,1.0,10.0,-2.62,0.0,-7.05,14.16
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,39,79,1.0,10.0,-2.62,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,39,74,1.0,10.0,-2.62,0.0,-11.62,15.81
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,39,79,1.0,10.0,-2.62,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,39,79,1.0,10.0,-2.62,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,39,79,1.0,10.0,-2.62,1.49,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,39,79,1.0,10.0,-2.62,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,39,79,1.0,10.0,-2.62,-9.72,-8.98,14.48
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,39,79,1.0,10.0,-2.62,1.98,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,79,1.0,10.0,-2.62,0.0,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,120,14,39,79,1.0,10.0,-2.62,-12.84,-11.96,16.45
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,39,74,1.0,10.0,-2.62,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,39,69,1.0,10.0,-2.62,0.0,-11.62,15.81
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,39,74,1.0,10.0,-2.62,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,39,74,1.0,10.0,-2.62,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,39,74,1.0,10.0,-2.62,1.49,-7.84,16.39
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,39,74,1.0,10.0,-2.62,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,39,74,1.0,10.0,-2.62,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,39,74,1.0,10.0,-2.62,1.98,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,39,74,1.0,10.0,-2.62,0.0,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,120,14,39,74,1.0,10.0,-2.62,-12.84,-11.96,16.45
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,39,74,1.0,10.0,-2.62,0.0,-12.56,12.15
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,49,79,1.0,10.0,-2.62,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,120,14,49,64,1.0,10.0,-2.62,-12.84,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,69,1.0,10.0,-2.62,0.0,-6.9,13.34
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,49,69,1.0,10.0,-2.62,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,49,69,1.0,10.0,-2.62,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,49,69,1.0,10.0,-2.62,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,49,69,1.0,10.0,-2.62,1.49,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,49,69,1.0,10.0,-2.62,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,49,69,1.0,10.0,-2.62,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,49,69,1.0,10.0,-2.62,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,49,69,1.0,10.0,-2.62,1.98,-7.22,15.9
+136,DOG,ProShares Short Dow30,5,120,14,49,69,1.0,10.0,-2.62,-12.84,-11.96,16.45
+136,DOG,ProShares Short Dow30,5,120,14,49,74,1.0,10.0,-2.62,-12.84,-11.96,16.45
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,49,64,1.0,10.0,-2.62,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,49,64,1.0,10.0,-2.62,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,49,64,1.0,10.0,-2.62,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,49,64,1.0,10.0,-2.62,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,49,64,1.0,10.0,-2.62,1.49,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,49,64,1.0,10.0,-2.62,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,49,64,1.0,10.0,-2.62,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,49,64,1.0,10.0,-2.62,0.0,-11.56,12.78
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,49,69,1.0,10.0,-2.62,0.0,-11.62,15.81
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,74,1.0,10.0,-2.62,0.0,-6.9,13.34
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,64,1.0,10.0,-2.62,0.0,-6.9,13.34
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,49,79,1.0,10.0,-2.62,0.0,-6.9,13.34
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,49,79,1.0,10.0,-2.62,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,49,79,1.0,10.0,-2.62,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,49,79,1.0,10.0,-2.62,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,49,79,1.0,10.0,-2.62,1.49,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,49,79,1.0,10.0,-2.62,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,49,79,1.0,10.0,-2.62,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,49,79,1.0,10.0,-2.62,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,49,79,1.0,10.0,-2.62,1.98,-7.22,15.9
+136,DOG,ProShares Short Dow30,5,120,14,49,79,1.0,10.0,-2.62,-12.84,-11.96,16.45
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,49,74,1.0,10.0,-2.62,1.98,-7.22,15.9
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,49,74,1.0,10.0,-2.62,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,49,74,1.0,10.0,-2.62,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,49,74,1.0,10.0,-2.62,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,49,74,1.0,10.0,-2.62,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,49,74,1.0,10.0,-2.62,1.49,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,49,74,1.0,10.0,-2.62,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,49,74,1.0,10.0,-2.62,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,49,74,1.0,10.0,-2.62,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,49,64,1.0,10.0,-2.62,1.98,-7.22,15.9
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,44,69,1.0,10.0,-2.62,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,120,14,44,74,1.0,10.0,-2.62,-12.84,-11.96,16.45
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,29,59,1.0,10.0,-2.63,0.0,-7.05,14.16
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,29,54,1.0,10.0,-2.63,0.0,-7.05,14.16
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,54,1.0,10.0,-2.63,0.0,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,29,54,1.0,10.0,-2.63,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,29,54,1.0,10.0,-2.63,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,29,54,1.0,10.0,-2.63,-5.2,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,29,54,1.0,10.0,-2.63,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,29,54,1.0,10.0,-2.63,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,29,54,1.0,10.0,-2.63,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,29,54,1.0,10.0,-2.63,-8.02,-10.13,17.08
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,29,54,1.0,10.0,-2.63,0.0,-11.62,15.81
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,29,59,1.0,10.0,-2.63,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,60,14,29,59,1.0,10.0,-2.63,-12.5,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,59,1.0,10.0,-2.63,0.0,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,29,59,1.0,10.0,-2.63,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,29,59,1.0,10.0,-2.63,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,29,59,1.0,10.0,-2.63,-5.2,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,29,59,1.0,10.0,-2.63,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,29,59,1.0,10.0,-2.63,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,29,59,1.0,10.0,-2.63,-3.19,-9.96,12.69
+136,DOG,ProShares Short Dow30,5,60,14,29,54,1.0,10.0,-2.63,-12.5,-11.96,16.45
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,29,59,1.0,10.0,-2.63,-8.02,-10.13,17.08
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,24,69,1.0,10.0,-2.65,0.0,-11.62,15.81
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,24,64,1.0,10.0,-2.65,-3.94,-10.13,17.08
+136,DOG,ProShares Short Dow30,5,60,14,24,64,1.0,10.0,-2.65,-12.5,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,64,1.0,10.0,-2.65,0.0,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,24,64,1.0,10.0,-2.65,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,24,64,1.0,10.0,-2.65,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,24,64,1.0,10.0,-2.65,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,24,64,1.0,10.0,-2.65,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,24,64,1.0,10.0,-2.65,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,24,64,1.0,10.0,-2.65,-3.19,-9.96,12.69
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,24,64,1.0,10.0,-2.65,0.0,-7.05,14.16
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,24,69,1.0,10.0,-2.65,-3.19,-9.96,12.69
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,24,64,1.0,10.0,-2.65,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,60,14,24,69,1.0,10.0,-2.65,-12.5,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,69,1.0,10.0,-2.65,0.0,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,24,69,1.0,10.0,-2.65,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,24,69,1.0,10.0,-2.65,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,24,69,1.0,10.0,-2.65,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,24,69,1.0,10.0,-2.65,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,24,69,1.0,10.0,-2.65,0.0,-7.84,16.39
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,24,69,1.0,10.0,-2.65,-3.94,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,24,69,1.0,10.0,-2.65,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,24,79,1.0,10.0,-2.65,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,24,74,1.0,10.0,-2.65,0.0,-7.05,14.16
+136,DOG,ProShares Short Dow30,5,60,14,24,74,1.0,10.0,-2.65,-12.5,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,74,1.0,10.0,-2.65,0.0,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,24,74,1.0,10.0,-2.65,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,24,74,1.0,10.0,-2.65,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,24,74,1.0,10.0,-2.65,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,24,74,1.0,10.0,-2.65,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,24,74,1.0,10.0,-2.65,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,24,74,1.0,10.0,-2.65,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,24,74,1.0,10.0,-2.65,-3.94,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,24,79,1.0,10.0,-2.65,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,24,74,1.0,10.0,-2.65,0.0,-11.62,15.81
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,24,79,1.0,10.0,-2.65,0.0,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,24,79,1.0,10.0,-2.65,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,24,79,1.0,10.0,-2.65,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,24,79,1.0,10.0,-2.65,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,24,79,1.0,10.0,-2.65,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,24,79,1.0,10.0,-2.65,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,24,79,1.0,10.0,-2.65,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,24,79,1.0,10.0,-2.65,-3.94,-10.13,17.08
+136,DOG,ProShares Short Dow30,5,60,14,24,79,1.0,10.0,-2.65,-12.5,-11.96,16.45
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,34,59,1.0,10.0,-2.74,0.0,-12.56,12.15
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,34,59,1.0,10.0,-2.74,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,34,59,1.0,10.0,-2.74,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,34,59,1.0,10.0,-2.74,-7.59,-8.98,14.48
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,34,59,1.0,10.0,-2.74,0.0,-7.05,14.16
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,34,59,1.0,10.0,-2.74,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,34,59,1.0,10.0,-2.74,-5.26,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,34,59,1.0,10.0,-2.74,-4.46,-10.13,17.08
+136,DOG,ProShares Short Dow30,5,120,14,34,59,1.0,10.0,-2.74,-12.84,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,59,1.0,10.0,-2.74,0.0,-6.9,13.34
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,34,54,1.0,10.0,-2.74,0.0,-7.84,16.39
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,34,54,1.0,10.0,-2.74,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,34,54,1.0,10.0,-2.74,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,34,54,1.0,10.0,-2.74,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,34,54,1.0,10.0,-2.74,-5.26,-9.96,12.69
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,34,54,1.0,10.0,-2.74,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,34,54,1.0,10.0,-2.74,-7.59,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,34,54,1.0,10.0,-2.74,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,34,54,1.0,10.0,-2.74,0.0,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,54,1.0,10.0,-2.74,0.0,-6.9,13.34
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,34,59,1.0,10.0,-2.74,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,120,14,34,54,1.0,10.0,-2.74,-12.84,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,64,1.0,10.0,-2.93,0.0,-6.9,13.34
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,34,79,1.0,10.0,-2.93,0.0,-11.62,15.81
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,34,69,1.0,10.0,-2.93,0.0,-11.62,15.81
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,34,69,1.0,10.0,-2.93,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,34,69,1.0,10.0,-2.93,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,34,69,1.0,10.0,-2.93,0.0,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,34,69,1.0,10.0,-2.93,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,34,69,1.0,10.0,-2.93,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,34,69,1.0,10.0,-2.93,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,34,69,1.0,10.0,-2.93,0.0,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,69,1.0,10.0,-2.93,0.0,-6.9,13.34
+136,DOG,ProShares Short Dow30,5,120,14,34,69,1.0,10.0,-2.93,-12.84,-11.96,16.45
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,34,64,1.0,10.0,-2.93,0.0,-11.62,15.81
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,34,64,1.0,10.0,-2.93,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,34,64,1.0,10.0,-2.93,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,34,64,1.0,10.0,-2.93,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,34,64,1.0,10.0,-2.93,0.0,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,34,64,1.0,10.0,-2.93,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,34,64,1.0,10.0,-2.93,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,34,64,1.0,10.0,-2.93,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,34,64,1.0,10.0,-2.93,0.0,-7.22,15.9
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,34,79,1.0,10.0,-2.93,0.0,-7.05,14.16
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,34,69,1.0,10.0,-2.93,0.0,-7.05,14.16
+136,DOG,ProShares Short Dow30,5,120,14,34,64,1.0,10.0,-2.93,-12.84,-11.96,16.45
+136,DOG,ProShares Short Dow30,5,120,14,34,74,1.0,10.0,-2.93,-12.84,-11.96,16.45
+136,DOG,ProShares Short Dow30,5,120,14,34,79,1.0,10.0,-2.93,-12.84,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,74,1.0,10.0,-2.93,0.0,-6.9,13.34
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,34,79,1.0,10.0,-2.93,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,34,79,1.0,10.0,-2.93,0.0,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,34,79,1.0,10.0,-2.93,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,34,79,1.0,10.0,-2.93,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,34,79,1.0,10.0,-2.93,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,34,79,1.0,10.0,-2.93,0.0,-7.22,15.9
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,120,14,34,79,1.0,10.0,-2.93,0.0,-6.9,13.34
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,34,79,1.0,10.0,-2.93,-4.46,-10.13,17.08
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,120,14,34,74,1.0,10.0,-2.93,0.0,-11.62,15.81
+136,GBLD.K,Invesco MSCI Green Building ETF,5,120,14,34,74,1.0,10.0,-2.93,-4.46,-10.13,17.08
+136,JOJO.K,ATAC Credit Rotation ETF,5,120,14,34,74,1.0,10.0,-2.93,-5.26,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,120,14,34,74,1.0,10.0,-2.93,0.0,-7.84,16.39
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,120,14,34,74,1.0,10.0,-2.93,0.0,-12.56,12.15
+136,TAIL.K,Cambria Tail Risk ETF,5,120,14,34,74,1.0,10.0,-2.93,-9.72,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,120,14,34,74,1.0,10.0,-2.93,0.0,-11.56,12.78
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,120,14,34,74,1.0,10.0,-2.93,0.0,-7.22,15.9
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,120,14,34,74,1.0,10.0,-2.93,0.0,-7.05,14.16
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,29,74,1.0,10.0,-3.02,0.0,-12.56,12.15
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,29,74,1.0,10.0,-3.02,-3.19,-9.96,12.69
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,29,74,1.0,10.0,-3.02,0.0,-7.84,16.39
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,29,74,1.0,10.0,-3.02,0.0,-7.22,15.9
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,29,74,1.0,10.0,-3.02,-9.48,-8.98,14.48
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,29,74,1.0,10.0,-3.02,0.0,-11.56,12.78
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,29,74,1.0,10.0,-3.02,0.0,-7.05,14.16
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,74,1.0,10.0,-3.02,0.0,-6.9,13.34
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,29,74,1.0,10.0,-3.02,-8.02,-10.13,17.08
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,29,79,1.0,10.0,-3.02,0.0,-7.22,15.9
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,29,74,1.0,10.0,-3.02,0.0,-11.62,15.81
+136,DOG,ProShares Short Dow30,5,60,14,29,79,1.0,10.0,-3.02,-12.5,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,79,1.0,10.0,-3.02,0.0,-6.9,13.34
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,29,79,1.0,10.0,-3.02,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,29,79,1.0,10.0,-3.02,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,29,79,1.0,10.0,-3.02,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,29,79,1.0,10.0,-3.02,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,29,79,1.0,10.0,-3.02,-3.19,-9.96,12.69
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,29,69,1.0,10.0,-3.02,0.0,-11.62,15.81
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,29,79,1.0,10.0,-3.02,-8.02,-10.13,17.08
+136,DOG,ProShares Short Dow30,5,60,14,29,74,1.0,10.0,-3.02,-12.5,-11.96,16.45
+136,DOG,ProShares Short Dow30,5,60,14,29,69,1.0,10.0,-3.02,-12.5,-11.96,16.45
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,29,69,1.0,10.0,-3.02,0.0,-7.05,14.16
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,29,69,1.0,10.0,-3.02,-8.02,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,29,79,1.0,10.0,-3.02,0.0,-7.05,14.16
+136,DOG,ProShares Short Dow30,5,60,14,29,64,1.0,10.0,-3.02,-12.5,-11.96,16.45
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,64,1.0,10.0,-3.02,0.0,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,29,64,1.0,10.0,-3.02,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,29,64,1.0,10.0,-3.02,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,29,64,1.0,10.0,-3.02,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,29,64,1.0,10.0,-3.02,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,29,64,1.0,10.0,-3.02,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,29,64,1.0,10.0,-3.02,-3.19,-9.96,12.69
+136,GBLD.K,Invesco MSCI Green Building ETF,5,60,14,29,64,1.0,10.0,-3.02,-8.02,-10.13,17.08
+136,AMPD.K,CNIC ICE US Carbon Neutral Power Futures Index ETF,5,60,14,29,64,1.0,10.0,-3.02,0.0,-7.05,14.16
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,29,64,1.0,10.0,-3.02,0.0,-11.62,15.81
+136,TUA,Simplify Short Term Treasury Futures Strategy ETF,5,60,14,29,69,1.0,10.0,-3.02,0.0,-6.9,13.34
+136,UTHY.O,US Treasury 30 Year Bond ETF,5,60,14,29,69,1.0,10.0,-3.02,0.0,-7.22,15.9
+136,IWMW.K,iShares Russell 2000 BuyWrite ETF,5,60,14,29,69,1.0,10.0,-3.02,0.0,-11.56,12.78
+136,TAIL.K,Cambria Tail Risk ETF,5,60,14,29,69,1.0,10.0,-3.02,-9.48,-8.98,14.48
+136,BELT.O,BlackRock Long-Term US Equity ETF,5,60,14,29,69,1.0,10.0,-3.02,0.0,-12.56,12.15
+136,BBLB.K,JPMorgan BetaBuilders US Treasury Bond 20+ Yr ETF,5,60,14,29,69,1.0,10.0,-3.02,0.0,-7.84,16.39
+136,JOJO.K,ATAC Credit Rotation ETF,5,60,14,29,69,1.0,10.0,-3.02,-3.19,-9.96,12.69
+136,FDND.K,FT Vest Dow Jones Internet & Target Income ETF,5,60,14,29,79,1.0,10.0,-3.02,0.0,-11.62,15.81

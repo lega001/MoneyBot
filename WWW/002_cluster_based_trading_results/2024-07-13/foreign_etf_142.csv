@@ -1,0 +1,577 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,24,54,1.0,10.0,0.25,0.0,-13.49,31.22
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,24,54,1.0,10.0,0.25,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,24,54,1.0,10.0,0.25,-7.52,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,24,54,1.0,10.0,0.25,-10.27,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,24,54,1.0,10.0,0.25,0.0,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,24,54,1.0,10.0,0.25,0.0,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,24,54,1.0,10.0,0.25,28.86,-14.51,35.86
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,24,54,1.0,10.0,0.25,-9.04,-16.43,31.9
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,24,59,1.0,10.0,0.11,-2.88,-13.82,34.92
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,24,59,1.0,10.0,0.11,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,24,59,1.0,10.0,0.11,16.96,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,24,59,1.0,10.0,0.11,0.0,-15.93,35.3
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,24,59,1.0,10.0,0.11,-13.21,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,24,59,1.0,10.0,0.11,0.0,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,24,59,1.0,10.0,0.11,0.0,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,24,59,1.0,10.0,0.11,0.0,-14.51,35.86
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,24,54,1.0,10.0,-0.31,0.0,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,24,54,1.0,10.0,-0.31,0.0,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,24,54,1.0,10.0,-0.31,0.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,24,54,1.0,10.0,-0.31,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,24,54,1.0,10.0,-0.31,-6.21,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,24,54,1.0,10.0,-0.31,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,24,54,1.0,10.0,-0.31,16.96,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,24,54,1.0,10.0,-0.31,0.0,-13.49,31.22
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,24,69,1.0,10.0,-1.3,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,24,64,1.0,10.0,-1.3,-14.12,-13.82,34.92
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,24,69,1.0,10.0,-1.3,0.0,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,24,69,1.0,10.0,-1.3,0.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,24,69,1.0,10.0,-1.3,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,24,69,1.0,10.0,-1.3,-14.12,-13.82,34.92
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,24,69,1.0,10.0,-1.3,16.96,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,24,69,1.0,10.0,-1.3,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,24,64,1.0,10.0,-1.3,0.0,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,24,64,1.0,10.0,-1.3,0.0,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,24,64,1.0,10.0,-1.3,0.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,24,64,1.0,10.0,-1.3,-13.21,-13.63,33.64
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,24,64,1.0,10.0,-1.3,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,24,64,1.0,10.0,-1.3,16.96,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,24,64,1.0,10.0,-1.3,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,24,69,1.0,10.0,-1.3,0.0,-14.51,35.86
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,29,59,1.0,10.0,-3.78,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,59,1.0,10.0,-3.78,-2.88,-13.82,34.92
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,59,1.0,10.0,-3.78,-14.17,-16.43,31.9
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,59,1.0,10.0,-3.78,-13.21,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,29,59,1.0,10.0,-3.78,0.0,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,59,1.0,10.0,-3.78,0.0,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,59,1.0,10.0,-3.78,0.0,-14.51,35.86
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,29,59,1.0,10.0,-3.78,0.0,-13.49,31.22
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,54,1.0,10.0,-4.2,0.0,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,54,1.0,10.0,-4.2,0.0,-14.51,35.86
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,29,54,1.0,10.0,-4.2,0.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,54,1.0,10.0,-4.2,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,54,1.0,10.0,-4.2,-6.21,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,29,54,1.0,10.0,-4.2,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,54,1.0,10.0,-4.2,-14.17,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,29,54,1.0,10.0,-4.2,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,24,79,1.0,10.0,-4.66,-9.96,-16.43,31.9
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,24,74,1.0,10.0,-4.66,0.0,-14.51,35.86
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,24,79,1.0,10.0,-4.66,0.0,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,24,79,1.0,10.0,-4.66,0.0,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,24,79,1.0,10.0,-4.66,0.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,24,79,1.0,10.0,-4.66,-13.21,-13.63,33.64
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,24,79,1.0,10.0,-4.66,0.0,-13.49,31.22
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,24,79,1.0,10.0,-4.66,-14.12,-13.82,34.92
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,24,74,1.0,10.0,-4.66,0.0,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,24,74,1.0,10.0,-4.66,0.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,24,74,1.0,10.0,-4.66,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,24,74,1.0,10.0,-4.66,-14.12,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,24,74,1.0,10.0,-4.66,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,24,74,1.0,10.0,-4.66,-9.96,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,24,74,1.0,10.0,-4.66,0.0,-13.49,31.22
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,24,79,1.0,10.0,-4.66,0.0,-15.93,35.3
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,29,54,1.0,10.0,-4.74,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,54,1.0,10.0,-4.74,-14.84,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,29,54,1.0,10.0,-4.74,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,54,1.0,10.0,-4.74,-13.79,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,54,1.0,10.0,-4.74,-10.27,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,29,54,1.0,10.0,-4.74,0.0,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,54,1.0,10.0,-4.74,0.0,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,54,1.0,10.0,-4.74,0.95,-14.51,35.86
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,24,59,1.0,10.0,-5.11,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,24,59,1.0,10.0,-5.11,-9.04,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,24,59,1.0,10.0,-5.11,0.0,-15.93,35.3
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,24,59,1.0,10.0,-5.11,-10.27,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,24,59,1.0,10.0,-5.11,0.0,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,24,59,1.0,10.0,-5.11,0.0,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,24,59,1.0,10.0,-5.11,-17.35,-14.51,35.86
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,24,59,1.0,10.0,-5.11,-4.26,-13.82,34.92
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,69,1.0,10.0,-5.19,-14.12,-13.82,34.92
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,29,64,1.0,10.0,-5.19,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,69,1.0,10.0,-5.19,0.0,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,69,1.0,10.0,-5.19,0.0,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,29,69,1.0,10.0,-5.19,0.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,69,1.0,10.0,-5.19,-13.21,-13.63,33.64
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,29,69,1.0,10.0,-5.19,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,69,1.0,10.0,-5.19,-14.17,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,29,69,1.0,10.0,-5.19,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,64,1.0,10.0,-5.19,0.0,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,64,1.0,10.0,-5.19,0.0,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,29,64,1.0,10.0,-5.19,0.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,64,1.0,10.0,-5.19,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,64,1.0,10.0,-5.19,-14.12,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,29,64,1.0,10.0,-5.19,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,64,1.0,10.0,-5.19,-14.17,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,29,79,1.0,10.0,-5.53,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,79,1.0,10.0,-5.53,-14.12,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,79,1.0,10.0,-5.53,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,74,1.0,10.0,-5.53,-14.12,-13.82,34.92
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,29,79,1.0,10.0,-5.53,0.0,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,79,1.0,10.0,-5.53,0.0,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,79,1.0,10.0,-5.53,0.0,-14.51,35.86
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,29,79,1.0,10.0,-5.53,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,79,1.0,10.0,-5.53,-16.88,-16.43,31.9
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,74,1.0,10.0,-5.53,-16.88,-16.43,31.9
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,74,1.0,10.0,-5.53,0.0,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,74,1.0,10.0,-5.53,0.0,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,29,74,1.0,10.0,-5.53,0.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,74,1.0,10.0,-5.53,-13.21,-13.63,33.64
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,29,74,1.0,10.0,-5.53,0.0,-15.93,35.3
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,29,74,1.0,10.0,-5.53,0.0,-13.49,31.22
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,24,64,1.0,10.0,-6.43,0.0,-14.82,33.1
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,24,64,1.0,10.0,-6.43,0.0,-15.93,35.3
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,24,64,1.0,10.0,-6.43,-10.27,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,24,64,1.0,10.0,-6.43,-14.79,-13.82,34.92
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,24,64,1.0,10.0,-6.43,-17.35,-14.51,35.86
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,24,64,1.0,10.0,-6.43,-9.04,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,24,64,1.0,10.0,-6.43,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,24,69,1.0,10.0,-6.43,-9.04,-16.43,31.9
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,24,64,1.0,10.0,-6.43,0.0,-13.9,33.22
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,24,69,1.0,10.0,-6.43,0.0,-13.49,31.22
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,24,69,1.0,10.0,-6.43,-14.79,-13.82,34.92
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,24,69,1.0,10.0,-6.43,-17.35,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,24,69,1.0,10.0,-6.43,0.0,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,24,69,1.0,10.0,-6.43,0.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,24,69,1.0,10.0,-6.43,-10.27,-13.63,33.64
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,24,69,1.0,10.0,-6.43,0.0,-15.93,35.3
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,29,59,1.0,10.0,-6.68,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,59,1.0,10.0,-6.68,-12.02,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,59,1.0,10.0,-6.68,-10.27,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,29,59,1.0,10.0,-6.68,0.0,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,59,1.0,10.0,-6.68,0.0,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,59,1.0,10.0,-6.68,-16.34,-14.51,35.86
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,59,1.0,10.0,-6.68,-14.84,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,29,59,1.0,10.0,-6.68,0.0,-13.49,31.22
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,24,79,1.0,10.0,-7.1,-14.79,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,24,79,1.0,10.0,-7.1,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,24,79,1.0,10.0,-7.1,-14.4,-16.43,31.9
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,24,74,1.0,10.0,-7.1,0.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,24,79,1.0,10.0,-7.1,-10.27,-13.63,33.64
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,24,74,1.0,10.0,-7.1,-17.35,-14.51,35.86
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,24,79,1.0,10.0,-7.1,0.0,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,24,79,1.0,10.0,-7.1,0.0,-13.9,33.22
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,24,79,1.0,10.0,-7.1,0.0,-13.49,31.22
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,24,74,1.0,10.0,-7.1,0.0,-13.49,31.22
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,24,74,1.0,10.0,-7.1,0.0,-13.9,33.22
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,24,74,1.0,10.0,-7.1,-10.27,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,24,74,1.0,10.0,-7.1,-14.79,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,24,74,1.0,10.0,-7.1,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,24,74,1.0,10.0,-7.1,-14.4,-16.43,31.9
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,24,79,1.0,10.0,-7.1,-17.35,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,64,1.0,10.0,-7.29,0.0,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,29,64,1.0,10.0,-7.29,0.0,-14.82,33.1
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,29,64,1.0,10.0,-7.29,0.0,-13.49,31.22
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,64,1.0,10.0,-7.29,-16.86,-13.82,34.92
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,64,1.0,10.0,-7.29,-16.34,-14.51,35.86
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,29,69,1.0,10.0,-7.29,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,69,1.0,10.0,-7.29,-14.84,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,29,69,1.0,10.0,-7.29,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,69,1.0,10.0,-7.29,-16.86,-13.82,34.92
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,29,69,1.0,10.0,-7.29,0.0,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,69,1.0,10.0,-7.29,0.0,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,69,1.0,10.0,-7.29,-16.34,-14.51,35.86
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,64,1.0,10.0,-7.29,-10.27,-13.63,33.64
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,69,1.0,10.0,-7.29,-10.27,-13.63,33.64
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,29,64,1.0,10.0,-7.29,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,64,1.0,10.0,-7.29,-14.84,-16.43,31.9
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,74,1.0,10.0,-7.5,-16.55,-16.43,31.9
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,79,1.0,10.0,-7.5,-16.86,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,29,79,1.0,10.0,-7.5,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,79,1.0,10.0,-7.5,-16.55,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,29,79,1.0,10.0,-7.5,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,74,1.0,10.0,-7.5,-16.34,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,74,1.0,10.0,-7.5,0.0,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,29,74,1.0,10.0,-7.5,0.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,74,1.0,10.0,-7.5,-10.27,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,74,1.0,10.0,-7.5,-16.86,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,29,74,1.0,10.0,-7.5,0.0,-15.93,35.3
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,29,74,1.0,10.0,-7.5,0.0,-13.49,31.22
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,29,79,1.0,10.0,-7.5,0.0,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,79,1.0,10.0,-7.5,0.0,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,79,1.0,10.0,-7.5,-16.34,-14.51,35.86
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,79,1.0,10.0,-7.5,-10.27,-13.63,33.64
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,34,54,1.0,10.0,-8.12,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,54,1.0,10.0,-8.12,-16.59,-16.43,31.9
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,54,1.0,10.0,-8.12,-17.55,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,54,1.0,10.0,-8.12,-10.27,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,34,54,1.0,10.0,-8.12,-11.34,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,54,1.0,10.0,-8.12,-5.95,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,54,1.0,10.0,-8.12,-3.24,-14.51,35.86
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,34,54,1.0,10.0,-8.12,0.0,-15.93,35.3
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,54,1.0,10.0,-9.08,-3.72,-14.51,35.86
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,34,54,1.0,10.0,-9.08,-16.44,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,54,1.0,10.0,-9.08,-7.15,-13.9,33.22
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,54,1.0,10.0,-9.08,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,54,1.0,10.0,-9.08,-14.37,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,34,54,1.0,10.0,-9.08,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,54,1.0,10.0,-9.08,-17.71,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,34,54,1.0,10.0,-9.08,0.0,-13.49,31.22
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,59,1.0,10.0,-9.7,-16.07,-13.82,34.92
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,59,1.0,10.0,-9.7,-5.95,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,34,59,1.0,10.0,-9.7,-11.34,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,59,1.0,10.0,-9.7,-10.27,-13.63,33.64
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,59,1.0,10.0,-9.7,-17.37,-14.51,35.86
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,34,59,1.0,10.0,-9.7,0.0,-15.93,35.3
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,34,59,1.0,10.0,-9.7,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,59,1.0,10.0,-9.7,-16.59,-16.43,31.9
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,64,1.0,10.0,-10.05,-17.37,-14.51,35.86
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,69,1.0,10.0,-10.05,-17.37,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,69,1.0,10.0,-10.05,-5.95,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,34,69,1.0,10.0,-10.05,-11.34,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,69,1.0,10.0,-10.05,-10.27,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,69,1.0,10.0,-10.05,-18.91,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,34,69,1.0,10.0,-10.05,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,69,1.0,10.0,-10.05,-16.59,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,34,69,1.0,10.0,-10.05,0.0,-13.49,31.22
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,64,1.0,10.0,-10.05,-5.95,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,34,64,1.0,10.0,-10.05,-11.34,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,64,1.0,10.0,-10.05,-10.27,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,64,1.0,10.0,-10.05,-18.91,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,34,64,1.0,10.0,-10.05,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,64,1.0,10.0,-10.05,-16.59,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,34,64,1.0,10.0,-10.05,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,74,1.0,10.0,-10.05,-16.55,-16.43,31.9
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,74,1.0,10.0,-10.05,-18.91,-13.82,34.92
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,34,74,1.0,10.0,-10.05,0.0,-13.49,31.22
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,34,74,1.0,10.0,-10.05,0.0,-15.93,35.3
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,79,1.0,10.0,-10.05,-5.95,-13.9,33.22
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,34,79,1.0,10.0,-10.05,0.0,-13.49,31.22
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,74,1.0,10.0,-10.05,-10.27,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,34,74,1.0,10.0,-10.05,-11.34,-14.82,33.1
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,79,1.0,10.0,-10.05,-17.37,-14.51,35.86
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,74,1.0,10.0,-10.05,-17.37,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,74,1.0,10.0,-10.05,-5.95,-13.9,33.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,79,1.0,10.0,-10.05,-16.55,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,34,79,1.0,10.0,-10.05,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,79,1.0,10.0,-10.05,-18.91,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,79,1.0,10.0,-10.05,-10.27,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,34,79,1.0,10.0,-10.05,-11.34,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,54,1.0,10.0,-10.28,-7.15,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,39,54,1.0,10.0,-10.28,-20.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,54,1.0,10.0,-10.28,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,54,1.0,10.0,-10.28,-15.7,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,39,54,1.0,10.0,-10.28,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,54,1.0,10.0,-10.28,-17.71,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,39,54,1.0,10.0,-10.28,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,54,1.0,10.0,-10.28,-8.49,-14.51,35.86
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,34,59,1.0,10.0,-10.63,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,59,1.0,10.0,-10.63,-17.71,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,34,59,1.0,10.0,-10.63,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,59,1.0,10.0,-10.63,-12.57,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,59,1.0,10.0,-10.63,-13.21,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,34,59,1.0,10.0,-10.63,-16.44,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,59,1.0,10.0,-10.63,-7.15,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,59,1.0,10.0,-10.63,-17.98,-14.51,35.86
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,74,1.0,10.0,-11.13,-13.21,-13.63,33.64
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,74,1.0,10.0,-11.13,-16.88,-16.43,31.9
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,74,1.0,10.0,-11.13,-17.98,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,74,1.0,10.0,-11.13,-7.15,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,34,74,1.0,10.0,-11.13,-16.44,-14.82,33.1
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,34,79,1.0,10.0,-11.13,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,74,1.0,10.0,-11.13,-17.34,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,34,74,1.0,10.0,-11.13,0.0,-15.93,35.3
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,34,79,1.0,10.0,-11.13,-16.44,-14.82,33.1
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,34,74,1.0,10.0,-11.13,0.0,-13.49,31.22
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,79,1.0,10.0,-11.13,-17.34,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,79,1.0,10.0,-11.13,-13.21,-13.63,33.64
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,79,1.0,10.0,-11.13,-16.88,-16.43,31.9
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,79,1.0,10.0,-11.13,-7.15,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,79,1.0,10.0,-11.13,-17.98,-14.51,35.86
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,34,79,1.0,10.0,-11.13,0.0,-13.49,31.22
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,34,64,1.0,10.0,-11.23,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,64,1.0,10.0,-11.23,-17.71,-16.43,31.9
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,69,1.0,10.0,-11.23,-17.98,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,69,1.0,10.0,-11.23,-7.15,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,34,69,1.0,10.0,-11.23,-16.44,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,69,1.0,10.0,-11.23,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,69,1.0,10.0,-11.23,-17.34,-13.82,34.92
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,69,1.0,10.0,-11.23,-17.71,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,34,69,1.0,10.0,-11.23,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,64,1.0,10.0,-11.23,-17.98,-14.51,35.86
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,34,64,1.0,10.0,-11.23,-16.44,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,64,1.0,10.0,-11.23,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,64,1.0,10.0,-11.23,-17.34,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,34,64,1.0,10.0,-11.23,0.0,-15.93,35.3
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,34,69,1.0,10.0,-11.23,0.0,-15.93,35.3
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,64,1.0,10.0,-11.23,-7.15,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,49,59,1.0,10.0,-11.27,-20.0,-14.82,33.1
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,59,1.0,10.0,-11.27,-19.22,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,59,1.0,10.0,-11.27,2.83,-13.9,33.22
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,59,1.0,10.0,-11.27,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,59,1.0,10.0,-11.27,-17.9,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,49,59,1.0,10.0,-11.27,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,59,1.0,10.0,-11.27,-22.68,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,49,59,1.0,10.0,-11.27,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,59,1.0,10.0,-11.42,-17.71,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,39,59,1.0,10.0,-11.42,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,59,1.0,10.0,-11.42,-19.37,-14.51,35.86
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,39,59,1.0,10.0,-11.42,0.0,-15.93,35.3
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,59,1.0,10.0,-11.42,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,59,1.0,10.0,-11.42,-13.91,-13.82,34.92
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,59,1.0,10.0,-11.42,-7.15,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,39,59,1.0,10.0,-11.42,-20.0,-14.82,33.1
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,64,1.0,10.0,-11.47,-19.22,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,64,1.0,10.0,-11.47,2.83,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,49,64,1.0,10.0,-11.47,-20.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,64,1.0,10.0,-11.47,-13.21,-13.63,33.64
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,49,64,1.0,10.0,-11.47,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,64,1.0,10.0,-11.47,-22.68,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,49,64,1.0,10.0,-11.47,0.0,-13.49,31.22
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,64,1.0,10.0,-11.47,-19.49,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,49,54,1.0,10.0,-11.54,0.0,-15.93,35.3
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,54,1.0,10.0,-11.54,-13.8,-14.51,35.86
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,49,54,1.0,10.0,-11.54,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,54,1.0,10.0,-11.54,-21.75,-16.43,31.9
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,54,1.0,10.0,-11.54,-17.42,-13.82,34.92
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,54,1.0,10.0,-11.54,-6.17,-13.9,33.22
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,54,1.0,10.0,-11.54,-13.21,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,49,54,1.0,10.0,-11.54,-20.0,-14.82,33.1
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,39,79,1.0,10.0,-11.74,0.0,-13.49,31.22
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,74,1.0,10.0,-11.74,-17.34,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,74,1.0,10.0,-11.74,-13.21,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,39,74,1.0,10.0,-11.74,-20.0,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,74,1.0,10.0,-11.74,-7.15,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,74,1.0,10.0,-11.74,-19.37,-14.51,35.86
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,39,79,1.0,10.0,-11.74,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,79,1.0,10.0,-11.74,-16.88,-16.43,31.9
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,79,1.0,10.0,-11.74,-17.34,-13.82,34.92
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,74,1.0,10.0,-11.74,-16.88,-16.43,31.9
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,39,79,1.0,10.0,-11.74,-20.0,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,79,1.0,10.0,-11.74,-7.15,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,79,1.0,10.0,-11.74,-19.37,-14.51,35.86
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,79,1.0,10.0,-11.74,-13.21,-13.63,33.64
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,39,74,1.0,10.0,-11.74,0.0,-15.93,35.3
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,39,74,1.0,10.0,-11.74,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,64,1.0,10.0,-11.85,-17.71,-16.43,31.9
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,64,1.0,10.0,-11.85,-7.15,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,64,1.0,10.0,-11.85,-19.37,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,69,1.0,10.0,-11.85,-7.15,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,69,1.0,10.0,-11.85,-19.37,-14.51,35.86
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,39,64,1.0,10.0,-11.85,0.0,-13.49,31.22
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,64,1.0,10.0,-11.85,-17.34,-13.82,34.92
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,39,64,1.0,10.0,-11.85,-20.0,-14.82,33.1
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,39,64,1.0,10.0,-11.85,0.0,-15.93,35.3
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,39,69,1.0,10.0,-11.85,-20.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,69,1.0,10.0,-11.85,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,69,1.0,10.0,-11.85,-17.34,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,39,69,1.0,10.0,-11.85,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,69,1.0,10.0,-11.85,-17.71,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,39,69,1.0,10.0,-11.85,0.0,-13.49,31.22
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,64,1.0,10.0,-11.85,-13.21,-13.63,33.64
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,44,54,1.0,10.0,-12.13,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,54,1.0,10.0,-12.13,-23.69,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,44,54,1.0,10.0,-12.13,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,54,1.0,10.0,-12.13,-19.36,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,54,1.0,10.0,-12.13,-13.21,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,44,54,1.0,10.0,-12.13,-20.0,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,54,1.0,10.0,-12.13,-7.15,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,54,1.0,10.0,-12.13,-13.62,-14.51,35.86
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,49,59,1.0,10.0,-12.49,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,59,1.0,10.0,-12.49,-18.0,-13.82,34.92
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,59,1.0,10.0,-12.49,-19.93,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,59,1.0,10.0,-12.49,-14.06,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,49,59,1.0,10.0,-12.49,-15.57,-14.82,33.1
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,49,59,1.0,10.0,-12.49,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,59,1.0,10.0,-12.49,-22.11,-16.43,31.9
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,59,1.0,10.0,-12.49,-10.27,-13.63,33.64
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,44,79,1.0,10.0,-12.55,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,79,1.0,10.0,-12.55,-19.6,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,79,1.0,10.0,-12.55,-13.21,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,44,79,1.0,10.0,-12.55,-20.0,-14.82,33.1
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,79,1.0,10.0,-12.55,-19.22,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,79,1.0,10.0,-12.55,-7.15,-13.9,33.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,79,1.0,10.0,-12.55,-21.25,-16.43,31.9
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,74,1.0,10.0,-12.55,-19.22,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,74,1.0,10.0,-12.55,-7.15,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,44,74,1.0,10.0,-12.55,-20.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,74,1.0,10.0,-12.55,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,74,1.0,10.0,-12.55,-19.6,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,44,74,1.0,10.0,-12.55,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,74,1.0,10.0,-12.55,-21.25,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,44,74,1.0,10.0,-12.55,0.0,-13.49,31.22
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,44,79,1.0,10.0,-12.55,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,59,1.0,10.0,-12.65,-23.69,-16.43,31.9
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,59,1.0,10.0,-12.65,-17.95,-13.82,34.92
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,59,1.0,10.0,-12.65,-19.22,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,59,1.0,10.0,-12.65,-7.15,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,44,59,1.0,10.0,-12.65,-20.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,59,1.0,10.0,-12.65,-13.21,-13.63,33.64
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,44,59,1.0,10.0,-12.65,0.0,-13.49,31.22
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,44,59,1.0,10.0,-12.65,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,64,1.0,10.0,-12.67,-19.4,-13.82,34.92
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,64,1.0,10.0,-12.67,-19.93,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,64,1.0,10.0,-12.67,-14.06,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,49,64,1.0,10.0,-12.67,-15.57,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,64,1.0,10.0,-12.67,-10.27,-13.63,33.64
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,49,64,1.0,10.0,-12.67,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,64,1.0,10.0,-12.67,-22.11,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,49,64,1.0,10.0,-12.67,0.0,-13.49,31.22
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,49,54,1.0,10.0,-12.71,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,54,1.0,10.0,-12.71,-22.28,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,49,54,1.0,10.0,-12.71,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,54,1.0,10.0,-12.71,-19.29,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,54,1.0,10.0,-12.71,-10.27,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,49,54,1.0,10.0,-12.71,-15.57,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,54,1.0,10.0,-12.71,-19.88,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,54,1.0,10.0,-12.71,-14.42,-14.51,35.86
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,44,59,1.0,10.0,-12.75,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,59,1.0,10.0,-12.75,-19.93,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,59,1.0,10.0,-12.75,-14.06,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,44,59,1.0,10.0,-12.75,-15.57,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,59,1.0,10.0,-12.75,-10.27,-13.63,33.64
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,44,59,1.0,10.0,-12.75,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,59,1.0,10.0,-12.75,-24.74,-16.43,31.9
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,59,1.0,10.0,-12.75,-17.42,-13.82,34.92
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,44,69,1.0,10.0,-12.86,-20.0,-14.82,33.1
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,44,69,1.0,10.0,-12.86,0.0,-15.93,35.3
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,64,1.0,10.0,-12.86,-19.22,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,64,1.0,10.0,-12.86,-7.15,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,44,64,1.0,10.0,-12.86,-20.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,64,1.0,10.0,-12.86,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,64,1.0,10.0,-12.86,-19.6,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,44,64,1.0,10.0,-12.86,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,64,1.0,10.0,-12.86,-23.69,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,44,64,1.0,10.0,-12.86,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,69,1.0,10.0,-12.86,-19.22,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,69,1.0,10.0,-12.86,-7.15,-13.9,33.22
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,44,69,1.0,10.0,-12.86,0.0,-13.49,31.22
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,69,1.0,10.0,-12.86,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,69,1.0,10.0,-12.86,-19.6,-13.82,34.92
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,69,1.0,10.0,-12.86,-23.69,-16.43,31.9
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,64,1.0,10.0,-12.93,-19.93,-14.51,35.86
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,44,64,1.0,10.0,-12.93,-15.57,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,64,1.0,10.0,-12.93,-10.27,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,64,1.0,10.0,-12.93,-18.91,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,44,64,1.0,10.0,-12.93,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,64,1.0,10.0,-12.93,-24.74,-16.43,31.9
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,64,1.0,10.0,-12.93,-14.06,-13.9,33.22
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,44,64,1.0,10.0,-12.93,0.0,-13.49,31.22
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,44,54,1.0,10.0,-12.95,0.0,-13.49,31.22
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,44,54,1.0,10.0,-12.95,-15.57,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,54,1.0,10.0,-12.95,-10.27,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,54,1.0,10.0,-12.95,-18.76,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,44,54,1.0,10.0,-12.95,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,54,1.0,10.0,-12.95,-24.74,-16.43,31.9
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,54,1.0,10.0,-12.95,-19.88,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,54,1.0,10.0,-12.95,-14.42,-14.51,35.86
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,39,54,1.0,10.0,-13.12,0.0,-13.49,31.22
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,39,54,1.0,10.0,-13.12,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,54,1.0,10.0,-13.12,-17.55,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,54,1.0,10.0,-13.12,-10.27,-13.63,33.64
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,54,1.0,10.0,-13.12,-13.94,-14.51,35.86
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,39,54,1.0,10.0,-13.12,-15.57,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,54,1.0,10.0,-13.12,-22.9,-13.9,33.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,54,1.0,10.0,-13.12,-24.74,-16.43,31.9
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,74,1.0,10.0,-13.48,-22.9,-13.9,33.22
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,39,74,1.0,10.0,-13.48,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,79,1.0,10.0,-13.48,-18.94,-14.51,35.86
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,39,79,1.0,10.0,-13.48,-15.57,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,79,1.0,10.0,-13.48,-10.27,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,79,1.0,10.0,-13.48,-18.91,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,39,79,1.0,10.0,-13.48,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,79,1.0,10.0,-13.48,-21.25,-16.43,31.9
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,74,1.0,10.0,-13.48,-21.25,-16.43,31.9
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,79,1.0,10.0,-13.48,-22.9,-13.9,33.22
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,39,79,1.0,10.0,-13.48,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,74,1.0,10.0,-13.48,-18.94,-14.51,35.86
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,39,74,1.0,10.0,-13.48,-15.57,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,74,1.0,10.0,-13.48,-10.27,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,74,1.0,10.0,-13.48,-18.91,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,39,74,1.0,10.0,-13.48,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,59,1.0,10.0,-13.56,-24.74,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,39,59,1.0,10.0,-13.56,0.0,-15.93,35.3
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,39,59,1.0,10.0,-13.56,0.0,-13.49,31.22
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,59,1.0,10.0,-13.56,-10.27,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,39,59,1.0,10.0,-13.56,-15.57,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,59,1.0,10.0,-13.56,-22.9,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,59,1.0,10.0,-13.56,-18.94,-14.51,35.86
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,59,1.0,10.0,-13.56,-16.07,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,79,1.0,10.0,-13.7,-10.27,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,44,79,1.0,10.0,-13.7,-15.57,-14.82,33.1
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,44,74,1.0,10.0,-13.7,-15.57,-14.82,33.1
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,74,1.0,10.0,-13.7,-18.91,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,44,74,1.0,10.0,-13.7,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,74,1.0,10.0,-13.7,-21.25,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,44,74,1.0,10.0,-13.7,0.0,-13.49,31.22
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,74,1.0,10.0,-13.7,-23.7,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,74,1.0,10.0,-13.7,-19.93,-14.51,35.86
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,44,79,1.0,10.0,-13.7,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,79,1.0,10.0,-13.7,-21.25,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,44,79,1.0,10.0,-13.7,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,79,1.0,10.0,-13.7,-18.91,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,74,1.0,10.0,-13.7,-10.27,-13.63,33.64
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,79,1.0,10.0,-13.7,-23.7,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,79,1.0,10.0,-13.7,-19.93,-14.51,35.86
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,49,79,1.0,10.0,-13.77,0.0,-15.93,35.3
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,74,1.0,10.0,-13.77,-10.27,-13.63,33.64
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,49,74,1.0,10.0,-13.77,0.0,-13.49,31.22
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,74,1.0,10.0,-13.77,-21.25,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,49,74,1.0,10.0,-13.77,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,74,1.0,10.0,-13.77,-19.4,-13.82,34.92
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,49,74,1.0,10.0,-13.77,-15.57,-14.82,33.1
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,79,1.0,10.0,-13.77,-19.4,-13.82,34.92
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,74,1.0,10.0,-13.77,-23.7,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,74,1.0,10.0,-13.77,-19.93,-14.51,35.86
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,79,1.0,10.0,-13.77,-19.93,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,79,1.0,10.0,-13.77,-23.7,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,49,79,1.0,10.0,-13.77,-15.57,-14.82,33.1
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,49,79,1.0,10.0,-13.77,0.0,-13.49,31.22
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,79,1.0,10.0,-13.77,-10.27,-13.63,33.64
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,79,1.0,10.0,-13.77,-21.25,-16.43,31.9
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,69,1.0,10.0,-13.87,-22.11,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,49,69,1.0,10.0,-13.87,0.0,-15.93,35.3
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,69,1.0,10.0,-13.87,-23.7,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,69,1.0,10.0,-13.87,-19.93,-14.51,35.86
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,69,1.0,10.0,-13.87,-10.27,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,69,1.0,10.0,-13.87,-19.4,-13.82,34.92
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,49,69,1.0,10.0,-13.87,-15.57,-14.82,33.1
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,49,69,1.0,10.0,-13.87,0.0,-13.49,31.22
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,39,69,1.0,10.0,-13.92,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,64,1.0,10.0,-13.92,-18.94,-14.51,35.86
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,64,1.0,10.0,-13.92,-24.74,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,39,64,1.0,10.0,-13.92,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,64,1.0,10.0,-13.92,-18.91,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,64,1.0,10.0,-13.92,-10.27,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,39,64,1.0,10.0,-13.92,-15.57,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,64,1.0,10.0,-13.92,-22.9,-13.9,33.22
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,39,64,1.0,10.0,-13.92,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,69,1.0,10.0,-13.92,-18.94,-14.51,35.86
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,69,1.0,10.0,-13.92,-24.74,-16.43,31.9
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,39,69,1.0,10.0,-13.92,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,69,1.0,10.0,-13.92,-18.91,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,69,1.0,10.0,-13.92,-10.27,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,39,69,1.0,10.0,-13.92,-15.57,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,69,1.0,10.0,-13.92,-22.9,-13.9,33.22
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,69,1.0,10.0,-14.14,-23.7,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,69,1.0,10.0,-14.14,-19.93,-14.51,35.86
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,44,69,1.0,10.0,-14.14,0.0,-13.49,31.22
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,60,14,44,69,1.0,10.0,-14.14,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,69,1.0,10.0,-14.14,-18.91,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,69,1.0,10.0,-14.14,-10.27,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,60,14,44,69,1.0,10.0,-14.14,-15.57,-14.82,33.1
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,69,1.0,10.0,-14.14,-24.74,-16.43,31.9
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,79,1.0,10.0,-14.86,-21.25,-16.43,31.9
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,74,1.0,10.0,-14.86,-25.73,-13.9,33.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,74,1.0,10.0,-14.86,-19.22,-14.51,35.86
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,49,79,1.0,10.0,-14.86,0.0,-13.49,31.22
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,79,1.0,10.0,-14.86,-13.21,-13.63,33.64
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,49,79,1.0,10.0,-14.86,0.0,-15.93,35.3
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,79,1.0,10.0,-14.86,-19.49,-13.82,34.92
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,74,1.0,10.0,-14.86,-13.21,-13.63,33.64
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,49,79,1.0,10.0,-14.86,-20.0,-14.82,33.1
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,79,1.0,10.0,-14.86,-25.73,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,49,74,1.0,10.0,-14.86,-20.0,-14.82,33.1
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,74,1.0,10.0,-14.86,-21.25,-16.43,31.9
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,74,1.0,10.0,-14.86,-19.49,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,49,74,1.0,10.0,-14.86,0.0,-15.93,35.3
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,49,74,1.0,10.0,-14.86,0.0,-13.49,31.22
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,79,1.0,10.0,-14.86,-19.22,-14.51,35.86
+142,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,69,1.0,10.0,-15.04,-19.22,-14.51,35.86
+142,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,69,1.0,10.0,-15.04,-25.73,-13.9,33.22
+142,HJEN.K,Direxion Hydrogen ETF,5,120,14,49,69,1.0,10.0,-15.04,-20.0,-14.82,33.1
+142,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,69,1.0,10.0,-15.04,-13.21,-13.63,33.64
+142,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,69,1.0,10.0,-15.04,-19.49,-13.82,34.92
+142,YBTC.K,Roundhill Bitcoin Covered Call Strategy ETF,5,120,14,49,69,1.0,10.0,-15.04,0.0,-15.93,35.3
+142,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,69,1.0,10.0,-15.04,-22.68,-16.43,31.9
+142,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,49,69,1.0,10.0,-15.04,0.0,-13.49,31.22
