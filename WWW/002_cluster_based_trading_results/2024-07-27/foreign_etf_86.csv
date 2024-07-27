@@ -1,0 +1,2151 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+86,IAU,iShares Gold Trust,5,60,14,44,54,1.0,10.0,12.45,4.62,5.9,15.35
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,44,54,1.0,10.0,12.45,24.96,6.84,14.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,44,54,1.0,10.0,12.45,19.12,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,44,54,1.0,10.0,12.45,11.24,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,60,14,44,54,1.0,10.0,12.45,20.52,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,60,14,44,54,1.0,10.0,12.45,7.91,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,44,54,1.0,10.0,12.45,-4.37,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,44,54,1.0,10.0,12.45,4.22,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,44,54,1.0,10.0,12.45,98.69,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,44,54,1.0,10.0,12.45,0.0,5.88,14.66
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,44,54,1.0,10.0,12.45,16.81,6.17,15.64
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,44,54,1.0,10.0,12.45,39.14,5.59,15.66
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,44,54,1.0,10.0,12.45,29.22,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,44,54,1.0,10.0,12.45,6.22,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,44,54,1.0,10.0,12.45,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,44,54,1.0,10.0,12.45,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,44,54,1.0,10.0,12.45,11.37,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,44,54,1.0,10.0,12.45,3.31,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,44,54,1.0,10.0,12.45,16.12,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,44,54,1.0,10.0,12.45,8.03,6.25,14.65
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,44,54,1.0,10.0,12.45,0.0,5.94,14.45
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,44,54,1.0,10.0,12.45,0.0,3.72,13.92
+86,GLD,SPDR Gold Shares,5,60,14,44,54,1.0,10.0,12.45,5.66,5.74,15.34
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,44,54,1.0,10.0,12.45,0.0,6.54,14.62
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,44,54,1.0,10.0,12.45,4.62,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,44,54,1.0,10.0,12.45,20.36,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,44,54,1.0,10.0,12.45,14.54,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,44,54,1.0,10.0,12.45,7.08,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,44,54,1.0,10.0,12.45,10.18,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,44,54,1.0,10.0,12.45,12.34,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,44,54,1.0,10.0,12.45,14.3,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,44,54,1.0,10.0,12.45,33.48,4.82,15.18
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,44,54,1.0,10.0,12.45,0.45,4.1,14.45
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,44,54,1.0,10.0,12.45,15.61,6.16,15.9
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,44,54,1.0,10.0,12.45,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,44,54,1.0,10.0,12.45,15.26,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,44,54,1.0,10.0,12.45,17.6,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,44,54,1.0,10.0,12.45,25.9,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,44,54,1.0,10.0,12.45,15.23,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,44,54,1.0,10.0,12.45,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,44,54,1.0,10.0,12.45,5.51,6.48,13.6
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,44,54,1.0,10.0,12.45,0.0,5.54,15.47
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,44,54,1.0,10.0,12.45,0.0,5.65,13.39
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,44,54,1.0,10.0,11.8,0.0,5.65,13.39
+86,IAU,iShares Gold Trust,5,120,14,44,54,1.0,10.0,11.8,-2.02,5.9,15.35
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,44,54,1.0,10.0,11.8,14.61,5.72,15.61
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,44,54,1.0,10.0,11.8,0.0,3.72,13.92
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,44,54,1.0,10.0,11.8,9.99,6.16,15.9
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,44,54,1.0,10.0,11.8,0.0,5.54,15.47
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,44,54,1.0,10.0,11.8,15.11,6.48,13.6
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,44,54,1.0,10.0,11.8,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,44,54,1.0,10.0,11.8,87.43,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,44,54,1.0,10.0,11.8,11.53,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,44,54,1.0,10.0,11.8,19.01,5.72,16.09
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,44,54,1.0,10.0,11.8,0.0,6.84,15.11
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,44,54,1.0,10.0,11.8,-2.13,5.84,15.33
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,44,54,1.0,10.0,11.8,-0.19,4.1,14.45
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,44,54,1.0,10.0,11.8,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,44,54,1.0,10.0,11.8,28.37,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,44,54,1.0,10.0,11.8,17.07,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,44,54,1.0,10.0,11.8,10.35,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,44,54,1.0,10.0,11.8,10.37,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,44,54,1.0,10.0,11.8,4.89,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,44,54,1.0,10.0,11.8,23.25,6.56,15.7
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,44,54,1.0,10.0,11.8,27.34,5.59,15.66
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,44,54,1.0,10.0,11.8,0.0,5.94,14.45
+86,GLD,SPDR Gold Shares,5,120,14,44,54,1.0,10.0,11.8,-0.46,5.74,15.34
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,44,54,1.0,10.0,11.8,8.33,5.58,15.65
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,44,54,1.0,10.0,11.8,10.4,6.25,14.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,44,54,1.0,10.0,11.8,16.15,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,120,14,44,54,1.0,10.0,11.8,6.86,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,44,54,1.0,10.0,11.8,10.52,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,44,54,1.0,10.0,11.8,19.03,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,44,54,1.0,10.0,11.8,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,44,54,1.0,10.0,11.8,9.78,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,44,54,1.0,10.0,11.8,77.67,6.5,15.01
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,44,54,1.0,10.0,11.8,12.09,6.17,15.64
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,44,54,1.0,10.0,11.8,0.0,6.84,14.75
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,44,54,1.0,10.0,11.8,0.0,5.88,14.66
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,44,54,1.0,10.0,11.8,0.0,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,44,54,1.0,10.0,11.8,17.94,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,44,54,1.0,10.0,11.8,1.93,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,120,14,44,54,1.0,10.0,11.8,7.91,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,120,14,44,54,1.0,10.0,11.8,8.24,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,44,54,1.0,10.0,11.8,5.76,4.4,15.75
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,44,54,1.0,10.0,11.8,20.28,6.84,14.1
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,49,54,1.0,10.0,11.49,0.0,5.65,13.39
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,49,54,1.0,10.0,11.49,13.05,6.25,14.65
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,49,54,1.0,10.0,11.49,15.61,6.16,15.9
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,49,54,1.0,10.0,11.49,20.97,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,49,54,1.0,10.0,11.49,9.72,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,60,14,49,54,1.0,10.0,11.49,20.52,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,60,14,49,54,1.0,10.0,11.49,11.63,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,49,54,1.0,10.0,11.49,-3.29,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,49,54,1.0,10.0,11.49,6.58,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,49,54,1.0,10.0,11.49,38.62,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,49,54,1.0,10.0,11.49,0.0,5.88,14.66
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,49,54,1.0,10.0,11.49,7.89,6.84,14.75
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,49,54,1.0,10.0,11.49,8.22,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,49,54,1.0,10.0,11.49,18.59,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,49,54,1.0,10.0,11.49,9.23,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,49,54,1.0,10.0,11.49,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,49,54,1.0,10.0,11.49,35.02,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,49,54,1.0,10.0,11.49,6.66,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,49,54,1.0,10.0,11.49,3.87,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,49,54,1.0,10.0,11.49,20.11,5.29,14.17
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,49,54,1.0,10.0,11.49,0.0,5.94,14.45
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,49,54,1.0,10.0,11.49,0.0,5.54,15.47
+86,GLD,SPDR Gold Shares,5,60,14,49,54,1.0,10.0,11.49,5.66,5.74,15.34
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,49,54,1.0,10.0,11.49,5.51,6.48,13.6
+86,IAU,iShares Gold Trust,5,60,14,49,54,1.0,10.0,11.49,4.62,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,49,54,1.0,10.0,11.49,4.62,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,49,54,1.0,10.0,11.49,20.36,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,49,54,1.0,10.0,11.49,19.67,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,49,54,1.0,10.0,11.49,7.08,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,49,54,1.0,10.0,11.49,11.6,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,49,54,1.0,10.0,11.49,12.34,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,49,54,1.0,10.0,11.49,18.38,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,49,54,1.0,10.0,11.49,33.48,4.82,15.18
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,49,54,1.0,10.0,11.49,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,49,54,1.0,10.0,11.49,-3.32,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,49,54,1.0,10.0,11.49,14.25,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,49,54,1.0,10.0,11.49,15.18,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,49,54,1.0,10.0,11.49,14.16,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,49,54,1.0,10.0,11.49,18.96,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,49,54,1.0,10.0,11.49,15.23,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,49,54,1.0,10.0,11.49,0.0,5.55,14.13
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,49,54,1.0,10.0,11.49,27.64,5.59,15.66
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,49,54,1.0,10.0,11.49,5.62,3.72,13.92
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,49,54,1.0,10.0,10.95,20.97,6.84,14.1
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,49,54,1.0,10.0,10.95,14.12,5.59,15.66
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,49,54,1.0,10.0,10.95,9.99,6.16,15.9
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,49,54,1.0,10.0,10.95,0.0,5.54,15.47
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,49,54,1.0,10.0,10.95,2.75,6.48,13.6
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,49,54,1.0,10.0,10.95,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,49,54,1.0,10.0,10.95,87.43,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,49,54,1.0,10.0,10.95,17.89,5.66,15.76
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,49,54,1.0,10.0,10.95,15.15,5.72,15.61
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,49,54,1.0,10.0,10.95,11.59,6.84,15.11
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,49,54,1.0,10.0,10.95,-2.58,4.1,14.45
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,49,54,1.0,10.0,10.95,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,49,54,1.0,10.0,10.95,28.37,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,49,54,1.0,10.0,10.95,17.16,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,49,54,1.0,10.0,10.95,10.35,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,49,54,1.0,10.0,10.95,12.01,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,49,54,1.0,10.0,10.95,4.89,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,49,54,1.0,10.0,10.95,27.0,6.56,15.7
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,49,54,1.0,10.0,10.95,2.27,5.84,15.33
+86,IAU,iShares Gold Trust,5,120,14,49,54,1.0,10.0,10.95,2.42,5.9,15.35
+86,GLD,SPDR Gold Shares,5,120,14,49,54,1.0,10.0,10.95,3.44,5.74,15.34
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,49,54,1.0,10.0,10.95,9.45,3.72,13.92
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,49,54,1.0,10.0,10.95,15.63,5.72,16.09
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,49,54,1.0,10.0,10.95,0.0,5.94,14.45
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,49,54,1.0,10.0,10.95,4.44,6.17,15.64
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,49,54,1.0,10.0,10.95,0.0,5.65,13.39
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,49,54,1.0,10.0,10.95,10.15,5.58,15.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,49,54,1.0,10.0,10.95,17.73,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,120,14,49,54,1.0,10.0,10.95,6.86,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,49,54,1.0,10.0,10.95,13.2,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,49,54,1.0,10.0,10.95,19.03,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,49,54,1.0,10.0,10.95,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,49,54,1.0,10.0,10.95,5.34,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,49,54,1.0,10.0,10.95,18.71,6.5,15.01
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,49,54,1.0,10.0,10.95,11.53,6.25,14.65
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,49,54,1.0,10.0,10.95,7.19,6.84,14.75
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,49,54,1.0,10.0,10.95,1.93,4.87,16.06
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,49,54,1.0,10.0,10.95,0.0,5.88,14.66
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,49,54,1.0,10.0,10.95,8.24,4.4,15.75
+86,KONG.K,Formidable Fortress ETF,5,120,14,49,54,1.0,10.0,10.95,11.51,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,120,14,49,54,1.0,10.0,10.95,8.24,4.49,15.27
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,49,54,1.0,10.0,10.95,3.55,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,49,54,1.0,10.0,10.95,12.86,6.24,14.98
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,49,59,1.0,10.0,8.9,9.34,4.4,15.75
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,49,59,1.0,10.0,8.9,8.03,6.84,14.75
+86,AGNG.O,Global X Aging Population ETF,5,120,14,49,59,1.0,10.0,8.9,7.21,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,120,14,49,59,1.0,10.0,8.9,8.96,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,49,59,1.0,10.0,8.9,1.93,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,49,59,1.0,10.0,8.9,3.39,6.18,13.61
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,49,59,1.0,10.0,8.9,9.98,5.58,15.65
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,49,59,1.0,10.0,8.9,28.24,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,49,59,1.0,10.0,8.9,0.0,5.88,14.66
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,49,59,1.0,10.0,8.9,0.0,5.28,15.83
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,49,59,1.0,10.0,8.9,7.33,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,49,59,1.0,10.0,8.9,8.53,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,49,59,1.0,10.0,8.9,5.36,6.36,13.51
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,49,59,1.0,10.0,8.9,19.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,49,59,1.0,10.0,8.9,10.39,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,120,14,49,59,1.0,10.0,8.9,6.36,3.83,15.0
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,49,59,1.0,10.0,8.9,12.08,6.25,14.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,49,59,1.0,10.0,8.9,13.45,5.29,14.17
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,49,59,1.0,10.0,8.9,12.96,5.59,15.66
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,49,59,1.0,10.0,8.9,0.0,5.94,14.45
+86,GLD,SPDR Gold Shares,5,120,14,49,59,1.0,10.0,8.9,0.74,5.74,15.34
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,49,59,1.0,10.0,8.9,14.02,3.72,13.92
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,49,59,1.0,10.0,8.9,0.0,6.54,14.62
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,49,59,1.0,10.0,8.9,17.99,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,49,59,1.0,10.0,8.9,0.78,5.84,15.33
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,49,59,1.0,10.0,8.9,14.02,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,49,59,1.0,10.0,8.9,5.92,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,49,59,1.0,10.0,8.9,10.13,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,49,59,1.0,10.0,8.9,7.08,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,49,59,1.0,10.0,8.9,1.99,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,49,59,1.0,10.0,8.9,21.3,4.82,15.18
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,49,59,1.0,10.0,8.9,-1.08,4.1,14.45
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,49,59,1.0,10.0,8.9,6.89,6.16,15.9
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,49,59,1.0,10.0,8.9,10.33,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,49,59,1.0,10.0,8.9,14.87,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,49,59,1.0,10.0,8.9,18.75,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,49,59,1.0,10.0,8.9,5.43,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,49,59,1.0,10.0,8.9,54.59,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,49,59,1.0,10.0,8.9,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,49,59,1.0,10.0,8.9,5.37,6.48,13.6
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,49,59,1.0,10.0,8.9,0.0,5.54,15.47
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,49,59,1.0,10.0,8.9,0.0,5.65,13.39
+86,IAU,iShares Gold Trust,5,120,14,49,59,1.0,10.0,8.9,0.88,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,44,59,1.0,10.0,8.87,0.78,5.84,15.33
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,44,59,1.0,10.0,8.87,15.66,5.59,15.66
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,44,59,1.0,10.0,8.87,6.89,6.16,15.9
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,44,59,1.0,10.0,8.87,0.0,5.54,15.47
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,44,59,1.0,10.0,8.87,13.17,6.48,13.6
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,44,59,1.0,10.0,8.87,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,44,59,1.0,10.0,8.87,54.59,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,44,59,1.0,10.0,8.87,14.42,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,44,59,1.0,10.0,8.87,20.91,5.72,16.09
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,44,59,1.0,10.0,8.87,0.0,6.84,15.11
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,44,59,1.0,10.0,8.87,2.64,4.1,14.45
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,44,59,1.0,10.0,8.87,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,44,59,1.0,10.0,8.87,21.3,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,44,59,1.0,10.0,8.87,0.95,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,44,59,1.0,10.0,8.87,7.08,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,44,59,1.0,10.0,8.87,10.87,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,44,59,1.0,10.0,8.87,5.92,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,44,59,1.0,10.0,8.87,14.02,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,44,59,1.0,10.0,8.87,26.78,6.84,14.1
+86,GLD,SPDR Gold Shares,5,120,14,44,59,1.0,10.0,8.87,0.74,5.74,15.34
+86,IAU,iShares Gold Trust,5,120,14,44,59,1.0,10.0,8.87,0.88,5.9,15.35
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,44,59,1.0,10.0,8.87,0.0,3.72,13.92
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,44,59,1.0,10.0,8.87,17.47,5.72,15.61
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,44,59,1.0,10.0,8.87,0.0,5.94,14.45
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,44,59,1.0,10.0,8.87,15.02,6.17,15.64
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,44,59,1.0,10.0,8.87,9.98,5.58,15.65
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,44,59,1.0,10.0,8.87,12.08,6.25,14.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,44,59,1.0,10.0,8.87,13.45,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,120,14,44,59,1.0,10.0,8.87,6.36,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,44,59,1.0,10.0,8.87,10.39,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,44,59,1.0,10.0,8.87,19.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,44,59,1.0,10.0,8.87,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,44,59,1.0,10.0,8.87,9.05,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,44,59,1.0,10.0,8.87,11.97,6.5,15.01
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,44,59,1.0,10.0,8.87,0.0,5.65,13.39
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,44,59,1.0,10.0,8.87,0.0,6.84,14.75
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,44,59,1.0,10.0,8.87,0.0,5.88,14.66
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,44,59,1.0,10.0,8.87,0.0,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,44,59,1.0,10.0,8.87,12.25,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,44,59,1.0,10.0,8.87,1.93,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,120,14,44,59,1.0,10.0,8.87,8.96,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,120,14,44,59,1.0,10.0,8.87,7.21,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,44,59,1.0,10.0,8.87,8.61,4.4,15.75
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,49,59,1.0,10.0,8.42,1.09,4.87,16.06
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,49,59,1.0,10.0,8.42,0.0,5.88,14.66
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,49,59,1.0,10.0,8.42,9.32,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,49,59,1.0,10.0,8.42,5.33,6.18,13.61
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,49,59,1.0,10.0,8.42,15.59,5.58,15.65
+86,KONG.K,Formidable Fortress ETF,5,60,14,49,59,1.0,10.0,8.42,8.96,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,60,14,49,59,1.0,10.0,8.42,9.08,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,49,59,1.0,10.0,8.42,10.36,4.4,15.75
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,49,59,1.0,10.0,8.42,10.47,6.17,15.64
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,49,59,1.0,10.0,8.42,6.0,6.84,14.75
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,49,59,1.0,10.0,8.42,25.14,6.86,15.1
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,49,59,1.0,10.0,8.42,9.61,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,49,59,1.0,10.0,8.42,7.11,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,49,59,1.0,10.0,8.42,0.0,5.28,15.83
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,49,59,1.0,10.0,8.42,23.93,5.59,15.66
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,49,59,1.0,10.0,8.42,5.39,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,49,59,1.0,10.0,8.42,3.39,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,49,59,1.0,10.0,8.42,13.44,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,49,59,1.0,10.0,8.42,10.42,6.25,14.65
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,49,59,1.0,10.0,8.42,0.0,5.65,13.39
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,49,59,1.0,10.0,8.42,0.0,5.94,14.45
+86,IAU,iShares Gold Trust,5,60,14,49,59,1.0,10.0,8.42,1.9,5.9,15.35
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,49,59,1.0,10.0,8.42,10.77,3.72,13.92
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,49,59,1.0,10.0,8.42,9.6,6.16,15.9
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,49,59,1.0,10.0,8.42,1.79,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,49,59,1.0,10.0,8.42,18.05,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,49,59,1.0,10.0,8.42,11.77,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,49,59,1.0,10.0,8.42,8.28,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,49,59,1.0,10.0,8.42,11.37,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,49,59,1.0,10.0,8.42,8.94,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,49,59,1.0,10.0,8.42,2.17,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,49,59,1.0,10.0,8.42,23.15,4.82,15.18
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,49,59,1.0,10.0,8.42,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,49,59,1.0,10.0,8.42,-2.06,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,49,59,1.0,10.0,8.42,10.6,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,49,59,1.0,10.0,8.42,14.93,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,49,59,1.0,10.0,8.42,17.2,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,49,59,1.0,10.0,8.42,5.83,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,49,59,1.0,10.0,8.42,24.38,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,49,59,1.0,10.0,8.42,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,49,59,1.0,10.0,8.42,7.19,6.48,13.6
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,49,59,1.0,10.0,8.42,0.0,5.54,15.47
+86,GLD,SPDR Gold Shares,5,60,14,49,59,1.0,10.0,8.42,1.74,5.74,15.34
+86,GLD,SPDR Gold Shares,5,60,14,44,59,1.0,10.0,8.21,1.74,5.74,15.34
+86,IAU,iShares Gold Trust,5,60,14,44,59,1.0,10.0,8.21,1.9,5.9,15.35
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,44,59,1.0,10.0,8.21,0.0,5.65,13.39
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,44,59,1.0,10.0,8.21,22.26,6.84,14.75
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,44,59,1.0,10.0,8.21,0.0,5.94,14.45
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,44,59,1.0,10.0,8.21,15.59,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,44,59,1.0,10.0,8.21,11.6,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,60,14,44,59,1.0,10.0,8.21,9.08,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,60,14,44,59,1.0,10.0,8.21,8.96,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,44,59,1.0,10.0,8.21,-1.27,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,44,59,1.0,10.0,8.21,5.33,6.18,13.61
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,44,59,1.0,10.0,8.21,0.0,5.88,14.66
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,44,59,1.0,10.0,8.21,18.29,6.17,15.64
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,44,59,1.0,10.0,8.21,0.0,3.72,13.92
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,44,59,1.0,10.0,8.21,9.61,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,44,59,1.0,10.0,8.21,7.11,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,44,59,1.0,10.0,8.21,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,44,59,1.0,10.0,8.21,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,44,59,1.0,10.0,8.21,10.86,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,44,59,1.0,10.0,8.21,3.39,3.83,15.0
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,44,59,1.0,10.0,8.21,10.42,6.25,14.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,44,59,1.0,10.0,8.21,13.44,5.29,14.17
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,44,59,1.0,10.0,8.21,28.95,5.59,15.66
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,44,59,1.0,10.0,8.21,9.32,6.24,14.98
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,44,59,1.0,10.0,8.21,9.6,6.16,15.9
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,44,59,1.0,10.0,8.21,0.0,6.54,14.62
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,44,59,1.0,10.0,8.21,0.0,5.54,15.47
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,44,59,1.0,10.0,8.21,18.05,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,44,59,1.0,10.0,8.21,11.77,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,44,59,1.0,10.0,8.21,8.28,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,44,59,1.0,10.0,8.21,11.28,4.17,15.03
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,44,59,1.0,10.0,8.21,1.79,5.84,15.33
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,44,59,1.0,10.0,8.21,0.92,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,44,59,1.0,10.0,8.21,23.15,4.82,15.18
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,44,59,1.0,10.0,8.21,8.94,4.0,14.16
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,44,59,1.0,10.0,8.21,2.22,4.1,14.45
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,44,59,1.0,10.0,8.21,4.23,5.66,15.76
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,44,59,1.0,10.0,8.21,0.0,6.84,15.11
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,44,59,1.0,10.0,8.21,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,44,59,1.0,10.0,8.21,24.38,6.59,13.41
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,44,59,1.0,10.0,8.21,7.19,6.48,13.6
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,44,59,1.0,10.0,8.21,19.77,5.72,16.09
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,44,59,1.0,10.0,8.21,14.93,5.72,15.61
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,49,64,1.0,10.0,8.01,7.34,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,49,64,1.0,10.0,8.01,8.8,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,120,14,49,64,1.0,10.0,8.01,7.94,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,120,14,49,64,1.0,10.0,8.01,8.67,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,49,64,1.0,10.0,8.01,1.93,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,49,64,1.0,10.0,8.01,4.6,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,49,64,1.0,10.0,8.01,18.53,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,49,64,1.0,10.0,8.01,0.0,5.88,14.66
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,49,64,1.0,10.0,8.01,8.03,6.84,14.75
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,49,64,1.0,10.0,8.01,0.0,5.65,13.39
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,49,64,1.0,10.0,8.01,7.3,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,49,64,1.0,10.0,8.01,7.13,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,49,64,1.0,10.0,8.01,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,49,64,1.0,10.0,8.01,19.66,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,49,64,1.0,10.0,8.01,11.95,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,120,14,49,64,1.0,10.0,8.01,8.28,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,49,64,1.0,10.0,8.01,17.06,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,49,64,1.0,10.0,8.01,13.47,6.25,14.65
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,49,64,1.0,10.0,8.01,15.61,5.59,15.66
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,49,64,1.0,10.0,8.01,0.0,5.94,14.45
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,49,64,1.0,10.0,8.01,8.7,6.17,15.64
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,49,64,1.0,10.0,8.01,14.95,3.72,13.92
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,49,64,1.0,10.0,8.01,6.82,6.16,15.9
+86,GLD,SPDR Gold Shares,5,120,14,49,64,1.0,10.0,8.01,2.69,5.74,15.34
+86,IAU,iShares Gold Trust,5,120,14,49,64,1.0,10.0,8.01,2.83,5.9,15.35
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,49,64,1.0,10.0,8.01,7.91,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,49,64,1.0,10.0,8.01,11.59,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,49,64,1.0,10.0,8.01,6.53,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,49,64,1.0,10.0,8.01,9.27,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,49,64,1.0,10.0,8.01,7.72,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,49,64,1.0,10.0,8.01,1.66,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,49,64,1.0,10.0,8.01,18.0,4.82,15.18
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,49,64,1.0,10.0,8.01,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,49,64,1.0,10.0,8.01,1.48,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,49,64,1.0,10.0,8.01,13.1,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,49,64,1.0,10.0,8.01,7.64,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,49,64,1.0,10.0,8.01,13.52,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,49,64,1.0,10.0,8.01,4.16,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,49,64,1.0,10.0,8.01,30.02,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,49,64,1.0,10.0,8.01,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,49,64,1.0,10.0,8.01,6.79,6.48,13.6
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,49,64,1.0,10.0,8.01,0.0,5.54,15.47
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,49,64,1.0,10.0,8.01,2.75,5.84,15.33
+86,GLD,SPDR Gold Shares,5,120,14,44,64,1.0,10.0,7.8,2.69,5.74,15.34
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,44,64,1.0,10.0,7.8,2.75,5.84,15.33
+86,IAU,iShares Gold Trust,5,120,14,44,64,1.0,10.0,7.8,2.83,5.9,15.35
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,44,64,1.0,10.0,7.8,0.0,6.84,14.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,44,64,1.0,10.0,7.8,7.34,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,44,64,1.0,10.0,7.8,9.15,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,120,14,44,64,1.0,10.0,7.8,7.94,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,120,14,44,64,1.0,10.0,7.8,8.67,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,44,64,1.0,10.0,7.8,1.93,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,44,64,1.0,10.0,7.8,11.45,6.18,13.61
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,44,64,1.0,10.0,7.8,0.0,5.65,13.39
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,44,64,1.0,10.0,7.8,0.0,5.88,14.66
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,44,64,1.0,10.0,7.8,14.99,6.17,15.64
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,44,64,1.0,10.0,7.8,14.54,5.59,15.66
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,44,64,1.0,10.0,7.8,9.83,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,44,64,1.0,10.0,7.8,10.24,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,44,64,1.0,10.0,7.8,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,44,64,1.0,10.0,7.8,19.66,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,44,64,1.0,10.0,7.8,11.95,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,120,14,44,64,1.0,10.0,7.8,8.28,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,44,64,1.0,10.0,7.8,17.06,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,44,64,1.0,10.0,7.8,13.47,6.25,14.65
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,44,64,1.0,10.0,7.8,0.0,5.94,14.45
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,44,64,1.0,10.0,7.8,0.0,6.24,14.98
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,44,64,1.0,10.0,7.8,0.0,3.72,13.92
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,44,64,1.0,10.0,7.8,7.14,4.1,14.45
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,44,64,1.0,10.0,7.8,6.82,6.16,15.9
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,44,64,1.0,10.0,7.8,11.59,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,44,64,1.0,10.0,7.8,6.53,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,44,64,1.0,10.0,7.8,9.26,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,44,64,1.0,10.0,7.8,7.72,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,44,64,1.0,10.0,7.8,2.9,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,44,64,1.0,10.0,7.8,18.0,4.82,15.18
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,44,64,1.0,10.0,7.8,0.0,6.54,14.62
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,44,64,1.0,10.0,7.8,7.91,6.84,14.1
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,44,64,1.0,10.0,7.8,0.0,6.84,15.11
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,44,64,1.0,10.0,7.8,0.0,5.55,14.13
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,44,64,1.0,10.0,7.8,17.26,5.72,15.61
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,44,64,1.0,10.0,7.8,13.36,6.48,13.6
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,44,64,1.0,10.0,7.8,0.0,5.54,15.47
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,44,64,1.0,10.0,7.8,30.02,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,44,64,1.0,10.0,7.8,7.11,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,44,64,1.0,10.0,7.8,14.78,5.72,16.09
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,49,64,1.0,10.0,7.77,0.0,5.94,14.45
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,49,64,1.0,10.0,7.77,0.0,5.88,14.66
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,49,64,1.0,10.0,7.77,8.22,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,49,64,1.0,10.0,7.77,7.99,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,60,14,49,64,1.0,10.0,7.77,9.5,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,60,14,49,64,1.0,10.0,7.77,8.67,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,49,64,1.0,10.0,7.77,6.27,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,49,64,1.0,10.0,7.77,6.12,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,49,64,1.0,10.0,7.77,9.26,6.24,14.98
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,49,64,1.0,10.0,7.77,8.51,6.36,13.51
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,49,64,1.0,10.0,7.77,6.0,6.84,14.75
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,49,64,1.0,10.0,7.77,11.27,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,49,64,1.0,10.0,7.77,8.25,6.5,15.01
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,49,64,1.0,10.0,7.77,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,49,64,1.0,10.0,7.77,25.37,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,49,64,1.0,10.0,7.77,6.72,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,49,64,1.0,10.0,7.77,5.12,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,49,64,1.0,10.0,7.77,17.04,5.29,14.17
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,49,64,1.0,10.0,7.77,11.87,3.72,13.92
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,49,64,1.0,10.0,7.77,13.11,5.59,15.66
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,49,64,1.0,10.0,7.77,0.0,5.65,13.39
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,49,64,1.0,10.0,7.77,9.1,6.16,15.9
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,49,64,1.0,10.0,7.77,19.34,4.82,15.18
+86,IAU,iShares Gold Trust,5,60,14,49,64,1.0,10.0,7.77,3.69,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,49,64,1.0,10.0,7.77,3.61,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,49,64,1.0,10.0,7.77,8.36,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,49,64,1.0,10.0,7.77,10.07,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,49,64,1.0,10.0,7.77,10.01,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,49,64,1.0,10.0,7.77,9.96,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,49,64,1.0,10.0,7.77,9.47,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,49,64,1.0,10.0,7.77,1.41,3.6,14.52
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,49,64,1.0,10.0,7.77,0.0,6.54,14.62
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,49,64,1.0,10.0,7.77,0.0,5.54,15.47
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,49,64,1.0,10.0,7.77,0.12,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,49,64,1.0,10.0,7.77,13.34,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,49,64,1.0,10.0,7.77,6.84,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,49,64,1.0,10.0,7.77,11.03,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,49,64,1.0,10.0,7.77,4.88,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,49,64,1.0,10.0,7.77,19.9,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,49,64,1.0,10.0,7.77,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,49,64,1.0,10.0,7.77,8.3,6.48,13.6
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,49,64,1.0,10.0,7.77,11.73,6.25,14.65
+86,GLD,SPDR Gold Shares,5,60,14,49,64,1.0,10.0,7.77,3.53,5.74,15.34
+86,GLD,SPDR Gold Shares,5,60,14,49,69,1.0,10.0,7.58,5.2,5.74,15.34
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,49,69,1.0,10.0,7.58,13.09,5.59,15.66
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,49,69,1.0,10.0,7.58,8.22,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,49,69,1.0,10.0,7.58,8.63,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,60,14,49,69,1.0,10.0,7.58,9.5,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,60,14,49,69,1.0,10.0,7.58,8.67,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,49,69,1.0,10.0,7.58,7.06,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,49,69,1.0,10.0,7.58,6.12,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,49,69,1.0,10.0,7.58,9.26,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,49,69,1.0,10.0,7.58,0.0,5.88,14.66
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,49,69,1.0,10.0,7.58,11.27,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,49,69,1.0,10.0,7.58,8.25,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,49,69,1.0,10.0,7.58,8.51,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,49,69,1.0,10.0,7.58,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,49,69,1.0,10.0,7.58,23.84,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,49,69,1.0,10.0,7.58,7.48,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,49,69,1.0,10.0,7.58,7.72,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,49,69,1.0,10.0,7.58,16.7,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,49,69,1.0,10.0,7.58,11.22,6.25,14.65
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,49,69,1.0,10.0,7.58,0.0,5.65,13.39
+86,IAU,iShares Gold Trust,5,60,14,49,69,1.0,10.0,7.58,5.36,5.9,15.35
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,49,69,1.0,10.0,7.58,0.0,5.94,14.45
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,49,69,1.0,10.0,7.58,6.0,6.84,14.75
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,49,69,1.0,10.0,7.58,11.08,3.72,13.92
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,49,69,1.0,10.0,7.58,1.84,4.1,14.45
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,49,69,1.0,10.0,7.58,9.1,6.16,15.9
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,49,69,1.0,10.0,7.58,10.52,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,49,69,1.0,10.0,7.58,10.07,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,49,69,1.0,10.0,7.58,10.18,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,49,69,1.0,10.0,7.58,5.08,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,49,69,1.0,10.0,7.58,10.83,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,49,69,1.0,10.0,7.58,1.82,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,49,69,1.0,10.0,7.58,19.34,4.82,15.18
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,49,69,1.0,10.0,7.58,0.0,6.54,14.62
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,49,69,1.0,10.0,7.58,5.29,5.84,15.33
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,49,69,1.0,10.0,7.58,13.87,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,49,69,1.0,10.0,7.58,3.83,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,49,69,1.0,10.0,7.58,3.9,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,49,69,1.0,10.0,7.58,4.61,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,49,69,1.0,10.0,7.58,12.1,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,49,69,1.0,10.0,7.58,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,49,69,1.0,10.0,7.58,10.56,6.48,13.6
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,49,69,1.0,10.0,7.58,0.0,5.54,15.47
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,49,69,1.0,10.0,7.54,13.33,6.59,13.41
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,49,69,1.0,10.0,7.54,3.11,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,49,69,1.0,10.0,7.54,3.76,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,49,69,1.0,10.0,7.54,3.91,5.66,15.76
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,49,69,1.0,10.0,7.54,6.82,6.16,15.9
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,49,69,1.0,10.0,7.54,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,49,69,1.0,10.0,7.54,9.39,6.48,13.6
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,49,69,1.0,10.0,7.54,0.0,5.54,15.47
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,49,69,1.0,10.0,7.54,3.45,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,49,69,1.0,10.0,7.54,13.67,6.84,15.11
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,49,69,1.0,10.0,7.54,9.28,4.0,14.16
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,49,69,1.0,10.0,7.54,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,49,69,1.0,10.0,7.54,18.0,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,49,69,1.0,10.0,7.54,2.06,3.6,14.52
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,49,69,1.0,10.0,7.54,15.28,5.59,15.66
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,49,69,1.0,10.0,7.54,4.38,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,49,69,1.0,10.0,7.54,7.63,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,49,69,1.0,10.0,7.54,11.59,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,49,69,1.0,10.0,7.54,10.14,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,49,69,1.0,10.0,7.54,4.46,5.84,15.33
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,49,69,1.0,10.0,7.54,13.4,3.72,13.92
+86,IAU,iShares Gold Trust,5,120,14,49,69,1.0,10.0,7.54,4.53,5.9,15.35
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,49,69,1.0,10.0,7.54,0.0,5.94,14.45
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,49,69,1.0,10.0,7.54,7.3,6.5,15.01
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,49,69,1.0,10.0,7.54,7.34,5.58,15.65
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,49,69,1.0,10.0,7.54,0.0,5.65,13.39
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,49,69,1.0,10.0,7.54,12.57,6.25,14.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,49,69,1.0,10.0,7.54,16.71,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,120,14,49,69,1.0,10.0,7.54,11.25,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,49,69,1.0,10.0,7.54,11.87,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,49,69,1.0,10.0,7.54,19.55,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,49,69,1.0,10.0,7.54,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,49,69,1.0,10.0,7.54,7.13,6.36,13.51
+86,GLD,SPDR Gold Shares,5,120,14,49,69,1.0,10.0,7.54,4.38,5.74,15.34
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,49,69,1.0,10.0,7.54,8.7,6.17,15.64
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,49,69,1.0,10.0,7.54,0.0,5.88,14.66
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,49,69,1.0,10.0,7.54,18.53,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,49,69,1.0,10.0,7.54,4.6,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,49,69,1.0,10.0,7.54,1.93,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,120,14,49,69,1.0,10.0,7.54,8.67,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,120,14,49,69,1.0,10.0,7.54,7.94,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,49,69,1.0,10.0,7.54,9.44,4.4,15.75
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,49,69,1.0,10.0,7.54,8.03,6.84,14.75
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,44,64,1.0,10.0,7.38,4.88,5.66,15.76
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,44,64,1.0,10.0,7.38,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,44,64,1.0,10.0,7.38,6.84,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,44,64,1.0,10.0,7.38,12.36,5.72,16.09
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,44,64,1.0,10.0,7.38,8.3,6.48,13.6
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,44,64,1.0,10.0,7.38,19.9,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,44,64,1.0,10.0,7.38,0.0,5.55,14.13
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,44,64,1.0,10.0,7.38,0.0,5.54,15.47
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,44,64,1.0,10.0,7.38,5.18,4.1,14.45
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,44,64,1.0,10.0,7.38,10.77,4.17,15.03
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,44,64,1.0,10.0,7.38,19.34,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,44,64,1.0,10.0,7.38,2.75,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,44,64,1.0,10.0,7.38,9.47,4.0,14.16
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,44,64,1.0,10.0,7.38,0.0,3.72,13.92
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,44,64,1.0,10.0,7.38,10.01,5.96,13.23
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,44,64,1.0,10.0,7.38,8.36,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,44,64,1.0,10.0,7.38,3.61,5.84,15.33
+86,IAU,iShares Gold Trust,5,60,14,44,64,1.0,10.0,7.38,3.69,5.9,15.35
+86,GLD,SPDR Gold Shares,5,60,14,44,64,1.0,10.0,7.38,3.53,5.74,15.34
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,44,64,1.0,10.0,7.38,9.1,6.16,15.9
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,44,64,1.0,10.0,7.38,10.07,6.56,15.7
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,44,64,1.0,10.0,7.38,13.08,5.59,15.66
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,44,64,1.0,10.0,7.38,8.25,6.5,15.01
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,44,64,1.0,10.0,7.38,0.0,5.94,14.45
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,44,64,1.0,10.0,7.38,0.0,5.65,13.39
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,44,64,1.0,10.0,7.38,11.73,6.25,14.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,44,64,1.0,10.0,7.38,17.04,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,60,14,44,64,1.0,10.0,7.38,5.12,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,44,64,1.0,10.0,7.38,12.24,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,44,64,1.0,10.0,7.38,0.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,44,64,1.0,10.0,7.38,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,44,64,1.0,10.0,7.38,8.51,6.36,13.51
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,44,64,1.0,10.0,7.38,0.0,6.54,14.62
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,44,64,1.0,10.0,7.38,17.34,6.17,15.64
+86,KONG.K,Formidable Fortress ETF,5,60,14,44,64,1.0,10.0,7.38,8.67,4.78,14.88
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,44,64,1.0,10.0,7.38,22.26,6.84,14.75
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,44,64,1.0,10.0,7.38,8.81,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,60,14,44,64,1.0,10.0,7.38,9.5,4.49,15.27
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,44,64,1.0,10.0,7.38,8.22,5.58,15.65
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,44,64,1.0,10.0,7.38,3.07,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,44,64,1.0,10.0,7.38,6.12,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,44,64,1.0,10.0,7.38,9.26,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,44,64,1.0,10.0,7.38,0.0,5.88,14.66
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,49,74,1.0,10.0,7.24,0.0,5.88,14.66
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,49,74,1.0,10.0,7.24,4.77,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,120,14,49,74,1.0,10.0,7.24,7.94,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,120,14,49,74,1.0,10.0,7.24,8.67,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,49,74,1.0,10.0,7.24,1.93,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,49,74,1.0,10.0,7.24,4.6,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,49,74,1.0,10.0,7.24,18.53,6.24,14.98
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,49,74,1.0,10.0,7.24,7.34,5.58,15.65
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,49,74,1.0,10.0,7.24,7.13,6.36,13.51
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,49,74,1.0,10.0,7.24,8.03,6.84,14.75
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,49,74,1.0,10.0,7.24,8.7,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,49,74,1.0,10.0,7.24,7.3,6.5,15.01
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,49,74,1.0,10.0,7.24,7.83,5.59,15.66
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,49,74,1.0,10.0,7.24,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,49,74,1.0,10.0,7.24,17.24,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,49,74,1.0,10.0,7.24,11.87,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,120,14,49,74,1.0,10.0,7.24,11.79,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,49,74,1.0,10.0,7.24,16.71,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,49,74,1.0,10.0,7.24,12.57,6.25,14.65
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,49,74,1.0,10.0,7.24,0.0,5.94,14.45
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,49,74,1.0,10.0,7.24,0.0,5.55,14.13
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,49,74,1.0,10.0,7.24,13.4,3.72,13.92
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,49,74,1.0,10.0,7.24,2.06,3.6,14.52
+86,GLD,SPDR Gold Shares,5,120,14,49,74,1.0,10.0,7.24,5.48,5.74,15.34
+86,IAU,iShares Gold Trust,5,120,14,49,74,1.0,10.0,7.24,5.61,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,49,74,1.0,10.0,7.24,5.57,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,49,74,1.0,10.0,7.24,10.86,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,49,74,1.0,10.0,7.24,11.59,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,49,74,1.0,10.0,7.24,10.76,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,49,74,1.0,10.0,7.24,3.31,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,49,74,1.0,10.0,7.24,3.39,4.0,14.16
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,49,74,1.0,10.0,7.24,18.0,4.82,15.18
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,49,74,1.0,10.0,7.24,6.82,6.16,15.9
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,49,74,1.0,10.0,7.24,0.0,6.54,14.62
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,49,74,1.0,10.0,7.24,13.67,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,49,74,1.0,10.0,7.24,3.11,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,49,74,1.0,10.0,7.24,3.76,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,49,74,1.0,10.0,7.24,3.91,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,49,74,1.0,10.0,7.24,13.33,6.59,13.41
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,49,74,1.0,10.0,7.24,8.51,6.48,13.6
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,49,74,1.0,10.0,7.24,0.0,5.54,15.47
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,49,74,1.0,10.0,7.24,5.24,4.1,14.45
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,49,74,1.0,10.0,7.24,0.0,5.65,13.39
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,44,69,1.0,10.0,7.23,6.82,6.16,15.9
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,44,69,1.0,10.0,7.23,16.71,5.29,14.17
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,44,69,1.0,10.0,7.23,14.31,5.59,15.66
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,44,69,1.0,10.0,7.23,0.0,5.94,14.45
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,44,69,1.0,10.0,7.23,7.34,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,44,69,1.0,10.0,7.23,9.98,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,120,14,44,69,1.0,10.0,7.23,7.94,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,120,14,44,69,1.0,10.0,7.23,8.67,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,44,69,1.0,10.0,7.23,1.93,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,44,69,1.0,10.0,7.23,11.45,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,44,69,1.0,10.0,7.23,0.0,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,44,69,1.0,10.0,7.23,0.0,5.88,14.66
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,44,69,1.0,10.0,7.23,0.0,6.84,14.75
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,44,69,1.0,10.0,7.23,14.99,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,44,69,1.0,10.0,7.23,9.83,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,44,69,1.0,10.0,7.23,10.24,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,44,69,1.0,10.0,7.23,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,44,69,1.0,10.0,7.23,19.55,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,44,69,1.0,10.0,7.23,11.87,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,120,14,44,69,1.0,10.0,7.23,11.25,3.83,15.0
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,44,69,1.0,10.0,7.23,0.0,5.65,13.39
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,44,69,1.0,10.0,7.23,0.0,3.72,13.92
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,44,69,1.0,10.0,7.23,0.0,5.54,15.47
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,44,69,1.0,10.0,7.23,3.29,3.6,14.52
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,44,69,1.0,10.0,7.23,14.86,6.48,13.6
+86,GLD,SPDR Gold Shares,5,120,14,44,69,1.0,10.0,7.23,4.38,5.74,15.34
+86,IAU,iShares Gold Trust,5,120,14,44,69,1.0,10.0,7.23,4.53,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,44,69,1.0,10.0,7.23,4.46,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,44,69,1.0,10.0,7.23,10.14,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,44,69,1.0,10.0,7.23,11.59,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,44,69,1.0,10.0,7.23,7.63,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,44,69,1.0,10.0,7.23,6.03,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,44,69,1.0,10.0,7.23,9.28,4.0,14.16
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,44,69,1.0,10.0,7.23,12.57,6.25,14.65
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,44,69,1.0,10.0,7.23,18.0,4.82,15.18
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,44,69,1.0,10.0,7.23,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,44,69,1.0,10.0,7.23,10.27,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,44,69,1.0,10.0,7.23,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,44,69,1.0,10.0,7.23,7.08,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,44,69,1.0,10.0,7.23,4.01,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,44,69,1.0,10.0,7.23,6.66,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,44,69,1.0,10.0,7.23,13.33,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,44,69,1.0,10.0,7.23,0.0,5.55,14.13
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,44,69,1.0,10.0,7.17,5.29,5.84,15.33
+86,IAU,iShares Gold Trust,5,60,14,44,69,1.0,10.0,7.17,5.36,5.9,15.35
+86,GLD,SPDR Gold Shares,5,60,14,44,69,1.0,10.0,7.17,5.2,5.74,15.34
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,44,69,1.0,10.0,7.17,10.52,6.84,14.1
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,44,69,1.0,10.0,7.17,8.22,5.58,15.65
+86,AGNG.O,Global X Aging Population ETF,5,60,14,44,69,1.0,10.0,7.17,9.5,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,60,14,44,69,1.0,10.0,7.17,8.67,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,44,69,1.0,10.0,7.17,3.07,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,44,69,1.0,10.0,7.17,6.12,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,44,69,1.0,10.0,7.17,9.26,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,44,69,1.0,10.0,7.17,0.0,5.88,14.66
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,44,69,1.0,10.0,7.17,22.26,6.84,14.75
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,44,69,1.0,10.0,7.17,8.25,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,44,69,1.0,10.0,7.17,8.51,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,44,69,1.0,10.0,7.17,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,44,69,1.0,10.0,7.17,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,44,69,1.0,10.0,7.17,12.11,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,44,69,1.0,10.0,7.17,7.72,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,44,69,1.0,10.0,7.17,16.7,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,44,69,1.0,10.0,7.17,11.22,6.25,14.65
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,44,69,1.0,10.0,7.17,0.0,5.65,13.39
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,44,69,1.0,10.0,7.17,10.07,6.56,15.7
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,44,69,1.0,10.0,7.17,9.42,4.4,15.75
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,44,69,1.0,10.0,7.17,17.34,6.17,15.64
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,44,69,1.0,10.0,7.17,0.0,5.94,14.45
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,44,69,1.0,10.0,7.17,3.83,5.72,15.61
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,44,69,1.0,10.0,7.17,10.18,5.96,13.23
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,44,69,1.0,10.0,7.17,13.11,5.59,15.66
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,44,69,1.0,10.0,7.17,5.08,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,44,69,1.0,10.0,7.17,10.83,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,44,69,1.0,10.0,7.17,3.12,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,44,69,1.0,10.0,7.17,19.34,4.82,15.18
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,44,69,1.0,10.0,7.17,7.38,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,44,69,1.0,10.0,7.17,0.0,6.84,15.11
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,44,69,1.0,10.0,7.17,0.0,6.54,14.62
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,44,69,1.0,10.0,7.17,4.15,5.72,16.09
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,44,69,1.0,10.0,7.17,0.0,5.55,14.13
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,44,69,1.0,10.0,7.17,0.0,3.72,13.92
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,44,69,1.0,10.0,7.17,0.0,5.54,15.47
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,44,69,1.0,10.0,7.17,10.56,6.48,13.6
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,44,69,1.0,10.0,7.17,9.1,6.16,15.9
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,44,69,1.0,10.0,7.17,12.1,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,44,69,1.0,10.0,7.17,4.61,5.66,15.76
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,49,74,1.0,10.0,7.16,0.0,6.54,14.62
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,49,74,1.0,10.0,7.16,9.65,6.48,13.6
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,49,74,1.0,10.0,7.16,0.0,5.54,15.47
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,49,74,1.0,10.0,7.16,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,49,74,1.0,10.0,7.16,12.1,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,49,74,1.0,10.0,7.16,4.61,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,49,74,1.0,10.0,7.16,3.9,5.72,16.09
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,49,74,1.0,10.0,7.16,3.83,5.72,15.61
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,49,74,1.0,10.0,7.16,13.87,6.84,15.11
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,49,74,1.0,10.0,7.16,3.42,4.1,14.45
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,49,74,1.0,10.0,7.16,6.31,5.84,15.33
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,49,74,1.0,10.0,7.16,19.34,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,49,74,1.0,10.0,7.16,1.82,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,49,74,1.0,10.0,7.16,3.65,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,49,74,1.0,10.0,7.16,2.95,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,49,74,1.0,10.0,7.16,9.73,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,49,74,1.0,10.0,7.16,10.07,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,49,74,1.0,10.0,7.16,11.17,6.84,14.1
+86,IAU,iShares Gold Trust,5,60,14,49,74,1.0,10.0,7.16,6.35,5.9,15.35
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,49,74,1.0,10.0,7.16,11.08,3.72,13.92
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,49,74,1.0,10.0,7.16,9.1,6.16,15.9
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,49,74,1.0,10.0,7.16,16.7,5.29,14.17
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,49,74,1.0,10.0,7.16,8.74,5.59,15.66
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,49,74,1.0,10.0,7.16,0.0,5.94,14.45
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,49,74,1.0,10.0,7.16,0.0,5.65,13.39
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,49,74,1.0,10.0,7.16,11.22,6.25,14.65
+86,PWS,Pacer WealthShield ETF,5,60,14,49,74,1.0,10.0,7.16,8.31,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,49,74,1.0,10.0,7.16,7.48,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,49,74,1.0,10.0,7.16,19.93,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,49,74,1.0,10.0,7.16,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,49,74,1.0,10.0,7.16,8.51,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,49,74,1.0,10.0,7.16,8.25,6.5,15.01
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,49,74,1.0,10.0,7.16,11.27,6.17,15.64
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,49,74,1.0,10.0,7.16,6.0,6.84,14.75
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,49,74,1.0,10.0,7.16,0.0,5.88,14.66
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,49,74,1.0,10.0,7.16,9.26,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,49,74,1.0,10.0,7.16,6.12,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,49,74,1.0,10.0,7.16,6.76,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,60,14,49,74,1.0,10.0,7.16,8.67,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,60,14,49,74,1.0,10.0,7.16,9.5,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,49,74,1.0,10.0,7.16,3.94,4.4,15.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,49,74,1.0,10.0,7.16,8.22,5.58,15.65
+86,GLD,SPDR Gold Shares,5,60,14,49,74,1.0,10.0,7.16,6.21,5.74,15.34
+86,GLD,SPDR Gold Shares,5,120,14,44,74,1.0,10.0,7.03,5.48,5.74,15.34
+86,IAU,iShares Gold Trust,5,120,14,44,74,1.0,10.0,7.03,5.61,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,44,74,1.0,10.0,7.03,5.57,5.84,15.33
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,44,74,1.0,10.0,7.03,12.5,5.59,15.66
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,44,74,1.0,10.0,7.03,6.82,6.16,15.9
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,44,74,1.0,10.0,7.03,0.0,5.54,15.47
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,44,74,1.0,10.0,7.03,13.55,6.48,13.6
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,44,74,1.0,10.0,7.03,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,44,74,1.0,10.0,7.03,13.33,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,44,74,1.0,10.0,7.03,6.66,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,44,74,1.0,10.0,7.03,4.01,5.72,16.09
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,44,74,1.0,10.0,7.03,7.08,5.72,15.61
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,44,74,1.0,10.0,7.03,12.91,4.1,14.45
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,44,74,1.0,10.0,7.03,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,44,74,1.0,10.0,7.03,18.0,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,44,74,1.0,10.0,7.03,3.29,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,44,74,1.0,10.0,7.03,3.39,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,44,74,1.0,10.0,7.03,3.31,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,44,74,1.0,10.0,7.03,10.76,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,44,74,1.0,10.0,7.03,11.59,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,44,74,1.0,10.0,7.03,10.86,6.84,14.1
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,44,74,1.0,10.0,7.03,0.0,3.72,13.92
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,44,74,1.0,10.0,7.03,0.0,6.84,15.11
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,44,74,1.0,10.0,7.03,0.0,5.94,14.45
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,44,74,1.0,10.0,7.03,14.99,6.17,15.64
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,44,74,1.0,10.0,7.03,7.34,5.58,15.65
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,44,74,1.0,10.0,7.03,12.57,6.25,14.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,44,74,1.0,10.0,7.03,16.71,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,120,14,44,74,1.0,10.0,7.03,11.79,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,44,74,1.0,10.0,7.03,11.87,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,44,74,1.0,10.0,7.03,17.24,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,44,74,1.0,10.0,7.03,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,44,74,1.0,10.0,7.03,10.24,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,44,74,1.0,10.0,7.03,9.83,6.5,15.01
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,44,74,1.0,10.0,7.03,0.0,5.65,13.39
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,44,74,1.0,10.0,7.03,0.0,5.88,14.66
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,44,74,1.0,10.0,7.03,0.0,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,44,74,1.0,10.0,7.03,11.45,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,44,74,1.0,10.0,7.03,1.93,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,120,14,44,74,1.0,10.0,7.03,8.67,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,120,14,44,74,1.0,10.0,7.03,7.94,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,44,74,1.0,10.0,7.03,4.77,4.4,15.75
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,44,74,1.0,10.0,7.03,0.0,6.84,14.75
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,44,74,1.0,10.0,6.86,0.0,3.72,13.92
+86,KONG.K,Formidable Fortress ETF,5,60,14,44,74,1.0,10.0,6.86,8.67,4.78,14.88
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,44,74,1.0,10.0,6.86,6.12,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,44,74,1.0,10.0,6.86,6.15,4.87,16.06
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,44,74,1.0,10.0,6.86,0.0,5.94,14.45
+86,AGNG.O,Global X Aging Population ETF,5,60,14,44,74,1.0,10.0,6.86,9.5,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,44,74,1.0,10.0,6.86,3.94,4.4,15.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,44,74,1.0,10.0,6.86,8.22,5.58,15.65
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,44,74,1.0,10.0,6.86,0.0,5.88,14.66
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,44,74,1.0,10.0,6.86,9.26,6.24,14.98
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,44,74,1.0,10.0,6.86,0.0,5.28,15.83
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,44,74,1.0,10.0,6.86,22.26,6.84,14.75
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,44,74,1.0,10.0,6.86,17.34,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,44,74,1.0,10.0,6.86,8.25,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,44,74,1.0,10.0,6.86,8.51,6.36,13.51
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,44,74,1.0,10.0,6.86,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,44,74,1.0,10.0,6.86,12.11,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,44,74,1.0,10.0,6.86,8.31,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,44,74,1.0,10.0,6.86,16.7,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,44,74,1.0,10.0,6.86,11.22,6.25,14.65
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,44,74,1.0,10.0,6.86,0.0,5.65,13.39
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,44,74,1.0,10.0,6.86,6.82,5.59,15.66
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,44,74,1.0,10.0,6.86,9.1,6.16,15.9
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,44,74,1.0,10.0,6.86,19.34,4.82,15.18
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,44,74,1.0,10.0,6.86,0.0,5.54,15.47
+86,IAU,iShares Gold Trust,5,60,14,44,74,1.0,10.0,6.86,6.35,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,44,74,1.0,10.0,6.86,6.31,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,44,74,1.0,10.0,6.86,11.17,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,44,74,1.0,10.0,6.86,10.07,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,44,74,1.0,10.0,6.86,9.73,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,44,74,1.0,10.0,6.86,2.95,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,44,74,1.0,10.0,6.86,3.65,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,44,74,1.0,10.0,6.86,3.12,3.6,14.52
+86,GLD,SPDR Gold Shares,5,60,14,44,74,1.0,10.0,6.86,6.21,5.74,15.34
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,44,74,1.0,10.0,6.86,0.0,6.54,14.62
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,44,74,1.0,10.0,6.86,4.61,5.66,15.76
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,44,74,1.0,10.0,6.86,9.65,6.48,13.6
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,44,74,1.0,10.0,6.86,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,44,74,1.0,10.0,6.86,12.1,6.59,13.41
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,44,74,1.0,10.0,6.86,9.35,4.1,14.45
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,44,74,1.0,10.0,6.86,4.15,5.72,16.09
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,44,74,1.0,10.0,6.86,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,44,74,1.0,10.0,6.86,3.83,5.72,15.61
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,6.24,14.98
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,39,54,1.0,10.0,6.72,37.23,5.59,15.66
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,5.94,14.45
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,39,54,1.0,10.0,6.72,11.66,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,39,54,1.0,10.0,6.72,7.48,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,60,14,39,54,1.0,10.0,6.72,12.31,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,60,14,39,54,1.0,10.0,6.72,7.91,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,39,54,1.0,10.0,6.72,1.3,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,39,54,1.0,10.0,6.72,4.22,6.18,13.61
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,6.84,14.75
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,5.88,14.66
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,6.5,15.01
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,39,54,1.0,10.0,6.72,9.45,6.16,15.9
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,39,54,1.0,10.0,6.72,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,39,54,1.0,10.0,6.72,8.21,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,39,54,1.0,10.0,6.72,16.12,5.29,14.17
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,39,54,1.0,10.0,6.72,6.22,6.36,13.51
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,5.65,13.39
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,5.54,15.47
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,39,54,1.0,10.0,6.72,20.01,3.6,14.52
+86,GLD,SPDR Gold Shares,5,60,14,39,54,1.0,10.0,6.72,-1.67,5.74,15.34
+86,IAU,iShares Gold Trust,5,60,14,39,54,1.0,10.0,6.72,-1.49,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,39,54,1.0,10.0,6.72,-1.59,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,39,54,1.0,10.0,6.72,17.46,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,39,54,1.0,10.0,6.72,37.69,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,39,54,1.0,10.0,6.72,7.55,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,39,54,1.0,10.0,6.72,7.69,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,4.0,14.16
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,4.82,15.18
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,39,54,1.0,10.0,6.72,5.51,6.48,13.6
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,39,54,1.0,10.0,6.72,-0.34,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,39,54,1.0,10.0,6.72,39.71,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,39,54,1.0,10.0,6.72,10.56,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,39,54,1.0,10.0,6.72,25.9,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,39,54,1.0,10.0,6.72,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,5.55,14.13
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,6.25,14.65
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,39,54,1.0,10.0,6.72,0.0,3.72,13.92
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,3.72,13.92
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,5.88,14.66
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,5.94,14.45
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,39,59,1.0,10.0,5.58,11.69,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,39,59,1.0,10.0,5.58,8.04,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,60,14,39,59,1.0,10.0,5.58,9.08,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,60,14,39,59,1.0,10.0,5.58,8.96,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,39,59,1.0,10.0,5.58,1.3,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,39,59,1.0,10.0,5.58,5.33,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,6.24,14.98
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,6.84,14.75
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,5.65,13.39
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,39,59,1.0,10.0,5.58,7.11,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,39,59,1.0,10.0,5.58,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,39,59,1.0,10.0,5.58,7.52,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,39,59,1.0,10.0,5.58,13.44,5.29,14.17
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,39,59,1.0,10.0,5.58,35.07,5.59,15.66
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,39,59,1.0,10.0,5.58,9.6,6.16,15.9
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,5.54,15.47
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,39,59,1.0,10.0,5.58,7.19,6.48,13.6
+86,IAU,iShares Gold Trust,5,60,14,39,59,1.0,10.0,5.58,0.36,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,39,59,1.0,10.0,5.58,0.26,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,39,59,1.0,10.0,5.58,19.39,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,39,59,1.0,10.0,5.58,18.46,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,39,59,1.0,10.0,5.58,7.78,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,39,59,1.0,10.0,5.58,8.75,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,39,59,1.0,10.0,5.58,16.98,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,4.82,15.18
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,39,59,1.0,10.0,5.58,1.82,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,39,59,1.0,10.0,5.58,25.79,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,39,59,1.0,10.0,5.58,11.36,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,39,59,1.0,10.0,5.58,4.23,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,39,59,1.0,10.0,5.58,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,5.55,14.13
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,39,59,1.0,10.0,5.58,0.0,6.25,14.65
+86,GLD,SPDR Gold Shares,5,60,14,39,59,1.0,10.0,5.58,0.21,5.74,15.34
+86,IAU,iShares Gold Trust,5,120,14,34,54,1.0,10.0,4.95,0.0,5.9,15.35
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,6.5,15.01
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,5.88,14.66
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,6.84,14.75
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,6.36,13.51
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,5.94,14.45
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,34,54,1.0,10.0,4.95,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,6.25,14.65
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,5.65,13.39
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,5.84,15.33
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,34,54,1.0,10.0,4.95,0.0,5.58,15.65
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,6.17,15.64
+86,GLD,SPDR Gold Shares,5,120,14,34,54,1.0,10.0,4.95,0.0,5.74,15.34
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,6.84,15.11
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,34,54,1.0,10.0,4.95,0.0,6.56,15.7
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,5.59,15.66
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,34,54,1.0,10.0,4.95,0.0,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,34,54,1.0,10.0,4.95,22.91,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,4.82,15.18
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,4.1,14.45
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,34,54,1.0,10.0,4.95,189.81,6.84,14.1
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,34,54,1.0,10.0,4.95,0.0,5.72,15.61
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,5.55,14.13
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,3.72,13.92
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,5.54,15.47
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,34,54,1.0,10.0,4.95,0.0,6.48,13.6
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,6.16,15.9
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,34,54,1.0,10.0,4.95,0.0,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,34,54,1.0,10.0,4.95,0.0,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,34,54,1.0,10.0,4.95,0.0,5.72,16.09
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,5.54,15.47
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,39,69,1.0,10.0,4.44,7.93,4.1,14.45
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,39,69,1.0,10.0,4.44,10.56,6.48,13.6
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,39,69,1.0,10.0,4.44,0.0,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,39,69,1.0,10.0,4.44,4.61,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,39,69,1.0,10.0,4.44,10.35,5.72,16.09
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,39,69,1.0,10.0,4.44,3.83,5.72,15.61
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,6.84,15.11
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,4.0,14.16
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,39,69,1.0,10.0,4.44,8.58,3.6,14.52
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,39,69,1.0,10.0,4.44,9.1,6.16,15.9
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,39,69,1.0,10.0,4.44,5.7,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,39,69,1.0,10.0,4.44,9.1,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,39,69,1.0,10.0,4.44,15.13,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,39,69,1.0,10.0,4.44,7.4,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,39,69,1.0,10.0,4.44,2.09,5.84,15.33
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,5.65,13.39
+86,IAU,iShares Gold Trust,5,60,14,39,69,1.0,10.0,4.44,2.19,5.9,15.35
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,39,69,1.0,10.0,4.44,16.7,5.29,14.17
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,3.72,13.92
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,6.84,14.75
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,6.25,14.65
+86,GLD,SPDR Gold Shares,5,60,14,39,69,1.0,10.0,4.44,2.04,5.74,15.34
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,39,69,1.0,10.0,4.44,0.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,39,69,1.0,10.0,4.44,8.51,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,6.5,15.01
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,6.17,15.64
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,5.88,14.66
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,39,69,1.0,10.0,4.44,10.98,5.59,15.66
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,39,69,1.0,10.0,4.44,6.12,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,39,69,1.0,10.0,4.44,1.3,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,60,14,39,69,1.0,10.0,4.44,8.67,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,60,14,39,69,1.0,10.0,4.44,9.5,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,39,69,1.0,10.0,4.44,10.27,4.4,15.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,39,69,1.0,10.0,4.44,8.22,5.58,15.65
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,39,69,1.0,10.0,4.44,0.0,5.94,14.45
+86,PWS,Pacer WealthShield ETF,5,60,14,39,69,1.0,10.0,4.44,12.06,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,39,54,1.0,10.0,4.43,16.15,5.29,14.17
+86,GLD,SPDR Gold Shares,5,120,14,39,54,1.0,10.0,4.43,-3.58,5.74,15.34
+86,IAU,iShares Gold Trust,5,120,14,39,54,1.0,10.0,4.43,-3.43,5.9,15.35
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,5.94,14.45
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,39,54,1.0,10.0,4.43,8.33,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,39,54,1.0,10.0,4.43,9.77,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,120,14,39,54,1.0,10.0,4.43,7.91,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,39,54,1.0,10.0,4.43,1.93,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,5.88,14.66
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,6.84,14.75
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,39,54,1.0,10.0,4.43,22.95,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,120,14,39,54,1.0,10.0,4.43,45.19,3.83,15.0
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,5.59,15.66
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,3.72,13.92
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,5.54,15.47
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,4.82,15.18
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,39,54,1.0,10.0,4.43,-3.56,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,39,54,1.0,10.0,4.43,16.87,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,39,54,1.0,10.0,4.43,23.25,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,39,54,1.0,10.0,4.43,7.09,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,39,54,1.0,10.0,4.43,0.0,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,39,54,1.0,10.0,4.43,18.26,3.6,14.52
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,6.54,14.62
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,39,54,1.0,10.0,4.43,0.0,6.48,13.6
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,39,54,1.0,10.0,4.43,1.27,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,39,54,1.0,10.0,4.43,0.0,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,39,54,1.0,10.0,4.43,21.98,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,39,54,1.0,10.0,4.43,0.0,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,39,54,1.0,10.0,4.43,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,5.55,14.13
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,6.16,15.9
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,5.65,13.39
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,39,54,1.0,10.0,4.43,0.0,6.25,14.65
+86,GLD,SPDR Gold Shares,5,60,14,39,74,1.0,10.0,4.33,3.14,5.74,15.34
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,5.94,14.45
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,39,74,1.0,10.0,4.33,3.94,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,60,14,39,74,1.0,10.0,4.33,9.5,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,60,14,39,74,1.0,10.0,4.33,8.67,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,39,74,1.0,10.0,4.33,1.3,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,39,74,1.0,10.0,4.33,6.12,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,5.88,14.66
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,6.84,14.75
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,39,74,1.0,10.0,4.33,8.51,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,39,74,1.0,10.0,4.33,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,39,74,1.0,10.0,4.33,12.54,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,39,74,1.0,10.0,4.33,16.7,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,6.25,14.65
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,5.65,13.39
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,39,74,1.0,10.0,4.33,8.22,5.58,15.65
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,39,74,1.0,10.0,4.33,6.82,5.59,15.66
+86,IAU,iShares Gold Trust,5,60,14,39,74,1.0,10.0,4.33,3.28,5.9,15.35
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,6.54,14.62
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,39,74,1.0,10.0,4.33,3.21,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,39,74,1.0,10.0,4.33,8.32,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,39,74,1.0,10.0,4.33,15.13,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,39,74,1.0,10.0,4.33,11.45,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,39,74,1.0,10.0,4.33,2.95,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,39,74,1.0,10.0,4.33,8.58,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,4.82,15.18
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,39,74,1.0,10.0,4.33,10.19,4.1,14.45
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,3.72,13.92
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,39,74,1.0,10.0,4.33,3.83,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,39,74,1.0,10.0,4.33,10.35,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,39,74,1.0,10.0,4.33,4.61,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,39,74,1.0,10.0,4.33,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,39,74,1.0,10.0,4.33,9.65,6.48,13.6
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,39,74,1.0,10.0,4.33,0.0,5.54,15.47
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,39,74,1.0,10.0,4.33,9.1,6.16,15.9
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,6.25,14.65
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,39,64,1.0,10.0,4.24,9.1,6.16,15.9
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,4.82,15.18
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,39,64,1.0,10.0,4.24,0.0,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,39,64,1.0,10.0,4.24,4.88,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,39,64,1.0,10.0,4.24,13.46,5.72,16.09
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,39,64,1.0,10.0,4.24,7.97,5.72,15.61
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,6.84,15.11
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,39,64,1.0,10.0,4.24,5.36,4.1,14.45
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,6.54,14.62
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,39,64,1.0,10.0,4.24,8.51,3.6,14.52
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,5.54,15.47
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,39,64,1.0,10.0,4.24,6.88,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,39,64,1.0,10.0,4.24,8.15,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,39,64,1.0,10.0,4.24,15.13,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,39,64,1.0,10.0,4.24,4.75,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,39,64,1.0,10.0,4.24,0.26,5.84,15.33
+86,IAU,iShares Gold Trust,5,60,14,39,64,1.0,10.0,4.24,0.36,5.9,15.35
+86,GLD,SPDR Gold Shares,5,60,14,39,64,1.0,10.0,4.24,0.21,5.74,15.34
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,39,64,1.0,10.0,4.24,8.3,6.48,13.6
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,5.65,13.39
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,6.24,14.98
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,3.72,13.92
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,39,64,1.0,10.0,4.24,0.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,39,64,1.0,10.0,4.24,8.51,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,6.5,15.01
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,6.17,15.64
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,6.84,14.75
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,5.88,14.66
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,39,64,1.0,10.0,4.24,6.12,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,39,64,1.0,10.0,4.24,1.3,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,60,14,39,64,1.0,10.0,4.24,8.67,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,60,14,39,64,1.0,10.0,4.24,9.5,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,39,64,1.0,10.0,4.24,9.52,4.4,15.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,39,64,1.0,10.0,4.24,8.22,5.58,15.65
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,39,64,1.0,10.0,4.24,0.0,5.94,14.45
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,39,64,1.0,10.0,4.24,10.76,5.59,15.66
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,39,64,1.0,10.0,4.24,17.04,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,60,14,39,64,1.0,10.0,4.24,9.26,3.83,15.0
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,5.65,13.39
+86,IAU,iShares Gold Trust,5,120,14,39,59,1.0,10.0,3.78,-0.53,5.9,15.35
+86,GLD,SPDR Gold Shares,5,120,14,39,59,1.0,10.0,3.78,-0.67,5.74,15.34
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,6.16,15.9
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,5.59,15.66
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,5.88,14.66
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,39,59,1.0,10.0,3.78,9.98,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,39,59,1.0,10.0,3.78,12.28,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,120,14,39,59,1.0,10.0,3.78,8.96,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,39,59,1.0,10.0,3.78,1.93,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,6.24,14.98
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,6.84,14.75
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,6.25,14.65
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,39,59,1.0,10.0,3.78,21.04,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,120,14,39,59,1.0,10.0,3.78,16.04,3.83,15.0
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,5.94,14.45
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,3.72,13.92
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,5.54,15.47
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,4.82,15.18
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,39,59,1.0,10.0,3.78,-0.65,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,39,59,1.0,10.0,3.78,19.45,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,39,59,1.0,10.0,3.78,14.02,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,39,59,1.0,10.0,3.78,10.06,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,39,59,1.0,10.0,3.78,0.0,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,39,59,1.0,10.0,3.78,15.52,3.6,14.52
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,39,59,1.0,10.0,3.78,4.45,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,39,59,1.0,10.0,3.78,0.0,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,39,59,1.0,10.0,3.78,17.35,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,39,59,1.0,10.0,3.78,0.0,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,39,59,1.0,10.0,3.78,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,39,59,1.0,10.0,3.78,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,39,59,1.0,10.0,3.78,0.0,6.48,13.6
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,39,59,1.0,10.0,3.78,13.45,5.29,14.17
+86,GLD,SPDR Gold Shares,5,120,14,39,69,1.0,10.0,3.62,1.17,5.74,15.34
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,39,69,1.0,10.0,3.62,7.02,6.84,14.1
+86,IAU,iShares Gold Trust,5,120,14,39,69,1.0,10.0,3.62,1.32,5.9,15.35
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,39,69,1.0,10.0,3.62,11.59,6.56,15.7
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,5.65,13.39
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,5.94,14.45
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,6.17,15.64
+86,AGNG.O,Global X Aging Population ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,120,14,39,69,1.0,10.0,3.62,8.67,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,39,69,1.0,10.0,3.62,1.93,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,5.88,14.66
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,6.84,14.75
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,6.5,15.01
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,39,69,1.0,10.0,3.62,7.34,5.58,15.65
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,39,69,1.0,10.0,3.62,21.08,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,120,14,39,69,1.0,10.0,3.62,16.04,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,39,69,1.0,10.0,3.62,16.71,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,6.25,14.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,39,69,1.0,10.0,3.62,14.58,4.4,15.75
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,39,69,1.0,10.0,3.62,1.2,5.84,15.33
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,39,69,1.0,10.0,3.62,0.0,5.72,15.61
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,39,69,1.0,10.0,3.62,11.87,5.96,13.23
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,39,69,1.0,10.0,3.62,7.91,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,4.82,15.18
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,39,69,1.0,10.0,3.62,12.7,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,6.84,15.11
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,5.59,15.66
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,39,69,1.0,10.0,3.62,14.38,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,39,69,1.0,10.0,3.62,0.0,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,39,69,1.0,10.0,3.62,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,39,69,1.0,10.0,3.62,0.0,6.48,13.6
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,5.54,15.47
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,6.16,15.9
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,39,69,1.0,10.0,3.62,0.0,3.72,13.92
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,39,69,1.0,10.0,3.62,0.0,4.17,15.03
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,6.25,14.65
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,39,74,1.0,10.0,3.54,18.26,6.86,15.1
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,5.65,13.39
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,5.28,15.83
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,39,74,1.0,10.0,3.54,16.71,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,120,14,39,74,1.0,10.0,3.54,16.04,3.83,15.0
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,3.72,13.92
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,4.71,14.53
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,5.59,15.66
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,5.94,14.45
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,39,74,1.0,10.0,3.54,7.34,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,39,74,1.0,10.0,3.54,4.77,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,120,14,39,74,1.0,10.0,3.54,8.67,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,39,74,1.0,10.0,3.54,1.93,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,5.88,14.66
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,6.84,14.75
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,6.36,13.51
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,5.54,15.47
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,39,74,1.0,10.0,3.54,0.0,6.48,13.6
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,5.55,14.13
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,4.0,14.16
+86,GLD,SPDR Gold Shares,5,120,14,39,74,1.0,10.0,3.54,2.36,5.74,15.34
+86,IAU,iShares Gold Trust,5,120,14,39,74,1.0,10.0,3.54,2.49,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,39,74,1.0,10.0,3.54,2.41,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,39,74,1.0,10.0,3.54,8.02,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,39,74,1.0,10.0,3.54,11.59,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,39,74,1.0,10.0,3.54,13.82,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,39,74,1.0,10.0,3.54,0.0,4.17,15.03
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,39,74,1.0,10.0,3.54,7.91,3.6,14.52
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,39,74,1.0,10.0,3.54,0.0,6.59,13.41
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,4.82,15.18
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,39,74,1.0,10.0,3.54,15.43,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,39,74,1.0,10.0,3.54,0.0,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,39,74,1.0,10.0,3.54,14.38,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,39,74,1.0,10.0,3.54,0.0,5.66,15.76
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,39,74,1.0,10.0,3.54,0.0,6.16,15.9
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,39,64,1.0,10.0,3.44,17.06,5.29,14.17
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,5.65,13.39
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,5.88,14.66
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,5.59,15.66
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,5.94,14.45
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,39,64,1.0,10.0,3.44,7.34,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,39,64,1.0,10.0,3.44,14.17,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,120,14,39,64,1.0,10.0,3.44,8.67,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,39,64,1.0,10.0,3.44,1.93,4.87,16.06
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,6.24,14.98
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,6.84,14.75
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,6.16,15.9
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,39,64,1.0,10.0,3.44,21.6,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,120,14,39,64,1.0,10.0,3.44,16.04,3.83,15.0
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,6.25,14.65
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,3.72,13.92
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,6.18,13.61
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,5.54,15.47
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,4.82,15.18
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,39,64,1.0,10.0,3.44,0.0,6.48,13.6
+86,IAU,iShares Gold Trust,5,120,14,39,64,1.0,10.0,3.44,-0.53,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,39,64,1.0,10.0,3.44,-0.65,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,39,64,1.0,10.0,3.44,4.26,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,39,64,1.0,10.0,3.44,11.59,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,39,64,1.0,10.0,3.44,10.23,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,39,64,1.0,10.0,3.44,0.0,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,39,64,1.0,10.0,3.44,7.78,3.6,14.52
+86,GLD,SPDR Gold Shares,5,120,14,39,64,1.0,10.0,3.44,-0.67,5.74,15.34
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,39,64,1.0,10.0,3.44,9.39,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,39,64,1.0,10.0,3.44,0.0,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,39,64,1.0,10.0,3.44,19.69,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,39,64,1.0,10.0,3.44,0.0,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,39,64,1.0,10.0,3.44,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,39,64,1.0,10.0,3.44,0.0,5.55,14.13
+86,KONG.K,Formidable Fortress ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,4.78,14.88
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,4.87,16.06
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,5.94,14.45
+86,AGNG.O,Global X Aging Population ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,4.4,15.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,34,59,1.0,10.0,1.98,0.0,5.58,15.65
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,6.84,14.75
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,5.88,14.66
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,5.28,15.83
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,6.36,13.51
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,3.72,13.92
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,34,59,1.0,10.0,1.98,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,6.25,14.65
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,5.59,15.66
+86,GLD,SPDR Gold Shares,5,120,14,34,59,1.0,10.0,1.98,0.0,5.74,15.34
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,6.16,15.9
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,4.82,15.18
+86,IAU,iShares Gold Trust,5,120,14,34,59,1.0,10.0,1.98,0.0,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,34,59,1.0,10.0,1.98,67.21,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,34,59,1.0,10.0,1.98,0.0,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,34,59,1.0,10.0,1.98,0.0,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,34,59,1.0,10.0,1.98,18.13,3.6,14.52
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,6.54,14.62
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,5.54,15.47
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,34,59,1.0,10.0,1.98,0.0,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,34,59,1.0,10.0,1.98,0.0,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,34,59,1.0,10.0,1.98,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,34,59,1.0,10.0,1.98,0.0,6.48,13.6
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,34,59,1.0,10.0,1.98,0.0,5.65,13.39
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,5.65,13.39
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,5.88,14.66
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,6.84,14.75
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,5.94,14.45
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,34,59,1.0,10.0,1.87,0.0,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,34,59,1.0,10.0,1.87,13.72,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,6.24,14.98
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,6.17,15.64
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,3.72,13.92
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,34,59,1.0,10.0,1.87,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,6.25,14.65
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,5.59,15.66
+86,GLD,SPDR Gold Shares,5,60,14,34,59,1.0,10.0,1.87,0.0,5.74,15.34
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,34,59,1.0,10.0,1.87,9.6,6.16,15.9
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,6.54,14.62
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,5.54,15.47
+86,IAU,iShares Gold Trust,5,60,14,34,59,1.0,10.0,1.87,0.0,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,34,59,1.0,10.0,1.87,19.39,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,34,59,1.0,10.0,1.87,0.0,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,34,59,1.0,10.0,1.87,7.7,5.96,13.23
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,34,59,1.0,10.0,1.87,16.98,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,4.82,15.18
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,34,59,1.0,10.0,1.87,0.0,4.17,15.03
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,34,59,1.0,10.0,1.87,0.0,6.48,13.6
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,34,59,1.0,10.0,1.87,0.0,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,34,59,1.0,10.0,1.87,11.36,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,34,59,1.0,10.0,1.87,0.0,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,34,59,1.0,10.0,1.87,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,34,59,1.0,10.0,1.87,0.0,5.55,14.13
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,34,59,1.0,10.0,1.87,1.82,4.1,14.45
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,34,54,1.0,10.0,1.72,0.0,5.66,15.76
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,34,54,1.0,10.0,1.72,0.0,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,34,54,1.0,10.0,1.72,10.56,5.72,16.09
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,5.54,15.47
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,34,54,1.0,10.0,1.72,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,34,54,1.0,10.0,1.72,0.0,6.48,13.6
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,34,54,1.0,10.0,1.72,-0.34,4.1,14.45
+86,GLD,SPDR Gold Shares,5,60,14,34,54,1.0,10.0,1.72,0.0,5.74,15.34
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,34,54,1.0,10.0,1.72,20.01,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,34,54,1.0,10.0,1.72,0.0,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,34,54,1.0,10.0,1.72,5.0,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,34,54,1.0,10.0,1.72,0.0,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,34,54,1.0,10.0,1.72,17.46,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,5.84,15.33
+86,IAU,iShares Gold Trust,5,60,14,34,54,1.0,10.0,1.72,0.0,5.9,15.35
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,34,54,1.0,10.0,1.72,9.45,6.16,15.9
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,5.65,13.39
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,3.72,13.92
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,5.59,15.66
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,6.17,15.64
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,5.94,14.45
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,6.25,14.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,34,54,1.0,10.0,1.72,0.0,6.86,15.1
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,6.5,15.01
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,5.28,15.83
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,6.84,14.75
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,6.24,14.98
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,34,54,1.0,10.0,1.72,0.0,5.58,15.65
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,34,54,1.0,10.0,1.72,11.76,4.4,15.75
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,34,54,1.0,10.0,1.72,0.0,5.88,14.66
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,34,69,1.0,10.0,1.59,10.35,5.72,16.09
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,34,69,1.0,10.0,1.59,0.0,5.72,15.61
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,34,69,1.0,10.0,1.59,0.0,6.48,13.6
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,34,69,1.0,10.0,1.59,0.0,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,34,69,1.0,10.0,1.59,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,5.55,14.13
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,34,69,1.0,10.0,1.59,7.93,4.1,14.45
+86,IAU,iShares Gold Trust,5,60,14,34,69,1.0,10.0,1.59,0.0,5.9,15.35
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,34,69,1.0,10.0,1.59,8.58,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,34,69,1.0,10.0,1.59,0.0,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,34,69,1.0,10.0,1.59,9.72,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,34,69,1.0,10.0,1.59,0.0,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,34,69,1.0,10.0,1.59,7.4,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,5.84,15.33
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,34,69,1.0,10.0,1.59,9.1,6.16,15.9
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,5.54,15.47
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,5.88,14.66
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,3.72,13.92
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,6.5,15.01
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,5.65,13.39
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,6.25,14.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,34,69,1.0,10.0,1.59,0.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,6.36,13.51
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,6.17,15.64
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,5.94,14.45
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,6.84,14.75
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,34,69,1.0,10.0,1.59,15.35,4.4,15.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,34,69,1.0,10.0,1.59,0.0,5.58,15.65
+86,GLD,SPDR Gold Shares,5,60,14,34,69,1.0,10.0,1.59,0.0,5.74,15.34
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,34,69,1.0,10.0,1.59,0.0,5.59,15.66
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,6.25,14.65
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,5.54,15.47
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,34,64,1.0,10.0,1.5,0.0,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,34,64,1.0,10.0,1.5,0.0,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,34,64,1.0,10.0,1.5,13.46,5.72,16.09
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,34,64,1.0,10.0,1.5,0.0,5.72,15.61
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,6.84,15.11
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,34,64,1.0,10.0,1.5,5.36,4.1,14.45
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,34,64,1.0,10.0,1.5,8.51,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,34,64,1.0,10.0,1.5,0.0,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,34,64,1.0,10.0,1.5,8.11,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,34,64,1.0,10.0,1.5,0.0,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,34,64,1.0,10.0,1.5,4.75,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,5.84,15.33
+86,IAU,iShares Gold Trust,5,60,14,34,64,1.0,10.0,1.5,0.0,5.9,15.35
+86,GLD,SPDR Gold Shares,5,60,14,34,64,1.0,10.0,1.5,0.0,5.74,15.34
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,5.29,14.17
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,34,64,1.0,10.0,1.5,0.0,6.48,13.6
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,5.65,13.39
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,34,64,1.0,10.0,1.5,9.1,6.16,15.9
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,6.24,14.98
+86,PWS,Pacer WealthShield ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,34,64,1.0,10.0,1.5,0.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,6.36,13.51
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,6.17,15.64
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,6.84,14.75
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,5.88,14.66
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,6.5,15.01
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,6.18,13.61
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,34,64,1.0,10.0,1.5,15.24,4.4,15.75
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,4.87,16.06
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,5.94,14.45
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,34,64,1.0,10.0,1.5,0.0,5.58,15.65
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,5.59,15.66
+86,AGNG.O,Global X Aging Population ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,4.78,14.88
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,34,64,1.0,10.0,1.5,0.0,3.72,13.92
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,5.88,14.66
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,5.94,14.45
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,34,74,1.0,10.0,1.48,0.0,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,34,74,1.0,10.0,1.48,5.04,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,6.24,14.98
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,6.25,14.65
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,6.84,14.75
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,34,74,1.0,10.0,1.48,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,5.29,14.17
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,5.65,13.39
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,5.59,15.66
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,6.17,15.64
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,34,74,1.0,10.0,1.48,9.1,6.16,15.9
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,34,74,1.0,10.0,1.48,8.58,3.6,14.52
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,5.54,15.47
+86,GLD,SPDR Gold Shares,5,60,14,34,74,1.0,10.0,1.48,0.0,5.74,15.34
+86,IAU,iShares Gold Trust,5,60,14,34,74,1.0,10.0,1.48,0.0,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,34,74,1.0,10.0,1.48,8.32,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,34,74,1.0,10.0,1.48,0.0,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,34,74,1.0,10.0,1.48,12.14,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,34,74,1.0,10.0,1.48,0.0,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,4.0,14.16
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,3.72,13.92
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,4.82,15.18
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,34,74,1.0,10.0,1.48,10.19,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,34,74,1.0,10.0,1.48,0.0,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,34,74,1.0,10.0,1.48,10.35,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,34,74,1.0,10.0,1.48,0.0,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,34,74,1.0,10.0,1.48,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,34,74,1.0,10.0,1.48,0.0,6.48,13.6
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,34,74,1.0,10.0,1.48,0.0,6.54,14.62
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,29,69,1.0,10.0,1.11,0.0,5.66,15.76
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,29,69,1.0,10.0,1.11,0.0,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,5.72,16.09
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,5.54,15.47
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,29,69,1.0,10.0,1.11,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,29,69,1.0,10.0,1.11,0.0,6.48,13.6
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,6.84,15.11
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,29,69,1.0,10.0,1.11,0.0,3.6,14.52
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,29,69,1.0,10.0,1.11,47.55,4.1,14.45
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,4.82,15.18
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,3.72,13.92
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,29,69,1.0,10.0,1.11,0.0,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,29,69,1.0,10.0,1.11,0.0,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,29,69,1.0,10.0,1.11,0.0,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,5.84,15.33
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,6.16,15.9
+86,AGNG.O,Global X Aging Population ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,4.49,15.27
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,5.59,15.66
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,5.94,14.45
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,5.65,13.39
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,6.25,14.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,29,69,1.0,10.0,1.11,0.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,6.5,15.01
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,6.17,15.64
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,5.88,14.66
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,4.78,14.88
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,4.4,15.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,29,69,1.0,10.0,1.11,0.0,5.58,15.65
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,29,69,1.0,10.0,1.11,0.0,6.84,14.75
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,5.65,13.39
+86,GLD,SPDR Gold Shares,5,60,14,29,69,1.0,10.0,1.11,0.0,5.74,15.34
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,5.54,15.47
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,29,64,1.0,10.0,1.11,0.0,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,29,64,1.0,10.0,1.11,0.0,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,5.72,16.09
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,29,64,1.0,10.0,1.11,0.0,5.72,15.61
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,6.84,15.11
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,29,64,1.0,10.0,1.11,47.74,4.1,14.45
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,29,64,1.0,10.0,1.11,0.0,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,29,64,1.0,10.0,1.11,0.0,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,29,64,1.0,10.0,1.11,0.0,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,29,64,1.0,10.0,1.11,0.0,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,5.84,15.33
+86,IAU,iShares Gold Trust,5,60,14,29,64,1.0,10.0,1.11,0.0,5.9,15.35
+86,GLD,SPDR Gold Shares,5,60,14,29,64,1.0,10.0,1.11,0.0,5.74,15.34
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,6.25,14.65
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,29,64,1.0,10.0,1.11,0.0,6.48,13.6
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,6.16,15.9
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,5.88,14.66
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,3.72,13.92
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,29,64,1.0,10.0,1.11,0.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,6.5,15.01
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,6.17,15.64
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,6.84,14.75
+86,IAU,iShares Gold Trust,5,60,14,29,69,1.0,10.0,1.11,0.0,5.9,15.35
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,4.4,15.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,29,64,1.0,10.0,1.11,0.0,5.58,15.65
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,5.94,14.45
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,29,64,1.0,10.0,1.11,0.0,5.59,15.66
+86,IAU,iShares Gold Trust,5,60,14,29,74,1.0,10.0,1.1,0.0,5.9,15.35
+86,GLD,SPDR Gold Shares,5,60,14,29,74,1.0,10.0,1.1,0.0,5.74,15.34
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,5.65,13.39
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,5.59,15.66
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,29,74,1.0,10.0,1.1,0.0,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,5.88,14.66
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,6.84,14.75
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,29,74,1.0,10.0,1.1,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,5.29,14.17
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,5.94,14.45
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,3.72,13.92
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,29,74,1.0,10.0,1.1,47.25,4.1,14.45
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,6.54,14.62
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,29,74,1.0,10.0,1.1,0.0,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,29,74,1.0,10.0,1.1,0.0,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,29,74,1.0,10.0,1.1,0.0,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,29,74,1.0,10.0,1.1,0.0,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,4.82,15.18
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,6.25,14.65
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,6.16,15.9
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,29,74,1.0,10.0,1.1,0.0,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,29,74,1.0,10.0,1.1,0.0,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,29,74,1.0,10.0,1.1,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,29,74,1.0,10.0,1.1,0.0,6.48,13.6
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,29,74,1.0,10.0,1.1,0.0,5.54,15.47
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,29,59,1.0,10.0,1.05,0.0,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,5.84,15.33
+86,GLD,SPDR Gold Shares,5,60,14,29,59,1.0,10.0,1.05,0.0,5.74,15.34
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,5.59,15.66
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,6.16,15.9
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,5.54,15.47
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,29,59,1.0,10.0,1.05,0.0,6.48,13.6
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,29,59,1.0,10.0,1.05,0.0,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,29,59,1.0,10.0,1.05,0.0,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,5.72,16.09
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,29,59,1.0,10.0,1.05,0.0,5.72,15.61
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,6.84,15.11
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,29,59,1.0,10.0,1.05,45.34,4.1,14.45
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,29,59,1.0,10.0,1.05,0.0,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,29,59,1.0,10.0,1.05,0.0,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,29,59,1.0,10.0,1.05,0.0,6.56,15.7
+86,IAU,iShares Gold Trust,5,60,14,29,59,1.0,10.0,1.05,0.0,5.9,15.35
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,5.94,14.45
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,5.65,13.39
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,29,59,1.0,10.0,1.05,0.0,5.58,15.65
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,6.25,14.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,29,59,1.0,10.0,1.05,0.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,6.5,15.01
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,6.17,15.64
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,6.84,14.75
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,5.88,14.66
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,4.4,15.75
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,29,59,1.0,10.0,1.05,0.0,3.72,13.92
+86,GLD,SPDR Gold Shares,5,60,14,29,54,1.0,10.0,1.0,0.0,5.74,15.34
+86,OUNZ.K,VanEck Merk Gold Trust,5,60,14,29,54,1.0,10.0,1.0,0.0,6.84,14.1
+86,STNC.K,Hennessy Stance ESG ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,6.5,15.01
+86,AGNG.O,Global X Aging Population ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,5.88,14.66
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,6.84,14.75
+86,NUDV.K,Nuveen ESG Dividend ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,6.17,15.64
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,6.36,13.51
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,60,14,29,54,1.0,10.0,1.0,0.0,5.58,15.65
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,60,14,29,54,1.0,10.0,1.0,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,6.25,14.65
+86,SAMM.K,Strategas Macro Momentum ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,5.65,13.39
+86,IAU,iShares Gold Trust,5,60,14,29,54,1.0,10.0,1.0,0.0,5.9,15.35
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,4.4,15.75
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,5.94,14.45
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,5.84,15.33
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,6.84,15.11
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,60,14,29,54,1.0,10.0,1.0,0.0,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,60,14,29,54,1.0,10.0,1.0,0.0,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,60,14,29,54,1.0,10.0,1.0,0.0,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,4.82,15.18
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,60,14,29,54,1.0,10.0,1.0,42.86,4.1,14.45
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,60,14,29,54,1.0,10.0,1.0,0.0,5.72,15.61
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,5.59,15.66
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,60,14,29,54,1.0,10.0,1.0,0.0,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,60,14,29,54,1.0,10.0,1.0,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,60,14,29,54,1.0,10.0,1.0,0.0,6.48,13.6
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,5.54,15.47
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,6.16,15.9
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,60,14,29,54,1.0,10.0,1.0,0.0,3.72,13.92
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,6.25,14.65
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,5.65,13.39
+86,GLD,SPDR Gold Shares,5,120,14,34,74,1.0,10.0,0.42,0.0,5.74,15.34
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,6.16,15.9
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,34,74,1.0,10.0,0.42,0.0,6.48,13.6
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,34,74,1.0,10.0,0.42,0.0,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,34,74,1.0,10.0,0.42,0.0,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,5.72,16.09
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,34,74,1.0,10.0,0.42,0.0,5.72,15.61
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,6.84,15.11
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,4.1,14.45
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,34,74,1.0,10.0,0.42,8.47,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,34,74,1.0,10.0,0.42,0.0,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,34,74,1.0,10.0,0.42,0.0,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,34,74,1.0,10.0,0.42,9.53,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,5.84,15.33
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,5.54,15.47
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,3.72,13.92
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,5.88,14.66
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,6.84,14.75
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,34,74,1.0,10.0,0.42,0.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,6.5,15.01
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,6.17,15.64
+86,IAU,iShares Gold Trust,5,120,14,34,74,1.0,10.0,0.42,0.0,5.9,15.35
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,5.59,15.66
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,4.4,15.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,34,74,1.0,10.0,0.42,0.0,5.58,15.65
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,34,74,1.0,10.0,0.42,0.0,5.94,14.45
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,6.25,14.65
+86,GLD,SPDR Gold Shares,5,120,14,34,69,1.0,10.0,0.4,0.0,5.74,15.34
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,5.65,13.39
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,5.94,14.45
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,34,69,1.0,10.0,0.4,0.0,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,6.24,14.98
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,5.88,14.66
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,6.84,14.75
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,6.17,15.64
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,6.5,15.01
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,34,69,1.0,10.0,0.4,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,3.83,15.0
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,5.59,15.66
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,6.16,15.9
+86,IAU,iShares Gold Trust,5,120,14,34,69,1.0,10.0,0.4,0.0,5.9,15.35
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,5.54,15.47
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,5.84,15.33
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,34,69,1.0,10.0,0.4,8.71,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,34,69,1.0,10.0,0.4,0.0,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,34,69,1.0,10.0,0.4,0.0,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.0,14.16
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,34,69,1.0,10.0,0.4,8.47,3.6,14.52
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.82,15.18
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,6.54,14.62
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,34,69,1.0,10.0,0.4,0.0,5.72,15.61
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,5.72,16.09
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,34,69,1.0,10.0,0.4,0.0,5.66,15.76
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,34,69,1.0,10.0,0.4,0.0,6.59,13.41
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,5.55,14.13
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,34,69,1.0,10.0,0.4,0.0,6.48,13.6
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,34,69,1.0,10.0,0.4,0.0,3.72,13.92
+86,GLD,SPDR Gold Shares,5,120,14,34,64,1.0,10.0,0.33,0.0,5.74,15.34
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,5.65,13.39
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,6.17,15.64
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,34,64,1.0,10.0,0.33,0.0,5.58,15.65
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,4.4,15.75
+86,AGNG.O,Global X Aging Population ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,4.49,15.27
+86,KONG.K,Formidable Fortress ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,4.78,14.88
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,4.87,16.06
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,6.18,13.61
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,6.24,14.98
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,6.84,14.75
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,6.5,15.01
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,5.59,15.66
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,6.36,13.51
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,5.28,15.83
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,34,64,1.0,10.0,0.33,0.0,6.86,15.1
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,4.71,14.53
+86,PWS,Pacer WealthShield ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,3.83,15.0
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,5.29,14.17
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,6.25,14.65
+86,IAU,iShares Gold Trust,5,120,14,34,64,1.0,10.0,0.33,0.0,5.9,15.35
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,5.94,14.45
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,5.88,14.66
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,3.72,13.92
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,4.1,14.45
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,6.16,15.9
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,34,64,1.0,10.0,0.33,5.76,6.84,14.1
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,34,64,1.0,10.0,0.33,0.0,6.56,15.7
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,5.96,13.23
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,34,64,1.0,10.0,0.33,0.0,4.17,15.03
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,4.0,14.16
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,4.82,15.18
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,6.54,14.62
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,34,64,1.0,10.0,0.33,8.39,3.6,14.52
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,6.84,15.11
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,34,64,1.0,10.0,0.33,0.0,6.59,13.41
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,5.84,15.33
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,34,64,1.0,10.0,0.33,0.0,6.48,13.6
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,5.55,14.13
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,5.54,15.47
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,34,64,1.0,10.0,0.33,0.0,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,34,64,1.0,10.0,0.33,0.0,5.72,16.09
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,34,64,1.0,10.0,0.33,0.0,5.72,15.61
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.1,14.45
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.54,15.47
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,29,59,1.0,10.0,0.0,0.0,6.48,13.6
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,29,59,1.0,10.0,0.0,0.0,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,29,59,1.0,10.0,0.0,0.0,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.72,16.09
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,29,59,1.0,10.0,0.0,0.0,5.72,15.61
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.84,15.11
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.84,15.33
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,29,59,1.0,10.0,0.0,0.0,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,29,59,1.0,10.0,0.0,0.0,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,29,59,1.0,10.0,0.0,0.0,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,29,59,1.0,10.0,0.0,0.0,6.84,14.1
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,3.72,13.92
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.16,15.9
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.25,14.65
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.59,15.66
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.17,15.64
+86,GLD,SPDR Gold Shares,5,120,14,29,59,1.0,10.0,0.0,0.0,5.74,15.34
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,29,59,1.0,10.0,0.0,0.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.5,15.01
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.84,14.75
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.94,14.45
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.88,14.66
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,4.4,15.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,29,59,1.0,10.0,0.0,0.0,5.58,15.65
+86,IAU,iShares Gold Trust,5,120,14,29,59,1.0,10.0,0.0,0.0,5.9,15.35
+86,GLD,SPDR Gold Shares,5,120,14,29,64,1.0,10.0,0.0,0.0,5.74,15.34
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.65,13.39
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.54,14.62
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,29,54,1.0,10.0,0.0,0.0,6.48,13.6
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,29,54,1.0,10.0,0.0,0.0,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,29,54,1.0,10.0,0.0,0.0,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.72,16.09
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,29,54,1.0,10.0,0.0,0.0,5.72,15.61
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.84,15.11
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.1,14.45
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.82,15.18
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.16,15.9
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,29,54,1.0,10.0,0.0,0.0,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,29,54,1.0,10.0,0.0,0.0,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,29,54,1.0,10.0,0.0,0.0,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,29,54,1.0,10.0,0.0,0.0,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.84,15.33
+86,IAU,iShares Gold Trust,5,120,14,29,54,1.0,10.0,0.0,0.0,5.9,15.35
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.54,15.47
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,3.72,13.92
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.25,14.65
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.84,14.75
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,29,54,1.0,10.0,0.0,0.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.5,15.01
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.17,15.64
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.88,14.66
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.59,15.66
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,4.4,15.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,29,54,1.0,10.0,0.0,0.0,5.58,15.65
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,5.94,14.45
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,5.65,13.39
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,3.72,13.92
+86,IAU,iShares Gold Trust,5,120,14,29,64,1.0,10.0,0.0,0.0,5.9,15.35
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.84,15.33
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,29,74,1.0,10.0,0.0,0.0,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,29,74,1.0,10.0,0.0,0.0,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,29,74,1.0,10.0,0.0,0.0,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,29,74,1.0,10.0,0.0,0.0,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.84,15.33
+86,IAU,iShares Gold Trust,5,120,14,29,74,1.0,10.0,0.0,0.0,5.9,15.35
+86,GLD,SPDR Gold Shares,5,120,14,29,74,1.0,10.0,0.0,0.0,5.74,15.34
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.65,13.39
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.25,14.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,29,69,1.0,10.0,0.0,0.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.5,15.01
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.17,15.64
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.84,14.75
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.88,14.66
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.4,15.75
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.1,14.45
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.84,15.11
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,29,74,1.0,10.0,0.0,0.0,5.72,15.61
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.18,13.61
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.65,13.39
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.25,14.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,29,74,1.0,10.0,0.0,0.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.36,13.51
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.5,15.01
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.17,15.64
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.84,14.75
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.88,14.66
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.24,14.98
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.87,16.06
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.72,16.09
+86,KONG.K,Formidable Fortress ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,4.4,15.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,29,74,1.0,10.0,0.0,0.0,5.58,15.65
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.94,14.45
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.59,15.66
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,3.72,13.92
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,6.16,15.9
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.54,15.47
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,29,74,1.0,10.0,0.0,0.0,6.48,13.6
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,29,74,1.0,10.0,0.0,0.0,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,29,74,1.0,10.0,0.0,0.0,5.66,15.76
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,29,69,1.0,10.0,0.0,0.0,5.58,15.65
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.94,14.45
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.59,15.66
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.55,14.13
+86,ABEQ.K,Absolute Select Value ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.24,14.98
+86,XYLG.K,Global X S&P 500 Covered Call & Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.18,13.61
+86,FCVT.O,First Trust SSI Strategic Convertible Sec ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.87,16.06
+86,KONG.K,Formidable Fortress ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.78,14.88
+86,AGNG.O,Global X Aging Population ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.49,15.27
+86,DBAW.K,Xtrackers MSCI All Wld x US Hdg Eqty ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.4,15.75
+86,KOCT.K,Innovator US Small Cap Power Buffer ETF - October,5,120,14,29,64,1.0,10.0,0.0,0.0,5.58,15.65
+86,EMC,Global X Emerging Markets Great Consumer ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.94,14.45
+86,HAWX.K,iShares Currency Hedged MSCI ACWI ex US ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.59,15.66
+86,ESMV.O,iShares ESG MSCI USA Min Vol Factor ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,3.72,13.92
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.16,15.9
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.54,15.47
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,29,64,1.0,10.0,0.0,0.0,6.48,13.6
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,29,64,1.0,10.0,0.0,0.0,6.59,13.41
+86,KVLE.K,KraneShares Value Line Dynamic Dividend Eq Ix ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.84,14.75
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,29,64,1.0,10.0,0.0,0.0,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.72,16.09
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,29,64,1.0,10.0,0.0,0.0,5.72,15.61
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.84,15.11
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.1,14.45
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,29,64,1.0,10.0,0.0,0.0,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.0,14.16
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,29,64,1.0,10.0,0.0,0.0,4.17,15.03
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.96,13.23
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,29,64,1.0,10.0,0.0,0.0,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,29,64,1.0,10.0,0.0,0.0,6.84,14.1
+86,INRO.O,BlackRock US Industry Rotation ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.88,14.66
+86,NUDV.K,Nuveen ESG Dividend ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.17,15.64
+86,JSTC.K,Adasina Social Justice All Cap Global ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.16,15.9
+86,NFRA.K,FlexShares STOXX Global Broad Infrastructure Index,5,120,14,29,69,1.0,10.0,0.0,0.0,4.17,15.03
+86,IQQQ.O,ProShares Nasdaq-100 High Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.54,15.47
+86,NJAN.K,Innovator Growth-100 Power Buffer ETF - January,5,120,14,29,69,1.0,10.0,0.0,0.0,6.48,13.6
+86,QVOY.K,Q3 All-Season Active Rotation ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.55,14.13
+86,IJAN.K,Innovator Intl Developed Power Buffer ETF - Jan,5,120,14,29,69,1.0,10.0,0.0,0.0,6.59,13.41
+86,DDWM.K,WisdomTree Dynamic Currency Hedged Intl Equity,5,120,14,29,69,1.0,10.0,0.0,0.0,5.66,15.76
+86,GSJY.K,Goldman Sachs ActiveBeta Japan Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.72,16.09
+86,DDLS.K,WisdomTree Dynamic Currency Hdg Intl SmallCap Eqty,5,120,14,29,69,1.0,10.0,0.0,0.0,5.72,15.61
+86,ZECP.K,Zacks Earnings Consistent Portfolio ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.84,15.11
+86,BCD,abrdn Bloomberg All Cmdty Lngr Dtd Strt K-1 Fr ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.1,14.45
+86,IGTR.K,Innovator Gradient Tactical Rotation Strategy ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,6.54,14.62
+86,DFEV.K,DFA Dimensional Emerging Markets Value ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.82,15.18
+86,LVHI.K,Franklin Intl Low Volatility High Dividend Index,5,120,14,29,69,1.0,10.0,0.0,0.0,3.6,14.52
+86,DBMF.K,iMGP DBi Managed Futures Strategy ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,4.0,14.16
+86,CWB,SPDR Bloomberg Convertible Securities ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.96,13.23
+86,STNC.K,Hennessy Stance ESG ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.5,15.01
+86,DFAI.K,DFA Dimensional International Core Equity Market,5,120,14,29,69,1.0,10.0,0.0,0.0,6.56,15.7
+86,OUNZ.K,VanEck Merk Gold Trust,5,120,14,29,69,1.0,10.0,0.0,0.0,6.84,14.1
+86,SGOL.K,abrdn Physical Gold Shares ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,5.84,15.33
+86,IAU,iShares Gold Trust,5,120,14,29,69,1.0,10.0,0.0,0.0,5.9,15.35
+86,GLD,SPDR Gold Shares,5,120,14,29,69,1.0,10.0,0.0,0.0,5.74,15.34
+86,SAMM.K,Strategas Macro Momentum ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.65,13.39
+86,LEXI.K,Alexis Practical Tactical ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.25,14.65
+86,XTR,Global X S&P 500 Tail Risk ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.29,14.17
+86,PWS,Pacer WealthShield ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,3.83,15.0
+86,ROMO.K,Newfound/ReSolve Robust Momentum ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,4.71,14.53
+86,XTOC.K,Innovator US Equity Accelerated Plus ETF - October,5,120,14,29,64,1.0,10.0,0.0,0.0,6.86,15.1
+86,DVAL.O,BrandywineGLOBAL-Dynamic US Large Cap Value ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,5.28,15.83
+86,DIVS.K,SmartETFs Dividend Builder ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,6.36,13.51
+86,GLD,SPDR Gold Shares,5,120,14,29,54,1.0,10.0,0.0,0.0,5.74,15.34

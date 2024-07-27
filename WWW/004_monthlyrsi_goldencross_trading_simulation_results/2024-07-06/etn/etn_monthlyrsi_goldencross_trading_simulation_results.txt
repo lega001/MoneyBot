@@ -17,9 +17,9 @@ Best Annual Returns: -4.90%
 610030 (메리츠 S&P 유럽탄소배출권 선물 ETN(H))
 Cluster: 10
 Best Config: {'ticker': '610030', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
-Best Annual Returns: -17.52%
+Best Annual Returns: -22.12%
 
 570074 (한투 S&P 유럽탄소배출권 선물 ETN(H))
 Cluster: 10
 Best Config: {'ticker': '570074', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
-Best Annual Returns: -17.81%
+Best Annual Returns: -20.91%

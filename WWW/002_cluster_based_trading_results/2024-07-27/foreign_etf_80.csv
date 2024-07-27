@@ -1,0 +1,1851 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+80,IYF,iShares US Financials ETF,5,60,14,39,54,1.0,10.0,37.0,12.02,8.54,24.53
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,39,54,1.0,10.0,37.0,50.49,5.52,23.73
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,39,54,1.0,10.0,37.0,-0.02,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,54,1.0,10.0,37.0,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,39,54,1.0,10.0,37.0,-24.63,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,39,54,1.0,10.0,37.0,22.98,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,39,54,1.0,10.0,37.0,-13.87,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,60,14,39,54,1.0,10.0,37.0,10.83,6.99,24.6
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,39,54,1.0,10.0,37.0,10.24,6.83,23.36
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,39,54,1.0,10.0,37.0,32.41,5.8,22.59
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,39,54,1.0,10.0,37.0,12.67,8.27,23.49
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,39,54,1.0,10.0,37.0,10.53,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,39,54,1.0,10.0,37.0,672.64,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,39,54,1.0,10.0,37.0,11.06,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,39,54,1.0,10.0,37.0,-20.56,8.39,24.61
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,39,54,1.0,10.0,37.0,20.57,7.09,25.47
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,39,54,1.0,10.0,37.0,9.57,5.29,23.3
+80,EPI,WisdomTree India Earnings Fund,5,60,14,39,54,1.0,10.0,37.0,19.33,8.24,23.04
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,39,54,1.0,10.0,37.0,13.73,7.25,25.96
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,39,54,1.0,10.0,37.0,265.4,8.7,24.54
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,39,54,1.0,10.0,37.0,13.4,7.8,25.64
+80,EWD,Ishares Msci Sweden Etf,5,60,14,39,54,1.0,10.0,37.0,12.36,6.69,25.14
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,39,54,1.0,10.0,37.0,26.81,6.67,23.23
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,39,54,1.0,10.0,37.0,23.08,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,60,14,39,54,1.0,10.0,37.0,13.95,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,39,54,1.0,10.0,37.0,0.0,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,60,14,39,54,1.0,10.0,37.0,36.92,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,60,14,39,54,1.0,10.0,37.0,8.59,5.75,23.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,39,54,1.0,10.0,37.0,0.0,8.17,24.39
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,39,54,1.0,10.0,37.0,23.03,5.99,22.62
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,39,54,1.0,10.0,37.0,0.0,7.62,22.45
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,39,54,1.0,10.0,37.0,16.04,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,60,14,39,54,1.0,10.0,37.0,15.53,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,39,54,1.0,10.0,37.0,0.0,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,39,54,1.0,10.0,37.0,25.62,7.23,26.03
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,39,54,1.0,10.0,37.0,22.97,6.49,24.09
+80,INDY.O,iShares India 50 ETF,5,60,14,39,54,1.0,10.0,37.0,15.2,7.98,22.69
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,44,54,1.0,10.0,36.97,10.24,6.83,23.36
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,44,54,1.0,10.0,36.97,-0.02,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,54,1.0,10.0,36.97,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,44,54,1.0,10.0,36.97,-24.63,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,44,54,1.0,10.0,36.97,22.98,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,44,54,1.0,10.0,36.97,-13.87,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,60,14,44,54,1.0,10.0,36.97,17.03,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,44,54,1.0,10.0,36.97,32.78,8.7,24.54
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,44,54,1.0,10.0,36.97,672.64,6.54,23.96
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,44,54,1.0,10.0,36.97,39.35,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,44,54,1.0,10.0,36.97,16.35,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,44,54,1.0,10.0,36.97,7.81,8.16,24.77
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,44,54,1.0,10.0,36.97,11.06,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,44,54,1.0,10.0,36.97,-20.56,8.39,24.61
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,44,54,1.0,10.0,36.97,20.57,7.09,25.47
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,44,54,1.0,10.0,36.97,9.58,5.29,23.3
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,44,54,1.0,10.0,36.97,12.67,8.27,23.49
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,44,54,1.0,10.0,36.97,4.58,7.25,25.96
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,44,54,1.0,10.0,36.97,22.86,7.8,25.64
+80,EPI,WisdomTree India Earnings Fund,5,60,14,44,54,1.0,10.0,36.97,9.26,8.24,23.04
+80,EWD,Ishares Msci Sweden Etf,5,60,14,44,54,1.0,10.0,36.97,13.55,6.69,25.14
+80,IYF,iShares US Financials ETF,5,60,14,44,54,1.0,10.0,36.97,16.17,8.54,24.53
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,44,54,1.0,10.0,36.97,15.23,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,44,54,1.0,10.0,36.97,14.85,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,60,14,44,54,1.0,10.0,36.97,8.98,6.04,22.96
+80,EWQ,iShares MSCI France ETF,5,60,14,44,54,1.0,10.0,36.97,22.96,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,60,14,44,54,1.0,10.0,36.97,8.59,5.75,23.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,44,54,1.0,10.0,36.97,68.86,8.17,24.39
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,44,54,1.0,10.0,36.97,65.68,8.95,24.02
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,44,54,1.0,10.0,36.97,127.35,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,60,14,44,54,1.0,10.0,36.97,15.2,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,44,54,1.0,10.0,36.97,11.95,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,60,14,44,54,1.0,10.0,36.97,8.1,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,44,54,1.0,10.0,36.97,72.66,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,44,54,1.0,10.0,36.97,25.62,7.23,26.03
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,44,54,1.0,10.0,36.97,10.7,6.49,24.09
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,44,54,1.0,10.0,36.97,10.75,6.67,23.23
+80,BJK.O,VanEck Gaming ETF,5,60,14,49,54,1.0,10.0,36.81,9.87,6.99,24.6
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,49,54,1.0,10.0,36.81,12.67,8.27,23.49
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,49,54,1.0,10.0,36.81,2.34,7.25,25.96
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,49,54,1.0,10.0,36.81,2.22,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,54,1.0,10.0,36.81,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,49,54,1.0,10.0,36.81,6.43,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,49,54,1.0,10.0,36.81,32.42,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,49,54,1.0,10.0,36.81,7.87,8.36,24.21
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,49,54,1.0,10.0,36.81,6.58,5.29,23.3
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,49,54,1.0,10.0,36.81,32.78,8.7,24.54
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,49,54,1.0,10.0,36.81,-2.3,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,49,54,1.0,10.0,36.81,24.03,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,49,54,1.0,10.0,36.81,9.54,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,49,54,1.0,10.0,36.81,8.79,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,49,54,1.0,10.0,36.81,673.41,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,49,54,1.0,10.0,36.81,11.06,7.49,22.51
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,49,54,1.0,10.0,36.81,25.65,7.8,25.64
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,49,54,1.0,10.0,36.81,8.76,8.39,24.61
+80,EWD,Ishares Msci Sweden Etf,5,60,14,49,54,1.0,10.0,36.81,14.66,6.69,25.14
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,49,54,1.0,10.0,36.81,6.0,6.49,24.09
+80,EWQ,iShares MSCI France ETF,5,60,14,49,54,1.0,10.0,36.81,15.62,7.1,22.91
+80,EPI,WisdomTree India Earnings Fund,5,60,14,49,54,1.0,10.0,36.81,6.24,8.24,23.04
+80,IYF,iShares US Financials ETF,5,60,14,49,54,1.0,10.0,36.81,17.17,8.54,24.53
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,49,54,1.0,10.0,36.81,13.85,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,49,54,1.0,10.0,36.81,11.3,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,60,14,49,54,1.0,10.0,36.81,10.4,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,49,54,1.0,10.0,36.81,60.41,8.95,24.02
+80,IYK,iShares US Consumer Staples ETF,5,60,14,49,54,1.0,10.0,36.81,10.91,5.75,23.14
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,49,54,1.0,10.0,36.81,31.92,7.23,26.03
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,49,54,1.0,10.0,36.81,77.02,8.17,24.39
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,49,54,1.0,10.0,36.81,127.35,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,60,14,49,54,1.0,10.0,36.81,21.18,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,49,54,1.0,10.0,36.81,11.95,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,60,14,49,54,1.0,10.0,36.81,-1.66,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,49,54,1.0,10.0,36.81,28.22,7.06,22.91
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,49,54,1.0,10.0,36.81,22.5,7.09,25.47
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,49,54,1.0,10.0,36.81,4.85,6.67,23.23
+80,EPI,WisdomTree India Earnings Fund,5,60,14,34,54,1.0,10.0,26.88,2.84,8.24,23.04
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,34,54,1.0,10.0,26.88,20.57,7.09,25.47
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,34,54,1.0,10.0,26.88,25.62,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,34,54,1.0,10.0,26.88,11.82,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,60,14,34,54,1.0,10.0,26.88,0.18,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,7.62,22.45
+80,EWD,Ishares Msci Sweden Etf,5,60,14,34,54,1.0,10.0,26.88,0.0,6.69,25.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,60,14,34,54,1.0,10.0,26.88,8.59,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,60,14,34,54,1.0,10.0,26.88,77.64,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,34,54,1.0,10.0,26.88,6.08,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,34,54,1.0,10.0,26.88,25.69,5.99,22.62
+80,IYF,iShares US Financials ETF,5,60,14,34,54,1.0,10.0,26.88,12.02,8.54,24.53
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,6.49,24.09
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,6.67,23.23
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,34,54,1.0,10.0,26.88,13.4,7.8,25.64
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,8.7,24.54
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,34,54,1.0,10.0,26.88,672.64,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,34,54,1.0,10.0,26.88,11.49,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,34,54,1.0,10.0,26.88,40.93,5.8,22.59
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,5.52,23.73
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,34,54,1.0,10.0,26.88,10.24,6.83,23.36
+80,BJK.O,VanEck Gaming ETF,5,60,14,34,54,1.0,10.0,26.88,9.99,6.99,24.6
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,8.27,23.49
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,34,54,1.0,10.0,26.88,22.98,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,8.06,22.79
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,34,54,1.0,10.0,26.88,21.75,7.25,25.96
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,34,54,1.0,10.0,26.88,0.0,5.29,23.3
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,34,54,1.0,10.0,26.88,0.0,8.39,24.61
+80,EPI,WisdomTree India Earnings Fund,5,120,14,44,54,1.0,10.0,24.48,17.94,8.24,23.04
+80,EWD,Ishares Msci Sweden Etf,5,120,14,44,54,1.0,10.0,24.48,12.5,6.69,25.14
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,44,54,1.0,10.0,24.48,8.58,6.49,24.09
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,44,54,1.0,10.0,24.48,11.75,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,44,54,1.0,10.0,24.48,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,120,14,44,54,1.0,10.0,24.48,10.02,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,44,54,1.0,10.0,24.48,14.24,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,120,14,44,54,1.0,10.0,24.48,14.39,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,44,54,1.0,10.0,24.48,65.31,7.62,22.45
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,44,54,1.0,10.0,24.48,19.12,8.17,24.39
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,44,54,1.0,10.0,24.48,-4.0,7.8,25.64
+80,IYK,iShares US Consumer Staples ETF,5,120,14,44,54,1.0,10.0,24.48,9.51,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,120,14,44,54,1.0,10.0,24.48,20.89,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,44,54,1.0,10.0,24.48,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,120,14,44,54,1.0,10.0,24.48,15.59,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,44,54,1.0,10.0,24.48,17.33,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,44,54,1.0,10.0,24.48,21.9,5.99,22.62
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,44,54,1.0,10.0,24.48,7.12,5.29,23.3
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,44,54,1.0,10.0,24.48,10.94,6.67,23.23
+80,IYF,iShares US Financials ETF,5,120,14,44,54,1.0,10.0,24.48,8.48,8.54,24.53
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,44,54,1.0,10.0,24.48,13.76,8.27,23.49
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,44,54,1.0,10.0,24.48,4.46,6.83,23.36
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,44,54,1.0,10.0,24.48,26.76,7.09,25.47
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,44,54,1.0,10.0,24.48,0.0,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,44,54,1.0,10.0,24.48,18.4,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,44,54,1.0,10.0,24.48,428.21,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,44,54,1.0,10.0,24.48,21.42,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,44,54,1.0,10.0,24.48,20.65,5.8,22.59
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,44,54,1.0,10.0,24.48,15.28,5.52,23.73
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,44,54,1.0,10.0,24.48,5.12,7.25,25.96
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,44,54,1.0,10.0,24.48,28.29,8.7,24.54
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,44,54,1.0,10.0,24.48,0.0,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,44,54,1.0,10.0,24.48,24.37,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,44,54,1.0,10.0,24.48,0.0,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,54,1.0,10.0,24.48,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,44,54,1.0,10.0,24.48,4.42,8.06,22.79
+80,BJK.O,VanEck Gaming ETF,5,120,14,44,54,1.0,10.0,24.48,12.99,6.99,24.6
+80,BJK.O,VanEck Gaming ETF,5,120,14,39,54,1.0,10.0,23.11,19.99,6.99,24.6
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,39,54,1.0,10.0,23.11,14.06,7.25,25.96
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,39,54,1.0,10.0,23.11,3.31,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,54,1.0,10.0,23.11,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,39,54,1.0,10.0,23.11,0.0,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,39,54,1.0,10.0,23.11,24.37,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,39,54,1.0,10.0,23.11,0.0,8.36,24.21
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,39,54,1.0,10.0,23.11,17.09,5.52,23.73
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,39,54,1.0,10.0,23.11,72.53,8.7,24.54
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,39,54,1.0,10.0,23.11,0.0,6.83,23.36
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,39,54,1.0,10.0,23.11,-4.0,7.8,25.64
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,39,54,1.0,10.0,23.11,20.65,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,39,54,1.0,10.0,23.11,13.47,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,39,54,1.0,10.0,23.11,428.21,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,39,54,1.0,10.0,23.11,18.4,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,39,54,1.0,10.0,23.11,0.0,8.39,24.61
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,39,54,1.0,10.0,23.11,0.0,8.27,23.49
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,39,54,1.0,10.0,23.11,11.75,7.23,26.03
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,39,54,1.0,10.0,23.11,27.88,6.67,23.23
+80,IYK,iShares US Consumer Staples ETF,5,120,14,39,54,1.0,10.0,23.11,9.51,5.75,23.14
+80,IYF,iShares US Financials ETF,5,120,14,39,54,1.0,10.0,23.11,10.75,8.54,24.53
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,39,54,1.0,10.0,23.11,13.04,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,39,54,1.0,10.0,23.11,11.73,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,120,14,39,54,1.0,10.0,23.11,23.65,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,39,54,1.0,10.0,23.11,0.0,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,120,14,39,54,1.0,10.0,23.11,13.87,7.1,22.91
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,39,54,1.0,10.0,23.11,0.0,8.17,24.39
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,39,54,1.0,10.0,23.11,21.02,6.49,24.09
+80,EWD,Ishares Msci Sweden Etf,5,120,14,39,54,1.0,10.0,23.11,10.95,6.69,25.14
+80,EPI,WisdomTree India Earnings Fund,5,120,14,39,54,1.0,10.0,23.11,17.94,8.24,23.04
+80,INDY.O,iShares India 50 ETF,5,120,14,39,54,1.0,10.0,23.11,7.73,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,39,54,1.0,10.0,23.11,10.43,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,120,14,39,54,1.0,10.0,23.11,10.02,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,39,54,1.0,10.0,23.11,0.0,7.06,22.91
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,39,54,1.0,10.0,23.11,0.0,7.62,22.45
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,39,54,1.0,10.0,23.11,26.76,7.09,25.47
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,39,54,1.0,10.0,23.11,0.0,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,49,54,1.0,10.0,23.05,17.73,7.09,25.47
+80,BJK.O,VanEck Gaming ETF,5,120,14,49,54,1.0,10.0,23.05,10.16,6.99,24.6
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,49,54,1.0,10.0,23.05,6.49,8.27,23.49
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,49,54,1.0,10.0,23.05,1.51,7.25,25.96
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,49,54,1.0,10.0,23.05,7.11,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,54,1.0,10.0,23.05,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,49,54,1.0,10.0,23.05,15.74,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,49,54,1.0,10.0,23.05,30.07,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,49,54,1.0,10.0,23.05,13.28,8.36,24.21
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,49,54,1.0,10.0,23.05,12.86,8.7,24.54
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,49,54,1.0,10.0,23.05,10.31,6.67,23.23
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,49,54,1.0,10.0,23.05,4.46,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,49,54,1.0,10.0,23.05,12.58,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,49,54,1.0,10.0,23.05,7.14,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,49,54,1.0,10.0,23.05,11.94,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,49,54,1.0,10.0,23.05,295.74,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,49,54,1.0,10.0,23.05,18.4,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,49,54,1.0,10.0,23.05,13.98,8.39,24.61
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,49,54,1.0,10.0,23.05,8.88,7.8,25.64
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,49,54,1.0,10.0,23.05,8.58,6.49,24.09
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,49,54,1.0,10.0,23.05,10.79,5.29,23.3
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,49,54,1.0,10.0,23.05,14.75,7.23,26.03
+80,EPI,WisdomTree India Earnings Fund,5,120,14,49,54,1.0,10.0,23.05,22.69,8.24,23.04
+80,IYF,iShares US Financials ETF,5,120,14,49,54,1.0,10.0,23.05,8.62,8.54,24.53
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,49,54,1.0,10.0,23.05,10.8,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,49,54,1.0,10.0,23.05,10.2,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,120,14,49,54,1.0,10.0,23.05,15.01,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,49,54,1.0,10.0,23.05,40.0,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,120,14,49,54,1.0,10.0,23.05,13.53,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,120,14,49,54,1.0,10.0,23.05,10.48,5.75,23.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,49,54,1.0,10.0,23.05,38.23,8.17,24.39
+80,EWD,Ishares Msci Sweden Etf,5,120,14,49,54,1.0,10.0,23.05,10.55,6.69,25.14
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,49,54,1.0,10.0,23.05,65.31,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,120,14,49,54,1.0,10.0,23.05,17.52,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,49,54,1.0,10.0,23.05,11.67,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,120,14,49,54,1.0,10.0,23.05,10.02,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,49,54,1.0,10.0,23.05,35.78,7.06,22.91
+80,IYF,iShares US Financials ETF,5,60,14,29,54,1.0,10.0,21.49,53.28,8.54,24.53
+80,EPI,WisdomTree India Earnings Fund,5,60,14,29,54,1.0,10.0,21.49,0.0,8.24,23.04
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,7.09,25.47
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,29,54,1.0,10.0,21.49,13.4,7.8,25.64
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,29,54,1.0,10.0,21.49,21.75,7.25,25.96
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,8.36,24.21
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,8.7,24.54
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,29,54,1.0,10.0,21.49,672.64,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,8.39,24.61
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,29,54,1.0,10.0,21.49,0.0,5.29,23.3
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,8.27,23.49
+80,BJK.O,VanEck Gaming ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,6.99,24.6
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,6.67,23.23
+80,EWD,Ishares Msci Sweden Etf,5,60,14,29,54,1.0,10.0,21.49,0.0,6.69,25.14
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,5.99,22.62
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,6.49,24.09
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,8.95,24.02
+80,IYK,iShares US Consumer Staples ETF,5,60,14,29,54,1.0,10.0,21.49,8.59,5.75,23.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,8.17,24.39
+80,EWQ,iShares MSCI France ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,7.1,22.91
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,29,54,1.0,10.0,21.49,0.0,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,29,54,1.0,10.0,21.49,0.0,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,29,54,1.0,10.0,21.49,25.62,7.23,26.03
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,39,59,1.0,10.0,16.14,13.73,7.25,25.96
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,39,59,1.0,10.0,16.14,143.71,8.7,24.54
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,39,59,1.0,10.0,16.14,-0.02,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,59,1.0,10.0,16.14,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,39,59,1.0,10.0,16.14,-24.63,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,39,59,1.0,10.0,16.14,19.02,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,39,59,1.0,10.0,16.14,-13.87,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,60,14,39,59,1.0,10.0,16.14,7.06,6.99,24.6
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,39,59,1.0,10.0,16.14,-20.56,8.39,24.61
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,39,59,1.0,10.0,16.14,9.19,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,39,59,1.0,10.0,16.14,60.98,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,39,59,1.0,10.0,16.14,32.41,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,39,59,1.0,10.0,16.14,13.04,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,39,59,1.0,10.0,16.14,38.36,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,39,59,1.0,10.0,16.14,11.92,7.49,22.51
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,39,59,1.0,10.0,16.14,28.52,6.67,23.23
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,39,59,1.0,10.0,16.14,13.4,7.8,25.64
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,39,59,1.0,10.0,16.14,12.84,8.27,23.49
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,39,59,1.0,10.0,16.14,25.61,6.49,24.09
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,39,59,1.0,10.0,16.14,23.3,7.23,26.03
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,39,59,1.0,10.0,16.14,11.31,5.29,23.3
+80,IYF,iShares US Financials ETF,5,60,14,39,59,1.0,10.0,16.14,14.45,8.54,24.53
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,39,59,1.0,10.0,16.14,15.14,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,39,59,1.0,10.0,16.14,15.91,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,60,14,39,59,1.0,10.0,16.14,14.35,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,39,59,1.0,10.0,16.14,0.0,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,60,14,39,59,1.0,10.0,16.14,32.78,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,60,14,39,59,1.0,10.0,16.14,8.14,5.75,23.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,39,59,1.0,10.0,16.14,0.0,8.17,24.39
+80,EWD,Ishares Msci Sweden Etf,5,60,14,39,59,1.0,10.0,16.14,14.82,6.69,25.14
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,39,59,1.0,10.0,16.14,0.0,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,60,14,39,59,1.0,10.0,16.14,17.44,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,39,59,1.0,10.0,16.14,9.97,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,60,14,39,59,1.0,10.0,16.14,12.37,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,39,59,1.0,10.0,16.14,0.0,7.06,22.91
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,39,59,1.0,10.0,16.14,18.23,7.09,25.47
+80,EPI,WisdomTree India Earnings Fund,5,60,14,39,59,1.0,10.0,16.14,18.19,8.24,23.04
+80,EPI,WisdomTree India Earnings Fund,5,60,14,39,64,1.0,10.0,16.07,11.57,8.24,23.04
+80,IYF,iShares US Financials ETF,5,60,14,39,64,1.0,10.0,16.07,14.38,8.54,24.53
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,39,64,1.0,10.0,16.07,15.75,8.27,23.49
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,39,64,1.0,10.0,16.07,17.38,7.25,25.96
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,39,64,1.0,10.0,16.07,-0.02,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,64,1.0,10.0,16.07,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,39,64,1.0,10.0,16.07,-24.63,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,39,64,1.0,10.0,16.07,24.14,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,39,64,1.0,10.0,16.07,-13.87,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,60,14,39,64,1.0,10.0,16.07,10.29,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,39,64,1.0,10.0,16.07,115.38,8.7,24.54
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,39,64,1.0,10.0,16.07,9.19,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,39,64,1.0,10.0,16.07,56.72,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,39,64,1.0,10.0,16.07,36.85,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,39,64,1.0,10.0,16.07,17.68,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,39,64,1.0,10.0,16.07,38.36,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,39,64,1.0,10.0,16.07,10.73,7.49,22.51
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,39,64,1.0,10.0,16.07,13.4,7.8,25.64
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,39,64,1.0,10.0,16.07,33.43,6.67,23.23
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,39,64,1.0,10.0,16.07,12.34,7.09,25.47
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,39,64,1.0,10.0,16.07,0.0,8.17,24.39
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,39,64,1.0,10.0,16.07,16.32,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,39,64,1.0,10.0,16.07,17.75,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,60,14,39,64,1.0,10.0,16.07,16.02,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,39,64,1.0,10.0,16.07,0.0,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,60,14,39,64,1.0,10.0,16.07,22.77,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,60,14,39,64,1.0,10.0,16.07,7.67,5.75,23.14
+80,EWD,Ishares Msci Sweden Etf,5,60,14,39,64,1.0,10.0,16.07,14.13,6.69,25.14
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,39,64,1.0,10.0,16.07,13.5,5.29,23.3
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,39,64,1.0,10.0,16.07,0.0,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,60,14,39,64,1.0,10.0,16.07,20.13,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,39,64,1.0,10.0,16.07,13.13,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,60,14,39,64,1.0,10.0,16.07,12.37,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,39,64,1.0,10.0,16.07,0.0,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,39,64,1.0,10.0,16.07,28.56,7.23,26.03
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,39,64,1.0,10.0,16.07,33.87,6.49,24.09
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,39,64,1.0,10.0,16.07,-20.56,8.39,24.61
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,39,64,1.0,10.0,14.21,0.0,8.39,24.61
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,39,64,1.0,10.0,14.21,24.76,8.76,23.34
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,39,64,1.0,10.0,14.21,-4.0,7.8,25.64
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,39,64,1.0,10.0,14.21,0.0,8.27,23.49
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,39,64,1.0,10.0,14.21,19.51,7.25,25.96
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,39,64,1.0,10.0,14.21,3.31,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,64,1.0,10.0,14.21,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,39,64,1.0,10.0,14.21,0.0,8.51,24.35
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,39,64,1.0,10.0,14.21,0.0,8.36,24.21
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,39,64,1.0,10.0,14.21,0.0,5.29,23.3
+80,BJK.O,VanEck Gaming ETF,5,120,14,39,64,1.0,10.0,14.21,20.83,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,39,64,1.0,10.0,14.21,63.96,8.7,24.54
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,39,64,1.0,10.0,14.21,0.0,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,39,64,1.0,10.0,14.21,32.96,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,39,64,1.0,10.0,14.21,33.38,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,39,64,1.0,10.0,14.21,21.62,8.16,24.77
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,39,64,1.0,10.0,14.21,44.5,6.67,23.23
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,39,64,1.0,10.0,14.21,20.32,7.23,26.03
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,39,64,1.0,10.0,14.21,16.19,7.49,22.51
+80,EWQ,iShares MSCI France ETF,5,120,14,39,64,1.0,10.0,14.21,17.76,7.1,22.91
+80,EPI,WisdomTree India Earnings Fund,5,120,14,39,64,1.0,10.0,14.21,11.0,8.24,23.04
+80,IYF,iShares US Financials ETF,5,120,14,39,64,1.0,10.0,14.21,17.91,8.54,24.53
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,39,64,1.0,10.0,14.21,17.65,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,39,64,1.0,10.0,14.21,16.79,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,120,14,39,64,1.0,10.0,14.21,17.0,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,39,64,1.0,10.0,14.21,0.0,8.95,24.02
+80,IYK,iShares US Consumer Staples ETF,5,120,14,39,64,1.0,10.0,14.21,8.23,5.75,23.14
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,39,64,1.0,10.0,14.21,0.0,7.06,22.91
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,39,64,1.0,10.0,14.21,0.0,8.17,24.39
+80,EWD,Ishares Msci Sweden Etf,5,120,14,39,64,1.0,10.0,14.21,11.58,6.69,25.14
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,39,64,1.0,10.0,14.21,0.0,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,120,14,39,64,1.0,10.0,14.21,13.65,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,39,64,1.0,10.0,14.21,16.7,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,120,14,39,64,1.0,10.0,14.21,8.74,6.56,22.15
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,39,64,1.0,10.0,14.21,23.11,6.54,23.96
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,39,64,1.0,10.0,14.21,34.85,6.49,24.09
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,39,64,1.0,10.0,14.21,13.59,7.09,25.47
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,39,69,1.0,10.0,13.09,9.19,6.83,23.36
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,39,69,1.0,10.0,13.09,-0.02,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,69,1.0,10.0,13.09,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,39,69,1.0,10.0,13.09,-24.63,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,39,69,1.0,10.0,13.09,20.38,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,39,69,1.0,10.0,13.09,-13.87,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,60,14,39,69,1.0,10.0,13.09,3.33,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,39,69,1.0,10.0,13.09,113.83,8.7,24.54
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,39,69,1.0,10.0,13.09,13.58,5.52,23.73
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,39,69,1.0,10.0,13.09,20.96,8.27,23.49
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,39,69,1.0,10.0,13.09,25.91,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,39,69,1.0,10.0,13.09,20.1,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,39,69,1.0,10.0,13.09,38.36,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,39,69,1.0,10.0,13.09,10.73,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,39,69,1.0,10.0,13.09,-20.56,8.39,24.61
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,39,69,1.0,10.0,13.09,12.34,7.09,25.47
+80,IYF,iShares US Financials ETF,5,60,14,39,69,1.0,10.0,13.09,14.93,8.54,24.53
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,39,69,1.0,10.0,13.09,18.85,7.25,25.96
+80,EPI,WisdomTree India Earnings Fund,5,60,14,39,69,1.0,10.0,13.09,14.25,8.24,23.04
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,39,69,1.0,10.0,13.09,13.4,7.8,25.64
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,39,69,1.0,10.0,13.09,0.0,8.17,24.39
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,39,69,1.0,10.0,13.09,32.2,6.67,23.23
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,39,69,1.0,10.0,13.09,6.42,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,39,69,1.0,10.0,13.09,3.56,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,60,14,39,69,1.0,10.0,13.09,8.51,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,39,69,1.0,10.0,13.09,0.0,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,60,14,39,69,1.0,10.0,13.09,13.79,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,60,14,39,69,1.0,10.0,13.09,8.17,5.75,23.14
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,39,69,1.0,10.0,13.09,15.74,5.29,23.3
+80,EWD,Ishares Msci Sweden Etf,5,60,14,39,69,1.0,10.0,13.09,7.88,6.69,25.14
+80,INDY.O,iShares India 50 ETF,5,60,14,39,69,1.0,10.0,13.09,14.25,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,39,69,1.0,10.0,13.09,12.15,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,60,14,39,69,1.0,10.0,13.09,12.37,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,39,69,1.0,10.0,13.09,0.0,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,39,69,1.0,10.0,13.09,24.48,7.23,26.03
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,39,69,1.0,10.0,13.09,0.0,7.62,22.45
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,39,69,1.0,10.0,13.09,33.89,6.49,24.09
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,44,64,1.0,10.0,13.05,19.57,7.62,22.45
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,44,64,1.0,10.0,13.05,13.42,6.49,24.09
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,44,64,1.0,10.0,13.05,20.32,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,44,64,1.0,10.0,13.05,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,120,14,44,64,1.0,10.0,13.05,8.74,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,44,64,1.0,10.0,13.05,26.46,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,120,14,44,64,1.0,10.0,13.05,20.0,7.98,22.69
+80,IYK,iShares US Consumer Staples ETF,5,120,14,44,64,1.0,10.0,13.05,8.23,5.75,23.14
+80,EWD,Ishares Msci Sweden Etf,5,120,14,44,64,1.0,10.0,13.05,14.41,6.69,25.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,44,64,1.0,10.0,13.05,41.38,8.17,24.39
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,44,64,1.0,10.0,13.05,-4.0,7.8,25.64
+80,EWQ,iShares MSCI France ETF,5,120,14,44,64,1.0,10.0,13.05,18.66,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,44,64,1.0,10.0,13.05,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,120,14,44,64,1.0,10.0,13.05,16.73,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,44,64,1.0,10.0,13.05,17.52,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,44,64,1.0,10.0,13.05,17.03,5.99,22.62
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,44,64,1.0,10.0,13.05,15.29,6.67,23.23
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,64,1.0,10.0,13.05,0.0,6.76,22.38
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,44,64,1.0,10.0,13.05,8.63,8.27,23.49
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,44,64,1.0,10.0,13.05,33.38,5.8,22.59
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,44,64,1.0,10.0,13.05,9.51,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,44,64,1.0,10.0,13.05,13.59,7.09,25.47
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,44,64,1.0,10.0,13.05,0.0,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,44,64,1.0,10.0,13.05,16.19,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,44,64,1.0,10.0,13.05,23.11,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,44,64,1.0,10.0,13.05,21.28,8.16,24.77
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,44,64,1.0,10.0,13.05,7.23,5.52,23.73
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,44,64,1.0,10.0,13.05,10.49,7.25,25.96
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,44,64,1.0,10.0,13.05,4.6,6.83,23.36
+80,BJK.O,VanEck Gaming ETF,5,120,14,44,64,1.0,10.0,13.05,11.18,6.99,24.6
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,44,64,1.0,10.0,13.05,0.0,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,44,64,1.0,10.0,13.05,24.76,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,44,64,1.0,10.0,13.05,0.0,8.51,24.35
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,44,64,1.0,10.0,13.05,4.42,8.06,22.79
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,44,64,1.0,10.0,13.05,17.46,8.7,24.54
+80,IYF,iShares US Financials ETF,5,120,14,44,64,1.0,10.0,13.05,12.12,8.54,24.53
+80,EPI,WisdomTree India Earnings Fund,5,120,14,44,64,1.0,10.0,13.05,11.0,8.24,23.04
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,39,59,1.0,10.0,12.71,63.06,8.7,24.54
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,39,59,1.0,10.0,12.71,14.06,7.25,25.96
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,39,59,1.0,10.0,12.71,3.31,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,59,1.0,10.0,12.71,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,39,59,1.0,10.0,12.71,0.0,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,39,59,1.0,10.0,12.71,19.83,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,39,59,1.0,10.0,12.71,0.0,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,120,14,39,59,1.0,10.0,12.71,19.46,6.99,24.6
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,39,59,1.0,10.0,12.71,0.0,6.83,23.36
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,39,59,1.0,10.0,12.71,-4.0,7.8,25.64
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,39,59,1.0,10.0,12.71,32.16,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,39,59,1.0,10.0,12.71,20.65,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,39,59,1.0,10.0,12.71,15.35,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,39,59,1.0,10.0,12.71,23.11,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,39,59,1.0,10.0,12.71,19.02,7.49,22.51
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,39,59,1.0,10.0,12.71,0.0,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,39,59,1.0,10.0,12.71,21.17,7.09,25.47
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,39,59,1.0,10.0,12.71,0.0,8.27,23.49
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,39,59,1.0,10.0,12.71,32.47,6.67,23.23
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,39,59,1.0,10.0,12.71,0.0,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,120,14,39,59,1.0,10.0,12.71,8.8,5.75,23.14
+80,EPI,WisdomTree India Earnings Fund,5,120,14,39,59,1.0,10.0,12.71,16.91,8.24,23.04
+80,IYF,iShares US Financials ETF,5,120,14,39,59,1.0,10.0,12.71,17.04,8.54,24.53
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,39,59,1.0,10.0,12.71,14.96,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,39,59,1.0,10.0,12.71,13.05,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,120,14,39,59,1.0,10.0,12.71,15.98,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,39,59,1.0,10.0,12.71,0.0,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,120,14,39,59,1.0,10.0,12.71,14.23,7.1,22.91
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,39,59,1.0,10.0,12.71,0.0,8.39,24.61
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,39,59,1.0,10.0,12.71,24.56,6.49,24.09
+80,EWD,Ishares Msci Sweden Etf,5,120,14,39,59,1.0,10.0,12.71,14.49,6.69,25.14
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,39,59,1.0,10.0,12.71,0.0,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,120,14,39,59,1.0,10.0,12.71,12.18,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,39,59,1.0,10.0,12.71,14.81,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,120,14,39,59,1.0,10.0,12.71,8.74,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,39,59,1.0,10.0,12.71,0.0,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,39,59,1.0,10.0,12.71,14.84,7.23,26.03
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,39,69,1.0,10.0,12.23,0.0,8.39,24.61
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,39,69,1.0,10.0,12.23,0.0,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,39,69,1.0,10.0,12.23,13.59,7.09,25.47
+80,EWD,Ishares Msci Sweden Etf,5,120,14,39,69,1.0,10.0,12.23,9.24,6.69,25.14
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,39,69,1.0,10.0,12.23,18.02,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,39,69,1.0,10.0,12.23,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,120,14,39,69,1.0,10.0,12.23,8.74,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,39,69,1.0,10.0,12.23,12.17,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,120,14,39,69,1.0,10.0,12.23,7.57,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,39,69,1.0,10.0,12.23,0.0,7.62,22.45
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,39,69,1.0,10.0,12.23,0.0,8.17,24.39
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,39,69,1.0,10.0,12.23,37.97,6.67,23.23
+80,IYK,iShares US Consumer Staples ETF,5,120,14,39,69,1.0,10.0,12.23,8.74,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,120,14,39,69,1.0,10.0,12.23,7.08,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,39,69,1.0,10.0,12.23,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,120,14,39,69,1.0,10.0,12.23,16.67,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,39,69,1.0,10.0,12.23,3.91,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,39,69,1.0,10.0,12.23,7.62,5.99,22.62
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,39,69,1.0,10.0,12.23,34.63,6.49,24.09
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,39,69,1.0,10.0,12.23,-4.0,7.8,25.64
+80,EPI,WisdomTree India Earnings Fund,5,120,14,39,69,1.0,10.0,12.23,13.87,8.24,23.04
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,39,69,1.0,10.0,12.23,67.28,8.7,24.54
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,39,69,1.0,10.0,12.23,16.19,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,39,69,1.0,10.0,12.23,23.11,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,39,69,1.0,10.0,12.23,22.28,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,39,69,1.0,10.0,12.23,33.94,5.8,22.59
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,39,69,1.0,10.0,12.23,8.8,5.52,23.73
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,39,69,1.0,10.0,12.23,0.0,6.83,23.36
+80,BJK.O,VanEck Gaming ETF,5,120,14,39,69,1.0,10.0,12.23,21.8,6.99,24.6
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,39,69,1.0,10.0,12.23,0.0,8.27,23.49
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,39,69,1.0,10.0,12.23,0.0,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,39,69,1.0,10.0,12.23,20.93,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,39,69,1.0,10.0,12.23,0.0,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,69,1.0,10.0,12.23,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,39,69,1.0,10.0,12.23,3.31,8.06,22.79
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,39,69,1.0,10.0,12.23,21.0,7.25,25.96
+80,IYF,iShares US Financials ETF,5,120,14,39,69,1.0,10.0,12.23,17.91,8.54,24.53
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,49,64,1.0,10.0,12.18,16.19,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,49,64,1.0,10.0,12.18,23.11,6.54,23.96
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,49,64,1.0,10.0,12.18,24.76,8.76,23.34
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,49,64,1.0,10.0,12.18,24.31,8.39,24.61
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,49,64,1.0,10.0,12.18,8.62,8.27,23.49
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,49,64,1.0,10.0,12.18,9.04,7.25,25.96
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,49,64,1.0,10.0,12.18,11.01,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,64,1.0,10.0,12.18,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,49,64,1.0,10.0,12.18,23.87,8.51,24.35
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,49,64,1.0,10.0,12.18,23.24,8.36,24.21
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,49,64,1.0,10.0,12.18,13.42,6.49,24.09
+80,BJK.O,VanEck Gaming ETF,5,120,14,49,64,1.0,10.0,12.18,9.79,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,49,64,1.0,10.0,12.18,8.6,8.7,24.54
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,49,64,1.0,10.0,12.18,4.6,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,49,64,1.0,10.0,12.18,7.61,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,49,64,1.0,10.0,12.18,13.31,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,49,64,1.0,10.0,12.18,15.23,8.16,24.77
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,49,64,1.0,10.0,12.18,14.35,6.67,23.23
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,49,64,1.0,10.0,12.18,20.32,7.23,26.03
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,49,64,1.0,10.0,12.18,8.2,5.29,23.3
+80,EWQ,iShares MSCI France ETF,5,120,14,49,64,1.0,10.0,12.18,11.71,7.1,22.91
+80,EPI,WisdomTree India Earnings Fund,5,120,14,49,64,1.0,10.0,12.18,7.78,8.24,23.04
+80,IYF,iShares US Financials ETF,5,120,14,49,64,1.0,10.0,12.18,1.56,8.54,24.53
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,49,64,1.0,10.0,12.18,11.32,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,49,64,1.0,10.0,12.18,13.29,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,120,14,49,64,1.0,10.0,12.18,12.67,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,49,64,1.0,10.0,12.18,25.24,8.95,24.02
+80,IYK,iShares US Consumer Staples ETF,5,120,14,49,64,1.0,10.0,12.18,8.64,5.75,23.14
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,49,64,1.0,10.0,12.18,6.59,7.06,22.91
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,49,64,1.0,10.0,12.18,16.25,8.17,24.39
+80,EWD,Ishares Msci Sweden Etf,5,120,14,49,64,1.0,10.0,12.18,9.25,6.69,25.14
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,49,64,1.0,10.0,12.18,19.57,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,120,14,49,64,1.0,10.0,12.18,17.59,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,49,64,1.0,10.0,12.18,13.43,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,120,14,49,64,1.0,10.0,12.18,8.74,6.56,22.15
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,49,64,1.0,10.0,12.18,-21.59,7.8,25.64
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,49,64,1.0,10.0,12.18,8.83,7.09,25.47
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,49,59,1.0,10.0,11.82,24.34,8.39,24.61
+80,EWQ,iShares MSCI France ETF,5,120,14,49,59,1.0,10.0,11.82,15.78,7.1,22.91
+80,WWJD.K,Inspire International ETF,5,120,14,49,59,1.0,10.0,11.82,8.74,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,49,59,1.0,10.0,11.82,10.03,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,120,14,49,59,1.0,10.0,11.82,15.54,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,49,59,1.0,10.0,11.82,16.43,7.62,22.45
+80,EWD,Ishares Msci Sweden Etf,5,120,14,49,59,1.0,10.0,11.82,8.68,6.69,25.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,49,59,1.0,10.0,11.82,12.85,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,120,14,49,59,1.0,10.0,11.82,8.61,5.75,23.14
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,49,59,1.0,10.0,11.82,26.43,8.95,24.02
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,49,59,1.0,10.0,11.82,14.84,7.23,26.03
+80,EWG,iShares MSCI Germany ETF,5,120,14,49,59,1.0,10.0,11.82,10.67,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,49,59,1.0,10.0,11.82,11.17,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,49,59,1.0,10.0,11.82,9.68,5.99,22.62
+80,IYF,iShares US Financials ETF,5,120,14,49,59,1.0,10.0,11.82,-1.74,8.54,24.53
+80,EPI,WisdomTree India Earnings Fund,5,120,14,49,59,1.0,10.0,11.82,9.9,8.24,23.04
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,49,59,1.0,10.0,11.82,13.85,7.09,25.47
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,49,59,1.0,10.0,11.82,19.02,7.49,22.51
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,49,59,1.0,10.0,11.82,5.22,7.06,22.91
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,49,59,1.0,10.0,11.82,6.78,5.29,23.3
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,49,59,1.0,10.0,11.82,9.99,6.49,24.09
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,49,59,1.0,10.0,11.82,24.67,8.36,24.21
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,49,59,1.0,10.0,11.82,11.62,6.67,23.23
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,49,59,1.0,10.0,11.82,23.11,6.54,23.96
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,49,59,1.0,10.0,11.82,7.72,5.8,22.59
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,49,59,1.0,10.0,11.82,6.88,5.52,23.73
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,49,59,1.0,10.0,11.82,4.6,6.83,23.36
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,49,59,1.0,10.0,11.82,5.5,8.7,24.54
+80,BJK.O,VanEck Gaming ETF,5,120,14,49,59,1.0,10.0,11.82,6.2,6.99,24.6
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,49,59,1.0,10.0,11.82,15.26,8.16,24.77
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,49,59,1.0,10.0,11.82,19.83,8.76,23.34
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,59,1.0,10.0,11.82,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,49,59,1.0,10.0,11.82,7.11,8.06,22.79
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,49,59,1.0,10.0,11.82,4.42,7.25,25.96
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,49,59,1.0,10.0,11.82,8.93,8.27,23.49
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,49,59,1.0,10.0,11.82,25.33,8.51,24.35
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,49,59,1.0,10.0,11.82,9.39,7.8,25.64
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,44,69,1.0,10.0,11.63,4.6,6.83,23.36
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,44,69,1.0,10.0,11.63,4.42,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,69,1.0,10.0,11.63,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,44,69,1.0,10.0,11.63,0.0,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,44,69,1.0,10.0,11.63,20.93,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,44,69,1.0,10.0,11.63,0.0,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,120,14,44,69,1.0,10.0,11.63,3.85,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,44,69,1.0,10.0,11.63,20.34,8.7,24.54
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,44,69,1.0,10.0,11.63,23.29,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,44,69,1.0,10.0,11.63,33.94,5.8,22.59
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,44,69,1.0,10.0,11.63,23.11,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,44,69,1.0,10.0,11.63,16.19,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,44,69,1.0,10.0,11.63,0.0,8.39,24.61
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,44,69,1.0,10.0,11.63,13.59,7.09,25.47
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,44,69,1.0,10.0,11.63,-4.0,7.8,25.64
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,44,69,1.0,10.0,11.63,11.05,5.29,23.3
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,44,69,1.0,10.0,11.63,13.35,7.25,25.96
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,44,69,1.0,10.0,11.63,4.11,5.52,23.73
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,44,69,1.0,10.0,11.63,16.5,6.67,23.23
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,44,69,1.0,10.0,11.63,43.88,8.17,24.39
+80,EPI,WisdomTree India Earnings Fund,5,120,14,44,69,1.0,10.0,11.63,13.87,8.24,23.04
+80,IYF,iShares US Financials ETF,5,120,14,44,69,1.0,10.0,11.63,12.78,8.54,24.53
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,44,69,1.0,10.0,11.63,6.33,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,44,69,1.0,10.0,11.63,3.91,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,120,14,44,69,1.0,10.0,11.63,9.47,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,44,69,1.0,10.0,11.63,0.0,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,120,14,44,69,1.0,10.0,11.63,11.69,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,120,14,44,69,1.0,10.0,11.63,8.74,5.75,23.14
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,44,69,1.0,10.0,11.63,8.63,8.27,23.49
+80,EWD,Ishares Msci Sweden Etf,5,120,14,44,69,1.0,10.0,11.63,6.99,6.69,25.14
+80,INDY.O,iShares India 50 ETF,5,120,14,44,69,1.0,10.0,11.63,14.14,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,44,69,1.0,10.0,11.63,22.99,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,120,14,44,69,1.0,10.0,11.63,8.74,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,44,69,1.0,10.0,11.63,0.0,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,44,69,1.0,10.0,11.63,18.02,7.23,26.03
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,44,69,1.0,10.0,11.63,15.36,6.49,24.09
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,44,69,1.0,10.0,11.63,19.57,7.62,22.45
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,44,59,1.0,10.0,11.53,0.0,8.36,24.21
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,44,59,1.0,10.0,11.53,-4.0,7.8,25.64
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,44,59,1.0,10.0,11.53,8.63,8.27,23.49
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,44,59,1.0,10.0,11.53,6.77,7.25,25.96
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,44,59,1.0,10.0,11.53,4.42,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,59,1.0,10.0,11.53,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,44,59,1.0,10.0,11.53,0.0,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,44,59,1.0,10.0,11.53,19.83,8.76,23.34
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,44,59,1.0,10.0,11.53,4.6,6.83,23.36
+80,BJK.O,VanEck Gaming ETF,5,120,14,44,59,1.0,10.0,11.53,7.44,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,44,59,1.0,10.0,11.53,10.79,8.7,24.54
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,44,59,1.0,10.0,11.53,9.99,6.49,24.09
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,44,59,1.0,10.0,11.53,4.76,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,44,59,1.0,10.0,11.53,20.65,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,44,59,1.0,10.0,11.53,23.75,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,44,59,1.0,10.0,11.53,23.11,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,44,59,1.0,10.0,11.53,19.02,7.49,22.51
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,44,59,1.0,10.0,11.53,12.35,6.67,23.23
+80,WWJD.K,Inspire International ETF,5,120,14,44,59,1.0,10.0,11.53,8.74,6.56,22.15
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,44,59,1.0,10.0,11.53,8.21,5.29,23.3
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,44,59,1.0,10.0,11.53,0.0,8.95,24.02
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,44,59,1.0,10.0,11.53,21.17,7.09,25.47
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,44,59,1.0,10.0,11.53,0.0,8.39,24.61
+80,EPI,WisdomTree India Earnings Fund,5,120,14,44,59,1.0,10.0,11.53,16.91,8.24,23.04
+80,IYF,iShares US Financials ETF,5,120,14,44,59,1.0,10.0,11.53,11.38,8.54,24.53
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,44,59,1.0,10.0,11.53,15.71,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,44,59,1.0,10.0,11.53,15.5,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,120,14,44,59,1.0,10.0,11.53,14.94,6.04,22.96
+80,EWQ,iShares MSCI France ETF,5,120,14,44,59,1.0,10.0,11.53,22.69,7.1,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,44,59,1.0,10.0,11.53,14.84,7.23,26.03
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,44,59,1.0,10.0,11.53,24.52,8.17,24.39
+80,EWD,Ishares Msci Sweden Etf,5,120,14,44,59,1.0,10.0,11.53,15.29,6.69,25.14
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,44,59,1.0,10.0,11.53,16.43,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,120,14,44,59,1.0,10.0,11.53,17.03,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,44,59,1.0,10.0,11.53,22.34,6.23,22.46
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,44,59,1.0,10.0,11.53,0.0,7.06,22.91
+80,IYK,iShares US Consumer Staples ETF,5,120,14,44,59,1.0,10.0,11.53,8.8,5.75,23.14
+80,EPI,WisdomTree India Earnings Fund,5,60,14,49,64,1.0,10.0,11.31,4.65,8.24,23.04
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,49,64,1.0,10.0,11.31,8.59,7.25,25.96
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,49,64,1.0,10.0,11.31,9.62,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,49,64,1.0,10.0,11.31,11.0,5.77,23.36
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,49,64,1.0,10.0,11.31,-20.82,7.8,25.64
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,49,64,1.0,10.0,11.31,8.13,6.67,23.23
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,49,64,1.0,10.0,11.31,9.8,6.49,24.09
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,49,64,1.0,10.0,11.31,28.56,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,49,64,1.0,10.0,11.31,5.09,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,60,14,49,64,1.0,10.0,11.31,0.19,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,49,64,1.0,10.0,11.31,10.26,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,60,14,49,64,1.0,10.0,11.31,11.22,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,49,64,1.0,10.0,11.31,22.64,7.62,22.45
+80,EWD,Ishares Msci Sweden Etf,5,60,14,49,64,1.0,10.0,11.31,10.57,6.69,25.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,49,64,1.0,10.0,11.31,14.12,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,60,14,49,64,1.0,10.0,11.31,11.81,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,60,14,49,64,1.0,10.0,11.31,10.63,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,49,64,1.0,10.0,11.31,15.62,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,60,14,49,64,1.0,10.0,11.31,10.32,6.04,22.96
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,49,64,1.0,10.0,11.31,10.94,8.27,23.49
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,49,64,1.0,10.0,11.31,5.49,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,64,1.0,10.0,11.31,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,49,64,1.0,10.0,11.31,24.42,8.51,24.35
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,49,64,1.0,10.0,11.31,7.02,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,49,64,1.0,10.0,11.31,12.34,7.09,25.47
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,49,64,1.0,10.0,11.31,22.51,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,49,64,1.0,10.0,11.31,10.73,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,49,64,1.0,10.0,11.31,38.36,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,49,64,1.0,10.0,11.31,11.8,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,49,64,1.0,10.0,11.31,14.08,5.8,22.59
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,49,64,1.0,10.0,11.31,8.99,5.52,23.73
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,49,64,1.0,10.0,11.31,-1.04,6.83,23.36
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,49,64,1.0,10.0,11.31,10.2,8.7,24.54
+80,BJK.O,VanEck Gaming ETF,5,60,14,49,64,1.0,10.0,11.31,7.63,6.99,24.6
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,49,64,1.0,10.0,11.31,20.5,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,49,64,1.0,10.0,11.31,24.14,8.76,23.34
+80,IYF,iShares US Financials ETF,5,60,14,49,64,1.0,10.0,11.31,8.41,8.54,24.53
+80,EPI,WisdomTree India Earnings Fund,5,60,14,49,59,1.0,10.0,11.13,4.16,8.24,23.04
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,49,59,1.0,10.0,11.13,5.64,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,49,59,1.0,10.0,11.13,18.23,7.09,25.47
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,49,59,1.0,10.0,11.13,7.32,8.7,24.54
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,49,59,1.0,10.0,11.13,2.22,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,59,1.0,10.0,11.13,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,49,59,1.0,10.0,11.13,19.89,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,49,59,1.0,10.0,11.13,19.02,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,49,59,1.0,10.0,11.13,17.45,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,60,14,49,59,1.0,10.0,11.13,5.23,6.99,24.6
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,49,59,1.0,10.0,11.13,-1.04,6.83,23.36
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,49,59,1.0,10.0,11.13,16.67,7.8,25.64
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,49,59,1.0,10.0,11.13,8.54,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,49,59,1.0,10.0,11.13,9.93,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,49,59,1.0,10.0,11.13,11.07,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,49,59,1.0,10.0,11.13,38.36,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,49,59,1.0,10.0,11.13,11.92,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,49,59,1.0,10.0,11.13,17.7,8.39,24.61
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,49,59,1.0,10.0,11.13,4.69,7.25,25.96
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,49,59,1.0,10.0,11.13,5.96,6.67,23.23
+80,IYF,iShares US Financials ETF,5,60,14,49,59,1.0,10.0,11.13,5.84,8.54,24.53
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,49,59,1.0,10.0,11.13,10.76,8.17,24.39
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,49,59,1.0,10.0,11.13,7.98,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,49,59,1.0,10.0,11.13,8.91,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,60,14,49,59,1.0,10.0,11.13,8.31,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,49,59,1.0,10.0,11.13,22.81,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,60,14,49,59,1.0,10.0,11.13,17.04,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,60,14,49,59,1.0,10.0,11.13,10.44,5.75,23.14
+80,EWD,Ishares Msci Sweden Etf,5,60,14,49,59,1.0,10.0,11.13,10.32,6.69,25.14
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,49,59,1.0,10.0,11.13,7.13,6.49,24.09
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,49,59,1.0,10.0,11.13,20.65,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,60,14,49,59,1.0,10.0,11.13,10.81,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,49,59,1.0,10.0,11.13,7.09,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,60,14,49,59,1.0,10.0,11.13,0.19,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,49,59,1.0,10.0,11.13,3.69,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,49,59,1.0,10.0,11.13,23.3,7.23,26.03
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,49,59,1.0,10.0,11.13,13.61,8.27,23.49
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,44,64,1.0,10.0,10.93,9.18,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,44,64,1.0,10.0,10.93,12.34,7.09,25.47
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,44,64,1.0,10.0,10.93,14.22,6.67,23.23
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,44,64,1.0,10.0,10.93,28.56,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,44,64,1.0,10.0,10.93,13.51,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,60,14,44,64,1.0,10.0,10.93,7.55,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,44,64,1.0,10.0,10.93,10.26,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,60,14,44,64,1.0,10.0,10.93,20.13,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,44,64,1.0,10.0,10.93,22.64,7.62,22.45
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,44,64,1.0,10.0,10.93,13.49,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,60,14,44,64,1.0,10.0,10.93,7.67,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,60,14,44,64,1.0,10.0,10.93,13.41,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,44,64,1.0,10.0,10.93,14.04,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,60,14,44,64,1.0,10.0,10.93,11.94,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,44,64,1.0,10.0,10.93,13.74,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,44,64,1.0,10.0,10.93,12.53,5.99,22.62
+80,IYF,iShares US Financials ETF,5,60,14,44,64,1.0,10.0,10.93,4.7,8.54,24.53
+80,EPI,WisdomTree India Earnings Fund,5,60,14,44,64,1.0,10.0,10.93,4.65,8.24,23.04
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,44,64,1.0,10.0,10.93,14.82,6.49,24.09
+80,EWD,Ishares Msci Sweden Etf,5,60,14,44,64,1.0,10.0,10.93,12.19,6.69,25.14
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,44,64,1.0,10.0,10.93,32.56,7.8,25.64
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,44,64,1.0,10.0,10.93,10.2,8.7,24.54
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,44,64,1.0,10.0,10.93,-20.56,8.39,24.61
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,44,64,1.0,10.0,10.93,15.75,8.27,23.49
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,44,64,1.0,10.0,10.93,10.73,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,44,64,1.0,10.0,10.93,38.36,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,44,64,1.0,10.0,10.93,11.8,8.16,24.77
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,44,64,1.0,10.0,10.93,7.08,5.52,23.73
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,44,64,1.0,10.0,10.93,9.19,6.83,23.36
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,44,64,1.0,10.0,10.93,20.47,5.8,22.59
+80,BJK.O,VanEck Gaming ETF,5,60,14,44,64,1.0,10.0,10.93,10.74,6.99,24.6
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,44,64,1.0,10.0,10.93,-13.87,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,44,64,1.0,10.0,10.93,24.14,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,44,64,1.0,10.0,10.93,-24.63,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,64,1.0,10.0,10.93,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,44,64,1.0,10.0,10.93,-0.02,8.06,22.79
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,44,64,1.0,10.0,10.93,10.71,7.25,25.96
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,49,69,1.0,10.0,10.68,15.36,6.49,24.09
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,49,69,1.0,10.0,10.68,20.93,8.76,23.34
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,49,69,1.0,10.0,10.68,15.56,6.67,23.23
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,49,69,1.0,10.0,10.68,-21.59,7.8,25.64
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,49,69,1.0,10.0,10.68,12.43,8.27,23.49
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,49,69,1.0,10.0,10.68,9.45,7.25,25.96
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,49,69,1.0,10.0,10.68,17.89,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,69,1.0,10.0,10.68,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,49,69,1.0,10.0,10.68,24.44,8.51,24.35
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,49,69,1.0,10.0,10.68,17.21,8.16,24.77
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,49,69,1.0,10.0,10.68,-19.11,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,120,14,49,69,1.0,10.0,10.68,3.14,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,49,69,1.0,10.0,10.68,9.98,8.7,24.54
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,49,69,1.0,10.0,10.68,4.6,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,49,69,1.0,10.0,10.68,3.68,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,49,69,1.0,10.0,10.68,13.89,5.8,22.59
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,49,69,1.0,10.0,10.68,25.18,8.39,24.61
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,49,69,1.0,10.0,10.68,6.65,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,49,69,1.0,10.0,10.68,18.02,7.23,26.03
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,49,69,1.0,10.0,10.68,9.72,5.29,23.3
+80,WWJD.K,Inspire International ETF,5,120,14,49,69,1.0,10.0,10.68,8.74,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,49,69,1.0,10.0,10.68,12.36,6.23,22.46
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,49,69,1.0,10.0,10.68,8.83,7.09,25.47
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,49,69,1.0,10.0,10.68,23.11,6.54,23.96
+80,EPI,WisdomTree India Earnings Fund,5,120,14,49,69,1.0,10.0,10.68,10.81,8.24,23.04
+80,IYF,iShares US Financials ETF,5,120,14,49,69,1.0,10.0,10.68,2.37,8.54,24.53
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,49,69,1.0,10.0,10.68,6.33,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,49,69,1.0,10.0,10.68,3.91,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,120,14,49,69,1.0,10.0,10.68,7.21,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,49,69,1.0,10.0,10.68,28.48,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,120,14,49,69,1.0,10.0,10.68,10.03,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,120,14,49,69,1.0,10.0,10.68,12.0,5.75,23.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,49,69,1.0,10.0,10.68,16.76,8.17,24.39
+80,EWD,Ishares Msci Sweden Etf,5,120,14,49,69,1.0,10.0,10.68,6.99,6.69,25.14
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,49,69,1.0,10.0,10.68,19.57,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,120,14,49,69,1.0,10.0,10.68,14.05,7.98,22.69
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,49,69,1.0,10.0,10.68,16.19,7.49,22.51
+80,IYF,iShares US Financials ETF,5,60,14,44,69,1.0,10.0,10.05,5.41,8.54,24.53
+80,EPI,WisdomTree India Earnings Fund,5,60,14,44,69,1.0,10.0,10.05,7.32,8.24,23.04
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,44,69,1.0,10.0,10.05,22.64,7.62,22.45
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,44,69,1.0,10.0,10.05,6.42,5.99,22.62
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,44,69,1.0,10.0,10.05,10.7,7.25,25.96
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,69,1.0,10.0,10.05,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,44,69,1.0,10.0,10.05,-24.63,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,44,69,1.0,10.0,10.05,20.38,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,44,69,1.0,10.0,10.05,-13.87,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,60,14,44,69,1.0,10.0,10.05,5.31,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,44,69,1.0,10.0,10.05,11.5,8.7,24.54
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,44,69,1.0,10.0,10.05,3.56,5.77,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,44,69,1.0,10.0,10.05,3.92,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,44,69,1.0,10.0,10.05,17.67,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,44,69,1.0,10.0,10.05,13.55,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,44,69,1.0,10.0,10.05,38.36,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,44,69,1.0,10.0,10.05,10.73,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,44,69,1.0,10.0,10.05,-20.56,8.39,24.61
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,44,69,1.0,10.0,10.05,12.34,7.09,25.47
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,44,69,1.0,10.0,10.05,10.63,5.29,23.3
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,44,69,1.0,10.0,10.05,-0.02,8.06,22.79
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,44,69,1.0,10.0,10.05,9.19,6.83,23.36
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,44,69,1.0,10.0,10.05,20.96,8.27,23.49
+80,INDY.O,iShares India 50 ETF,5,60,14,44,69,1.0,10.0,10.05,14.25,7.98,22.69
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,44,69,1.0,10.0,10.05,32.56,7.8,25.64
+80,EWG,iShares MSCI Germany ETF,5,60,14,44,69,1.0,10.0,10.05,8.51,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,44,69,1.0,10.0,10.05,18.8,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,60,14,44,69,1.0,10.0,10.05,10.33,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,60,14,44,69,1.0,10.0,10.05,8.17,5.75,23.14
+80,EWD,Ishares Msci Sweden Etf,5,60,14,44,69,1.0,10.0,10.05,6.73,6.69,25.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,44,69,1.0,10.0,10.05,15.18,8.17,24.39
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,44,69,1.0,10.0,10.05,9.55,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,60,14,44,69,1.0,10.0,10.05,7.55,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,44,69,1.0,10.0,10.05,12.34,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,44,69,1.0,10.0,10.05,24.48,7.23,26.03
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,44,69,1.0,10.0,10.05,16.42,6.49,24.09
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,44,69,1.0,10.0,10.05,15.29,6.67,23.23
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,44,59,1.0,10.0,10.01,-0.02,8.06,22.79
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,44,59,1.0,10.0,10.01,9.19,6.83,23.36
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,59,1.0,10.0,10.01,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,44,59,1.0,10.0,10.01,-24.63,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,44,59,1.0,10.0,10.01,19.02,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,44,59,1.0,10.0,10.01,-13.87,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,60,14,44,59,1.0,10.0,10.01,7.24,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,44,59,1.0,10.0,10.01,7.32,8.7,24.54
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,44,59,1.0,10.0,10.01,7.83,5.29,23.3
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,44,59,1.0,10.0,10.01,4.25,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,44,59,1.0,10.0,10.01,16.35,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,44,59,1.0,10.0,10.01,10.9,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,44,59,1.0,10.0,10.01,38.36,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,44,59,1.0,10.0,10.01,11.92,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,44,59,1.0,10.0,10.01,-20.56,8.39,24.61
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,44,59,1.0,10.0,10.01,18.23,7.09,25.47
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,44,59,1.0,10.0,10.01,12.84,8.27,23.49
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,44,59,1.0,10.0,10.01,6.97,7.25,25.96
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,44,59,1.0,10.0,10.01,26.2,7.8,25.64
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,44,59,1.0,10.0,10.01,11.86,6.67,23.23
+80,IYK,iShares US Consumer Staples ETF,5,60,14,44,59,1.0,10.0,10.01,8.14,5.75,23.14
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,44,59,1.0,10.0,10.01,11.86,6.49,24.09
+80,IYF,iShares US Financials ETF,5,60,14,44,59,1.0,10.0,10.01,2.31,8.54,24.53
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,44,59,1.0,10.0,10.01,11.02,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,44,59,1.0,10.0,10.01,11.65,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,60,14,44,59,1.0,10.0,10.01,9.87,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,44,59,1.0,10.0,10.01,31.26,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,60,14,44,59,1.0,10.0,10.01,21.94,7.1,22.91
+80,EPI,WisdomTree India Earnings Fund,5,60,14,44,59,1.0,10.0,10.01,6.77,8.24,23.04
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,44,59,1.0,10.0,10.01,7.37,8.17,24.39
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,44,59,1.0,10.0,10.01,23.3,7.23,26.03
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,44,59,1.0,10.0,10.01,20.65,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,60,14,44,59,1.0,10.0,10.01,17.44,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,44,59,1.0,10.0,10.01,7.09,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,60,14,44,59,1.0,10.0,10.01,7.55,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,44,59,1.0,10.0,10.01,10.37,7.06,22.91
+80,EWD,Ishares Msci Sweden Etf,5,60,14,44,59,1.0,10.0,10.01,12.34,6.69,25.14
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,49,69,1.0,10.0,9.95,24.48,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,49,69,1.0,10.0,9.95,5.27,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,60,14,49,69,1.0,10.0,9.95,0.19,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,49,69,1.0,10.0,9.95,9.55,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,60,14,49,69,1.0,10.0,9.95,9.93,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,49,69,1.0,10.0,9.95,22.64,7.62,22.45
+80,EWD,Ishares Msci Sweden Etf,5,60,14,49,69,1.0,10.0,9.95,6.73,6.69,25.14
+80,EWG,iShares MSCI Germany ETF,5,60,14,49,69,1.0,10.0,9.95,7.47,6.04,22.96
+80,IYK,iShares US Consumer Staples ETF,5,60,14,49,69,1.0,10.0,9.95,11.12,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,60,14,49,69,1.0,10.0,9.95,9.54,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,49,69,1.0,10.0,9.95,18.04,8.95,24.02
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,49,69,1.0,10.0,9.95,3.56,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,49,69,1.0,10.0,9.95,6.42,5.99,22.62
+80,IYF,iShares US Financials ETF,5,60,14,49,69,1.0,10.0,9.95,5.78,8.54,24.53
+80,EPI,WisdomTree India Earnings Fund,5,60,14,49,69,1.0,10.0,9.95,7.32,8.24,23.04
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,49,69,1.0,10.0,9.95,9.53,6.67,23.23
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,49,69,1.0,10.0,9.95,11.58,6.49,24.09
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,49,69,1.0,10.0,9.95,14.61,8.17,24.39
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,49,69,1.0,10.0,9.95,-20.82,7.8,25.64
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,49,69,1.0,10.0,9.95,-1.04,6.83,23.36
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,49,69,1.0,10.0,9.95,14.59,8.27,23.49
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,49,69,1.0,10.0,9.95,12.34,7.09,25.47
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,49,69,1.0,10.0,9.95,20.11,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,49,69,1.0,10.0,9.95,10.73,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,49,69,1.0,10.0,9.95,38.36,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,49,69,1.0,10.0,9.95,13.55,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,49,69,1.0,10.0,9.95,11.86,5.8,22.59
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,49,69,1.0,10.0,9.95,4.13,5.52,23.73
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,49,69,1.0,10.0,9.95,8.49,5.29,23.3
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,49,69,1.0,10.0,9.95,11.5,8.7,24.54
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,49,69,1.0,10.0,9.95,-5.31,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,49,69,1.0,10.0,9.95,20.38,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,49,69,1.0,10.0,9.95,19.65,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,69,1.0,10.0,9.95,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,49,69,1.0,10.0,9.95,11.34,8.06,22.79
+80,BJK.O,VanEck Gaming ETF,5,60,14,49,69,1.0,10.0,9.95,5.31,6.99,24.6
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,49,69,1.0,10.0,9.95,9.09,7.25,25.96
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,34,64,1.0,10.0,9.08,17.72,6.23,22.46
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,34,64,1.0,10.0,9.08,13.4,7.8,25.64
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,6.67,23.23
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,6.49,24.09
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,34,64,1.0,10.0,9.08,28.56,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,6.56,22.15
+80,EWD,Ishares Msci Sweden Etf,5,60,14,34,64,1.0,10.0,9.08,0.0,6.69,25.14
+80,INDY.O,iShares India 50 ETF,5,60,14,34,64,1.0,10.0,9.08,6.51,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,7.62,22.45
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,34,64,1.0,10.0,9.08,26.48,7.25,25.96
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,60,14,34,64,1.0,10.0,9.08,7.67,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,60,14,34,64,1.0,10.0,9.08,22.5,6.04,22.96
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,8.27,23.49
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,34,64,1.0,10.0,9.08,24.14,8.76,23.34
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,8.06,22.79
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,34,64,1.0,10.0,9.08,38.36,6.54,23.96
+80,EPI,WisdomTree India Earnings Fund,5,60,14,34,64,1.0,10.0,9.08,2.98,8.24,23.04
+80,IYF,iShares US Financials ETF,5,60,14,34,64,1.0,10.0,9.08,14.38,8.54,24.53
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,34,64,1.0,10.0,9.08,0.0,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,34,64,1.0,10.0,9.08,12.34,7.09,25.47
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,7.49,22.51
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,34,64,1.0,10.0,9.08,21.44,8.16,24.77
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,6.76,22.38
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,34,64,1.0,10.0,9.08,46.51,5.8,22.59
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,34,64,1.0,10.0,9.08,9.19,6.83,23.36
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,8.7,24.54
+80,BJK.O,VanEck Gaming ETF,5,60,14,34,64,1.0,10.0,9.08,13.29,6.99,24.6
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,8.36,24.21
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,8.51,24.35
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,34,64,1.0,10.0,9.08,0.0,5.52,23.73
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,34,64,1.0,10.0,9.08,17.75,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,34,64,1.0,10.0,9.08,12.88,5.77,23.36
+80,EPI,WisdomTree India Earnings Fund,5,120,14,44,74,1.0,10.0,8.35,6.96,8.24,23.04
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,44,74,1.0,10.0,8.35,4.6,6.83,23.36
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,44,74,1.0,10.0,8.35,4.42,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,44,74,1.0,10.0,8.35,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,44,74,1.0,10.0,8.35,0.0,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,44,74,1.0,10.0,8.35,20.93,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,44,74,1.0,10.0,8.35,0.0,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,120,14,44,74,1.0,10.0,8.35,0.61,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,44,74,1.0,10.0,8.35,5.41,8.7,24.54
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,44,74,1.0,10.0,8.35,4.11,5.52,23.73
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,44,74,1.0,10.0,8.35,8.63,8.27,23.49
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,44,74,1.0,10.0,8.35,36.84,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,44,74,1.0,10.0,8.35,17.87,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,44,74,1.0,10.0,8.35,23.11,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,44,74,1.0,10.0,8.35,16.19,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,44,74,1.0,10.0,8.35,0.0,8.39,24.61
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,44,74,1.0,10.0,8.35,13.59,7.09,25.47
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,44,74,1.0,10.0,8.35,17.11,7.25,25.96
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,44,74,1.0,10.0,8.35,2.07,5.29,23.3
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,44,74,1.0,10.0,8.35,-4.0,7.8,25.64
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,44,74,1.0,10.0,8.35,12.1,8.17,24.39
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,44,74,1.0,10.0,8.35,4.13,5.99,22.62
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,44,74,1.0,10.0,8.35,4.45,6.67,23.23
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,44,74,1.0,10.0,8.35,3.91,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,120,14,44,74,1.0,10.0,8.35,3.37,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,44,74,1.0,10.0,8.35,0.0,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,120,14,44,74,1.0,10.0,8.35,7.76,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,120,14,44,74,1.0,10.0,8.35,9.99,5.75,23.14
+80,IYF,iShares US Financials ETF,5,120,14,44,74,1.0,10.0,8.35,14.08,8.54,24.53
+80,EWD,Ishares Msci Sweden Etf,5,120,14,44,74,1.0,10.0,8.35,7.33,6.69,25.14
+80,INDY.O,iShares India 50 ETF,5,120,14,44,74,1.0,10.0,8.35,6.81,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,44,74,1.0,10.0,8.35,4.42,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,120,14,44,74,1.0,10.0,8.35,8.74,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,44,74,1.0,10.0,8.35,0.0,7.06,22.91
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,44,74,1.0,10.0,8.35,5.67,6.49,24.09
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,44,74,1.0,10.0,8.35,19.57,7.62,22.45
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,44,74,1.0,10.0,8.35,18.02,7.23,26.03
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,44,74,1.0,10.0,8.25,22.64,7.62,22.45
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,44,74,1.0,10.0,8.25,24.48,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,44,74,1.0,10.0,8.25,12.34,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,60,14,44,74,1.0,10.0,8.25,7.55,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,44,74,1.0,10.0,8.25,2.46,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,60,14,44,74,1.0,10.0,8.25,6.1,7.98,22.69
+80,IYK,iShares US Consumer Staples ETF,5,60,14,44,74,1.0,10.0,8.25,9.66,5.75,23.14
+80,EWD,Ishares Msci Sweden Etf,5,60,14,44,74,1.0,10.0,8.25,7.06,6.69,25.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,44,74,1.0,10.0,8.25,9.23,8.17,24.39
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,44,74,1.0,10.0,8.25,5.07,6.67,23.23
+80,EWQ,iShares MSCI France ETF,5,60,14,44,74,1.0,10.0,8.25,6.92,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,44,74,1.0,10.0,8.25,20.49,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,60,14,44,74,1.0,10.0,8.25,3.33,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,44,74,1.0,10.0,8.25,3.56,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,44,74,1.0,10.0,8.25,4.08,5.99,22.62
+80,IYF,iShares US Financials ETF,5,60,14,44,74,1.0,10.0,8.25,6.59,8.54,24.53
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,44,74,1.0,10.0,8.25,6.59,6.49,24.09
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,44,74,1.0,10.0,8.25,13.76,7.25,25.96
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,44,74,1.0,10.0,8.25,35.05,7.8,25.64
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,44,74,1.0,10.0,8.25,3.92,5.52,23.73
+80,EPI,WisdomTree India Earnings Fund,5,60,14,44,74,1.0,10.0,8.25,6.02,8.24,23.04
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,44,74,1.0,10.0,8.25,-20.56,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,44,74,1.0,10.0,8.25,10.73,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,44,74,1.0,10.0,8.25,38.36,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,44,74,1.0,10.0,8.25,12.93,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,44,74,1.0,10.0,8.25,9.44,5.8,22.59
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,44,74,1.0,10.0,8.25,9.19,6.83,23.36
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,44,74,1.0,10.0,8.25,20.32,8.27,23.49
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,44,74,1.0,10.0,8.25,4.94,8.7,24.54
+80,BJK.O,VanEck Gaming ETF,5,60,14,44,74,1.0,10.0,8.25,3.6,6.99,24.6
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,44,74,1.0,10.0,8.25,20.38,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,44,74,1.0,10.0,8.25,-24.63,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,44,74,1.0,10.0,8.25,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,44,74,1.0,10.0,8.25,-0.02,8.06,22.79
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,44,74,1.0,10.0,8.25,-13.87,8.36,24.21
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,44,74,1.0,10.0,8.25,5.1,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,44,74,1.0,10.0,8.25,12.34,7.09,25.47
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,6.67,23.23
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,34,59,1.0,10.0,8.17,0.0,5.29,23.3
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,34,59,1.0,10.0,8.17,19.02,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,60,14,34,59,1.0,10.0,8.17,10.54,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,8.7,24.54
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,34,59,1.0,10.0,8.17,9.19,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,34,59,1.0,10.0,8.17,40.93,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,34,59,1.0,10.0,8.17,11.49,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,34,59,1.0,10.0,8.17,38.36,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,8.39,24.61
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,34,59,1.0,10.0,8.17,21.75,7.25,25.96
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,8.27,23.49
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,34,59,1.0,10.0,8.17,13.4,7.8,25.64
+80,EWD,Ishares Msci Sweden Etf,5,60,14,34,59,1.0,10.0,8.17,0.0,6.69,25.14
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,34,59,1.0,10.0,8.17,9.29,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,60,14,34,59,1.0,10.0,8.17,22.5,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,60,14,34,59,1.0,10.0,8.17,8.14,5.75,23.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,8.17,24.39
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,7.62,22.45
+80,EPI,WisdomTree India Earnings Fund,5,60,14,34,59,1.0,10.0,8.17,2.84,8.24,23.04
+80,INDY.O,iShares India 50 ETF,5,60,14,34,59,1.0,10.0,8.17,4.55,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,34,59,1.0,10.0,8.17,15.94,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,34,59,1.0,10.0,8.17,23.3,7.23,26.03
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,34,59,1.0,10.0,8.17,0.0,6.49,24.09
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,34,59,1.0,10.0,8.17,18.23,7.09,25.47
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,34,59,1.0,10.0,8.17,18.41,5.99,22.62
+80,IYF,iShares US Financials ETF,5,60,14,34,59,1.0,10.0,8.17,14.45,8.54,24.53
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,49,74,1.0,10.0,8.12,3.56,5.77,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,49,74,1.0,10.0,8.12,4.13,5.52,23.73
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,49,74,1.0,10.0,8.12,3.4,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,49,74,1.0,10.0,8.12,20.38,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,49,74,1.0,10.0,8.12,2.78,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,60,14,49,74,1.0,10.0,8.12,3.6,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,49,74,1.0,10.0,8.12,4.94,8.7,24.54
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,49,74,1.0,10.0,8.12,-1.04,6.83,23.36
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,49,74,1.0,10.0,8.12,5.54,5.8,22.59
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,49,74,1.0,10.0,8.12,4.08,5.99,22.62
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,49,74,1.0,10.0,8.12,12.93,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,49,74,1.0,10.0,8.12,38.36,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,49,74,1.0,10.0,8.12,10.73,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,49,74,1.0,10.0,8.12,3.65,8.39,24.61
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,49,74,1.0,10.0,8.12,12.34,7.09,25.47
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,49,74,1.0,10.0,8.12,5.1,5.29,23.3
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,49,74,1.0,10.0,8.12,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,49,74,1.0,10.0,8.12,11.34,8.06,22.79
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,49,74,1.0,10.0,8.12,12.01,7.25,25.96
+80,INDY.O,iShares India 50 ETF,5,60,14,49,74,1.0,10.0,8.12,6.1,7.98,22.69
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,49,74,1.0,10.0,8.12,18.16,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,60,14,49,74,1.0,10.0,8.12,6.92,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,60,14,49,74,1.0,10.0,8.12,9.93,5.75,23.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,49,74,1.0,10.0,8.12,12.25,8.17,24.39
+80,EWD,Ishares Msci Sweden Etf,5,60,14,49,74,1.0,10.0,8.12,7.06,6.69,25.14
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,49,74,1.0,10.0,8.12,22.64,7.62,22.45
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,49,74,1.0,10.0,8.12,2.46,6.23,22.46
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,49,74,1.0,10.0,8.12,14.93,8.27,23.49
+80,WWJD.K,Inspire International ETF,5,60,14,49,74,1.0,10.0,8.12,0.19,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,49,74,1.0,10.0,8.12,5.27,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,49,74,1.0,10.0,8.12,24.48,7.23,26.03
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,49,74,1.0,10.0,8.12,6.59,6.49,24.09
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,49,74,1.0,10.0,8.12,5.07,6.67,23.23
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,49,74,1.0,10.0,8.12,-16.08,7.8,25.64
+80,EWG,iShares MSCI Germany ETF,5,60,14,49,74,1.0,10.0,8.12,3.33,6.04,22.96
+80,EPI,WisdomTree India Earnings Fund,5,60,14,49,74,1.0,10.0,8.12,6.02,8.24,23.04
+80,IYF,iShares US Financials ETF,5,60,14,49,74,1.0,10.0,8.12,7.27,8.54,24.53
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,7.62,22.45
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,34,69,1.0,10.0,7.84,13.09,6.23,22.46
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,8.27,23.49
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,34,69,1.0,10.0,7.84,13.4,7.8,25.64
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,6.67,23.23
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,6.49,24.09
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,34,69,1.0,10.0,7.84,24.48,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,6.56,22.15
+80,INDY.O,iShares India 50 ETF,5,60,14,34,69,1.0,10.0,7.84,5.96,7.98,22.69
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,8.06,22.79
+80,EWD,Ishares Msci Sweden Etf,5,60,14,34,69,1.0,10.0,7.84,0.0,6.69,25.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,60,14,34,69,1.0,10.0,7.84,8.17,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,60,14,34,69,1.0,10.0,7.84,22.5,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,34,69,1.0,10.0,7.84,3.56,5.77,23.36
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,34,69,1.0,10.0,7.84,26.22,7.25,25.96
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,6.76,22.38
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,34,69,1.0,10.0,7.84,10.09,5.99,22.62
+80,EPI,WisdomTree India Earnings Fund,5,60,14,34,69,1.0,10.0,7.84,4.45,8.24,23.04
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,34,69,1.0,10.0,7.84,0.0,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,34,69,1.0,10.0,7.84,12.34,7.09,25.47
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,34,69,1.0,10.0,7.84,38.36,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,34,69,1.0,10.0,7.84,21.44,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,34,69,1.0,10.0,7.84,27.02,5.8,22.59
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,5.52,23.73
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,34,69,1.0,10.0,7.84,9.19,6.83,23.36
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,8.7,24.54
+80,BJK.O,VanEck Gaming ETF,5,60,14,34,69,1.0,10.0,7.84,14.35,6.99,24.6
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,34,69,1.0,10.0,7.84,20.38,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,34,69,1.0,10.0,7.84,0.0,8.51,24.35
+80,IYF,iShares US Financials ETF,5,60,14,34,69,1.0,10.0,7.84,14.93,8.54,24.53
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,39,74,1.0,10.0,7.74,0.0,5.29,23.3
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,39,74,1.0,10.0,7.74,0.0,8.27,23.49
+80,EPI,WisdomTree India Earnings Fund,5,120,14,39,74,1.0,10.0,7.74,6.96,8.24,23.04
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,39,74,1.0,10.0,7.74,-4.0,7.8,25.64
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,39,74,1.0,10.0,7.74,3.31,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,39,74,1.0,10.0,7.74,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,39,74,1.0,10.0,7.74,0.0,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,39,74,1.0,10.0,7.74,20.93,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,39,74,1.0,10.0,7.74,0.0,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,120,14,39,74,1.0,10.0,7.74,2.72,6.99,24.6
+80,IYF,iShares US Financials ETF,5,120,14,39,74,1.0,10.0,7.74,17.91,8.54,24.53
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,39,74,1.0,10.0,7.74,0.0,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,39,74,1.0,10.0,7.74,8.8,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,39,74,1.0,10.0,7.74,36.84,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,39,74,1.0,10.0,7.74,12.6,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,39,74,1.0,10.0,7.74,23.11,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,39,74,1.0,10.0,7.74,16.19,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,39,74,1.0,10.0,7.74,0.0,8.39,24.61
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,39,74,1.0,10.0,7.74,13.59,7.09,25.47
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,39,74,1.0,10.0,7.74,25.35,7.25,25.96
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,39,74,1.0,10.0,7.74,8.93,8.7,24.54
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,39,74,1.0,10.0,7.74,3.27,6.67,23.23
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,39,74,1.0,10.0,7.74,0.0,8.17,24.39
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,39,74,1.0,10.0,7.74,5.67,6.49,24.09
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,39,74,1.0,10.0,7.74,3.91,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,120,14,39,74,1.0,10.0,7.74,2.48,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,39,74,1.0,10.0,7.74,0.0,8.95,24.02
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,39,74,1.0,10.0,7.74,4.13,5.99,22.62
+80,IYK,iShares US Consumer Staples ETF,5,120,14,39,74,1.0,10.0,7.74,9.99,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,120,14,39,74,1.0,10.0,7.74,8.07,7.1,22.91
+80,EWD,Ishares Msci Sweden Etf,5,120,14,39,74,1.0,10.0,7.74,9.78,6.69,25.14
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,39,74,1.0,10.0,7.74,0.0,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,120,14,39,74,1.0,10.0,7.74,6.81,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,39,74,1.0,10.0,7.74,12.17,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,120,14,39,74,1.0,10.0,7.74,8.74,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,39,74,1.0,10.0,7.74,0.0,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,39,74,1.0,10.0,7.74,18.02,7.23,26.03
+80,EWD,Ishares Msci Sweden Etf,5,60,14,34,74,1.0,10.0,7.34,0.0,6.69,25.14
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,6.49,24.09
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,34,74,1.0,10.0,7.34,24.48,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,34,74,1.0,10.0,7.34,13.09,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,60,14,34,74,1.0,10.0,7.34,6.1,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,7.62,22.45
+80,IYF,iShares US Financials ETF,5,60,14,34,74,1.0,10.0,7.34,16.09,8.54,24.53
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,60,14,34,74,1.0,10.0,7.34,9.66,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,60,14,34,74,1.0,10.0,7.34,22.5,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,34,74,1.0,10.0,7.34,3.56,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,34,74,1.0,10.0,7.34,4.08,5.99,22.62
+80,EPI,WisdomTree India Earnings Fund,5,60,14,34,74,1.0,10.0,7.34,6.02,8.24,23.04
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,34,74,1.0,10.0,7.34,13.4,7.8,25.64
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,6.67,23.23
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,8.06,22.79
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,8.27,23.49
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,5.52,23.73
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,34,74,1.0,10.0,7.34,0.0,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,34,74,1.0,10.0,7.34,12.34,7.09,25.47
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,7.49,22.51
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,34,74,1.0,10.0,7.34,30.47,7.25,25.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,34,74,1.0,10.0,7.34,28.04,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,34,74,1.0,10.0,7.34,12.12,5.8,22.59
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,34,74,1.0,10.0,7.34,38.36,6.54,23.96
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,34,74,1.0,10.0,7.34,9.19,6.83,23.36
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,8.7,24.54
+80,BJK.O,VanEck Gaming ETF,5,60,14,34,74,1.0,10.0,7.34,1.84,6.99,24.6
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,34,74,1.0,10.0,7.34,20.38,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,34,74,1.0,10.0,7.34,0.0,6.76,22.38
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,39,74,1.0,10.0,7.21,13.4,7.8,25.64
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,39,74,1.0,10.0,7.21,3.27,6.67,23.23
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,39,74,1.0,10.0,7.21,6.59,6.49,24.09
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,39,74,1.0,10.0,7.21,24.48,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,39,74,1.0,10.0,7.21,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,60,14,39,74,1.0,10.0,7.21,12.37,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,39,74,1.0,10.0,7.21,2.46,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,60,14,39,74,1.0,10.0,7.21,6.1,7.98,22.69
+80,EPI,WisdomTree India Earnings Fund,5,60,14,39,74,1.0,10.0,7.21,6.02,8.24,23.04
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,39,74,1.0,10.0,7.21,0.0,7.62,22.45
+80,EWD,Ishares Msci Sweden Etf,5,60,14,39,74,1.0,10.0,7.21,8.21,6.69,25.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,39,74,1.0,10.0,7.21,0.0,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,60,14,39,74,1.0,10.0,7.21,9.66,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,60,14,39,74,1.0,10.0,7.21,9.28,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,39,74,1.0,10.0,7.21,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,60,14,39,74,1.0,10.0,7.21,3.33,6.04,22.96
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,39,74,1.0,10.0,7.21,22.07,7.25,25.96
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,39,74,1.0,10.0,7.21,20.32,8.27,23.49
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,39,74,1.0,10.0,7.21,9.19,6.83,23.36
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,39,74,1.0,10.0,7.21,-0.02,8.06,22.79
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,39,74,1.0,10.0,7.21,14.63,8.16,24.77
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,39,74,1.0,10.0,7.21,3.56,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,39,74,1.0,10.0,7.21,4.08,5.99,22.62
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,39,74,1.0,10.0,7.21,6.55,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,39,74,1.0,10.0,7.21,12.34,7.09,25.47
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,39,74,1.0,10.0,7.21,-20.56,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,39,74,1.0,10.0,7.21,10.73,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,39,74,1.0,10.0,7.21,38.36,6.54,23.96
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,39,74,1.0,10.0,7.21,13.73,5.8,22.59
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,39,74,1.0,10.0,7.21,0.0,6.76,22.38
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,39,74,1.0,10.0,7.21,13.58,5.52,23.73
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,39,74,1.0,10.0,7.21,15.16,8.7,24.54
+80,BJK.O,VanEck Gaming ETF,5,60,14,39,74,1.0,10.0,7.21,0.03,6.99,24.6
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,39,74,1.0,10.0,7.21,-13.87,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,39,74,1.0,10.0,7.21,20.38,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,39,74,1.0,10.0,7.21,-24.63,8.51,24.35
+80,IYF,iShares US Financials ETF,5,60,14,39,74,1.0,10.0,7.21,16.09,8.54,24.53
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,49,74,1.0,10.0,6.44,-18.34,8.39,24.61
+80,BJK.O,VanEck Gaming ETF,5,120,14,49,74,1.0,10.0,6.44,0.61,6.99,24.6
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,49,74,1.0,10.0,6.44,16.19,7.49,22.51
+80,IYK,iShares US Consumer Staples ETF,5,120,14,49,74,1.0,10.0,6.44,9.99,5.75,23.14
+80,WWJD.K,Inspire International ETF,5,120,14,49,74,1.0,10.0,6.44,8.74,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,49,74,1.0,10.0,6.44,1.86,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,120,14,49,74,1.0,10.0,6.44,6.81,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,49,74,1.0,10.0,6.44,19.57,7.62,22.45
+80,EWD,Ishares Msci Sweden Etf,5,120,14,49,74,1.0,10.0,6.44,7.33,6.69,25.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,49,74,1.0,10.0,6.44,13.18,8.17,24.39
+80,EWQ,iShares MSCI France ETF,5,120,14,49,74,1.0,10.0,6.44,6.84,7.1,22.91
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,49,74,1.0,10.0,6.44,23.11,6.54,23.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,49,74,1.0,10.0,6.44,26.07,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,120,14,49,74,1.0,10.0,6.44,3.37,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,49,74,1.0,10.0,6.44,3.91,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,49,74,1.0,10.0,6.44,4.13,5.99,22.62
+80,IYF,iShares US Financials ETF,5,120,14,49,74,1.0,10.0,6.44,3.65,8.54,24.53
+80,EPI,WisdomTree India Earnings Fund,5,120,14,49,74,1.0,10.0,6.44,9.32,8.24,23.04
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,49,74,1.0,10.0,6.44,6.65,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,49,74,1.0,10.0,6.44,18.02,7.23,26.03
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,49,74,1.0,10.0,6.44,5.67,6.49,24.09
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,49,74,1.0,10.0,6.44,4.4,6.67,23.23
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,49,74,1.0,10.0,6.44,-16.81,7.8,25.64
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,49,74,1.0,10.0,6.44,13.05,8.27,23.49
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,49,74,1.0,10.0,6.44,12.66,7.25,25.96
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,49,74,1.0,10.0,6.44,17.89,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,49,74,1.0,10.0,6.44,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,49,74,1.0,10.0,6.44,-18.8,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,49,74,1.0,10.0,6.44,20.93,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,49,74,1.0,10.0,6.44,-19.11,8.36,24.21
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,49,74,1.0,10.0,6.44,4.81,8.7,24.54
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,49,74,1.0,10.0,6.44,4.6,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,49,74,1.0,10.0,6.44,3.68,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,49,74,1.0,10.0,6.44,7.34,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,49,74,1.0,10.0,6.44,13.65,8.16,24.77
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,49,74,1.0,10.0,6.44,8.83,7.09,25.47
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,49,74,1.0,10.0,6.44,4.42,5.29,23.3
+80,EPI,WisdomTree India Earnings Fund,5,60,14,29,59,1.0,10.0,4.28,0.0,8.24,23.04
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,7.09,25.47
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,29,59,1.0,10.0,4.28,23.3,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,29,59,1.0,10.0,4.28,0.0,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,7.62,22.45
+80,EWD,Ishares Msci Sweden Etf,5,60,14,29,59,1.0,10.0,4.28,0.0,6.69,25.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,60,14,29,59,1.0,10.0,4.28,8.14,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,5.99,22.62
+80,IYF,iShares US Financials ETF,5,60,14,29,59,1.0,10.0,4.28,53.28,8.54,24.53
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,6.49,24.09
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,6.67,23.23
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,29,59,1.0,10.0,4.28,13.4,7.8,25.64
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,8.7,24.54
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,29,59,1.0,10.0,4.28,38.36,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,5.8,22.59
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,5.52,23.73
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,6.83,23.36
+80,BJK.O,VanEck Gaming ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,6.99,24.6
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,8.27,23.49
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,8.06,22.79
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,29,59,1.0,10.0,4.28,21.75,7.25,25.96
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,29,59,1.0,10.0,4.28,0.0,5.29,23.3
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,29,59,1.0,10.0,4.28,0.0,8.39,24.61
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,7.09,25.47
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,8.76,23.34
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,6.67,23.23
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,29,74,1.0,10.0,3.91,13.4,7.8,25.64
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,8.27,23.49
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,29,74,1.0,10.0,3.91,30.47,7.25,25.96
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,8.51,24.35
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,8.36,24.21
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,29,74,1.0,10.0,3.91,38.36,6.54,23.96
+80,BJK.O,VanEck Gaming ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,8.7,24.54
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,8.16,24.77
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,29,74,1.0,10.0,3.91,0.0,5.29,23.3
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,6.49,24.09
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,29,74,1.0,10.0,3.91,24.48,7.23,26.03
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,8.39,24.61
+80,EWQ,iShares MSCI France ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,7.1,22.91
+80,EPI,WisdomTree India Earnings Fund,5,60,14,29,74,1.0,10.0,3.91,0.0,8.24,23.04
+80,IYF,iShares US Financials ETF,5,60,14,29,74,1.0,10.0,3.91,28.2,8.54,24.53
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,8.95,24.02
+80,IYK,iShares US Consumer Staples ETF,5,60,14,29,74,1.0,10.0,3.91,9.66,5.75,23.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,8.17,24.39
+80,EWD,Ishares Msci Sweden Etf,5,60,14,29,74,1.0,10.0,3.91,0.0,6.69,25.14
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,29,74,1.0,10.0,3.91,0.0,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,7.06,22.91
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,29,74,1.0,10.0,3.91,0.0,7.49,22.51
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,29,64,1.0,10.0,3.76,0.0,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,7.09,25.47
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,8.39,24.61
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,8.17,24.39
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,29,64,1.0,10.0,3.76,0.0,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,7.62,22.45
+80,EWD,Ishares Msci Sweden Etf,5,60,14,29,64,1.0,10.0,3.76,0.0,6.69,25.14
+80,IYK,iShares US Consumer Staples ETF,5,60,14,29,64,1.0,10.0,3.76,7.67,5.75,23.14
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,7.49,22.51
+80,EWQ,iShares MSCI France ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,5.99,22.62
+80,IYF,iShares US Financials ETF,5,60,14,29,64,1.0,10.0,3.76,24.58,8.54,24.53
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,29,64,1.0,10.0,3.76,28.56,7.23,26.03
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,6.49,24.09
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,29,64,1.0,10.0,3.76,13.4,7.8,25.64
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,8.27,23.49
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,29,64,1.0,10.0,3.76,26.48,7.25,25.96
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,8.7,24.54
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,29,64,1.0,10.0,3.76,38.36,6.54,23.96
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,29,64,1.0,10.0,3.76,0.0,6.67,23.23
+80,EPI,WisdomTree India Earnings Fund,5,60,14,29,64,1.0,10.0,3.76,0.0,8.24,23.04
+80,BEDZ.K,AdvisorShares Hotel ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,7.09,25.47
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,60,14,29,69,1.0,10.0,3.68,13.4,7.8,25.64
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,60,14,29,69,1.0,10.0,3.68,26.22,7.25,25.96
+80,PAWZ.K,ProShares Pet Care ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,8.7,24.54
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,60,14,29,69,1.0,10.0,3.68,38.36,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,8.39,24.61
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,8.27,23.49
+80,PPTY.K,US Diversified Real Estate ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,6.67,23.23
+80,EPI,WisdomTree India Earnings Fund,5,60,14,29,69,1.0,10.0,3.68,0.0,8.24,23.04
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,6.49,24.09
+80,IYF,iShares US Financials ETF,5,60,14,29,69,1.0,10.0,3.68,25.37,8.54,24.53
+80,EZU,iShares MSCI Eurozone ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,60,14,29,69,1.0,10.0,3.68,8.17,5.75,23.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,8.17,24.39
+80,EWD,Ishares Msci Sweden Etf,5,60,14,29,69,1.0,10.0,3.68,0.0,6.69,25.14
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,60,14,29,69,1.0,10.0,3.68,0.0,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,60,14,29,69,1.0,10.0,3.68,0.0,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,60,14,29,69,1.0,10.0,3.68,24.48,7.23,26.03
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,60,14,29,69,1.0,10.0,3.68,0.0,5.29,23.3
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,6.67,23.23
+80,EPI,WisdomTree India Earnings Fund,5,120,14,34,64,1.0,10.0,2.7,4.54,8.24,23.04
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,34,64,1.0,10.0,2.7,19.51,7.25,25.96
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,34,64,1.0,10.0,2.7,24.76,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,6.99,24.6
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,8.7,24.54
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,8.39,24.61
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,7.09,25.47
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,34,64,1.0,10.0,2.7,0.0,5.29,23.3
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,8.06,22.79
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,8.27,23.49
+80,IYF,iShares US Financials ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,8.54,24.53
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,34,64,1.0,10.0,2.7,-4.0,7.8,25.64
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,5.99,22.62
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,120,14,34,64,1.0,10.0,2.7,8.23,5.75,23.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,8.17,24.39
+80,EWD,Ishares Msci Sweden Etf,5,120,14,34,64,1.0,10.0,2.7,0.0,6.69,25.14
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,7.62,22.45
+80,INDY.O,iShares India 50 ETF,5,120,14,34,64,1.0,10.0,2.7,10.03,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,34,64,1.0,10.0,2.7,16.7,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,34,64,1.0,10.0,2.7,20.32,7.23,26.03
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,34,64,1.0,10.0,2.7,0.0,6.49,24.09
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,7.09,25.47
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,34,74,1.0,10.0,2.6,0.0,5.29,23.3
+80,EWD,Ishares Msci Sweden Etf,5,120,14,34,74,1.0,10.0,2.6,0.0,6.69,25.14
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,34,74,1.0,10.0,2.6,-4.0,7.8,25.64
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,6.49,24.09
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,34,74,1.0,10.0,2.6,18.02,7.23,26.03
+80,WWJD.K,Inspire International ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,34,74,1.0,10.0,2.6,12.17,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,120,14,34,74,1.0,10.0,2.6,6.81,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,7.62,22.45
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,120,14,34,74,1.0,10.0,2.6,9.99,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,5.99,22.62
+80,IYF,iShares US Financials ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,8.54,24.53
+80,EPI,WisdomTree India Earnings Fund,5,120,14,34,74,1.0,10.0,2.6,6.96,8.24,23.04
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,6.67,23.23
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,7.06,22.91
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,8.27,23.49
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,8.7,24.54
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,5.8,22.59
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,34,74,1.0,10.0,2.6,25.35,7.25,25.96
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,6.83,23.36
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,5.52,23.73
+80,BJK.O,VanEck Gaming ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,6.99,24.6
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,34,74,1.0,10.0,2.6,20.93,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,34,74,1.0,10.0,2.6,0.0,8.06,22.79
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,6.49,24.09
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,8.17,24.39
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,34,69,1.0,10.0,2.44,18.02,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,34,69,1.0,10.0,2.44,12.17,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,120,14,34,69,1.0,10.0,2.44,7.57,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,7.62,22.45
+80,EWD,Ishares Msci Sweden Etf,5,120,14,34,69,1.0,10.0,2.44,0.0,6.69,25.14
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,34,69,1.0,10.0,2.44,21.0,7.25,25.96
+80,IYK,iShares US Consumer Staples ETF,5,120,14,34,69,1.0,10.0,2.44,8.74,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,5.99,22.62
+80,IYF,iShares US Financials ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,8.54,24.53
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,34,69,1.0,10.0,2.44,-4.0,7.8,25.64
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,6.67,23.23
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,5.52,23.73
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,8.27,23.49
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,6.83,23.36
+80,EPI,WisdomTree India Earnings Fund,5,120,14,34,69,1.0,10.0,2.44,6.01,8.24,23.04
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,7.09,25.47
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,5.8,22.59
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,34,69,1.0,10.0,2.44,0.0,5.29,23.3
+80,BJK.O,VanEck Gaming ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,6.99,24.6
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,34,69,1.0,10.0,2.44,20.93,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,8.06,22.79
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,34,69,1.0,10.0,2.44,0.0,8.7,24.54
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,34,59,1.0,10.0,2.24,-4.0,7.8,25.64
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,7.62,22.45
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,6.49,24.09
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,34,59,1.0,10.0,2.24,14.84,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,34,59,1.0,10.0,2.24,14.81,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,120,14,34,59,1.0,10.0,2.24,8.17,7.98,22.69
+80,EWQ,iShares MSCI France ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,7.1,22.91
+80,EWD,Ishares Msci Sweden Etf,5,120,14,34,59,1.0,10.0,2.24,0.0,6.69,25.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,120,14,34,59,1.0,10.0,2.24,8.8,5.75,23.14
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,5.99,22.62
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,6.67,23.23
+80,EPI,WisdomTree India Earnings Fund,5,120,14,34,59,1.0,10.0,2.24,6.29,8.24,23.04
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,8.27,23.49
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,6.83,23.36
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,5.8,22.59
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,5.52,23.73
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,8.7,24.54
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,34,59,1.0,10.0,2.24,14.06,7.25,25.96
+80,BJK.O,VanEck Gaming ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,6.99,24.6
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,34,59,1.0,10.0,2.24,19.83,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,8.06,22.79
+80,IYF,iShares US Financials ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,8.54,24.53
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,34,59,1.0,10.0,2.24,0.0,7.09,25.47
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,34,59,1.0,10.0,2.24,0.0,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,7.09,25.47
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,8.17,24.39
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,34,54,1.0,10.0,2.05,11.75,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,34,54,1.0,10.0,2.05,10.43,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,120,14,34,54,1.0,10.0,2.05,3.42,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,7.62,22.45
+80,EWD,Ishares Msci Sweden Etf,5,120,14,34,54,1.0,10.0,2.05,0.0,6.69,25.14
+80,IYK,iShares US Consumer Staples ETF,5,120,14,34,54,1.0,10.0,2.05,9.51,5.75,23.14
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,34,54,1.0,10.0,2.05,0.0,5.29,23.3
+80,EWQ,iShares MSCI France ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,5.99,22.62
+80,IYF,iShares US Financials ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,8.54,24.53
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,6.49,24.09
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,6.67,23.23
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,34,54,1.0,10.0,2.05,-4.0,7.8,25.64
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,8.27,23.49
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,5.8,22.59
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,5.52,23.73
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,6.83,23.36
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,8.7,24.54
+80,BJK.O,VanEck Gaming ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,6.99,24.6
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,34,54,1.0,10.0,2.05,24.37,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,34,54,1.0,10.0,2.05,0.0,8.06,22.79
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,34,54,1.0,10.0,2.05,14.06,7.25,25.96
+80,EPI,WisdomTree India Earnings Fund,5,120,14,34,54,1.0,10.0,2.05,6.29,8.24,23.04
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,7.49,22.51
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,8.17,24.39
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,29,74,1.0,10.0,0.85,0.0,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,7.62,22.45
+80,EWD,Ishares Msci Sweden Etf,5,120,14,29,74,1.0,10.0,0.85,0.0,6.69,25.14
+80,IYK,iShares US Consumer Staples ETF,5,120,14,29,74,1.0,10.0,0.85,9.99,5.75,23.14
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,6.49,24.09
+80,EWQ,iShares MSCI France ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,5.99,22.62
+80,IYF,iShares US Financials ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,8.54,24.53
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,7.23,26.03
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,6.67,23.23
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,29,74,1.0,10.0,0.85,0.0,5.29,23.3
+80,BJK.O,VanEck Gaming ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,6.99,24.6
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,5.8,22.59
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,5.52,23.73
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,6.83,23.36
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,8.7,24.54
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,8.36,24.21
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,7.09,25.47
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,8.06,22.79
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,29,74,1.0,10.0,0.85,25.35,7.25,25.96
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,29,74,1.0,10.0,0.85,0.0,8.27,23.49
+80,EPI,WisdomTree India Earnings Fund,5,120,14,29,74,1.0,10.0,0.85,0.0,8.24,23.04
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,29,74,1.0,10.0,0.85,-4.0,7.8,25.64
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,7.49,22.51
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,6.49,24.09
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,29,69,1.0,10.0,0.7,0.0,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,7.62,22.45
+80,EWD,Ishares Msci Sweden Etf,5,120,14,29,69,1.0,10.0,0.7,0.0,6.69,25.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,120,14,29,69,1.0,10.0,0.7,8.74,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,5.99,22.62
+80,IYF,iShares US Financials ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,8.54,24.53
+80,EPI,WisdomTree India Earnings Fund,5,120,14,29,69,1.0,10.0,0.7,0.0,8.24,23.04
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,7.23,26.03
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,6.67,23.23
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,7.09,25.47
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,29,69,1.0,10.0,0.7,-4.0,7.8,25.64
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,29,69,1.0,10.0,0.7,0.0,5.29,23.3
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,5.8,22.59
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,5.52,23.73
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,6.83,23.36
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,8.7,24.54
+80,BJK.O,VanEck Gaming ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,6.99,24.6
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,8.06,22.79
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,29,69,1.0,10.0,0.7,21.0,7.25,25.96
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,8.27,23.49
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,29,69,1.0,10.0,0.7,0.0,8.39,24.61
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,29,64,1.0,10.0,0.64,0.0,5.29,23.3
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,29,64,1.0,10.0,0.64,-4.0,7.8,25.64
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,6.67,23.23
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,6.56,22.15
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,29,64,1.0,10.0,0.64,0.0,6.23,22.46
+80,INDY.O,iShares India 50 ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,7.98,22.69
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,7.62,22.45
+80,EWD,Ishares Msci Sweden Etf,5,120,14,29,64,1.0,10.0,0.64,0.0,6.69,25.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,120,14,29,64,1.0,10.0,0.64,8.23,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,8.95,24.02
+80,EWG,iShares MSCI Germany ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,6.04,22.96
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,5.77,23.36
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,5.99,22.62
+80,IYF,iShares US Financials ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,8.54,24.53
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,6.49,24.09
+80,EPI,WisdomTree India Earnings Fund,5,120,14,29,64,1.0,10.0,0.64,0.0,8.24,23.04
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,8.7,24.54
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,8.27,23.49
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,8.16,24.77
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,5.8,22.59
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,5.52,23.73
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,6.83,23.36
+80,BJK.O,VanEck Gaming ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,6.99,24.6
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,7.09,25.47
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,8.51,24.35
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,6.76,22.38
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,8.06,22.79
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,29,64,1.0,10.0,0.64,19.51,7.25,25.96
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,29,64,1.0,10.0,0.64,0.0,8.39,24.61
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,5.99,22.62
+80,IYF,iShares US Financials ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,8.54,24.53
+80,EPI,WisdomTree India Earnings Fund,5,120,14,29,54,1.0,10.0,0.53,0.0,8.24,23.04
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,29,54,1.0,10.0,0.53,-4.0,7.8,25.64
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,8.7,24.54
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,8.06,22.79
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,6.76,22.38
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,8.51,24.35
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,8.76,23.34
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,8.36,24.21
+80,BJK.O,VanEck Gaming ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,6.99,24.6
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,6.83,23.36
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,8.27,23.49
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,5.52,23.73
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,5.8,22.59
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,8.16,24.77
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,6.54,23.96
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,7.49,22.51
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,8.39,24.61
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,29,54,1.0,10.0,0.53,14.06,7.25,25.96
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,7.09,25.47
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,29,54,1.0,10.0,0.53,0.0,5.29,23.3
+80,EWD,Ishares Msci Sweden Etf,5,120,14,29,54,1.0,10.0,0.53,0.0,6.69,25.14
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,5.77,23.36
+80,EWG,iShares MSCI Germany ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,6.04,22.96
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,8.95,24.02
+80,EWQ,iShares MSCI France ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,7.1,22.91
+80,IYK,iShares US Consumer Staples ETF,5,120,14,29,54,1.0,10.0,0.53,9.51,5.75,23.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,8.17,24.39
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,7.62,22.45
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,6.67,23.23
+80,INDY.O,iShares India 50 ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,7.98,22.69
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,29,54,1.0,10.0,0.53,0.0,6.23,22.46
+80,WWJD.K,Inspire International ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,6.56,22.15
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,7.06,22.91
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,7.23,26.03
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,29,54,1.0,10.0,0.53,0.0,6.49,24.09
+80,FEZ,SPDR Euro Stoxx 50 ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,5.77,23.36
+80,EPI,WisdomTree India Earnings Fund,5,120,14,29,59,1.0,10.0,0.51,0.0,8.24,23.04
+80,EWG,iShares MSCI Germany ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,6.04,22.96
+80,EYLD.K,Cambria Emerging Shareholder Yield Etf,5,120,14,29,59,1.0,10.0,0.51,0.0,6.23,22.46
+80,PSCC.O,Invesco S&P SmallCap Consumer Staples ETF,5,120,14,29,59,1.0,10.0,0.51,-4.0,7.8,25.64
+80,PPTY.K,US Diversified Real Estate ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,6.67,23.23
+80,BBRE.K,JPMorgan BetaBuilders MSCI US REIT ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,6.49,24.09
+80,ILDR.K,First Trust Innovation Leaders ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,7.23,26.03
+80,REVS.K,Columbia Research Enhanced Value ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,7.06,22.91
+80,WWJD.K,Inspire International ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,6.56,22.15
+80,INDY.O,iShares India 50 ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,7.98,22.69
+80,SMOG.K,VanEck Low Carbon Energy ETF,5,120,14,29,59,1.0,10.0,0.51,14.06,7.25,25.96
+80,AVSC.K,Avantis US Small Cap Equity ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,7.62,22.45
+80,EWD,Ishares Msci Sweden Etf,5,120,14,29,59,1.0,10.0,0.51,0.0,6.69,25.14
+80,IVOV.K,Vanguard S&P Mid-Cap 400 Value Index Fund;ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,8.17,24.39
+80,IYK,iShares US Consumer Staples ETF,5,120,14,29,59,1.0,10.0,0.51,8.8,5.75,23.14
+80,EWQ,iShares MSCI France ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,7.1,22.91
+80,IVOO.K,Vanguard S&P Mid-Cap 400 Index Fund;ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,8.95,24.02
+80,EZU,iShares MSCI Eurozone ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,5.99,22.62
+80,PAWZ.K,ProShares Pet Care ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,8.06,22.79
+80,IYF,iShares US Financials ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,8.54,24.53
+80,NURE.K,Nuveen Short-Term REIT ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,5.8,22.59
+80,FDTS.O,First Trust Developed Markets ex-US SC AlphaDEX Fd,5,120,14,29,59,1.0,10.0,0.51,0.0,5.29,23.3
+80,BEDZ.K,AdvisorShares Hotel ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,7.09,25.47
+80,SPXV.K,ProShares S&P 500 Ex-Health Care ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,8.39,24.61
+80,FPXE.O,First Trust IPOX Europe Equity Opportunities ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,7.49,22.51
+80,IBRN.K,iShares Neuroscience and Healthcare ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,6.54,23.96
+80,CARZ.O,First Trust S-Network Future Vehicles & Tech ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,8.16,24.77
+80,WBIY.K,WBI Power Factor High Dividend ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,5.52,23.73
+80,AIFD.K,TCW Artificial Intelligence ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,6.76,22.38
+80,QQQN.O,VictoryShares Nasdaq Next 50 ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,6.83,23.36
+80,FTXR.O,First Trust Nasdaq Transportation ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,8.7,24.54
+80,BJK.O,VanEck Gaming ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,6.99,24.6
+80,SPXE.K,ProShares S&P 500 Ex-Energy ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,8.36,24.21
+80,IDAT.K,iShares Future Cloud 5G and Tech ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,8.76,23.34
+80,SPXN.K,ProShares S&P 500 Ex-Financials ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,8.51,24.35
+80,AIEQ.K,Amplify Ai Powered Equity ETF,5,120,14,29,59,1.0,10.0,0.51,0.0,8.27,23.49

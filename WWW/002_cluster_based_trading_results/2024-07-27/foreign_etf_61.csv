@@ -1,0 +1,1251 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,39,54,1.0,10.0,31.75,0.0,13.74,26.55
+61,FINX.O,Global X FinTech ETF,5,60,14,39,54,1.0,10.0,31.75,9.56,11.69,28.42
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,39,54,1.0,10.0,31.75,0.0,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,39,54,1.0,10.0,31.75,26.18,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,39,54,1.0,10.0,31.75,14.85,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,39,54,1.0,10.0,31.75,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,39,54,1.0,10.0,31.75,51.43,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,39,54,1.0,10.0,31.75,52.46,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,39,54,1.0,10.0,31.75,0.0,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,39,54,1.0,10.0,31.75,5.06,13.0,25.82
+61,SOCL.O,Global X Social Media ETF,5,60,14,39,54,1.0,10.0,31.75,11.28,12.08,26.49
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,39,54,1.0,10.0,31.75,427.64,14.02,25.39
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,39,54,1.0,10.0,31.75,-0.31,12.4,28.81
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,39,54,1.0,10.0,31.75,7.83,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,39,54,1.0,10.0,31.75,7.93,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,39,54,1.0,10.0,31.75,6.62,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,39,54,1.0,10.0,31.75,0.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,39,54,1.0,10.0,31.75,29.07,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,39,54,1.0,10.0,31.75,32.32,12.86,26.87
+61,IYW,iShares US Technology ETF,5,60,14,39,54,1.0,10.0,31.75,11.0,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,39,54,1.0,10.0,31.75,33.43,13.06,25.89
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,39,54,1.0,10.0,31.75,43.34,14.07,27.13
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,39,54,1.0,10.0,31.75,0.0,12.76,28.63
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,39,54,1.0,10.0,31.75,15.13,16.87,28.68
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,39,54,1.0,10.0,31.75,8.82,13.67,26.98
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,44,64,1.0,10.0,22.95,19.74,16.87,28.68
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,44,64,1.0,10.0,22.95,36.34,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,44,64,1.0,10.0,22.95,15.18,13.06,25.89
+61,IYW,iShares US Technology ETF,5,120,14,44,64,1.0,10.0,22.95,17.5,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,44,64,1.0,10.0,22.95,52.4,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,44,64,1.0,10.0,22.95,22.2,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,44,64,1.0,10.0,22.95,99.51,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,44,64,1.0,10.0,22.95,2.2,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,44,64,1.0,10.0,22.95,7.37,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,44,64,1.0,10.0,22.95,51.54,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,44,64,1.0,10.0,22.95,14.03,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,120,14,44,64,1.0,10.0,22.95,-1.87,11.69,28.42
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,44,64,1.0,10.0,22.95,-2.64,12.4,28.81
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,44,64,1.0,10.0,22.95,17.67,13.74,26.55
+61,SOCL.O,Global X Social Media ETF,5,120,14,44,64,1.0,10.0,22.95,22.71,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,44,64,1.0,10.0,22.95,23.0,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,44,64,1.0,10.0,22.95,14.74,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,44,64,1.0,10.0,22.95,34.47,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,44,64,1.0,10.0,22.95,27.99,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,44,64,1.0,10.0,22.95,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,44,64,1.0,10.0,22.95,41.7,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,44,64,1.0,10.0,22.95,24.36,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,44,64,1.0,10.0,22.95,7.31,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,44,64,1.0,10.0,22.95,0.0,12.76,28.63
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,44,64,1.0,10.0,22.95,26.24,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,44,54,1.0,10.0,22.21,37.64,14.07,27.13
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,44,54,1.0,10.0,22.21,-3.17,16.87,28.68
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,44,54,1.0,10.0,22.21,-0.31,12.4,28.81
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,44,54,1.0,10.0,22.21,36.88,13.06,25.89
+61,IYW,iShares US Technology ETF,5,60,14,44,54,1.0,10.0,22.21,11.0,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,44,54,1.0,10.0,22.21,26.74,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,44,54,1.0,10.0,22.21,55.37,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,44,54,1.0,10.0,22.21,78.53,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,44,54,1.0,10.0,22.21,6.62,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,44,54,1.0,10.0,22.21,7.93,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,44,54,1.0,10.0,22.21,7.83,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,44,54,1.0,10.0,22.21,22.87,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,60,14,44,54,1.0,10.0,22.21,-7.97,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,44,54,1.0,10.0,22.21,7.36,13.74,26.55
+61,SOCL.O,Global X Social Media ETF,5,60,14,44,54,1.0,10.0,22.21,14.03,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,44,54,1.0,10.0,22.21,5.12,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,44,54,1.0,10.0,22.21,79.17,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,44,54,1.0,10.0,22.21,20.28,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,44,54,1.0,10.0,22.21,53.98,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,44,54,1.0,10.0,22.21,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,44,54,1.0,10.0,22.21,38.78,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,44,54,1.0,10.0,22.21,2.97,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,44,54,1.0,10.0,22.21,19.78,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,44,54,1.0,10.0,22.21,4.0,12.76,28.63
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,44,54,1.0,10.0,22.21,29.8,13.67,26.98
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,44,59,1.0,10.0,21.92,12.48,16.87,28.68
+61,FINX.O,Global X FinTech ETF,5,120,14,44,59,1.0,10.0,21.92,-1.87,11.69,28.42
+61,SOCL.O,Global X Social Media ETF,5,120,14,44,59,1.0,10.0,21.92,23.52,12.08,26.49
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,44,59,1.0,10.0,21.92,0.0,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,44,59,1.0,10.0,21.92,27.05,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,44,59,1.0,10.0,21.92,19.03,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,44,59,1.0,10.0,21.92,24.9,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,44,59,1.0,10.0,21.92,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,44,59,1.0,10.0,21.92,36.03,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,44,59,1.0,10.0,21.92,34.47,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,44,59,1.0,10.0,21.92,12.68,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,44,59,1.0,10.0,21.92,15.35,13.0,25.82
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,44,59,1.0,10.0,21.92,14.17,13.74,26.55
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,44,59,1.0,10.0,21.92,18.77,13.67,26.98
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,44,59,1.0,10.0,21.92,13.66,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,44,59,1.0,10.0,21.92,53.66,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,44,59,1.0,10.0,21.92,5.17,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,44,59,1.0,10.0,21.92,2.2,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,44,59,1.0,10.0,21.92,99.51,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,44,59,1.0,10.0,21.92,22.86,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,44,59,1.0,10.0,21.92,53.5,12.86,26.87
+61,IYW,iShares US Technology ETF,5,120,14,44,59,1.0,10.0,21.92,14.27,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,44,59,1.0,10.0,21.92,10.12,13.06,25.89
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,44,59,1.0,10.0,21.92,-2.64,12.4,28.81
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,44,59,1.0,10.0,21.92,39.21,14.07,27.13
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,49,54,1.0,10.0,21.85,40.51,14.07,27.13
+61,FINX.O,Global X FinTech ETF,5,60,14,49,54,1.0,10.0,21.85,-7.97,11.69,28.42
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,49,54,1.0,10.0,21.85,29.8,13.67,26.98
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,49,54,1.0,10.0,21.85,-3.17,16.87,28.68
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,49,54,1.0,10.0,21.85,33.56,13.06,25.89
+61,IYW,iShares US Technology ETF,5,60,14,49,54,1.0,10.0,21.85,12.34,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,49,54,1.0,10.0,21.85,10.64,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,49,54,1.0,10.0,21.85,42.75,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,49,54,1.0,10.0,21.85,24.59,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,49,54,1.0,10.0,21.85,-4.61,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,49,54,1.0,10.0,21.85,8.89,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,49,54,1.0,10.0,21.85,11.23,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,49,54,1.0,10.0,21.85,18.23,14.02,25.39
+61,SOCL.O,Global X Social Media ETF,5,60,14,49,54,1.0,10.0,21.85,21.97,12.08,26.49
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,49,54,1.0,10.0,21.85,19.08,13.74,26.55
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,49,54,1.0,10.0,21.85,0.0,11.93,28.7
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,49,54,1.0,10.0,21.85,21.31,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,49,54,1.0,10.0,21.85,5.47,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,49,54,1.0,10.0,21.85,42.16,15.66,26.26
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,49,54,1.0,10.0,21.85,4.0,12.76,28.63
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,49,54,1.0,10.0,21.85,89.58,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,49,54,1.0,10.0,21.85,13.31,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,49,54,1.0,10.0,21.85,99.37,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,49,54,1.0,10.0,21.85,13.5,13.0,25.82
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,49,54,1.0,10.0,21.85,-0.31,12.4,28.81
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,49,54,1.0,10.0,20.13,22.95,13.74,26.55
+61,IYW,iShares US Technology ETF,5,120,14,49,54,1.0,10.0,20.13,9.92,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,49,54,1.0,10.0,20.13,8.07,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,49,54,1.0,10.0,20.13,38.44,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,49,54,1.0,10.0,20.13,24.31,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,49,54,1.0,10.0,20.13,1.1,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,49,54,1.0,10.0,20.13,0.86,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,49,54,1.0,10.0,20.13,7.54,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,49,54,1.0,10.0,20.13,19.45,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,120,14,49,54,1.0,10.0,20.13,0.7,11.69,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,49,54,1.0,10.0,20.13,23.96,13.47,25.69
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,49,54,1.0,10.0,20.13,14.75,13.67,26.98
+61,SOCL.O,Global X Social Media ETF,5,120,14,49,54,1.0,10.0,20.13,30.79,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,49,54,1.0,10.0,20.13,7.15,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,49,54,1.0,10.0,20.13,79.97,14.15,26.2
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,49,54,1.0,10.0,20.13,-2.64,12.4,28.81
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,49,54,1.0,10.0,20.13,72.62,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,49,54,1.0,10.0,20.13,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,49,54,1.0,10.0,20.13,26.82,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,49,54,1.0,10.0,20.13,20.77,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,49,54,1.0,10.0,20.13,24.68,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,49,54,1.0,10.0,20.13,4.05,12.76,28.63
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,49,54,1.0,10.0,20.13,9.77,16.87,28.68
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,49,54,1.0,10.0,20.13,19.65,13.06,25.89
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,49,54,1.0,10.0,20.13,37.53,14.07,27.13
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,44,54,1.0,10.0,19.03,9.77,16.87,28.68
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,44,54,1.0,10.0,19.03,33.34,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,44,54,1.0,10.0,19.03,19.83,13.06,25.89
+61,IYW,iShares US Technology ETF,5,120,14,44,54,1.0,10.0,19.03,10.04,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,44,54,1.0,10.0,19.03,42.17,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,44,54,1.0,10.0,19.03,56.09,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,44,54,1.0,10.0,19.03,49.2,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,44,54,1.0,10.0,19.03,1.1,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,44,54,1.0,10.0,19.03,4.59,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,44,54,1.0,10.0,19.03,40.26,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,44,54,1.0,10.0,19.03,19.87,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,120,14,44,54,1.0,10.0,19.03,0.7,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,44,54,1.0,10.0,19.03,9.56,13.74,26.55
+61,SOCL.O,Global X Social Media ETF,5,120,14,44,54,1.0,10.0,19.03,25.86,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,44,54,1.0,10.0,19.03,1.35,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,44,54,1.0,10.0,19.03,79.17,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,44,54,1.0,10.0,19.03,17.63,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,44,54,1.0,10.0,19.03,61.35,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,44,54,1.0,10.0,19.03,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,44,54,1.0,10.0,19.03,-89.1,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,44,54,1.0,10.0,19.03,16.71,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,44,54,1.0,10.0,19.03,24.68,16.16,27.07
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,44,54,1.0,10.0,19.03,44.31,13.67,26.98
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,44,54,1.0,10.0,19.03,-2.64,12.4,28.81
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,44,54,1.0,10.0,19.03,0.0,12.76,28.63
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,44,69,1.0,10.0,17.13,14.82,16.87,28.68
+61,SOCL.O,Global X Social Media ETF,5,120,14,44,69,1.0,10.0,17.13,25.71,12.08,26.49
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,44,69,1.0,10.0,17.13,-2.64,12.4,28.81
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,44,69,1.0,10.0,17.13,0.0,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,44,69,1.0,10.0,17.13,7.31,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,44,69,1.0,10.0,17.13,24.79,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,44,69,1.0,10.0,17.13,21.16,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,44,69,1.0,10.0,17.13,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,44,69,1.0,10.0,17.13,18.91,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,44,69,1.0,10.0,17.13,29.83,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,44,69,1.0,10.0,17.13,14.74,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,44,69,1.0,10.0,17.13,10.62,13.0,25.82
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,44,69,1.0,10.0,17.13,17.67,13.74,26.55
+61,FINX.O,Global X FinTech ETF,5,120,14,44,69,1.0,10.0,17.13,-1.87,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,44,69,1.0,10.0,17.13,13.72,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,44,69,1.0,10.0,17.13,12.38,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,44,69,1.0,10.0,17.13,12.35,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,44,69,1.0,10.0,17.13,2.2,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,44,69,1.0,10.0,17.13,38.61,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,44,69,1.0,10.0,17.13,25.97,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,44,69,1.0,10.0,17.13,56.3,12.86,26.87
+61,IYW,iShares US Technology ETF,5,120,14,44,69,1.0,10.0,17.13,15.24,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,44,69,1.0,10.0,17.13,18.48,13.06,25.89
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,44,69,1.0,10.0,17.13,24.58,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,44,69,1.0,10.0,17.13,27.46,14.07,27.13
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,39,64,1.0,10.0,16.64,0.0,13.67,26.98
+61,SOCL.O,Global X Social Media ETF,5,120,14,39,64,1.0,10.0,16.64,18.16,12.08,26.49
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,39,64,1.0,10.0,16.64,36.34,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,39,64,1.0,10.0,16.64,0.0,13.06,25.89
+61,IYW,iShares US Technology ETF,5,120,14,39,64,1.0,10.0,16.64,17.5,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,39,64,1.0,10.0,16.64,29.16,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,39,64,1.0,10.0,16.64,22.07,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,39,64,1.0,10.0,16.64,0.0,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,39,64,1.0,10.0,16.64,8.3,13.21,27.57
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,39,64,1.0,10.0,16.64,51.54,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,39,64,1.0,10.0,16.64,0.0,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,120,14,39,64,1.0,10.0,16.64,-1.87,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,39,64,1.0,10.0,16.64,0.0,13.74,26.55
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,39,64,1.0,10.0,16.64,20.07,15.38,27.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,39,64,1.0,10.0,16.64,66.25,13.0,25.82
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,39,64,1.0,10.0,16.64,77.05,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,39,64,1.0,10.0,16.64,23.9,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,39,64,1.0,10.0,16.64,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,39,64,1.0,10.0,16.64,0.0,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,39,64,1.0,10.0,16.64,30.51,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,39,64,1.0,10.0,16.64,0.0,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,39,64,1.0,10.0,16.64,0.0,12.76,28.63
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,39,64,1.0,10.0,16.64,-2.64,12.4,28.81
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,39,64,1.0,10.0,16.64,0.0,14.15,26.2
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,39,64,1.0,10.0,16.64,19.74,16.87,28.68
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,44,59,1.0,10.0,16.45,0.0,11.93,28.7
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,44,59,1.0,10.0,16.45,12.88,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,44,59,1.0,10.0,16.45,12.68,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,44,59,1.0,10.0,16.45,22.71,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,44,59,1.0,10.0,16.45,23.19,14.32,28.42
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,44,59,1.0,10.0,16.45,-0.31,12.4,28.81
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,44,59,1.0,10.0,16.45,32.64,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,44,59,1.0,10.0,16.45,8.86,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,44,59,1.0,10.0,16.45,21.79,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,44,59,1.0,10.0,16.45,8.27,12.76,28.63
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,44,59,1.0,10.0,16.45,11.84,13.74,26.55
+61,SOCL.O,Global X Social Media ETF,5,60,14,44,59,1.0,10.0,16.45,14.23,12.08,26.49
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,44,59,1.0,10.0,16.45,38.18,14.07,27.13
+61,FINX.O,Global X FinTech ETF,5,60,14,44,59,1.0,10.0,16.45,-8.84,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,44,59,1.0,10.0,16.45,12.79,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,44,59,1.0,10.0,16.45,13.39,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,44,59,1.0,10.0,16.45,8.41,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,44,59,1.0,10.0,16.45,6.85,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,44,59,1.0,10.0,16.45,73.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,44,59,1.0,10.0,16.45,20.63,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,44,59,1.0,10.0,16.45,39.67,12.86,26.87
+61,IYW,iShares US Technology ETF,5,60,14,44,59,1.0,10.0,16.45,14.89,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,44,59,1.0,10.0,16.45,11.44,13.06,25.89
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,44,59,1.0,10.0,16.45,-0.75,16.87,28.68
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,44,59,1.0,10.0,16.45,12.85,13.67,26.98
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,39,54,1.0,10.0,15.79,0.0,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,39,54,1.0,10.0,15.79,33.34,14.07,27.13
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,39,54,1.0,10.0,15.79,0.0,13.74,26.55
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,39,54,1.0,10.0,15.79,0.0,11.93,28.7
+61,SOCL.O,Global X Social Media ETF,5,120,14,39,54,1.0,10.0,15.79,22.53,12.08,26.49
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,39,54,1.0,10.0,15.79,9.77,16.87,28.68
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,39,54,1.0,10.0,15.79,-2.64,12.4,28.81
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,39,54,1.0,10.0,15.79,0.0,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,39,54,1.0,10.0,15.79,0.0,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,39,54,1.0,10.0,15.79,26.18,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,39,54,1.0,10.0,15.79,0.0,15.66,26.26
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,39,54,1.0,10.0,15.79,59.29,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,39,54,1.0,10.0,15.79,65.22,13.47,25.69
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,39,54,1.0,10.0,15.79,22.54,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,39,54,1.0,10.0,15.79,0.0,14.15,26.2
+61,FINX.O,Global X FinTech ETF,5,120,14,39,54,1.0,10.0,15.79,0.7,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,39,54,1.0,10.0,15.79,0.0,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,39,54,1.0,10.0,15.79,40.26,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,39,54,1.0,10.0,15.79,17.33,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,39,54,1.0,10.0,15.79,8.36,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,39,54,1.0,10.0,15.79,0.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,39,54,1.0,10.0,15.79,57.46,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,39,54,1.0,10.0,15.79,24.3,12.86,26.87
+61,IYW,iShares US Technology ETF,5,120,14,39,54,1.0,10.0,15.79,10.04,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,39,54,1.0,10.0,15.79,0.0,13.06,25.89
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,39,59,1.0,10.0,15.59,0.0,11.93,28.7
+61,SOCL.O,Global X Social Media ETF,5,120,14,39,59,1.0,10.0,15.59,18.16,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,39,59,1.0,10.0,15.59,39.7,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,39,59,1.0,10.0,15.59,0.0,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,39,59,1.0,10.0,15.59,77.05,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,39,59,1.0,10.0,15.59,27.69,14.32,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,39,59,1.0,10.0,15.59,0.0,13.74,26.55
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,39,59,1.0,10.0,15.59,0.0,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,39,59,1.0,10.0,15.59,24.48,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,39,59,1.0,10.0,15.59,0.0,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,39,59,1.0,10.0,15.59,0.0,12.76,28.63
+61,FINX.O,Global X FinTech ETF,5,120,14,39,59,1.0,10.0,15.59,-1.87,11.69,28.42
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,39,59,1.0,10.0,15.59,12.48,16.87,28.68
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,39,59,1.0,10.0,15.59,32.57,13.15,25.41
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,39,59,1.0,10.0,15.59,0.0,14.02,25.39
+61,IYW,iShares US Technology ETF,5,120,14,39,59,1.0,10.0,15.59,14.27,14.89,29.78
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,39,59,1.0,10.0,15.59,53.66,12.18,28.16
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,39,59,1.0,10.0,15.59,0.0,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,39,59,1.0,10.0,15.59,39.21,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,39,59,1.0,10.0,15.59,0.0,13.06,25.89
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,39,59,1.0,10.0,15.59,-2.64,12.4,28.81
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,39,59,1.0,10.0,15.59,29.16,12.86,26.87
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,39,59,1.0,10.0,15.59,0.0,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,39,59,1.0,10.0,15.59,8.3,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,39,59,1.0,10.0,15.59,17.57,15.38,27.2
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,44,64,1.0,10.0,14.7,15.49,13.74,26.55
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,44,64,1.0,10.0,14.7,16.12,13.06,25.89
+61,IYW,iShares US Technology ETF,5,60,14,44,64,1.0,10.0,14.7,17.89,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,44,64,1.0,10.0,14.7,23.44,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,44,64,1.0,10.0,14.7,20.4,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,44,64,1.0,10.0,14.7,41.04,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,44,64,1.0,10.0,14.7,6.85,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,44,64,1.0,10.0,14.7,10.52,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,44,64,1.0,10.0,14.7,13.46,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,44,64,1.0,10.0,14.7,13.55,14.02,25.39
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,44,64,1.0,10.0,14.7,22.22,14.07,27.13
+61,FINX.O,Global X FinTech ETF,5,60,14,44,64,1.0,10.0,14.7,-8.84,11.69,28.42
+61,SOCL.O,Global X Social Media ETF,5,60,14,44,64,1.0,10.0,14.7,16.65,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,44,64,1.0,10.0,14.7,17.05,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,44,64,1.0,10.0,14.7,14.74,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,44,64,1.0,10.0,14.7,21.86,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,44,64,1.0,10.0,14.7,23.15,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,44,64,1.0,10.0,14.7,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,44,64,1.0,10.0,14.7,29.03,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,44,64,1.0,10.0,14.7,13.15,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,44,64,1.0,10.0,14.7,7.71,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,44,64,1.0,10.0,14.7,8.27,12.76,28.63
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,44,64,1.0,10.0,14.7,-0.31,12.4,28.81
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,44,64,1.0,10.0,14.7,4.89,16.87,28.68
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,44,64,1.0,10.0,14.7,19.09,13.67,26.98
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,44,69,1.0,10.0,14.69,15.49,13.74,26.55
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,44,69,1.0,10.0,14.69,8.27,12.76,28.63
+61,FINX.O,Global X FinTech ETF,5,60,14,44,69,1.0,10.0,14.69,-8.84,11.69,28.42
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,44,69,1.0,10.0,14.69,3.64,16.87,28.68
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,44,69,1.0,10.0,14.69,-0.31,12.4,28.81
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,44,69,1.0,10.0,14.69,7.71,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,44,69,1.0,10.0,14.69,15.08,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,44,69,1.0,10.0,14.69,29.95,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,44,69,1.0,10.0,14.69,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,44,69,1.0,10.0,14.69,18.78,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,44,69,1.0,10.0,14.69,22.28,13.47,25.69
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,44,69,1.0,10.0,14.69,13.55,13.0,25.82
+61,SOCL.O,Global X Social Media ETF,5,60,14,44,69,1.0,10.0,14.69,19.34,12.08,26.49
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,44,69,1.0,10.0,14.69,14.74,14.15,26.2
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,44,69,1.0,10.0,14.69,14.51,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,44,69,1.0,10.0,14.69,2.97,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,44,69,1.0,10.0,14.69,14.91,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,44,69,1.0,10.0,14.69,6.85,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,44,69,1.0,10.0,14.69,37.81,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,44,69,1.0,10.0,14.69,23.89,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,44,69,1.0,10.0,14.69,26.96,12.86,26.87
+61,IYW,iShares US Technology ETF,5,60,14,44,69,1.0,10.0,14.69,15.74,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,44,69,1.0,10.0,14.69,19.29,13.06,25.89
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,44,69,1.0,10.0,14.69,25.82,14.07,27.13
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,44,69,1.0,10.0,14.69,18.94,13.67,26.98
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,49,59,1.0,10.0,14.4,4.11,12.18,28.16
+61,SOCL.O,Global X Social Media ETF,5,120,14,49,59,1.0,10.0,14.4,28.42,12.08,26.49
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,49,59,1.0,10.0,14.4,14.17,13.74,26.55
+61,FINX.O,Global X FinTech ETF,5,120,14,49,59,1.0,10.0,14.4,-1.87,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,49,59,1.0,10.0,14.4,13.67,14.02,25.39
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,49,59,1.0,10.0,14.4,13.14,14.25,26.4
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,49,59,1.0,10.0,14.4,1.45,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,49,59,1.0,10.0,14.4,2.2,13.21,27.57
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,49,59,1.0,10.0,14.4,22.86,13.15,25.41
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,49,59,1.0,10.0,14.4,12.68,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,49,59,1.0,10.0,14.4,15.24,13.0,25.82
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,49,59,1.0,10.0,14.4,11.55,13.67,26.98
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,49,59,1.0,10.0,14.4,21.3,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,49,59,1.0,10.0,14.4,35.76,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,49,59,1.0,10.0,14.4,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,49,59,1.0,10.0,14.4,14.91,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,49,59,1.0,10.0,14.4,19.03,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,49,59,1.0,10.0,14.4,27.05,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,49,59,1.0,10.0,14.4,9.07,12.76,28.63
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,49,59,1.0,10.0,14.4,-2.64,12.4,28.81
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,49,59,1.0,10.0,14.4,10.12,13.06,25.89
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,49,59,1.0,10.0,14.4,22.65,12.86,26.87
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,49,59,1.0,10.0,14.4,38.69,14.07,27.13
+61,IYW,iShares US Technology ETF,5,120,14,49,59,1.0,10.0,14.4,14.09,14.89,29.78
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,49,59,1.0,10.0,14.4,12.48,16.87,28.68
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,44,74,1.0,10.0,14.2,25.69,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,44,74,1.0,10.0,14.2,30.14,14.07,27.13
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,39,64,1.0,10.0,14.2,42.58,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,39,64,1.0,10.0,14.2,12.11,13.06,25.89
+61,IYW,iShares US Technology ETF,5,60,14,39,64,1.0,10.0,14.2,17.89,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,39,64,1.0,10.0,14.2,34.52,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,39,64,1.0,10.0,14.2,15.64,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,39,64,1.0,10.0,14.2,0.0,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,39,64,1.0,10.0,14.2,6.85,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,39,64,1.0,10.0,14.2,10.52,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,39,64,1.0,10.0,14.2,13.46,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,39,64,1.0,10.0,14.2,39.05,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,60,14,39,64,1.0,10.0,14.2,5.41,11.69,28.42
+61,SOCL.O,Global X Social Media ETF,5,60,14,39,64,1.0,10.0,14.2,8.78,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,39,64,1.0,10.0,14.2,16.57,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,39,64,1.0,10.0,14.2,0.0,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,39,64,1.0,10.0,14.2,21.86,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,39,64,1.0,10.0,14.2,22.76,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,39,64,1.0,10.0,14.2,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,39,64,1.0,10.0,14.2,14.21,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,39,64,1.0,10.0,14.2,30.51,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,39,64,1.0,10.0,14.2,0.0,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,39,64,1.0,10.0,14.2,0.0,12.76,28.63
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,39,64,1.0,10.0,14.2,18.04,13.67,26.98
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,44,74,1.0,10.0,14.2,19.69,13.06,25.89
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,39,64,1.0,10.0,14.2,24.58,16.87,28.68
+61,IYW,iShares US Technology ETF,5,120,14,44,74,1.0,10.0,14.2,15.24,14.89,29.78
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,44,74,1.0,10.0,14.2,14.82,16.87,28.68
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,44,74,1.0,10.0,14.2,-2.64,12.4,28.81
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,44,74,1.0,10.0,14.2,0.0,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,44,74,1.0,10.0,14.2,7.31,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,44,74,1.0,10.0,14.2,20.59,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,44,74,1.0,10.0,14.2,23.32,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,44,74,1.0,10.0,14.2,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,44,74,1.0,10.0,14.2,10.9,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,44,74,1.0,10.0,14.2,12.13,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,44,74,1.0,10.0,14.2,14.74,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,44,74,1.0,10.0,14.2,8.06,13.0,25.82
+61,SOCL.O,Global X Social Media ETF,5,120,14,44,74,1.0,10.0,14.2,27.61,12.08,26.49
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,44,74,1.0,10.0,14.2,17.67,13.74,26.55
+61,FINX.O,Global X FinTech ETF,5,120,14,44,74,1.0,10.0,14.2,-1.87,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,44,74,1.0,10.0,14.2,7.64,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,44,74,1.0,10.0,14.2,12.38,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,44,74,1.0,10.0,14.2,14.39,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,44,74,1.0,10.0,14.2,2.2,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,44,74,1.0,10.0,14.2,38.61,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,44,74,1.0,10.0,14.2,25.97,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,44,74,1.0,10.0,14.2,10.41,12.86,26.87
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,39,64,1.0,10.0,14.2,-0.31,12.4,28.81
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,39,64,1.0,10.0,14.2,0.0,13.74,26.55
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,49,69,1.0,10.0,13.86,-2.64,12.4,28.81
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,49,69,1.0,10.0,13.86,14.82,16.87,28.68
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,49,69,1.0,10.0,13.86,18.59,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,49,69,1.0,10.0,13.86,25.41,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,49,69,1.0,10.0,13.86,18.48,13.06,25.89
+61,IYW,iShares US Technology ETF,5,120,14,49,69,1.0,10.0,13.86,18.73,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,49,69,1.0,10.0,13.86,13.92,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,49,69,1.0,10.0,13.86,25.97,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,49,69,1.0,10.0,13.86,11.62,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,49,69,1.0,10.0,13.86,2.2,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,49,69,1.0,10.0,13.86,8.42,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,49,69,1.0,10.0,13.86,2.27,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,49,69,1.0,10.0,13.86,15.14,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,120,14,49,69,1.0,10.0,13.86,-1.87,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,49,69,1.0,10.0,13.86,17.67,13.74,26.55
+61,SOCL.O,Global X Social Media ETF,5,120,14,49,69,1.0,10.0,13.86,30.06,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,49,69,1.0,10.0,13.86,11.22,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,49,69,1.0,10.0,13.86,14.74,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,49,69,1.0,10.0,13.86,21.83,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,49,69,1.0,10.0,13.86,18.91,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,49,69,1.0,10.0,13.86,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,49,69,1.0,10.0,13.86,19.74,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,49,69,1.0,10.0,13.86,24.79,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,49,69,1.0,10.0,13.86,7.31,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,49,69,1.0,10.0,13.86,9.07,12.76,28.63
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,39,69,1.0,10.0,13.8,30.71,14.07,27.13
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,39,69,1.0,10.0,13.8,18.66,16.87,28.68
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,39,69,1.0,10.0,13.8,23.47,13.67,26.98
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,39,69,1.0,10.0,13.8,0.0,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,39,69,1.0,10.0,13.8,29.76,12.76,25.88
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,39,69,1.0,10.0,13.8,0.0,12.76,28.63
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,39,69,1.0,10.0,13.8,-0.31,12.4,28.81
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,39,69,1.0,10.0,13.8,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,39,69,1.0,10.0,13.8,22.76,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,39,69,1.0,10.0,13.8,22.28,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,39,69,1.0,10.0,13.8,0.0,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,39,69,1.0,10.0,13.8,22.02,13.0,25.82
+61,SOCL.O,Global X Social Media ETF,5,60,14,39,69,1.0,10.0,13.8,8.78,12.08,26.49
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,39,69,1.0,10.0,13.8,0.0,13.74,26.55
+61,FINX.O,Global X FinTech ETF,5,60,14,39,69,1.0,10.0,13.8,5.41,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,39,69,1.0,10.0,13.8,39.05,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,39,69,1.0,10.0,13.8,2.97,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,39,69,1.0,10.0,13.8,14.91,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,39,69,1.0,10.0,13.8,6.85,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,39,69,1.0,10.0,13.8,0.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,39,69,1.0,10.0,13.8,15.64,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,39,69,1.0,10.0,13.8,34.52,12.86,26.87
+61,IYW,iShares US Technology ETF,5,60,14,39,69,1.0,10.0,13.8,15.74,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,39,69,1.0,10.0,13.8,17.64,13.06,25.89
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,39,69,1.0,10.0,13.8,14.21,15.66,26.26
+61,IYW,iShares US Technology ETF,5,120,14,49,64,1.0,10.0,13.68,19.39,14.89,29.78
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,49,64,1.0,10.0,13.68,2.2,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,49,64,1.0,10.0,13.68,3.43,15.38,27.2
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,49,64,1.0,10.0,13.68,10.01,12.86,26.87
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,49,64,1.0,10.0,13.68,4.35,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,49,64,1.0,10.0,13.68,15.58,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,120,14,49,64,1.0,10.0,13.68,-1.87,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,49,64,1.0,10.0,13.68,17.67,13.74,26.55
+61,SOCL.O,Global X Social Media ETF,5,120,14,49,64,1.0,10.0,13.68,26.87,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,49,64,1.0,10.0,13.68,14.03,13.0,25.82
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,49,64,1.0,10.0,13.68,13.14,14.25,26.4
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,49,64,1.0,10.0,13.68,21.38,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,49,64,1.0,10.0,13.68,28.74,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,49,64,1.0,10.0,13.68,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,49,64,1.0,10.0,13.68,16.12,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,49,64,1.0,10.0,13.68,24.36,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,49,64,1.0,10.0,13.68,7.31,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,49,64,1.0,10.0,13.68,9.07,12.76,28.63
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,49,64,1.0,10.0,13.68,-2.64,12.4,28.81
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,49,64,1.0,10.0,13.68,19.74,16.87,28.68
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,49,64,1.0,10.0,13.68,22.2,13.15,25.41
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,49,64,1.0,10.0,13.68,14.74,14.15,26.2
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,49,64,1.0,10.0,13.68,15.18,13.06,25.89
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,49,64,1.0,10.0,13.68,18.69,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,49,64,1.0,10.0,13.68,22.31,14.07,27.13
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,44,74,1.0,10.0,13.55,-0.31,12.4,28.81
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,44,74,1.0,10.0,13.55,2.97,12.18,28.16
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,44,74,1.0,10.0,13.55,3.64,16.87,28.68
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,44,74,1.0,10.0,13.55,19.88,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,44,74,1.0,10.0,13.55,27.28,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,44,74,1.0,10.0,13.55,20.45,13.06,25.89
+61,IYW,iShares US Technology ETF,5,60,14,44,74,1.0,10.0,13.55,15.74,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,44,74,1.0,10.0,13.55,10.59,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,44,74,1.0,10.0,13.55,23.89,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,44,74,1.0,10.0,13.55,41.44,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,44,74,1.0,10.0,13.55,6.85,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,44,74,1.0,10.0,13.55,16.89,15.38,27.2
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,44,74,1.0,10.0,13.55,15.49,13.74,26.55
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,44,74,1.0,10.0,13.55,10.54,14.02,25.39
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,44,74,1.0,10.0,13.55,0.0,11.93,28.7
+61,FINX.O,Global X FinTech ETF,5,60,14,44,74,1.0,10.0,13.55,-8.84,11.69,28.42
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,44,74,1.0,10.0,13.55,8.27,12.76,28.63
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,44,74,1.0,10.0,13.55,12.11,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,44,74,1.0,10.0,13.55,30.93,15.66,26.26
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,44,74,1.0,10.0,13.55,7.71,16.16,27.07
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,44,74,1.0,10.0,13.55,11.99,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,44,74,1.0,10.0,13.55,13.58,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,44,74,1.0,10.0,13.55,14.74,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,44,74,1.0,10.0,13.55,11.75,13.0,25.82
+61,SOCL.O,Global X Social Media ETF,5,60,14,44,74,1.0,10.0,13.55,21.1,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,39,59,1.0,10.0,13.32,10.23,13.0,25.82
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,39,59,1.0,10.0,13.32,17.56,16.87,28.68
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,39,59,1.0,10.0,13.32,-0.31,12.4,28.81
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,39,59,1.0,10.0,13.32,0.0,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,39,59,1.0,10.0,13.32,0.0,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,39,59,1.0,10.0,13.32,24.48,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,39,59,1.0,10.0,13.32,15.91,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,39,59,1.0,10.0,13.32,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,39,59,1.0,10.0,13.32,25.25,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,39,59,1.0,10.0,13.32,22.71,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,39,59,1.0,10.0,13.32,0.0,14.15,26.2
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,39,59,1.0,10.0,13.32,8.41,15.38,27.2
+61,SOCL.O,Global X Social Media ETF,5,60,14,39,59,1.0,10.0,13.32,8.78,12.08,26.49
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,39,59,1.0,10.0,13.32,0.0,13.74,26.55
+61,FINX.O,Global X FinTech ETF,5,60,14,39,59,1.0,10.0,13.32,5.41,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,39,59,1.0,10.0,13.32,39.05,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,39,59,1.0,10.0,13.32,13.39,12.18,28.16
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,39,59,1.0,10.0,13.32,6.85,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,39,59,1.0,10.0,13.32,0.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,39,59,1.0,10.0,13.32,22.0,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,39,59,1.0,10.0,13.32,34.52,12.86,26.87
+61,IYW,iShares US Technology ETF,5,60,14,39,59,1.0,10.0,13.32,14.89,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,39,59,1.0,10.0,13.32,7.32,13.06,25.89
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,39,59,1.0,10.0,13.32,9.37,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,39,59,1.0,10.0,13.32,47.13,14.07,27.13
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,39,74,1.0,10.0,13.31,18.66,16.87,28.68
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,39,74,1.0,10.0,13.31,0.0,12.76,28.63
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,39,74,1.0,10.0,13.31,39.05,14.02,25.39
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,39,74,1.0,10.0,13.31,-0.31,12.4,28.81
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,39,74,1.0,10.0,13.31,25.17,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,39,74,1.0,10.0,13.31,33.06,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,39,74,1.0,10.0,13.31,19.78,13.06,25.89
+61,IYW,iShares US Technology ETF,5,60,14,39,74,1.0,10.0,13.31,15.74,14.89,29.78
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,39,74,1.0,10.0,13.31,15.64,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,39,74,1.0,10.0,13.31,0.0,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,39,74,1.0,10.0,13.31,6.85,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,39,74,1.0,10.0,13.31,16.89,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,39,74,1.0,10.0,13.31,2.97,12.18,28.16
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,39,74,1.0,10.0,13.31,34.52,12.86,26.87
+61,FINX.O,Global X FinTech ETF,5,60,14,39,74,1.0,10.0,13.31,5.41,11.69,28.42
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,39,74,1.0,10.0,13.31,22.76,14.32,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,39,74,1.0,10.0,13.31,0.0,13.74,26.55
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,39,74,1.0,10.0,13.31,24.73,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,39,74,1.0,10.0,13.31,14.21,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,39,74,1.0,10.0,13.31,0.0,11.93,28.7
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,39,74,1.0,10.0,13.31,0.0,16.16,27.07
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,39,74,1.0,10.0,13.31,13.58,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,39,74,1.0,10.0,13.31,0.0,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,39,74,1.0,10.0,13.31,15.23,13.0,25.82
+61,SOCL.O,Global X Social Media ETF,5,60,14,39,74,1.0,10.0,13.31,8.78,12.08,26.49
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,49,69,1.0,10.0,13.19,15.49,13.74,26.55
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,49,69,1.0,10.0,13.19,-0.31,12.4,28.81
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,49,69,1.0,10.0,13.19,8.27,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,49,69,1.0,10.0,13.19,7.71,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,49,69,1.0,10.0,13.19,15.08,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,49,69,1.0,10.0,13.19,20.83,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,49,69,1.0,10.0,13.19,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,49,69,1.0,10.0,13.19,18.78,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,49,69,1.0,10.0,13.19,16.39,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,49,69,1.0,10.0,13.19,12.77,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,49,69,1.0,10.0,13.19,13.67,13.0,25.82
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,49,69,1.0,10.0,13.19,3.64,16.87,28.68
+61,SOCL.O,Global X Social Media ETF,5,60,14,49,69,1.0,10.0,13.19,23.0,12.08,26.49
+61,FINX.O,Global X FinTech ETF,5,60,14,49,69,1.0,10.0,13.19,-8.84,11.69,28.42
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,49,69,1.0,10.0,13.19,23.89,13.15,25.41
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,49,69,1.0,10.0,13.19,18.94,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,49,69,1.0,10.0,13.19,22.87,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,49,69,1.0,10.0,13.19,18.28,13.06,25.89
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,49,69,1.0,10.0,13.19,16.03,12.86,26.87
+61,IYW,iShares US Technology ETF,5,60,14,49,69,1.0,10.0,13.19,20.11,14.89,29.78
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,49,69,1.0,10.0,13.19,22.16,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,49,69,1.0,10.0,13.19,-2.97,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,49,69,1.0,10.0,13.19,21.87,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,49,69,1.0,10.0,13.19,7.6,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,49,69,1.0,10.0,13.19,14.51,14.02,25.39
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,39,69,1.0,10.0,13.02,29.16,12.86,26.87
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,39,69,1.0,10.0,13.02,23.55,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,39,69,1.0,10.0,13.02,8.3,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,39,69,1.0,10.0,13.02,0.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,39,69,1.0,10.0,13.02,22.07,13.15,25.41
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,39,69,1.0,10.0,13.02,-2.64,12.4,28.81
+61,IYW,iShares US Technology ETF,5,120,14,39,69,1.0,10.0,13.02,15.24,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,39,69,1.0,10.0,13.02,0.0,13.06,25.89
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,39,69,1.0,10.0,13.02,27.46,14.07,27.13
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,39,69,1.0,10.0,13.02,0.0,13.67,26.98
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,39,69,1.0,10.0,13.02,0.0,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,39,69,1.0,10.0,13.02,12.38,12.18,28.16
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,39,69,1.0,10.0,13.02,34.13,13.47,25.69
+61,FINX.O,Global X FinTech ETF,5,120,14,39,69,1.0,10.0,13.02,-1.87,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,39,69,1.0,10.0,13.02,0.0,13.74,26.55
+61,SOCL.O,Global X Social Media ETF,5,120,14,39,69,1.0,10.0,13.02,18.16,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,39,69,1.0,10.0,13.02,71.02,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,39,69,1.0,10.0,13.02,0.0,14.15,26.2
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,39,69,1.0,10.0,13.02,23.9,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,39,69,1.0,10.0,13.02,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,39,69,1.0,10.0,13.02,0.0,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,39,69,1.0,10.0,13.02,29.76,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,39,69,1.0,10.0,13.02,0.0,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,39,69,1.0,10.0,13.02,0.0,12.76,28.63
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,39,69,1.0,10.0,13.02,14.82,16.87,28.68
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,49,74,1.0,10.0,12.84,14.82,16.87,28.68
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,49,74,1.0,10.0,12.84,19.62,13.67,26.98
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,49,74,1.0,10.0,12.84,17.67,13.74,26.55
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,49,74,1.0,10.0,12.84,19.69,13.06,25.89
+61,IYW,iShares US Technology ETF,5,120,14,49,74,1.0,10.0,12.84,14.86,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,49,74,1.0,10.0,12.84,9.89,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,49,74,1.0,10.0,12.84,25.97,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,49,74,1.0,10.0,12.84,11.62,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,49,74,1.0,10.0,12.84,2.2,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,49,74,1.0,10.0,12.84,10.28,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,49,74,1.0,10.0,12.84,2.27,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,49,74,1.0,10.0,12.84,10.22,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,120,14,49,74,1.0,10.0,12.84,-1.87,11.69,28.42
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,49,74,1.0,10.0,12.84,26.71,14.07,27.13
+61,SOCL.O,Global X Social Media ETF,5,120,14,49,74,1.0,10.0,12.84,32.94,12.08,26.49
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,49,74,1.0,10.0,12.84,14.74,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,49,74,1.0,10.0,12.84,15.0,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,49,74,1.0,10.0,12.84,10.9,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,49,74,1.0,10.0,12.84,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,49,74,1.0,10.0,12.84,21.13,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,49,74,1.0,10.0,12.84,20.59,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,49,74,1.0,10.0,12.84,7.31,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,49,74,1.0,10.0,12.84,9.07,12.76,28.63
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,49,74,1.0,10.0,12.84,-2.64,12.4,28.81
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,49,74,1.0,10.0,12.84,8.06,13.0,25.82
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,49,59,1.0,10.0,12.78,29.08,14.32,28.42
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,49,59,1.0,10.0,12.78,17.76,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,49,59,1.0,10.0,12.78,10.7,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,49,59,1.0,10.0,12.78,13.37,13.47,25.69
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,49,59,1.0,10.0,12.78,8.27,12.76,28.63
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,49,59,1.0,10.0,12.78,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,49,59,1.0,10.0,12.78,17.37,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,49,59,1.0,10.0,12.78,8.86,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,49,59,1.0,10.0,12.78,17.05,16.16,27.07
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,49,59,1.0,10.0,12.78,11.84,13.74,26.55
+61,SOCL.O,Global X Social Media ETF,5,60,14,49,59,1.0,10.0,12.78,21.13,12.08,26.49
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,49,59,1.0,10.0,12.78,24.38,14.25,26.4
+61,FINX.O,Global X FinTech ETF,5,60,14,49,59,1.0,10.0,12.78,-8.84,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,49,59,1.0,10.0,12.78,12.39,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,49,59,1.0,10.0,12.78,7.88,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,49,59,1.0,10.0,12.78,11.56,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,49,59,1.0,10.0,12.78,-2.97,13.21,27.57
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,49,59,1.0,10.0,12.78,20.63,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,49,59,1.0,10.0,12.78,23.04,12.86,26.87
+61,IYW,iShares US Technology ETF,5,60,14,49,59,1.0,10.0,12.78,16.1,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,49,59,1.0,10.0,12.78,10.77,13.06,25.89
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,49,59,1.0,10.0,12.78,37.41,14.07,27.13
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,49,59,1.0,10.0,12.78,-0.75,16.87,28.68
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,49,59,1.0,10.0,12.78,-0.31,12.4,28.81
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,49,59,1.0,10.0,12.78,12.85,13.67,26.98
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,49,64,1.0,10.0,12.5,19.09,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,49,64,1.0,10.0,12.5,19.73,14.07,27.13
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,49,64,1.0,10.0,12.5,4.89,16.87,28.68
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,49,64,1.0,10.0,12.5,-0.31,12.4,28.81
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,49,64,1.0,10.0,12.5,8.27,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,49,64,1.0,10.0,12.5,7.71,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,49,64,1.0,10.0,12.5,13.15,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,49,64,1.0,10.0,12.5,17.92,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,49,64,1.0,10.0,12.5,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,49,64,1.0,10.0,12.5,23.15,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,49,64,1.0,10.0,12.5,14.94,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,49,64,1.0,10.0,12.5,12.77,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,49,64,1.0,10.0,12.5,16.24,13.0,25.82
+61,SOCL.O,Global X Social Media ETF,5,60,14,49,64,1.0,10.0,12.5,19.63,12.08,26.49
+61,FINX.O,Global X FinTech ETF,5,60,14,49,64,1.0,10.0,12.5,-8.84,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,49,64,1.0,10.0,12.5,14.26,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,49,64,1.0,10.0,12.5,11.52,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,49,64,1.0,10.0,12.5,16.46,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,49,64,1.0,10.0,12.5,-2.97,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,49,64,1.0,10.0,12.5,20.36,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,49,64,1.0,10.0,12.5,20.4,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,49,64,1.0,10.0,12.5,12.5,12.86,26.87
+61,IYW,iShares US Technology ETF,5,60,14,49,64,1.0,10.0,12.5,20.81,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,49,64,1.0,10.0,12.5,15.25,13.06,25.89
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,49,64,1.0,10.0,12.5,15.49,13.74,26.55
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,49,74,1.0,10.0,12.37,-0.31,12.4,28.81
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,49,74,1.0,10.0,12.37,3.64,16.87,28.68
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,49,74,1.0,10.0,12.37,-2.97,13.21,27.57
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,49,74,1.0,10.0,12.37,15.49,13.74,26.55
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,49,74,1.0,10.0,12.37,19.88,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,49,74,1.0,10.0,12.37,24.09,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,49,74,1.0,10.0,12.37,19.39,13.06,25.89
+61,IYW,iShares US Technology ETF,5,60,14,49,74,1.0,10.0,12.37,15.84,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,49,74,1.0,10.0,12.37,10.59,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,49,74,1.0,10.0,12.37,23.89,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,49,74,1.0,10.0,12.37,24.66,14.25,26.4
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,49,74,1.0,10.0,12.37,26.23,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,49,74,1.0,10.0,12.37,5.06,12.18,28.16
+61,FINX.O,Global X FinTech ETF,5,60,14,49,74,1.0,10.0,12.37,-8.84,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,49,74,1.0,10.0,12.37,10.54,14.02,25.39
+61,SOCL.O,Global X Social Media ETF,5,60,14,49,74,1.0,10.0,12.37,24.42,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,49,74,1.0,10.0,12.37,11.75,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,49,74,1.0,10.0,12.37,12.77,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,49,74,1.0,10.0,12.37,11.06,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,49,74,1.0,10.0,12.37,11.99,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,49,74,1.0,10.0,12.37,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,49,74,1.0,10.0,12.37,22.05,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,49,74,1.0,10.0,12.37,12.11,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,49,74,1.0,10.0,12.37,7.71,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,49,74,1.0,10.0,12.37,8.27,12.76,28.63
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,39,74,1.0,10.0,9.97,-2.64,12.4,28.81
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,39,74,1.0,10.0,9.97,0.0,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,39,74,1.0,10.0,9.97,24.73,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,39,74,1.0,10.0,9.97,0.0,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,39,74,1.0,10.0,9.97,0.0,12.76,28.63
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,39,74,1.0,10.0,9.97,29.16,12.86,26.87
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,39,74,1.0,10.0,9.97,14.82,16.87,28.68
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,39,74,1.0,10.0,9.97,0.0,13.06,25.89
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,39,74,1.0,10.0,9.97,0.0,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,39,74,1.0,10.0,9.97,30.14,14.07,27.13
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,39,74,1.0,10.0,9.97,23.9,14.32,28.42
+61,IYW,iShares US Technology ETF,5,120,14,39,74,1.0,10.0,9.97,15.24,14.89,29.78
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,39,74,1.0,10.0,9.97,0.0,11.93,28.7
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,39,74,1.0,10.0,9.97,12.13,13.47,25.69
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,39,74,1.0,10.0,9.97,12.38,12.18,28.16
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,39,74,1.0,10.0,9.97,0.0,14.15,26.2
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,39,74,1.0,10.0,9.97,22.07,13.15,25.41
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,39,74,1.0,10.0,9.97,8.3,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,39,74,1.0,10.0,9.97,25.82,15.38,27.2
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,39,74,1.0,10.0,9.97,0.0,14.25,26.4
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,39,74,1.0,10.0,9.97,0.0,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,120,14,39,74,1.0,10.0,9.97,-1.87,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,39,74,1.0,10.0,9.97,0.0,13.74,26.55
+61,SOCL.O,Global X Social Media ETF,5,120,14,39,74,1.0,10.0,9.97,18.16,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,39,74,1.0,10.0,9.97,16.96,13.0,25.82
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,13.74,26.55
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,13.06,25.89
+61,IYW,iShares US Technology ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,120,14,34,64,1.0,10.0,5.25,12.33,11.69,28.42
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,14.32,28.42
+61,SOCL.O,Global X Social Media ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,34,64,1.0,10.0,5.25,77.05,13.47,25.69
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,12.76,28.63
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,12.4,28.81
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,34,64,1.0,10.0,5.25,41.76,16.87,28.68
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,34,64,1.0,10.0,5.25,0.0,14.07,27.13
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,13.67,26.98
+61,SOCL.O,Global X Social Media ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,12.08,26.49
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,34,59,1.0,10.0,4.87,32.29,16.87,28.68
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,12.4,28.81
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,15.66,26.26
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,14.07,27.13
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,34,59,1.0,10.0,4.87,77.05,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,13.0,25.82
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,11.93,28.7
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,13.74,26.55
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,12.86,26.87
+61,IYW,iShares US Technology ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,34,59,1.0,10.0,4.87,0.0,13.06,25.89
+61,FINX.O,Global X FinTech ETF,5,120,14,34,59,1.0,10.0,4.87,12.33,11.69,28.42
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,13.15,25.41
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,14.25,26.4
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,13.67,26.98
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,12.86,26.87
+61,IYW,iShares US Technology ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,13.06,25.89
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,14.07,27.13
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,14.02,25.39
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,34,54,1.0,10.0,4.63,29.71,16.87,28.68
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,13.74,26.55
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,15.66,26.26
+61,SOCL.O,Global X Social Media ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,12.08,26.49
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,12.4,28.81
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,12.76,25.88
+61,FINX.O,Global X FinTech ETF,5,120,14,34,54,1.0,10.0,4.63,20.75,11.69,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,11.93,28.7
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,34,54,1.0,10.0,4.63,65.22,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,13.0,25.82
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,34,54,1.0,10.0,4.63,0.0,14.32,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,14.02,25.39
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,34,64,1.0,10.0,3.98,12.11,13.06,25.89
+61,IYW,iShares US Technology ETF,5,60,14,34,64,1.0,10.0,3.98,17.89,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,12.18,28.16
+61,SOCL.O,Global X Social Media ETF,5,60,14,34,64,1.0,10.0,3.98,8.78,12.08,26.49
+61,FINX.O,Global X FinTech ETF,5,60,14,34,64,1.0,10.0,3.98,5.41,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,13.74,26.55
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,34,64,1.0,10.0,3.98,30.63,13.47,25.69
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,12.76,28.63
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,34,64,1.0,10.0,3.98,24.58,16.87,28.68
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,14.32,28.42
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,34,64,1.0,10.0,3.98,0.0,12.4,28.81
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,14.07,27.13
+61,SOCL.O,Global X Social Media ETF,5,60,14,34,69,1.0,10.0,3.48,8.78,12.08,26.49
+61,IYW,iShares US Technology ETF,5,60,14,34,69,1.0,10.0,3.48,15.74,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,60,14,34,69,1.0,10.0,3.48,5.41,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,13.74,26.55
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,34,69,1.0,10.0,3.48,20.82,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,12.76,28.63
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,12.4,28.81
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,34,69,1.0,10.0,3.48,18.66,16.87,28.68
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,34,69,1.0,10.0,3.48,0.0,13.67,26.98
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,34,69,1.0,10.0,3.48,17.64,13.06,25.89
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,12.76,28.63
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,34,59,1.0,10.0,3.38,17.56,16.87,28.68
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,12.4,28.81
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,16.16,27.07
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,34,59,1.0,10.0,3.38,7.32,13.06,25.89
+61,IYW,iShares US Technology ETF,5,60,14,34,59,1.0,10.0,3.38,14.89,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,60,14,34,59,1.0,10.0,3.38,5.41,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,13.74,26.55
+61,SOCL.O,Global X Social Media ETF,5,60,14,34,59,1.0,10.0,3.38,8.78,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,34,59,1.0,10.0,3.38,30.63,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,34,59,1.0,10.0,3.38,0.0,12.76,25.88
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,34,74,1.0,10.0,3.15,18.66,16.87,28.68
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,16.16,27.07
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,14.02,25.39
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,12.4,28.81
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,34,74,1.0,10.0,3.15,19.78,13.06,25.89
+61,IYW,iShares US Technology ETF,5,60,14,34,74,1.0,10.0,3.15,15.74,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,12.86,26.87
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,12.18,28.16
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,13.15,25.41
+61,FINX.O,Global X FinTech ETF,5,60,14,34,74,1.0,10.0,3.15,5.41,11.69,28.42
+61,SOCL.O,Global X Social Media ETF,5,60,14,34,74,1.0,10.0,3.15,8.78,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,13.0,25.82
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,12.76,25.88
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,34,74,1.0,10.0,3.15,10.3,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,15.66,26.26
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,34,74,1.0,10.0,3.15,0.0,13.74,26.55
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,14.32,28.42
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,34,69,1.0,10.0,3.03,34.13,13.47,25.69
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,12.76,28.63
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,16.16,27.07
+61,FINX.O,Global X FinTech ETF,5,120,14,34,69,1.0,10.0,3.03,12.33,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,13.74,26.55
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,13.67,26.98
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,12.86,26.87
+61,IYW,iShares US Technology ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,13.06,25.89
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,14.07,27.13
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,34,69,1.0,10.0,3.03,29.17,16.87,28.68
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,12.4,28.81
+61,SOCL.O,Global X Social Media ETF,5,120,14,34,69,1.0,10.0,3.03,0.0,12.08,26.49
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,16.16,27.07
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,15.38,27.2
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,12.4,28.81
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,34,54,1.0,10.0,2.78,15.13,16.87,28.68
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,34,54,1.0,10.0,2.78,10.86,13.06,25.89
+61,IYW,iShares US Technology ETF,5,60,14,34,54,1.0,10.0,2.78,11.0,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,13.21,27.57
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,60,14,34,54,1.0,10.0,2.78,9.56,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,13.74,26.55
+61,SOCL.O,Global X Social Media ETF,5,60,14,34,54,1.0,10.0,2.78,11.28,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,34,54,1.0,10.0,2.78,11.71,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,12.76,25.88
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,34,54,1.0,10.0,2.78,0.0,12.76,28.63
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,14.07,27.13
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,34,74,1.0,10.0,2.15,29.17,16.87,28.68
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,13.0,25.82
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,12.4,28.81
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,34,74,1.0,10.0,2.15,12.13,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,14.15,26.2
+61,SOCL.O,Global X Social Media ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,12.08,26.49
+61,IYW,iShares US Technology ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,14.89,29.78
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,13.74,26.55
+61,FINX.O,Global X FinTech ETF,5,120,14,34,74,1.0,10.0,2.15,12.33,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,12.86,26.87
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,34,74,1.0,10.0,2.15,0.0,13.06,25.89
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,16.87,28.68
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,12.4,28.81
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,13.67,26.98
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,29,74,1.0,10.0,1.62,19.78,13.06,25.89
+61,IYW,iShares US Technology ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,13.74,26.55
+61,SOCL.O,Global X Social Media ETF,5,60,14,29,74,1.0,10.0,1.62,20.67,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,12.76,28.63
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,29,74,1.0,10.0,1.62,0.0,14.07,27.13
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,12.4,28.81
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,12.76,28.63
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,13.67,26.98
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,13.0,25.82
+61,SOCL.O,Global X Social Media ETF,5,60,14,29,69,1.0,10.0,1.53,20.67,12.08,26.49
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,13.74,26.55
+61,FINX.O,Global X FinTech ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,12.86,26.87
+61,IYW,iShares US Technology ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,29,69,1.0,10.0,1.53,17.64,13.06,25.89
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,14.07,27.13
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,29,69,1.0,10.0,1.53,0.0,16.87,28.68
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,14.07,27.13
+61,SOCL.O,Global X Social Media ETF,5,60,14,29,54,1.0,10.0,1.44,25.19,12.08,26.49
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,16.87,28.68
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,12.4,28.81
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,15.66,26.26
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,13.0,25.82
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,11.93,28.7
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,13.74,26.55
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,14.25,26.4
+61,FINX.O,Global X FinTech ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,11.69,28.42
+61,IYW,iShares US Technology ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,13.15,25.41
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,29,54,1.0,10.0,1.44,10.86,13.06,25.89
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,29,54,1.0,10.0,1.44,0.0,14.02,25.39
+61,SOCL.O,Global X Social Media ETF,5,60,14,29,64,1.0,10.0,1.31,20.67,12.08,26.49
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,29,64,1.0,10.0,1.31,12.11,13.06,25.89
+61,IYW,iShares US Technology ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,14.25,26.4
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,13.21,27.57
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,14.02,25.39
+61,FINX.O,Global X FinTech ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,13.74,26.55
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,14.07,27.13
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,14.32,28.42
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,12.76,28.63
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,12.4,28.81
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,16.87,28.68
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,29,64,1.0,10.0,1.31,0.0,13.67,26.98
+61,IVES.K,Amplify Global Cloud Technology ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,16.87,28.68
+61,ZTAX.K,X Square Municipal Income ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,11.93,28.7
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,13.21,27.57
+61,FINX.O,Global X FinTech ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,11.69,28.42
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,14.07,27.13
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,60,14,29,59,1.0,10.0,1.12,7.32,13.06,25.89
+61,IYW,iShares US Technology ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,14.89,29.78
+61,KBWB.O,Invesco KBW Bank ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,12.86,26.87
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,13.15,25.41
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,14.25,26.4
+61,HELX.K,Franklin Genomic Advancements ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,12.4,28.81
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,15.38,27.2
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,12.18,28.16
+61,PBE,Invesco Biotechnology & Genome ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,14.02,25.39
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,13.74,26.55
+61,SOCL.O,Global X Social Media ETF,5,60,14,29,59,1.0,10.0,1.12,20.67,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,13.47,25.69
+61,BBP,Virtus LifeSci Biotech Products ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,14.32,28.42
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,16.16,27.07
+61,OVS,Overlay Shares Small Cap Equity ETF,5,60,14,29,59,1.0,10.0,1.12,0.0,12.76,28.63
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,14.32,28.42
+61,SOCL.O,Global X Social Media ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,12.08,26.49
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,13.0,25.82
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,14.15,26.2
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,13.47,25.69
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,12.76,28.63
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,11.93,28.7
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,15.66,26.26
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,12.76,25.88
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,16.16,27.07
+61,FINX.O,Global X FinTech ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,11.69,28.42
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,13.74,26.55
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,16.87,28.68
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,12.86,26.87
+61,IYW,iShares US Technology ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,13.06,25.89
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,14.07,27.13
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,16.87,28.68
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,12.4,28.81
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,13.67,26.98
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,12.4,28.81
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,16.87,28.68
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,13.0,25.82
+61,SOCL.O,Global X Social Media ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,12.08,26.49
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,13.74,26.55
+61,FINX.O,Global X FinTech ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,12.86,26.87
+61,IYW,iShares US Technology ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,13.06,25.89
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,12.4,28.81
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,13.67,26.98
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,13.67,26.98
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,14.07,27.13
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,13.0,25.82
+61,SOCL.O,Global X Social Media ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,12.08,26.49
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,13.74,26.55
+61,FINX.O,Global X FinTech ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,12.86,26.87
+61,IYW,iShares US Technology ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,13.06,25.89
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,14.07,27.13
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,16.87,28.68
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,14.07,27.13
+61,IVES.K,Amplify Global Cloud Technology ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,16.87,28.68
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,13.0,25.82
+61,SOCL.O,Global X Social Media ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,12.08,26.49
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,13.74,26.55
+61,FINX.O,Global X FinTech ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,12.86,26.87
+61,IYW,iShares US Technology ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,13.06,25.89
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,12.4,28.81
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,13.67,26.98
+61,HELX.K,Franklin Genomic Advancements ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,12.4,28.81
+61,SPHB.K,Invesco S&P 500 High Beta ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,14.07,27.13
+61,OVS,Overlay Shares Small Cap Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,12.76,28.63
+61,MOTO.K,SmartETFs Smart Transportation & Technology ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,16.16,27.07
+61,AMOM.K,QRAFT AI-Enhanced US Large Cap Momentum ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,12.76,25.88
+61,PSCD.O,Invesco S&P SmallCap Cnsmr Discretionary ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,15.66,26.26
+61,ZTAX.K,X Square Municipal Income ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,11.93,28.7
+61,BBP,Virtus LifeSci Biotech Products ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,14.32,28.42
+61,PSCM.O,Invesco S&P SmallCap Materials ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,13.47,25.69
+61,TPSC.K,Timothy Plan US Small Cap Core ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,14.15,26.2
+61,RZV,Invesco S&P SmallCap 600 Pure Value ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,13.0,25.82
+61,SOCL.O,Global X Social Media ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,12.08,26.49
+61,AFSM.K,First Trust Active Factor Small Cap ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,13.74,26.55
+61,FINX.O,Global X FinTech ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,11.69,28.42
+61,PBE,Invesco Biotechnology & Genome ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,14.02,25.39
+61,KBWR.O,Invesco KBW Regional Banking ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,12.18,28.16
+61,ARKQ.K,ARK Autonomous Technology & Robotics ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,15.38,27.2
+61,KOMP.K,SPDR S&P Kensho New Economies Composite ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,13.21,27.57
+61,QMOM.O,Alpha Architect US Quantitative Momentum ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,14.25,26.4
+61,BOTZ.O,Global X Robotics and Artificial Intelligence ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,13.15,25.41
+61,KBWB.O,Invesco KBW Bank ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,12.86,26.87
+61,IYW,iShares US Technology ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,14.89,29.78
+61,SDVY.O,First Trust SMID Cap Rising Dividend Achievers ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,13.06,25.89
+61,CALF.K,Pacer US Small Cap Cash Cows 100 ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,13.67,26.98

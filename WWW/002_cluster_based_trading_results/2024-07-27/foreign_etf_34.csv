@@ -1,0 +1,1301 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.64,10.6
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.39,11.11
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,34,69,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,34,69,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,34,69,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,34,69,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,34,69,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,34,69,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,34,69,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,34,69,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,34.59,12.72
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,34,69,1.0,10.0,0.0,0,34.95,14.75
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.91,10.87
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,34,69,1.0,10.0,0.0,0,32.34,8.45
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0,31.23,15.21
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,34,74,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,34,74,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,34,74,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.07,12.5
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.64,10.6
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.92,10.9
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,34,69,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,34,69,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,34,69,1.0,10.0,0.0,0,32.22,11.32
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,34.72,12.71
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.5,14.18
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,34,59,1.0,10.0,0.0,0,31.3,12.75
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.57,11.54
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,34,59,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,34,59,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,34,59,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,34,59,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,34,59,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,34,59,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,34,59,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,34,59,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.02,10.7
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.64,10.6
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0,31.23,15.21
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.07,12.5
+34,INDE.K,Matthews India Active ETF,5,120,14,34,64,1.0,10.0,0.0,0,32.78,15.87
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,34,64,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,34,64,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,34,64,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,34,64,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,34,64,1.0,10.0,0.0,0,32.36,13.66
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,34,64,1.0,10.0,0.0,0,31.22,14.42
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.3,11.66
+34,TBG,TBG Dividend Focus ETF,5,120,14,34,64,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,34,64,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,34,64,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,34,64,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,34,64,1.0,10.0,0.0,0,33.76,11.47
+34,BUSA.K,Brandes US Value ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.02,10.7
+34,TBG,TBG Dividend Focus ETF,5,120,14,34,74,1.0,10.0,0.0,0,31.84,10.15
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,34,74,1.0,10.0,0.0,0,31.22,14.42
+34,INDE.K,Matthews India Active ETF,5,120,14,34,74,1.0,10.0,0.0,0,32.78,15.87
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,39,59,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,39,59,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,39,59,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,39,59,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,39,59,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,39,59,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,39,59,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,39,59,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,39,59,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,39,59,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0,31.23,15.21
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.92,10.9
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,39,59,1.0,10.0,0.0,0,32.22,11.32
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.57,11.54
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.76,11.47
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,39,64,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,39,64,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,39,64,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,39,64,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,39,64,1.0,10.0,0.0,0,32.22,9.98
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.3,11.66
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.5,14.18
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,39,59,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.39,11.11
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,39,59,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,34.59,12.72
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.5,14.18
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,34,74,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.39,11.11
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.57,11.54
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.76,11.47
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,34,74,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,34,74,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,34,74,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,34,74,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,34,74,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,34,74,1.0,10.0,0.0,0,32.36,13.66
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.3,11.66
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,39,54,1.0,10.0,0.0,0,32.22,9.98
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,39,54,1.0,10.0,0.0,0,34.72,12.71
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,39,54,1.0,10.0,0.0,0,34.95,14.75
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,39,54,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,39,54,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.91,10.87
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,39,54,1.0,10.0,0.0,0,35.33,16.48
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,39,54,1.0,10.0,0.0,0,33.46,14.82
+34,NDIA.K,Global X India Active ETF,5,120,14,39,54,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,39,54,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,39,54,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,39,54,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,39,54,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,39,54,1.0,10.0,0.0,0,31.3,12.75
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.93,12.93
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,34,59,1.0,10.0,0.0,0,33.46,14.82
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0,31.23,15.21
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,29,59,1.0,10.0,0.0,0,34.95,14.75
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,29,64,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,29,64,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,29,64,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,29,59,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,29,59,1.0,10.0,0.0,0,32.34,8.45
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.93,12.93
+34,BUSA.K,Brandes US Value ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.02,10.7
+34,TBG,TBG Dividend Focus ETF,5,120,14,29,64,1.0,10.0,0.0,0,31.84,10.15
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.57,11.54
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,29,64,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.5,14.18
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,29,64,1.0,10.0,0.0,0,32.22,11.32
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,29,64,1.0,10.0,0.0,0,31.22,14.42
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,29,64,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,29,64,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,29,64,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,29,64,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,29,64,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,29,64,1.0,10.0,0.0,0,32.78,15.87
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.91,10.87
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,29,59,1.0,10.0,0.0,0,35.33,16.48
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,34,59,1.0,10.0,0.0,0,32.22,9.98
+34,NDIA.K,Global X India Active ETF,5,120,14,29,59,1.0,10.0,0.0,0,32.36,13.66
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,29,54,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,29,54,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,29,54,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,29,54,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,29,54,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,29,54,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,29,54,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,29,54,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,29,54,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,29,54,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.07,12.5
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,29,54,1.0,10.0,0.0,0,32.22,11.32
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.57,11.54
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.5,14.18
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,29,59,1.0,10.0,0.0,0,32.22,9.98
+34,INDE.K,Matthews India Active ETF,5,120,14,29,59,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,29,59,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,29,59,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,29,59,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,29,59,1.0,10.0,0.0,0,33.46,14.82
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.76,11.47
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.39,11.11
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,29,59,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,29,54,1.0,10.0,0.0,0,34.72,12.71
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.07,12.5
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.3,11.66
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.76,11.47
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,29,69,1.0,10.0,0.0,0,32.22,9.98
+34,TBG,TBG Dividend Focus ETF,5,120,14,34,54,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,34,54,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,34,54,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,34,54,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.57,11.54
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,34,54,1.0,10.0,0.0,0,31.22,14.42
+34,INDE.K,Matthews India Active ETF,5,120,14,34,54,1.0,10.0,0.0,0,32.78,15.87
+34,NDIA.K,Global X India Active ETF,5,120,14,34,54,1.0,10.0,0.0,0,32.36,13.66
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,34.72,12.71
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,34,59,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,34,54,1.0,10.0,0.0,0,34.59,12.72
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.39,11.11
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,34,54,1.0,10.0,0.0,0,35.33,16.48
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,34,54,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,34,54,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,34,54,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,34,54,1.0,10.0,0.0,0,34.95,14.75
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,29,74,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,29,74,1.0,10.0,0.0,0,32.34,8.45
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,29,69,1.0,10.0,0.0,0,35.33,16.48
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,29,69,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,29,69,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,29,69,1.0,10.0,0.0,0,34.95,14.75
+34,NDIA.K,Global X India Active ETF,5,120,14,29,69,1.0,10.0,0.0,0,32.36,13.66
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,34.72,12.71
+34,INDE.K,Matthews India Active ETF,5,120,14,29,69,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,29,69,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,29,69,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,29,69,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,29,69,1.0,10.0,0.0,0,33.46,14.82
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,29,69,1.0,10.0,0.0,0,33.39,11.11
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,29,69,1.0,10.0,0.0,0,34.59,12.72
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.91,10.87
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.93,12.93
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,29,74,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,29,74,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,29,74,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,29,74,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,29,74,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,29,74,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.02,10.7
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,29,74,1.0,10.0,0.0,0,31.3,12.75
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0,35.78,12.77
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,29,74,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,29,74,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,29,74,1.0,10.0,0.0,0,33.64,10.6
+34,INDE.K,Matthews India Active ETF,5,120,14,39,64,1.0,10.0,0.0,0,32.78,15.87
+34,NDIA.K,Global X India Active ETF,5,120,14,39,64,1.0,10.0,0.0,0,32.36,13.66
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,39,64,1.0,10.0,0.0,0,35.33,16.48
+34,BUSA.K,Brandes US Value ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.02,10.7
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,49,59,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,49,54,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,49,54,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,49,54,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,49,54,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,49,54,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,49,54,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,49,54,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,49,54,1.0,10.0,0.0,0,31.22,14.42
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.07,12.5
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.3,11.66
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.76,11.47
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,49,59,1.0,10.0,0.0,0,35.33,16.48
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,49,59,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,49,59,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,49,59,1.0,10.0,0.0,0,34.95,14.75
+34,NDIA.K,Global X India Active ETF,5,120,14,49,59,1.0,10.0,0.0,0,32.36,13.66
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,49,59,1.0,10.0,0.0,0,32.22,9.98
+34,INDE.K,Matthews India Active ETF,5,120,14,49,59,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,49,59,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,49,59,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,49,59,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,49,59,1.0,10.0,0.0,0,33.46,14.82
+34,TBG,TBG Dividend Focus ETF,5,120,14,49,54,1.0,10.0,0.0,0,31.84,10.15
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.93,12.93
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,39,64,1.0,10.0,0.0,0,34.95,14.75
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,49,54,1.0,10.0,0.0,0,31.3,12.75
+34,INDE.K,Matthews India Active ETF,5,120,14,44,74,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,44,74,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,44,74,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,44,74,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,44,74,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,44,74,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.39,11.11
+34,NDIA.K,Global X India Active ETF,5,120,14,44,74,1.0,10.0,0.0,0,32.36,13.66
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,44,74,1.0,10.0,0.0,0,35.33,16.48
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,44,74,1.0,10.0,0.0,0,34.95,14.75
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,44,74,1.0,10.0,0.0,0,35.78,12.77
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,49,54,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,49,54,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,49,54,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,49,54,1.0,10.0,0.0,0,33.64,10.6
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,34.59,12.72
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.91,10.87
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,44,74,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,44,74,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,44,74,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,44,74,1.0,10.0,0.0,0,32.34,8.45
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,49,59,1.0,10.0,0.0,0,33.39,11.11
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,34.72,12.71
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,49,59,1.0,10.0,0.0,0,34.59,12.72
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,49,59,1.0,10.0,0.0,0,35.78,12.77
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,49,74,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,49,69,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,49,69,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,49,69,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,49,69,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,49,69,1.0,10.0,0.0,0,35.33,16.48
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,49,74,1.0,10.0,0.0,0,32.22,9.98
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,49,74,1.0,10.0,0.0,0,33.46,14.82
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,49,74,1.0,10.0,0.0,0,31.3,12.75
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,49,74,1.0,10.0,0.0,0,32.34,8.45
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,49,74,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,49,74,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.92,10.9
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.91,10.87
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.93,12.93
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,49,74,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,49,74,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,49,74,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,49,74,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,49,74,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,49,74,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,49,74,1.0,10.0,0.0,0,33.02,10.7
+34,NDIA.K,Global X India Active ETF,5,120,14,49,69,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,49,69,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,49,69,1.0,10.0,0.0,0,31.22,14.42
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.93,12.93
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,49,64,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,49,64,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,49,64,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,49,64,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,49,64,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,49,64,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.02,10.7
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,49,64,1.0,10.0,0.0,0,31.3,12.75
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,49,64,1.0,10.0,0.0,0,32.34,8.45
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,49,64,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,49,64,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,49,64,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.64,10.6
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.91,10.87
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.92,10.9
+34,TBG,TBG Dividend Focus ETF,5,120,14,49,69,1.0,10.0,0.0,0,31.84,10.15
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.07,12.5
+34,BUSA.K,Brandes US Value ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,49,69,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,49,69,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,49,69,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.3,11.66
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,49,69,1.0,10.0,0.0,0,31.23,15.21
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,49,64,1.0,10.0,0.0,0,32.22,11.32
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,49,69,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,49,64,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,49,64,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,49,64,1.0,10.0,0.0,0,33.57,11.54
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,44,69,1.0,10.0,0.0,0,32.22,11.32
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.91,10.87
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,39,74,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,39,74,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,39,74,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,39,74,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,39,74,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,39,74,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,39,74,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,39,74,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,39,74,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,39,74,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,39,74,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.76,11.47
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.5,14.18
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.39,11.11
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,34.72,12.71
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,44,54,1.0,10.0,0.0,0,31.3,12.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,44,54,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,44,54,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,44,54,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,44,54,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,44,54,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.93,12.93
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,44,54,1.0,10.0,0.0,0,33.46,14.82
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,39,74,1.0,10.0,0.0,0,34.59,12.72
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,44,54,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0,35.78,12.77
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0,31.23,15.21
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,34.59,12.72
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,39,69,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0,35.78,12.77
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,39,64,1.0,10.0,0.0,0,34.72,12.71
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,39,69,1.0,10.0,0.0,0,31.3,12.75
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,39,64,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,39,64,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,39,64,1.0,10.0,0.0,0,33.91,10.87
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,39,69,1.0,10.0,0.0,0,33.46,14.82
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.93,12.93
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,39,74,1.0,10.0,0.0,0,33.64,10.6
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.92,10.9
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,39,69,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,39,69,1.0,10.0,0.0,0,32.22,11.32
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,39,69,1.0,10.0,0.0,0,32.34,8.45
+34,BUSA.K,Brandes US Value ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.02,10.7
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,39,69,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,39,69,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,39,69,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,39,69,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,39,69,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,39,69,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,39,69,1.0,10.0,0.0,0,31.84,10.15
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,44,54,1.0,10.0,0.0,0,34.95,14.75
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,44,54,1.0,10.0,0.0,0,32.34,8.45
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.92,10.9
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.92,10.9
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,44,64,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,44,64,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,44,64,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,44,64,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,44,64,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,44,64,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,44,64,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,120,14,44,64,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,44,64,1.0,10.0,0.0,0,31.3,12.75
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,34.59,12.72
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0,35.78,12.77
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.64,10.6
+34,TBG,TBG Dividend Focus ETF,5,120,14,44,69,1.0,10.0,0.0,0,31.84,10.15
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,44,69,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,44,69,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,44,69,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,44,69,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,120,14,44,69,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,44,69,1.0,10.0,0.0,0,31.22,14.42
+34,BUSA.K,Brandes US Value ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.02,10.7
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,44,69,1.0,10.0,0.0,0,31.23,15.21
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,44,69,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,44,69,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,44,69,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,44,69,1.0,10.0,0.0,0,33.07,12.5
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,44,64,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,44,64,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.76,11.47
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0,31.23,15.21
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,120,14,44,59,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,120,14,44,59,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,120,14,44,59,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.07,12.5
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.64,10.6
+34,TBG,TBG Dividend Focus ETF,5,120,14,44,59,1.0,10.0,0.0,0,31.84,10.15
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,44,54,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,44,54,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,44,54,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,44,54,1.0,10.0,0.0,0,32.22,11.32
+34,BUSA.K,Brandes US Value ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.02,10.7
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,120,14,44,59,1.0,10.0,0.0,0,31.22,14.42
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.3,11.66
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.5,14.18
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,44,64,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,44,64,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,44,59,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,120,14,44,59,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.39,11.11
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.57,11.54
+34,INDE.K,Matthews India Active ETF,5,120,14,44,59,1.0,10.0,0.0,0,32.78,15.87
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,120,14,44,59,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,120,14,44,59,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,120,14,44,59,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,120,14,44,59,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,120,14,44,59,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,120,14,44,59,1.0,10.0,0.0,0,32.36,13.66
+34,TGRT.K,T Rowe Price Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,120,14,29,54,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,49,74,1.0,10.0,0.0,0,35.78,12.77
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.5,14.18
+34,NDIA.K,Global X India Active ETF,5,60,14,34,69,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,34,69,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,34,69,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,34,69,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,34,69,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,34,69,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,34,69,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,34.72,12.71
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,34,69,1.0,10.0,0.0,0,35.33,16.48
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,34,69,1.0,10.0,0.0,0,34.95,14.75
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.91,10.87
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.64,10.6
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,34,74,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,34,74,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,34,74,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0,31.23,15.21
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0,35.78,12.77
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,34,69,1.0,10.0,0.0,0,32.34,8.45
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,34,69,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,34,69,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,34,69,1.0,10.0,0.0,0,33.92,10.9
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.39,11.11
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.57,11.54
+34,INDE.K,Matthews India Active ETF,5,60,14,39,64,1.0,10.0,0.0,0,32.78,15.87
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,34,64,1.0,10.0,0.0,0,32.22,11.32
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,34,59,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,34,59,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,34,59,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,34,59,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,34,59,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,34,59,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,34,59,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,34,59,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.93,12.93
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0,35.78,12.77
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.64,10.6
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0,31.23,15.21
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,34,64,1.0,10.0,0.0,0,31.22,14.42
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,34,64,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,34,64,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,34,64,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,34,64,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,34,64,1.0,10.0,0.0,0,32.78,15.87
+34,TBG,TBG Dividend Focus ETF,5,60,14,34,64,1.0,10.0,0.0,0,31.84,10.15
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.07,12.5
+34,BUSA.K,Brandes US Value ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,34,64,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,34,64,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,34,64,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,34,64,1.0,10.0,0.0,0,33.3,11.66
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.93,12.93
+34,BUSA.K,Brandes US Value ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.02,10.7
+34,TBG,TBG Dividend Focus ETF,5,60,14,34,74,1.0,10.0,0.0,0,31.84,10.15
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,34,74,1.0,10.0,0.0,0,31.22,14.42
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,39,59,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,39,59,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,39,59,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,39,59,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,39,59,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,39,59,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,39,59,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,39,59,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,39,59,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.64,10.6
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,39,59,1.0,10.0,0.0,0,32.34,8.45
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.92,10.9
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,39,59,1.0,10.0,0.0,0,32.22,11.32
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.3,11.66
+34,TBG,TBG Dividend Focus ETF,5,60,14,39,64,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,39,64,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,39,64,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,39,64,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.76,11.47
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.07,12.5
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.57,11.54
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,39,59,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,39,59,1.0,10.0,0.0,0,33.5,14.18
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,34.72,12.71
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.57,11.54
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,34,74,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.5,14.18
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,34,74,1.0,10.0,0.0,0,32.22,11.32
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.3,11.66
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,34,74,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,34,74,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,34,74,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,34,74,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,34,74,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,34,74,1.0,10.0,0.0,0,32.78,15.87
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.07,12.5
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.76,11.47
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.39,11.11
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,39,54,1.0,10.0,0.0,0,35.33,16.48
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,39,54,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,39,54,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,39,54,1.0,10.0,0.0,0,34.95,14.75
+34,NDIA.K,Global X India Active ETF,5,60,14,39,54,1.0,10.0,0.0,0,32.36,13.66
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,39,54,1.0,10.0,0.0,0,32.22,9.98
+34,INDE.K,Matthews India Active ETF,5,60,14,39,54,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,39,54,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,39,54,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,39,54,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,39,54,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,39,54,1.0,10.0,0.0,0,33.46,14.82
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,34,59,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,34,59,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,34,59,1.0,10.0,0.0,0,32.22,9.98
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.07,12.5
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,29,64,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,29,64,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,29,59,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,29,59,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.91,10.87
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,29,64,1.0,10.0,0.0,0,31.3,12.75
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.93,12.93
+34,BUSA.K,Brandes US Value ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.02,10.7
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,29,64,1.0,10.0,0.0,0,32.22,11.32
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,29,64,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.57,11.54
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.92,10.9
+34,TBG,TBG Dividend Focus ETF,5,60,14,29,64,1.0,10.0,0.0,0,31.84,10.15
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,29,64,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,29,64,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,29,64,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,29,64,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,29,64,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,29,64,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,29,64,1.0,10.0,0.0,0,31.22,14.42
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,29,59,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,29,59,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,29,59,1.0,10.0,0.0,0,32.36,13.66
+34,TBG,TBG Dividend Focus ETF,5,60,14,29,54,1.0,10.0,0.0,0,31.84,10.15
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,29,54,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,29,54,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,29,54,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,29,54,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,29,54,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,29,54,1.0,10.0,0.0,0,31.22,14.42
+34,BUSA.K,Brandes US Value ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.02,10.7
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,29,54,1.0,10.0,0.0,0,32.22,11.32
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,29,54,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,29,54,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,29,54,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.07,12.5
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.92,10.9
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.57,11.54
+34,INDE.K,Matthews India Active ETF,5,60,14,29,59,1.0,10.0,0.0,0,32.78,15.87
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.76,11.47
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,29,59,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,29,59,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,29,59,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,29,59,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,29,59,1.0,10.0,0.0,0,32.22,9.98
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.3,11.66
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.5,14.18
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,29,59,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,29,54,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,29,54,1.0,10.0,0.0,0,33.39,11.11
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0,31.23,15.21
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.3,11.66
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.76,11.47
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.76,11.47
+34,BUSA.K,Brandes US Value ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,34,54,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,34,54,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,34,54,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,29,74,1.0,10.0,0.0,0,32.22,11.32
+34,TBG,TBG Dividend Focus ETF,5,60,14,34,54,1.0,10.0,0.0,0,31.84,10.15
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,34,54,1.0,10.0,0.0,0,31.22,14.42
+34,INDE.K,Matthews India Active ETF,5,60,14,34,54,1.0,10.0,0.0,0,32.78,15.87
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.39,11.11
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,34,59,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,34,54,1.0,10.0,0.0,0,34.72,12.71
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.5,14.18
+34,NDIA.K,Global X India Active ETF,5,60,14,34,54,1.0,10.0,0.0,0,32.36,13.66
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,34,54,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,34,54,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,34,54,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,34,54,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,34,54,1.0,10.0,0.0,0,35.33,16.48
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,29,74,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.91,10.87
+34,NDIA.K,Global X India Active ETF,5,60,14,29,69,1.0,10.0,0.0,0,32.36,13.66
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,29,69,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,29,69,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,29,69,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,29,69,1.0,10.0,0.0,0,35.33,16.48
+34,INDE.K,Matthews India Active ETF,5,60,14,29,69,1.0,10.0,0.0,0,32.78,15.87
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.39,11.11
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,29,69,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,29,69,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,29,69,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,29,69,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,29,69,1.0,10.0,0.0,0,32.22,9.98
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,29,69,1.0,10.0,0.0,0,33.5,14.18
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,34.72,12.71
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,29,74,1.0,10.0,0.0,0,34.95,14.75
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,29,74,1.0,10.0,0.0,0,31.3,12.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,29,74,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,29,74,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,29,74,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,29,74,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,29,74,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.93,12.93
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,29,74,1.0,10.0,0.0,0,33.46,14.82
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,29,69,1.0,10.0,0.0,0,34.59,12.72
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,29,74,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,29,74,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0,35.78,12.77
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,39,64,1.0,10.0,0.0,0,31.22,14.42
+34,NDIA.K,Global X India Active ETF,5,60,14,39,64,1.0,10.0,0.0,0,32.36,13.66
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,34.59,12.72
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.93,12.93
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,49,54,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,49,54,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,49,54,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,49,54,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,49,54,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,49,54,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,49,54,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,49,54,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,49,54,1.0,10.0,0.0,0,31.84,10.15
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,49,59,1.0,10.0,0.0,0,31.23,15.21
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.07,12.5
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.3,11.66
+34,NDIA.K,Global X India Active ETF,5,60,14,49,59,1.0,10.0,0.0,0,32.36,13.66
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,49,59,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,49,59,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,49,59,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,49,59,1.0,10.0,0.0,0,35.33,16.48
+34,INDE.K,Matthews India Active ETF,5,60,14,49,59,1.0,10.0,0.0,0,32.78,15.87
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.76,11.47
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,49,59,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,49,59,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,49,59,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,49,59,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,49,59,1.0,10.0,0.0,0,32.22,9.98
+34,BUSA.K,Brandes US Value ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.02,10.7
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,49,54,1.0,10.0,0.0,0,31.3,12.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,39,64,1.0,10.0,0.0,0,35.33,16.48
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,49,54,1.0,10.0,0.0,0,33.46,14.82
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,44,74,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,44,74,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,44,74,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,44,74,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,44,74,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,44,74,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,44,69,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.5,14.18
+34,INDE.K,Matthews India Active ETF,5,60,14,44,74,1.0,10.0,0.0,0,32.78,15.87
+34,NDIA.K,Global X India Active ETF,5,60,14,44,74,1.0,10.0,0.0,0,32.36,13.66
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,44,74,1.0,10.0,0.0,0,35.33,16.48
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,34.59,12.72
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,49,54,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,49,54,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,49,54,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,44,74,1.0,10.0,0.0,0,35.78,12.77
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,44,74,1.0,10.0,0.0,0,34.72,12.71
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,44,74,1.0,10.0,0.0,0,34.95,14.75
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,44,74,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,44,74,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,44,74,1.0,10.0,0.0,0,33.91,10.87
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.5,14.18
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,49,59,1.0,10.0,0.0,0,33.39,11.11
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,34.72,12.71
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,49,59,1.0,10.0,0.0,0,34.59,12.72
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,49,74,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,49,69,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,49,69,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,49,69,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,49,69,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,49,69,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,49,69,1.0,10.0,0.0,0,32.36,13.66
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.76,11.47
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,49,74,1.0,10.0,0.0,0,32.22,9.98
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,49,74,1.0,10.0,0.0,0,33.46,14.82
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.91,10.87
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,49,74,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,49,74,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,49,74,1.0,10.0,0.0,0,32.34,8.45
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,49,74,1.0,10.0,0.0,0,34.95,14.75
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,49,74,1.0,10.0,0.0,0,31.3,12.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,49,74,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,49,74,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,49,74,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,49,74,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,49,74,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,49,74,1.0,10.0,0.0,0,33.93,12.93
+34,INDE.K,Matthews India Active ETF,5,60,14,49,69,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,49,69,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,49,69,1.0,10.0,0.0,0,31.84,10.15
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,49,64,1.0,10.0,0.0,0,31.3,12.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,49,64,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,49,64,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,49,64,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,49,64,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,49,64,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.93,12.93
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,49,64,1.0,10.0,0.0,0,33.46,14.82
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.91,10.87
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,49,64,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,49,64,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,49,59,1.0,10.0,0.0,0,35.78,12.77
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,49,64,1.0,10.0,0.0,0,34.95,14.75
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,49,64,1.0,10.0,0.0,0,32.34,8.45
+34,BUSA.K,Brandes US Value ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.02,10.7
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,49,69,1.0,10.0,0.0,0,31.23,15.21
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,49,69,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,49,69,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,49,69,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.07,12.5
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,49,69,1.0,10.0,0.0,0,33.64,10.6
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.92,10.9
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,49,64,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,49,64,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,49,64,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,49,64,1.0,10.0,0.0,0,32.22,11.32
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,44,69,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.92,10.9
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,44,54,1.0,10.0,0.0,0,34.95,14.75
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,39,74,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,39,74,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,39,74,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,39,74,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,39,74,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,39,74,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,39,74,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,39,74,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,39,74,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,39,74,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,39,74,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.3,11.66
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.57,11.54
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.5,14.18
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.39,11.11
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,44,54,1.0,10.0,0.0,0,33.46,14.82
+34,NDIA.K,Global X India Active ETF,5,60,14,44,54,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,44,54,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,44,54,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,44,54,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,44,54,1.0,10.0,0.0,0,31.3,12.75
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,44,54,1.0,10.0,0.0,0,32.22,9.98
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,34.72,12.71
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,44,54,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,39,74,1.0,10.0,0.0,0,34.59,12.72
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,39,74,1.0,10.0,0.0,0,33.64,10.6
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,34.72,12.71
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,39,64,1.0,10.0,0.0,0,34.59,12.72
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.39,11.11
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,39,69,1.0,10.0,0.0,0,33.46,14.82
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,39,64,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,39,64,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,39,64,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,39,64,1.0,10.0,0.0,0,34.95,14.75
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,39,69,1.0,10.0,0.0,0,32.22,9.98
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,39,69,1.0,10.0,0.0,0,31.3,12.75
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0,35.78,12.77
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,39,69,1.0,10.0,0.0,0,32.34,8.45
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,39,69,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,39,69,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.92,10.9
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.91,10.87
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.93,12.93
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,39,69,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,39,69,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,39,69,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,39,69,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,39,69,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,39,69,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,39,69,1.0,10.0,0.0,0,33.02,10.7
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,44,54,1.0,10.0,0.0,0,35.33,16.48
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.91,10.87
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,44,69,1.0,10.0,0.0,0,32.34,8.45
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,44,54,1.0,10.0,0.0,0,32.34,8.45
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,44,64,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,44,64,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,44,64,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,44,64,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,44,64,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,44,64,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,44,64,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,44,64,1.0,10.0,0.0,0,31.84,10.15
+34,BUSA.K,Brandes US Value ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.02,10.7
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.93,12.93
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,44,64,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,44,64,1.0,10.0,0.0,0,33.46,14.82
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,34.72,12.71
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,34.59,12.72
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,44,64,1.0,10.0,0.0,0,35.78,12.77
+34,BUSA.K,Brandes US Value ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.02,10.7
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,44,69,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,44,69,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,44,69,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,44,69,1.0,10.0,0.0,0,32.78,15.87
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,44,69,1.0,10.0,0.0,0,31.22,14.42
+34,TBG,TBG Dividend Focus ETF,5,60,14,44,69,1.0,10.0,0.0,0,31.84,10.15
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.93,12.93
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.64,10.6
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,44,69,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,44,69,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,44,69,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,44,69,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,44,69,1.0,10.0,0.0,0,31.23,15.21
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,44,64,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.3,11.66
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.64,10.6
+34,OPTZ.O,Optimize Strategy Index ETF,5,60,14,44,59,1.0,10.0,0.0,0,31.3,12.75
+34,SOVF.K,Sovereign's Capital Flourish Fund,5,60,14,44,59,1.0,10.0,0.0,0,33.46,14.82
+34,DFVX.K,Dimensional US Large Cap Vector ETF,5,60,14,44,59,1.0,10.0,0.0,0,32.22,9.98
+34,AVLC.K,Avantis US Large Cap Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.76,11.47
+34,LRGC.K,AB US Large Cap Strategic Equities ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.3,11.66
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.07,12.5
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,44,59,1.0,10.0,0.0,0,31.23,15.21
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,44,54,1.0,10.0,0.0,0,35.78,12.77
+34,BUSA.K,Brandes US Value ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.02,10.7
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,44,54,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.5,14.18
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.57,11.54
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,44,54,1.0,10.0,0.0,0,32.22,11.32
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,44,54,1.0,10.0,0.0,0,33.92,10.9
+34,BCUS.K,Bancreek U.S. Large Cap ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.93,12.93
+34,TBG,TBG Dividend Focus ETF,5,60,14,44,59,1.0,10.0,0.0,0,31.84,10.15
+34,FMDE.K,Fidelity Enhanced Mid Cap ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.07,12.5
+34,LQAI.K,LG QRAFT AI-Powered US Large Cap Core ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.57,11.54
+34,TGRT.K,T Rowe Price Growth ETF,5,60,14,44,64,1.0,10.0,0.0,0,31.23,15.21
+34,FELC.K,Fidelity Enhanced Large Cap Core ETF,5,60,14,44,64,1.0,10.0,0.0,0,33.64,10.6
+34,HQGO.O,Hartford US Quality Growth ETF,5,60,14,44,59,1.0,10.0,0.0,0,35.78,12.77
+34,BEEZ.O,Honeytree US Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,34.59,12.72
+34,LBO,WHITEWOLF Publicly Listed Private Equity ETF,5,60,14,44,59,1.0,10.0,0.0,0,34.72,12.71
+34,JDOC.O,JPMorgan Healthcare Leaders ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.39,11.11
+34,GGUS.K,Goldman Sachs MarketBeta Russell 1000 Grwth Eq ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.5,14.18
+34,CRTC.K,Xtrackers US National Critical Technologies ETF,5,60,14,44,59,1.0,10.0,0.0,0,32.22,11.32
+34,HAPI.K,Harbor Human Capital Factor US Large Cap ETF,5,60,14,44,59,1.0,10.0,0.0,0,31.22,14.42
+34,ITDI.K,iShares LifePath Target Date 2065 ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.92,10.9
+34,MAYU.K,AllianzIM US Equity Buffer15 Uncapped May ETF,5,60,14,44,59,1.0,10.0,0.0,0,32.34,8.45
+34,ITDG.K,iShares LifePath Target Date 2055 ETF,5,60,14,44,59,1.0,10.0,0.0,0,33.91,10.87
+34,SMCO.O,Hilton Small-MidCap Opportunity ETF,5,60,14,44,59,1.0,10.0,0.0,0,34.95,14.75
+34,SCAP.K,InfraCap Small Cap Income ETF,5,60,14,44,59,1.0,10.0,0.0,0,35.33,16.48
+34,NDIA.K,Global X India Active ETF,5,60,14,44,59,1.0,10.0,0.0,0,32.36,13.66
+34,INDE.K,Matthews India Active ETF,5,60,14,44,59,1.0,10.0,0.0,0,32.78,15.87
+34,HQGO.O,Hartford US Quality Growth ETF,5,120,14,49,74,1.0,10.0,0.0,0,35.78,12.77

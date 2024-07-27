@@ -1,0 +1,151 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+21,RENB.O,레노바로,5,60,14,29,54,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,34,59,1.0,10.0,0.0,0,318.34,152.5
+21,RENB.O,레노바로,5,120,14,34,64,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,34,64,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,34,64,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,34,69,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,34,69,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,34,69,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,34,74,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,34,74,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,34,74,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,39,54,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,39,54,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,39,54,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,39,59,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,39,59,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,39,59,1.0,10.0,0.0,0,306.39,117.61
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,34,59,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,34,59,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,39,64,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,34,54,1.0,10.0,0.0,0,306.39,117.61
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,29,54,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,29,59,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,29,59,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,29,59,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,29,64,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,29,64,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,29,64,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,29,69,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,29,69,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,29,69,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,29,74,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,29,74,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,29,74,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,34,54,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,34,54,1.0,10.0,0.0,0,318.34,152.5
+21,RENB.O,레노바로,5,120,14,39,64,1.0,10.0,0.0,0,313.55,147.28
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,39,64,1.0,10.0,0.0,0,306.39,117.61
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,29,54,1.0,10.0,0.0,0,318.34,152.5
+21,RENB.O,레노바로,5,120,14,44,74,1.0,10.0,0.0,0,313.55,147.28
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,44,74,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,49,54,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,49,54,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,49,54,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,49,59,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,49,59,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,49,59,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,49,64,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,49,64,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,49,64,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,49,69,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,49,69,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,49,69,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,49,74,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,49,74,1.0,10.0,0.0,0,318.34,152.5
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,44,74,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,44,69,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,39,69,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,44,69,1.0,10.0,0.0,0,318.34,152.5
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,39,69,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,39,69,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,39,74,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,39,74,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,39,74,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,44,54,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,44,54,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,44,54,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,44,59,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,44,59,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,44,59,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,44,64,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,44,64,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,44,64,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,120,14,44,69,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,120,14,29,54,1.0,10.0,0.0,0,318.34,152.5
+21,RENB.O,레노바로,5,120,14,29,54,1.0,10.0,0.0,0,313.55,147.28
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,49,74,1.0,10.0,0.0,0,306.39,117.61
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,34,59,1.0,10.0,0.0,0,318.34,152.5
+21,RENB.O,레노바로,5,60,14,34,64,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,34,64,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,34,64,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,34,69,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,34,69,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,34,69,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,34,74,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,34,74,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,34,74,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,39,54,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,39,54,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,39,54,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,39,59,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,39,59,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,39,59,1.0,10.0,0.0,0,306.39,117.61
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,34,59,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,34,59,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,49,74,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,34,54,1.0,10.0,0.0,0,306.39,117.61
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,29,54,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,29,59,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,29,59,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,29,59,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,29,64,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,29,64,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,29,64,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,29,69,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,29,69,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,29,69,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,29,74,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,29,74,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,29,74,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,34,54,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,34,54,1.0,10.0,0.0,0,318.34,152.5
+21,RENB.O,레노바로,5,60,14,39,64,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,39,64,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,39,64,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,39,69,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,44,74,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,44,74,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,49,54,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,49,54,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,49,54,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,49,59,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,49,59,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,49,59,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,49,64,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,49,64,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,49,64,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,49,69,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,49,69,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,49,69,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,49,74,1.0,10.0,0.0,0,313.55,147.28
+21,RENB.O,레노바로,5,60,14,44,74,1.0,10.0,0.0,0,313.55,147.28
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,44,69,1.0,10.0,0.0,0,306.39,117.61
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,44,69,1.0,10.0,0.0,0,318.34,152.5
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,44,54,1.0,10.0,0.0,0,318.34,152.5
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,39,69,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,39,69,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,39,74,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,39,74,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,39,74,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,44,54,1.0,10.0,0.0,0,313.55,147.28
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,44,54,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,44,69,1.0,10.0,0.0,0,313.55,147.28
+21,RENB.O,레노바로,5,60,14,44,59,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,44,59,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,44,59,1.0,10.0,0.0,0,306.39,117.61
+21,RENB.O,레노바로,5,60,14,44,64,1.0,10.0,0.0,0,313.55,147.28
+21,CETUR.O,Cetus Capital Acquisition Rights Exp 31 Mar 2024,5,60,14,44,64,1.0,10.0,0.0,0,318.34,152.5
+21,BAYAR.O,Bayview Acquisition Rights,5,60,14,44,64,1.0,10.0,0.0,0,306.39,117.61
+21,BAYAR.O,Bayview Acquisition Rights,5,120,14,49,74,1.0,10.0,0.0,0,306.39,117.61

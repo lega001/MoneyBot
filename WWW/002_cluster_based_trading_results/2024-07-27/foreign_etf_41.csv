@@ -1,0 +1,401 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+41,UYM,ProShares Ultra Materials,5,60,14,49,64,1.0,10.0,108.96,20.05,20.98,43.34
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,49,64,1.0,10.0,108.96,726.03,28.01,41.29
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,64,1.0,10.0,108.96,0.0,25.3,49.29
+41,SAA,ProShares Ultra SmallCap600,5,60,14,49,64,1.0,10.0,108.96,26.75,28.5,43.53
+41,MVV,ProShares Ultra MidCap400,5,60,14,49,64,1.0,10.0,108.96,26.78,27.29,40.02
+41,UYG,ProShares Ultra Financials,5,60,14,49,64,1.0,10.0,108.96,46.53,25.54,40.49
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,49,64,1.0,10.0,108.96,0.0,23.09,45.17
+41,UWM,ProShares Ultra Russell2000,5,60,14,49,64,1.0,10.0,108.96,25.56,25.76,43.94
+41,UWM,ProShares Ultra Russell2000,5,60,14,49,59,1.0,10.0,106.31,20.95,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,49,59,1.0,10.0,106.31,726.03,28.01,41.29
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,59,1.0,10.0,106.31,0.0,25.3,49.29
+41,SAA,ProShares Ultra SmallCap600,5,60,14,49,59,1.0,10.0,106.31,17.72,28.5,43.53
+41,MVV,ProShares Ultra MidCap400,5,60,14,49,59,1.0,10.0,106.31,23.89,27.29,40.02
+41,UYG,ProShares Ultra Financials,5,60,14,49,59,1.0,10.0,106.31,44.38,25.54,40.49
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,49,59,1.0,10.0,106.31,0.0,23.09,45.17
+41,UYM,ProShares Ultra Materials,5,60,14,49,59,1.0,10.0,106.31,17.53,20.98,43.34
+41,UYG,ProShares Ultra Financials,5,120,14,49,64,1.0,10.0,100.94,45.94,25.54,40.49
+41,UWM,ProShares Ultra Russell2000,5,120,14,49,64,1.0,10.0,100.94,27.51,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,49,64,1.0,10.0,100.94,658.89,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,49,64,1.0,10.0,100.94,0.0,23.09,45.17
+41,SAA,ProShares Ultra SmallCap600,5,120,14,49,64,1.0,10.0,100.94,29.27,28.5,43.53
+41,MVV,ProShares Ultra MidCap400,5,120,14,49,64,1.0,10.0,100.94,27.21,27.29,40.02
+41,UYM,ProShares Ultra Materials,5,120,14,49,64,1.0,10.0,100.94,18.72,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,64,1.0,10.0,100.94,0.0,25.3,49.29
+41,MVV,ProShares Ultra MidCap400,5,120,14,49,59,1.0,10.0,96.65,23.02,27.29,40.02
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,49,59,1.0,10.0,96.65,658.89,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,49,59,1.0,10.0,96.65,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,120,14,49,59,1.0,10.0,96.65,37.66,25.54,40.49
+41,UWM,ProShares Ultra Russell2000,5,120,14,49,59,1.0,10.0,96.65,22.01,25.76,43.94
+41,SAA,ProShares Ultra SmallCap600,5,120,14,49,59,1.0,10.0,96.65,15.89,28.5,43.53
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,59,1.0,10.0,96.65,0.0,25.3,49.29
+41,UYM,ProShares Ultra Materials,5,120,14,49,59,1.0,10.0,96.65,15.71,20.98,43.34
+41,UWM,ProShares Ultra Russell2000,5,60,14,49,54,1.0,10.0,77.83,43.89,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,49,54,1.0,10.0,77.83,388.82,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,49,54,1.0,10.0,77.83,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,60,14,49,54,1.0,10.0,77.83,43.79,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,60,14,49,54,1.0,10.0,77.83,72.11,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,60,14,49,54,1.0,10.0,77.83,40.47,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,60,14,49,54,1.0,10.0,77.83,33.61,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,54,1.0,10.0,77.83,0.0,25.3,49.29
+41,MVV,ProShares Ultra MidCap400,5,60,14,49,69,1.0,10.0,58.06,27.56,27.29,40.02
+41,UWM,ProShares Ultra Russell2000,5,60,14,49,69,1.0,10.0,58.06,28.8,25.76,43.94
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,49,69,1.0,10.0,58.06,0.0,23.09,45.17
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,49,69,1.0,10.0,58.06,329.93,28.01,41.29
+41,SAA,ProShares Ultra SmallCap600,5,60,14,49,69,1.0,10.0,58.06,28.31,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,60,14,49,69,1.0,10.0,58.06,14.76,20.98,43.34
+41,UYG,ProShares Ultra Financials,5,60,14,49,69,1.0,10.0,58.06,35.1,25.54,40.49
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,69,1.0,10.0,58.06,0.0,25.3,49.29
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,69,1.0,10.0,55.9,0.0,25.3,49.29
+41,MVV,ProShares Ultra MidCap400,5,120,14,49,69,1.0,10.0,55.9,28.39,27.29,40.02
+41,UWM,ProShares Ultra Russell2000,5,120,14,49,69,1.0,10.0,55.9,31.04,25.76,43.94
+41,SAA,ProShares Ultra SmallCap600,5,120,14,49,69,1.0,10.0,55.9,29.43,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,49,69,1.0,10.0,55.9,14.29,20.98,43.34
+41,UYG,ProShares Ultra Financials,5,120,14,49,69,1.0,10.0,55.9,48.26,25.54,40.49
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,49,69,1.0,10.0,55.9,0.0,23.09,45.17
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,49,69,1.0,10.0,55.9,295.8,28.01,41.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,49,54,1.0,10.0,54.96,37.04,25.76,43.94
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,49,54,1.0,10.0,54.96,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,120,14,49,54,1.0,10.0,54.96,37.19,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,120,14,49,54,1.0,10.0,54.96,48.0,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,120,14,49,54,1.0,10.0,54.96,29.72,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,49,54,1.0,10.0,54.96,16.69,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,54,1.0,10.0,54.96,0.0,25.3,49.29
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,49,54,1.0,10.0,54.96,271.01,28.01,41.29
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,49,74,1.0,10.0,54.21,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,60,14,49,74,1.0,10.0,54.21,18.75,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,49,74,1.0,10.0,54.21,329.93,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,49,74,1.0,10.0,54.21,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,60,14,49,74,1.0,10.0,54.21,26.24,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,60,14,49,74,1.0,10.0,54.21,20.47,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,60,14,49,74,1.0,10.0,54.21,21.61,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,60,14,49,74,1.0,10.0,54.21,16.65,20.98,43.34
+41,UWM,ProShares Ultra Russell2000,5,60,14,39,59,1.0,10.0,53.85,44.66,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,39,59,1.0,10.0,53.85,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,39,59,1.0,10.0,53.85,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,60,14,39,59,1.0,10.0,53.85,56.46,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,60,14,39,59,1.0,10.0,53.85,135.53,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,60,14,39,59,1.0,10.0,53.85,177.48,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,60,14,39,59,1.0,10.0,53.85,16.67,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,59,1.0,10.0,53.85,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,60,14,39,54,1.0,10.0,53.67,44.04,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,39,54,1.0,10.0,53.67,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,39,54,1.0,10.0,53.67,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,60,14,39,54,1.0,10.0,53.67,85.15,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,60,14,39,54,1.0,10.0,53.67,116.67,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,60,14,39,54,1.0,10.0,53.67,168.43,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,60,14,39,54,1.0,10.0,53.67,15.07,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,54,1.0,10.0,53.67,0.0,25.3,49.29
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,49,74,1.0,10.0,50.28,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,49,74,1.0,10.0,50.28,20.59,25.76,43.94
+41,UYM,ProShares Ultra Materials,5,120,14,49,74,1.0,10.0,50.28,16.27,20.98,43.34
+41,SAA,ProShares Ultra SmallCap600,5,120,14,49,74,1.0,10.0,50.28,18.11,28.5,43.53
+41,MVV,ProShares Ultra MidCap400,5,120,14,49,74,1.0,10.0,50.28,17.87,27.29,40.02
+41,UYG,ProShares Ultra Financials,5,120,14,49,74,1.0,10.0,50.28,33.63,25.54,40.49
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,49,74,1.0,10.0,50.28,0.0,23.09,45.17
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,49,74,1.0,10.0,50.28,295.8,28.01,41.29
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,44,64,1.0,10.0,47.4,0.0,28.01,41.29
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,64,1.0,10.0,47.4,0.0,25.3,49.29
+41,UYM,ProShares Ultra Materials,5,120,14,44,64,1.0,10.0,47.4,26.64,20.98,43.34
+41,SAA,ProShares Ultra SmallCap600,5,120,14,44,64,1.0,10.0,47.4,86.82,28.5,43.53
+41,MVV,ProShares Ultra MidCap400,5,120,14,44,64,1.0,10.0,47.4,117.67,27.29,40.02
+41,UYG,ProShares Ultra Financials,5,120,14,44,64,1.0,10.0,47.4,90.28,25.54,40.49
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,44,64,1.0,10.0,47.4,0.0,23.09,45.17
+41,UWM,ProShares Ultra Russell2000,5,120,14,44,64,1.0,10.0,47.4,57.76,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,44,69,1.0,10.0,45.23,0.0,28.01,41.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,44,69,1.0,10.0,45.23,65.32,25.76,43.94
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,69,1.0,10.0,45.23,0.0,25.3,49.29
+41,UYM,ProShares Ultra Materials,5,120,14,44,69,1.0,10.0,45.23,16.11,20.98,43.34
+41,SAA,ProShares Ultra SmallCap600,5,120,14,44,69,1.0,10.0,45.23,81.52,28.5,43.53
+41,MVV,ProShares Ultra MidCap400,5,120,14,44,69,1.0,10.0,45.23,108.92,27.29,40.02
+41,UYG,ProShares Ultra Financials,5,120,14,44,69,1.0,10.0,45.23,89.96,25.54,40.49
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,44,69,1.0,10.0,45.23,0.0,23.09,45.17
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,44,54,1.0,10.0,42.44,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,44,54,1.0,10.0,42.44,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,120,14,44,54,1.0,10.0,42.44,163.89,25.54,40.49
+41,UWM,ProShares Ultra Russell2000,5,120,14,44,54,1.0,10.0,42.44,39.57,25.76,43.94
+41,MVV,ProShares Ultra MidCap400,5,120,14,44,54,1.0,10.0,42.44,64.33,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,120,14,44,54,1.0,10.0,42.44,51.48,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,44,54,1.0,10.0,42.44,20.21,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,54,1.0,10.0,42.44,0.0,25.3,49.29
+41,MVV,ProShares Ultra MidCap400,5,60,14,39,64,1.0,10.0,41.79,83.78,27.29,40.02
+41,UWM,ProShares Ultra Russell2000,5,60,14,39,64,1.0,10.0,41.79,48.54,25.76,43.94
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,64,1.0,10.0,41.79,0.0,25.3,49.29
+41,UYM,ProShares Ultra Materials,5,60,14,39,64,1.0,10.0,41.79,22.09,20.98,43.34
+41,SAA,ProShares Ultra SmallCap600,5,60,14,39,64,1.0,10.0,41.79,109.52,28.5,43.53
+41,UYG,ProShares Ultra Financials,5,60,14,39,64,1.0,10.0,41.79,70.42,25.54,40.49
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,39,64,1.0,10.0,41.79,0.0,23.09,45.17
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,39,64,1.0,10.0,41.79,0.0,28.01,41.29
+41,UWM,ProShares Ultra Russell2000,5,60,14,39,69,1.0,10.0,40.68,52.92,25.76,43.94
+41,UYM,ProShares Ultra Materials,5,60,14,39,69,1.0,10.0,40.68,15.02,20.98,43.34
+41,SAA,ProShares Ultra SmallCap600,5,60,14,39,69,1.0,10.0,40.68,103.22,28.5,43.53
+41,MVV,ProShares Ultra MidCap400,5,60,14,39,69,1.0,10.0,40.68,82.13,27.29,40.02
+41,UYG,ProShares Ultra Financials,5,60,14,39,69,1.0,10.0,40.68,72.12,25.54,40.49
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,39,69,1.0,10.0,40.68,0.0,23.09,45.17
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,39,69,1.0,10.0,40.68,0.0,28.01,41.29
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,69,1.0,10.0,40.68,0.0,25.3,49.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,44,59,1.0,10.0,37.13,0.0,23.09,45.17
+41,UWM,ProShares Ultra Russell2000,5,120,14,44,59,1.0,10.0,37.13,50.12,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,44,59,1.0,10.0,37.13,0.0,28.01,41.29
+41,UYG,ProShares Ultra Financials,5,120,14,44,59,1.0,10.0,37.13,74.11,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,120,14,44,59,1.0,10.0,37.13,89.31,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,120,14,44,59,1.0,10.0,37.13,62.7,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,44,59,1.0,10.0,37.13,20.79,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,59,1.0,10.0,37.13,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,60,14,44,54,1.0,10.0,26.7,40.5,25.76,43.94
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,54,1.0,10.0,26.7,0.0,25.3,49.29
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,44,54,1.0,10.0,26.7,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,44,54,1.0,10.0,26.7,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,60,14,44,54,1.0,10.0,26.7,43.79,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,60,14,44,54,1.0,10.0,26.7,68.39,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,60,14,44,54,1.0,10.0,26.7,33.79,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,60,14,44,54,1.0,10.0,26.7,27.13,20.98,43.34
+41,MVV,ProShares Ultra MidCap400,5,60,14,44,64,1.0,10.0,18.96,27.5,27.29,40.02
+41,UYG,ProShares Ultra Financials,5,60,14,44,64,1.0,10.0,18.96,46.53,25.54,40.49
+41,SAA,ProShares Ultra SmallCap600,5,60,14,44,64,1.0,10.0,18.96,24.56,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,60,14,44,64,1.0,10.0,18.96,22.09,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,64,1.0,10.0,18.96,0.0,25.3,49.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,44,64,1.0,10.0,18.96,0.0,23.09,45.17
+41,UWM,ProShares Ultra Russell2000,5,60,14,44,64,1.0,10.0,18.96,31.0,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,44,64,1.0,10.0,18.96,0.0,28.01,41.29
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,39,74,1.0,10.0,17.49,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,39,74,1.0,10.0,17.49,0.0,23.09,45.17
+41,UWM,ProShares Ultra Russell2000,5,60,14,39,74,1.0,10.0,17.49,28.04,25.76,43.94
+41,UYG,ProShares Ultra Financials,5,60,14,39,74,1.0,10.0,17.49,31.18,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,60,14,39,74,1.0,10.0,17.49,30.29,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,60,14,39,74,1.0,10.0,17.49,33.04,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,60,14,39,74,1.0,10.0,17.49,17.34,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,39,74,1.0,10.0,17.49,0.0,25.3,49.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,44,69,1.0,10.0,17.19,0.0,23.09,45.17
+41,UWM,ProShares Ultra Russell2000,5,60,14,44,69,1.0,10.0,17.19,33.76,25.76,43.94
+41,UYG,ProShares Ultra Financials,5,60,14,44,69,1.0,10.0,17.19,35.1,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,60,14,44,69,1.0,10.0,17.19,27.75,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,60,14,44,69,1.0,10.0,17.19,25.84,28.5,43.53
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,69,1.0,10.0,17.19,0.0,25.3,49.29
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,44,69,1.0,10.0,17.19,0.0,28.01,41.29
+41,UYM,ProShares Ultra Materials,5,60,14,44,69,1.0,10.0,17.19,15.02,20.98,43.34
+41,UYM,ProShares Ultra Materials,5,60,14,44,59,1.0,10.0,16.04,16.67,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,59,1.0,10.0,16.04,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,60,14,44,59,1.0,10.0,16.04,26.22,25.76,43.94
+41,SAA,ProShares Ultra SmallCap600,5,60,14,44,59,1.0,10.0,16.04,16.4,28.5,43.53
+41,MVV,ProShares Ultra MidCap400,5,60,14,44,59,1.0,10.0,16.04,24.67,27.29,40.02
+41,UYG,ProShares Ultra Financials,5,60,14,44,59,1.0,10.0,16.04,44.38,25.54,40.49
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,44,59,1.0,10.0,16.04,0.0,23.09,45.17
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,44,59,1.0,10.0,16.04,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,34,54,1.0,10.0,14.88,0.0,23.09,45.17
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,54,1.0,10.0,14.88,0.0,25.3,49.29
+41,UYM,ProShares Ultra Materials,5,60,14,34,54,1.0,10.0,14.88,13.9,20.98,43.34
+41,SAA,ProShares Ultra SmallCap600,5,60,14,34,54,1.0,10.0,14.88,0.0,28.5,43.53
+41,MVV,ProShares Ultra MidCap400,5,60,14,34,54,1.0,10.0,14.88,0.0,27.29,40.02
+41,UYG,ProShares Ultra Financials,5,60,14,34,54,1.0,10.0,14.88,105.14,25.54,40.49
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,34,54,1.0,10.0,14.88,0.0,28.01,41.29
+41,UWM,ProShares Ultra Russell2000,5,60,14,34,54,1.0,10.0,14.88,0.0,25.76,43.94
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,44,74,1.0,10.0,13.45,0.0,23.09,45.17
+41,UWM,ProShares Ultra Russell2000,5,120,14,44,74,1.0,10.0,13.45,15.3,25.76,43.94
+41,UYG,ProShares Ultra Financials,5,120,14,44,74,1.0,10.0,13.45,33.63,25.54,40.49
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,44,74,1.0,10.0,13.45,0.0,25.3,49.29
+41,UYM,ProShares Ultra Materials,5,120,14,44,74,1.0,10.0,13.45,18.58,20.98,43.34
+41,SAA,ProShares Ultra SmallCap600,5,120,14,44,74,1.0,10.0,13.45,21.2,28.5,43.53
+41,MVV,ProShares Ultra MidCap400,5,120,14,44,74,1.0,10.0,13.45,18.88,27.29,40.02
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,44,74,1.0,10.0,13.45,0.0,28.01,41.29
+41,UWM,ProShares Ultra Russell2000,5,60,14,29,54,1.0,10.0,13.14,0.0,25.76,43.94
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,29,54,1.0,10.0,13.14,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,60,14,29,54,1.0,10.0,13.14,105.14,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,60,14,29,54,1.0,10.0,13.14,0.0,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,60,14,29,54,1.0,10.0,13.14,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,60,14,29,54,1.0,10.0,13.14,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,54,1.0,10.0,13.14,0.0,25.3,49.29
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,29,54,1.0,10.0,13.14,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,44,74,1.0,10.0,12.67,0.0,23.09,45.17
+41,MVV,ProShares Ultra MidCap400,5,60,14,44,74,1.0,10.0,12.67,18.92,27.29,40.02
+41,UWM,ProShares Ultra Russell2000,5,60,14,44,74,1.0,10.0,12.67,21.97,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,44,74,1.0,10.0,12.67,0.0,28.01,41.29
+41,UYG,ProShares Ultra Financials,5,60,14,44,74,1.0,10.0,12.67,26.24,25.54,40.49
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,44,74,1.0,10.0,12.67,0.0,25.3,49.29
+41,SAA,ProShares Ultra SmallCap600,5,60,14,44,74,1.0,10.0,12.67,16.88,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,60,14,44,74,1.0,10.0,12.67,17.34,20.98,43.34
+41,UWM,ProShares Ultra Russell2000,5,60,14,34,74,1.0,10.0,8.52,0.0,25.76,43.94
+41,MVV,ProShares Ultra MidCap400,5,60,14,34,74,1.0,10.0,8.52,0.0,27.29,40.02
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,34,74,1.0,10.0,8.52,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,60,14,34,74,1.0,10.0,8.52,57.37,25.54,40.49
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,34,74,1.0,10.0,8.52,0.0,28.01,41.29
+41,SAA,ProShares Ultra SmallCap600,5,60,14,34,74,1.0,10.0,8.52,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,60,14,34,74,1.0,10.0,8.52,10.77,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,74,1.0,10.0,8.52,0.0,25.3,49.29
+41,UYG,ProShares Ultra Financials,5,60,14,34,64,1.0,10.0,8.4,47.18,25.54,40.49
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,64,1.0,10.0,8.4,0.0,25.3,49.29
+41,MVV,ProShares Ultra MidCap400,5,60,14,34,64,1.0,10.0,8.4,0.0,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,60,14,34,64,1.0,10.0,8.4,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,60,14,34,64,1.0,10.0,8.4,20.06,20.98,43.34
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,34,64,1.0,10.0,8.4,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,34,64,1.0,10.0,8.4,0.0,23.09,45.17
+41,UWM,ProShares Ultra Russell2000,5,60,14,34,64,1.0,10.0,8.4,0.0,25.76,43.94
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,34,69,1.0,10.0,7.54,0.0,23.09,45.17
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,69,1.0,10.0,7.54,0.0,25.3,49.29
+41,UYM,ProShares Ultra Materials,5,60,14,34,69,1.0,10.0,7.54,10.01,20.98,43.34
+41,SAA,ProShares Ultra SmallCap600,5,60,14,34,69,1.0,10.0,7.54,0.0,28.5,43.53
+41,MVV,ProShares Ultra MidCap400,5,60,14,34,69,1.0,10.0,7.54,0.0,27.29,40.02
+41,UWM,ProShares Ultra Russell2000,5,60,14,34,69,1.0,10.0,7.54,0.0,25.76,43.94
+41,UYG,ProShares Ultra Financials,5,60,14,34,69,1.0,10.0,7.54,50.33,25.54,40.49
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,34,69,1.0,10.0,7.54,0.0,28.01,41.29
+41,SAA,ProShares Ultra SmallCap600,5,60,14,29,74,1.0,10.0,7.17,0.0,28.5,43.53
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,74,1.0,10.0,7.17,0.0,25.3,49.29
+41,MVV,ProShares Ultra MidCap400,5,60,14,29,74,1.0,10.0,7.17,0.0,27.29,40.02
+41,UYG,ProShares Ultra Financials,5,60,14,29,74,1.0,10.0,7.17,57.37,25.54,40.49
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,29,74,1.0,10.0,7.17,0.0,23.09,45.17
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,29,74,1.0,10.0,7.17,0.0,28.01,41.29
+41,UWM,ProShares Ultra Russell2000,5,60,14,29,74,1.0,10.0,7.17,0.0,25.76,43.94
+41,UYM,ProShares Ultra Materials,5,60,14,29,74,1.0,10.0,7.17,0.0,20.98,43.34
+41,MVV,ProShares Ultra MidCap400,5,60,14,34,59,1.0,10.0,6.92,0.0,27.29,40.02
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,34,59,1.0,10.0,6.92,0.0,25.3,49.29
+41,UYM,ProShares Ultra Materials,5,60,14,34,59,1.0,10.0,6.92,18.01,20.98,43.34
+41,SAA,ProShares Ultra SmallCap600,5,60,14,34,59,1.0,10.0,6.92,0.0,28.5,43.53
+41,UYG,ProShares Ultra Financials,5,60,14,34,59,1.0,10.0,6.92,37.32,25.54,40.49
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,34,59,1.0,10.0,6.92,0.0,23.09,45.17
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,34,59,1.0,10.0,6.92,0.0,28.01,41.29
+41,UWM,ProShares Ultra Russell2000,5,60,14,34,59,1.0,10.0,6.92,0.0,25.76,43.94
+41,MVV,ProShares Ultra MidCap400,5,60,14,29,69,1.0,10.0,6.29,0.0,27.29,40.02
+41,UWM,ProShares Ultra Russell2000,5,60,14,29,69,1.0,10.0,6.29,0.0,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,29,69,1.0,10.0,6.29,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,29,69,1.0,10.0,6.29,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,60,14,29,69,1.0,10.0,6.29,50.33,25.54,40.49
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,69,1.0,10.0,6.29,0.0,25.3,49.29
+41,SAA,ProShares Ultra SmallCap600,5,60,14,29,69,1.0,10.0,6.29,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,60,14,29,69,1.0,10.0,6.29,0.0,20.98,43.34
+41,UYG,ProShares Ultra Financials,5,60,14,29,64,1.0,10.0,5.9,47.18,25.54,40.49
+41,UWM,ProShares Ultra Russell2000,5,60,14,29,64,1.0,10.0,5.9,0.0,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,29,64,1.0,10.0,5.9,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,29,64,1.0,10.0,5.9,0.0,23.09,45.17
+41,MVV,ProShares Ultra MidCap400,5,60,14,29,64,1.0,10.0,5.9,0.0,27.29,40.02
+41,UYM,ProShares Ultra Materials,5,60,14,29,64,1.0,10.0,5.9,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,64,1.0,10.0,5.9,0.0,25.3,49.29
+41,SAA,ProShares Ultra SmallCap600,5,60,14,29,64,1.0,10.0,5.9,0.0,28.5,43.53
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,60,14,29,59,1.0,10.0,4.67,0.0,23.09,45.17
+41,BWET.K,Breakwave Tanker Shipping ETF,5,60,14,29,59,1.0,10.0,4.67,0.0,25.3,49.29
+41,UYM,ProShares Ultra Materials,5,60,14,29,59,1.0,10.0,4.67,0.0,20.98,43.34
+41,SAA,ProShares Ultra SmallCap600,5,60,14,29,59,1.0,10.0,4.67,0.0,28.5,43.53
+41,MVV,ProShares Ultra MidCap400,5,60,14,29,59,1.0,10.0,4.67,0.0,27.29,40.02
+41,UYG,ProShares Ultra Financials,5,60,14,29,59,1.0,10.0,4.67,37.32,25.54,40.49
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,60,14,29,59,1.0,10.0,4.67,0.0,28.01,41.29
+41,UWM,ProShares Ultra Russell2000,5,60,14,29,59,1.0,10.0,4.67,0.0,25.76,43.94
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,23.09,45.17
+41,SAA,ProShares Ultra SmallCap600,5,120,14,39,69,1.0,10.0,0.0,0.0,28.5,43.53
+41,MVV,ProShares Ultra MidCap400,5,120,14,39,69,1.0,10.0,0.0,0.0,27.29,40.02
+41,UYG,ProShares Ultra Financials,5,120,14,39,69,1.0,10.0,0.0,0.0,25.54,40.49
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,25.3,49.29
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,39,69,1.0,10.0,0.0,0.0,28.01,41.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,39,69,1.0,10.0,0.0,0.0,25.76,43.94
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,25.3,49.29
+41,UYM,ProShares Ultra Materials,5,120,14,39,69,1.0,10.0,0.0,0.0,20.98,43.34
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,29,54,1.0,10.0,0.0,0.0,28.01,41.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,39,74,1.0,10.0,0.0,0.0,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,39,74,1.0,10.0,0.0,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,120,14,39,74,1.0,10.0,0.0,0.0,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,120,14,39,74,1.0,10.0,0.0,0.0,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,120,14,39,74,1.0,10.0,0.0,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,39,74,1.0,10.0,0.0,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,25.3,49.29
+41,SAA,ProShares Ultra SmallCap600,5,120,14,39,64,1.0,10.0,0.0,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,39,64,1.0,10.0,0.0,0.0,20.98,43.34
+41,MVV,ProShares Ultra MidCap400,5,120,14,39,64,1.0,10.0,0.0,0.0,27.29,40.02
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,23.09,45.17
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,23.09,45.17
+41,MVV,ProShares Ultra MidCap400,5,120,14,29,69,1.0,10.0,0.0,0.0,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,120,14,29,69,1.0,10.0,0.0,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,29,69,1.0,10.0,0.0,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,29,74,1.0,10.0,0.0,0.0,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,29,74,1.0,10.0,0.0,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,120,14,29,74,1.0,10.0,0.0,0.0,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,120,14,29,74,1.0,10.0,0.0,0.0,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,120,14,29,74,1.0,10.0,0.0,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,29,74,1.0,10.0,0.0,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,34,54,1.0,10.0,0.0,0.0,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,34,54,1.0,10.0,0.0,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,120,14,34,54,1.0,10.0,0.0,0.0,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,120,14,34,54,1.0,10.0,0.0,0.0,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,120,14,34,54,1.0,10.0,0.0,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,34,54,1.0,10.0,0.0,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,34,59,1.0,10.0,0.0,0.0,25.76,43.94
+41,UYG,ProShares Ultra Financials,5,120,14,29,69,1.0,10.0,0.0,0.0,25.54,40.49
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,29,69,1.0,10.0,0.0,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,23.09,45.17
+41,UWM,ProShares Ultra Russell2000,5,120,14,29,69,1.0,10.0,0.0,0.0,25.76,43.94
+41,UYG,ProShares Ultra Financials,5,120,14,29,54,1.0,10.0,0.0,0.0,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,120,14,29,54,1.0,10.0,0.0,0.0,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,120,14,29,54,1.0,10.0,0.0,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,29,54,1.0,10.0,0.0,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,29,59,1.0,10.0,0.0,0.0,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,29,59,1.0,10.0,0.0,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,120,14,29,59,1.0,10.0,0.0,0.0,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,120,14,29,59,1.0,10.0,0.0,0.0,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,120,14,29,59,1.0,10.0,0.0,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,29,59,1.0,10.0,0.0,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,29,64,1.0,10.0,0.0,0.0,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,29,64,1.0,10.0,0.0,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,120,14,29,64,1.0,10.0,0.0,0.0,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,120,14,29,64,1.0,10.0,0.0,0.0,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,120,14,29,64,1.0,10.0,0.0,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,29,64,1.0,10.0,0.0,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,25.3,49.29
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,34,59,1.0,10.0,0.0,0.0,28.01,41.29
+41,UYG,ProShares Ultra Financials,5,120,14,34,59,1.0,10.0,0.0,0.0,25.54,40.49
+41,UYG,ProShares Ultra Financials,5,120,14,39,64,1.0,10.0,0.0,0.0,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,120,14,34,74,1.0,10.0,0.0,0.0,27.29,40.02
+41,UYM,ProShares Ultra Materials,5,120,14,34,74,1.0,10.0,0.0,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,39,54,1.0,10.0,0.0,0.0,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,39,54,1.0,10.0,0.0,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,120,14,39,54,1.0,10.0,0.0,0.0,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,120,14,39,54,1.0,10.0,0.0,0.0,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,120,14,39,54,1.0,10.0,0.0,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,39,54,1.0,10.0,0.0,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,39,59,1.0,10.0,0.0,0.0,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,39,59,1.0,10.0,0.0,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,120,14,39,59,1.0,10.0,0.0,0.0,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,120,14,39,59,1.0,10.0,0.0,0.0,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,120,14,39,59,1.0,10.0,0.0,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,39,59,1.0,10.0,0.0,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,39,64,1.0,10.0,0.0,0.0,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,39,64,1.0,10.0,0.0,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,23.09,45.17
+41,SAA,ProShares Ultra SmallCap600,5,120,14,34,74,1.0,10.0,0.0,0.0,28.5,43.53
+41,UYG,ProShares Ultra Financials,5,120,14,34,74,1.0,10.0,0.0,0.0,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,120,14,34,59,1.0,10.0,0.0,0.0,27.29,40.02
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,23.09,45.17
+41,SAA,ProShares Ultra SmallCap600,5,120,14,34,59,1.0,10.0,0.0,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,34,59,1.0,10.0,0.0,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,34,64,1.0,10.0,0.0,0.0,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,34,64,1.0,10.0,0.0,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,120,14,34,64,1.0,10.0,0.0,0.0,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,120,14,34,64,1.0,10.0,0.0,0.0,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,120,14,34,64,1.0,10.0,0.0,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,34,64,1.0,10.0,0.0,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,34,69,1.0,10.0,0.0,0.0,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,34,69,1.0,10.0,0.0,0.0,28.01,41.29
+41,AMZZ.O,GraniteShares 2x Long AMZN Daily ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,23.09,45.17
+41,UYG,ProShares Ultra Financials,5,120,14,34,69,1.0,10.0,0.0,0.0,25.54,40.49
+41,MVV,ProShares Ultra MidCap400,5,120,14,34,69,1.0,10.0,0.0,0.0,27.29,40.02
+41,SAA,ProShares Ultra SmallCap600,5,120,14,34,69,1.0,10.0,0.0,0.0,28.5,43.53
+41,UYM,ProShares Ultra Materials,5,120,14,34,69,1.0,10.0,0.0,0.0,20.98,43.34
+41,BWET.K,Breakwave Tanker Shipping ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,25.3,49.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,34,74,1.0,10.0,0.0,0.0,25.76,43.94
+41,AAPU.O,Direxion Daily AAPL Bull 2X Shares,5,120,14,34,74,1.0,10.0,0.0,0.0,28.01,41.29
+41,UWM,ProShares Ultra Russell2000,5,120,14,29,54,1.0,10.0,0.0,0.0,25.76,43.94

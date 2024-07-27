@@ -1,0 +1,201 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,44,54,1.0,10.0,190.52,2.71,12.47,47.44
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,54,1.0,10.0,190.52,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,54,1.0,10.0,190.52,743.4,16.11,47.65
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,44,54,1.0,10.0,190.52,15.96,12.04,49.16
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,39,54,1.0,10.0,189.84,15.96,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,39,54,1.0,10.0,189.84,0.0,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,54,1.0,10.0,189.84,743.4,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,54,1.0,10.0,189.84,0.0,16.38,44.53
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,54,1.0,10.0,179.72,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,54,1.0,10.0,179.72,637.84,16.11,47.65
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,39,54,1.0,10.0,179.72,0.0,12.47,47.44
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,39,54,1.0,10.0,179.72,81.04,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,44,54,1.0,10.0,172.69,0.0,12.47,47.44
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,54,1.0,10.0,172.69,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,54,1.0,10.0,172.69,637.84,16.11,47.65
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,44,54,1.0,10.0,172.69,52.93,12.04,49.16
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,54,1.0,10.0,132.16,509.96,16.11,47.65
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,49,54,1.0,10.0,132.16,2.71,12.47,47.44
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,54,1.0,10.0,132.16,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,49,54,1.0,10.0,132.16,15.96,12.04,49.16
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,49,54,1.0,10.0,97.84,52.93,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,49,54,1.0,10.0,97.84,-43.43,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,54,1.0,10.0,97.84,381.87,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,54,1.0,10.0,97.84,0.0,16.38,44.53
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,59,1.0,10.0,90.36,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,59,1.0,10.0,90.36,334.63,16.11,47.65
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,44,59,1.0,10.0,90.36,2.71,12.47,47.44
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,44,59,1.0,10.0,90.36,24.09,12.04,49.16
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,59,1.0,10.0,89.68,0.0,16.38,44.53
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,39,59,1.0,10.0,89.68,0.0,12.47,47.44
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,39,59,1.0,10.0,89.68,24.09,12.04,49.16
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,59,1.0,10.0,89.68,334.63,16.11,47.65
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,44,69,1.0,10.0,87.83,13.96,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,44,74,1.0,10.0,87.83,2.71,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,74,1.0,10.0,87.83,334.63,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,74,1.0,10.0,87.83,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,44,74,1.0,10.0,87.83,13.96,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,44,69,1.0,10.0,87.83,2.71,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,69,1.0,10.0,87.83,334.63,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,69,1.0,10.0,87.83,0.0,16.38,44.53
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,44,64,1.0,10.0,87.83,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,44,64,1.0,10.0,87.83,334.63,16.11,47.65
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,44,64,1.0,10.0,87.83,2.71,12.47,47.44
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,44,64,1.0,10.0,87.83,13.96,12.04,49.16
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,59,1.0,10.0,87.69,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,59,1.0,10.0,87.69,251.45,16.11,47.65
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,39,59,1.0,10.0,87.69,99.29,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,39,59,1.0,10.0,87.69,0.0,12.47,47.44
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,39,74,1.0,10.0,87.15,0.0,12.47,47.44
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,74,1.0,10.0,87.15,0.0,16.38,44.53
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,39,69,1.0,10.0,87.15,0.0,12.47,47.44
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,39,74,1.0,10.0,87.15,13.96,12.04,49.16
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,39,69,1.0,10.0,87.15,13.96,12.04,49.16
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,74,1.0,10.0,87.15,334.63,16.11,47.65
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,69,1.0,10.0,87.15,334.63,16.11,47.65
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,39,64,1.0,10.0,87.15,13.96,12.04,49.16
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,69,1.0,10.0,87.15,0.0,16.38,44.53
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,39,64,1.0,10.0,87.15,0.0,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,39,64,1.0,10.0,87.15,334.63,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,39,64,1.0,10.0,87.15,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,44,59,1.0,10.0,79.38,66.06,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,44,59,1.0,10.0,79.38,0.0,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,59,1.0,10.0,79.38,251.45,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,59,1.0,10.0,79.38,0.0,16.38,44.53
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,74,1.0,10.0,73.44,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,64,1.0,10.0,73.44,251.45,16.11,47.65
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,39,74,1.0,10.0,73.44,0.0,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,74,1.0,10.0,73.44,251.45,16.11,47.65
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,39,74,1.0,10.0,73.44,42.3,12.04,49.16
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,39,69,1.0,10.0,73.44,42.3,12.04,49.16
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,39,64,1.0,10.0,73.44,42.3,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,39,69,1.0,10.0,73.44,0.0,12.47,47.44
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,39,64,1.0,10.0,73.44,0.0,12.47,47.44
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,64,1.0,10.0,73.44,0.0,16.38,44.53
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,39,69,1.0,10.0,73.44,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,39,69,1.0,10.0,73.44,251.45,16.11,47.65
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,44,74,1.0,10.0,71.43,0.0,12.47,47.44
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,64,1.0,10.0,71.43,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,64,1.0,10.0,71.43,251.45,16.11,47.65
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,44,64,1.0,10.0,71.43,34.27,12.04,49.16
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,69,1.0,10.0,71.43,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,69,1.0,10.0,71.43,251.45,16.11,47.65
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,44,69,1.0,10.0,71.43,0.0,12.47,47.44
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,44,69,1.0,10.0,71.43,34.27,12.04,49.16
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,44,74,1.0,10.0,71.43,34.27,12.04,49.16
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,44,74,1.0,10.0,71.43,251.45,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,44,74,1.0,10.0,71.43,0.0,16.38,44.53
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,44,64,1.0,10.0,71.43,0.0,12.47,47.44
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,59,1.0,10.0,8.82,0.0,16.38,44.53
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,49,59,1.0,10.0,8.82,2.71,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,59,1.0,10.0,8.82,8.49,16.11,47.65
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,49,59,1.0,10.0,8.82,24.09,12.04,49.16
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,49,59,1.0,10.0,6.31,66.06,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,49,59,1.0,10.0,6.31,-43.43,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,59,1.0,10.0,6.31,2.62,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,59,1.0,10.0,6.31,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,49,74,1.0,10.0,6.29,13.96,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,49,64,1.0,10.0,6.29,2.71,12.47,47.44
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,64,1.0,10.0,6.29,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,64,1.0,10.0,6.29,8.49,16.11,47.65
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,49,74,1.0,10.0,6.29,2.71,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,74,1.0,10.0,6.29,8.49,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,74,1.0,10.0,6.29,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,49,69,1.0,10.0,6.29,13.96,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,49,69,1.0,10.0,6.29,2.71,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,49,69,1.0,10.0,6.29,8.49,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,49,69,1.0,10.0,6.29,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,49,64,1.0,10.0,6.29,13.96,12.04,49.16
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,34,59,1.0,10.0,0.0,0.0,12.04,49.16
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,16.11,47.65
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,12.47,47.44
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,34,64,1.0,10.0,0.0,0.0,12.04,49.16
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,16.38,44.53
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,16.38,44.53
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,12.47,47.44
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,34,69,1.0,10.0,0.0,0.0,12.04,49.16
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,16.11,47.65
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,12.47,47.44
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,34,74,1.0,10.0,0.0,0.0,12.04,49.16
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,16.11,47.65
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,12.47,47.44
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,16.38,44.53
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,16.38,44.53
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,16.38,44.53
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,34,54,1.0,10.0,0.0,0.0,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,34,54,1.0,10.0,0.0,0.0,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,29,74,1.0,10.0,0.0,0.0,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,29,69,1.0,10.0,0.0,0.0,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,29,64,1.0,10.0,0.0,0.0,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,29,59,1.0,10.0,0.0,0.0,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,29,54,1.0,10.0,0.0,0.0,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,12.47,47.44
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,34,64,1.0,10.0,0.0,0.0,12.04,49.16
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,34,59,1.0,10.0,0.0,0.0,12.04,49.16
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,16.11,47.65
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,16.11,47.65
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,29,74,1.0,10.0,0.0,0.0,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,29,69,1.0,10.0,0.0,0.0,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,29,64,1.0,10.0,0.0,0.0,12.04,49.16
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,12.47,47.44
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,12.47,47.44
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,16.11,47.65
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,29,59,1.0,10.0,0.0,0.0,12.04,49.16
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,16.11,47.65
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,12.47,47.44
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,34,74,1.0,10.0,0.0,0.0,12.04,49.16
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,60,14,34,69,1.0,10.0,0.0,0.0,12.04,49.16
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,16.11,47.65
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,29,54,1.0,10.0,0.0,0.0,12.04,49.16
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,16.38,44.53
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,16.11,47.65
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,12.47,47.44
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,12.47,47.44
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,49,69,1.0,10.0,-1.64,-43.43,12.47,47.44
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,49,74,1.0,10.0,-1.64,-43.43,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,74,1.0,10.0,-1.64,2.62,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,74,1.0,10.0,-1.64,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,49,69,1.0,10.0,-1.64,34.27,12.04,49.16
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,49,64,1.0,10.0,-1.64,34.27,12.04,49.16
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,69,1.0,10.0,-1.64,2.62,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,69,1.0,10.0,-1.64,0.0,16.38,44.53
+58,PFIX.K,Simplify Interest Rate Hedge ETF,5,120,14,49,64,1.0,10.0,-1.64,-43.43,12.47,47.44
+58,AAPB.O,GraniteShares 2x Long AAPL Daily ETF,5,120,14,49,64,1.0,10.0,-1.64,2.62,16.11,47.65
+58,URNJ.O,Sprott Junior Uranium Miners ETF,5,120,14,49,64,1.0,10.0,-1.64,0.0,16.38,44.53
+58,UCYB.O,ProShares Ultra Nasdaq Cybersecurity,5,120,14,49,74,1.0,10.0,-1.64,34.27,12.04,49.16

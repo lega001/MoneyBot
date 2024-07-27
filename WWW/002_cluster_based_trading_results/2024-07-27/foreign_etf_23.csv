@@ -1,0 +1,151 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,49,54,1.0,10.0,1614.32,44.85,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,49,54,1.0,10.0,1614.32,4783.64,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,49,54,1.0,10.0,1614.32,14.49,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,49,64,1.0,10.0,1612.73,4783.64,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,49,64,1.0,10.0,1612.73,25.27,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,49,64,1.0,10.0,1612.73,29.27,40.61,66.04
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,49,59,1.0,10.0,1607.32,22.04,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,49,59,1.0,10.0,1607.32,4783.64,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,49,59,1.0,10.0,1607.32,16.3,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,49,54,1.0,10.0,735.24,2157.21,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,49,54,1.0,10.0,735.24,7.62,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,49,54,1.0,10.0,735.24,40.89,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,49,64,1.0,10.0,732.74,2157.21,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,49,64,1.0,10.0,732.74,16.96,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,49,64,1.0,10.0,732.74,24.05,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,49,59,1.0,10.0,727.98,2157.21,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,49,59,1.0,10.0,727.98,17.64,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,49,59,1.0,10.0,727.98,9.1,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,49,74,1.0,10.0,61.81,21.21,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,49,74,1.0,10.0,61.81,15.83,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,49,74,1.0,10.0,61.81,148.4,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,49,69,1.0,10.0,61.02,18.85,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,49,69,1.0,10.0,61.02,15.83,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,49,69,1.0,10.0,61.02,148.4,45.97,67.32
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,49,74,1.0,10.0,57.75,130.06,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,49,74,1.0,10.0,57.75,24.43,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,49,74,1.0,10.0,57.75,18.76,40.61,66.04
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,49,69,1.0,10.0,56.91,16.25,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,49,69,1.0,10.0,56.91,24.43,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,49,69,1.0,10.0,56.91,130.06,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,39,54,1.0,10.0,42.5,57.49,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,39,54,1.0,10.0,42.5,70.01,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,39,54,1.0,10.0,42.5,0.0,45.97,67.32
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,39,64,1.0,10.0,41.36,0.0,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,39,64,1.0,10.0,41.36,98.89,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,39,64,1.0,10.0,41.36,25.18,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,39,59,1.0,10.0,35.13,85.4,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,39,59,1.0,10.0,35.13,19.98,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,39,59,1.0,10.0,35.13,0.0,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,39,64,1.0,10.0,34.44,28.75,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,39,64,1.0,10.0,34.44,74.58,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,39,64,1.0,10.0,34.44,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,44,64,1.0,10.0,32.19,37.08,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,44,64,1.0,10.0,32.19,0.0,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,44,64,1.0,10.0,32.19,59.5,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,39,59,1.0,10.0,31.42,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,39,59,1.0,10.0,31.42,71.54,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,39,59,1.0,10.0,31.42,22.72,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,39,54,1.0,10.0,29.61,0.0,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,39,54,1.0,10.0,29.61,72.12,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,39,54,1.0,10.0,29.61,16.7,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,44,54,1.0,10.0,26.49,61.68,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,44,54,1.0,10.0,26.49,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,44,54,1.0,10.0,26.49,17.78,45.7,68.07
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,44,59,1.0,10.0,26.34,28.35,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,44,59,1.0,10.0,26.34,50.65,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,44,59,1.0,10.0,26.34,0.0,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,44,54,1.0,10.0,25.69,50.67,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,44,54,1.0,10.0,25.69,26.39,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,44,54,1.0,10.0,25.69,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,44,64,1.0,10.0,21.71,27.81,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,44,64,1.0,10.0,21.71,0.0,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,44,64,1.0,10.0,21.71,37.32,40.61,66.04
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,44,74,1.0,10.0,17.57,28.28,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,44,74,1.0,10.0,17.57,24.43,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,44,74,1.0,10.0,17.57,0.0,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,44,59,1.0,10.0,16.69,30.59,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,44,59,1.0,10.0,16.69,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,44,59,1.0,10.0,16.69,19.48,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,44,69,1.0,10.0,16.57,0.0,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,44,69,1.0,10.0,16.57,25.28,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,44,69,1.0,10.0,16.57,24.43,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,44,74,1.0,10.0,13.86,21.21,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,44,74,1.0,10.0,13.86,20.36,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,44,74,1.0,10.0,13.86,0.0,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,44,69,1.0,10.0,13.07,18.85,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,44,69,1.0,10.0,13.07,20.36,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,44,69,1.0,10.0,13.07,0.0,45.97,67.32
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,39,74,1.0,10.0,12.22,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,39,74,1.0,10.0,12.22,24.43,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,39,74,1.0,10.0,12.22,12.25,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,39,69,1.0,10.0,12.22,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,39,69,1.0,10.0,12.22,24.43,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,39,69,1.0,10.0,12.22,12.25,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,39,74,1.0,10.0,10.92,0.0,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,39,74,1.0,10.0,10.92,11.23,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,39,74,1.0,10.0,10.92,21.52,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,39,69,1.0,10.0,10.14,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,39,69,1.0,10.0,10.14,21.52,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,39,69,1.0,10.0,10.14,8.89,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,45.97,67.32
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,34,74,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,34,74,1.0,10.0,0.0,0.0,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,34,69,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,34,69,1.0,10.0,0.0,0.0,40.61,66.04
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,29,54,1.0,10.0,0.0,0.0,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,34,64,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,34,64,1.0,10.0,0.0,0.0,40.61,66.04
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,34,69,1.0,10.0,0.0,0.0,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,34,64,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,34,64,1.0,10.0,0.0,0.0,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,34,59,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,34,59,1.0,10.0,0.0,0.0,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,34,54,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,34,54,1.0,10.0,0.0,0.0,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,29,74,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,29,74,1.0,10.0,0.0,0.0,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,29,69,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,29,69,1.0,10.0,0.0,0.0,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,29,64,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,29,64,1.0,10.0,0.0,0.0,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,29,59,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,29,59,1.0,10.0,0.0,0.0,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,34,69,1.0,10.0,0.0,0.0,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,60,14,34,74,1.0,10.0,0.0,0.0,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,29,69,1.0,10.0,0.0,0.0,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,34,59,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,34,59,1.0,10.0,0.0,0.0,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,34,54,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,34,54,1.0,10.0,0.0,0.0,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,29,74,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,29,74,1.0,10.0,0.0,0.0,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,29,69,1.0,10.0,0.0,0.0,40.61,66.04
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,34,74,1.0,10.0,0.0,0.0,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,29,64,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,29,64,1.0,10.0,0.0,0.0,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,29,59,1.0,10.0,0.0,0.0,45.7,68.07
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,29,59,1.0,10.0,0.0,0.0,40.61,66.04
+23,IBLC.K,iShares Blockchain and Tech ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,45.97,67.32
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,120,14,29,54,1.0,10.0,0.0,0.0,45.7,68.07
+23,RETL.K,Direxion Daily Retail Bull 3X Shares,5,60,14,29,54,1.0,10.0,0.0,0.0,45.7,68.07
+23,IBLC.K,iShares Blockchain and Tech ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,45.97,67.32
+23,URTY.K,ProShares UltraPro Russell2000,5,120,14,29,54,1.0,10.0,0.0,0.0,40.61,66.04

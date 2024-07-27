@@ -1,0 +1,451 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,29,59,1.0,10.0,-3.82,0.0,-13.78,30.75
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,29,59,1.0,10.0,-3.82,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,59,1.0,10.0,-3.82,0.0,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,29,59,1.0,10.0,-3.82,0.0,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,29,59,1.0,10.0,-3.82,0.0,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,59,1.0,10.0,-3.82,-17.33,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,59,1.0,10.0,-3.82,-2.88,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,59,1.0,10.0,-3.82,0.0,-14.12,33.15
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,59,1.0,10.0,-3.82,-14.17,-16.07,31.88
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,29,54,1.0,10.0,-4.19,0.0,-12.91,29.46
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,54,1.0,10.0,-4.19,0.0,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,54,1.0,10.0,-4.19,-6.21,-13.29,34.92
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,54,1.0,10.0,-4.19,-17.33,-15.77,33.64
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,54,1.0,10.0,-4.19,-14.17,-16.07,31.88
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,29,54,1.0,10.0,-4.19,0.0,-14.02,31.35
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,54,1.0,10.0,-4.19,0.0,-14.1,35.84
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,29,54,1.0,10.0,-4.19,0.0,-14.67,30.83
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,29,54,1.0,10.0,-4.19,0.0,-13.78,30.75
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,29,54,1.0,10.0,-4.61,0.0,-13.78,30.75
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,54,1.0,10.0,-4.61,-14.18,-16.07,31.88
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,54,1.0,10.0,-4.61,0.0,-14.12,33.15
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,29,54,1.0,10.0,-4.61,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,54,1.0,10.0,-4.61,0.95,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,29,54,1.0,10.0,-4.61,0.0,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,29,54,1.0,10.0,-4.61,0.0,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,54,1.0,10.0,-4.61,-14.51,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,54,1.0,10.0,-4.61,-13.79,-13.29,34.92
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,64,1.0,10.0,-4.94,-12.97,-13.29,34.92
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,64,1.0,10.0,-4.94,0.0,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,29,64,1.0,10.0,-4.94,0.0,-14.02,31.35
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,64,1.0,10.0,-4.94,-17.33,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,29,64,1.0,10.0,-4.94,0.0,-12.91,29.46
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,64,1.0,10.0,-4.94,0.0,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,29,64,1.0,10.0,-4.94,0.0,-13.78,30.75
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,64,1.0,10.0,-4.94,-14.17,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,29,69,1.0,10.0,-4.94,0.0,-13.78,30.75
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,29,64,1.0,10.0,-4.94,0.0,-14.67,30.83
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,69,1.0,10.0,-4.94,-14.17,-16.07,31.88
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,69,1.0,10.0,-4.94,0.0,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,69,1.0,10.0,-4.94,-12.97,-13.29,34.92
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,69,1.0,10.0,-4.94,-17.33,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,29,69,1.0,10.0,-4.94,0.0,-12.91,29.46
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,29,69,1.0,10.0,-4.94,0.0,-14.02,31.35
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,69,1.0,10.0,-4.94,0.0,-14.1,35.84
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,29,69,1.0,10.0,-4.94,0.0,-14.67,30.83
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,29,74,1.0,10.0,-5.2,-17.33,-15.77,33.64
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,29,74,1.0,10.0,-5.2,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,29,74,1.0,10.0,-5.2,0.0,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,29,74,1.0,10.0,-5.2,0.0,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,29,74,1.0,10.0,-5.2,0.0,-12.91,29.46
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,29,74,1.0,10.0,-5.2,0.0,-13.78,30.75
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,29,74,1.0,10.0,-5.2,-12.97,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,29,74,1.0,10.0,-5.2,0.0,-14.12,33.15
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,29,74,1.0,10.0,-5.2,-16.45,-16.07,31.88
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,59,1.0,10.0,-6.28,-14.51,-15.77,33.64
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,29,59,1.0,10.0,-6.28,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,59,1.0,10.0,-6.28,-15.82,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,29,59,1.0,10.0,-6.28,0.0,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,29,59,1.0,10.0,-6.28,0.0,-12.91,29.46
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,59,1.0,10.0,-6.28,-14.18,-16.07,31.88
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,59,1.0,10.0,-6.28,-12.02,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,59,1.0,10.0,-6.28,0.0,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,29,59,1.0,10.0,-6.28,0.0,-13.78,30.75
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,64,1.0,10.0,-6.74,-16.19,-13.29,34.92
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,29,64,1.0,10.0,-6.74,0.0,-13.78,30.75
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,64,1.0,10.0,-6.74,-14.18,-16.07,31.88
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,64,1.0,10.0,-6.74,0.0,-14.12,33.15
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,29,69,1.0,10.0,-6.74,0.0,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,29,64,1.0,10.0,-6.74,0.0,-12.91,29.46
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,29,69,1.0,10.0,-6.74,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,69,1.0,10.0,-6.74,-15.82,-14.1,35.84
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,29,69,1.0,10.0,-6.74,0.0,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,69,1.0,10.0,-6.74,-14.51,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,69,1.0,10.0,-6.74,-16.19,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,69,1.0,10.0,-6.74,0.0,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,29,69,1.0,10.0,-6.74,0.0,-13.78,30.75
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,29,64,1.0,10.0,-6.74,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,64,1.0,10.0,-6.74,-15.82,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,29,64,1.0,10.0,-6.74,0.0,-14.02,31.35
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,69,1.0,10.0,-6.74,-14.18,-16.07,31.88
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,64,1.0,10.0,-6.74,-14.51,-15.77,33.64
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,49,54,1.0,10.0,-6.75,0.0,-13.78,30.75
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,49,54,1.0,10.0,-6.75,74.34,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,54,1.0,10.0,-6.75,-13.93,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,49,54,1.0,10.0,-6.75,-24.14,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,49,54,1.0,10.0,-6.75,-21.8,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,54,1.0,10.0,-6.75,-14.51,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,54,1.0,10.0,-6.75,-18.71,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,54,1.0,10.0,-6.75,-20.16,-14.12,33.15
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,54,1.0,10.0,-6.75,-21.82,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,44,54,1.0,10.0,-6.96,0.0,-13.78,30.75
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,54,1.0,10.0,-6.96,-20.16,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,54,1.0,10.0,-6.96,-18.16,-13.29,34.92
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,54,1.0,10.0,-6.96,-24.25,-16.07,31.88
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,44,54,1.0,10.0,-6.96,-24.14,-14.02,31.35
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,54,1.0,10.0,-6.96,-13.93,-14.1,35.84
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,44,54,1.0,10.0,-6.96,74.34,-14.67,30.83
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,29,74,1.0,10.0,-6.96,0.0,-14.67,30.83
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,44,54,1.0,10.0,-6.96,-21.8,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,54,1.0,10.0,-6.96,-14.51,-15.77,33.64
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,29,74,1.0,10.0,-6.96,-15.82,-14.1,35.84
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,29,74,1.0,10.0,-6.96,-16.13,-16.07,31.88
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,29,74,1.0,10.0,-6.96,0.0,-14.02,31.35
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,29,74,1.0,10.0,-6.96,0.0,-13.78,30.75
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,29,74,1.0,10.0,-6.96,0.0,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,29,74,1.0,10.0,-6.96,-16.19,-13.29,34.92
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,29,74,1.0,10.0,-6.96,-14.51,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,29,74,1.0,10.0,-6.96,0.0,-12.91,29.46
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,54,1.0,10.0,-7.73,-15.97,-16.07,31.88
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,54,1.0,10.0,-7.73,-6.57,-14.12,33.15
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,34,54,1.0,10.0,-7.73,-4.73,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,54,1.0,10.0,-7.73,-14.51,-15.77,33.64
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,34,54,1.0,10.0,-7.73,0.0,-14.67,30.83
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,34,54,1.0,10.0,-7.73,0.0,-13.78,30.75
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,54,1.0,10.0,-7.73,-3.24,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,34,54,1.0,10.0,-7.73,-7.68,-14.02,31.35
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,54,1.0,10.0,-7.73,-16.87,-13.29,34.92
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,34,54,1.0,10.0,-8.72,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,54,1.0,10.0,-8.72,-3.72,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,34,54,1.0,10.0,-8.72,0.0,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,34,54,1.0,10.0,-8.72,-18.19,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,54,1.0,10.0,-8.72,-17.33,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,54,1.0,10.0,-8.72,-14.37,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,54,1.0,10.0,-8.72,-7.79,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,34,54,1.0,10.0,-8.72,0.0,-13.78,30.75
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,54,1.0,10.0,-8.72,-17.09,-16.07,31.88
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,59,1.0,10.0,-9.08,-15.97,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,34,59,1.0,10.0,-9.08,0.0,-13.78,30.75
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,34,59,1.0,10.0,-9.08,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,59,1.0,10.0,-9.08,-16.88,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,34,59,1.0,10.0,-9.08,-7.68,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,34,59,1.0,10.0,-9.08,-4.73,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,59,1.0,10.0,-9.08,-14.51,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,59,1.0,10.0,-9.08,-15.4,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,59,1.0,10.0,-9.08,-6.57,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,64,1.0,10.0,-9.41,-18.34,-13.29,34.92
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,34,64,1.0,10.0,-9.41,-4.73,-12.91,29.46
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,64,1.0,10.0,-9.41,-6.57,-14.12,33.15
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,64,1.0,10.0,-9.41,-15.97,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,34,64,1.0,10.0,-9.41,0.0,-13.78,30.75
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,64,1.0,10.0,-9.41,-14.51,-15.77,33.64
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,69,1.0,10.0,-9.41,-6.57,-14.12,33.15
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,69,1.0,10.0,-9.41,-14.51,-15.77,33.64
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,34,64,1.0,10.0,-9.41,-7.68,-14.02,31.35
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,64,1.0,10.0,-9.41,-16.88,-14.1,35.84
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,34,64,1.0,10.0,-9.41,0.0,-14.67,30.83
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,69,1.0,10.0,-9.41,-15.97,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,34,69,1.0,10.0,-9.41,0.0,-13.78,30.75
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,69,1.0,10.0,-9.41,-18.34,-13.29,34.92
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,34,69,1.0,10.0,-9.41,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,69,1.0,10.0,-9.41,-16.88,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,34,69,1.0,10.0,-9.41,-7.68,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,34,69,1.0,10.0,-9.41,-4.73,-12.91,29.46
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,34,74,1.0,10.0,-9.43,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,34,74,1.0,10.0,-9.43,-16.88,-14.1,35.84
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,34,74,1.0,10.0,-9.43,-16.13,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,34,74,1.0,10.0,-9.43,0.0,-13.78,30.75
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,34,74,1.0,10.0,-9.43,-6.57,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,34,74,1.0,10.0,-9.43,-18.34,-13.29,34.92
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,34,74,1.0,10.0,-9.43,-14.51,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,34,74,1.0,10.0,-9.43,-4.73,-12.91,29.46
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,34,74,1.0,10.0,-9.43,-7.68,-14.02,31.35
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,59,1.0,10.0,-10.05,-17.09,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,34,59,1.0,10.0,-10.05,0.0,-13.78,30.75
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,59,1.0,10.0,-10.05,-7.79,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,59,1.0,10.0,-10.05,-12.57,-13.29,34.92
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,59,1.0,10.0,-10.05,-17.33,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,34,59,1.0,10.0,-10.05,-18.19,-12.91,29.46
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,34,59,1.0,10.0,-10.05,0.0,-14.02,31.35
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,59,1.0,10.0,-10.05,-17.49,-14.1,35.84
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,34,59,1.0,10.0,-10.05,0.0,-14.67,30.83
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,39,54,1.0,10.0,-10.32,0.0,-14.67,30.83
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,39,54,1.0,10.0,-10.32,0.0,-13.78,30.75
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,54,1.0,10.0,-10.32,-8.49,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,39,54,1.0,10.0,-10.32,-9.16,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,39,54,1.0,10.0,-10.32,-18.19,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,54,1.0,10.0,-10.32,-17.33,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,54,1.0,10.0,-10.32,-14.86,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,54,1.0,10.0,-10.32,-7.79,-14.12,33.15
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,54,1.0,10.0,-10.32,-17.09,-16.07,31.88
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,34,74,1.0,10.0,-10.43,0.0,-14.02,31.35
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,74,1.0,10.0,-10.43,-16.66,-13.29,34.92
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,74,1.0,10.0,-10.43,-17.33,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,34,74,1.0,10.0,-10.43,-18.19,-12.91,29.46
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,34,74,1.0,10.0,-10.43,0.0,-13.78,30.75
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,74,1.0,10.0,-10.43,-17.49,-14.1,35.84
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,34,74,1.0,10.0,-10.43,0.0,-14.67,30.83
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,74,1.0,10.0,-10.43,-7.79,-14.12,33.15
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,74,1.0,10.0,-10.43,-16.45,-16.07,31.88
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,64,1.0,10.0,-10.5,-17.33,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,34,64,1.0,10.0,-10.5,-18.19,-12.91,29.46
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,34,69,1.0,10.0,-10.5,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,69,1.0,10.0,-10.5,-17.49,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,34,69,1.0,10.0,-10.5,0.0,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,34,69,1.0,10.0,-10.5,-18.19,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,34,69,1.0,10.0,-10.5,-17.33,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,69,1.0,10.0,-10.5,-16.66,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,69,1.0,10.0,-10.5,-7.79,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,34,69,1.0,10.0,-10.5,0.0,-13.78,30.75
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,69,1.0,10.0,-10.5,-17.09,-16.07,31.88
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,34,64,1.0,10.0,-10.5,0.0,-14.67,30.83
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,34,64,1.0,10.0,-10.5,0.0,-14.02,31.35
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,34,64,1.0,10.0,-10.5,-17.09,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,34,64,1.0,10.0,-10.5,0.0,-13.78,30.75
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,34,64,1.0,10.0,-10.5,-7.79,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,34,64,1.0,10.0,-10.5,-16.66,-13.29,34.92
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,34,64,1.0,10.0,-10.5,-17.49,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,39,59,1.0,10.0,-11.28,-9.16,-14.02,31.35
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,59,1.0,10.0,-11.28,-7.79,-14.12,33.15
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,39,59,1.0,10.0,-11.28,-18.19,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,59,1.0,10.0,-11.28,-17.33,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,59,1.0,10.0,-11.28,-13.08,-13.29,34.92
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,59,1.0,10.0,-11.28,-17.09,-16.07,31.88
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,39,59,1.0,10.0,-11.28,0.0,-14.67,30.83
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,39,59,1.0,10.0,-11.28,0.0,-13.78,30.75
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,59,1.0,10.0,-11.28,-18.93,-14.1,35.84
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,74,1.0,10.0,-11.61,-17.33,-15.77,33.64
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,39,74,1.0,10.0,-11.61,0.0,-13.78,30.75
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,74,1.0,10.0,-11.61,-7.79,-14.12,33.15
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,74,1.0,10.0,-11.61,-16.45,-16.07,31.88
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,39,74,1.0,10.0,-11.61,-18.19,-12.91,29.46
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,39,74,1.0,10.0,-11.61,-9.16,-14.02,31.35
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,74,1.0,10.0,-11.61,-18.93,-14.1,35.84
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,39,74,1.0,10.0,-11.61,0.0,-14.67,30.83
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,74,1.0,10.0,-11.61,-16.66,-13.29,34.92
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,64,1.0,10.0,-11.68,-18.93,-14.1,35.84
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,64,1.0,10.0,-11.68,-17.09,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,39,64,1.0,10.0,-11.68,0.0,-13.78,30.75
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,64,1.0,10.0,-11.68,-7.79,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,64,1.0,10.0,-11.68,-16.66,-13.29,34.92
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,64,1.0,10.0,-11.68,-17.33,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,39,64,1.0,10.0,-11.68,-18.19,-12.91,29.46
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,39,64,1.0,10.0,-11.68,-9.16,-14.02,31.35
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,39,69,1.0,10.0,-11.68,-17.09,-16.07,31.88
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,39,64,1.0,10.0,-11.68,0.0,-14.67,30.83
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,39,69,1.0,10.0,-11.68,0.0,-13.78,30.75
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,39,69,1.0,10.0,-11.68,-7.79,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,39,69,1.0,10.0,-11.68,-16.66,-13.29,34.92
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,39,69,1.0,10.0,-11.68,-17.33,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,39,69,1.0,10.0,-11.68,-18.19,-12.91,29.46
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,39,69,1.0,10.0,-11.68,-18.93,-14.1,35.84
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,39,69,1.0,10.0,-11.68,0.0,-14.67,30.83
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,39,69,1.0,10.0,-11.68,-9.16,-14.02,31.35
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,44,54,1.0,10.0,-12.76,0.0,-14.67,30.83
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,44,54,1.0,10.0,-12.76,-9.16,-14.02,31.35
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,54,1.0,10.0,-12.76,-13.09,-14.1,35.84
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,54,1.0,10.0,-12.76,-23.15,-16.07,31.88
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,54,1.0,10.0,-12.76,-18.73,-13.29,34.92
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,44,54,1.0,10.0,-12.76,0.0,-13.78,30.75
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,54,1.0,10.0,-12.76,-17.33,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,44,54,1.0,10.0,-12.76,-25.55,-12.91,29.46
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,54,1.0,10.0,-12.76,-7.79,-14.12,33.15
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,44,74,1.0,10.0,-13.17,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,74,1.0,10.0,-13.17,-18.79,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,44,74,1.0,10.0,-13.17,-9.16,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,44,74,1.0,10.0,-13.17,-25.55,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,74,1.0,10.0,-13.17,-17.33,-15.77,33.64
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,74,1.0,10.0,-13.17,-7.79,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,44,74,1.0,10.0,-13.17,0.0,-13.78,30.75
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,74,1.0,10.0,-13.17,-20.87,-16.07,31.88
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,74,1.0,10.0,-13.17,-19.03,-13.29,34.92
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,44,59,1.0,10.0,-13.23,-25.55,-12.91,29.46
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,44,59,1.0,10.0,-13.23,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,59,1.0,10.0,-13.23,-18.79,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,44,59,1.0,10.0,-13.23,-9.16,-14.02,31.35
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,59,1.0,10.0,-13.23,-17.33,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,59,1.0,10.0,-13.23,-17.33,-13.29,34.92
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,44,59,1.0,10.0,-13.23,0.0,-13.78,30.75
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,59,1.0,10.0,-13.23,-23.15,-16.07,31.88
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,59,1.0,10.0,-13.23,-7.79,-14.12,33.15
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,59,1.0,10.0,-13.27,-18.79,-14.1,35.84
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,59,1.0,10.0,-13.27,2.02,-14.12,33.15
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,49,59,1.0,10.0,-13.27,-23.11,-14.02,31.35
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,49,59,1.0,10.0,-13.27,0.0,-13.78,30.75
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,49,59,1.0,10.0,-13.27,0.0,-14.67,30.83
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,59,1.0,10.0,-13.27,-17.3,-13.29,34.92
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,59,1.0,10.0,-13.27,-17.33,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,49,59,1.0,10.0,-13.27,-22.63,-12.91,29.46
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,59,1.0,10.0,-13.27,-22.24,-16.07,31.88
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,54,1.0,10.0,-13.41,-24.25,-16.07,31.88
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,39,54,1.0,10.0,-13.41,0.0,-14.67,30.83
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,39,54,1.0,10.0,-13.41,-23.88,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,39,54,1.0,10.0,-13.41,-4.73,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,54,1.0,10.0,-13.41,-14.51,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,54,1.0,10.0,-13.41,-16.87,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,54,1.0,10.0,-13.41,-23.15,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,39,54,1.0,10.0,-13.41,0.0,-13.78,30.75
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,54,1.0,10.0,-13.41,-13.32,-14.1,35.84
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,69,1.0,10.0,-13.42,-18.79,-14.1,35.84
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,44,64,1.0,10.0,-13.42,0.0,-14.67,30.83
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,64,1.0,10.0,-13.42,-23.15,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,44,64,1.0,10.0,-13.42,0.0,-13.78,30.75
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,64,1.0,10.0,-13.42,-7.79,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,64,1.0,10.0,-13.42,-19.03,-13.29,34.92
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,64,1.0,10.0,-13.42,-17.33,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,44,64,1.0,10.0,-13.42,-25.55,-12.91,29.46
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,44,64,1.0,10.0,-13.42,-9.16,-14.02,31.35
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,44,69,1.0,10.0,-13.42,-9.16,-14.02,31.35
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,44,64,1.0,10.0,-13.42,-18.79,-14.1,35.84
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,44,69,1.0,10.0,-13.42,-19.03,-13.29,34.92
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,44,69,1.0,10.0,-13.42,-23.15,-16.07,31.88
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,44,69,1.0,10.0,-13.42,-25.55,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,44,69,1.0,10.0,-13.42,-17.33,-15.77,33.64
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,44,69,1.0,10.0,-13.42,-7.79,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,44,69,1.0,10.0,-13.42,0.0,-13.78,30.75
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,44,69,1.0,10.0,-13.42,0.0,-14.67,30.83
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,49,64,1.0,10.0,-13.45,0.0,-13.78,30.75
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,64,1.0,10.0,-13.45,2.02,-14.12,33.15
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,49,64,1.0,10.0,-13.45,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,64,1.0,10.0,-13.45,-18.79,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,49,64,1.0,10.0,-13.45,-23.11,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,49,64,1.0,10.0,-13.45,-22.63,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,64,1.0,10.0,-13.45,-17.33,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,64,1.0,10.0,-13.45,-18.94,-13.29,34.92
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,64,1.0,10.0,-13.45,-22.24,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,49,54,1.0,10.0,-13.47,0.0,-13.78,30.75
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,54,1.0,10.0,-13.47,-21.24,-16.07,31.88
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,49,54,1.0,10.0,-13.47,-22.63,-12.91,29.46
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,49,54,1.0,10.0,-13.47,-23.11,-14.02,31.35
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,54,1.0,10.0,-13.47,-17.33,-15.77,33.64
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,54,1.0,10.0,-13.47,-13.3,-14.1,35.84
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,49,54,1.0,10.0,-13.47,0.0,-14.67,30.83
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,54,1.0,10.0,-13.47,-6.82,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,54,1.0,10.0,-13.47,-16.82,-13.29,34.92
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,39,74,1.0,10.0,-13.77,0.0,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,74,1.0,10.0,-13.77,-18.5,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,39,74,1.0,10.0,-13.77,-23.88,-14.02,31.35
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,74,1.0,10.0,-13.77,-20.87,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,39,74,1.0,10.0,-13.77,0.0,-13.78,30.75
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,74,1.0,10.0,-13.77,-23.15,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,74,1.0,10.0,-13.77,-18.34,-13.29,34.92
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,74,1.0,10.0,-13.77,-14.51,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,39,74,1.0,10.0,-13.77,-4.73,-12.91,29.46
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,59,1.0,10.0,-13.82,-18.5,-14.1,35.84
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,39,59,1.0,10.0,-13.82,0.0,-14.67,30.83
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,39,59,1.0,10.0,-13.82,-23.88,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,39,59,1.0,10.0,-13.82,-4.73,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,59,1.0,10.0,-13.82,-14.51,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,59,1.0,10.0,-13.82,-15.4,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,59,1.0,10.0,-13.82,-23.15,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,39,59,1.0,10.0,-13.82,0.0,-13.78,30.75
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,59,1.0,10.0,-13.82,-24.25,-16.07,31.88
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,69,1.0,10.0,-14.15,-18.34,-13.29,34.92
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,39,69,1.0,10.0,-14.15,0.0,-14.67,30.83
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,39,69,1.0,10.0,-14.15,-23.88,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,39,69,1.0,10.0,-14.15,-4.73,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,69,1.0,10.0,-14.15,-14.51,-15.77,33.64
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,69,1.0,10.0,-14.15,-18.5,-14.1,35.84
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,69,1.0,10.0,-14.15,-23.15,-14.12,33.15
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,69,1.0,10.0,-14.15,-24.25,-16.07,31.88
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,39,64,1.0,10.0,-14.15,-18.5,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,39,64,1.0,10.0,-14.15,-23.88,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,39,64,1.0,10.0,-14.15,-4.73,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,39,64,1.0,10.0,-14.15,-14.51,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,39,64,1.0,10.0,-14.15,-18.34,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,39,64,1.0,10.0,-14.15,-23.15,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,39,64,1.0,10.0,-14.15,0.0,-13.78,30.75
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,39,69,1.0,10.0,-14.15,0.0,-13.78,30.75
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,39,64,1.0,10.0,-14.15,-24.25,-16.07,31.88
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,39,64,1.0,10.0,-14.15,0.0,-14.67,30.83
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,74,1.0,10.0,-16.4,-20.87,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,49,74,1.0,10.0,-16.4,0.0,-13.78,30.75
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,74,1.0,10.0,-16.4,-25.91,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,74,1.0,10.0,-16.4,-18.94,-13.29,34.92
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,74,1.0,10.0,-16.4,-17.33,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,49,74,1.0,10.0,-16.4,-22.63,-12.91,29.46
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,49,74,1.0,10.0,-16.4,-23.11,-14.02,31.35
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,74,1.0,10.0,-16.4,-18.79,-14.1,35.84
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,49,74,1.0,10.0,-16.4,0.0,-14.67,30.83
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,120,14,49,69,1.0,10.0,-16.55,-17.33,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,120,14,49,69,1.0,10.0,-16.55,-18.94,-13.29,34.92
+130,DMAT.O,Global X Disruptive Materials ETF,5,120,14,49,69,1.0,10.0,-16.55,-23.11,-14.02,31.35
+130,EFU,ProShares UltraShort MSCI EAFE,5,120,14,49,69,1.0,10.0,-16.55,-18.79,-14.1,35.84
+130,FRNW.K,Fidelity Clean Energy ETF,5,120,14,49,69,1.0,10.0,-16.55,-22.63,-12.91,29.46
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,120,14,49,69,1.0,10.0,-16.55,0.0,-14.67,30.83
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,120,14,49,69,1.0,10.0,-16.55,-25.91,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,120,14,49,69,1.0,10.0,-16.55,0.0,-13.78,30.75
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,120,14,49,69,1.0,10.0,-16.55,-22.24,-16.07,31.88
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,49,59,1.0,10.0,-18.92,-36.79,-14.67,30.83
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,49,59,1.0,10.0,-18.92,-24.14,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,49,59,1.0,10.0,-18.92,-21.8,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,59,1.0,10.0,-18.92,-14.51,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,59,1.0,10.0,-18.92,-17.42,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,59,1.0,10.0,-18.92,-14.41,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,49,59,1.0,10.0,-18.92,0.0,-13.78,30.75
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,59,1.0,10.0,-18.92,-21.69,-16.07,31.88
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,59,1.0,10.0,-18.92,-19.51,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,49,64,1.0,10.0,-19.08,-24.14,-14.02,31.35
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,64,1.0,10.0,-19.08,-19.51,-14.1,35.84
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,49,64,1.0,10.0,-19.08,-36.79,-14.67,30.83
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,49,64,1.0,10.0,-19.08,-21.8,-12.91,29.46
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,49,64,1.0,10.0,-19.08,0.0,-13.78,30.75
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,64,1.0,10.0,-19.08,-14.41,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,64,1.0,10.0,-19.08,-18.85,-13.29,34.92
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,64,1.0,10.0,-19.08,-14.51,-15.77,33.64
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,64,1.0,10.0,-19.08,-21.69,-16.07,31.88
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,59,1.0,10.0,-19.14,-14.51,-15.77,33.64
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,44,59,1.0,10.0,-19.14,-36.79,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,59,1.0,10.0,-19.14,-19.51,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,44,59,1.0,10.0,-19.14,-24.14,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,44,59,1.0,10.0,-19.14,-21.8,-12.91,29.46
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,59,1.0,10.0,-19.14,-16.83,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,59,1.0,10.0,-19.14,-14.41,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,44,59,1.0,10.0,-19.14,0.0,-13.78,30.75
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,59,1.0,10.0,-19.14,-24.25,-16.07,31.88
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,64,1.0,10.0,-19.3,-24.25,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,44,64,1.0,10.0,-19.3,0.0,-13.78,30.75
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,64,1.0,10.0,-19.3,-14.41,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,64,1.0,10.0,-19.3,-18.34,-13.29,34.92
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,64,1.0,10.0,-19.3,-19.51,-14.1,35.84
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,64,1.0,10.0,-19.3,-14.51,-15.77,33.64
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,44,64,1.0,10.0,-19.3,-21.8,-12.91,29.46
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,44,64,1.0,10.0,-19.3,-24.14,-14.02,31.35
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,44,64,1.0,10.0,-19.3,-36.79,-14.67,30.83
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,74,1.0,10.0,-19.98,-14.51,-15.77,33.64
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,44,74,1.0,10.0,-19.98,-36.79,-14.67,30.83
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,74,1.0,10.0,-19.98,-20.87,-16.07,31.88
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,74,1.0,10.0,-19.98,-19.51,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,44,74,1.0,10.0,-19.98,-24.14,-14.02,31.35
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,74,1.0,10.0,-19.98,-18.34,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,74,1.0,10.0,-19.98,-23.9,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,44,74,1.0,10.0,-19.98,0.0,-13.78,30.75
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,44,74,1.0,10.0,-19.98,-21.8,-12.91,29.46
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,74,1.0,10.0,-20.04,-18.85,-13.29,34.92
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,74,1.0,10.0,-20.04,-19.51,-14.1,35.84
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,74,1.0,10.0,-20.04,-14.51,-15.77,33.64
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,74,1.0,10.0,-20.04,-20.87,-16.07,31.88
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,49,74,1.0,10.0,-20.04,-36.79,-14.67,30.83
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,74,1.0,10.0,-20.04,-23.9,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,49,74,1.0,10.0,-20.04,0.0,-13.78,30.75
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,49,74,1.0,10.0,-20.04,-24.14,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,49,74,1.0,10.0,-20.04,-21.8,-12.91,29.46
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,49,69,1.0,10.0,-20.13,-36.79,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,49,69,1.0,10.0,-20.13,-19.51,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,49,69,1.0,10.0,-20.13,-24.14,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,49,69,1.0,10.0,-20.13,-21.8,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,49,69,1.0,10.0,-20.13,-14.51,-15.77,33.64
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,49,69,1.0,10.0,-20.13,-18.85,-13.29,34.92
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,49,69,1.0,10.0,-20.13,-23.9,-14.12,33.15
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,49,69,1.0,10.0,-20.13,0.0,-13.78,30.75
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,49,69,1.0,10.0,-20.13,-21.69,-16.07,31.88
+130,VIXM.K,ProShares VIX Mid-Term Futures ETF,5,60,14,44,69,1.0,10.0,-20.36,-24.25,-16.07,31.88
+130,NFLY.K,YieldMax NFLX Option Income Strategy ETF,5,60,14,44,69,1.0,10.0,-20.36,0.0,-13.78,30.75
+130,KPOP.K,JAKOTA K-Pop and Korean Entertainment ETF,5,60,14,44,69,1.0,10.0,-20.36,-36.79,-14.67,30.83
+130,EFU,ProShares UltraShort MSCI EAFE,5,60,14,44,69,1.0,10.0,-20.36,-19.51,-14.1,35.84
+130,DMAT.O,Global X Disruptive Materials ETF,5,60,14,44,69,1.0,10.0,-20.36,-24.14,-14.02,31.35
+130,FRNW.K,Fidelity Clean Energy ETF,5,60,14,44,69,1.0,10.0,-20.36,-21.8,-12.91,29.46
+130,FDRV.K,Fidelity Electric Vehicles and Future Transpo ETF,5,60,14,44,69,1.0,10.0,-20.36,-14.51,-15.77,33.64
+130,DWSH.O,AdvisorShares Dorsey Wright Short ETF,5,60,14,44,69,1.0,10.0,-20.36,-23.9,-14.12,33.15
+130,EWV,ProShares UltraShort MSCI Japan ETF,5,60,14,44,69,1.0,10.0,-20.36,-18.34,-13.29,34.92

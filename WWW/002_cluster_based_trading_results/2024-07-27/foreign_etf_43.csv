@@ -1,0 +1,1251 @@
+﻿Cluster,Symbol,Name,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Average_Return,Symbol_sim_return,Return,Std Dev
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,49,59,1.0,10.0,9.76,45.95,20.44,21.11
+43,DARP.K,Grizzle Growth ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,23.07,20.62
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,49,59,1.0,10.0,9.76,72.12,20.49,20.32
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,24.58,18.27
+43,PTEC.O,Global X PropTech ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,22.73,21.18
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,49,59,1.0,10.0,9.76,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,22.86,17.79
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,49,59,1.0,10.0,9.76,0.0,23.69,20.67
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,24.3,18.84
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,49,59,1.0,10.0,9.76,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,59,1.0,10.0,9.76,16.27,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,49,59,1.0,10.0,9.76,46.99,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,49,59,1.0,10.0,9.76,62.6,21.15,21.61
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,49,59,1.0,10.0,9.76,0.0,22.02,21.85
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,23.86,17.92
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,49,64,1.0,10.0,9.54,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,23.38,22.13
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,24.58,18.27
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,22.73,21.18
+43,DARP.K,Grizzle Growth ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,22.86,17.79
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,22.05,20.65
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,24.3,18.84
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,22.02,21.85
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,49,64,1.0,10.0,9.54,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,21.59,19.17
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,64,1.0,10.0,9.54,22.43,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,64,1.0,10.0,9.54,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,49,64,1.0,10.0,9.54,51.7,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,49,64,1.0,10.0,9.54,53.85,21.15,21.61
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,49,64,1.0,10.0,9.54,69.36,20.49,20.32
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,49,64,1.0,10.0,9.54,0.0,23.69,20.67
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,49,64,1.0,10.0,9.54,41.05,20.44,21.11
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,24.58,18.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,22.02,21.85
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,49,54,1.0,10.0,8.95,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,23.07,20.62
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,24.3,18.84
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,49,54,1.0,10.0,8.95,0.0,20.24,20.27
+43,PTEC.O,Global X PropTech ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,22.73,21.18
+43,AMID.O,Argent Mid Cap ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,54,1.0,10.0,8.95,14.9,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,54,1.0,10.0,8.95,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,49,54,1.0,10.0,8.95,40.82,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,49,54,1.0,10.0,8.95,64.68,21.15,21.61
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,49,54,1.0,10.0,8.95,38.71,20.44,21.11
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,49,54,1.0,10.0,8.95,64.68,20.49,20.32
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,49,54,1.0,10.0,8.95,0.0,23.69,20.67
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,49,69,1.0,10.0,7.74,39.85,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,49,69,1.0,10.0,7.74,43.92,21.15,21.61
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,49,69,1.0,10.0,7.74,0.0,23.69,20.67
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,49,69,1.0,10.0,7.74,39.22,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,69,1.0,10.0,7.74,25.97,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,49,69,1.0,10.0,7.74,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,49,69,1.0,10.0,7.74,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,49,69,1.0,10.0,7.74,0.0,24.58,18.27
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,49,69,1.0,10.0,7.74,44.6,20.49,20.32
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,49,74,1.0,10.0,5.93,0.0,23.69,20.67
+43,PTEC.O,Global X PropTech ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,22.73,21.18
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,24.3,18.84
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,24.58,18.27
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,49,74,1.0,10.0,5.93,35.59,20.49,20.32
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,23.38,22.13
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,49,74,1.0,10.0,5.93,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,23.07,20.62
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,22.93,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,22.02,21.85
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,24.58,20.67
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,49,74,1.0,10.0,5.93,0.0,20.24,20.27
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,49,74,1.0,10.0,5.93,24.3,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,49,74,1.0,10.0,5.93,34.96,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,23.2,19.14
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,49,74,1.0,10.0,5.93,23.11,20.44,21.11
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,49,74,1.0,10.0,5.93,30.25,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,120,14,49,74,1.0,10.0,5.93,0.0,20.8,19.43
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,24.3,18.84
+43,PTEC.O,Global X PropTech ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,22.73,21.18
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,49,69,1.0,10.0,5.34,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,23.07,20.62
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,49,69,1.0,10.0,5.34,0.0,23.69,20.67
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,22.02,21.85
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,49,69,1.0,10.0,5.34,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,69,1.0,10.0,5.34,20.33,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,49,69,1.0,10.0,5.34,25.97,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,49,69,1.0,10.0,5.34,31.52,21.15,21.61
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,49,69,1.0,10.0,5.34,0.0,24.58,18.27
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,49,69,1.0,10.0,5.34,30.88,20.44,21.11
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,49,69,1.0,10.0,5.34,24.76,20.49,20.32
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,49,64,1.0,10.0,5.01,0.0,23.69,20.67
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,49,64,1.0,10.0,5.01,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,23.07,20.62
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,24.3,18.84
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,22.02,21.85
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,24.58,18.27
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,49,64,1.0,10.0,5.01,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,64,1.0,10.0,5.01,17.24,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,49,64,1.0,10.0,5.01,25.97,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,49,64,1.0,10.0,5.01,31.41,21.15,21.61
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,49,64,1.0,10.0,5.01,26.58,20.44,21.11
+43,PTEC.O,Global X PropTech ETF,5,60,14,49,64,1.0,10.0,5.01,0.0,22.73,21.18
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,49,64,1.0,10.0,5.01,24.09,20.49,20.32
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,49,74,1.0,10.0,4.55,22.52,20.49,20.32
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,49,74,1.0,10.0,4.55,21.01,21.15,21.61
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,49,74,1.0,10.0,4.55,0.0,23.69,20.67
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,24.58,18.27
+43,PTEC.O,Global X PropTech ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,22.73,21.18
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,49,74,1.0,10.0,4.55,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,22.86,17.79
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,24.3,18.84
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,22.02,21.85
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,49,74,1.0,10.0,4.55,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,74,1.0,10.0,4.55,24.3,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,49,74,1.0,10.0,4.55,25.27,22.24,22.56
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,49,74,1.0,10.0,4.55,20.53,20.44,21.11
+43,DARP.K,Grizzle Growth ETF,5,60,14,49,74,1.0,10.0,4.55,0.0,23.07,20.62
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,49,54,1.0,10.0,4.32,0.0,23.69,20.67
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,49,54,1.0,10.0,4.32,0.0,20.24,20.27
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,49,54,1.0,10.0,4.32,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,23.07,20.62
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,24.3,18.84
+43,AMID.O,Argent Mid Cap ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,20.8,19.43
+43,PTEC.O,Global X PropTech ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,22.73,21.18
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,54,1.0,10.0,4.32,9.86,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,49,54,1.0,10.0,4.32,10.98,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,49,54,1.0,10.0,4.32,16.6,21.15,21.61
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,49,54,1.0,10.0,4.32,54.92,20.44,21.11
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,49,54,1.0,10.0,4.32,15.52,20.49,20.32
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,20.31,19.47
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,22.02,21.85
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,49,54,1.0,10.0,4.32,0.0,24.58,18.27
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,49,59,1.0,10.0,4.01,0.0,23.69,20.67
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,49,59,1.0,10.0,4.01,24.34,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,49,59,1.0,10.0,4.01,23.51,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,49,59,1.0,10.0,4.01,19.24,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,49,59,1.0,10.0,4.01,11.63,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,49,59,1.0,10.0,4.01,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,22.02,21.85
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,49,59,1.0,10.0,4.01,21.54,20.49,20.32
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,23.38,22.13
+43,PTEC.O,Global X PropTech ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,22.73,21.18
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,22.48,17.87
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,22.76,22.35
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,49,59,1.0,10.0,4.01,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,23.07,20.62
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,49,59,1.0,10.0,4.01,0.0,24.3,18.84
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,24.58,20.67
+43,AMID.O,Argent Mid Cap ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,74,1.0,10.0,2.88,24.3,25.87,18.98
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,44,74,1.0,10.0,2.88,22.52,20.49,20.32
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,44,74,1.0,10.0,2.88,25.27,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,21.15,21.61
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,44,74,1.0,10.0,2.88,0.0,20.44,21.11
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,22.02,21.85
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,44,74,1.0,10.0,2.88,0.0,20.24,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,23.38,22.13
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,44,74,1.0,10.0,2.88,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,22.93,20.27
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,44,74,1.0,10.0,2.88,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,44,74,1.0,10.0,2.88,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,44,59,1.0,10.0,2.88,72.12,20.49,20.32
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,44,59,1.0,10.0,2.88,0.0,23.69,20.67
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,44,59,1.0,10.0,2.88,0.0,20.24,20.27
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,44,59,1.0,10.0,2.88,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,20.8,19.43
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,22.02,21.85
+43,PTEC.O,Global X PropTech ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,22.73,21.18
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,44,59,1.0,10.0,2.88,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,22.48,17.87
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,24.58,18.27
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,44,59,1.0,10.0,2.88,0.0,20.31,19.47
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,44,69,1.0,10.0,2.84,0.0,23.69,20.67
+43,DARP.K,Grizzle Growth ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,23.07,20.62
+43,PTEC.O,Global X PropTech ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,22.73,21.18
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,44,69,1.0,10.0,2.84,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,22.86,17.79
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,24.3,18.84
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,21.15,21.61
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,22.02,21.85
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,44,69,1.0,10.0,2.84,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,69,1.0,10.0,2.84,20.33,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,44,69,1.0,10.0,2.84,25.97,22.24,22.56
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,44,69,1.0,10.0,2.84,0.0,20.44,21.11
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,44,69,1.0,10.0,2.84,0.0,24.58,18.27
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,44,69,1.0,10.0,2.84,24.76,20.49,20.32
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,24.3,18.84
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,44,64,1.0,10.0,2.77,0.0,23.69,20.67
+43,PTEC.O,Global X PropTech ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,22.73,21.18
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,44,64,1.0,10.0,2.77,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,23.07,20.62
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,24.58,18.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,22.02,21.85
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,23.2,19.14
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,44,64,1.0,10.0,2.77,0.0,20.24,20.27
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,44,64,1.0,10.0,2.77,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,22.24,22.56
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,44,64,1.0,10.0,2.77,69.36,20.49,20.32
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,24.58,20.67
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,21.59,19.17
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,25.87,18.98
+43,AMID.O,Argent Mid Cap ETF,5,120,14,44,64,1.0,10.0,2.77,0.0,20.8,19.43
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,23.86,17.92
+43,IBOT.O,VanEck Robotics ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,44,64,1.0,10.0,2.69,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,23.38,22.13
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,22.76,22.35
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,22.73,21.18
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,24.3,18.84
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,24.58,18.27
+43,DARP.K,Grizzle Growth ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,23.07,20.62
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,64,1.0,10.0,2.69,17.24,25.87,18.98
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,22.02,21.85
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,44,64,1.0,10.0,2.69,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,22.05,20.65
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,44,64,1.0,10.0,2.69,25.97,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,44,64,1.0,10.0,2.69,0.0,21.15,21.61
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,44,64,1.0,10.0,2.69,24.09,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,44,64,1.0,10.0,2.69,0.0,20.44,21.11
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,44,64,1.0,10.0,2.69,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,44,54,1.0,10.0,2.59,64.68,20.49,20.32
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,23.38,22.13
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,24.3,18.84
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,44,54,1.0,10.0,2.59,0.0,23.69,20.67
+43,PTEC.O,Global X PropTech ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,22.73,21.18
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,23.86,17.92
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,44,54,1.0,10.0,2.59,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,23.07,20.62
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,24.58,18.27
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,44,54,1.0,10.0,2.59,0.0,20.44,21.11
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,25.87,18.98
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,22.02,21.85
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,24.58,20.67
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,21.15,21.61
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,120,14,44,54,1.0,10.0,2.59,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,44,54,1.0,10.0,2.59,0.0,20.24,20.27
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,24.3,18.84
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,24.58,18.27
+43,PTEC.O,Global X PropTech ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,22.73,21.18
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,44,59,1.0,10.0,2.1,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,23.07,20.62
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,44,59,1.0,10.0,2.1,21.54,20.49,20.32
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,22.02,21.85
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,44,59,1.0,10.0,2.1,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,59,1.0,10.0,2.1,11.63,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,44,59,1.0,10.0,2.1,19.24,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,44,59,1.0,10.0,2.1,0.0,21.15,21.61
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,44,59,1.0,10.0,2.1,0.0,20.44,21.11
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,44,59,1.0,10.0,2.1,0.0,23.69,20.67
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,44,69,1.0,10.0,1.78,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,44,69,1.0,10.0,1.78,44.6,20.49,20.32
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,24.58,18.27
+43,PTEC.O,Global X PropTech ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,22.73,21.18
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,44,69,1.0,10.0,1.78,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,23.07,20.62
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,22.02,21.85
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,44,69,1.0,10.0,1.78,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,21.15,21.61
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,44,69,1.0,10.0,1.78,0.0,20.44,21.11
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,44,69,1.0,10.0,1.78,0.0,24.3,18.84
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,44,54,1.0,10.0,1.45,15.52,20.49,20.32
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,44,54,1.0,10.0,1.45,0.0,23.69,20.67
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,22.02,21.85
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,24.58,18.27
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,44,54,1.0,10.0,1.45,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,44,54,1.0,10.0,1.45,10.98,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,44,54,1.0,10.0,1.45,9.86,25.87,18.98
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,44,54,1.0,10.0,1.45,0.0,20.24,20.27
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,22.05,20.65
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,24.3,18.84
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,23.86,17.92
+43,DARP.K,Grizzle Growth ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,23.07,20.62
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,22.76,22.35
+43,PTEC.O,Global X PropTech ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,22.73,21.18
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,44,54,1.0,10.0,1.45,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,60,14,44,54,1.0,10.0,1.45,0.0,22.86,17.79
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,24.3,18.84
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,44,74,1.0,10.0,1.42,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,22.02,21.85
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,44,74,1.0,10.0,1.42,0.0,23.69,20.67
+43,DARP.K,Grizzle Growth ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,44,74,1.0,10.0,1.42,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,44,74,1.0,10.0,1.42,0.0,24.58,18.27
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,44,74,1.0,10.0,1.42,0.0,20.44,21.11
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,44,74,1.0,10.0,1.42,35.59,20.49,20.32
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,39,59,1.0,10.0,0.0,0.0,20.49,20.32
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,23.2,19.14
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,34,69,1.0,10.0,0.0,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,23.07,20.62
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,24.3,18.84
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,22.02,21.85
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,34,69,1.0,10.0,0.0,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,24.58,20.67
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,22.24,22.56
+43,DARP.K,Grizzle Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,23.07,20.62
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,21.15,21.61
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,34,69,1.0,10.0,0.0,0.0,20.44,21.11
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,34,69,1.0,10.0,0.0,0.0,20.49,20.32
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,34,64,1.0,10.0,0.0,0.0,23.69,20.67
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,24.58,18.27
+43,PTEC.O,Global X PropTech ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,22.73,21.18
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,34,64,1.0,10.0,0.0,0.0,21.8,18.55
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,20.31,19.47
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,24.58,18.27
+43,PTEC.O,Global X PropTech ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,22.73,21.18
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,34,74,1.0,10.0,0.0,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,23.07,20.62
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,24.3,18.84
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,22.02,21.85
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,34,74,1.0,10.0,0.0,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,34,74,1.0,10.0,0.0,0.0,21.15,21.61
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,34,74,1.0,10.0,0.0,0.0,20.44,21.11
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,34,74,1.0,10.0,0.0,0.0,20.49,20.32
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,34,69,1.0,10.0,0.0,0.0,23.69,20.67
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,24.58,18.27
+43,PTEC.O,Global X PropTech ETF,5,120,14,34,69,1.0,10.0,0.0,0.0,22.73,21.18
+43,IBOT.O,VanEck Robotics ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,22.86,17.79
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,24.3,18.84
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,39,59,1.0,10.0,0.0,0.0,20.44,21.11
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,22.93,20.27
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,21.15,21.61
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,34,59,1.0,10.0,0.0,0.0,20.44,21.11
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,34,59,1.0,10.0,0.0,0.0,20.49,20.32
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,34,54,1.0,10.0,0.0,0.0,23.69,20.67
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,24.58,18.27
+43,PTEC.O,Global X PropTech ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,22.73,21.18
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,23.38,22.13
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,34,54,1.0,10.0,0.0,0.0,21.8,18.55
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,22.02,21.85
+43,IBOT.O,VanEck Robotics ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,23.07,20.62
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,24.3,18.84
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,22.02,21.85
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,34,54,1.0,10.0,0.0,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,34,54,1.0,10.0,0.0,0.0,21.15,21.61
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,21.59,19.17
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,34,64,1.0,10.0,0.0,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,34,64,1.0,10.0,0.0,0.0,21.15,21.61
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,34,64,1.0,10.0,0.0,0.0,20.44,21.11
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,34,64,1.0,10.0,0.0,0.0,20.49,20.32
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,34,59,1.0,10.0,0.0,0.0,23.69,20.67
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,24.58,18.27
+43,PTEC.O,Global X PropTech ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,22.73,21.18
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,34,59,1.0,10.0,0.0,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,23.07,20.62
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,24.3,18.84
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,22.02,21.85
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,34,59,1.0,10.0,0.0,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,120,14,34,59,1.0,10.0,0.0,0.0,20.8,19.43
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,34,74,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,39,54,1.0,10.0,0.0,0.0,20.49,20.32
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,34,54,1.0,10.0,0.0,0.0,20.49,20.32
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,20.31,19.47
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,39,64,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,39,64,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,22.48,17.87
+43,PTEC.O,Global X PropTech ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,22.73,21.18
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,39,54,1.0,10.0,0.0,0.0,20.44,21.11
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,39,64,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,39,69,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,39,69,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,39,69,1.0,10.0,0.0,0.0,20.24,20.27
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,23.2,19.14
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,39,59,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,39,59,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,39,59,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,39,59,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,39,64,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,39,64,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,39,64,1.0,10.0,0.0,0.0,22.24,22.56
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,23.07,20.62
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,22.76,22.35
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,39,74,1.0,10.0,0.0,0.0,23.69,20.67
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,39,54,1.0,10.0,0.0,0.0,23.69,20.67
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,24.58,18.27
+43,PTEC.O,Global X PropTech ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,22.73,21.18
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,20.31,19.47
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,22.48,17.87
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,22.76,22.35
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,23.86,17.92
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,23.38,22.13
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,22.93,20.27
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,39,54,1.0,10.0,0.0,0.0,21.8,18.55
+43,IBOT.O,VanEck Robotics ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,22.86,17.79
+43,DARP.K,Grizzle Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,23.07,20.62
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,24.3,18.84
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,22.02,21.85
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,39,54,1.0,10.0,0.0,0.0,20.24,20.27
+43,AMID.O,Argent Mid Cap ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,20.8,19.43
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,21.59,19.17
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,23.2,19.14
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,22.24,22.56
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,39,54,1.0,10.0,0.0,0.0,21.15,21.61
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,22.48,17.87
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,23.86,17.92
+43,IBOT.O,VanEck Robotics ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,22.86,17.79
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,23.38,22.13
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,39,69,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,39,69,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,39,69,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,39,74,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,39,74,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,39,74,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,39,74,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,39,74,1.0,10.0,0.0,0.0,22.93,20.27
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,34,54,1.0,10.0,0.0,0.0,20.44,21.11
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,29,54,1.0,10.0,0.0,0.0,20.49,20.32
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,29,74,1.0,10.0,0.0,0.0,23.69,20.67
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,20.31,19.47
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,34,59,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,34,59,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,22.48,17.87
+43,PTEC.O,Global X PropTech ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,22.73,21.18
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,34,54,1.0,10.0,0.0,0.0,20.49,20.32
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,34,59,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,34,64,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,34,64,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,34,64,1.0,10.0,0.0,0.0,20.24,20.27
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,23.2,19.14
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,34,54,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,34,54,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,34,54,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,34,54,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,34,59,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,34,59,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,34,59,1.0,10.0,0.0,0.0,22.24,22.56
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,23.07,20.62
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,22.76,22.35
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,34,69,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,34,74,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,34,74,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,34,74,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,34,74,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,22.73,21.18
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,22.48,17.87
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,23.86,17.92
+43,IBOT.O,VanEck Robotics ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,22.86,17.79
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,23.38,22.13
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,34,64,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,34,64,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,34,64,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,34,69,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,34,69,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,34,69,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,34,69,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,34,69,1.0,10.0,0.0,0.0,22.93,20.27
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,34,54,1.0,10.0,0.0,0.0,20.44,21.11
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,29,74,1.0,10.0,0.0,0.0,23.69,20.67
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,34,74,1.0,10.0,0.0,0.0,23.69,20.67
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,20.31,19.47
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,29,59,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,29,59,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,22.48,17.87
+43,PTEC.O,Global X PropTech ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,24.58,18.27
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,29,59,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,29,64,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,29,64,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,29,64,1.0,10.0,0.0,0.0,20.24,20.27
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,23.2,19.14
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,29,54,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,29,54,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,29,54,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,29,54,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,29,59,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,29,59,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,29,59,1.0,10.0,0.0,0.0,22.24,22.56
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,23.07,20.62
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,22.76,22.35
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,29,69,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,29,74,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,29,74,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,29,74,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,29,74,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,60,14,29,74,1.0,10.0,0.0,0.0,22.73,21.18
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,22.48,17.87
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,23.86,17.92
+43,IBOT.O,VanEck Robotics ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,22.86,17.79
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,23.38,22.13
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,29,64,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,29,64,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,29,64,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,29,69,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,29,69,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,29,69,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,29,69,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,29,69,1.0,10.0,0.0,0.0,22.93,20.27
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,34,74,1.0,10.0,0.0,0.0,24.58,18.27
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,39,54,1.0,10.0,0.0,0.0,20.49,20.32
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,24.58,18.27
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,20.31,19.47
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,29,59,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,29,59,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,22.48,17.87
+43,PTEC.O,Global X PropTech ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,22.73,21.18
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,29,54,1.0,10.0,0.0,0.0,20.44,21.11
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,29,59,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,29,64,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,29,64,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,29,64,1.0,10.0,0.0,0.0,20.24,20.27
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,23.2,19.14
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,29,54,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,29,54,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,29,54,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,29,54,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,29,59,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,29,59,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,29,59,1.0,10.0,0.0,0.0,22.24,22.56
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,23.07,20.62
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,22.76,22.35
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,29,69,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,29,74,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,29,74,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,29,74,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,29,74,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,120,14,29,74,1.0,10.0,0.0,0.0,22.73,21.18
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,22.48,17.87
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,23.86,17.92
+43,IBOT.O,VanEck Robotics ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,22.86,17.79
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,23.38,22.13
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,29,64,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,120,14,29,64,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,120,14,29,64,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,29,69,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,29,69,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,120,14,29,69,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,120,14,29,69,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,120,14,29,69,1.0,10.0,0.0,0.0,22.93,20.27
+43,XLK,Technology Select Sector SPDR Fund,5,120,14,29,54,1.0,10.0,0.0,0.0,20.44,21.11
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,39,74,1.0,10.0,0.0,0.0,23.69,20.67
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,39,54,1.0,10.0,0.0,0.0,20.44,21.11
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,20.31,19.47
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,39,59,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,39,59,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,22.48,17.87
+43,PTEC.O,Global X PropTech ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,24.58,18.27
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,39,59,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,39,64,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,39,64,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,39,64,1.0,10.0,0.0,0.0,20.24,20.27
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,22.05,20.65
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,25.87,18.98
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,24.58,20.67
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,23.2,19.14
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,39,54,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,39,54,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,39,54,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,39,54,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,39,59,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,39,59,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,39,59,1.0,10.0,0.0,0.0,22.24,22.56
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,23.07,20.62
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,22.76,22.35
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,39,69,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,39,74,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,39,74,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,39,74,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,39,74,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,60,14,39,74,1.0,10.0,0.0,0.0,22.73,21.18
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,22.48,17.87
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,23.86,17.92
+43,IBOT.O,VanEck Robotics ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,22.86,17.79
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,23.38,22.13
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,39,64,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,22.93,20.27
+43,FCUS.K,Pinnacle Focused Opportunities ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,23.38,22.13
+43,AMZP.K,Kurv Yield Premium Strategy Amazon AMZN ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,23.86,17.92
+43,PWER.K,Macquarie Energy Transition ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,22.76,22.35
+43,CAFG.O,Pacer US Small Cap Cash Cows Growth Leaders ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,22.48,17.87
+43,BOTT.O,Themes Robotics & Automation ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,20.31,19.47
+43,PTEC.O,Global X PropTech ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,22.73,21.18
+43,DVDN.K,Kingsbarn Dividend Opportunity ETF,5,60,14,39,64,1.0,10.0,0.0,0.0,24.58,18.27
+43,BKIV.O,BNY Mellon Innovators Etf,5,60,14,39,64,1.0,10.0,0.0,0.0,23.69,20.67
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,60,14,39,69,1.0,10.0,0.0,0.0,20.49,20.32
+43,XLK,Technology Select Sector SPDR Fund,5,60,14,39,69,1.0,10.0,0.0,0.0,20.44,21.11
+43,VGT,Vanguard Information Technology Index Fund;ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,21.15,21.61
+43,FTEC.K,Fidelity MSCI Information Technology Index ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,22.24,22.56
+43,JGRO.K,JPMorgan Active Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,23.2,19.14
+43,BSVO.O,EA Bridgeway Omni Small Cap Value ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,24.58,20.67
+43,GLIN.K,VanEck India Growth Leaders ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,25.87,18.98
+43,RSST.K,Return Stacked US Stocks & Managed Futures ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,22.05,20.65
+43,TSME.K,Thrivent Small-Mid Cap ESG ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,21.59,19.17
+43,AMID.O,Argent Mid Cap ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,20.8,19.43
+43,UMI,USCF Midstream Energy Income Fund,5,60,14,39,69,1.0,10.0,0.0,0.0,20.24,20.27
+43,FDTX.O,Fidelity Disruptive Technology ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,22.02,21.85
+43,GOOP.K,Kurv Yield Premium Strategy Google GOOGL ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,24.3,18.84
+43,DARP.K,Grizzle Growth ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,23.07,20.62
+43,IBOT.O,VanEck Robotics ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,22.86,17.79
+43,QSML.O,WisdomTree US SmallCap Quality Growth Fund,5,60,14,39,69,1.0,10.0,0.0,0.0,21.8,18.55
+43,FIXT.O,Procure Disaster Recovery Strategy ETF,5,60,14,39,69,1.0,10.0,0.0,0.0,22.93,20.27
+43,QQQ.O,Invesco QQQ Trust  Series 1,5,120,14,29,54,1.0,10.0,0.0,0.0,20.49,20.32
