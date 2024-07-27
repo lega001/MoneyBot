@@ -1,0 +1,45 @@
+
+HUM (휴마나)
+Cluster: 9
+Best Config: {'ticker': 'HUM', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 51190.67%
+
+ADBE.O (어도비)
+Cluster: 7
+Best Config: {'ticker': 'ADBE.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 29.94%
+
+PODD.O (인슐릿)
+Cluster: 8
+Best Config: {'ticker': 'PODD.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 26.69%
+
+SWKS.O (스카이웍스 솔루션스)
+Cluster: 8
+Best Config: {'ticker': 'SWKS.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 22.10%
+
+PFE (화이자)
+Cluster: 19
+Best Config: {'ticker': 'PFE', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 9.44%
+
+PSA (퍼블릭 스토리지)
+Cluster: 16
+Best Config: {'ticker': 'PSA', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 3.19%
+
+AMT (아메리칸 타워)
+Cluster: 16
+Best Config: {'ticker': 'AMT', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -2.85%
+
+AWK (아메리칸 워터 웍스)
+Cluster: 16
+Best Config: {'ticker': 'AWK', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -8.28%
+
+CPRT.O (코파트)
+Cluster: 9
+Best Config: {'ticker': 'CPRT.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -23.16%

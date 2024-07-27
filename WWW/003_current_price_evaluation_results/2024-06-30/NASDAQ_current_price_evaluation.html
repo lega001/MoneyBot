@@ -1,0 +1,1222 @@
+
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Current Price Evaluation Results</title>
+                <style>
+                    body {
+                        font-family: Arial, sans-serif;
+                        margin: 0;
+                        padding: 20px;
+                    }
+                    table {
+                        width: 100%;
+                        border-collapse: collapse;
+                        margin: 20px 0;
+                        font-size: 18px;
+                        text-align: left;
+                    }
+                    th, td {
+                        padding: 12px;
+                        border: 1px solid #ddd;
+                    }
+                    th {
+                        background-color: #f2f2f2;
+                        position: sticky;
+                        top: 0;
+                        z-index: 1;
+                    }
+                    tr:hover { background-color: #f5f5f5; }
+                </style>
+            </head>
+            <body>
+                <h2>Current Price Evaluation Results for NASDAQ</h2>
+                <table class="dataframe table table-striped">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Cluster</th>
+      <th>Symbol</th>
+      <th>Name</th>
+      <th>Current_Price</th>
+      <th>Expected_Annual_Return</th>
+      <th>Current_RSI</th>
+      <th>Current_MA_Short</th>
+      <th>Current_MA_Long</th>
+      <th>MA_Short_Window</th>
+      <th>MA_Long_Window</th>
+      <th>RSI_Window</th>
+      <th>RSI_Buy_Threshold</th>
+      <th>RSI_Sell_Threshold</th>
+      <th>Stop_Loss_Percent</th>
+      <th>Take_Profit_Percent</th>
+      <th>Return</th>
+      <th>Std Dev</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>25</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/NXL.O/total" target="_blank">NXL.O</a></td>
+      <td>넥살린 테크놀로지</td>
+      <td>1.6900</td>
+      <td>430756.89</td>
+      <td>47.50</td>
+      <td>2.39</td>
+      <td>0.97</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>59</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>293.29</td>
+      <td>189.88</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/APCX.O/total" target="_blank">APCX.O</a></td>
+      <td>앱테크 페이먼츠</td>
+      <td>0.9400</td>
+      <td>37120.24</td>
+      <td>43.30</td>
+      <td>0.94</td>
+      <td>0.91</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>97.06</td>
+      <td>146.89</td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/WGS.O/total" target="_blank">WGS.O</a></td>
+      <td>진디엑스 홀딩스</td>
+      <td>26.1400</td>
+      <td>4891.70</td>
+      <td>28.83</td>
+      <td>26.73</td>
+      <td>12.91</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-21.43</td>
+      <td>118.62</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/ARGX.O/total" target="_blank">ARGX.O</a></td>
+      <td>아겐스 ADR</td>
+      <td>430.0400</td>
+      <td>1463.21</td>
+      <td>48.14</td>
+      <td>442.60</td>
+      <td>384.98</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>69</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>71.72</td>
+      <td>54.52</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/NVCR.O/total" target="_blank">NVCR.O</a></td>
+      <td>노보큐어</td>
+      <td>17.1300</td>
+      <td>136.91</td>
+      <td>38.41</td>
+      <td>17.94</td>
+      <td>16.25</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>39</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>28.15</td>
+      <td>72.19</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/GCTK.O/total" target="_blank">GCTK.O</a></td>
+      <td>글루코 트랙</td>
+      <td>2.0100</td>
+      <td>131.97</td>
+      <td>27.05</td>
+      <td>2.09</td>
+      <td>1.94</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>110.68</td>
+      <td>230.89</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/PSHG.O/total" target="_blank">PSHG.O</a></td>
+      <td>퍼포먼스 쉬핑</td>
+      <td>2.1600</td>
+      <td>110.93</td>
+      <td>28.19</td>
+      <td>2.11</td>
+      <td>2.05</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29</td>
+      <td>79</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-28.66</td>
+      <td>95.39</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/GLLIR.O/total" target="_blank">GLLIR.O</a></td>
+      <td>Globalink Investment Rights Exp 6th Dec 2026</td>
+      <td>0.1550</td>
+      <td>102.20</td>
+      <td>40.43</td>
+      <td>0.16</td>
+      <td>0.11</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>494.70</td>
+      <td>221.21</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/EUDA.O/total" target="_blank">EUDA.O</a></td>
+      <td>8i 애퀴지션 2</td>
+      <td>3.0700</td>
+      <td>91.88</td>
+      <td>40.06</td>
+      <td>3.42</td>
+      <td>2.26</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44</td>
+      <td>59</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>25.55</td>
+      <td>116.44</td>
+    </tr>
+    <tr>
+      <td>131</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/AUID.O/total" target="_blank">AUID.O</a></td>
+      <td>오스아이디</td>
+      <td>10.3800</td>
+      <td>87.42</td>
+      <td>33.36</td>
+      <td>9.05</td>
+      <td>8.77</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>4.17</td>
+      <td>115.33</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/AVAH.O/total" target="_blank">AVAH.O</a></td>
+      <td>애비애나 헬스케어 홀딩스</td>
+      <td>2.7600</td>
+      <td>85.26</td>
+      <td>45.52</td>
+      <td>2.50</td>
+      <td>2.45</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-14.49</td>
+      <td>77.06</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/DSP.O/total" target="_blank">DSP.O</a></td>
+      <td>바이안트 테크놀로지</td>
+      <td>9.8700</td>
+      <td>74.62</td>
+      <td>48.51</td>
+      <td>9.42</td>
+      <td>9.10</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-18.68</td>
+      <td>71.85</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/SNGX.O/total" target="_blank">SNGX.O</a></td>
+      <td>솔리제닉스</td>
+      <td>2.5800</td>
+      <td>60.68</td>
+      <td>33.59</td>
+      <td>2.80</td>
+      <td>1.22</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>34</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>138.89</td>
+      <td>347.48</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/PODD.O/total" target="_blank">PODD.O</a></td>
+      <td>인슐릿</td>
+      <td>201.8000</td>
+      <td>37.22</td>
+      <td>42.75</td>
+      <td>205.06</td>
+      <td>180.93</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>30.59</td>
+      <td>41.06</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/SANG.O/total" target="_blank">SANG.O</a></td>
+      <td>샌고마 테크놀로지스</td>
+      <td>5.0100</td>
+      <td>31.05</td>
+      <td>45.56</td>
+      <td>5.16</td>
+      <td>4.35</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-24.64</td>
+      <td>73.50</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/TSLA.O/total" target="_blank">TSLA.O</a></td>
+      <td>테슬라</td>
+      <td>197.8800</td>
+      <td>30.29</td>
+      <td>44.95</td>
+      <td>192.32</td>
+      <td>183.05</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>69</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>68.56</td>
+      <td>56.22</td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/MIRM.O/total" target="_blank">MIRM.O</a></td>
+      <td>미럼 파마슈티컬스</td>
+      <td>34.1900</td>
+      <td>29.79</td>
+      <td>48.78</td>
+      <td>33.63</td>
+      <td>26.76</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>59</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>61.31</td>
+      <td>82.64</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/WINVR.O/total" target="_blank">WINVR.O</a></td>
+      <td>WinVest Acquisition Right</td>
+      <td>0.0750</td>
+      <td>9.49</td>
+      <td>43.10</td>
+      <td>0.07</td>
+      <td>0.05</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>409.18</td>
+      <td>217.51</td>
+    </tr>
+    <tr>
+      <td>128</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/TBRG.O/total" target="_blank">TBRG.O</a></td>
+      <td>트루브리지</td>
+      <td>10.0000</td>
+      <td>5.01</td>
+      <td>29.92</td>
+      <td>10.28</td>
+      <td>9.38</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-2.30</td>
+      <td>38.92</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/MOLN.O/total" target="_blank">MOLN.O</a></td>
+      <td>몰레큘러 파트너스 ADR</td>
+      <td>7.2300</td>
+      <td>2.56</td>
+      <td>30.12</td>
+      <td>7.21</td>
+      <td>4.50</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>39</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-1.82</td>
+      <td>78.06</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/EGRX.O/total" target="_blank">EGRX.O</a></td>
+      <td>이글 파마슈티컬스</td>
+      <td>5.6000</td>
+      <td>0.00</td>
+      <td>24.66</td>
+      <td>4.91</td>
+      <td>4.90</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>10.14</td>
+      <td>59.30</td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/IXAQU.O/total" target="_blank">IXAQU.O</a></td>
+      <td>IX Acquisition Units</td>
+      <td>10.6596</td>
+      <td>0.00</td>
+      <td>41.62</td>
+      <td>10.66</td>
+      <td>10.49</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>3.61</td>
+      <td>12.43</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/NVEI.O/total" target="_blank">NVEI.O</a></td>
+      <td>뉴베이</td>
+      <td>32.3800</td>
+      <td>-1.29</td>
+      <td>43.64</td>
+      <td>32.24</td>
+      <td>28.94</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-19.59</td>
+      <td>73.54</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/LENZ.O/total" target="_blank">LENZ.O</a></td>
+      <td>렌즈 테라퓨틱스</td>
+      <td>17.2900</td>
+      <td>-1.30</td>
+      <td>35.51</td>
+      <td>17.59</td>
+      <td>16.12</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-21.76</td>
+      <td>75.32</td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/KRMD.O/total" target="_blank">KRMD.O</a></td>
+      <td>코루 메디컬 시스템스</td>
+      <td>2.6500</td>
+      <td>-2.75</td>
+      <td>40.68</td>
+      <td>2.84</td>
+      <td>2.22</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>59</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>67.62</td>
+      <td>80.46</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/INNV.O/total" target="_blank">INNV.O</a></td>
+      <td>이노베이지 홀딩</td>
+      <td>4.9600</td>
+      <td>-3.17</td>
+      <td>35.73</td>
+      <td>4.95</td>
+      <td>4.75</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-17.79</td>
+      <td>73.57</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/OESX.O/total" target="_blank">OESX.O</a></td>
+      <td>오리온 에너지 시스템즈</td>
+      <td>1.1100</td>
+      <td>-7.32</td>
+      <td>35.28</td>
+      <td>1.19</td>
+      <td>0.98</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>39</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>13.44</td>
+      <td>62.91</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/VIOT.O/total" target="_blank">VIOT.O</a></td>
+      <td>비오미 테크놀러지 ADR</td>
+      <td>0.9312</td>
+      <td>-8.34</td>
+      <td>36.74</td>
+      <td>0.92</td>
+      <td>0.74</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-11.29</td>
+      <td>74.43</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/RFACR.O/total" target="_blank">RFACR.O</a></td>
+      <td>RF Acquisition Rights Exp 1st May 2028</td>
+      <td>0.0996</td>
+      <td>-9.82</td>
+      <td>48.86</td>
+      <td>0.11</td>
+      <td>0.10</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>396.63</td>
+      <td>209.60</td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/BTBD.O/total" target="_blank">BTBD.O</a></td>
+      <td>BT 브랜즈</td>
+      <td>1.5925</td>
+      <td>-10.54</td>
+      <td>35.33</td>
+      <td>1.67</td>
+      <td>1.51</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>12.80</td>
+      <td>102.52</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/SMLR.O/total" target="_blank">SMLR.O</a></td>
+      <td>샘러 사이언티픽</td>
+      <td>34.4000</td>
+      <td>-11.34</td>
+      <td>39.93</td>
+      <td>34.96</td>
+      <td>34.88</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-15.99</td>
+      <td>74.30</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/ELDN.O/total" target="_blank">ELDN.O</a></td>
+      <td>엘레돈 파마슈티컬스</td>
+      <td>2.6400</td>
+      <td>-12.42</td>
+      <td>46.07</td>
+      <td>2.55</td>
+      <td>2.10</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-18.10</td>
+      <td>78.06</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/TECH.O/total" target="_blank">TECH.O</a></td>
+      <td>바이오-테크네</td>
+      <td>71.6500</td>
+      <td>-13.61</td>
+      <td>35.25</td>
+      <td>72.63</td>
+      <td>72.57</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>39</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>10.08</td>
+      <td>33.80</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/AFMD.O/total" target="_blank">AFMD.O</a></td>
+      <td>아피메드</td>
+      <td>5.4500</td>
+      <td>-14.40</td>
+      <td>32.74</td>
+      <td>5.62</td>
+      <td>5.57</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44</td>
+      <td>59</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>25.60</td>
+      <td>115.21</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/DOYU.O/total" target="_blank">DOYU.O</a></td>
+      <td>도유 인터내셔널 홀딩스 ADR</td>
+      <td>10.9900</td>
+      <td>-17.61</td>
+      <td>39.03</td>
+      <td>10.78</td>
+      <td>8.55</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-17.61</td>
+      <td>75.92</td>
+    </tr>
+    <tr>
+      <td>118</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/VNET.O/total" target="_blank">VNET.O</a></td>
+      <td>브이넷 그룹 ADR</td>
+      <td>2.0950</td>
+      <td>-18.34</td>
+      <td>33.78</td>
+      <td>2.18</td>
+      <td>1.92</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>34</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>8.22</td>
+      <td>71.22</td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/RCAT.O/total" target="_blank">RCAT.O</a></td>
+      <td>레드 캣 홀딩스</td>
+      <td>1.1500</td>
+      <td>-24.67</td>
+      <td>43.07</td>
+      <td>1.11</td>
+      <td>1.09</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>14.25</td>
+      <td>106.06</td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/ANEB.O/total" target="_blank">ANEB.O</a></td>
+      <td>아네불로 파마슈티컬</td>
+      <td>2.7300</td>
+      <td>-27.58</td>
+      <td>37.58</td>
+      <td>2.73</td>
+      <td>2.52</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>17.06</td>
+      <td>97.11</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/MIGI.O/total" target="_blank">MIGI.O</a></td>
+      <td>모손 인프라 스트럭처 그룹</td>
+      <td>1.4300</td>
+      <td>-28.53</td>
+      <td>21.77</td>
+      <td>1.49</td>
+      <td>1.29</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>29</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-35.88</td>
+      <td>136.68</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/MICS.O/total" target="_blank">MICS.O</a></td>
+      <td>싱잉 머신 컴퍼니</td>
+      <td>1.1600</td>
+      <td>-30.11</td>
+      <td>42.60</td>
+      <td>1.15</td>
+      <td>1.13</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44</td>
+      <td>59</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>26.53</td>
+      <td>118.68</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/FOSL.O/total" target="_blank">FOSL.O</a></td>
+      <td>파슬 그룹</td>
+      <td>1.4400</td>
+      <td>-30.54</td>
+      <td>36.37</td>
+      <td>1.52</td>
+      <td>1.11</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>39</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>5.75</td>
+      <td>77.69</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/TRIB.O/total" target="_blank">TRIB.O</a></td>
+      <td>트리니티 바이오테크 ADR</td>
+      <td>2.1300</td>
+      <td>-32.63</td>
+      <td>33.69</td>
+      <td>2.15</td>
+      <td>2.13</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>69</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>34.48</td>
+      <td>124.75</td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/CSLR.O/total" target="_blank">CSLR.O</a></td>
+      <td>컴플리트 솔라리아</td>
+      <td>1.1200</td>
+      <td>-33.55</td>
+      <td>24.23</td>
+      <td>1.26</td>
+      <td>1.03</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-13.92</td>
+      <td>108.39</td>
+    </tr>
+    <tr>
+      <td>131</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/UPC.O/total" target="_blank">UPC.O</a></td>
+      <td>유니버스 파마슈티컬스</td>
+      <td>2.4900</td>
+      <td>-34.21</td>
+      <td>39.81</td>
+      <td>2.52</td>
+      <td>2.12</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-4.55</td>
+      <td>119.30</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/GDS.O/total" target="_blank">GDS.O</a></td>
+      <td>GDS 홀딩스 ADR</td>
+      <td>9.2900</td>
+      <td>-41.32</td>
+      <td>33.99</td>
+      <td>9.37</td>
+      <td>7.41</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>27.29</td>
+      <td>71.84</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/ACRS.O/total" target="_blank">ACRS.O</a></td>
+      <td>애클래리스 테라퓨틱스</td>
+      <td>1.1000</td>
+      <td>-41.43</td>
+      <td>30.81</td>
+      <td>1.18</td>
+      <td>1.17</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44</td>
+      <td>59</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>32.63</td>
+      <td>110.48</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/SONM.O/total" target="_blank">SONM.O</a></td>
+      <td>소님 테크놀러지</td>
+      <td>1.0000</td>
+      <td>-44.66</td>
+      <td>23.89</td>
+      <td>1.01</td>
+      <td>0.64</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29</td>
+      <td>59</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-29.33</td>
+      <td>107.75</td>
+    </tr>
+    <tr>
+      <td>111</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/AKTX.O/total" target="_blank">AKTX.O</a></td>
+      <td>아카리 테라퓨틱스 ADR</td>
+      <td>2.7000</td>
+      <td>-46.28</td>
+      <td>30.09</td>
+      <td>2.90</td>
+      <td>2.10</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>59</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>5.18</td>
+      <td>145.53</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/GDRX.O/total" target="_blank">GDRX.O</a></td>
+      <td>굿알엑스 홀딩스</td>
+      <td>7.8000</td>
+      <td>-47.81</td>
+      <td>40.87</td>
+      <td>7.76</td>
+      <td>7.07</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-18.76</td>
+      <td>74.86</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/SNOA.O/total" target="_blank">SNOA.O</a></td>
+      <td>소노마 파머수티컬스</td>
+      <td>0.2122</td>
+      <td>-51.26</td>
+      <td>28.49</td>
+      <td>0.20</td>
+      <td>0.17</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29</td>
+      <td>69</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-16.01</td>
+      <td>91.81</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/XLO.O/total" target="_blank">XLO.O</a></td>
+      <td>자일리오 테라퓨틱스</td>
+      <td>0.9475</td>
+      <td>-51.98</td>
+      <td>22.80</td>
+      <td>0.93</td>
+      <td>0.91</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29</td>
+      <td>59</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-35.73</td>
+      <td>113.46</td>
+    </tr>
+    <tr>
+      <td>132</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/MNY.O/total" target="_blank">MNY.O</a></td>
+      <td>머니히로</td>
+      <td>1.8900</td>
+      <td>-52.06</td>
+      <td>24.02</td>
+      <td>1.99</td>
+      <td>1.85</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>29</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.97</td>
+      <td>102.30</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/GDEV.O/total" target="_blank">GDEV.O</a></td>
+      <td>GDEV</td>
+      <td>2.8600</td>
+      <td>-52.15</td>
+      <td>24.06</td>
+      <td>2.69</td>
+      <td>2.28</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-14.92</td>
+      <td>77.77</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/AEI.O/total" target="_blank">AEI.O</a></td>
+      <td>알셋</td>
+      <td>1.6600</td>
+      <td>-53.34</td>
+      <td>14.53</td>
+      <td>1.55</td>
+      <td>0.80</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>29</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-39.53</td>
+      <td>125.94</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/SVMH.O/total" target="_blank">SVMH.O</a></td>
+      <td>스리바루 홀딩스</td>
+      <td>0.1780</td>
+      <td>-54.10</td>
+      <td>3.92</td>
+      <td>0.22</td>
+      <td>0.18</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>29</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-41.15</td>
+      <td>129.11</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/VIGL.O/total" target="_blank">VIGL.O</a></td>
+      <td>비질 뉴로사이언스</td>
+      <td>4.0000</td>
+      <td>-54.56</td>
+      <td>38.30</td>
+      <td>3.97</td>
+      <td>3.43</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44</td>
+      <td>59</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>25.19</td>
+      <td>117.42</td>
+    </tr>
+    <tr>
+      <td>131</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/SLS.O/total" target="_blank">SLS.O</a></td>
+      <td>셀라스 라이프 사이언스 그룹</td>
+      <td>1.1900</td>
+      <td>-64.02</td>
+      <td>33.32</td>
+      <td>1.17</td>
+      <td>1.12</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-8.56</td>
+      <td>120.60</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/RCRT.O/total" target="_blank">RCRT.O</a></td>
+      <td>리쿠르터닷컴 그룹</td>
+      <td>2.1200</td>
+      <td>-69.91</td>
+      <td>22.16</td>
+      <td>1.97</td>
+      <td>1.75</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>29</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-34.57</td>
+      <td>125.47</td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/AVTX.O/total" target="_blank">AVTX.O</a></td>
+      <td>아발로 테라퓨틱스</td>
+      <td>12.4700</td>
+      <td>-93.30</td>
+      <td>20.15</td>
+      <td>13.21</td>
+      <td>12.80</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>24</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-22.42</td>
+      <td>257.05</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/FFIE.O/total" target="_blank">FFIE.O</a></td>
+      <td>패러데이 퓨처 인텔리전트 일렉트릭</td>
+      <td>0.5066</td>
+      <td>-98.46</td>
+      <td>19.61</td>
+      <td>0.43</td>
+      <td>0.34</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>24</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-23.84</td>
+      <td>304.30</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/KA.O/total" target="_blank">KA.O</a></td>
+      <td>키네타</td>
+      <td>0.5307</td>
+      <td>-99.98</td>
+      <td>26.62</td>
+      <td>0.61</td>
+      <td>0.52</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>29</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-35.75</td>
+      <td>135.77</td>
+    </tr>
+  </tbody>
+</table>
+            </body>
+            </html>
+            

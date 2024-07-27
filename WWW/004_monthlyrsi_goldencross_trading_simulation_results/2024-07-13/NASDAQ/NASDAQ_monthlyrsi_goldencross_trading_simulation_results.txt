@@ -1,0 +1,470 @@
+
+FWRD.O (포워드 에어)
+Cluster: 122
+Best Config: {'ticker': 'FWRD.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 29.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 265502500744877888.00%
+
+LCID.O (루시드 그룹)
+Cluster: 144
+Best Config: {'ticker': 'LCID.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 69.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 55468136823829.41%
+
+MLYS.O (미네랄리스 테라퓨틱스)
+Cluster: 115
+Best Config: {'ticker': 'MLYS.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 1944825693754.16%
+
+LEGN.O (레전드 바이오테크 ADR)
+Cluster: 95
+Best Config: {'ticker': 'LEGN.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 434852.79%
+
+ATXS.O (아스트리아 테라퓨틱스)
+Cluster: 79
+Best Config: {'ticker': 'ATXS.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 49722.12%
+
+MGRM.O (모노그램 테크놀로지스)
+Cluster: 163
+Best Config: {'ticker': 'MGRM.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 69.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 13472.22%
+
+LGVN.O (롱에버론)
+Cluster: 70
+Best Config: {'ticker': 'LGVN.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 6322.62%
+
+CSLR.O (컴플리트 솔라리아)
+Cluster: 126
+Best Config: {'ticker': 'CSLR.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 1500.19%
+
+EGRX.O (이글 파마슈티컬스)
+Cluster: 111
+Best Config: {'ticker': 'EGRX.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 558.97%
+
+ORGN.O (오리진 머터리얼즈)
+Cluster: 144
+Best Config: {'ticker': 'ORGN.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 69.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 450.10%
+
+MOND.O (몬디 홀딩스)
+Cluster: 144
+Best Config: {'ticker': 'MOND.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 69.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 404.78%
+
+LICN.O (리첸 차이나)
+Cluster: 77
+Best Config: {'ticker': 'LICN.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 221.35%
+
+ACRS.O (애클래리스 테라퓨틱스)
+Cluster: 88
+Best Config: {'ticker': 'ACRS.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 194.69%
+
+NVCR.O (노보큐어)
+Cluster: 92
+Best Config: {'ticker': 'NVCR.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 140.74%
+
+ZENV.O (젠비아)
+Cluster: 130
+Best Config: {'ticker': 'ZENV.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 115.26%
+
+CCLDP.O (케어 클라우드 우선주 시리즈 A 11%)
+Cluster: 129
+Best Config: {'ticker': 'CCLDP.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 109.57%
+
+PETZ.O (TDH 홀딩스)
+Cluster: 77
+Best Config: {'ticker': 'PETZ.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 89.92%
+
+AUID.O (오스아이디)
+Cluster: 126
+Best Config: {'ticker': 'AUID.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 74.13%
+
+ON.O (온 세미콘덕터)
+Cluster: 91
+Best Config: {'ticker': 'ON.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 74.36%
+
+PROK.O (프로키드니)
+Cluster: 126
+Best Config: {'ticker': 'PROK.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 62.63%
+
+TREE.O (렌딩트리)
+Cluster: 86
+Best Config: {'ticker': 'TREE.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 57.62%
+
+PODD.O (인슐릿)
+Cluster: 91
+Best Config: {'ticker': 'PODD.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 41.82%
+
+AEHR.O (에흐르 테스트 시스템즈)
+Cluster: 71
+Best Config: {'ticker': 'AEHR.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 41.35%
+
+UCL.O (유클라우드링크 그룹 ADR)
+Cluster: 130
+Best Config: {'ticker': 'UCL.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 39.70%
+
+ACAD.O (아카디아 파마슈티컬스)
+Cluster: 79
+Best Config: {'ticker': 'ACAD.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 26.30%
+
+TSLA.O (테슬라)
+Cluster: 73
+Best Config: {'ticker': 'TSLA.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 74.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 26.03%
+
+NFBK.O (노스필드 뱅코프)
+Cluster: 116
+Best Config: {'ticker': 'NFBK.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 25.08%
+
+MSEX.O (미들섹스 워터)
+Cluster: 108
+Best Config: {'ticker': 'MSEX.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 24.00%
+
+SANG.O (샌고마 테크놀로지스)
+Cluster: 147
+Best Config: {'ticker': 'SANG.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 23.78%
+
+CYCCP.O (사이클라셀 파마슈티컬스 우선주 6.000%)
+Cluster: 79
+Best Config: {'ticker': 'CYCCP.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 19.50%
+
+KZIA.O (카지아 테라퓨틱스 ADR)
+Cluster: 65
+Best Config: {'ticker': 'KZIA.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 7.87%
+
+HQI.O (하이어퀘스트)
+Cluster: 79
+Best Config: {'ticker': 'HQI.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 13.42%
+
+ADAP.O (어답트이뮨 테라퓨틱스 ADR)
+Cluster: 100
+Best Config: {'ticker': 'ADAP.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 10.54%
+
+ARTNA.O (아르테시안 리소시스)
+Cluster: 116
+Best Config: {'ticker': 'ARTNA.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 10.00%
+
+VICR.O (비코)
+Cluster: 95
+Best Config: {'ticker': 'VICR.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 9.29%
+
+PTSI.O (PAM 트랜스포테이션 서비시스)
+Cluster: 95
+Best Config: {'ticker': 'PTSI.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 7.46%
+
+QURE.O (유니큐어)
+Cluster: 92
+Best Config: {'ticker': 'QURE.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 7.01%
+
+TBRG.O (트루브리지)
+Cluster: 128
+Best Config: {'ticker': 'TBRG.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 6.64%
+
+BRTX.O (바이오리스토러티브 테라피스)
+Cluster: 130
+Best Config: {'ticker': 'BRTX.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 5.92%
+
+KRNY.O (커니 파이낸셜)
+Cluster: 116
+Best Config: {'ticker': 'KRNY.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 3.42%
+
+BCBP.O (BCB 뱅코프)
+Cluster: 116
+Best Config: {'ticker': 'BCBP.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 2.90%
+
+NISN.O (니선 인터내셔널 엔터프라이스 디벨롭먼트)
+Cluster: 138
+Best Config: {'ticker': 'NISN.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 29.0, 'rsi_sell_threshold': 69.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 1.98%
+
+RTC.O (푸웨이 필름스)
+Cluster: 65
+Best Config: {'ticker': 'RTC.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 1.51%
+
+NVEI.O (뉴베이)
+Cluster: 147
+Best Config: {'ticker': 'NVEI.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -1.00%
+
+HTLD.O (하트랜드 익스프레스)
+Cluster: 116
+Best Config: {'ticker': 'HTLD.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -1.06%
+
+GNSS.O (제나시스)
+Cluster: 95
+Best Config: {'ticker': 'GNSS.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -1.14%
+
+ROKU.O (로쿠)
+Cluster: 79
+Best Config: {'ticker': 'ROKU.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -1.81%
+
+SVMH.O (스리바루 홀딩스)
+Cluster: 153
+Best Config: {'ticker': 'SVMH.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 29.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -2.17%
+
+KRMD.O (코루 메디컬 시스템스)
+Cluster: 71
+Best Config: {'ticker': 'KRMD.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -2.73%
+
+ARWR.O (애로우헤드 파마슈티컬스)
+Cluster: 79
+Best Config: {'ticker': 'ARWR.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -1.98%
+
+VNET.O (브이넷 그룹 ADR)
+Cluster: 115
+Best Config: {'ticker': 'VNET.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -4.12%
+
+PRTA.O (프로테나)
+Cluster: 79
+Best Config: {'ticker': 'PRTA.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -3.52%
+
+HPK.O (하이피크에너지)
+Cluster: 71
+Best Config: {'ticker': 'HPK.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -7.18%
+
+TECH.O (바이오-테크네)
+Cluster: 110
+Best Config: {'ticker': 'TECH.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -7.21%
+
+EBMT.O (이글 뱅코프 몬태나)
+Cluster: 116
+Best Config: {'ticker': 'EBMT.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -7.63%
+
+OESX.O (오리온 에너지 시스템즈)
+Cluster: 101
+Best Config: {'ticker': 'OESX.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -1.48%
+
+THTX.O (테라테크놀로지)
+Cluster: 88
+Best Config: {'ticker': 'THTX.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -8.37%
+
+MKTX.O (마켓액세스 홀딩스)
+Cluster: 96
+Best Config: {'ticker': 'MKTX.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -8.73%
+
+RCM.O (R1 Rcm)
+Cluster: 86
+Best Config: {'ticker': 'RCM.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -8.87%
+
+AUBN.O (어번 내셔널 뱅코프)
+Cluster: 122
+Best Config: {'ticker': 'AUBN.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 29.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -10.14%
+
+STRM.O (스트림라인 헬스 솔루션)
+Cluster: 92
+Best Config: {'ticker': 'STRM.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -11.11%
+
+BCOV.O (브라이트코브)
+Cluster: 129
+Best Config: {'ticker': 'BCOV.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -11.16%
+
+CGNX.O (코그넥스)
+Cluster: 91
+Best Config: {'ticker': 'CGNX.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -11.81%
+
+PENN.O (펜 엔터테인먼트)
+Cluster: 95
+Best Config: {'ticker': 'PENN.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -13.28%
+
+NARI.O (이나리 메디컬)
+Cluster: 95
+Best Config: {'ticker': 'NARI.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -13.93%
+
+MRNA.O (모더나)
+Cluster: 68
+Best Config: {'ticker': 'MRNA.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -15.94%
+
+BZUN.O (바오준 ADR)
+Cluster: 115
+Best Config: {'ticker': 'BZUN.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -40.63%
+
+PDSB.O (PDS 바이오테크놀러지)
+Cluster: 100
+Best Config: {'ticker': 'PDSB.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -17.77%
+
+CTXR.O (시티우스 파마슈티컬스)
+Cluster: 100
+Best Config: {'ticker': 'CTXR.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -18.98%
+
+PCTTU.O (PureCycle Technologies Unit)
+Cluster: 130
+Best Config: {'ticker': 'PCTTU.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -19.41%
+
+PCT.O (퓨어사이클 테크놀러지)
+Cluster: 130
+Best Config: {'ticker': 'PCT.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -19.88%
+
+BEAM.O (빔 테라퓨틱스)
+Cluster: 79
+Best Config: {'ticker': 'BEAM.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -20.62%
+
+UPC.O (유니버스 파마슈티컬스)
+Cluster: 126
+Best Config: {'ticker': 'UPC.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -22.02%
+
+MRIN.O (마린 소프트웨어)
+Cluster: 126
+Best Config: {'ticker': 'MRIN.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -22.77%
+
+SABR.O (세이버)
+Cluster: 70
+Best Config: {'ticker': 'SABR.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -24.16%
+
+CYTH.O (사이클로 테라퓨틱스)
+Cluster: 100
+Best Config: {'ticker': 'CYTH.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -24.59%
+
+INTG.O (인터그룹)
+Cluster: 107
+Best Config: {'ticker': 'INTG.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -29.37%
+
+MIGI.O (모손 인프라 스트럭처 그룹)
+Cluster: 153
+Best Config: {'ticker': 'MIGI.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 29.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -29.60%
+
+FOSL.O (파슬 그룹)
+Cluster: 118
+Best Config: {'ticker': 'FOSL.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -30.84%
+
+GDS.O (GDS 홀딩스 ADR)
+Cluster: 92
+Best Config: {'ticker': 'GDS.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -31.54%
+
+EAST.O (이스트사이드 디스틸링)
+Cluster: 126
+Best Config: {'ticker': 'EAST.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -31.56%
+
+NKTR.O (넥타 테라퓨틱스)
+Cluster: 115
+Best Config: {'ticker': 'NKTR.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -32.24%
+
+MNTK.O (몬탁 리뉴어블스)
+Cluster: 115
+Best Config: {'ticker': 'MNTK.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -33.15%
+
+AEHL.O (안텔로페 엔터프라이즈 홀딩스)
+Cluster: 100
+Best Config: {'ticker': 'AEHL.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -35.90%
+
+NIU.O (NIU 테크놀러지 ADR)
+Cluster: 118
+Best Config: {'ticker': 'NIU.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -42.70%
+
+ERAS.O (이래스카)
+Cluster: 147
+Best Config: {'ticker': 'ERAS.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -46.41%
+
+SNOA.O (소노마 파머수티컬스)
+Cluster: 138
+Best Config: {'ticker': 'SNOA.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 29.0, 'rsi_sell_threshold': 69.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -45.58%
+
+PRAX.O (프락시스 프리시젼 메디신)
+Cluster: 100
+Best Config: {'ticker': 'PRAX.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -49.79%
+
+BIGC.O (빅커머스 홀딩스)
+Cluster: 144
+Best Config: {'ticker': 'BIGC.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 69.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -53.12%
+
+AEI.O (알셋)
+Cluster: 153
+Best Config: {'ticker': 'AEI.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 29.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -58.10%
+
+ITRM.O (아이테럼 테라퓨틱스)
+Cluster: 126
+Best Config: {'ticker': 'ITRM.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -57.84%
+
+AXDX.O (엑셀러레이트 다이아그노스틱스)
+Cluster: 51
+Best Config: {'ticker': 'AXDX.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -61.17%
+
+SLS.O (셀라스 라이프 사이언스 그룹)
+Cluster: 126
+Best Config: {'ticker': 'SLS.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -63.98%
+
+RCRT.O (리쿠르터닷컴 그룹)
+Cluster: 153
+Best Config: {'ticker': 'RCRT.O', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 29.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -60.62%

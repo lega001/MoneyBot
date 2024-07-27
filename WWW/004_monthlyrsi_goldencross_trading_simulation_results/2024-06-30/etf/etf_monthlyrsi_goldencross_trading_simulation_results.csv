@@ -1,0 +1,4 @@
+﻿ticker,name,cluster,ma_short_window,ma_long_window,rsi_window,rsi_buy_threshold,rsi_sell_threshold,stop_loss_percent,take_profit_percent,Best Annual Returns
+204480,TIGER 차이나CSI300레버리지(합성),20,5,120,14,44.0,54.0,1.0,10.0,0.020416756423090154
+267440,KBSTAR 미국장기국채선물(H),27,5,120,14,44.0,54.0,1.0,10.0,-0.05107462102268856
+267490,KBSTAR 미국장기국채선물레버리지(합성 H),28,5,120,14,39.0,54.0,1.0,10.0,-0.08506999322117792

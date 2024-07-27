@@ -1,0 +1,15 @@
+
+267440 (KBSTAR 미국장기국채선물(H))
+Cluster: 28
+Best Config: {'ticker': '267440', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -2.30%
+
+400580 (SOL 유럽탄소배출권선물S&P(H))
+Cluster: 21
+Best Config: {'ticker': '400580', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -18.92%
+
+400570 (KODEX 유럽탄소배출권선물ICE(H))
+Cluster: 21
+Best Config: {'ticker': '400570', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -23.30%

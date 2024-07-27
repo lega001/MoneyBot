@@ -1,0 +1,35 @@
+
+307510 (TIGER 의료기기)
+Cluster: 20
+Best Config: {'ticker': '307510', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 38.25%
+
+438320 (TIGER 차이나항셍테크레버리지(합성 H))
+Cluster: 34
+Best Config: {'ticker': '438320', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 3.29%
+
+267440 (KBSTAR 미국장기국채선물(H))
+Cluster: 28
+Best Config: {'ticker': '267440', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -1.73%
+
+267490 (KBSTAR 미국장기국채선물레버리지(합성 H))
+Cluster: 29
+Best Config: {'ticker': '267490', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -7.89%
+
+412560 (TIGER BBIG레버리지)
+Cluster: 37
+Best Config: {'ticker': '412560', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -23.75%
+
+400580 (SOL 유럽탄소배출권선물S&P(H))
+Cluster: 23
+Best Config: {'ticker': '400580', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -26.35%
+
+400570 (KODEX 유럽탄소배출권선물ICE(H))
+Cluster: 23
+Best Config: {'ticker': '400570', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -27.38%
