@@ -1,0 +1,40 @@
+
+570092 (한투 인버스 2X 유로스탁스50 ETN(H) B)
+Cluster: 15
+Best Config: {'ticker': '570092', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 107.86%
+
+580019 (KB 인버스 2X 항셍테크 선물 ETN)
+Cluster: 5
+Best Config: {'ticker': '580019', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 73.65%
+
+570091 (한투 인버스 유로스탁스50 ETN(H) C)
+Cluster: 13
+Best Config: {'ticker': '570091', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 33.14%
+
+500005 (신한 인버스 브렌트원유 선물 ETN(H))
+Cluster: 15
+Best Config: {'ticker': '500005', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -6.05%
+
+500070 (신한 인버스 2X 코스피 200 선물 ETN)
+Cluster: 15
+Best Config: {'ticker': '500070', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -30.42%
+
+520055 (미래에셋 인버스 2X 코스피200 선물 ETN)
+Cluster: 15
+Best Config: {'ticker': '520055', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -31.17%
+
+530105 (삼성 인버스 2X 코스피200 선물 ETN)
+Cluster: 15
+Best Config: {'ticker': '530105', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -31.19%
+
+580040 (KB 인버스 2X KOSPI 200 선물 ETN)
+Cluster: 15
+Best Config: {'ticker': '580040', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -31.44%
