@@ -1,0 +1,405 @@
+
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Current Price Evaluation Results</title>
+                <style>
+                    body {
+                        font-family: Arial, sans-serif;
+                        margin: 0;
+                        padding: 20px;
+                    }
+                    table {
+                        width: 100%;
+                        border-collapse: collapse;
+                        margin: 20px 0;
+                        font-size: 18px;
+                        text-align: left;
+                    }
+                    th, td {
+                        padding: 12px;
+                        border: 1px solid #ddd;
+                    }
+                    th {
+                        background-color: #f2f2f2;
+                        position: sticky;
+                        top: 0;
+                        z-index: 1;
+                    }
+                    tr:hover { background-color: #f5f5f5; }
+                </style>
+            </head>
+            <body>
+                <h2>Current Price Evaluation Results for KOSPI</h2>
+                <table class="dataframe table table-striped">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Cluster</th>
+      <th>Symbol</th>
+      <th>Name</th>
+      <th>Current_Price</th>
+      <th>Expected_Annual_Return</th>
+      <th>Current_RSI</th>
+      <th>Current_MA_Short</th>
+      <th>Current_MA_Long</th>
+      <th>MA_Short_Window</th>
+      <th>MA_Long_Window</th>
+      <th>RSI_Window</th>
+      <th>RSI_Buy_Threshold</th>
+      <th>RSI_Sell_Threshold</th>
+      <th>Stop_Loss_Percent</th>
+      <th>Take_Profit_Percent</th>
+      <th>Return</th>
+      <th>Std Dev</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>77</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=000300" target="_blank">000300</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/000300/total" target="_blank">대유플러스</a></td>
+      <td>241.0</td>
+      <td>347.59</td>
+      <td>31.91</td>
+      <td>241.0</td>
+      <td>239.89</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-1.20</td>
+      <td>53.65</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=373530" target="_blank">373530</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/373530/total" target="_blank">PLUS 신흥국MSCI인버스(합성 H)</a></td>
+      <td>11205.0</td>
+      <td>187.97</td>
+      <td>47.20</td>
+      <td>11011.0</td>
+      <td>10887.00</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>4.94</td>
+      <td>18.10</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=570091" target="_blank">570091</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/570091/total" target="_blank">한투 인버스 유로스탁스50 ETN(H) C</a></td>
+      <td>8750.0</td>
+      <td>166.81</td>
+      <td>35.63</td>
+      <td>8503.0</td>
+      <td>8339.33</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>39</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-7.81</td>
+      <td>12.71</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=458250" target="_blank">458250</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/458250/total" target="_blank">TIGER 미국30년국채스트립액티브(합성 H)</a></td>
+      <td>45790.0</td>
+      <td>123.06</td>
+      <td>44.18</td>
+      <td>44527.0</td>
+      <td>43432.54</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-6.44</td>
+      <td>25.48</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=580019" target="_blank">580019</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/580019/total" target="_blank">KB 인버스 2X 항셍테크 선물 ETN</a></td>
+      <td>14120.0</td>
+      <td>73.65</td>
+      <td>48.98</td>
+      <td>13569.0</td>
+      <td>12046.83</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>63.61</td>
+      <td>83.21</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=034830" target="_blank">034830</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/034830/total" target="_blank">한국토지신탁</a></td>
+      <td>1032.0</td>
+      <td>13.82</td>
+      <td>30.40</td>
+      <td>1038.0</td>
+      <td>1020.03</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>34</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>6.44</td>
+      <td>34.42</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=275750" target="_blank">275750</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/275750/total" target="_blank">RISE 코스닥150선물인버스</a></td>
+      <td>3855.0</td>
+      <td>10.91</td>
+      <td>43.38</td>
+      <td>3750.0</td>
+      <td>3608.83</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-9.19</td>
+      <td>29.02</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=251340" target="_blank">251340</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/251340/total" target="_blank">KODEX 코스닥150선물인버스</a></td>
+      <td>3745.0</td>
+      <td>10.74</td>
+      <td>43.83</td>
+      <td>3645.0</td>
+      <td>3505.08</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-8.07</td>
+      <td>28.08</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=250780" target="_blank">250780</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/250780/total" target="_blank">TIGER 코스닥150선물인버스</a></td>
+      <td>3825.0</td>
+      <td>10.47</td>
+      <td>43.74</td>
+      <td>3719.0</td>
+      <td>3572.25</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-7.81</td>
+      <td>28.02</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=301410" target="_blank">301410</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/301410/total" target="_blank">PLUS 코스닥150선물인버스</a></td>
+      <td>5755.0</td>
+      <td>4.04</td>
+      <td>43.10</td>
+      <td>5620.0</td>
+      <td>5420.17</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-5.35</td>
+      <td>28.89</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=402460" target="_blank">402460</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/402460/total" target="_blank">HANARO Fn K-메타버스MZ</a></td>
+      <td>7115.0</td>
+      <td>0.76</td>
+      <td>44.02</td>
+      <td>7217.0</td>
+      <td>7202.73</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-8.77</td>
+      <td>23.65</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=414270" target="_blank">414270</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/414270/total" target="_blank">ACE G2전기차&자율주행액티브</a></td>
+      <td>8125.0</td>
+      <td>-1.85</td>
+      <td>47.39</td>
+      <td>8465.0</td>
+      <td>8345.33</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-5.32</td>
+      <td>25.94</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=026960" target="_blank">026960</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/026960/total" target="_blank">동서</a></td>
+      <td>18280.0</td>
+      <td>-2.21</td>
+      <td>43.89</td>
+      <td>18546.0</td>
+      <td>18474.83</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>59</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>8.82</td>
+      <td>28.91</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=580029" target="_blank">580029</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/580029/total" target="_blank">KB 인버스 KOSPI 200 선물 ETN</a></td>
+      <td>10615.0</td>
+      <td>-3.79</td>
+      <td>44.36</td>
+      <td>10311.0</td>
+      <td>10208.50</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>4.24</td>
+      <td>17.97</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=520038" target="_blank">520038</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/520038/total" target="_blank">미래에셋 인버스 코스피200 선물 ETN</a></td>
+      <td>10530.0</td>
+      <td>-9.74</td>
+      <td>43.49</td>
+      <td>10231.0</td>
+      <td>10150.25</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>3.90</td>
+      <td>17.67</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=530092" target="_blank">530092</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/530092/total" target="_blank">삼성 인버스 코스피 200 선물 ETN</a></td>
+      <td>10450.0</td>
+      <td>-10.39</td>
+      <td>43.01</td>
+      <td>10169.0</td>
+      <td>10100.75</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>3.74</td>
+      <td>17.57</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=500061" target="_blank">500061</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/500061/total" target="_blank">신한 인버스 코스피 200 선물 ETN</a></td>
+      <td>10480.0</td>
+      <td>-11.22</td>
+      <td>43.12</td>
+      <td>10205.0</td>
+      <td>10139.50</td>
+      <td>5</td>
+      <td>60</td>
+      <td>14</td>
+      <td>44</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>3.77</td>
+      <td>17.53</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td><a href="https://finance.naver.com/item/main.naver?code=399580" target="_blank">399580</a></td>
+      <td><a href="https://m.stock.naver.com/domestic/stock/399580/total" target="_blank">RISE 글로벌클린에너지</a></td>
+      <td>6985.0</td>
+      <td>-18.36</td>
+      <td>39.36</td>
+      <td>7054.0</td>
+      <td>7036.75</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>49</td>
+      <td>54</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-9.26</td>
+      <td>25.62</td>
+    </tr>
+  </tbody>
+</table>
+            </body>
+            </html>
+            

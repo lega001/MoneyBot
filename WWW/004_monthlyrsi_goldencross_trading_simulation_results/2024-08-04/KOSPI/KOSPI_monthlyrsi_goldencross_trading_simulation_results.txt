@@ -1,0 +1,90 @@
+
+000300 (대유플러스)
+Cluster: 77
+Best Config: {'ticker': '000300', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 347.59%
+
+373530 (PLUS 신흥국MSCI인버스(합성 H))
+Cluster: 59
+Best Config: {'ticker': '373530', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 187.97%
+
+570091 (한투 인버스 유로스탁스50 ETN(H) C)
+Cluster: 76
+Best Config: {'ticker': '570091', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 39.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 166.81%
+
+458250 (TIGER 미국30년국채스트립액티브(합성 H))
+Cluster: 80
+Best Config: {'ticker': '458250', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 153.14%
+
+580019 (KB 인버스 2X 항셍테크 선물 ETN)
+Cluster: 13
+Best Config: {'ticker': '580019', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 73.65%
+
+034830 (한국토지신탁)
+Cluster: 55
+Best Config: {'ticker': '034830', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 13.82%
+
+275750 (RISE 코스닥150선물인버스)
+Cluster: 80
+Best Config: {'ticker': '275750', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 10.91%
+
+251340 (KODEX 코스닥150선물인버스)
+Cluster: 80
+Best Config: {'ticker': '251340', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 10.74%
+
+250780 (TIGER 코스닥150선물인버스)
+Cluster: 80
+Best Config: {'ticker': '250780', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 10.47%
+
+301410 (PLUS 코스닥150선물인버스)
+Cluster: 80
+Best Config: {'ticker': '301410', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 4.04%
+
+402460 (HANARO Fn K-메타버스MZ)
+Cluster: 80
+Best Config: {'ticker': '402460', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 0.76%
+
+414270 (ACE G2전기차&자율주행액티브)
+Cluster: 80
+Best Config: {'ticker': '414270', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 14.34%
+
+026960 (동서)
+Cluster: 53
+Best Config: {'ticker': '026960', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 59.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -2.21%
+
+580029 (KB 인버스 KOSPI 200 선물 ETN)
+Cluster: 59
+Best Config: {'ticker': '580029', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -3.79%
+
+520038 (미래에셋 인버스 코스피200 선물 ETN)
+Cluster: 70
+Best Config: {'ticker': '520038', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -9.74%
+
+530092 (삼성 인버스 코스피 200 선물 ETN)
+Cluster: 70
+Best Config: {'ticker': '530092', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -10.39%
+
+500061 (신한 인버스 코스피 200 선물 ETN)
+Cluster: 70
+Best Config: {'ticker': '500061', 'ma_short_window': 5, 'ma_long_window': 60, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -11.22%
+
+399580 (RISE 글로벌클린에너지)
+Cluster: 80
+Best Config: {'ticker': '399580', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -23.55%
