@@ -1,0 +1,4 @@
+﻿Cluster,Symbol,Name,Current_Price,Expected_Annual_Return,Current_RSI,Current_MA_Short,Current_MA_Long,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Return,Std Dev
+23,300950,KODEX 게임산업,7070.0,5.01,43.25,6903.0,6875.32,5,120,14,44,64,1.0,10.0,-0.48,29.61
+22,292560,TIGER 일본엔선물,8825.0,-4.8,40.85,8936.0,8445.21,5,120,14,44,64,1.0,10.0,-1.42,10.35
+23,291620,KOSEF 코스닥150선물인버스,6670.0,-7.32,43.87,6953.0,6322.75,5,120,14,44,64,1.0,10.0,-1.99,29.54

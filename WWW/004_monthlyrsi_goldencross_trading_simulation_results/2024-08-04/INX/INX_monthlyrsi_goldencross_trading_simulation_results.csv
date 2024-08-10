@@ -1,0 +1,3 @@
+﻿ticker,name,cluster,ma_short_window,ma_long_window,rsi_window,rsi_buy_threshold,rsi_sell_threshold,stop_loss_percent,take_profit_percent,Best Annual Returns
+MKTX.O,마켓액세스 홀딩스,8,5,120,14,44.0,54.0,1.0,10.0,0.2760123042462064
+CMCSA.O,컴캐스트,14,5,60,14,49.0,54.0,1.0,10.0,0.07740740160070936

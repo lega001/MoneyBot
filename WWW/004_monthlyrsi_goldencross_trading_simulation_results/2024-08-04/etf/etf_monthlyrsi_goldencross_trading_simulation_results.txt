@@ -1,0 +1,50 @@
+
+458250 (TIGER 미국30년국채스트립액티브(합성 H))
+Cluster: 26
+Best Config: {'ticker': '458250', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 153.14%
+
+275750 (RISE 코스닥150선물인버스)
+Cluster: 26
+Best Config: {'ticker': '275750', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 10.91%
+
+251340 (KODEX 코스닥150선물인버스)
+Cluster: 26
+Best Config: {'ticker': '251340', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 10.74%
+
+250780 (TIGER 코스닥150선물인버스)
+Cluster: 26
+Best Config: {'ticker': '250780', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 10.47%
+
+445930 (KOSEF 차이나A50커넥트레버리지MSCI(합성H))
+Cluster: 26
+Best Config: {'ticker': '445930', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 6.28%
+
+301410 (PLUS 코스닥150선물인버스)
+Cluster: 26
+Best Config: {'ticker': '301410', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 4.04%
+
+402460 (HANARO Fn K-메타버스MZ)
+Cluster: 26
+Best Config: {'ticker': '402460', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 0.76%
+
+414270 (ACE G2전기차&자율주행액티브)
+Cluster: 26
+Best Config: {'ticker': '414270', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 14.34%
+
+364990 (TIGER 게임TOP10)
+Cluster: 26
+Best Config: {'ticker': '364990', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -6.70%
+
+399580 (RISE 글로벌클린에너지)
+Cluster: 26
+Best Config: {'ticker': '399580', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 49.0, 'rsi_sell_threshold': 54.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -23.55%

@@ -1,0 +1,519 @@
+
+        <html>
+        <head>
+        <meta charset='UTF-8'>
+        <title>Trading Simulation Results</title>
+        <style>
+            table { border-collapse: collapse; width: 100%; }
+            th, td { border: 1px solid black; padding: 8px; text-align: left; }
+            th { background-color: #f2f2f2; position: sticky; top: 0; }
+            .table-container { overflow-x: auto; }
+        </style>
+        </head>
+        <body>
+        <h2>Trading Simulation Results for foreign_etf on 2024-08-10</h2>
+        <div class="table-container">
+        <table class="dataframe table table-striped" id="results_table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>ticker</th>
+      <th>name</th>
+      <th>cluster</th>
+      <th>ma_short_window</th>
+      <th>ma_long_window</th>
+      <th>rsi_window</th>
+      <th>rsi_buy_threshold</th>
+      <th>rsi_sell_threshold</th>
+      <th>stop_loss_percent</th>
+      <th>take_profit_percent</th>
+      <th>Best Annual Returns</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="RSPU.K_chart.html">RSPU.K</a></td>
+      <td>Invesco S&P 500 Eql Wght Utilities ETF</td>
+      <td>78</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.228145</td>
+    </tr>
+    <tr>
+      <td><a href="BMVP.K_chart.html">BMVP.K</a></td>
+      <td>Invesco Bloomberg MVP Multi-Factor ETF</td>
+      <td>79</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.201952</td>
+    </tr>
+    <tr>
+      <td><a href="PTH.O_chart.html">PTH.O</a></td>
+      <td>Invesco Dorsey Wright Healthcare Momentum ETF</td>
+      <td>56</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>74.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.201273</td>
+    </tr>
+    <tr>
+      <td><a href="RWJ_chart.html">RWJ</a></td>
+      <td>Invesco S&P SmallCap 600 Revenue ETF</td>
+      <td>64</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.136707</td>
+    </tr>
+    <tr>
+      <td><a href="TLTW.K_chart.html">TLTW.K</a></td>
+      <td>iShares 20+ Year Treasury Bond BuyWrite Strat ETF</td>
+      <td>136</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.094832</td>
+    </tr>
+    <tr>
+      <td><a href="LTPZ.K_chart.html">LTPZ.K</a></td>
+      <td>PIMCO 15+ Year US TIPS Index Exchange-Traded Fund</td>
+      <td>95</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.020105</td>
+    </tr>
+    <tr>
+      <td><a href="RSPH.K_chart.html">RSPH.K</a></td>
+      <td>Invesco S&P 500 Eql Wght Health Care ETF</td>
+      <td>64</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.057335</td>
+    </tr>
+    <tr>
+      <td><a href="UST_chart.html">UST</a></td>
+      <td>ProShares Ultra 7-10 Year Treasury</td>
+      <td>98</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.015048</td>
+    </tr>
+    <tr>
+      <td><a href="UBT_chart.html">UBT</a></td>
+      <td>ProShares Ultra 20+ Year Treasury</td>
+      <td>58</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>74.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.010612</td>
+    </tr>
+    <tr>
+      <td><a href="PSQ_chart.html">PSQ</a></td>
+      <td>ProShares Short QQQ</td>
+      <td>62</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.002394</td>
+    </tr>
+    <tr>
+      <td><a href="SPTL.K_chart.html">SPTL.K</a></td>
+      <td>SPDR Portfolio Long Term Treasury ETF</td>
+      <td>98</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.000467</td>
+    </tr>
+    <tr>
+      <td><a href="TIPZ.K_chart.html">TIPZ.K</a></td>
+      <td>PIMCO Broad US TIPS Index Exchange-Traded Fund</td>
+      <td>99</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.000641</td>
+    </tr>
+    <tr>
+      <td><a href="TLT.O_chart.html">TLT.O</a></td>
+      <td>iShares 20+ Year Treasury Bond ETF</td>
+      <td>95</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.001440</td>
+    </tr>
+    <tr>
+      <td><a href="IBTE.O_chart.html">IBTE.O</a></td>
+      <td>iShares iBonds Dec 2024 Term Treasury ETF</td>
+      <td>100</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.002816</td>
+    </tr>
+    <tr>
+      <td><a href="IBTF.O_chart.html">IBTF.O</a></td>
+      <td>iShares iBonds Dec 2025 Term Treasury ETF</td>
+      <td>100</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.004918</td>
+    </tr>
+    <tr>
+      <td><a href="VGLT.O_chart.html">VGLT.O</a></td>
+      <td>Vanguard Long-Term Treasury Index Fund;ETF</td>
+      <td>98</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.006064</td>
+    </tr>
+    <tr>
+      <td><a href="AGZD.O_chart.html">AGZD.O</a></td>
+      <td>WisdomTree Interest Rate Hdg US Aggr Bd</td>
+      <td>99</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.008731</td>
+    </tr>
+    <tr>
+      <td><a href="IDX_chart.html">IDX</a></td>
+      <td>VanEck Indonesia Index ETF</td>
+      <td>92</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.017126</td>
+    </tr>
+    <tr>
+      <td><a href="KRBN.K_chart.html">KRBN.K</a></td>
+      <td>KraneShares Global Carbon Strategy ETF</td>
+      <td>37</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.026110</td>
+    </tr>
+    <tr>
+      <td><a href="SPAX.K_chart.html">SPAX.K</a></td>
+      <td>Robinson Alternative Yield Pre-Merger SPAC ETF</td>
+      <td>101</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.027915</td>
+    </tr>
+    <tr>
+      <td><a href="TUA_chart.html">TUA</a></td>
+      <td>Simplify Short Term Treasury Futures Strategy ETF</td>
+      <td>113</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>74.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.502090</td>
+    </tr>
+    <tr>
+      <td><a href="BBIP.K_chart.html">BBIP.K</a></td>
+      <td>JPMorgan BetaBuilders US TIPS 0-5 Year ETF</td>
+      <td>100</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.082519</td>
+    </tr>
+    <tr>
+      <td><a href="TAIL.K_chart.html">TAIL.K</a></td>
+      <td>Cambria Tail Risk ETF</td>
+      <td>123</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.087740</td>
+    </tr>
+    <tr>
+      <td><a href="DUG_chart.html">DUG</a></td>
+      <td>ProShares UltraShort Energy</td>
+      <td>134</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>74.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.074522</td>
+    </tr>
+    <tr>
+      <td><a href="FAIL.K_chart.html">FAIL.K</a></td>
+      <td>Cambria Global Tail Risk ETF</td>
+      <td>120</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>74.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.117243</td>
+    </tr>
+    <tr>
+      <td><a href="IVOL.K_chart.html">IVOL.K</a></td>
+      <td>Quadratic Interest Rate Vltly and Infltn Hdg ETF</td>
+      <td>113</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>74.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.129522</td>
+    </tr>
+    <tr>
+      <td><a href="SH_chart.html">SH</a></td>
+      <td>ProShares Short S&P500 ETF</td>
+      <td>129</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.141678</td>
+    </tr>
+    <tr>
+      <td><a href="VIXM.K_chart.html">VIXM.K</a></td>
+      <td>ProShares VIX Mid-Term Futures ETF</td>
+      <td>132</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>74.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.160285</td>
+    </tr>
+    <tr>
+      <td><a href="RZG_chart.html">RZG</a></td>
+      <td>Invesco S&P SmallCap 600 Pure Growth ETF</td>
+      <td>64</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.262632</td>
+    </tr>
+    <tr>
+      <td><a href="SDS_chart.html">SDS</a></td>
+      <td>ProShares UltraShort S&P500</td>
+      <td>138</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.286004</td>
+    </tr>
+    <tr>
+      <td><a href="SDOW.K_chart.html">SDOW.K</a></td>
+      <td>ProShares UltraPro Short Dow30</td>
+      <td>144</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.380461</td>
+    </tr>
+    <tr>
+      <td><a href="HIBS.K_chart.html">HIBS.K</a></td>
+      <td>Direxion Daily S&P 500 High Beta Bear 3X Shares</td>
+      <td>151</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.409786</td>
+    </tr>
+    <tr>
+      <td><a href="PSCH.O_chart.html">PSCH.O</a></td>
+      <td>Invesco S&P SmallCap Health Care ETF</td>
+      <td>64</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.451537</td>
+    </tr>
+    <tr>
+      <td><a href="SQQQ.O_chart.html">SQQQ.O</a></td>
+      <td>ProShares UltraPro Short QQQ</td>
+      <td>150</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.532849</td>
+    </tr>
+    <tr>
+      <td><a href="TECS.K_chart.html">TECS.K</a></td>
+      <td>Direxion Daily Technology Bear 3x Shares</td>
+      <td>150</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.549874</td>
+    </tr>
+    <tr>
+      <td><a href="BITI.K_chart.html">BITI.K</a></td>
+      <td>ProShares Short Bitcoin Strategy ETF</td>
+      <td>150</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.656358</td>
+    </tr>
+    <tr>
+      <td><a href="UVXY.K_chart.html">UVXY.K</a></td>
+      <td>ProShares Ultra VIX Short-Term Futures ETF</td>
+      <td>148</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.747501</td>
+    </tr>
+  </tbody>
+</table>
+        </div>
+        </body>
+        </html>
+        

@@ -1,0 +1,15 @@
+
+300950 (KODEX 게임산업)
+Cluster: 23
+Best Config: {'ticker': '300950', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 5.01%
+
+292560 (TIGER 일본엔선물)
+Cluster: 22
+Best Config: {'ticker': '292560', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -4.80%
+
+291620 (KOSEF 코스닥150선물인버스)
+Cluster: 23
+Best Config: {'ticker': '291620', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -7.32%

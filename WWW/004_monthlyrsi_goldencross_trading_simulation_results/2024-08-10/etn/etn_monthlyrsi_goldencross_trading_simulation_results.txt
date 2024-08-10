@@ -1,0 +1,105 @@
+
+570092 (한투 인버스 2X 유로스탁스50 ETN(H) B)
+Cluster: 13
+Best Config: {'ticker': '570092', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 604.84%
+
+570091 (한투 인버스 유로스탁스50 ETN(H) C)
+Cluster: 11
+Best Config: {'ticker': '570091', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 114.11%
+
+500007 (신한 인버스 은 선물 ETN(H))
+Cluster: 11
+Best Config: {'ticker': '500007', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 1.31%
+
+610037 (메리츠 미국채30년 ETN(H))
+Cluster: 11
+Best Config: {'ticker': '610037', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 1.02%
+
+610023 (메리츠 레버리지 미국채10년 ETN(H))
+Cluster: 11
+Best Config: {'ticker': '610023', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -6.85%
+
+610015 (메리츠 인버스 은 선물 ETN(H))
+Cluster: 11
+Best Config: {'ticker': '610015', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -10.98%
+
+500010 (신한 인버스 다우존스지수 선물 ETN(H))
+Cluster: 11
+Best Config: {'ticker': '500010', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -11.30%
+
+530090 (삼성 인버스 은 선물 ETN(H))
+Cluster: 11
+Best Config: {'ticker': '530090', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -11.64%
+
+610004 (메리츠 미국레버리지 인플레이션국채ETN(H))
+Cluster: 11
+Best Config: {'ticker': '610004', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -13.01%
+
+570074 (한투 S&P 유럽탄소배출권 선물 ETN(H))
+Cluster: 7
+Best Config: {'ticker': '570074', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -15.01%
+
+570023 (한투 인버스 2X S&P500 선물 ETN(H))
+Cluster: 13
+Best Config: {'ticker': '570023', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -15.14%
+
+610030 (메리츠 S&P 유럽탄소배출권 선물 ETN(H))
+Cluster: 7
+Best Config: {'ticker': '610030', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -15.41%
+
+570064 (한투 인버스 베트남 VN30 선물 ETN(H))
+Cluster: 11
+Best Config: {'ticker': '570064', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -26.38%
+
+500061 (신한 인버스 코스피 200 선물 ETN)
+Cluster: 11
+Best Config: {'ticker': '500061', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -99.45%
+
+530092 (삼성 인버스 코스피 200 선물 ETN)
+Cluster: 11
+Best Config: {'ticker': '530092', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -99.61%
+
+520038 (미래에셋 인버스 코스피200 선물 ETN)
+Cluster: 11
+Best Config: {'ticker': '520038', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -99.62%
+
+550081 (N2 S&P500 VIX S/T 선물 ETN D)
+Cluster: 15
+Best Config: {'ticker': '550081', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -99.98%
+
+510025 (대신 S&P500 VIX S/T 선물 ETN)
+Cluster: 15
+Best Config: {'ticker': '510025', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -99.98%
+
+570088 (한투 S&P500 VIX S/T 선물 ETN(H))
+Cluster: 15
+Best Config: {'ticker': '570088', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -99.98%
+
+530109 (삼성 S&P500 VIX S/T 선물 ETN)
+Cluster: 15
+Best Config: {'ticker': '530109', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -99.98%
+
+500076 (신한 S&P500 VIX S/T 선물 ETN D)
+Cluster: 15
+Best Config: {'ticker': '500076', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -99.99%
