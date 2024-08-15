@@ -1,0 +1,150 @@
+
+XLG (Invesco S&P 500 Top 50 ETF)
+Cluster: 78
+Best Config: {'ticker': 'XLG', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 37.78%
+
+RSPU.K (Invesco S&P 500 Eql Wght Utilities ETF)
+Cluster: 86
+Best Config: {'ticker': 'RSPU.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 23.94%
+
+PTH.O (Invesco Dorsey Wright Healthcare Momentum ETF)
+Cluster: 70
+Best Config: {'ticker': 'PTH.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 74.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 22.50%
+
+RSPN.K (Invesco S&P 500 Eql Wght Industrials ETF)
+Cluster: 78
+Best Config: {'ticker': 'RSPN.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 17.03%
+
+PRF (Invesco FTSE RAFI US 1000 ETF)
+Cluster: 92
+Best Config: {'ticker': 'PRF', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 15.88%
+
+TLTW.K (iShares 20+ Year Treasury Bond BuyWrite Strat ETF)
+Cluster: 142
+Best Config: {'ticker': 'TLTW.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 13.66%
+
+RWJ (Invesco S&P SmallCap 600 Revenue ETF)
+Cluster: 78
+Best Config: {'ticker': 'RWJ', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 13.45%
+
+LTPZ.K (PIMCO 15+ Year US TIPS Index Exchange-Traded Fund)
+Cluster: 105
+Best Config: {'ticker': 'LTPZ.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 2.34%
+
+RSPH.K (Invesco S&P 500 Eql Wght Health Care ETF)
+Cluster: 78
+Best Config: {'ticker': 'RSPH.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 6.50%
+
+PRFZ.O (Invesco FTSE RAFI US 1500 Small Mid ETF)
+Cluster: 92
+Best Config: {'ticker': 'PRFZ.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 5.89%
+
+KRBN.K (KraneShares Global Carbon Strategy ETF)
+Cluster: 48
+Best Config: {'ticker': 'KRBN.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 74.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 3.02%
+
+BBIP.K (JPMorgan BetaBuilders US TIPS 0-5 Year ETF)
+Cluster: 111
+Best Config: {'ticker': 'BBIP.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 1.52%
+
+ICLN.O (iShares Global Clean Energy ETF)
+Cluster: 96
+Best Config: {'ticker': 'ICLN.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 0.25%
+
+TLT.O (iShares 20+ Year Treasury Bond ETF)
+Cluster: 105
+Best Config: {'ticker': 'TLT.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 0.20%
+
+PVI (Invesco Floating Rate Municipal Income ETF)
+Cluster: 107
+Best Config: {'ticker': 'PVI', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -0.07%
+
+IBTE.O (iShares iBonds Dec 2024 Term Treasury ETF)
+Cluster: 107
+Best Config: {'ticker': 'IBTE.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -0.23%
+
+AGZD.O (WisdomTree Interest Rate Hdg US Aggr Bd)
+Cluster: 111
+Best Config: {'ticker': 'AGZD.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -0.86%
+
+TUA (Simplify Short Term Treasury Futures Strategy ETF)
+Cluster: 118
+Best Config: {'ticker': 'TUA', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 74.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 56.27%
+
+EBND.K (SPDR Bloomberg Emerging Markets Local Bond ETF)
+Cluster: 115
+Best Config: {'ticker': 'EBND.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -2.19%
+
+WIP (SPDR FTSE Intl Govt Inflation-Protected Bond ETF)
+Cluster: 115
+Best Config: {'ticker': 'WIP', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -2.82%
+
+IBTG.O (iShares iBonds Dec 2026 Term Treasury ETF)
+Cluster: 111
+Best Config: {'ticker': 'IBTG.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -3.64%
+
+DUG (ProShares UltraShort Energy)
+Cluster: 137
+Best Config: {'ticker': 'DUG', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 74.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -7.45%
+
+FAIL.K (Cambria Global Tail Risk ETF)
+Cluster: 130
+Best Config: {'ticker': 'FAIL.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 74.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -11.88%
+
+IVOL.K (Quadratic Interest Rate Vltly and Infltn Hdg ETF)
+Cluster: 118
+Best Config: {'ticker': 'IVOL.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 74.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -12.66%
+
+VIXM.K (ProShares VIX Mid-Term Futures ETF)
+Cluster: 139
+Best Config: {'ticker': 'VIXM.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 74.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -16.57%
+
+RZG (Invesco S&P SmallCap 600 Pure Growth ETF)
+Cluster: 78
+Best Config: {'ticker': 'RZG', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -26.13%
+
+BMVP.K (Invesco Bloomberg MVP Multi-Factor ETF)
+Cluster: 83
+Best Config: {'ticker': 'BMVP.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -36.73%
+
+HIBS.K (Direxion Daily S&P 500 High Beta Bear 3X Shares)
+Cluster: 156
+Best Config: {'ticker': 'HIBS.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -42.14%
+
+PSCH.O (Invesco S&P SmallCap Health Care ETF)
+Cluster: 78
+Best Config: {'ticker': 'PSCH.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -45.08%
+
+BITI.K (ProShares Short Bitcoin Strategy ETF)
+Cluster: 154
+Best Config: {'ticker': 'BITI.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -64.13%

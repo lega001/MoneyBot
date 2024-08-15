@@ -1,0 +1,31 @@
+﻿Cluster,Symbol,Name,Current_Price,Expected_Annual_Return,Current_RSI,Current_MA_Short,Current_MA_Long,MA_Short_Window,MA_Long_Window,RSI_Window,RSI_Buy_Threshold,RSI_Sell_Threshold,Stop_Loss_Percent,Take_Profit_Percent,Return,Std Dev
+78,XLG,Invesco S&P 500 Top 50 ETF,45.14,37.78,27.02,44.37,43.36,5,120,14,44,64,1.0,10.0,7.73,29.44
+86,RSPU.K,Invesco S&P 500 Eql Wght Utilities ETF,63.19,23.94,38.05,62.83,58.24,5,120,14,44,64,1.0,10.0,5.31,22.08
+70,PTH.O,Invesco Dorsey Wright Healthcare Momentum ETF,45.44,22.5,32.25,44.88,43.12,5,120,14,34,74,1.0,10.0,11.48,30.66
+78,RSPN.K,Invesco S&P 500 Eql Wght Industrials ETF,46.97,17.03,30.73,46.66,46.31,5,120,14,44,64,1.0,10.0,8.39,28.85
+92,PRF,Invesco FTSE RAFI US 1000 ETF,38.58,15.88,27.69,38.27,37.88,5,120,14,34,64,1.0,10.0,5.88,27.36
+142,TLTW.K,iShares 20+ Year Treasury Bond BuyWrite Strat ETF,26.65,13.66,29.62,26.51,25.86,5,120,14,34,64,1.0,10.0,-17.15,14.03
+78,RWJ,Invesco S&P SmallCap 600 Revenue ETF,42.41,13.45,37.14,42.31,41.31,5,120,14,44,64,1.0,10.0,9.87,30.1
+105,LTPZ.K,PIMCO 15+ Year US TIPS Index Exchange-Traded Fund,56.32,7.65,41.51,55.98,54.48,5,120,14,44,64,1.0,10.0,1.5,14.78
+78,RSPH.K,Invesco S&P 500 Eql Wght Health Care ETF,31.0,6.5,23.08,30.91,30.63,5,120,14,44,64,1.0,10.0,7.66,29.44
+92,PRFZ.O,Invesco FTSE RAFI US 1500 Small Mid ETF,38.86,5.89,30.14,38.73,38.51,5,120,14,34,64,1.0,10.0,6.19,30.24
+48,KRBN.K,KraneShares Global Carbon Strategy ETF,33.13,3.02,43.12,32.96,32.19,5,120,14,44,74,1.0,10.0,19.56,33.06
+111,BBIP.K,JPMorgan BetaBuilders US TIPS 0-5 Year ETF,97.545,1.52,43.15,97.46,97.35,5,120,14,44,64,1.0,10.0,-1.54,3.14
+96,ICLN.O,iShares Global Clean Energy ETF,14.06,0.25,42.73,13.96,13.92,5,120,14,44,64,1.0,10.0,2.55,26.91
+105,TLT.O,iShares 20+ Year Treasury Bond ETF,97.89,0.2,42.32,96.67,92.53,5,120,14,44,64,1.0,10.0,1.08,15.32
+107,PVI,Invesco Floating Rate Municipal Income ETF,24.8,-0.07,42.83,24.81,24.81,5,120,14,44,64,1.0,10.0,-0.05,1.19
+107,IBTE.O,iShares iBonds Dec 2024 Term Treasury ETF,23.94,-0.23,39.0,23.92,23.92,5,120,14,44,64,1.0,10.0,-1.17,2.1
+111,AGZD.O,WisdomTree Interest Rate Hdg US Aggr Bd,22.26,-0.86,43.56,22.21,22.18,5,120,14,44,64,1.0,10.0,-1.0,4.29
+118,TUA,Simplify Short Term Treasury Futures Strategy ETF,22.76,-1.62,42.22,22.67,21.64,5,120,14,44,74,1.0,10.0,-4.45,13.26
+115,EBND.K,SPDR Bloomberg Emerging Markets Local Bond ETF,20.69,-2.19,43.15,20.53,20.26,5,120,14,44,64,1.0,10.0,-2.32,9.57
+115,WIP,SPDR FTSE Intl Govt Inflation-Protected Bond ETF,39.52,-2.82,38.19,39.23,39.19,5,120,14,44,64,1.0,10.0,-1.64,9.4
+111,IBTG.O,iShares iBonds Dec 2026 Term Treasury ETF,22.93,-3.64,43.84,22.9,22.65,5,120,14,44,64,1.0,10.0,-2.11,4.05
+137,DUG,ProShares UltraShort Energy,9.93,-8.91,33.85,9.95,9.68,5,120,14,34,74,1.0,10.0,-17.82,54.63
+130,FAIL.K,Cambria Global Tail Risk ETF,17.025,-9.5,24.34,17.06,16.73,5,120,14,34,74,1.0,10.0,-8.52,21.85
+118,IVOL.K,Quadratic Interest Rate Vltly and Infltn Hdg ETF,19.33,-12.66,30.63,19.31,18.82,5,120,14,44,74,1.0,10.0,-3.98,12.71
+139,VIXM.K,ProShares VIX Mid-Term Futures ETF,14.34,-16.57,27.33,15.25,15.12,5,120,14,34,74,1.0,10.0,-15.91,32.84
+78,RZG,Invesco S&P SmallCap 600 Pure Growth ETF,48.7378,-26.13,35.68,48.73,47.82,5,120,14,44,64,1.0,10.0,7.7,29.13
+83,BMVP.K,Invesco Bloomberg MVP Multi-Factor ETF,45.7928,-36.73,33.52,45.32,44.2,5,120,14,44,64,1.0,10.0,6.61,25.8
+156,HIBS.K,Direxion Daily S&P 500 High Beta Bear 3X Shares,25.5,-42.14,28.52,26.46,24.9,5,120,14,34,64,1.0,10.0,-45.52,98.52
+78,PSCH.O,Invesco S&P SmallCap Health Care ETF,44.22,-45.08,29.27,44.36,43.01,5,120,14,44,64,1.0,10.0,10.58,28.41
+154,BITI.K,ProShares Short Bitcoin Strategy ETF,8.15,-64.13,22.42,8.05,7.97,5,120,14,34,64,1.0,10.0,-43.54,56.64
