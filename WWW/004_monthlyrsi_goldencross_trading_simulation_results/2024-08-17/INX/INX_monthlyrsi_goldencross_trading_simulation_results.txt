@@ -1,0 +1,50 @@
+
+KVUE.K (켄뷰)
+Cluster: 22
+Best Config: {'ticker': 'KVUE.K', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 649.54%
+
+GL (글로브 라이프)
+Cluster: 13
+Best Config: {'ticker': 'GL', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 22.16%
+
+PFE (화이자)
+Cluster: 21
+Best Config: {'ticker': 'PFE', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 12.10%
+
+SBUX.O (스타벅스)
+Cluster: 11
+Best Config: {'ticker': 'SBUX.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 6.27%
+
+BMY (브리스톨-마이어스 스큅)
+Cluster: 21
+Best Config: {'ticker': 'BMY', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 3.96%
+
+CLX (크로락스)
+Cluster: 21
+Best Config: {'ticker': 'CLX', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -6.23%
+
+MKTX.O (마켓액세스 홀딩스)
+Cluster: 7
+Best Config: {'ticker': 'MKTX.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -10.27%
+
+PYPL.O (페이팔 홀딩스)
+Cluster: 14
+Best Config: {'ticker': 'PYPL.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -16.03%
+
+HUM (휴마나)
+Cluster: 11
+Best Config: {'ticker': 'HUM', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -19.42%
+
+MTCH.O (매치 그룹)
+Cluster: 10
+Best Config: {'ticker': 'MTCH.O', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -20.72%

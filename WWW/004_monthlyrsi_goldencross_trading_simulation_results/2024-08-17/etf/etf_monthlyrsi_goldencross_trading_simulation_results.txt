@@ -1,0 +1,60 @@
+
+300950 (KODEX 게임산업)
+Cluster: 24
+Best Config: {'ticker': '300950', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 5.70%
+
+300610 (TIGER K게임)
+Cluster: 24
+Best Config: {'ticker': '300610', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 3.67%
+
+306520 (HANARO 200선물인버스)
+Cluster: 26
+Best Config: {'ticker': '306520', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 2.05%
+
+123310 (TIGER 인버스)
+Cluster: 26
+Best Config: {'ticker': '123310', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -2.14%
+
+114800 (KODEX 인버스)
+Cluster: 26
+Best Config: {'ticker': '114800', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -2.42%
+
+145670 (ACE 인버스)
+Cluster: 26
+Best Config: {'ticker': '145670', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -2.62%
+
+261270 (KODEX 미국달러선물인버스)
+Cluster: 25
+Best Config: {'ticker': '261270', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 74.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -3.77%
+
+292560 (TIGER 일본엔선물)
+Cluster: 25
+Best Config: {'ticker': '292560', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 74.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -5.37%
+
+304660 (KODEX 미국30년국채울트라선물(H))
+Cluster: 26
+Best Config: {'ticker': '304660', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -5.44%
+
+253240 (KOSEF 200선물인버스)
+Cluster: 26
+Best Config: {'ticker': '253240', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -5.94%
+
+252410 (RISE 200선물인버스)
+Cluster: 26
+Best Config: {'ticker': '252410', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -6.05%
+
+267490 (RISE 미국장기국채선물레버리지(합성 H))
+Cluster: 26
+Best Config: {'ticker': '267490', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: -11.01%

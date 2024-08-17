@@ -1,0 +1,10 @@
+
+570092 (한투 인버스 2X 유로스탁스50 ETN(H) B)
+Cluster: 14
+Best Config: {'ticker': '570092', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 34.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 31.23%
+
+760004 (키움 인버스 미국달러선물 ETN)
+Cluster: 11
+Best Config: {'ticker': '760004', 'ma_short_window': 5, 'ma_long_window': 120, 'rsi_window': 14, 'rsi_buy_threshold': 44.0, 'rsi_sell_threshold': 64.0, 'stop_loss_percent': 1.0, 'take_profit_percent': 10.0}
+Best Annual Returns: 0.00%

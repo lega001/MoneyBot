@@ -1,0 +1,785 @@
+
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Current Price Evaluation Results</title>
+                <style>
+                    body {
+                        font-family: Arial, sans-serif;
+                        margin: 0;
+                        padding: 20px;
+                    }
+                    table {
+                        width: 100%;
+                        border-collapse: collapse;
+                        margin: 20px 0;
+                        font-size: 18px;
+                        text-align: left;
+                    }
+                    th, td {
+                        padding: 12px;
+                        border: 1px solid #ddd;
+                    }
+                    th {
+                        background-color: #f2f2f2;
+                        position: sticky;
+                        top: 0;
+                        z-index: 1;
+                    }
+                    tr:hover { background-color: #f5f5f5; }
+                </style>
+            </head>
+            <body>
+                <h2>Current Price Evaluation Results for foreign_etf</h2>
+                <table class="dataframe table table-striped">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Cluster</th>
+      <th>Symbol</th>
+      <th>Name</th>
+      <th>Current_Price</th>
+      <th>Expected_Annual_Return</th>
+      <th>Current_RSI</th>
+      <th>Current_MA_Short</th>
+      <th>Current_MA_Long</th>
+      <th>MA_Short_Window</th>
+      <th>MA_Long_Window</th>
+      <th>RSI_Window</th>
+      <th>RSI_Buy_Threshold</th>
+      <th>RSI_Sell_Threshold</th>
+      <th>Stop_Loss_Percent</th>
+      <th>Take_Profit_Percent</th>
+      <th>Return</th>
+      <th>Std Dev</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>142</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/TSL.O/total" target="_blank">TSL.O</a></td>
+      <td>GraniteShares 1.25x Long TSLA Daily ETF</td>
+      <td>8.6100</td>
+      <td>105.70</td>
+      <td>40.57</td>
+      <td>8.18</td>
+      <td>7.56</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-19.69</td>
+      <td>75.08</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/XLG/total" target="_blank">XLG</a></td>
+      <td>Invesco S&P 500 Top 50 ETF</td>
+      <td>46.1200</td>
+      <td>40.63</td>
+      <td>27.02</td>
+      <td>45.27</td>
+      <td>43.44</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>7.89</td>
+      <td>29.44</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/PTF.O/total" target="_blank">PTF.O</a></td>
+      <td>Invesco Dorsey Wright Technology Momentum ETF</td>
+      <td>62.7300</td>
+      <td>37.17</td>
+      <td>40.23</td>
+      <td>59.89</td>
+      <td>58.14</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>15.60</td>
+      <td>32.61</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/RPG/total" target="_blank">RPG</a></td>
+      <td>Invesco S&P 500 Pure Growth ETF</td>
+      <td>37.1400</td>
+      <td>32.99</td>
+      <td>27.17</td>
+      <td>36.48</td>
+      <td>36.08</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>8.83</td>
+      <td>29.55</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/RSPT.K/total" target="_blank">RSPT.K</a></td>
+      <td>Invesco S&P 500 Eql Wght Technology ETF</td>
+      <td>36.6200</td>
+      <td>28.52</td>
+      <td>27.91</td>
+      <td>35.88</td>
+      <td>35.22</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>74</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>11.40</td>
+      <td>32.21</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/PTH.O/total" target="_blank">PTH.O</a></td>
+      <td>Invesco Dorsey Wright Healthcare Momentum ETF</td>
+      <td>46.4000</td>
+      <td>26.35</td>
+      <td>32.25</td>
+      <td>45.66</td>
+      <td>43.15</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>74</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>11.64</td>
+      <td>30.66</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/RSPU.K/total" target="_blank">RSPU.K</a></td>
+      <td>Invesco S&P 500 Eql Wght Utilities ETF</td>
+      <td>63.4300</td>
+      <td>24.46</td>
+      <td>38.05</td>
+      <td>63.13</td>
+      <td>58.41</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>5.34</td>
+      <td>22.07</td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/BABX.O/total" target="_blank">BABX.O</a></td>
+      <td>GraniteShares 2x Long BABA Daily ETF</td>
+      <td>17.0400</td>
+      <td>19.78</td>
+      <td>43.57</td>
+      <td>16.14</td>
+      <td>14.66</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.64</td>
+      <td>70.57</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/RSPN.K/total" target="_blank">RSPN.K</a></td>
+      <td>Invesco S&P 500 Eql Wght Industrials ETF</td>
+      <td>47.5600</td>
+      <td>19.24</td>
+      <td>30.73</td>
+      <td>47.06</td>
+      <td>46.34</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>8.49</td>
+      <td>28.84</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/PRF/total" target="_blank">PRF</a></td>
+      <td>Invesco FTSE RAFI US 1000 ETF</td>
+      <td>39.2200</td>
+      <td>18.83</td>
+      <td>27.69</td>
+      <td>38.67</td>
+      <td>37.92</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>6.00</td>
+      <td>27.36</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/RWJ/total" target="_blank">RWJ</a></td>
+      <td>Invesco S&P SmallCap 600 Revenue ETF</td>
+      <td>43.7900</td>
+      <td>15.02</td>
+      <td>37.14</td>
+      <td>42.73</td>
+      <td>41.35</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>10.11</td>
+      <td>30.10</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/PRFZ.O/total" target="_blank">PRFZ.O</a></td>
+      <td>Invesco FTSE RAFI US 1500 Small Mid ETF</td>
+      <td>39.9800</td>
+      <td>10.69</td>
+      <td>30.14</td>
+      <td>39.18</td>
+      <td>38.55</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>6.40</td>
+      <td>30.24</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/RSPH.K/total" target="_blank">RSPH.K</a></td>
+      <td>Invesco S&P 500 Eql Wght Health Care ETF</td>
+      <td>31.5000</td>
+      <td>9.24</td>
+      <td>23.08</td>
+      <td>31.13</td>
+      <td>30.64</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>7.78</td>
+      <td>29.43</td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/LTPZ.K/total" target="_blank">LTPZ.K</a></td>
+      <td>PIMCO 15+ Year US TIPS Index Exchange-Traded Fund</td>
+      <td>56.1300</td>
+      <td>7.52</td>
+      <td>41.51</td>
+      <td>56.21</td>
+      <td>54.50</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>1.47</td>
+      <td>14.77</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/KRBN.K/total" target="_blank">KRBN.K</a></td>
+      <td>KraneShares Global Carbon Strategy ETF</td>
+      <td>33.2700</td>
+      <td>4.29</td>
+      <td>43.12</td>
+      <td>33.17</td>
+      <td>32.26</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>74</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>19.64</td>
+      <td>33.03</td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/UST/total" target="_blank">UST</a></td>
+      <td>ProShares Ultra 7-10 Year Treasury</td>
+      <td>45.3250</td>
+      <td>1.69</td>
+      <td>43.07</td>
+      <td>45.38</td>
+      <td>42.62</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>1.73</td>
+      <td>13.16</td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/SPTL.K/total" target="_blank">SPTL.K</a></td>
+      <td>SPDR Portfolio Long Term Treasury ETF</td>
+      <td>28.8000</td>
+      <td>0.16</td>
+      <td>43.28</td>
+      <td>28.76</td>
+      <td>27.41</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.92</td>
+      <td>14.01</td>
+    </tr>
+    <tr>
+      <td>113</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/TIPZ.K/total" target="_blank">TIPZ.K</a></td>
+      <td>PIMCO Broad US TIPS Index Exchange-Traded Fund</td>
+      <td>53.2000</td>
+      <td>-0.03</td>
+      <td>41.59</td>
+      <td>53.26</td>
+      <td>52.68</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.28</td>
+      <td>6.14</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/PVI/total" target="_blank">PVI</a></td>
+      <td>Invesco Floating Rate Municipal Income ETF</td>
+      <td>24.8200</td>
+      <td>-0.06</td>
+      <td>42.83</td>
+      <td>24.82</td>
+      <td>24.81</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.04</td>
+      <td>1.19</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/IBTE.O/total" target="_blank">IBTE.O</a></td>
+      <td>iShares iBonds Dec 2024 Term Treasury ETF</td>
+      <td>23.9400</td>
+      <td>-0.23</td>
+      <td>39.00</td>
+      <td>23.93</td>
+      <td>23.92</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-1.16</td>
+      <td>2.10</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/CSHI.K/total" target="_blank">CSHI.K</a></td>
+      <td>NEOS Enhanced Income 1-3 Month T-Bill ETF</td>
+      <td>49.9700</td>
+      <td>-0.31</td>
+      <td>31.28</td>
+      <td>49.90</td>
+      <td>49.85</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.03</td>
+      <td>1.84</td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/VGLT.O/total" target="_blank">VGLT.O</a></td>
+      <td>Vanguard Long-Term Treasury Index Fund;ETF</td>
+      <td>60.9700</td>
+      <td>-0.45</td>
+      <td>42.99</td>
+      <td>60.91</td>
+      <td>58.08</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.76</td>
+      <td>13.79</td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/IBTF.O/total" target="_blank">IBTF.O</a></td>
+      <td>iShares iBonds Dec 2025 Term Treasury ETF</td>
+      <td>23.3000</td>
+      <td>-0.46</td>
+      <td>40.11</td>
+      <td>23.30</td>
+      <td>23.20</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-1.80</td>
+      <td>3.03</td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/AGZD.O/total" target="_blank">AGZD.O</a></td>
+      <td>WisdomTree Interest Rate Hdg US Aggr Bd</td>
+      <td>22.3200</td>
+      <td>-0.82</td>
+      <td>43.56</td>
+      <td>22.26</td>
+      <td>22.19</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-0.97</td>
+      <td>4.29</td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/BBIP.K/total" target="_blank">BBIP.K</a></td>
+      <td>JPMorgan BetaBuilders US TIPS 0-5 Year ETF</td>
+      <td>97.4179</td>
+      <td>-2.08</td>
+      <td>43.15</td>
+      <td>97.51</td>
+      <td>97.34</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-1.63</td>
+      <td>3.13</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/UBT/total" target="_blank">UBT</a></td>
+      <td>ProShares Ultra 20+ Year Treasury</td>
+      <td>21.3300</td>
+      <td>-3.32</td>
+      <td>38.87</td>
+      <td>21.26</td>
+      <td>19.40</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>8.48</td>
+      <td>42.86</td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/SCO/total" target="_blank">SCO</a></td>
+      <td>ProShares UltraShort Bloomberg Crude Oil</td>
+      <td>16.9800</td>
+      <td>-4.65</td>
+      <td>35.89</td>
+      <td>16.61</td>
+      <td>16.45</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-2.51</td>
+      <td>69.31</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/JUCY.K/total" target="_blank">JUCY.K</a></td>
+      <td>Aptus Enhanced Yield ETF</td>
+      <td>23.3600</td>
+      <td>-4.83</td>
+      <td>12.83</td>
+      <td>23.36</td>
+      <td>23.30</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-3.71</td>
+      <td>3.89</td>
+    </tr>
+    <tr>
+      <td>140</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/DUG/total" target="_blank">DUG</a></td>
+      <td>ProShares UltraShort Energy</td>
+      <td>9.7300</td>
+      <td>-9.08</td>
+      <td>33.85</td>
+      <td>9.85</td>
+      <td>9.65</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>74</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-17.93</td>
+      <td>54.62</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/FAIL.K/total" target="_blank">FAIL.K</a></td>
+      <td>Cambria Global Tail Risk ETF</td>
+      <td>16.8350</td>
+      <td>-9.92</td>
+      <td>24.34</td>
+      <td>16.97</td>
+      <td>16.72</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>74</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-8.80</td>
+      <td>21.84</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/RZG/total" target="_blank">RZG</a></td>
+      <td>Invesco S&P SmallCap 600 Pure Growth ETF</td>
+      <td>49.8970</td>
+      <td>-25.26</td>
+      <td>35.68</td>
+      <td>49.18</td>
+      <td>47.87</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>7.88</td>
+      <td>29.12</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/SARK.O/total" target="_blank">SARK.O</a></td>
+      <td>Tradr 2X Short Innovation Daily ETF</td>
+      <td>31.1300</td>
+      <td>-25.30</td>
+      <td>42.67</td>
+      <td>33.45</td>
+      <td>29.84</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>16.63</td>
+      <td>54.44</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/ERY/total" target="_blank">ERY</a></td>
+      <td>Direxion Daily Energy Bear 2x Shares</td>
+      <td>23.4200</td>
+      <td>-25.75</td>
+      <td>34.93</td>
+      <td>23.71</td>
+      <td>23.10</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-18.96</td>
+      <td>71.32</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/BMVP.K/total" target="_blank">BMVP.K</a></td>
+      <td>Invesco Bloomberg MVP Multi-Factor ETF</td>
+      <td>46.3000</td>
+      <td>-36.26</td>
+      <td>33.52</td>
+      <td>45.73</td>
+      <td>44.25</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>6.69</td>
+      <td>25.80</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/HIBS.K/total" target="_blank">HIBS.K</a></td>
+      <td>Direxion Daily S&P 500 High Beta Bear 3X Shares</td>
+      <td>23.2000</td>
+      <td>-44.17</td>
+      <td>28.52</td>
+      <td>24.88</td>
+      <td>24.84</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-46.47</td>
+      <td>98.53</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/PSCH.O/total" target="_blank">PSCH.O</a></td>
+      <td>Invesco S&P SmallCap Health Care ETF</td>
+      <td>45.5200</td>
+      <td>-44.22</td>
+      <td>29.27</td>
+      <td>44.76</td>
+      <td>43.04</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>10.80</td>
+      <td>28.40</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/PNQI.O/total" target="_blank">PNQI.O</a></td>
+      <td>Invesco Nasdaq Internet ETF</td>
+      <td>40.8300</td>
+      <td>-46.89</td>
+      <td>30.45</td>
+      <td>40.13</td>
+      <td>39.87</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>74</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>12.47</td>
+      <td>32.31</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td><a href="https://m.stock.naver.com/worldstock/stock/BITI.K/total" target="_blank">BITI.K</a></td>
+      <td>ProShares Short Bitcoin Strategy ETF</td>
+      <td>8.0100</td>
+      <td>-64.56</td>
+      <td>22.42</td>
+      <td>8.13</td>
+      <td>7.94</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34</td>
+      <td>64</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-43.82</td>
+      <td>56.67</td>
+    </tr>
+  </tbody>
+</table>
+            </body>
+            </html>
+            

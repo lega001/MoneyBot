@@ -1,0 +1,623 @@
+
+        <html>
+        <head>
+        <meta charset='UTF-8'>
+        <title>Trading Simulation Results</title>
+        <style>
+            table { border-collapse: collapse; width: 100%; }
+            th, td { border: 1px solid black; padding: 8px; text-align: left; }
+            th { background-color: #f2f2f2; position: sticky; top: 0; }
+            .table-container { overflow-x: auto; }
+        </style>
+        </head>
+        <body>
+        <h2>Trading Simulation Results for NASDAQ on 2024-08-17</h2>
+        <div class="table-container">
+        <table class="dataframe table table-striped" id="results_table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>ticker</th>
+      <th>name</th>
+      <th>cluster</th>
+      <th>ma_short_window</th>
+      <th>ma_long_window</th>
+      <th>rsi_window</th>
+      <th>rsi_buy_threshold</th>
+      <th>rsi_sell_threshold</th>
+      <th>stop_loss_percent</th>
+      <th>take_profit_percent</th>
+      <th>Best Annual Returns</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="NUTX.O_chart.html">NUTX.O</a></td>
+      <td>뉴텍스 헬스</td>
+      <td>170</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>3.669112e+07</td>
+    </tr>
+    <tr>
+      <td><a href="ORGN.O_chart.html">ORGN.O</a></td>
+      <td>오리진 머터리얼즈</td>
+      <td>139</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>9.404169e+00</td>
+    </tr>
+    <tr>
+      <td><a href="CSLR.O_chart.html">CSLR.O</a></td>
+      <td>컴플리트 솔라리아</td>
+      <td>120</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>2.856513e+00</td>
+    </tr>
+    <tr>
+      <td><a href="ATMVR.O_chart.html">ATMVR.O</a></td>
+      <td>AlphaVest Acquisition Rights Expiry 22nd December 2024</td>
+      <td>26</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>1.383338e+00</td>
+    </tr>
+    <tr>
+      <td><a href="EXAS.O_chart.html">EXAS.O</a></td>
+      <td>이그젝트 사이언시스</td>
+      <td>83</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>8.175785e-01</td>
+    </tr>
+    <tr>
+      <td><a href="XPEL.O_chart.html">XPEL.O</a></td>
+      <td>엑스펠</td>
+      <td>27</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>74.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>7.951932e-01</td>
+    </tr>
+    <tr>
+      <td><a href="FWRD.O_chart.html">FWRD.O</a></td>
+      <td>포워드 에어</td>
+      <td>113</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>6.810701e-01</td>
+    </tr>
+    <tr>
+      <td><a href="ASMB.O_chart.html">ASMB.O</a></td>
+      <td>어셈블리 바이오사이언시스</td>
+      <td>53</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>74.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>2.669757e-01</td>
+    </tr>
+    <tr>
+      <td><a href="GSUN.O_chart.html">GSUN.O</a></td>
+      <td>골든 선 헬스 테크놀로지 그룹</td>
+      <td>94</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>1.900055e-01</td>
+    </tr>
+    <tr>
+      <td><a href="PENN.O_chart.html">PENN.O</a></td>
+      <td>펜 엔터테인먼트</td>
+      <td>96</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>1.850252e-01</td>
+    </tr>
+    <tr>
+      <td><a href="CCLDP.O_chart.html">CCLDP.O</a></td>
+      <td>케어 클라우드 우선주 시리즈 A 11%</td>
+      <td>118</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>1.795458e-01</td>
+    </tr>
+    <tr>
+      <td><a href="SBUX.O_chart.html">SBUX.O</a></td>
+      <td>스타벅스</td>
+      <td>108</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>6.269663e-02</td>
+    </tr>
+    <tr>
+      <td><a href="ACHC.O_chart.html">ACHC.O</a></td>
+      <td>아카디아 헬스케어</td>
+      <td>101</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>5.024713e-02</td>
+    </tr>
+    <tr>
+      <td><a href="NVAX.O_chart.html">NVAX.O</a></td>
+      <td>노바백스</td>
+      <td>82</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>4.111599e-02</td>
+    </tr>
+    <tr>
+      <td><a href="PLMIU.O_chart.html">PLMIU.O</a></td>
+      <td>Plum Acquisition I Units</td>
+      <td>117</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.000000e+00</td>
+    </tr>
+    <tr>
+      <td><a href="PLMI.O_chart.html">PLMI.O</a></td>
+      <td>플럼 애퀴지션 I</td>
+      <td>115</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>0.000000e+00</td>
+    </tr>
+    <tr>
+      <td><a href="MNSBP.O_chart.html">MNSBP.O</a></td>
+      <td>메인스트리트 뱅크셰어스 우선주 시리즈 A 7.50%</td>
+      <td>127</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-3.178878e-03</td>
+    </tr>
+    <tr>
+      <td><a href="ANGI.O_chart.html">ANGI.O</a></td>
+      <td>앤지</td>
+      <td>116</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-5.488959e-03</td>
+    </tr>
+    <tr>
+      <td><a href="KZIA.O_chart.html">KZIA.O</a></td>
+      <td>카지아 테라퓨틱스 ADR</td>
+      <td>72</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-1.188174e-02</td>
+    </tr>
+    <tr>
+      <td><a href="MKTX.O_chart.html">MKTX.O</a></td>
+      <td>마켓액세스 홀딩스</td>
+      <td>93</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-1.026938e-01</td>
+    </tr>
+    <tr>
+      <td><a href="MLAB.O_chart.html">MLAB.O</a></td>
+      <td>메사 래보라토리스</td>
+      <td>103</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-1.935657e-01</td>
+    </tr>
+    <tr>
+      <td><a href="OPINL.O_chart.html">OPINL.O</a></td>
+      <td>오피스 프로퍼티 인컴 트러스트 선순위 채권 6.375% 만기 2050년</td>
+      <td>133</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-1.941467e-01</td>
+    </tr>
+    <tr>
+      <td><a href="OMCL.O_chart.html">OMCL.O</a></td>
+      <td>옴니셀</td>
+      <td>107</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-2.019229e-01</td>
+    </tr>
+    <tr>
+      <td><a href="MTCH.O_chart.html">MTCH.O</a></td>
+      <td>매치 그룹</td>
+      <td>96</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-2.072255e-01</td>
+    </tr>
+    <tr>
+      <td><a href="MTLS.O_chart.html">MTLS.O</a></td>
+      <td>머티리얼라이즈 ADR</td>
+      <td>116</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-2.423184e-01</td>
+    </tr>
+    <tr>
+      <td><a href="COMM.O_chart.html">COMM.O</a></td>
+      <td>콤스코프 홀딩</td>
+      <td>116</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-2.767708e-01</td>
+    </tr>
+    <tr>
+      <td><a href="PTLO.O_chart.html">PTLO.O</a></td>
+      <td>포틸로스</td>
+      <td>140</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-3.104869e-01</td>
+    </tr>
+    <tr>
+      <td><a href="SSRM.O_chart.html">SSRM.O</a></td>
+      <td>SSR 마이닝</td>
+      <td>118</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-3.499778e-01</td>
+    </tr>
+    <tr>
+      <td><a href="XWEL.O_chart.html">XWEL.O</a></td>
+      <td>X웰</td>
+      <td>30</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>74.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-3.567902e-01</td>
+    </tr>
+    <tr>
+      <td><a href="ACB.O_chart.html">ACB.O</a></td>
+      <td>오로라 카나비스</td>
+      <td>148</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-3.631995e-01</td>
+    </tr>
+    <tr>
+      <td><a href="ADD.O_chart.html">ADD.O</a></td>
+      <td>컬러 스타 테크놀로지</td>
+      <td>112</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-4.318017e-01</td>
+    </tr>
+    <tr>
+      <td><a href="SNOA.O_chart.html">SNOA.O</a></td>
+      <td>소노마 파머수티컬스</td>
+      <td>138</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>74.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-4.478570e-01</td>
+    </tr>
+    <tr>
+      <td><a href="TWKS.O_chart.html">TWKS.O</a></td>
+      <td>소트웍스 홀딩</td>
+      <td>155</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-4.577185e-01</td>
+    </tr>
+    <tr>
+      <td><a href="IKNA.O_chart.html">IKNA.O</a></td>
+      <td>아이케나 온콜로지</td>
+      <td>148</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-4.606997e-01</td>
+    </tr>
+    <tr>
+      <td><a href="CMMB.O_chart.html">CMMB.O</a></td>
+      <td>키모맵 테라퓨틱스 ADR</td>
+      <td>152</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>74.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-4.709154e-01</td>
+    </tr>
+    <tr>
+      <td><a href="JG.O_chart.html">JG.O</a></td>
+      <td>오로라 모바일 ADR</td>
+      <td>148</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-4.813895e-01</td>
+    </tr>
+    <tr>
+      <td><a href="CPTN.O_chart.html">CPTN.O</a></td>
+      <td>셉톤</td>
+      <td>92</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-5.057326e-01</td>
+    </tr>
+    <tr>
+      <td><a href="PULM.O_chart.html">PULM.O</a></td>
+      <td>풀매트릭스</td>
+      <td>146</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-5.250027e-01</td>
+    </tr>
+    <tr>
+      <td><a href="AXDX.O_chart.html">AXDX.O</a></td>
+      <td>엑셀러레이트 다이아그노스틱스</td>
+      <td>51</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-6.347306e-01</td>
+    </tr>
+    <tr>
+      <td><a href="LPSN.O_chart.html">LPSN.O</a></td>
+      <td>라이브퍼슨</td>
+      <td>111</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-7.157740e-01</td>
+    </tr>
+    <tr>
+      <td><a href="MGOL.O_chart.html">MGOL.O</a></td>
+      <td>MGO 글로벌</td>
+      <td>11</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-9.753736e-01</td>
+    </tr>
+    <tr>
+      <td><a href="ASNS.O_chart.html">ASNS.O</a></td>
+      <td>악텔리스 네트웍스</td>
+      <td>0</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-9.951550e-01</td>
+    </tr>
+    <tr>
+      <td><a href="ZAPP.O_chart.html">ZAPP.O</a></td>
+      <td>잽 일렉트릭 비이클스 그룹</td>
+      <td>136</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-9.957148e-01</td>
+    </tr>
+    <tr>
+      <td><a href="HOUR.O_chart.html">HOUR.O</a></td>
+      <td>아워 루프</td>
+      <td>148</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>34.0</td>
+      <td>64.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-9.997806e-01</td>
+    </tr>
+    <tr>
+      <td><a href="RGC.O_chart.html">RGC.O</a></td>
+      <td>리젠셀 바이오사이언스 홀딩스</td>
+      <td>9</td>
+      <td>5</td>
+      <td>120</td>
+      <td>14</td>
+      <td>44.0</td>
+      <td>74.0</td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>-9.998402e-01</td>
+    </tr>
+  </tbody>
+</table>
+        </div>
+        </body>
+        </html>
+        
